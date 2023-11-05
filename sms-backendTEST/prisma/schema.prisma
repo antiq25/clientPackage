@@ -1,0 +1,50 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id            Int     @id @default(autoincrement())
+  email         String  @unique
+  emailVerified Boolean @default(false)
+  passwordHash  String
+  passwordSalt  String
+
+  firstName String
+  lastName  String
+
+  listings Listing[]
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+model Listing {
+  id        Int    @id @default(autoincrement())
+  place_url String @unique
+
+  name        String @unique
+  description String?
+
+  dataExpiresIn DateTime?
+
+  reviews Review[] 
+  userId Int
+  user   User @relation(fields: [userId], references: [id])
+}
+
+model Review {
+  id        Int    @id @default(autoincrement())
+  author    String  
+  authorDescription String
+  stars     Int
+  date      String
+  content   String
+
+  listingId Int
+  listing   Listing @relation(fields: [listingId], references: [id])
+}
