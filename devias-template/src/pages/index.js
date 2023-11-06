@@ -1,62 +1,75 @@
-import { useState, useEffect } from 'react';
-import { addDays, subDays, subHours, subMinutes } from 'date-fns';
+'use client';
+
+import ArrowRightIcon from '@untitled-ui/icons-react/build/esm/ArrowRight';
 import PlusIcon from '@untitled-ui/icons-react/build/esm/Plus';
 import Box from '@mui/material/Box';
 import Button from '@mui/material/Button';
 import Container from '@mui/material/Container';
-import Grid from '@mui/material/Grid';
+import Grid from '@mui/material/Unstable_Grid2';
 import Stack from '@mui/material/Stack';
 import SvgIcon from '@mui/material/SvgIcon';
 import Typography from '@mui/material/Typography';
+import { useEffect, useState } from 'react';
 import useUser from '../hooks/decode';
-import { Seo } from 'src/components/seo';
-import { useSettings } from 'src/hooks/use-settings';
+import { Seo } from '../components/seo';
+import { usePageView } from '../hooks/use-page-view';
 import { Layout as DashboardLayout } from 'src/layouts/dashboard';
-import { OverviewBanner } from 'src/sections/dashboard/overview/overview-banner';
-import OverviewDoneTasks from 'src/sections/dashboard/overview/overview-done-tasks';
-import { OverviewEvents } from 'src/sections/dashboard/overview/overview-events';
-import { OverviewInbox } from 'src/sections/dashboard/overview/overview-inbox';
-import { OverviewTransactions } from 'src/sections/dashboard/overview/overview-transactions';
-import { OverviewPendingIssues } from 'src/sections/dashboard/overview/overview-pending-issues';
-import { OverviewSubscriptionUsage } from 'src/sections/dashboard/overview/overview-subscription-usage';
-import { OverviewHelp } from 'src/sections/dashboard/overview/overview-help';
-import { OverviewJobs } from 'src/sections/dashboard/overview/overview-jobs';
-import { OverviewOpenTickets } from 'src/sections/dashboard/overview/overview-open-tickets';
-import { OverviewTips } from 'src/sections/dashboard/overview/overview-tips';
+import { useSettings } from '../hooks/use-settings';
+import { AnalyticsStats } from '../sections/dashboard/overview/analytics-stats';
+import { AnalyticsMostVisited } from '../sections/dashboard/overview/analytics-most-visited';
+import { AnalyticsSocialSources } from '../sections/dashboard/overview/analytics-social-sources';
+import { AnalyticsTrafficSources } from '../sections/dashboard/overview/analytics-traffic-sources';
+import { AnalyticsVisitsByCountry } from '../sections/dashboard/overview/analytics-visits-by-country';
+import { OverviewSubscriptionUsage } from '../sections/dashboard/overview/overview-subscription-usage';
+import { chartData } from '../mockData';
+import BusinessCard from '../components/businessCard';
 import EmailVerificationDialog from '../components/emailverifydialog'; // Adjust the import path as needed
-
-import { dashboardAPI } from 'src/api/bundle';
-
-const now = new Date();
+import CreateListingDialog from '../components/createListingPopUp'; // Adjust the import path as needed
 
 const Page = () => {
   const settings = useSettings();
   const user = useUser();
+
+  const [selectedBusiness, setSelectedBusiness] = useState(chartData[0] || null);
+  const [chartSeries, setChartSeries] = useState([]);
+  const [isCreateListingDialogOpen, setCreateListingDialogOpen] = useState(false);
+
+  const handleOpenCreateListingDialog = () => {
+    setCreateListingDialogOpen(true);
+  };
+
+  const handleCloseCreateListingDialog = () => {
+    setCreateListingDialogOpen(false);
+  };
   // const [listingsCount, setListingsCount] = useState(0);
 
-
   useEffect(() => {
+    if (selectedBusiness && Array.isArray(chartData[selectedBusiness.id])) {
+      const businessChartData = chartData[selectedBusiness.id];
+      const viewsSeries = {
+        name: 'Views',
+        data: businessChartData.map((data) => data.views),
+      };
+      const clicksSeries = {
+        name: 'Clicks',
+        data: businessChartData.map((data) => data.clicks),
+      };
+      setChartSeries([viewsSeries, clicksSeries]);
+    } else {
+      // Handle the case where there is no data for the selected business
+      setChartSeries([]);
+    }
+  }, [selectedBusiness]);
+  
+  // const [listingsCount, setListingsCount] = useState(0);
 
-  //     const fetchListingsCount = async () => {
-  //       try {
-  //         const response = await dashboardAPI.getListing(user.sub);
-  //         if (response && response.message === "Listing found") {
-  //           setListingsCount(response.listing.length); // set the count to the length of the listing array
-  //         }
-  //       } catch (error) {
-  //         console.error('Error fetching listings:', error);
-  //       }
-  //     };
+  useEffect(() => {}, [user]);
 
-  //     fetchListingsCount();
-  //   }
- 
-}, [user]); 
-
+  usePageView();
 
   return (
     <>
-      <Seo title="ShowMyService: Overview" />
+      <Seo title="Show My Service: Dashboard" />
       <Box
         component="main"
         sx={{
@@ -64,64 +77,194 @@ const Page = () => {
           py: 8,
         }}
       >
-           <EmailVerificationDialog />
-
         <Container maxWidth={settings.stretch ? false : 'xl'}>
           <Grid
             container
-            spacing={3}
+            spacing={{
+              xs: 3,
+              lg: 4,
+            }}
           >
+            <Grid xs={12}>
+              <Stack
+                direction="row"
+                justifyContent="space-between"
+                spacing={4}
+              >
+                <Stack spacing={1}>
+                  <Typography variant="h4">Show My Service: Analytics</Typography>
+                </Stack>
+                <Stack
+                  alignItems="center"
+                  direction="row"
+                  spacing={2}
+                >
+     <Button
+      startIcon={<SvgIcon><PlusIcon /></SvgIcon>}
+      variant="contained"
+      onClick={handleOpenCreateListingDialog}
+    >
+      Add New Listing
+    </Button>
+    <CreateListingDialog
+      open={isCreateListingDialogOpen}
+      onClose={handleCloseCreateListingDialog}
+    />
+
+                    <EmailVerificationDialog />
+                </Stack>
+              </Stack>
+            </Grid>
             <Grid
-              item
               xs={12}
               md={4}
             >
-              <OverviewDoneTasks />
+              <AnalyticsStats
+                action={
+                  <Button
+                  color="inherit"
+                  endIcon={
+                    <SvgIcon>
+                        <ArrowRightIcon />
+                      </SvgIcon>
+                    }
+                    size="small"
+                    >
+                    Review Data
+                  </Button>
+                }
+                chartSeries={[
+                  {
+                    data: [0, 170, 242, 98, 63, 56, 85, 171, 209, 163, 204, 21, 264, 0],
+                  },
+                ]}
+                title="Impressions"
+                value="36,6K"
+              />
+                <BusinessCard onBusinessSelect={setSelectedBusiness} />
             </Grid>
             <Grid
-              item
               xs={12}
               md={4}
             >
-              <OverviewPendingIssues amount={12} />
+              <AnalyticsStats
+                action={
+                  <Button
+                    color="inherit"
+                    endIcon={
+                      <SvgIcon>
+                        <ArrowRightIcon />
+                      </SvgIcon>
+                    }
+                    size="small"
+                  >
+                    Site Traffic
+                  </Button>
+                }
+                chartSeries={[
+                  {
+                    data: [0, 245, 290, 187, 172, 106, 15, 210, 202, 19, 18, 3, 212, 0],
+                  },
+                ]}
+                title="Engagements"
+                value="19K"
+              />
             </Grid>
             <Grid
-              item
               xs={12}
               md={4}
             >
-              <OverviewOpenTickets amount={5} />
+              <AnalyticsStats
+                action={
+                  <Button
+                    color="inherit"
+                    endIcon={
+                      <SvgIcon>
+                        <ArrowRightIcon />
+                      </SvgIcon>
+                    }
+                    size="small"
+                  >
+                    Earnings
+                  </Button>
+                }
+                chartSeries={[
+                  {
+                    data: [0, 277, 191, 93, 92, 85, 166, 240, 63, 4, 296, 144, 166, 0],
+                  },
+                ]}
+                title="Spent"
+                value="$41.2K"
+              />
             </Grid>
             <Grid
-              item
               xs={12}
-              md={7}
+              lg={8}
             >
-              <OverviewBanner />
+              <AnalyticsTrafficSources
+                chartSeries={[
+                  {
+                    name: 'Organic',
+                    data: [45, 40, 37, 41, 42, 45, 42],
+                  },
+                  {
+                    name: 'Marketing',
+                    data: [19, 26, 22, 19, 22, 24, 28],
+                  },
+                ]}
+              />
+            </Grid>
+            <Grid
+              xs={12}
+              lg={4}
+            >
+            
+              <AnalyticsMostVisited
+                pages={[
+                  {
+                    bounceRate: 16,
+                    uniqueVisits: 8584,
+                    url: '/',
+                    visitors: 95847,
+                  },
+                  {
+                    bounceRate: 5,
+                    uniqueVisits: 648,
+                    url: '/auth/login',
+                    visitors: 7500,
+                  },
+                  {
+                    bounceRate: 2,
+                    uniqueVisits: 568,
+                    url: '/dashboard',
+                    visitors: 85406,
+                  },
+                  {
+                    bounceRate: 12,
+                    uniqueVisits: 12322,
+                    url: '/blog/top-5-react-frameworks',
+                    visitors: 75050,
+                  },
+                  {
+                    bounceRate: 10,
+                    uniqueVisits: 11645,
+                    url: '/blog/understand-programming-principles',
+                    visitors: 68003,
+                  },
+                  {
+                    bounceRate: 8,
+                    uniqueVisits: 10259,
+                    url: '/blog/design-patterns',
+                    visitors: 49510,
+                  },
+                ]}
+              />
             </Grid>
             <Grid
               item
               xs={12}
               md={5}
             >
-              <OverviewTips
-                sx={{ height: '100%' }}
-                tips={[
-                  {
-                    title: 'New fresh design.',
-                    content:
-                      'Your favorite template has a new trendy look, more customization options, screens & more.',
-                  },
-                  {
-                    title: 'Tip 2.',
-                    content: 'Tip content',
-                  },
-                  {
-                    title: 'Tip 3.',
-                    content: 'Tip content',
-                  },
-                ]}
-              />
             </Grid>
             <Grid
               item
@@ -129,68 +272,22 @@ const Page = () => {
               md={7}
             >
               <OverviewSubscriptionUsage
-                chartSeries={[
-                  {
-                    name: 'This year',
-                    data: [40, 37, 41, 42, 45, 42, 36, 45, 40, 44, 38, 41],
-                  },
-                  {
-                    name: 'Last year',
-                    data: [26, 22, 19, 22, 24, 28, 23, 25, 24, 21, 17, 19],
-                  },
-                ]}
+                chartSeries={chartSeries}
               />
             </Grid>
             <Grid
               item
               xs={12}
               md={5}
-            >
-              <OverviewInbox
-                messages={
-                  [
-                    // ... your messages
-                  ]
-                }
-              />
-            </Grid>
+            ></Grid>
             <Grid
-              item
               xs={12}
-              md={7}
+              lg={4}
             >
-              <OverviewTransactions
-                transactions={
-                  [
-                    // ... your transactions
-                  ]
-                }
+              <AnalyticsSocialSources
+                chartSeries={[10, 10, 20]}
+                labels={['Linkedin', 'Facebook', 'Instagram']}
               />
-            </Grid>
-            <Grid
-              item
-              xs={12}
-              md={5}
-            >
-              <OverviewEvents
-                events={
-                  [
-                    // ... your events
-                  ]
-                }
-              />
-            </Grid>
-            <Grid
-              item
-              xs={6}
-            >
-              <OverviewJobs />
-            </Grid>
-            <Grid
-              item
-              xs={6}
-            >
-              <OverviewHelp />
             </Grid>
           </Grid>
         </Container>
@@ -202,3 +299,4 @@ const Page = () => {
 Page.getLayout = (page) => <DashboardLayout>{page}</DashboardLayout>;
 
 export default Page;
+

@@ -48,6 +48,15 @@ export const useSections = () => {
               </SvgIcon>
             ),
           },
+          {
+            title: 'Business',
+            path: paths.business,
+            icon: (
+              <SvgIcon fontSize="small">
+                <File01Icon />
+              </SvgIcon>
+            ),
+          },
         ],
       },
     ];

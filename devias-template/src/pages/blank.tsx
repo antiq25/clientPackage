@@ -11,6 +11,8 @@ import { Seo } from 'src/components/seo';
 import { useSettings } from 'src/hooks/use-settings';
 import { Layout as DashboardLayout } from 'src/layouts/dashboard';
 import LoginPage from '../components/loginpage';
+import { YourComponent } from '../components/graphpage';
+
 
 const Page: NextPage = () => {
   const settings = useSettings();
@@ -25,6 +27,7 @@ const Page: NextPage = () => {
           py: 8,
         }}
       >
+        <YourComponent />
       </Box>
     </>
   );

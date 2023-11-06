@@ -1,123 +1,276 @@
+'use client';
 
-
-import React, { useState, useEffect } from 'react';
-import { DataGrid } from '@mui/x-data-grid';
-import Button from '@mui/material/Button';
+import ArrowRightIcon from '@untitled-ui/icons-react/build/esm/ArrowRight';
+import PlusIcon from '@untitled-ui/icons-react/build/esm/Plus';
 import Box from '@mui/material/Box';
-import FormPopUp from './formPopUp';
-import useUser from '../hooks/decode';  
-import { dashboardAPI  } from '../api/bundle';  
+import Button from '@mui/material/Button';
+import Container from '@mui/material/Container';
+import Grid from '@mui/material/Unstable_Grid2';
+import Stack from '@mui/material/Stack';
+import SvgIcon from '@mui/material/SvgIcon';
+import Typography from '@mui/material/Typography';
 
-const BusinessListing = () => {
-  const [dataRows, setDataRows] = useState([]);
-  const [selectedRows, setSelectedRows] = useState([]);
-  const [isLoading, setIsLoading] = useState(true);
-  const [isPopupOpen, setIsPopupOpen] = useState(false);
-  const user = useUser();
-  
-  const columns = [
-    { field: 'id', headerName: 'ID', width: 100 },
-    { field: 'name', headerName: 'Name', width: 200 },
-    { field: 'description', headerName: 'Description', width: 300 },
-  ];
+import { Seo } from '../components/seo';
+import { usePageView } from '../hooks/use-page-view';
+import { useSettings } from '../hooks/use-settings';
+import { AnalyticsStats } from '../sections/dashboard/overview/analytics-stats';
+import { AnalyticsMostVisited } from '../sections/dashboard/overview/analytics-most-visited';
+import { AnalyticsSocialSources } from '../sections/dashboard/overview/analytics-social-sources';
+import { AnalyticsTrafficSources } from '../sections/dashboard/overview/analytics-traffic-sources';
+import { AnalyticsVisitsByCountry } from '../sections/dashboard/overview/analytics-visits-by-country';
 
-const initialRows = [
-    { id: '', name: '', description: '' },
-];
+const Page = () => {
+  const settings = useSettings();
 
-  useEffect(() => {
-    if (user) {
-      setIsLoading(true);
-      dashboardAPI.getListing(user.id)
-      .then((response) => {
-          if (response.success) {
-            console.log('Listings:', response);
-            // Transform the listings to the format expected by DataGrid
-            const transformedListings = response.data.listing.map((listing, index) => ({
-              id: listing.id, // Assuming each listing has an 'id' field
-              name: listing.name, // Assuming each listing has a 'name' field
-              description: listing.description, // Assuming each listing has a 'description' field
-            }));
-            setDataRows(transformedListings);
-          } else {
-            // Handle the case where fetching listings is not successful
-            console.error('Failed to fetch listings:', response.error);
-          }
-        })
-        .catch((error) => {
-          console.error('Error fetching listings:', error);
-        })
-        .finally(() => {
-          setIsLoading(false);
-        });
-      }
-    }, [user]);
-   
+  usePageView();
 
-  const handleSelectionChange = (params) => {
-    setSelectedRows(params);
-  };
-
-  const handleAdd = (newData) => {
-    const newBusiness = { id: dataRows.length + 1, ...newData };
-    setDataRows((prevRows) => [...prevRows, newBusiness]);
-  };
-
-  const handleRemove = () => {
-    setDataRows((prevRows) => prevRows.filter((row) => !selectedRows.includes(row.id)));
-    setSelectedRows([]);
-  };
-
-  const handleOpenPopup = () => {
-    setIsPopupOpen(true);
-  };
-
-  const handleClosePopup = () => {
-    setIsPopupOpen(false);
-  };
-
-  const businessFields = [
-    { name: 'id', label: 'ID' },
-    { name: 'name', label: 'Name' },
-    { name: 'description', label: 'Description' },
-  ];
-
-  
   return (
-    <Box>
-      <Box sx={{ display: 'flex', justifyContent: 'space-between', marginBottom: 2 }}>
-        <Button variant="outlined"
-onClick={handleOpenPopup}>
-          Add
-        </Button>
-        <FormPopUp
-          open={isPopupOpen}
-          handleClose={handleClosePopup}
-          fields={businessFields}
-          onSubmit={handleAdd}
-        />
-        <Button variant="outlined"
-onClick={handleRemove}
-disabled={selectedRows.length === 0}>
-          Remove
-        </Button>
+    <>
+      <Seo title="Dashboard: Analytics" />
+      <Box
+        component="main"
+        sx={{
+          flexGrow: 1,
+          py: 8,
+        }}
+      >
+        <Container maxWidth={settings.stretch ? false : 'xl'}>
+          <Grid
+            container
+            spacing={{
+              xs: 3,
+              lg: 4,
+            }}
+          >
+            <Grid xs={12}>
+              <Stack
+                direction="row"
+                justifyContent="space-between"
+                spacing={4}
+              >
+                <Stack spacing={1}>
+                  <Typography variant="h4">Analytics</Typography>
+                </Stack>
+                <Stack
+                  alignItems="center"
+                  direction="row"
+                  spacing={2}
+                >
+                  <Button
+                    startIcon={
+                      <SvgIcon>
+                        <PlusIcon />
+                      </SvgIcon>
+                    }
+                    variant="contained"
+                  >
+                    New Dashboard
+                  </Button>
+                </Stack>
+              </Stack>
+            </Grid>
+            <Grid
+              xs={12}
+              md={4}
+            >
+              <AnalyticsStats
+                action={
+                  <Button
+                    color="inherit"
+                    endIcon={
+                      <SvgIcon>
+                        <ArrowRightIcon />
+                      </SvgIcon>
+                    }
+                    size="small"
+                  >
+                    See sources
+                  </Button>
+                }
+                chartSeries={[
+                  {
+                    data: [0, 170, 242, 98, 63, 56, 85, 171, 209, 163, 204, 21, 264, 0],
+                  },
+                ]}
+                title="Impressions"
+                value="36,6K"
+              />
+            </Grid>
+            <Grid
+              xs={12}
+              md={4}
+            >
+              <AnalyticsStats
+                action={
+                  <Button
+                    color="inherit"
+                    endIcon={
+                      <SvgIcon>
+                        <ArrowRightIcon />
+                      </SvgIcon>
+                    }
+                    size="small"
+                  >
+                    See traffic
+                  </Button>
+                }
+                chartSeries={[
+                  {
+                    data: [0, 245, 290, 187, 172, 106, 15, 210, 202, 19, 18, 3, 212, 0],
+                  },
+                ]}
+                title="Engagements"
+                value="19K"
+              />
+            </Grid>
+            <Grid
+              xs={12}
+              md={4}
+            >
+              <AnalyticsStats
+                action={
+                  <Button
+                    color="inherit"
+                    endIcon={
+                      <SvgIcon>
+                        <ArrowRightIcon />
+                      </SvgIcon>
+                    }
+                    size="small"
+                  >
+                    See campaigns
+                  </Button>
+                }
+                chartSeries={[
+                  {
+                    data: [0, 277, 191, 93, 92, 85, 166, 240, 63, 4, 296, 144, 166, 0],
+                  },
+                ]}
+                title="Spent"
+                value="$41.2K"
+              />
+            </Grid>
+            <Grid
+              xs={12}
+              lg={8}
+            >
+              <AnalyticsTrafficSources
+                chartSeries={[
+                  {
+                    name: 'Organic',
+                    data: [45, 40, 37, 41, 42, 45, 42],
+                  },
+                  {
+                    name: 'Marketing',
+                    data: [19, 26, 22, 19, 22, 24, 28],
+                  },
+                ]}
+              />
+            </Grid>
+            <Grid
+              xs={12}
+              lg={4}
+            >
+              <AnalyticsVisitsByCountry
+                visits={[
+                  {
+                    id: 'us',
+                    name: 'United States',
+                    seoPercentage: 40,
+                    value: 31200,
+                  },
+                  {
+                    id: 'uk',
+                    name: 'United Kingdom',
+                    seoPercentage: 47,
+                    value: 12700,
+                  },
+                  {
+                    id: 'ru',
+                    name: 'Russia',
+                    seoPercentage: 65,
+                    value: 10360,
+                  },
+                  {
+                    id: 'ca',
+                    name: 'Canada',
+                    seoPercentage: 23,
+                    value: 5749,
+                  },
+                  {
+                    id: 'de',
+                    name: 'Germany',
+                    seoPercentage: 45,
+                    value: 2932,
+                  },
+                  {
+                    id: 'es',
+                    name: 'Spain',
+                    seoPercentage: 56,
+                    value: 200,
+                  },
+                ]}
+              />
+            </Grid>
+            <Grid
+              xs={12}
+              lg={8}
+            >
+              <AnalyticsMostVisited
+                pages={[
+                  {
+                    bounceRate: 16,
+                    uniqueVisits: 8584,
+                    url: '/',
+                    visitors: 95847,
+                  },
+                  {
+                    bounceRate: 5,
+                    uniqueVisits: 648,
+                    url: '/auth/login',
+                    visitors: 7500,
+                  },
+                  {
+                    bounceRate: 2,
+                    uniqueVisits: 568,
+                    url: '/dashboard',
+                    visitors: 85406,
+                  },
+                  {
+                    bounceRate: 12,
+                    uniqueVisits: 12322,
+                    url: '/blog/top-5-react-frameworks',
+                    visitors: 75050,
+                  },
+                  {
+                    bounceRate: 10,
+                    uniqueVisits: 11645,
+                    url: '/blog/understand-programming-principles',
+                    visitors: 68003,
+                  },
+                  {
+                    bounceRate: 8,
+                    uniqueVisits: 10259,
+                    url: '/blog/design-patterns',
+                    visitors: 49510,
+                  },
+                ]}
+              />
+            </Grid>
+            <Grid
+              xs={12}
+              lg={4}
+            >
+              <AnalyticsSocialSources
+                chartSeries={[10, 10, 20]}
+                labels={['Linkedin', 'Facebook', 'Instagram']}
+              />
+            </Grid>
+          </Grid>
+        </Container>
       </Box>
-      {isLoading ? (
-        <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', height: 400 }}>
-          Loading...
-        </div>
-      ) : (
-        <Box sx={{ height: 400, width: '100%' }}>
-          <DataGrid
-            rows={dataRows}
-            columns={columns}
-            checkboxSelection
-            onRowSelectionModelChange={handleSelectionChange}
-          />
-        </Box>
-      )}
-    </Box>
+    </>
   );
 };
 
-export default BusinessListing;
+export default Page;
