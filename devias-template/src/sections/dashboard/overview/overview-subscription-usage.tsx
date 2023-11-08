@@ -59,7 +59,7 @@ const useChartOptions = (): ApexOptions => {
     },
     tooltip: {
       y: {
-        formatter: (value: number): string => `${value}k events`,
+        formatter: (value: number): string => `${value} Reviews`,
       },
     },
     xaxis: {
@@ -69,20 +69,7 @@ const useChartOptions = (): ApexOptions => {
       axisTicks: {
         show: false,
       },
-      categories: [
-        'Jan',
-        'Feb',
-        'Mar',
-        'Apr',
-        'May',
-        'Jun',
-        'Jul',
-        'Aug',
-        'Sep',
-        'Oct',
-        'Nov',
-        'Dec',
-      ],
+      categories: ['1', '2', '3', '4', '5'], 
       labels: {
         style: {
           colors: theme.palette.text.secondary,
@@ -109,23 +96,7 @@ export const OverviewSubscriptionUsage: FC<OverviewSubscriptionUsageProps> = (pr
     <Card>
       <CardHeader
         subheader="Based on the selected period"
-        title="Subscription Usage"
-        action={
-          <Tabs value="year">
-            <Tab
-              label="Year"
-              value="year"
-            />
-            <Tab
-              label="Month"
-              value="month"
-            />
-            <Tab
-              label="Week"
-              value="week"
-            />
-          </Tabs>
-        }
+        title="Reviews Rating"
       />
       <Box sx={{ height: 336 }}>
         <Chart

@@ -1,58 +1,71 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import { Typography, Radio, ListItem } from '@mui/material';
 import { FixedSizeList as VirtualizedList } from 'react-window';
 import useUser from '../hooks/decode';
 import { dashboardAPI } from '../api/bundle';
-import {
-  BarChart,
-  Bar,
-  XAxis,
-  YAxis,
-  Tooltip,
-  Legend,
-  ResponsiveContainer,
-  Cell
-} from 'recharts';
+import { OverviewSubscriptionUsage } from '../sections/dashboard/overview/overview-subscription-usage';
 
-const BusinessCard = ({ onBusinessSelect }) => {
+const BusinessCard = ({ onBusinessSelect, refreshTrigger, onSetReviewAggregate }) => {
   const [businesses, setBusinesses] = useState([]);
   const [selectedBusinessId, setSelectedBusinessId] = useState('');
   const [reviewAggregate, setReviewAggregate] = useState([]);
   const user = useUser();
+  const fetchLockRef = useRef(false);
 
   useEffect(() => {
+    if (fetchLockRef.current) {
+      // Exit early if we're already fetching
+      return;
+    }
+    fetchLockRef.current = true; // Set the lock
+
     const fetchListings = async () => {
       if (user) {
         const response = await dashboardAPI.getListing(user.id);
-        const listings = response?.data?.listing?.map((listing) => ({ id: listing.id, name: listing.name })) ?? [];
-        setBusinesses(listings);
-        if (listings.length > 0) {
-          setSelectedBusinessId(listings[0].id);
-          fetchReviewsForListing(listings[0].id);
+        if (response && response.data && response.data.listing) {
+          const listings = response.data.listing.map((listing) => ({
+            id: listing.id,
+            name: listing.name,
+          }));
+          setBusinesses(listings);
+          if (listings.length > 0) {
+            setSelectedBusinessId(listings[0].id);
+            onBusinessSelect(listings[0]);
+            fetchReviewsForListing(listings[0].id);
+          }
         }
       }
     };
 
-    fetchListings();
-  }, [user]);
+    fetchListings().finally(() => {
+      fetchLockRef.current = false; // Release the lock after fetching
+    });
+
+  }, [user, refreshTrigger]); // Dependencies include refreshTrigger
 
   const fetchReviewsForListing = async (listingId) => {
     const reviewsResponse = await dashboardAPI.fetchReviews(listingId);
     if (reviewsResponse?.success) {
       const reviews = reviewsResponse.data.reviews;
       const aggregate = reviews.reduce((acc, review) => {
+        // Ensure all stars are represented, even if count is 0
         acc[review.stars] = (acc[review.stars] || 0) + 1;
         return acc;
-      }, {});
-      const graphData = Object.keys(aggregate).map(star => ({
-        star,
-        reviews: aggregate[star]
+      }, { '1': 0, '2': 0, '3': 0, '4': 0, '5': 0 }); // Initialize all star counts to 0
+
+      // Transform aggregate into an array with objects { star: "Star N", reviews: count }
+      const graphData = Object.entries(aggregate).map(([star, count]) => ({
+        star: `Star ${star}`,
+        reviews: count
       }));
-      setReviewAggregate(graphData);
+
+      onSetReviewAggregate(graphData); // Pass data to parent component
     } else {
       console.error('Failed to fetch reviews:', reviewsResponse.error);
     }
   };
+
+
 
   const handleSelect = (business) => {
     setSelectedBusinessId(business.id);
@@ -63,56 +76,39 @@ const BusinessCard = ({ onBusinessSelect }) => {
   const Row = ({ index, style }) => {
     const business = businesses[index];
     return (
-      <ListItem key={business.id}
-sx={style}
-onClick={() => handleSelect(business)}>
-        <Radio checked={selectedBusinessId === business.id}
-onChange={() => handleSelect(business)} />
+      <ListItem
+        key={business.id}
+        sx={style}
+        onClick={() => handleSelect(business)}
+        selected={selectedBusinessId === business.id}
+      >
+        <Radio
+          checked={selectedBusinessId === business.id}
+          onChange={() => handleSelect(business)}
+        />
         <Typography>{business.name}</Typography>
       </ListItem>
     );
   };
 
-  const BarGraph = ({ data }) => (
-    <div style={{ width: '100%', height: 300 }}>
-      <ResponsiveContainer>
-        <BarChart data={data}
-margin={{ top: 20, right: 30, left: 0, bottom: 5 }}>
-          <XAxis dataKey="star" />
-          <YAxis />
-          <Tooltip />
-          <Legend />
-          <Bar dataKey="reviews"
-fill="#82ca9d"
-barSize={40}>
-            {data.map((entry, index) => (
-              <Cell key={`cell-${index}`}
-fill={entry.star >= 3 ? '#82ca9d' : '#ffc658'} />
-            ))}
-          </Bar>
-        </BarChart>
-      </ResponsiveContainer>
-    </div>
-  );
-
   return (
     <>
-      <Typography variant="h4"
-sx={{ mb: 2 }}>
+      <Typography variant="h4" sx={{ mb: 2 }}>
         Select Business
       </Typography>
       {businesses.length > 0 ? (
-        <VirtualizedList height={300}
-width="100%"
-itemCount={businesses.length}
-itemSize={50}
-outerElementType="div">
+        <VirtualizedList
+          height={300}
+          width="100%"
+          itemCount={businesses.length}
+          itemSize={50}
+          outerElementType="div"
+        >
           {Row}
         </VirtualizedList>
       ) : (
         <Typography>No businesses found.</Typography>
       )}
-      <BarGraph data={reviewAggregate} />
     </>
   );
 };

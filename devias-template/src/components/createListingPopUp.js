@@ -8,7 +8,7 @@ import Button from '@mui/material/Button';
 import { dashboardAPI } from '../api/bundle'; // Adjust the import path as needed
 import useUser from '../hooks/decode'; // Adjust the import path as needed
 
-const CreateListingDialog = ({ open, onClose }) => {
+const CreateListingDialog = ({ open, onClose, onCreationSuccess }) => {
   const [formData, setFormData] = useState({
     name: '',
     reviews_url: '',
@@ -23,20 +23,22 @@ const CreateListingDialog = ({ open, onClose }) => {
   };
 
   const handleSubmit = async () => {
-    // Call API to create a new listing
-    try {
-      const userId = useUser; 
-      const response = await dashboardAPI.createListing(userId, formData.name, formData.reviews_url, formData.description);
-      if (response.success) {
-        console.log('Listing created successfully:', response.data);
-        onClose(); 
-      } else {
-        console.error('Failed to create listing:', response.error);
-      }
-    } catch (error) {
-      console.error('Error creating listing:', error);
+  // Call API to create a new listing
+  try {
+    const userId = useUser; // This seems incorrect. You should call useUser() if it's a hook.
+    const response = await dashboardAPI.createListing(userId, formData.name, formData.reviews_url, formData.description);
+    if (response.success) {
+      console.log('Listing created successfully:', response.data);
+      onCreationSuccess(); // Invoke the callback here
+      onClose(); 
+    } else {
+      console.error('Failed to create listing:', response.error);
     }
-  };
+  } catch (error) {
+    console.error('Error creating listing:', error);
+  }
+};
+
 
   return (
     <Dialog open={open}

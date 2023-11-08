@@ -6,6 +6,7 @@
 *.o
 *.pm.tdy
 *.bs
+/node_modules
 
 # Devel::Cover
 cover_db/

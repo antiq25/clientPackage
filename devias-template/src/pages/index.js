@@ -1,5 +1,4 @@
 'use client';
-
 import ArrowRightIcon from '@untitled-ui/icons-react/build/esm/ArrowRight';
 import PlusIcon from '@untitled-ui/icons-react/build/esm/Plus';
 import Box from '@mui/material/Box';
@@ -23,8 +22,8 @@ import { AnalyticsVisitsByCountry } from '../sections/dashboard/overview/analyti
 import { OverviewSubscriptionUsage } from '../sections/dashboard/overview/overview-subscription-usage';
 import { chartData } from '../mockData';
 import BusinessCard from '../components/businessCard';
-import EmailVerificationDialog from '../components/emailverifydialog'; // Adjust the import path as needed
-import CreateListingDialog from '../components/createListingPopUp'; // Adjust the import path as needed
+import EmailVerificationDialog from '../components/emailverifydialog';
+import CreateListingDialog from '../components/createListingPopUp';
 
 const Page = () => {
   const settings = useSettings();
@@ -33,6 +32,17 @@ const Page = () => {
   const [selectedBusiness, setSelectedBusiness] = useState(chartData[0] || null);
   const [chartSeries, setChartSeries] = useState([]);
   const [isCreateListingDialogOpen, setCreateListingDialogOpen] = useState(false);
+  const [refreshBusinessCard, setRefreshBusinessCard] = useState(false);
+  const [reviewAggregate, setReviewAggregate] = useState([]);
+
+  const handleSetReviewAggregate = (newAggregate) => {
+    const formattedData = newAggregate.map(item => ({
+      x: item.star, // 'x' represents the category on the x-axis.
+      y: item.reviews // 'y' represents the value for that category.
+    }));
+    setReviewAggregate(formattedData);
+  };
+
 
   const handleOpenCreateListingDialog = () => {
     setCreateListingDialogOpen(true);
@@ -41,7 +51,11 @@ const Page = () => {
   const handleCloseCreateListingDialog = () => {
     setCreateListingDialogOpen(false);
   };
-  // const [listingsCount, setListingsCount] = useState(0);
+
+  const reviewChartData = reviewAggregate.map(item => ({
+    name: item.star,
+    data: [item.reviews], // Assuming item.reviews is the count for that star rating
+  }));
 
   useEffect(() => {
     if (selectedBusiness && Array.isArray(chartData[selectedBusiness.id])) {
@@ -60,10 +74,8 @@ const Page = () => {
       setChartSeries([]);
     }
   }, [selectedBusiness]);
-  
-  // const [listingsCount, setListingsCount] = useState(0);
 
-  useEffect(() => {}, [user]);
+  useEffect(() => { }, [user]);
 
   usePageView();
 
@@ -99,19 +111,23 @@ const Page = () => {
                   direction="row"
                   spacing={2}
                 >
-     <Button
-      startIcon={<SvgIcon><PlusIcon /></SvgIcon>}
-      variant="contained"
-      onClick={handleOpenCreateListingDialog}
-    >
-      Add New Listing
-    </Button>
-    <CreateListingDialog
-      open={isCreateListingDialogOpen}
-      onClose={handleCloseCreateListingDialog}
-    />
+                  <Button
+                    startIcon={<SvgIcon><PlusIcon /></SvgIcon>}
+                    variant="contained"
+                    onClick={handleOpenCreateListingDialog}
+                  >
+                    Add New Listing
+                  </Button>
+                  <CreateListingDialog
+                    open={isCreateListingDialogOpen}
+                    onClose={handleCloseCreateListingDialog}
+                    onCreationSuccess={() => {
+                      // This should toggle the state and trigger a re-render of BusinessCard
+                      setRefreshBusinessCard((prev) => !prev);
+                    }}
+                  />
 
-                    <EmailVerificationDialog />
+                  <EmailVerificationDialog />
                 </Stack>
               </Stack>
             </Grid>
@@ -122,14 +138,14 @@ const Page = () => {
               <AnalyticsStats
                 action={
                   <Button
-                  color="inherit"
-                  endIcon={
-                    <SvgIcon>
+                    color="inherit"
+                    endIcon={
+                      <SvgIcon>
                         <ArrowRightIcon />
                       </SvgIcon>
                     }
                     size="small"
-                    >
+                  >
                     Review Data
                   </Button>
                 }
@@ -141,7 +157,7 @@ const Page = () => {
                 title="Impressions"
                 value="36,6K"
               />
-                <BusinessCard onBusinessSelect={setSelectedBusiness} />
+
             </Grid>
             <Grid
               xs={12}
@@ -199,6 +215,22 @@ const Page = () => {
             </Grid>
             <Grid
               xs={12}
+              md={4}
+            >
+              <BusinessCard
+                onBusinessSelect={setSelectedBusiness}
+                refreshTrigger={refreshBusinessCard}
+                onSetReviewAggregate={handleSetReviewAggregate}
+              />
+            </Grid>
+            <Grid
+              xs={12}
+              lg={8}
+            >
+              <OverviewSubscriptionUsage chartSeries={[{ name: 'Reviews', data: reviewAggregate }]} />
+            </Grid>
+            <Grid
+              xs={12}
               lg={8}
             >
               <AnalyticsTrafficSources
@@ -218,7 +250,7 @@ const Page = () => {
               xs={12}
               lg={4}
             >
-            
+
               <AnalyticsMostVisited
                 pages={[
                   {
