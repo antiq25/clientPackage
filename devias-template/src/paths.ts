@@ -9,6 +9,7 @@ export const paths = {
   verifyEmail: '/verify', 
   notFound: '/404',
   serverError: '/500',
-  business: 'business', 
-  testing: 'testing'
+  business: '/business', 
+  testing: 'testing',
+  billing: '/billing'
   };

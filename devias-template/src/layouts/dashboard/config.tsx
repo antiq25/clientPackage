@@ -2,8 +2,8 @@ import type { ReactNode } from 'react';
 import { useMemo } from 'react';
 import { useTranslation } from 'react-i18next';
 import { SvgIcon } from '@mui/material';
-
-import File01Icon from 'src/icons/untitled-ui/duocolor/file-01';
+import PaymentIcon from '@mui/icons-material/Payment';
+import BusinessIcon from '@mui/icons-material/Business';
 import HomeSmileIcon from 'src/icons/untitled-ui/duocolor/home-smile';
 import { tokens } from 'src/locales/tokens';
 import { paths } from 'src/paths';
@@ -31,7 +31,7 @@ export const useSections = () => {
       {
         items: [
           {
-            title: t(tokens.nav.overview),
+            title: t(tokens.nav.dashboard),
             path: paths.index,
             icon: (
               <SvgIcon fontSize="small">
@@ -40,20 +40,20 @@ export const useSections = () => {
             ),
           },
           {
-            title: 'Blank',
-            path: paths.blank,
+            title: t(tokens.nav.business),
+            path: paths.business,
             icon: (
               <SvgIcon fontSize="small">
-                <File01Icon />
+                <BusinessIcon />
               </SvgIcon>
             ),
           },
           {
-            title: 'Business',
-            path: paths.business,
+            title: t(tokens.nav.billing),
+            path: paths.billing,
             icon: (
               <SvgIcon fontSize="small">
-                <File01Icon />
+                <PaymentIcon />
               </SvgIcon>
             ),
           },

@@ -26,9 +26,6 @@ interface AccountPopoverProps {
   open?: boolean;
 }
 
-
-
-
 export const AccountPopover: FC<AccountPopoverProps> = (props) => {
   const { anchorEl, onClose, open, ...other } = props;
   const router = useRouter();

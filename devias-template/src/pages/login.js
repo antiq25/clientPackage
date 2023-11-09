@@ -21,9 +21,9 @@ import { apiHandler } from '../api/bundle';
 
 const Alert = forwardRef((props, ref) => (
   <MuiAlert elevation={6}
-ref={ref}
-variant="filled"
-{...props} />
+    ref={ref}
+    variant="filled"
+    {...props} />
 ));
 Alert.displayName = 'Alert';
 
@@ -33,8 +33,8 @@ const LoginPage = () => {
 
   useEffect(() => {
     setIsClient(true);
-  }, 
-  [router]);
+  },
+    [router]);
 
   const settings = useSettings();
 
@@ -81,26 +81,26 @@ const LoginPage = () => {
   };
 
   return (
-    <>  
+    <>
       <Seo title="Login" />
       <Container maxWidth={settings.stretch ? false : 'xl'}>
-      <Card elevation={14}
-sx={{ margin: '25px' }}>
+        <Card elevation={14}
+          sx={{ margin: '25px' }}>
           <CardHeader
-          subheader={<Typography color="text.secondary"
-            variant="body2">
-            Don&apos;t have an account? &nbsp;
-            <Link href="/register"
+            subheader={<Typography color="text.secondary"
               variant="body2">
-              Register
-            </Link>
-          </Typography>}
-          title="Log in" />
-        <CardContent>
-          <form onSubmit={handleLogin}
-            noValidate>
+              Don&apos;t have an account? &nbsp;
+              <Link href="/register"
+                variant="body2">
+                Register
+              </Link>
+            </Typography>}
+            title="Log in" />
+          <CardContent>
+            <form onSubmit={handleLogin}
+              noValidate>
 
-         <Stack spacing={3}>
+              <Stack spacing={3}>
                 <TextField
                   autoFocus
                   error={Boolean(error)}
@@ -123,7 +123,7 @@ sx={{ margin: '25px' }}>
               </Stack>
               {error && (
                 <FormHelperText error
-sx={{ mt: 3 }}>
+                  sx={{ mt: 3 }}>
                   {error}
                 </FormHelperText>
               )}
@@ -142,15 +142,15 @@ sx={{ mt: 3 }}>
         </Card>
       </Container>
       <Snackbar open={openSnackbar}
-autoHideDuration={6000}
-onClose={handleCloseSnackbar}>
+        autoHideDuration={6000}
+        onClose={handleCloseSnackbar}>
         <Alert onClose={handleCloseSnackbar}
-severity="success"
-sx={{ width: '100%' }}>
+          severity="success"
+          sx={{ width: '100%' }}>
           Login successful! Redirecting...
         </Alert>
       </Snackbar>
-    </>  );
+    </>);
 };
 
 export default LoginPage;

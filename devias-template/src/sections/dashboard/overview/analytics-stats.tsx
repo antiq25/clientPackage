@@ -122,8 +122,6 @@ export const AnalyticsStats: FC<AnalyticsStatsProps> = (props) => {
           />
         </Box>
       </Stack>
-      <Divider />
-      <CardActions>{action}</CardActions>
     </Card>
   );
 };

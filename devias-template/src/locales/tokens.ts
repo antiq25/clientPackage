@@ -3,6 +3,8 @@ export const tokens = {
     languageChanged: 'common.languageChanged',
   },
   nav: {
-    overview: 'nav.overview',
+    dashboard: 'Dashboard',
+    business: 'Business',
+    billing: 'Billing'
   },
 };

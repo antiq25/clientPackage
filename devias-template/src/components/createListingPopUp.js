@@ -16,6 +16,8 @@ const CreateListingDialog = ({ open, onClose, onCreationSuccess }) => {
   });
 
   const handleChange = (event) => {
+    console.log(event);
+    console.log(formData);
     setFormData({
       ...formData,
       [event.target.name]: event.target.value
@@ -26,6 +28,13 @@ const CreateListingDialog = ({ open, onClose, onCreationSuccess }) => {
   // Call API to create a new listing
   try {
     const userId = useUser; // This seems incorrect. You should call useUser() if it's a hook.
+    let value = formData.reviews_url;
+    if (value.includes('\'')) {
+      console.log('found');
+      value = value.replace('\'', "%E2%80%99"); // Replace single quote with two single quotes
+    }
+    formData.reviews_url = value;
+    console.log(formData.reviews_url)
     const response = await dashboardAPI.createListing(userId, formData.name, formData.reviews_url, formData.description);
     if (response.success) {
       console.log('Listing created successfully:', response.data);

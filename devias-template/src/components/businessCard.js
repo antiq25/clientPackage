@@ -3,9 +3,10 @@ import { Typography, Radio, ListItem } from '@mui/material';
 import { FixedSizeList as VirtualizedList } from 'react-window';
 import useUser from '../hooks/decode';
 import { dashboardAPI } from '../api/bundle';
-import { OverviewSubscriptionUsage } from '../sections/dashboard/overview/overview-subscription-usage';
+import Card from '@mui/material/Card';
+import CardHeader from '@mui/material/CardHeader';
 
-const BusinessCard = ({ onBusinessSelect, refreshTrigger, onSetReviewAggregate }) => {
+const BusinessCard = ({ onBusinessSelect, refreshTrigger, onSetReviewAggregate, onSetReviews }) => {
   const [businesses, setBusinesses] = useState([]);
   const [selectedBusinessId, setSelectedBusinessId] = useState('');
   const [reviewAggregate, setReviewAggregate] = useState([]);
@@ -58,7 +59,7 @@ const BusinessCard = ({ onBusinessSelect, refreshTrigger, onSetReviewAggregate }
         star: `Star ${star}`,
         reviews: count
       }));
-
+      onSetReviews(reviews); 
       onSetReviewAggregate(graphData); // Pass data to parent component
     } else {
       console.error('Failed to fetch reviews:', reviewsResponse.error);
@@ -92,13 +93,14 @@ const BusinessCard = ({ onBusinessSelect, refreshTrigger, onSetReviewAggregate }
   };
 
   return (
-    <>
-      <Typography variant="h4" sx={{ mb: 2 }}>
-        Select Business
-      </Typography>
+    <Card>
+      <CardHeader
+        subheader="Business List"
+        title="Select Business"
+      />
       {businesses.length > 0 ? (
         <VirtualizedList
-          height={300}
+          height={336}
           width="100%"
           itemCount={businesses.length}
           itemSize={50}
@@ -107,9 +109,9 @@ const BusinessCard = ({ onBusinessSelect, refreshTrigger, onSetReviewAggregate }
           {Row}
         </VirtualizedList>
       ) : (
-        <Typography>No businesses found.</Typography>
+        <Typography sx={{padding: '0px 25px 25px 0px'}}>No businesses found.</Typography>
       )}
-    </>
+    </Card>
   );
 };
 
