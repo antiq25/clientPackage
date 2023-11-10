@@ -1,21 +1,17 @@
-import type { NextPage } from 'next';
 import PlusIcon from '@untitled-ui/icons-react/build/esm/Plus';
 import Box from '@mui/material/Box';
-import Button from '@mui/material/Button';
 import Container from '@mui/material/Container';
-import Stack from '@mui/material/Stack';
-import SvgIcon from '@mui/material/SvgIcon';
-import Typography from '@mui/material/Typography';
-import ChartPage from '../components/ChartPage';
+import { Card, CardHeader } from '@mui/material';
 import { Seo } from 'src/components/seo';
 import { useSettings } from 'src/hooks/use-settings';
 import { Layout as DashboardLayout } from 'src/layouts/dashboard';
-import LoginPage from '../components/loginpage';
-import  BusinessPage  from '../components/MapReviews';
+import BusinessMap from '../components/MapReviews';
+import { usePageView } from '../hooks/use-page-view';
 
-
-const Page: NextPage = () => {
+const Page = () => {
   const settings = useSettings();
+  // usePageView();
+
 
   return (
     <>
@@ -24,11 +20,21 @@ const Page: NextPage = () => {
         component="main"
         sx={{
           flexGrow: 1,
-          py: 8,
+          py: 2,
         }}
       >
-        <BusinessPage />
+                <Container maxWidth={settings.stretch ? false : 'xl'}>
+
+        <Card>
+          <CardHeader subheader="Map"  
+
+           />
+            <BusinessMap />
+        </Card>
+        </Container>
+
       </Box>
+      
     </>
   );
 };

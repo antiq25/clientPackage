@@ -5,6 +5,8 @@ export const tokens = {
   nav: {
     dashboard: 'Dashboard',
     business: 'Business',
-    billing: 'Billing'
+    billing: 'Billing',
+    map: 'Map',
+    trends: 'Trends'
   },
 };

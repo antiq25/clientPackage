@@ -49,6 +49,24 @@ export const useSections = () => {
             ),
           },
           {
+            title: t(tokens.nav.map),
+            path: paths.map,
+            icon: (
+              <SvgIcon fontSize="small">
+                <BusinessIcon />
+              </SvgIcon>
+            ),
+          },
+          {
+            title: t(tokens.nav.trends),
+            path: paths.trends,
+            icon: (
+              <SvgIcon fontSize="small">
+                <BusinessIcon />
+              </SvgIcon>
+            ),
+          },
+          {
             title: t(tokens.nav.billing),
             path: paths.billing,
             icon: (

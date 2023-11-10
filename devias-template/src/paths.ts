@@ -10,6 +10,7 @@ export const paths = {
   notFound: '/404',
   serverError: '/500',
   business: '/business', 
-  testing: 'testing',
-  billing: '/billing'
+  trends: 'trends',
+  billing: '/billing',
+  map: '/map'
   };
