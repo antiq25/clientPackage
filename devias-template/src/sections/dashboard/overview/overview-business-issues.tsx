@@ -1,21 +1,20 @@
 import type { FC } from 'react';
 import PropTypes from 'prop-types';
-import ArrowRightIcon from '@untitled-ui/icons-react/build/esm/ArrowRight';
 import Box from '@mui/material/Box';
 import Button from '@mui/material/Button';
 import Card from '@mui/material/Card';
 import CardActions from '@mui/material/CardActions';
 import Divider from '@mui/material/Divider';
 import Stack from '@mui/material/Stack';
-import SvgIcon from '@mui/material/SvgIcon';
 import Typography from '@mui/material/Typography';
+import BusinessIcon from '@mui/icons-material/Business';
 
-interface OverviewPendingIssuesProps {
+interface OverviewBusinessIssuesProps {
   amount: number;
 }
 
-export const OverviewPendingIssues: FC<OverviewPendingIssuesProps> = (props) => {
-  const { amount } = props;
+export const OverviewBusinessIssues: FC<OverviewBusinessIssuesProps> = (props) => {
+  const { name } = props;
 
   return (
     <Card>
@@ -33,7 +32,8 @@ export const OverviewPendingIssues: FC<OverviewPendingIssuesProps> = (props) => 
       >
         <div>
           <img
-            src="/assets/iconly/iconly-glass-info.svg"
+            src="/assets/iconly/rating.svg"
+            style={{ filter: 'invert(1)' }}
             width={48}
           />
         </div>
@@ -42,34 +42,20 @@ export const OverviewPendingIssues: FC<OverviewPendingIssuesProps> = (props) => 
             color="text.secondary"
             variant="body2"
           >
-            Pending Issues
+            Business Name
           </Typography>
           <Typography
             color="text.primary"
             variant="h4"
           >
-            {amount}
+            { name }
           </Typography>
         </Box>
       </Stack>
-      <Divider />
-      <CardActions>
-        <Button
-          color="inherit"
-          endIcon={
-            <SvgIcon>
-              <ArrowRightIcon />
-            </SvgIcon>
-          }
-          size="small"
-        >
-          Google Reviews
-        </Button>
-      </CardActions>
     </Card>
   );
 };
 
-OverviewPendingIssues.propTypes = {
+OverviewBusinessIssues.propTypes = {
   amount: PropTypes.number.isRequired,
 };

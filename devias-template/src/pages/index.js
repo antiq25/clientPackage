@@ -1,5 +1,4 @@
 'use client';
-import ArrowRightIcon from '@untitled-ui/icons-react/build/esm/ArrowRight';
 import PlusIcon from '@untitled-ui/icons-react/build/esm/Plus';
 import Box from '@mui/material/Box';
 import Button from '@mui/material/Button';
@@ -14,11 +13,6 @@ import { Seo } from '../components/seo';
 import { usePageView } from '../hooks/use-page-view';
 import { Layout as DashboardLayout } from 'src/layouts/dashboard';
 import { useSettings } from '../hooks/use-settings';
-import { AnalyticsStats } from '../sections/dashboard/overview/analytics-stats';
-import { AnalyticsMostVisited } from '../sections/dashboard/overview/analytics-most-visited';
-import { AnalyticsSocialSources } from '../sections/dashboard/overview/analytics-social-sources';
-import { AnalyticsTrafficSources } from '../sections/dashboard/overview/analytics-traffic-sources';
-import { AnalyticsVisitsByCountry } from '../sections/dashboard/overview/analytics-visits-by-country';
 import { OverviewSubscriptionUsage } from '../sections/dashboard/overview/overview-subscription-usage';
 import { chartData } from '../mockData';
 import BusinessCard from '../components/businessCard';
@@ -137,7 +131,6 @@ const Page = () => {
                 </Stack>
               </Stack>
             </Grid>
-            
             <Grid
               xs={12}
               md={5}

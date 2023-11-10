@@ -5,6 +5,9 @@ import { SvgIcon } from '@mui/material';
 import PaymentIcon from '@mui/icons-material/Payment';
 import BusinessIcon from '@mui/icons-material/Business';
 import HomeSmileIcon from 'src/icons/untitled-ui/duocolor/home-smile';
+import MapIcon from '@mui/icons-material/Map';
+import TrendingUpIcon from '@mui/icons-material/TrendingUp';
+import WidgetsIcon from '@mui/icons-material/Widgets';
 import { tokens } from 'src/locales/tokens';
 import { paths } from 'src/paths';
 
@@ -53,7 +56,7 @@ export const useSections = () => {
             path: paths.map,
             icon: (
               <SvgIcon fontSize="small">
-                <BusinessIcon />
+                <MapIcon />
               </SvgIcon>
             ),
           },
@@ -62,7 +65,16 @@ export const useSections = () => {
             path: paths.trends,
             icon: (
               <SvgIcon fontSize="small">
-                <BusinessIcon />
+                <TrendingUpIcon />
+              </SvgIcon>
+            ),
+          },
+          {
+            title: t(tokens.nav.pixel),
+            path: paths.pixel,
+            icon: (
+              <SvgIcon fontSize="small">
+                <WidgetsIcon />
               </SvgIcon>
             ),
           },

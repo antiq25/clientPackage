@@ -109,7 +109,7 @@ const BusinessCard = ({ onBusinessSelect, refreshTrigger, onSetReviewAggregate, 
           {Row}
         </VirtualizedList>
       ) : (
-        <Typography sx={{padding: '0px 25px 25px 0px'}}>No businesses found.</Typography>
+        <Typography sx={{padding: '0px 25px 25px 25px'}}>No businesses found</Typography>
       )}
     </Card>
   );

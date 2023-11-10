@@ -18,7 +18,6 @@ const plans = [
 
 
 const PlanCard = ({ plan }) => {
-    // Splitting the price into main and decimal values
 
     return (
         <Paper elevation={3} style={{

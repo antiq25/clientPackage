@@ -61,7 +61,7 @@ const ScrapedReviews = ({ reviews }) => {
                     pagination
                     disableColumnMenu
                     onRowClick={(params) => setSelectedReview(params.row)}
-                    sx={{ paddingLeft: '16px', paddingRight: '16px', height: 500, width: '100%' }}
+                    sx={{ paddingLeft: '16px', paddingRight: '16px', height: 500, width: '100%', border: 0 }}
                 />
             )}
             {/* Dialog to display full review content */}

@@ -1,14 +1,18 @@
 'use client';
+import ArrowRightIcon from '@untitled-ui/icons-react/build/esm/ArrowRight';
+import PlusIcon from '@untitled-ui/icons-react/build/esm/Plus';
 import Box from '@mui/material/Box';
+import Button from '@mui/material/Button';
 import Container from '@mui/material/Container';
 import Grid from '@mui/material/Unstable_Grid2';
 import Stack from '@mui/material/Stack';
+import SvgIcon from '@mui/material/SvgIcon';
 import Typography from '@mui/material/Typography';
 import { Seo } from '../components/seo';
 import { usePageView } from '../hooks/use-page-view';
 import { Layout as DashboardLayout } from 'src/layouts/dashboard';
 import { useSettings } from '../hooks/use-settings';
-import Business from '../components/business';
+import PixelTracking from '../components/pixelTracking';
 
 const Page = () => {
   const settings = useSettings();
@@ -40,7 +44,23 @@ const Page = () => {
                 spacing={4}
               >
                 <Stack spacing={1}>
-                  <Typography variant="h4">Business</Typography>
+                  <Typography variant="h4">Pixel</Typography>
+                </Stack>
+                <Stack
+                  alignItems="center"
+                  direction="row"
+                  spacing={2}
+                >
+                  <Button
+                    startIcon={
+                      <SvgIcon>
+                        <PlusIcon />
+                      </SvgIcon>
+                    }
+                    variant="contained"
+                  >
+                    Create Listing
+                  </Button>
                 </Stack>
               </Stack>
             </Grid>
@@ -48,7 +68,7 @@ const Page = () => {
               xs={12}
               lg={12}
             >
-              <Business />
+              <PixelTracking />
             </Grid>
           </Grid>
         </Container>

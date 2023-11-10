@@ -12,5 +12,6 @@ export const paths = {
   business: '/business', 
   trends: 'trends',
   billing: '/billing',
-  map: '/map'
+  map: '/map',
+  pixel: '/pixel',
   };

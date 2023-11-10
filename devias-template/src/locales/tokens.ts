@@ -7,6 +7,7 @@ export const tokens = {
     business: 'Business',
     billing: 'Billing',
     map: 'Map',
-    trends: 'Trends'
+    trends: 'Trends',
+    pixel: 'Pixel',
   },
 };
