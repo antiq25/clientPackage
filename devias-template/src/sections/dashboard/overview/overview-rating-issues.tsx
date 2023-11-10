@@ -1,12 +1,10 @@
 import type { FC } from 'react';
 import PropTypes from 'prop-types';
 import Box from '@mui/material/Box';
-import Button from '@mui/material/Button';
 import Card from '@mui/material/Card';
-import CardActions from '@mui/material/CardActions';
-import Divider from '@mui/material/Divider';
 import Stack from '@mui/material/Stack';
 import Typography from '@mui/material/Typography';
+import StarOutlineIcon from '@mui/icons-material/StarOutline';
 
 interface OverviewRatingIssuesProps {
   amount: number;
@@ -30,11 +28,7 @@ export const OverviewRatingIssues: FC<OverviewRatingIssuesProps> = (props) => {
         }}
       >
         <div>
-          <img
-            src="/assets/iconly/rating.svg"
-            style={{ filter: 'invert(1)' }}
-            width={48}
-          />
+          <StarOutlineIcon sx={{ fontSize: 50 }}/>
         </div>
         <Box sx={{ flexGrow: 1 }}>
           <Typography
@@ -45,7 +39,7 @@ export const OverviewRatingIssues: FC<OverviewRatingIssuesProps> = (props) => {
           </Typography>
           <Typography
             color="text.primary"
-            variant="h4"
+            variant="h5"
           >
             {amount}
           </Typography>

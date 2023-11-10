@@ -150,8 +150,8 @@ const BusinessMap = ({review, rating, business}) => {
   return (
     <Card>
       <CardHeader 
-      title="Map"
-      subheader="Select a location to retrieve the rating and reviews number data" />
+      title="Select a location to retrieve the rating and reviews number data"
+      subheader="Select any business" />
       <GoogleMap
         style={{paddingLeft: '16px', paddingRight: '16px'}}
         mapContainerStyle={containerStyle}

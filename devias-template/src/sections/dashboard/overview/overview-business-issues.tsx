@@ -31,11 +31,7 @@ export const OverviewBusinessIssues: FC<OverviewBusinessIssuesProps> = (props) =
         }}
       >
         <div>
-          <img
-            src="/assets/iconly/rating.svg"
-            style={{ filter: 'invert(1)' }}
-            width={48}
-          />
+          <BusinessIcon sx={{ fontSize: 50 }}/>
         </div>
         <Box sx={{ flexGrow: 1 }}>
           <Typography
@@ -46,7 +42,7 @@ export const OverviewBusinessIssues: FC<OverviewBusinessIssuesProps> = (props) =
           </Typography>
           <Typography
             color="text.primary"
-            variant="h4"
+            variant="h5"
           >
             { name }
           </Typography>
