@@ -150,7 +150,7 @@ const BusinessMap = ({review, rating, business}) => {
   return (
     <Card>
       <CardHeader 
-      title="Select a location to retrieve the rating and reviews number data"
+      title="Businesses Map"
       subheader="Select any business" />
       <GoogleMap
         style={{paddingLeft: '16px', paddingRight: '16px'}}

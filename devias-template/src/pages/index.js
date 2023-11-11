@@ -144,6 +144,7 @@ const Page = () => {
             </Grid>
             <Grid
               xs={12}
+              md={7}
               lg={7}
             >
               <OverviewSubscriptionUsage chartSeries={[{ name: 'Reviews', data: reviewAggregate }]} />

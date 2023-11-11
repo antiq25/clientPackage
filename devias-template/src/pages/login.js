@@ -83,7 +83,7 @@ const LoginPage = () => {
   return (
     <>
       <Seo title="Login" />
-      <Container maxWidth={settings.stretch ? false : 'xl'}>
+      <Container maxWidth={settings.stretch ? false : 'sm'} sx={{paddingTop: '200px'}}>
         <Card elevation={14}
           sx={{ margin: '25px' }}>
           <CardHeader

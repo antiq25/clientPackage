@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { DataGrid } from '@mui/x-data-grid';
 import { Typography, Skeleton, Dialog, DialogTitle, DialogContent, DialogContentText, DialogActions, Button } from '@mui/material';
-import AccountCircleIcon from '@mui/icons-material/AccountCircle';
+import Grid from '@mui/material/Unstable_Grid2';
 import Card from '@mui/material/Card';
 import CardHeader from '@mui/material/CardHeader';
 
@@ -65,11 +65,17 @@ const ScrapedReviews = ({ reviews }) => {
                 />
             )}
             {/* Dialog to display full review content */}
-            <Dialog open={Boolean(selectedReview)} onClose={handleClose}>
+            <Dialog open={Boolean(selectedReview)} onClose={handleClose} fullWidth={true} maxWidth={'md'}>
                 <DialogTitle>Full Review</DialogTitle>
                 <DialogContent>
                     <DialogContentText>
-                        {selectedReview?.fullReview}
+                        Rating: {selectedReview?.stars}
+                    </DialogContentText>
+                    <DialogContentText>
+                        Date: {selectedReview?.date}
+                    </DialogContentText>
+                    <DialogContentText>
+                        Review: {selectedReview?.fullReview}
                     </DialogContentText>
                 </DialogContent>
                 <DialogActions>

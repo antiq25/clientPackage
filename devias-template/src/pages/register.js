@@ -62,7 +62,7 @@ const RegisterPage = () => {
   };
 
   return (
-    <Container maxWidth="sm">
+    <Container maxWidth='sm' sx={{paddingTop: '200px'}}>
       <Card>
         <CardContent>
           <Typography variant="h5">Register</Typography>

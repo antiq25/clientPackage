@@ -8,6 +8,7 @@ import HomeSmileIcon from 'src/icons/untitled-ui/duocolor/home-smile';
 import MapIcon from '@mui/icons-material/Map';
 import TrendingUpIcon from '@mui/icons-material/TrendingUp';
 import WidgetsIcon from '@mui/icons-material/Widgets';
+import PixelIcon from '@mui/icons-material/Grain';
 import { tokens } from 'src/locales/tokens';
 import { paths } from 'src/paths';
 
@@ -72,6 +73,15 @@ export const useSections = () => {
           {
             title: t(tokens.nav.pixel),
             path: paths.pixel,
+            icon: (
+              <SvgIcon fontSize="small">
+                <PixelIcon />
+              </SvgIcon>
+            ),
+          },
+          {
+            title: t(tokens.nav.widget),
+            path: paths.widget,
             icon: (
               <SvgIcon fontSize="small">
                 <WidgetsIcon />

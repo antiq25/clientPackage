@@ -10,9 +10,10 @@ import { useSettings } from 'src/hooks/use-settings';
 import { Layout as DashboardLayout } from 'src/layouts/dashboard';
 import BusinessMap from '../components/MapReviews';
 import { usePageView } from '../hooks/use-page-view';
-import {OverviewReviewIssues} from '../sections/dashboard/overview/overview-review-issues';
-import {OverviewRatingIssues} from '../sections/dashboard/overview/overview-rating-issues';
-import {OverviewBusinessIssues} from '../sections/dashboard/overview/overview-business-issues';
+import { OverviewReviewIssues } from '../sections/dashboard/overview/overview-review-issues';
+import { OverviewRatingIssues } from '../sections/dashboard/overview/overview-rating-issues';
+import { OverviewBusinessIssues } from '../sections/dashboard/overview/overview-business-issues';
+import { OverviewTips } from 'src/sections/dashboard/overview/overview-tips';
 
 const Page = () => {
   const settings = useSettings();
@@ -63,6 +64,42 @@ const Page = () => {
                 </Stack>
               </Stack>
             </Grid>
+
+            <Grid
+              xs={12}
+              md={12}
+            >
+              <OverviewTips
+                sx={{ height: '100%' }}
+                tips={[
+                  {
+                    title: 'Explore the Map',
+                    content:
+                      'Use your mouse or touchpad to navigate around the map. Scroll to zoom in and out to find businesses in your area of interest.',
+                  },
+                  {
+                    title: 'Business Information at a Glance',
+                    content:
+                      'Click on any business pin to see a brief overview including the business name, total number of reviews, and average rating.',
+                  },
+                  {
+                    title: 'Detailed Business Insights',
+                    content:
+                      'After selecting a business, check the overview components on the dashboard for detailed insights and metrics.',
+                  },
+                  {
+                    title: 'Refresh Data',
+                    content:
+                      'If you navigate to a new area of the map, click on a business to refresh the data displayed in the overview components.',
+                  },
+                  {
+                    title: 'Full Screen View',
+                    content:
+                      'For an immersive experience, you can use the full screen option provided by your browser when viewing the map.',
+                  },
+                ]}
+              />
+            </Grid>
             <Grid
               xs={12}
               md={4}
@@ -85,7 +122,7 @@ const Page = () => {
               xs={12}
               lg={12}
             >
-              <BusinessMap review={setReviewsCount} rating={setRating} business={setBusiness}/>
+              <BusinessMap review={setReviewsCount} rating={setRating} business={setBusiness} />
             </Grid>
           </Grid>
         </Container>

@@ -9,5 +9,6 @@ export const tokens = {
     map: 'Map',
     trends: 'Trends',
     pixel: 'Pixel',
+    widget: 'Widget',
   },
 };
