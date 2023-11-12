@@ -1,8 +1,9 @@
 'use client';
 import React, { useState } from 'react';
-import { getJson } from 'serpapi'; // 
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer } from 'recharts';
 import { TextField, Button, Box, Typography } from '@mui/material';
+import axios from 'axios';
+import { authAPI } from '../api/bundle';
 
 const Trends = () => {
   const [trends, setTrends] = useState([]);
@@ -14,23 +15,27 @@ const Trends = () => {
     event.preventDefault();
     setIsLoading(true);
     setError(null);
+  
     try {
-      const response = await getJson({
-        engine: "google_trends",
-        q: query,
-        api_key: "06c6147102f36fdb70ce1d59c0231414d082d1511f9b39d47ea5e0457e13c185",
-      });
-      const formattedTrends = response.interest_over_time.timeline_data.map(item => ({
-        date: item.date,
-        value: item.values[0].extracted_value,
-      }));
-      setTrends(formattedTrends);
+      const response = await authAPI.fetchGoogleTrends(query);
+  
+      if (response.success) {
+        const formattedTrends = response.data.interest_over_time.timeline_data.map(item => ({
+          date: item.date,
+          value: item.values[0].extracted_value,
+        }));
+        setTrends(formattedTrends);
+      } else {
+        throw new Error(response.error);
+      }
     } catch (error) {
       setError(error.message);
     } finally {
       setIsLoading(false);
     }
   };
+  
+  
 
   return (
     <Box sx={{ p: 4 }}>

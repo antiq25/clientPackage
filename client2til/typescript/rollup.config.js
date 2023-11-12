@@ -1,25 +1,22 @@
 import resolve from '@rollup/plugin-node-resolve';
 import commonjs from '@rollup/plugin-commonjs';
-import esbuild from 'rollup-plugin-esbuild';
+import  esbuild  from 'rollup-plugin-esbuild';
 
 export default {
-  input: 'bundle.ts', // Your entry file
+  input: '../typescript/bundle.ts', // Your entry file
   output: {
     dir: './api/dist',
-    format: 'esm',
+    format: 'es',
     sourcemap: false,
   },
   plugins: [
-    // Add these before esbuild in the plugins array
-    resolve({
-      browser: false, // Adjust this if you're bundling for Node.js instead
-    }),
+    resolve({ browser: false }),
     commonjs(),
     esbuild({
-      // ... other esbuild options
+      target: 'esnext',
+      minify: false,
+      legalComments: 'none',
     }),
-    // ... other plugins
   ],
-  // To silence the warning, tell Rollup which imports to treat as external
   external: ['axios'],
 };

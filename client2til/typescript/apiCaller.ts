@@ -1,6 +1,6 @@
 import { ISignup, ILogin } from './interfaces'
-import { apiClient } from './apiConfig.js'
-import { apiCall } from './apiHelper.js'
+import apiClient from './apiConfig.js'
+import apiCall  from './apiHelper.js'
 
 export const authAPIEndpoints = {
   signUp: '/auth/signup',

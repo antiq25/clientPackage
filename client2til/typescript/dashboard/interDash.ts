@@ -1,5 +1,5 @@
-import { apiCall } from '../apiHelper.js'
-import { apiClient } from '../apiConfig.js'
+import apiCall  from '../apiHelper.js'
+import  apiClient  from '../apiConfig.js'
 
 export const dashboardAPIEndpoints: IDashboardEndpoints = {
   createListing: '/dashboard/create-listing',

@@ -1,0 +1,7 @@
+https://localhost:4443 {
+    # Reverse proxy API calls to the specified api_port
+    reverse_proxy /api/* http://localhost:3000
+
+    # Then, reverse proxy everything else to the specified server_port
+    reverse_proxy http://localhost:3001
+}

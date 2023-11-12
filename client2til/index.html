@@ -114,6 +114,10 @@
         <button type="submit">Fetch Reviews</button>
     </form>
 
+    <h1>Google Trends Keyword Search</h1>
+    <input type="text" id="keywordInput" placeholder="Enter a keyword">
+    <button id="searchButton">Search Trends</button>
+    <pre id="results"></pre>
 
         </div>
         <div id="error-message" style="color: red;"></div>
@@ -121,6 +125,25 @@
         </div>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/1.6.0/axios.min.js"></script>
         <script type="module" src="./bundleutil//api/dist/index.js"></script>
+        <script>
+          document.getElementById('searchButton').addEventListener('click', function() {
+            const keyword = document.getElementById('keywordInput').value;
+            if (keyword) {
+                fetch(`http://localhost:3002/trends?keyword=${encodeURIComponent(keyword)}`)
+                    .then(response => response.json())
+                    .then(data => {
+                        document.getElementById('results').textContent = JSON.stringify(data, null, 2);
+                    })
+                    .catch(error => {
+                        console.error('Error:', error);
+                        document.getElementById('results').textContent = 'Error fetching data';
+                    });
+            } else {
+                alert('Please enter a keyword');
+            }
+        });
+        
+        </script>
         <!-- <script type="module">
           import axios from 'https://cdn.jsdelivr.net/npm/axios@1.6.0/+esm'
 

@@ -1,10 +1,12 @@
 import axios, { AxiosError } from 'axios'
-// import axios from 'https://cdn.jsdelivr.net/npm/axios@1.6.0/+esm'
 
-export const apiClient = axios.create({
+const apiClient = axios.create({
   baseURL: 'http://localhost:3000/api/v1',
   headers: {
-    'Content-Type': 'application/json'
+    'Content-Type': 'application/json',
+    'Access-Control-Allow-Origin': '*', // Allow requests from any origin
+    'Access-Control-Allow-Methods': 'GET, POST, PUT, DELETE', // Allow specific HTTP methods
+    'Access-Control-Allow-Headers': 'Content-Type, Authorization', // Allow specific headers
   },
   withCredentials: true
 })
@@ -23,3 +25,4 @@ apiClient.interceptors.request.use(
   }
 )
 
+export default apiClient;
