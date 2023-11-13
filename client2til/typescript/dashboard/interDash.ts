@@ -1,4 +1,4 @@
-import apiCall  from '../apiHelper.js'
+import { apiCall }  from '../apiHelper.js'
 import  apiClient  from '../apiConfig.js'
 
 export const dashboardAPIEndpoints: IDashboardEndpoints = {

@@ -69,7 +69,7 @@ const useChartOptions = (): ApexOptions => {
       axisTicks: {
         show: false,
       },
-      categories: ['1', '2', '3', '4', '5'], 
+      categories: ['1', '2', '3', '4', '5'],
       labels: {
         style: {
           colors: theme.palette.text.secondary,

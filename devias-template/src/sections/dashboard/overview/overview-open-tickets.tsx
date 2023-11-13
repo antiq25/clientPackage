@@ -13,7 +13,7 @@ import Typography from '@mui/material/Typography';
 interface OverviewOpenTicketsProps {
   amount: number;
 }
- 
+
 export const OverviewOpenTickets: FC<OverviewOpenTicketsProps> = (props) => {
   const { amount } = props;
 

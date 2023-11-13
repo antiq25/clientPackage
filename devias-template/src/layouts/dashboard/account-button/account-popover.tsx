@@ -16,7 +16,7 @@ import { RouterLink } from 'src/components/router-link';
 import { useRouter } from 'src/hooks/use-router';
 import { paths } from 'src/paths';
 import useLogout from '../../../hooks/logout';
-import useUser from '../../../hooks/decode';  
+import useUser from '../../../hooks/decode';
 import { apiHandler } from '../../../api/bundle';
 import { FC, useState, useEffect, useCallback } from 'react';
 
@@ -46,8 +46,7 @@ export const AccountPopover: FC<AccountPopoverProps> = (props) => {
       toast.error('An error occurred while fetching profile information.');
     }
   };
-  
-  
+
   const handleLogout = useCallback(async (): Promise<void> => {
     try {
       onClose?.();
@@ -64,9 +63,6 @@ export const AccountPopover: FC<AccountPopoverProps> = (props) => {
     getUserInfo();
   }, []);
 
-
-
-
   return (
     <Popover
       anchorEl={anchorEl}
@@ -81,17 +77,17 @@ export const AccountPopover: FC<AccountPopoverProps> = (props) => {
       {...other}
     >
       <Box sx={{ p: 2 }}>
-      {userInfo && (
-  <>
-    <Typography variant="body1">{`${userInfo.firstName} ${userInfo.lastName}`}</Typography>
-    <Typography color="text.secondary"
-variant="body2">
-      {userInfo.email}
-    </Typography>
-  </>
-)}
-
-
+        {userInfo && (
+          <>
+            <Typography variant="body1">{`${userInfo.firstName} ${userInfo.lastName}`}</Typography>
+            <Typography
+              color="text.secondary"
+              variant="body2"
+            >
+              {userInfo.email}
+            </Typography>
+          </>
+        )}
       </Box>
       <Divider />
       <Box sx={{ p: 1 }}>

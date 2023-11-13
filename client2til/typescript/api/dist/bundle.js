@@ -1,4 +1,5 @@
 import axios from 'axios'
+/*** ------------------------------------------------------------------ ***/
 
 const apiCall = async (type, call, successMessage, errorMessagePrefix) => {
   try {
@@ -17,24 +18,20 @@ const apiCall = async (type, call, successMessage, errorMessagePrefix) => {
     }
   }
 }
-const showSuccessMessage = (type, message) => console.log(generateMessage('success', type, message))
-const showErrorMessage = (type, message) => console.log(generateMessage('error', type, message))
-const generateMessage = (messageType, type, message) => `[${messageType.toUpperCase()}] ${type}: ${message}`
+const showSuccessMessage = (type, message) =>
+  console.log(generateMessage('success', type, message))
+const showErrorMessage = (type, message) =>
+  console.log(generateMessage('error', type, message))
+const generateMessage = (messageType, type, message) =>
+  `[${messageType.toUpperCase()}] ${type}: ${message}`
 
-var apiHelper = /*#__PURE__*/ Object.freeze({
-  __proto__: null,
-  showSuccessMessage: showSuccessMessage,
-  showErrorMessage: showErrorMessage,
-  generateMessage: generateMessage,
-  default: apiCall
-})
+/*** ------------------------------------------------------------------ ***/
 
 const apiClient = axios.create({
   baseURL: 'http://localhost:3000/api/v1',
   headers: {
     'Content-Type': 'application/json',
     'Access-Control-Allow-Origin': '*',
-    // Allow requests from any origin
     'Access-Control-Allow-Methods': 'GET, POST, PUT, DELETE',
     // Allow specific HTTP methods
     'Access-Control-Allow-Headers': 'Content-Type, Authorization'
@@ -43,41 +40,53 @@ const apiClient = axios.create({
   withCredentials: true
 })
 apiClient.interceptors.request.use(
-  config => {
+  (config) => {
     const token = localStorage.getItem('token')
     if (token) {
       config.headers['Authorization'] = `Bearer ${token}`
     }
     return config
   },
-  error => {
+  (error) => {
     console.error('Error in request interceptor:', error)
     return Promise.reject(error)
   }
 )
+/*** ------------------------------------------------------------------ ***/
 
 const authAPIEndpoints = {
   signUp: '/auth/signup',
   login: '/auth/login',
   updateProfile: '/profile/update',
-  verifyEmail: code => `/auth/verify?code=${code}`,
+  verifyEmail: (code) => `/auth/verify?code=${code}`,
   resendEmailVerification: '/auth/request-email-verif',
   fetchProfile: '/profile/fetch',
   forgotPassword: '/recovery/forgot-password',
-  resetPassword: '/recovery/reset-password'
+  resetPassword: '/recovery/reset-password',
+  createListing: '/dashboard/create-listing',
+  getListing: '/dashboard/get-listing',
+  fetchReviews: '/dashboard/fetch-reviews'
 }
 const authAPI = {
-  signup: data =>
-    apiCall('signUp', () => apiClient.post(authAPIEndpoints.signUp, data), 'Signup successful', 'Signup failed'),
-  login: data =>
-    apiCall('login', () => apiClient.post(authAPIEndpoints.login, data), 'Login successful', 'Login failed').then(
-      response => {
-        if (response.success && response.data?.token?.token) {
-          localStorage.setItem('token', response.data.token.token)
-        }
-        return response
-      }
+  signup: (data) =>
+    apiCall(
+      'signUp',
+      () => apiClient.post(authAPIEndpoints.signUp, data),
+      'Signup successful',
+      'Signup failed'
     ),
+  login: (data) =>
+    apiCall(
+      'login',
+      () => apiClient.post(authAPIEndpoints.login, data),
+      'Login successful',
+      'Login failed'
+    ).then((response) => {
+      if (response.success && response.data?.token?.token) {
+        localStorage.setItem('token', response.data.token.token)
+      }
+      return response
+    }),
   updateProfile: (id, data) =>
     apiCall(
       'updateProfile',
@@ -85,97 +94,46 @@ const authAPI = {
       'Profile updated',
       'Updating profile failed'
     ),
-  verifyEmail: code =>
+  verifyEmail: (code) =>
     apiCall(
       'verifyEmail',
       () => apiClient.get(authAPIEndpoints.verifyEmail(code)),
       'Email verified',
       'Email verification failed'
     ),
-  resendEmailVerification: data =>
+  resendEmailVerification: (data) =>
     apiCall(
       'resendEmailVerification',
       () => apiClient.post(authAPIEndpoints.resendEmailVerification, data),
       'Verification email resent',
       'Resending verification email failed'
     ),
-  getProfile: id =>
+  getProfile: (id) =>
     apiCall(
       'fetchProfile',
       () => apiClient.get(authAPIEndpoints.fetchProfile),
       'Profile fetched',
       'Fetching profile failed'
     ),
-  forgotPassword: email =>
+  forgotPassword: (email) =>
     apiCall(
       'forgotPassword',
-      () => apiClient.post(authAPIEndpoints.forgotPassword, {email}),
+      () => apiClient.post(authAPIEndpoints.forgotPassword, { email }),
       'Forgot password email sent',
       'Forgot password failed'
     ),
   resetPassword: (code, password) =>
     apiCall(
       'resetPassword',
-      () => apiClient.post(authAPIEndpoints.resetPassword, {code, password}),
+      () => apiClient.post(authAPIEndpoints.resetPassword, { code, password }),
       'Password reset successful',
       'Password reset failed'
-    )
-}
-
-var apiCaller = /*#__PURE__*/ Object.freeze({
-  __proto__: null,
-  authAPIEndpoints: authAPIEndpoints,
-  authAPI: authAPI
-})
-
-const handleSignup = (email, password, firstName, lastName) => {
-  return authAPI.signup({email, password, firstName, lastName})
-}
-const handleLogin = (email, password) => {
-  return authAPI.login({email, password})
-}
-const handleVerifyEmail = code => {
-  return authAPI.verifyEmail(code)
-}
-const handleResendEmailVerification = email => {
-  return authAPI.resendEmailVerification({email})
-}
-const handleGetProfile = id => {
-  return authAPI.getProfile(id)
-}
-const handleUpdateProfile = (id, profileData) => {
-  return authAPI.updateProfile(id, profileData)
-}
-const handleForgotPassword = email => {
-  return authAPI.forgotPassword(email)
-}
-const handleResetPassword = (token, password) => {
-  return authAPI.resetPassword(token, password)
-}
-
-var api_wrap = /*#__PURE__*/ Object.freeze({
-  __proto__: null,
-  handleSignup: handleSignup,
-  handleLogin: handleLogin,
-  handleVerifyEmail: handleVerifyEmail,
-  handleResendEmailVerification: handleResendEmailVerification,
-  handleGetProfile: handleGetProfile,
-  handleUpdateProfile: handleUpdateProfile,
-  handleForgotPassword: handleForgotPassword,
-  handleResetPassword: handleResetPassword
-})
-
-const dashboardAPIEndpoints = {
-  createListing: '/dashboard/create-listing',
-  getListing: '/dashboard/get-listing',
-  fetchReviews: '/dashboard/fetch-reviews'
-}
-const dashboardAPI = {
+    ),
   createListing: (userId, name, reviews_url, description) =>
     apiCall(
       'createListing',
       () =>
-        apiClient.post(dashboardAPIEndpoints.createListing, {
+        apiClient.post(authAPIEndpoints.createListing, {
           userId,
           name,
           reviews_url,
@@ -188,8 +146,8 @@ const dashboardAPI = {
     apiCall(
       'getListing',
       () =>
-        apiClient.get(dashboardAPIEndpoints.getListing, {
-          params: {userId, listingName}
+        apiClient.get(authAPIEndpoints.getListing, {
+          params: { userId, listingName }
         }),
       'Listing fetched',
       'Fetching listing failed'
@@ -198,15 +156,76 @@ const dashboardAPI = {
     apiCall(
       'fetchReviews',
       () =>
-        apiClient.get(dashboardAPIEndpoints.fetchReviews, {
-          params: {listingId, max_reviews}
+        apiClient.get(authAPIEndpoints.fetchReviews, {
+          params: { listingId, max_reviews }
         }),
       'Reviews fetched',
       'Fetching reviews failed'
-    ),
-  fetchListing: function (listingName) {
-    throw new Error('Function not implemented.')
-  }
+    )
 }
 
-export {apiHelper as apiCall, apiClient, api_wrap as apiHandler, apiCaller as authAPI, dashboardAPI}
+/*** ------------------------------------------------------------------ ***/
+
+const handleSignup = (email, password, firstName, lastName) => {
+  return authAPI.signup({ email, password, firstName, lastName })
+}
+const handleLogin = (email, password) => {
+  return authAPI.login({ email, password })
+}
+const handleVerifyEmail = (code) => {
+  return authAPI.verifyEmail(code)
+}
+const handleResendEmailVerification = (email) => {
+  return authAPI.resendEmailVerification({ email })
+}
+const handleGetProfile = (id) => {
+  return authAPI.getProfile(id)
+}
+const handleUpdateProfile = (id, profileData) => {
+  return authAPI.updateProfile(id, profileData)
+}
+const handleForgotPassword = (email) => {
+  return authAPI.forgotPassword(email)
+}
+const handleResetPassword = (token, password) => {
+  return authAPI.resetPassword(token, password)
+}
+const handleCreateListing = (userId, name, reviews_url, description) => {
+  return authAPI.createListing(userId, name, reviews_url, description)
+}
+const handleGetListing = (userId, listingName) => {
+  return authAPI.getListing(userId, listingName)
+}
+const handleFetchReviews = (listingId, max_reviews) => {
+  return authAPI.fetchReviews(listingId, max_reviews)
+}
+
+/*** ------------------------------------------------------------------ ***/
+
+var apiWrap = /*#__PURE__*/ Object.freeze({
+  __proto__: null,
+  handleSignup: handleSignup,
+  handleLogin: handleLogin,
+  handleVerifyEmail: handleVerifyEmail,
+  handleResendEmailVerification: handleResendEmailVerification,
+  handleGetProfile: handleGetProfile,
+  handleUpdateProfile: handleUpdateProfile,
+  handleForgotPassword: handleForgotPassword,
+  handleResetPassword: handleResetPassword,
+  handleCreateListing: handleCreateListing,
+  handleGetListing: handleGetListing,
+  handleFetchReviews: handleFetchReviews
+})
+
+export {
+  apiCall,
+  apiClient as apiConfig,
+  apiWrap as apiHandler,
+  authAPI,
+  authAPIEndpoints,
+  generateMessage,
+  showErrorMessage,
+  showSuccessMessage
+}
+
+/*** ------------------------------------------------------------------ ***/

@@ -1,7 +1,7 @@
 import { AxiosResponse } from 'axios';
 
 // Modular API call wrapper to handle all calls, errors, and successes.
-const apiCall = async (
+export const apiCall = async (
   type: string,
   call: any,
   successMessage: string,
@@ -51,4 +51,3 @@ export const generateMessage = (
   message: string
 ) => `[${messageType.toUpperCase()}] ${type}: ${message}`;
 
-export default apiCall;

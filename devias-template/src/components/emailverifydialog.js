@@ -55,23 +55,30 @@ const EmailVerificationDialog = () => {
 
   // Render the dialog with actions
   return (
-    <Dialog open={open}
-onClose={handleClose}>
+    <Dialog
+      open={open}
+      onClose={handleClose}
+    >
       <DialogTitle>Email Verification Needed</DialogTitle>
       <DialogContent>
         <DialogContentText>
-          Before proceeding, please check your email for a verification code. If you haven't received it, you can request a new one.
+          Before proceeding, please check your email for a verification code. If you haven't
+          received it, you can request a new one.
         </DialogContentText>
       </DialogContent>
       <DialogActions>
         <Button onClick={handleClose}>Later</Button>
-        <Button onClick={handleVerifyNow}
-color="primary">
+        <Button
+          onClick={handleVerifyNow}
+          color="primary"
+        >
           Verify Now
         </Button>
-        <Link component="button"
-variant="body2"
-onClick={handleResendCode}>
+        <Link
+          component="button"
+          variant="body2"
+          onClick={handleResendCode}
+        >
           Didn't get a code?
         </Link>
       </DialogActions>

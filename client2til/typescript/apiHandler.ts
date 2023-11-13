@@ -1,5 +1,4 @@
 import { authAPI } from './apiCaller.js'
-
 export const showSuccessMessage = (type: string, message: string) =>
   console.log(generateMessage('success', type, message))
 export const showErrorMessage = (type: string, message: string) =>
@@ -9,6 +8,7 @@ export const generateMessage = (
   type: string,
   message: string
 ) => `[${messageType.toUpperCase()}] ${type}: ${message}`
+
 
 export const handleAPIRequest = async (
   apiCall: (...args: any[]) => Promise<any>,

@@ -54,7 +54,7 @@ const Page = () => {
               xs={12}
               lg={12}
             >
-                <Billing />
+              <Billing />
             </Grid>
           </Grid>
         </Container>
@@ -64,6 +64,5 @@ const Page = () => {
 };
 
 Page.getLayout = (page) => <DashboardLayout>{page}</DashboardLayout>;
-
 
 export default Page;

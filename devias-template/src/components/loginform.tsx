@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Box, TextField, Button, Typography } from '@mui/material';
-import { handleLogin } from '../api/bundle.js'; // Update with the correct path
+import   { apiHandler } from  '../api/bundle.js'; // Update with the correct path
 
 interface LoginFormProps {
   onSuccess: () => void; // Function to call on successful login
@@ -15,11 +15,11 @@ const LoginForm: React.FC<LoginFormProps> = ({ onSuccess, onError }) => {
   const login = async () => {
     setIsLoading(true);
     try {
-      const response = await handleLogin(email, password);
-      if (response.success) {
+      const response = await apiHandler.handleLogin(email, password);
+      if (response) {
         onSuccess();
       } else {
-        onError(response.error);
+        onError(response);
       }
     } catch (error) {
       onError('An unexpected error occurred.');

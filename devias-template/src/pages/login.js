@@ -12,18 +12,19 @@ import {
   Container,
   Stack,
   Typography,
-  Alert as MuiAlert
+  Alert as MuiAlert,
 } from '@mui/material';
 import { Seo } from 'src/components/seo';
 import { useSettings } from 'src/hooks/use-settings';
 import { apiHandler } from '../api/bundle';
 
-
 const Alert = forwardRef((props, ref) => (
-  <MuiAlert elevation={6}
+  <MuiAlert
+    elevation={6}
     ref={ref}
     variant="filled"
-    {...props} />
+    {...props}
+  />
 ));
 Alert.displayName = 'Alert';
 
@@ -33,8 +34,7 @@ const LoginPage = () => {
 
   useEffect(() => {
     setIsClient(true);
-  },
-    [router]);
+  }, [router]);
 
   const settings = useSettings();
 
@@ -83,23 +83,36 @@ const LoginPage = () => {
   return (
     <>
       <Seo title="Login" />
-      <Container maxWidth={settings.stretch ? false : 'sm'} sx={{paddingTop: '200px'}}>
-        <Card elevation={14}
-          sx={{ margin: '25px' }}>
+      <Container
+        maxWidth={settings.stretch ? false : 'sm'}
+        sx={{ paddingTop: '200px' }}
+      >
+        <Card
+          elevation={14}
+          sx={{ margin: '25px' }}
+        >
           <CardHeader
-            subheader={<Typography color="text.secondary"
-              variant="body2">
-              Don&apos;t have an account? &nbsp;
-              <Link href="/register"
-                variant="body2">
-                Register
-              </Link>
-            </Typography>}
-            title="Log in" />
+            subheader={
+              <Typography
+                color="text.secondary"
+                variant="body2"
+              >
+                Don&apos;t have an account? &nbsp;
+                <Link
+                  href="/register"
+                  variant="body2"
+                >
+                  Register
+                </Link>
+              </Typography>
+            }
+            title="Log in"
+          />
           <CardContent>
-            <form onSubmit={handleLogin}
-              noValidate>
-
+            <form
+              onSubmit={handleLogin}
+              noValidate
+            >
               <Stack spacing={3}>
                 <TextField
                   autoFocus
@@ -122,8 +135,10 @@ const LoginPage = () => {
                 />
               </Stack>
               {error && (
-                <FormHelperText error
-                  sx={{ mt: 3 }}>
+                <FormHelperText
+                  error
+                  sx={{ mt: 3 }}
+                >
                   {error}
                 </FormHelperText>
               )}
@@ -141,16 +156,21 @@ const LoginPage = () => {
           </CardContent>
         </Card>
       </Container>
-      <Snackbar open={openSnackbar}
+      <Snackbar
+        open={openSnackbar}
         autoHideDuration={6000}
-        onClose={handleCloseSnackbar}>
-        <Alert onClose={handleCloseSnackbar}
+        onClose={handleCloseSnackbar}
+      >
+        <Alert
+          onClose={handleCloseSnackbar}
           severity="success"
-          sx={{ width: '100%' }}>
+          sx={{ width: '100%' }}
+        >
           Login successful! Redirecting...
         </Alert>
       </Snackbar>
-    </>);
+    </>
+  );
 };
 
 export default LoginPage;

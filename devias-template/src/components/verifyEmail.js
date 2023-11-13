@@ -54,8 +54,10 @@ const VerifyEmail = () => {
       >
         <DialogTitle>Your email is not verified</DialogTitle>
         <DialogActions>
-          <Button onClick={() => setShowVerificationDialog(false)}
-color="primary">
+          <Button
+            onClick={() => setShowVerificationDialog(false)}
+            color="primary"
+          >
             Close
           </Button>
         </DialogActions>
@@ -68,8 +70,10 @@ color="primary">
           placeholder="Verification Code"
           required
         />
-        <button type="submit"
-disabled={isSubmitting}>
+        <button
+          type="submit"
+          disabled={isSubmitting}
+        >
           {isSubmitting ? 'Verifying...' : 'Verify Email'}
         </button>
       </form>

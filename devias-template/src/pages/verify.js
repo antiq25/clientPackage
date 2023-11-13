@@ -10,7 +10,7 @@ import {
   Container,
   Stack,
   Typography,
-  Alert as MuiAlert
+  Alert as MuiAlert,
 } from '@mui/material';
 import { Seo } from 'src/components/seo';
 import { useSettings } from 'src/hooks/use-settings';
@@ -18,10 +18,12 @@ import { apiHandler } from '../api/bundle';
 import useUser from '../hooks/decode';
 
 const Alert = forwardRef((props, ref) => (
-  <MuiAlert elevation={6}
-ref={ref}
-variant="filled"
-{...props} />
+  <MuiAlert
+    elevation={6}
+    ref={ref}
+    variant="filled"
+    {...props}
+  />
 ));
 Alert.displayName = 'Alert';
 
@@ -60,21 +62,23 @@ const VerifyEmailPage = () => {
     }
     setOpenSnackbar(false);
   };
- 
-  useEffect(() => {
-  }, [user]); 
 
+  useEffect(() => {}, [user]);
 
   return (
-    <>  
+    <>
       <Seo title="Verify Email" />
       <Container maxWidth={settings.stretch ? false : 'xl'}>
-        <Card elevation={14}
-sx={{ margin: '25px' }}>
+        <Card
+          elevation={14}
+          sx={{ margin: '25px' }}
+        >
           <CardHeader title="Email Verification" />
           <CardContent>
-            <form onSubmit={(e) => e.preventDefault()}
-noValidate>
+            <form
+              onSubmit={(e) => e.preventDefault()}
+              noValidate
+            >
               <Stack spacing={3}>
                 <TextField
                   autoFocus
@@ -87,8 +91,10 @@ noValidate>
                   value={code}
                 />
                 {error && (
-                  <Typography color="error"
-variant="body2">
+                  <Typography
+                    color="error"
+                    variant="body2"
+                  >
                     {error}
                   </Typography>
                 )}
@@ -106,12 +112,16 @@ variant="body2">
           </CardContent>
         </Card>
       </Container>
-      <Snackbar open={openSnackbar}
-autoHideDuration={6000}
-onClose={handleCloseSnackbar}>
-        <Alert onClose={handleCloseSnackbar}
-severity="success"
-sx={{ width: '100%' }}>
+      <Snackbar
+        open={openSnackbar}
+        autoHideDuration={6000}
+        onClose={handleCloseSnackbar}
+      >
+        <Alert
+          onClose={handleCloseSnackbar}
+          severity="success"
+          sx={{ width: '100%' }}
+        >
           Email verified! Redirecting to login...
         </Alert>
       </Snackbar>

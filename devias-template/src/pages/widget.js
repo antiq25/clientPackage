@@ -81,7 +81,10 @@ const Page = () => {
               xs={12}
               md={12}
             >
-              <ReviewSelector listingId={selectedListing?.id} onSelect={setSelectedReview} />
+              <ReviewSelector
+                listingId={selectedListing?.id}
+                onSelect={setSelectedReview}
+              />
             </Grid>
           </Grid>
         </Container>

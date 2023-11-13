@@ -31,7 +31,7 @@ export const OverviewBusinessIssues: FC<OverviewBusinessIssuesProps> = (props) =
         }}
       >
         <div>
-          <BusinessIcon sx={{ fontSize: 50 }}/>
+          <BusinessIcon sx={{ fontSize: 50 }} />
         </div>
         <Box sx={{ flexGrow: 1 }}>
           <Typography
@@ -44,7 +44,7 @@ export const OverviewBusinessIssues: FC<OverviewBusinessIssuesProps> = (props) =
             color="text.primary"
             variant="h5"
           >
-            { name }
+            {name}
           </Typography>
         </Box>
       </Stack>

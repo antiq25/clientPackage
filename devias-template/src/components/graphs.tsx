@@ -93,8 +93,10 @@ export const AnalyticsGraph: FC<AnalyticsGraphProps> = (props) => {
         }
       />
       <CardContent>
-        <div id="chart"
-style={{ height: '300px' }} />
+        <div
+          id="chart"
+          style={{ height: '300px' }}
+        />
       </CardContent>
     </Card>
   );

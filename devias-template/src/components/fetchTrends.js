@@ -1,6 +1,15 @@
 'use client';
 import React, { useState } from 'react';
-import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer } from 'recharts';
+import {
+  LineChart,
+  Line,
+  XAxis,
+  YAxis,
+  CartesianGrid,
+  Tooltip,
+  Legend,
+  ResponsiveContainer,
+} from 'recharts';
 import { TextField, Button, Box, Typography } from '@mui/material';
 import axios from 'axios';
 import { authAPI } from '../api/bundle';
@@ -15,12 +24,12 @@ const Trends = () => {
     event.preventDefault();
     setIsLoading(true);
     setError(null);
-  
+
     try {
       const response = await authAPI.fetchGoogleTrends(query);
-  
+
       if (response.success) {
-        const formattedTrends = response.data.interest_over_time.timeline_data.map(item => ({
+        const formattedTrends = response.data.interest_over_time.timeline_data.map((item) => ({
           date: item.date,
           value: item.values[0].extracted_value,
         }));
@@ -34,13 +43,13 @@ const Trends = () => {
       setIsLoading(false);
     }
   };
-  
-  
 
   return (
     <Box sx={{ p: 4 }}>
-      <Typography variant="h4"
-gutterBottom>
+      <Typography
+        variant="h4"
+        gutterBottom
+      >
         Google Trends Data
       </Typography>
       <Box
@@ -67,15 +76,19 @@ gutterBottom>
       </Box>
 
       {error && (
-        <Typography color="error"
-gutterBottom>
+        <Typography
+          color="error"
+          gutterBottom
+        >
           Error: {error}
         </Typography>
       )}
 
       {!isLoading && trends.length > 0 && (
-        <ResponsiveContainer width="100%"
-height={400}>
+        <ResponsiveContainer
+          width="100%"
+          height={400}
+        >
           <LineChart data={trends}>
             <CartesianGrid strokeDasharray="3 3" />
             <XAxis dataKey="date" />

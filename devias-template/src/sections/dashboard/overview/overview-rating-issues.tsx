@@ -28,7 +28,7 @@ export const OverviewRatingIssues: FC<OverviewRatingIssuesProps> = (props) => {
         }}
       >
         <div>
-          <StarOutlineIcon sx={{ fontSize: 50 }}/>
+          <StarOutlineIcon sx={{ fontSize: 50 }} />
         </div>
         <Box sx={{ flexGrow: 1 }}>
           <Typography

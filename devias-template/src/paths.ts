@@ -6,13 +6,13 @@ export const paths = {
   register: '/register',
   forgotPassword: '/forgot-password',
   resetPassword: '/reset-password',
-  verifyEmail: '/verify', 
+  verifyEmail: '/verify',
   notFound: '/404',
   serverError: '/500',
-  business: '/business', 
+  business: '/business',
   trends: 'trends',
   billing: '/billing',
   map: '/map',
   pixel: '/pixel',
   widget: '/widget',
-  };
+};
