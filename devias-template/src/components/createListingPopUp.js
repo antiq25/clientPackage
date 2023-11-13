@@ -5,14 +5,14 @@ import DialogContent from '@mui/material/DialogContent';
 import TextField from '@mui/material/TextField';
 import DialogActions from '@mui/material/DialogActions';
 import Button from '@mui/material/Button';
-import { dashboardAPI } from '../api/bundle'; // Adjust the import path as needed
+import { apiHandler } from '../api/bundle'; // Adjust the import path as needed
 import useUser from '../hooks/decode'; // Adjust the import path as needed
 
 const CreateListingDialog = ({ open, onClose, onCreationSuccess }) => {
   const [formData, setFormData] = useState({
     name: '',
     reviews_url: '',
-    description: ''
+    description: '',
   });
 
   const handleChange = (event) => {
@@ -20,38 +20,44 @@ const CreateListingDialog = ({ open, onClose, onCreationSuccess }) => {
     console.log(formData);
     setFormData({
       ...formData,
-      [event.target.name]: event.target.value
+      [event.target.name]: event.target.value,
     });
   };
 
   const handleSubmit = async () => {
-  // Call API to create a new listing
-  try {
-    const userId = useUser; // This seems incorrect. You should call useUser() if it's a hook.
-    let value = formData.reviews_url;
-    if (value.includes('\'')) {
-      console.log('found');
-      value = value.replace('\'', "%E2%80%99"); // Replace single quote with two single quotes
+    // Call API to create a new listing
+    try {
+      const userId = useUser; // This seems incorrect. You should call useUser() if it's a hook.
+      let value = formData.reviews_url;
+      if (value.includes("'")) {
+        console.log('found');
+        value = value.replace("'", '%E2%80%99'); // Replace single quote with two single quotes
+      }
+      formData.reviews_url = value;
+      console.log(formData.reviews_url);
+      const response = await apiHandler.handleCreateListing(
+        userId,
+        formData.name,
+        formData.reviews_url,
+        formData.description
+      );
+      if (response.success) {
+        console.log('Listing created successfully:', response.data);
+        onCreationSuccess(); // Invoke the callback here
+        onClose();
+      } else {
+        console.error('Failed to create listing:', response.error);
+      }
+    } catch (error) {
+      console.error('Error creating listing:', error);
     }
-    formData.reviews_url = value;
-    console.log(formData.reviews_url)
-    const response = await dashboardAPI.createListing(userId, formData.name, formData.reviews_url, formData.description);
-    if (response.success) {
-      console.log('Listing created successfully:', response.data);
-      onCreationSuccess(); // Invoke the callback here
-      onClose(); 
-    } else {
-      console.error('Failed to create listing:', response.error);
-    }
-  } catch (error) {
-    console.error('Error creating listing:', error);
-  }
-};
-
+  };
 
   return (
-    <Dialog open={open}
-onClose={onClose}>
+    <Dialog
+      open={open}
+      onClose={onClose}
+    >
       <DialogTitle>Create New Listing</DialogTitle>
       <DialogContent>
         <TextField

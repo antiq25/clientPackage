@@ -2,37 +2,34 @@ import React, { useState } from 'react';
 import { Button, TextField, Alert, Container, Typography } from '@mui/material';
 import { DataGrid } from '@mui/x-data-grid';
 
-const ReviewsFetcher = ({ dashboardAPI }) => {
+const ReviewsFetcher = ({ apiHandler }) => {
   const [listingId, setListingId] = useState('');
   const [maxReviews, setMaxReviews] = useState('');
   const [reviews, setReviews] = useState([]);
   const [error, setError] = useState('');
   const [isLoading, setIsLoading] = useState(false);
 
-  const fetchReviews = async () => {
-    setIsLoading(true);
-    try {
-      const response = await dashboardAPI.fetchReviews(
-        Number(listingId),
-        Number(maxReviews)
-      );
-      if (response.success) {
-        setReviews(response.data);
-        setError('');
-      } else {
-        setError(response.error);
-      }
-    } catch (error) {
-      setError('An error occurred.');
-      console.error(error);
-    }
-    setIsLoading(false);
-  };
+  // const fetchReviews = async () => {
+  //   setIsLoading(true);
+  //   try {
+  //     const response = await apiHandler.fetchReviews(Number(listingId), Number(maxReviews));
+  //     if (response.success) {
+  //       setReviews(response.data);
+  //       setError('');
+  //     } else {
+  //       setError(response.error);
+  //     }
+  //   } catch (error) {
+  //     setError('An error occurred.');
+  //     console.error(error);
+  //   }
+  //   setIsLoading(false);
+  // };
 
-  const handleSubmit = (event) => {
-    event.preventDefault();
-    fetchReviews();
-  };
+  // const handleSubmit = (event) => {
+  //   event.preventDefault();
+  //   fetchReviews();
+  // };
 
   const columns = [
     { field: 'id', headerName: 'ID', width: 70 },
@@ -42,8 +39,10 @@ const ReviewsFetcher = ({ dashboardAPI }) => {
 
   return (
     <Container maxWidth="sm">
-      <Typography variant="h4"
-gutterBottom>
+      <Typography
+        variant="h4"
+        gutterBottom
+      >
         Fetch Reviews
       </Typography>
       <form onSubmit={handleSubmit}>

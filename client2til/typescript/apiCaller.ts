@@ -1,6 +1,6 @@
 import { ISignup, ILogin } from './interfaces'
+import { apiCall } from './apiHelper.js'
 import apiClient from './apiConfig.js'
-import apiCall  from './apiHelper.js'
 
 export const authAPIEndpoints = {
   signUp: '/auth/signup',
@@ -10,7 +10,10 @@ export const authAPIEndpoints = {
   resendEmailVerification: '/auth/request-email-verif',
   fetchProfile: '/profile/fetch',
   forgotPassword: '/recovery/forgot-password',
-  resetPassword: '/recovery/reset-password'
+  resetPassword: '/recovery/reset-password',
+  createListing: '/dashboard/create-listing',
+  getListing: '/dashboard/get-listing',
+  fetchReviews: '/dashboard/fetch-reviews'
 }
 
 export const authAPI = {
@@ -28,14 +31,13 @@ export const authAPI = {
       () => apiClient.post(authAPIEndpoints.login, data),
       'Login successful',
       'Login failed'
-    ).then(response => {
+    ).then((response) => {
       // After a successful login, if there is a token, store it.
       if (response.success && response.data?.token?.token) {
-        localStorage.setItem('token', response.data.token.token);
+        localStorage.setItem('token', response.data.token.token)
       }
-      return response; // This maintains the same structure as the apiCall response.
+      return response // This maintains the same structure as the apiCall response.
     }),
-
 
   updateProfile: (id: number, data: Partial<ISignup>) =>
     apiCall(
@@ -83,5 +85,46 @@ export const authAPI = {
       () => apiClient.post(authAPIEndpoints.resetPassword, { code, password }),
       'Password reset successful',
       'Password reset failed'
+    ),
+
+  createListing: (
+    userId: number,
+    name: string,
+    reviews_url: string,
+    description?: string
+  ) =>
+    apiCall(
+      'createListing',
+      () =>
+        apiClient.post(authAPIEndpoints.createListing, {
+          userId,
+          name,
+          reviews_url,
+          description
+        }),
+      'Listing created successfully',
+      'Listing creation failed'
+    ),
+
+  getListing: (userId: number, listingName?: string) =>
+    apiCall(
+      'getListing',
+      () =>
+        apiClient.get(authAPIEndpoints.getListing, {
+          params: { userId, listingName }
+        }),
+      'Listing fetched',
+      'Fetching listing failed'
+    ),
+
+  fetchReviews: (listingId: number, max_reviews: number) =>
+    apiCall(
+      'fetchReviews',
+      () =>
+        apiClient.get(authAPIEndpoints.fetchReviews, {
+          params: { listingId, max_reviews }
+        }),
+      'Reviews fetched',
+      'Fetching reviews failed'
     )
 }

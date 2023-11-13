@@ -23,7 +23,6 @@ const libraries = ['places'];
 
 
 const Chart = styled(ApexChart)(({ theme }) => ({
-  const theme = useTheme();
 
 
   '& .apexcharts-xaxistooltip': {

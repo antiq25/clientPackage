@@ -160,7 +160,7 @@ export const SideNav: FC<SideNavProps> = (props) => {
   const { color = 'evident', sections = [] } = props;
   const pathname = usePathname();
   const cssVars = useCssVars(color);
-  
+
   return (
     <Drawer
       anchor="left"

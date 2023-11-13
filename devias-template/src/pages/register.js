@@ -9,15 +9,17 @@ import {
   Container,
   Stack,
   Typography,
-  Alert as MuiAlert
+  Alert as MuiAlert,
 } from '@mui/material';
 import { apiHandler } from '../api/bundle'; // Adjust the path as necessary
 
 const Alert = forwardRef((props, ref) => (
-  <MuiAlert elevation={6}
-ref={ref}
-variant="filled"
-{...props} />
+  <MuiAlert
+    elevation={6}
+    ref={ref}
+    variant="filled"
+    {...props}
+  />
 ));
 Alert.displayName = 'Alert';
 
@@ -62,14 +64,21 @@ const RegisterPage = () => {
   };
 
   return (
-    <Container maxWidth='sm' sx={{paddingTop: '200px'}}>
+    <Container
+      maxWidth="sm"
+      sx={{ paddingTop: '200px' }}
+    >
       <Card>
         <CardContent>
           <Typography variant="h5">Register</Typography>
-          <form onSubmit={handleRegister}
-noValidate>
-            <Stack spacing={2}
-mt={2}>
+          <form
+            onSubmit={handleRegister}
+            noValidate
+          >
+            <Stack
+              spacing={2}
+              mt={2}
+            >
               <TextField
                 label="First Name"
                 variant="outlined"
@@ -114,8 +123,10 @@ mt={2}>
                 onChange={(e) => setConfirmPassword(e.target.value)}
               />
               {error && (
-                <Typography color="error"
-mt={2}>
+                <Typography
+                  color="error"
+                  mt={2}
+                >
                   {error}
                 </Typography>
               )}
@@ -132,12 +143,16 @@ mt={2}>
           </form>
         </CardContent>
       </Card>
-      <Snackbar open={openSnackbar}
-autoHideDuration={6000}
-onClose={handleCloseSnackbar}>
-        <Alert onClose={handleCloseSnackbar}
-severity="success"
-sx={{ width: '100%' }}>
+      <Snackbar
+        open={openSnackbar}
+        autoHideDuration={6000}
+        onClose={handleCloseSnackbar}
+      >
+        <Alert
+          onClose={handleCloseSnackbar}
+          severity="success"
+          sx={{ width: '100%' }}
+        >
           Registration successful! Redirecting to login...
         </Alert>
       </Snackbar>

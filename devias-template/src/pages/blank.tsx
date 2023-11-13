@@ -11,8 +11,7 @@ import { Seo } from 'src/components/seo';
 import { useSettings } from 'src/hooks/use-settings';
 import { Layout as DashboardLayout } from 'src/layouts/dashboard';
 import LoginPage from '../components/loginpage';
-import  BusinessPage  from '../components/MapReviews';
-
+import BusinessPage from '../components/MapReviews';
 
 const Page: NextPage = () => {
   const settings = useSettings();

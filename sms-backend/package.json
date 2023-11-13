@@ -30,6 +30,7 @@
     "nodemon": "^3.0.1",
     "prettier": "^3.0.3",
     "puppeteer": "^21.4.0",
+    "selenium": "^2.20.0",
     "serpapi": "^2.0.0"
   },
   "scripts": {

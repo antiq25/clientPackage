@@ -20,7 +20,6 @@ import EmailVerificationDialog from '../components/emailverifydialog';
 import CreateListingDialog from '../components/createListingPopUp';
 import ScrapedReviews from '../components/scrapedReviews';
 
-
 const Page = () => {
   const settings = useSettings();
   const user = useUser();
@@ -33,9 +32,9 @@ const Page = () => {
   const [reviews, setReviews] = useState([]);
 
   const handleSetReviewAggregate = (newAggregate) => {
-    const formattedData = newAggregate.map(item => ({
+    const formattedData = newAggregate.map((item) => ({
       x: item.star, // 'x' represents the category on the x-axis.
-      y: item.reviews // 'y' represents the value for that category.
+      y: item.reviews, // 'y' represents the value for that category.
     }));
     setReviewAggregate(formattedData);
   };
@@ -52,7 +51,7 @@ const Page = () => {
     setCreateListingDialogOpen(false);
   };
 
-  const reviewChartData = reviewAggregate.map(item => ({
+  const reviewChartData = reviewAggregate.map((item) => ({
     name: item.star,
     data: [item.reviews], // Assuming item.reviews is the count for that star rating
   }));
@@ -75,7 +74,7 @@ const Page = () => {
     }
   }, [selectedBusiness]);
 
-  useEffect(() => { }, [user]);
+  useEffect(() => {}, [user]);
 
   usePageView();
 
@@ -112,7 +111,11 @@ const Page = () => {
                   spacing={2}
                 >
                   <Button
-                    startIcon={<SvgIcon><PlusIcon /></SvgIcon>}
+                    startIcon={
+                      <SvgIcon>
+                        <PlusIcon />
+                      </SvgIcon>
+                    }
                     variant="contained"
                     onClick={handleOpenCreateListingDialog}
                   >
@@ -147,7 +150,9 @@ const Page = () => {
               md={7}
               lg={7}
             >
-              <OverviewSubscriptionUsage chartSeries={[{ name: 'Reviews', data: reviewAggregate }]} />
+              <OverviewSubscriptionUsage
+                chartSeries={[{ name: 'Reviews', data: reviewAggregate }]}
+              />
             </Grid>
             <Grid
               item
@@ -166,4 +171,3 @@ const Page = () => {
 Page.getLayout = (page) => <DashboardLayout>{page}</DashboardLayout>;
 
 export default Page;
-

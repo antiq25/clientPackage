@@ -29,7 +29,7 @@ export const OverviewReviewIssues: FC<OverviewReviewIssuesProps> = (props) => {
         }}
       >
         <div>
-          <RateReviewIcon sx={{ fontSize: 50 }}/>
+          <RateReviewIcon sx={{ fontSize: 50 }} />
         </div>
         <Box sx={{ flexGrow: 1 }}>
           <Typography

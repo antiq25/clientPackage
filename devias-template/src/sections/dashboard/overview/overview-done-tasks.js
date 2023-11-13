@@ -8,7 +8,7 @@ import Typography from '@mui/material/Typography';
 import ArrowRightIcon from '@mui/icons-material/ArrowRight';
 import Button from '@mui/material/Button';
 import Box from '@mui/material/Box';
-import { dashboardAPI  } from '../../../api/bundle';
+import { dashboardAPI } from '../../../api/bundle';
 import { apiHandler } from '../../../api/bundle';
 import useUser from '../../../hooks/decode';
 
@@ -17,43 +17,41 @@ const OverviewDoneTasks = () => {
   const [isLoading, setIsLoading] = useState(true);
   const user = useUser();
 
-useEffect(() => {
- const fetchUserProfileAndListings = async () => {
-   try {
-     setIsLoading(true);
-     // Fetch the user's profile to get their ID
-     const profileResponse = await apiHandler.handleGetProfile();
-     const userId = profileResponse.data?.id;
+  useEffect(() => {
+    const fetchUserProfileAndListings = async () => {
+      try {
+        setIsLoading(true);
+        // Fetch the user's profile to get their ID
+        const profileResponse = await apiHandler.handleGetProfile();
+        const userId = profileResponse.data?.id;
 
-     // Fetch listings
-     const listingsResponse = await dashboardAPI.getListing(userId, undefined);
+        // Fetch listings
+        const listingsResponse = await dashboardAPI.getListing(userId, undefined);
 
-     // Assuming the response has a `data` object which contains a `listing` array
-     if (
-       listingsResponse &&
-       listingsResponse.success &&
-       listingsResponse.data &&
-       Array.isArray(listingsResponse.data.listing)
-     ) {
-       setListingsCount(listingsResponse.data.listing.length);
-     } else {
-       // Handle cases where the data isn't in the expected format
-       console.error('Unexpected structure of listings response:', listingsResponse);
-     }
-   } catch (error) {
-     console.error('Failed to fetch data:', error);
-   } finally {
-     setIsLoading(false);
-   }
- };
+        // Assuming the response has a `data` object which contains a `listing` array
+        if (
+          listingsResponse &&
+          listingsResponse.success &&
+          listingsResponse.data &&
+          Array.isArray(listingsResponse.data.listing)
+        ) {
+          setListingsCount(listingsResponse.data.listing.length);
+        } else {
+          // Handle cases where the data isn't in the expected format
+          console.error('Unexpected structure of listings response:', listingsResponse);
+        }
+      } catch (error) {
+        console.error('Failed to fetch data:', error);
+      } finally {
+        setIsLoading(false);
+      }
+    };
 
+    fetchUserProfileAndListings();
+  }, []);
 
-  fetchUserProfileAndListings();
-}, []);
-
-// Outside of useEffect
-console.log('isLoading:', isLoading, 'listingsCount:', listingsCount);
-
+  // Outside of useEffect
+  console.log('isLoading:', isLoading, 'listingsCount:', listingsCount);
 
   return (
     <Card>
@@ -101,6 +99,6 @@ console.log('isLoading:', isLoading, 'listingsCount:', listingsCount);
       </CardActions>
     </Card>
   );
-}
+};
 
 export default OverviewDoneTasks;

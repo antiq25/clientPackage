@@ -18,7 +18,7 @@ const center = {
 
 const libraries = ['places'];
 
-const BusinessMap = ({review, rating, business}) => {
+const BusinessMap = ({ review, rating, business }) => {
   const [businesses, setBusinesses] = useState([]);
   const [selectedBusiness, setSelectedBusiness] = useState(null);
   const [reviewData, setReviewData] = useState([]);
@@ -26,7 +26,6 @@ const BusinessMap = ({review, rating, business}) => {
   const [map, setMap] = useState(null);
   const mapRef = useRef(null);
   const theme = useTheme();
-
 
   const [totalReviewsData, setTotalReviewsData] = useState([]);
 
@@ -76,9 +75,9 @@ const BusinessMap = ({review, rating, business}) => {
             const averageRating =
               place.reviews.reduce((acc, { rating }) => acc + rating, 0) / place.reviews.length;
             // Set data for the combined graph
-            business(place.name)
-            review(place.user_ratings_total)
-            rating(averageRating)
+            business(place.name);
+            review(place.user_ratings_total);
+            rating(averageRating);
             setReviewData([
               {
                 category: 'Average Rating',
@@ -86,7 +85,6 @@ const BusinessMap = ({review, rating, business}) => {
                 totalReviews: place.user_ratings_total,
               },
             ]);
-            
           } else {
             setReviewData([]);
           }
@@ -149,11 +147,12 @@ const BusinessMap = ({review, rating, business}) => {
 
   return (
     <Card>
-      <CardHeader 
-      title="Businesses Map"
-      subheader="Select any business" />
+      <CardHeader
+        title="Businesses Map"
+        subheader="Select any business"
+      />
       <GoogleMap
-        style={{paddingLeft: '16px', paddingRight: '16px'}}
+        style={{ paddingLeft: '16px', paddingRight: '16px' }}
         mapContainerStyle={containerStyle}
         center={center}
         zoom={12}

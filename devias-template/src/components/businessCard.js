@@ -2,7 +2,7 @@ import React, { useState, useEffect, useRef } from 'react';
 import { Typography, Radio, ListItem } from '@mui/material';
 import { FixedSizeList as VirtualizedList } from 'react-window';
 import useUser from '../hooks/decode';
-import { dashboardAPI } from '../api/bundle';
+import { apiHandler } from '../api/bundle';
 import Card from '@mui/material/Card';
 import CardHeader from '@mui/material/CardHeader';
 
@@ -22,7 +22,7 @@ const BusinessCard = ({ onBusinessSelect, refreshTrigger, onSetReviewAggregate, 
 
     const fetchListings = async () => {
       if (user) {
-        const response = await dashboardAPI.getListing(user.id);
+        const response = await apiHandler.handleGetListing(user.id);
         if (response && response.data && response.data.listing) {
           const listings = response.data.listing.map((listing) => ({
             id: listing.id,
@@ -41,32 +41,32 @@ const BusinessCard = ({ onBusinessSelect, refreshTrigger, onSetReviewAggregate, 
     fetchListings().finally(() => {
       fetchLockRef.current = false; // Release the lock after fetching
     });
-
   }, [user, refreshTrigger]); // Dependencies include refreshTrigger
 
   const fetchReviewsForListing = async (listingId) => {
-    const reviewsResponse = await dashboardAPI.fetchReviews(listingId);
+    const reviewsResponse = await apiHandler.handleFetchReviews(listingId);
     if (reviewsResponse?.success) {
       const reviews = reviewsResponse.data.reviews;
-      const aggregate = reviews.reduce((acc, review) => {
-        // Ensure all stars are represented, even if count is 0
-        acc[review.stars] = (acc[review.stars] || 0) + 1;
-        return acc;
-      }, { '1': 0, '2': 0, '3': 0, '4': 0, '5': 0 }); // Initialize all star counts to 0
+      const aggregate = reviews.reduce(
+        (acc, review) => {
+          // Ensure all stars are represented, even if count is 0
+          acc[review.stars] = (acc[review.stars] || 0) + 1;
+          return acc;
+        },
+        { 1: 0, 2: 0, 3: 0, 4: 0, 5: 0 }
+      ); // Initialize all star counts to 0
 
       // Transform aggregate into an array with objects { star: "Star N", reviews: count }
       const graphData = Object.entries(aggregate).map(([star, count]) => ({
         star: `Star ${star}`,
-        reviews: count
+        reviews: count,
       }));
-      onSetReviews(reviews); 
+      onSetReviews(reviews);
       onSetReviewAggregate(graphData); // Pass data to parent component
     } else {
       console.error('Failed to fetch reviews:', reviewsResponse.error);
     }
   };
-
-
 
   const handleSelect = (business) => {
     setSelectedBusinessId(business.id);
@@ -109,7 +109,7 @@ const BusinessCard = ({ onBusinessSelect, refreshTrigger, onSetReviewAggregate, 
           {Row}
         </VirtualizedList>
       ) : (
-        <Typography sx={{padding: '0px 25px 25px 25px'}}>No businesses found</Typography>
+        <Typography sx={{ padding: '0px 25px 25px 25px' }}>No businesses found</Typography>
       )}
     </Card>
   );

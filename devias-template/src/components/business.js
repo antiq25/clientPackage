@@ -18,14 +18,14 @@ const initialRows = [
 ];
 
 const BusinessListing = () => {
-  const [dataRows, setDataRows] = useState([]);  // Change from rows to dataRows for consistency
+  const [dataRows, setDataRows] = useState([]); // Change from rows to dataRows for consistency
   const [selectedRows, setSelectedRows] = useState([]);
   const [isLoading, setIsLoading] = useState(true);
   const [isPopupOpen, setIsPopupOpen] = useState(false);
 
   useEffect(() => {
     setTimeout(() => {
-      setDataRows(initialRows);  // Set initial data rows after loading
+      setDataRows(initialRows); // Set initial data rows after loading
       setIsLoading(false);
     }, 1000);
   }, []);
@@ -38,13 +38,13 @@ const BusinessListing = () => {
 
   const handleAdd = (newData) => {
     const newBusiness = {
-      ...newData
+      ...newData,
     };
-    setDataRows(prevRows => [...prevRows, newBusiness]);
+    setDataRows((prevRows) => [...prevRows, newBusiness]);
   };
 
   const handleRemove = () => {
-    setDataRows(prevRows => prevRows.filter(row => !selectedRows.includes(row.id)));
+    setDataRows((prevRows) => prevRows.filter((row) => !selectedRows.includes(row.id)));
     setSelectedRows([]); // Clear the selection after deleting
   };
 
@@ -68,14 +68,24 @@ const BusinessListing = () => {
         subheader="Businesses"
         title="Business List"
       />
-      <Box sx={{ display: 'flex', justifyContent: 'space-between', marginBottom: 2, paddingLeft: '16px', paddingRight: '16px' }}>
+      <Box
+        sx={{
+          display: 'flex',
+          justifyContent: 'space-between',
+          marginBottom: 2,
+          paddingLeft: '16px',
+          paddingRight: '16px',
+        }}
+      >
         <Button
           startIcon={
             <SvgIcon>
               <PlusIcon />
             </SvgIcon>
           }
-          variant="contained" onClick={handleOpenPopup}>
+          variant="contained"
+          onClick={handleOpenPopup}
+        >
           Add
         </Button>
         <FormPopUp
@@ -90,12 +100,17 @@ const BusinessListing = () => {
               <MinusIcon />
             </SvgIcon>
           }
-          variant="contained" onClick={handleRemove} disabled={selectedRows.length === 0}>
+          variant="contained"
+          onClick={handleRemove}
+          disabled={selectedRows.length === 0}
+        >
           Remove
         </Button>
       </Box>
       {isLoading ? (
-        <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', height: 400 }}>
+        <div
+          style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', height: 400 }}
+        >
           Loading...
         </div>
       ) : (

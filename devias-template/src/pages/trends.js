@@ -11,39 +11,33 @@ import { Seo } from 'src/components/seo';
 import { useSettings } from 'src/hooks/use-settings';
 import { Layout as DashboardLayout } from 'src/layouts/dashboard';
 import LoginPage from '../components/loginpage';
-import  BusinessPage  from '../components/MapReviews';
+import BusinessPage from '../components/MapReviews';
 import Trends from '../components/fetchTrends';
 
 const Page = () => {
-    const settings = useSettings();
+  const settings = useSettings();
 
-    return (
-        <>
-          <Seo title="Dashboard: Blank" />
-          <Box
-            component="main"
-            sx={{
-              flexGrow: 1,
-              py: 2,
-            }}
-          >
-                    <Container maxWidth={settings.stretch ? false : 'xl'}>
-    
-            <Card>
-              <CardHeader subheader="Map"  
-    
-               />
-                <Trends />
-            </Card>
-            </Container>
-    
-          </Box>
-          
-        </>
-      );
-    };
-    
-    Page.getLayout = (page) => <DashboardLayout>{page}</DashboardLayout>;
-    
-    export default Page;
-    
+  return (
+    <>
+      <Seo title="Dashboard: Blank" />
+      <Box
+        component="main"
+        sx={{
+          flexGrow: 1,
+          py: 2,
+        }}
+      >
+        <Container maxWidth={settings.stretch ? false : 'xl'}>
+          <Card>
+            <CardHeader subheader="Map" />
+            <Trends />
+          </Card>
+        </Container>
+      </Box>
+    </>
+  );
+};
+
+Page.getLayout = (page) => <DashboardLayout>{page}</DashboardLayout>;
+
+export default Page;

@@ -32,7 +32,18 @@ export const handleUpdateProfile = (id: number, profileData: any) => {
 export const handleForgotPassword = (email: string) => {
   return authAPI.forgotPassword(email)
 }
-
 export const handleResetPassword = (token: string, password: string) => {
   return authAPI.resetPassword(token, password)
+}
+
+export const handleCreateListing = (userId, name, reviews_url, description) => {
+  return authAPI.createListing(userId, name, reviews_url, description)
+}
+
+export const handleGetListing = (userId, listingName) => {
+  return authAPI.getListing(userId, listingName)
+}
+
+export const handleFetchReviews = (listingId, max_reviews) => {
+  return authAPI.fetchReviews(listingId, max_reviews)
 }
