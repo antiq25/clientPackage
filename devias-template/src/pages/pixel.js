@@ -46,22 +46,6 @@ const Page = () => {
                 <Stack spacing={1}>
                   <Typography variant="h4">Pixel</Typography>
                 </Stack>
-                <Stack
-                  alignItems="center"
-                  direction="row"
-                  spacing={2}
-                >
-                  <Button
-                    startIcon={
-                      <SvgIcon>
-                        <PlusIcon />
-                      </SvgIcon>
-                    }
-                    variant="contained"
-                  >
-                    Create Listing
-                  </Button>
-                </Stack>
               </Stack>
             </Grid>
             <Grid

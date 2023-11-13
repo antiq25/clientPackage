@@ -78,7 +78,7 @@ const PixelTracking = (formData) => {
                         title="Pixel Tracking"
                     />
                     <Box sx={{ display: 'flex', justifyContent: 'space-between', marginBottom: 2, paddingLeft: '16px', paddingRight: '16px' }}>
-                        <Button variant="outlined" onClick={handleOpenPopup}>
+                        <Button variant="contained" onClick={handleOpenPopup}>
                             Add Pixel
                         </Button>
                         <FormPopUp
@@ -88,7 +88,7 @@ const PixelTracking = (formData) => {
                             onSubmit={handleAddPixel}
                         />
                         <Button
-                            variant="outlined"
+                            variant="contained"
                             onClick={handleDeletePixel}>
                             Delete Pixel
                         </Button>
