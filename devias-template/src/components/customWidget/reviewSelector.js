@@ -103,12 +103,7 @@ const ReviewSelector = ({ listingId, onSelect }) => {
           sx={{ paddingLeft: '16px', paddingRight: '16px', height: 500, width: '100%', border: 0 }}
         />
       ) : (
-        <Typography
-          variant="body1"
-          color="textSecondary"
-        >
-          No reviews available for this listing.
-        </Typography>
+        <Typography variant="body1" color="textPrimary" sx={{ padding: '0px 25px 25px 25px' }}>No businesses found</Typography>
       )}
     </Card>
   );

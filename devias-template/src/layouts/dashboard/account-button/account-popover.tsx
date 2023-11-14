@@ -110,24 +110,7 @@ export const AccountPopover: FC<AccountPopoverProps> = (props) => {
         </ListItemButton>
         <ListItemButton
           component={RouterLink}
-          href="#"
-          onClick={onClose}
-          sx={{
-            borderRadius: 1,
-            px: 1,
-            py: 0.5,
-          }}
-        >
-          <ListItemIcon>
-            <SvgIcon fontSize="small">
-              <Settings04Icon />
-            </SvgIcon>
-          </ListItemIcon>
-          <ListItemText primary={<Typography variant="body1">Settings</Typography>} />
-        </ListItemButton>
-        <ListItemButton
-          component={RouterLink}
-          href={paths.index}
+          href={paths.billing}
           onClick={onClose}
           sx={{
             borderRadius: 1,

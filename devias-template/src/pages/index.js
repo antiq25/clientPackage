@@ -80,7 +80,7 @@ const Page = () => {
 
   return (
     <>
-      <Seo title="Show My Service: Dashboard" />
+      <Seo title="Show My Service: Google Trends" />
       <Box
         component="main"
         sx={{

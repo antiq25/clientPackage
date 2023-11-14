@@ -1,21 +1,20 @@
-import PlusIcon from '@untitled-ui/icons-react/build/esm/Plus';
+'use client';
 import Box from '@mui/material/Box';
 import Button from '@mui/material/Button';
 import Container from '@mui/material/Container';
 import Stack from '@mui/material/Stack';
-import { Card, CardHeader } from '@mui/material';
-import SvgIcon from '@mui/material/SvgIcon';
+import Grid from '@mui/material/Unstable_Grid2';
 import Typography from '@mui/material/Typography';
-import ChartPage from '../components/ChartPage';
 import { Seo } from 'src/components/seo';
 import { useSettings } from 'src/hooks/use-settings';
 import { Layout as DashboardLayout } from 'src/layouts/dashboard';
-import LoginPage from '../components/loginpage';
-import BusinessPage from '../components/MapReviews';
 import Trends from '../components/fetchTrends';
+import { usePageView } from '../hooks/use-page-view';
 
 const Page = () => {
   const settings = useSettings();
+
+  usePageView();
 
   return (
     <>
@@ -24,14 +23,35 @@ const Page = () => {
         component="main"
         sx={{
           flexGrow: 1,
-          py: 2,
+          py: 8,
         }}
       >
         <Container maxWidth={settings.stretch ? false : 'xl'}>
-          <Card>
-            <CardHeader subheader="Map" />
-            <Trends />
-          </Card>
+          <Grid
+            container
+            spacing={{
+              xs: 3,
+              lg: 4,
+            }}
+          >
+            <Grid xs={12} >
+              <Stack
+                direction="row"
+                justifyContent="space-between"
+                spacing={4}
+              >
+                <Stack spacing={1}>
+                  <Typography variant="h4">Google Trends</Typography>
+                </Stack>
+              </Stack>
+            </Grid>
+            <Grid
+              xs={12}
+              md={12}
+            >
+              <Trends />
+            </Grid>
+          </Grid>
         </Container>
       </Box>
     </>

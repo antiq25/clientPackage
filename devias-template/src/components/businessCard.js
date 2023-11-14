@@ -45,6 +45,7 @@ const BusinessCard = ({ onBusinessSelect, refreshTrigger, onSetReviewAggregate, 
 
   const fetchReviewsForListing = async (listingId) => {
     const reviewsResponse = await apiHandler.handleFetchReviews(listingId);
+    console.log('test');
     if (reviewsResponse?.success) {
       const reviews = reviewsResponse.data.reviews;
       const aggregate = reviews.reduce(
@@ -68,11 +69,11 @@ const BusinessCard = ({ onBusinessSelect, refreshTrigger, onSetReviewAggregate, 
     }
   };
 
-  const handleSelect = (business) => {
+  const handleSelect = async (business) => {
     setSelectedBusinessId(business.id);
     onBusinessSelect(business);
-    fetchReviewsForListing(business.id);
-  };
+    await fetchReviewsForListing(business.id);
+  };  
 
   const Row = ({ index, style }) => {
     const business = businesses[index];
@@ -80,7 +81,6 @@ const BusinessCard = ({ onBusinessSelect, refreshTrigger, onSetReviewAggregate, 
       <ListItem
         key={business.id}
         sx={style}
-        onClick={() => handleSelect(business)}
         selected={selectedBusinessId === business.id}
       >
         <Radio

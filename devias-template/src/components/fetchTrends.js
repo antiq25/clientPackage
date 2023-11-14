@@ -10,7 +10,7 @@ import {
   Legend,
   ResponsiveContainer,
 } from 'recharts';
-import { TextField, Button, Box, Typography } from '@mui/material';
+import { TextField, Button, Box, Typography, Card, CardHeader } from '@mui/material';
 import axios from 'axios';
 import { authAPI } from '../api/bundle';
 
@@ -45,66 +45,66 @@ const Trends = () => {
   };
 
   return (
-    <Box sx={{ p: 4 }}>
-      <Typography
-        variant="h4"
-        gutterBottom
-      >
-        Google Trends Data
-      </Typography>
-      <Box
-        component="form"
-        onSubmit={handleSearch}
-        noValidate
-        autoComplete="off"
-        sx={{ mb: 2 }}
-      >
-        <TextField
-          label="Search Query"
-          value={query}
-          onChange={(e) => setQuery(e.target.value)}
-          disabled={isLoading}
-          sx={{ mr: 1, width: 'auto' }}
-        />
-        <Button
-          variant="contained"
-          type="submit"
-          disabled={isLoading || !query}
+    <Card>
+      <CardHeader
+        subheader="Businesses"
+        title="Business List"
+      />
+      <Box sx={{ p: 4 }}>
+        <Box
+          component="form"
+          onSubmit={handleSearch}
+          noValidate
+          autoComplete="off"
+          sx={{ mb: 2 }}
         >
-          {isLoading ? 'Loading...' : 'Search'}
-        </Button>
+          <TextField
+            label="Search Query"
+            value={query}
+            onChange={(e) => setQuery(e.target.value)}
+            disabled={isLoading}
+            sx={{ mr: 1, width: 'auto' }}
+          />
+          <Button
+            variant="contained"
+            type="submit"
+            disabled={isLoading || !query}
+          >
+            {isLoading ? 'Loading...' : 'Search'}
+          </Button>
+        </Box>
+
+        {error && (
+          <Typography
+            color="error"
+            gutterBottom
+          >
+            Error: {error}
+          </Typography>
+        )}
+
+        {!isLoading && trends.length > 0 && (
+          <ResponsiveContainer
+            width="100%"
+            height={400}
+          >
+            <LineChart data={trends}>
+              <CartesianGrid strokeDasharray="3 3" />
+              <XAxis dataKey="date" />
+              <YAxis />
+              <Tooltip />
+              <Legend />
+              <Line
+                type="monotone"
+                dataKey="value"
+                stroke="#8884d8"
+                activeDot={{ r: 8 }}
+              />
+            </LineChart>
+          </ResponsiveContainer>
+        )}
       </Box>
-
-      {error && (
-        <Typography
-          color="error"
-          gutterBottom
-        >
-          Error: {error}
-        </Typography>
-      )}
-
-      {!isLoading && trends.length > 0 && (
-        <ResponsiveContainer
-          width="100%"
-          height={400}
-        >
-          <LineChart data={trends}>
-            <CartesianGrid strokeDasharray="3 3" />
-            <XAxis dataKey="date" />
-            <YAxis />
-            <Tooltip />
-            <Legend />
-            <Line
-              type="monotone"
-              dataKey="value"
-              stroke="#8884d8"
-              activeDot={{ r: 8 }}
-            />
-          </LineChart>
-        </ResponsiveContainer>
-      )}
-    </Box>
+    </Card>
   );
 };
 

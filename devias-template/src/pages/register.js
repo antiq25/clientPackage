@@ -2,8 +2,10 @@ import React, { useState, forwardRef } from 'react';
 import { useRouter } from 'next/router';
 import {
   Card,
+  CardHeader,
   CardContent,
   TextField,
+  Link,
   Button,
   Snackbar,
   Container,
@@ -11,6 +13,7 @@ import {
   Typography,
   Alert as MuiAlert,
 } from '@mui/material';
+import { useSettings } from 'src/hooks/use-settings';
 import { apiHandler } from '../api/bundle'; // Adjust the path as necessary
 
 const Alert = forwardRef((props, ref) => (
@@ -34,13 +37,15 @@ const RegisterPage = () => {
   const [error, setError] = useState('');
   const [openSnackbar, setOpenSnackbar] = useState(false);
 
+  const settings = useSettings();
+  
   const handleRegister = async (e) => {
     e.preventDefault();
     if (password !== confirmPassword) {
       setError('Passwords do not match.');
       return;
     }
-
+    
     setIsSubmitting(true);
     setError('');
 
@@ -65,12 +70,36 @@ const RegisterPage = () => {
 
   return (
     <Container
-      maxWidth="sm"
+      maxWidth={settings.stretch ? false : 'sm'}
       sx={{ paddingTop: '200px' }}
     >
-      <Card>
+      <Card
+        elevation={14}
+        sx={{ margin: '25px' }}
+      >
         <CardContent>
-          <Typography variant="h5">Register</Typography>
+          <CardHeader
+            sx={{ padding: '0px' }}
+            subheader={
+              <Typography
+                color="text.secondary"
+                variant="body2"
+              >
+                Already have an account? &nbsp;
+                <Link
+                  href="/login"
+                  variant="body2"
+                >
+                  Log in here.
+                </Link>
+              </Typography>
+            }
+            title={
+              <Typography variant="h5">
+                Register
+              </Typography>
+            }
+          />
           <form
             onSubmit={handleRegister}
             noValidate

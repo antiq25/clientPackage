@@ -1,12 +1,8 @@
 'use client';
-import ArrowRightIcon from '@untitled-ui/icons-react/build/esm/ArrowRight';
-import PlusIcon from '@untitled-ui/icons-react/build/esm/Plus';
 import Box from '@mui/material/Box';
-import Button from '@mui/material/Button';
 import Container from '@mui/material/Container';
 import Grid from '@mui/material/Unstable_Grid2';
 import Stack from '@mui/material/Stack';
-import SvgIcon from '@mui/material/SvgIcon';
 import Typography from '@mui/material/Typography';
 import { Seo } from '../components/seo';
 import { usePageView } from '../hooks/use-page-view';
@@ -37,7 +33,7 @@ const Page = () => {
               lg: 4,
             }}
           >
-            <Grid xs={12}>
+            <Grid xs={12} >
               <Stack
                 direction="row"
                 justifyContent="space-between"

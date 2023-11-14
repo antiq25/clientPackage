@@ -10,7 +10,6 @@ import useMediaQuery from '@mui/material/useMediaQuery';
 import type { Theme } from '@mui/material/styles/createTheme';
 
 import { AccountButton } from '../account-button';
-import { LanguageSwitch } from '../language-switch';
 
 const TOP_NAV_HEIGHT = 64;
 const SIDE_NAV_WIDTH = 280;
@@ -69,7 +68,6 @@ export const TopNav: FC<TopNavProps> = (props) => {
           direction="row"
           spacing={2}
         >
-          <LanguageSwitch />
           <AccountButton />
         </Stack>
       </Stack>

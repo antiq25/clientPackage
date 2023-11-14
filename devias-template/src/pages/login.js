@@ -91,29 +91,36 @@ const LoginPage = () => {
           elevation={14}
           sx={{ margin: '25px' }}
         >
-          <CardHeader
-            subheader={
-              <Typography
-                color="text.secondary"
-                variant="body2"
-              >
-                Don&apos;t have an account? &nbsp;
-                <Link
-                  href="/register"
+          <CardContent>
+            <CardHeader
+              sx={{ padding: '0px' }}
+              subheader={
+                <Typography
+                  color="text.secondary"
                   variant="body2"
                 >
-                  Register
-                </Link>
-              </Typography>
-            }
-            title="Log in"
-          />
-          <CardContent>
+                  Don&apos;t have an account? &nbsp;
+                  <Link
+                    href="/register"
+                    variant="body2"
+                  >
+                    Register
+                  </Link>
+                </Typography>
+              }
+              title={
+                <Typography variant="h5">
+                  Log in
+                </Typography>
+              }
+            />
             <form
               onSubmit={handleLogin}
               noValidate
             >
-              <Stack spacing={3}>
+              <Stack 
+                spacing={2}
+                mt={2}>
                 <TextField
                   autoFocus
                   error={Boolean(error)}
