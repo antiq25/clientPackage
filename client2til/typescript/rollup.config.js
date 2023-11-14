@@ -3,9 +3,9 @@ import commonjs from '@rollup/plugin-commonjs';
 import  esbuild  from 'rollup-plugin-esbuild';
 
 export default {
-  input: '../typescript/bundle.ts', // Your entry file
+  input: '../typescript/api/dist/bundle.js', // Your entry file
   output: {
-    dir: './api/dist',
+    dir: './api/dist/bundled.js',
     format: 'es',
     sourcemap: false,
   },

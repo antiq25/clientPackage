@@ -57,7 +57,7 @@ def run(listingId, max_reviews):
     options.add_argument("--headless")
     driver = webdriver.Chrome(options=options)
     driver.get(url + "&hl=en")
-    sidebar = driver.find_element(By.CLASS_NAME, "m6QErb.DxyBCb.kA9KIf.dS8AEf")
+    sidebar = driver.find_elements(By.CSS_SELECTOR, "m6QErb.DxyBCb.kA9KIf.dS8AEf, k7jAl.lJ3Kh.miFGmb.w6Uhzf")
     see_more_buttons = driver.find_elements(
         By.CLASS_NAME, classNames["see_more_button"])
 

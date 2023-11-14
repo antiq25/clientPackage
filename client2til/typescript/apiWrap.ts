@@ -36,14 +36,22 @@ export const handleResetPassword = (token: string, password: string) => {
   return authAPI.resetPassword(token, password)
 }
 
-export const handleCreateListing = (userId, name, reviews_url, description) => {
-  return authAPI.createListing(userId, name, reviews_url, description)
+export const handleCreateListing = (
+  id: number,
+  name: string,
+  reviews_url: string,
+  description: string | undefined
+) => {
+  return authAPI.createListing(id, name, reviews_url, description)
 }
 
-export const handleGetListing = (userId, listingName) => {
+export const handleGetListing = (
+  userId: number,
+  listingName: string | undefined
+) => {
   return authAPI.getListing(userId, listingName)
 }
 
-export const handleFetchReviews = (listingId, max_reviews) => {
+export const handleFetchReviews = (listingId: number, max_reviews: number) => {
   return authAPI.fetchReviews(listingId, max_reviews)
 }
