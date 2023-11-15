@@ -4,7 +4,8 @@ import Chip from '@mui/material/Chip';
 import Stack from '@mui/material/Stack';
 import Typography from '@mui/material/Typography';
 
-import type { NavColor } from 'src/types/settings';
+import type { NavColor } from '../../../types/settings';
+import React from 'react';
 
 interface Option {
   label: string;

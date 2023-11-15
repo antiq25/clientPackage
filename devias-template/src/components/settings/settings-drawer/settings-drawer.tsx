@@ -10,8 +10,8 @@ import Stack from '@mui/material/Stack';
 import SvgIcon from '@mui/material/SvgIcon';
 import Typography from '@mui/material/Typography';
 
-import { Scrollbar } from 'src/components/scrollbar';
-import type { Settings } from 'src/types/settings';
+import { Scrollbar } from '../../../components/scrollbar';
+import type { Settings } from '../../../types/settings';
 
 import { OptionsColorPreset } from './options-color-preset';
 import { OptionsContrast } from './options-contrast';
@@ -20,6 +20,7 @@ import { OptionsLayout } from './options-layout';
 import { OptionsNavColor } from './options-nav-color';
 import { OptionsColorScheme } from './options-color-scheme';
 import { OptionsStretch } from './options-stretch';
+import React from 'react';
 
 interface SettingsDrawerProps {
   canReset?: boolean;

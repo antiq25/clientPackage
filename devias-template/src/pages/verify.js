@@ -12,8 +12,8 @@ import {
   Typography,
   Alert as MuiAlert,
 } from '@mui/material';
-import { Seo } from 'src/components/seo';
-import { useSettings } from 'src/hooks/use-settings';
+import { Seo } from '../components/seo';
+import { useSettings } from '../hooks/use-settings';
 import { apiHandler } from '../api/bundle';
 import useUser from '../hooks/decode';
 

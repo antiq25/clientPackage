@@ -15,14 +15,15 @@ import 'src/global.css';
 // Remove if locales are not used
 import 'src/locales/i18n';
 
-import { RTL } from 'src/components/rtl';
-import { SettingsButton } from 'src/components/settings/settings-button';
-import { SettingsDrawer } from 'src/components/settings/settings-drawer';
-import { Toaster } from 'src/components/toaster';
-import { SettingsConsumer, SettingsProvider } from 'src/contexts/settings';
-import { useNprogress } from 'src/hooks/use-nprogress';
-import { createTheme } from 'src/theme';
-import { createEmotionCache } from 'src/utils/create-emotion-cache';
+import { RTL } from '../components/rtl';
+import { SettingsButton } from '../components/settings/settings-button';
+import { SettingsDrawer } from '../components/settings/settings-drawer';
+import { Toaster } from '../components/toaster';
+import { SettingsConsumer, SettingsProvider } from '../contexts/settings';
+import { useNprogress } from '../hooks/use-nprogress';
+import { createTheme } from '../theme';
+import { createEmotionCache } from '../utils/create-emotion-cache';
+import React from 'react';
 
 const clientSideEmotionCache = createEmotionCache();
 
@@ -36,7 +37,7 @@ const CustomApp = (props: CustomAppProps) => {
 
   useNprogress();
 
-  const getLayout = Component.getLayout ?? ((page) => page);
+  const getLayout = (Component as any).getLayout ?? ((page) => page);
 
   return (
     <CacheProvider value={emotionCache}>

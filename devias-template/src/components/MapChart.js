@@ -1,8 +1,7 @@
 import dynamic from 'next/dynamic';
 import { alpha } from '@mui/system/colorManipulator';
 import { styled } from '@mui/material/styles';
-import { useTheme } from '@mui/material/styles'
-
+import { useTheme } from '@mui/material/styles';
 
 const ApexChart = dynamic(() => import('react-apexcharts'), {
   ssr: false,
@@ -21,10 +20,7 @@ const center = {
 
 const libraries = ['places'];
 
-
 const Chart = styled(ApexChart)(({ theme }) => ({
-
-
   '& .apexcharts-xaxistooltip': {
     backgroundColor: theme.palette.background.paper,
     boxShadow: theme.shadows[16],
@@ -63,7 +59,6 @@ const chartOptions = {
       show: false,
     },
   },
-
 
   grid: {
     borderColor: theme.palette.divider,
@@ -114,7 +109,6 @@ const chartOptions = {
           color: '#8884d8',
         },
       },
-
     },
     {
       opposite: true,

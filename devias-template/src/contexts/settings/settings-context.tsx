@@ -1,6 +1,6 @@
 import { createContext } from 'react';
 
-import type { Settings } from 'src/types/settings';
+import type { Settings } from '../../types/settings';
 
 export const defaultSettings: Settings = {
   colorPreset: 'indigo',

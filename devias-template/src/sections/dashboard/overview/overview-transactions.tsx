@@ -14,9 +14,9 @@ import TableRow from '@mui/material/TableRow';
 import Tabs from '@mui/material/Tabs';
 import Typography from '@mui/material/Typography';
 
-import { Scrollbar } from 'src/components/scrollbar';
-import type { SeverityPillColor } from 'src/components/severity-pill';
-import { SeverityPill } from 'src/components/severity-pill';
+import { Scrollbar } from '../../../components/scrollbar';
+import type { SeverityPillColor } from '../../../components/severity-pill';
+import { SeverityPill } from '../../../components/severity-pill';
 
 const statusMap: Record<string, SeverityPillColor> = {
   confirmed: 'success',

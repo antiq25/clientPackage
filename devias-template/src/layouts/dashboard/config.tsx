@@ -4,13 +4,13 @@ import { useTranslation } from 'react-i18next';
 import { SvgIcon } from '@mui/material';
 import PaymentIcon from '@mui/icons-material/Payment';
 import BusinessIcon from '@mui/icons-material/Business';
-import HomeSmileIcon from 'src/icons/untitled-ui/duocolor/home-smile';
+import HomeSmileIcon from '../../icons/untitled-ui/duocolor/home-smile';
 import MapIcon from '@mui/icons-material/Map';
 import TrendingUpIcon from '@mui/icons-material/TrendingUp';
 import WidgetsIcon from '@mui/icons-material/Widgets';
 import PixelIcon from '@mui/icons-material/Grain';
-import { tokens } from 'src/locales/tokens';
-import { paths } from 'src/paths';
+import { tokens } from '../../locales/tokens';
+import { paths } from '../../paths';
 
 export interface Item {
   disabled?: boolean;

@@ -8,7 +8,7 @@ import Tab from '@mui/material/Tab';
 import Tabs from '@mui/material/Tabs';
 import { useTheme } from '@mui/material/styles';
 
-import { Chart } from 'src/components/chart';
+import { Chart } from '../../../components/chart';
 
 type ChartSeries = {
   name: string;

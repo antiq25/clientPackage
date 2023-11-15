@@ -10,18 +10,19 @@ import useMediaQuery from '@mui/material/useMediaQuery';
 import type { Theme } from '@mui/material/styles/createTheme';
 import { useTheme } from '@mui/material/styles';
 
-import { Logo } from 'src/components/logo';
-import { RouterLink } from 'src/components/router-link';
-import { Scrollbar } from 'src/components/scrollbar';
-import { usePathname } from 'src/hooks/use-pathname';
-import { paths } from 'src/paths';
-import type { NavColor } from 'src/types/settings';
+import { Logo } from '../../../components/logo';
+import { RouterLink } from '../../../components/router-link';
+import { Scrollbar } from '../../../components/scrollbar';
+import { usePathname } from '../../../hooks/use-pathname';
+import { paths } from '../../../paths';
+import type { NavColor } from '../../../types/settings';
 
 import { AccountButton } from '../account-button';
 import type { Section } from '../config';
 import { LanguageSwitch } from '../language-switch';
 import { TenantSwitch } from '../tenant-switch';
 import { TopNavSection } from './top-nav-section';
+import React from 'react';
 
 const useCssVars = (color: NavColor): Record<string, string> => {
   const theme = useTheme();

@@ -21,6 +21,7 @@ import Tooltip from '@mui/material/Tooltip';
 import Typography from '@mui/material/Typography';
 
 import { applySort } from './utils/apply-sort';
+import React from 'react';
 
 type SortDir = 'asc' | 'desc';
 

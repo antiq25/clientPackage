@@ -11,7 +11,7 @@ import Typography from '@mui/material/Typography';
 import { Seo } from '../components/seo';
 import { usePageView } from '../hooks/use-page-view';
 import { Layout as DashboardLayout } from 'src/layouts/dashboard';
-import { useSettings } from '../hooks/use-settings';
+import { useSettings } from 'src/hooks/use-settings';
 import PixelTracking from '../components/pixelTracking';
 
 const Page = () => {

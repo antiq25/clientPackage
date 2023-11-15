@@ -19,7 +19,7 @@ async function createListing(data: CreateListingData): Promise<any> {
   const response = await fetch(`${BASE_URL}/dashboard/listing/create`, {
     method: 'POST',
     headers: {
-      'Content-Type': 'application/json'
+      'Content-Type': 'application/json',
     },
     body: JSON.stringify(data),
   });
@@ -28,13 +28,13 @@ async function createListing(data: CreateListingData): Promise<any> {
 }
 
 async function getListing(query: GetListingData): Promise<any> {
-    const url = new URL(`${BASE_URL}/dashboard/listing`);
-    Object.entries(query).forEach(([key, value]) => url.searchParams.append(key, String(value)));
+  const url = new URL(`${BASE_URL}/dashboard/listing`);
+  Object.entries(query).forEach(([key, value]) => url.searchParams.append(key, String(value)));
 
   const response = await fetch(url.toString(), {
     method: 'GET',
     headers: {
-        'Content-Type': 'application/json'
+      'Content-Type': 'application/json',
     },
   });
 
@@ -42,14 +42,14 @@ async function getListing(query: GetListingData): Promise<any> {
 }
 
 async function fetchReviews(query: FetchReviewsData): Promise<any> {
-    const url = new URL(`${BASE_URL}/dashboard/reviews`);
-    Object.entries(query).forEach(([key, value]) => url.searchParams.append(key, String(value)));
-    const response = await fetch(url.toString(), {
-        method: 'GET',
-        headers: {
-            'Content-Type': 'application/json'
-        },
-    });
+  const url = new URL(`${BASE_URL}/dashboard/reviews`);
+  Object.entries(query).forEach(([key, value]) => url.searchParams.append(key, String(value)));
+  const response = await fetch(url.toString(), {
+    method: 'GET',
+    headers: {
+      'Content-Type': 'application/json',
+    },
+  });
 
-    return response.json();
-};
+  return response.json();
+}

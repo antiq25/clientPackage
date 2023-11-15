@@ -5,6 +5,7 @@ import Box from '@mui/material/Box';
 import ButtonBase from '@mui/material/ButtonBase';
 import SvgIcon from '@mui/material/SvgIcon';
 import Tooltip from '@mui/material/Tooltip';
+import React from 'react';
 
 interface SettingsButtonProps {
   onClick?: () => void;

@@ -5,10 +5,11 @@ import Box from '@mui/material/Box';
 import ButtonBase from '@mui/material/ButtonBase';
 import SvgIcon from '@mui/material/SvgIcon';
 
-import { useMockedUser } from 'src/hooks/use-mocked-user';
-import { usePopover } from 'src/hooks/use-popover';
+import { useMockedUser } from '../../../hooks/use-mocked-user';
+import { usePopover } from '../../../hooks/use-popover';
 
 import { AccountPopover } from './account-popover';
+import React from 'react';
 
 export const AccountButton: FC = () => {
   const user = useMockedUser();

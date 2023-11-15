@@ -1,11 +1,12 @@
 import type { FC, ReactNode } from 'react';
 import PropTypes from 'prop-types';
 
-import { useSettings } from 'src/hooks/use-settings';
+import { useSettings } from '../../hooks/use-settings';
 
 import { useSections } from './config';
 import { HorizontalLayout } from './horizontal-layout';
 import { VerticalLayout } from './vertical-layout';
+import React from 'react';
 
 interface LayoutProps {
   children?: ReactNode;

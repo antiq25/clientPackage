@@ -7,10 +7,9 @@ import { Card, CardHeader } from '@mui/material';
 import SvgIcon from '@mui/material/SvgIcon';
 import Typography from '@mui/material/Typography';
 import ChartPage from '../components/ChartPage';
-import { Seo } from 'src/components/seo';
-import { useSettings } from 'src/hooks/use-settings';
+import { Seo } from '../components/seo';
+import { useSettings } from '../hooks/use-settings';
 import { Layout as DashboardLayout } from 'src/layouts/dashboard';
-import LoginPage from '../components/loginpage';
 import BusinessPage from '../components/MapReviews';
 import Trends from '../components/fetchTrends';
 

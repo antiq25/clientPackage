@@ -4,10 +4,10 @@ import Container from '@mui/material/Container';
 import Typography from '@mui/material/Typography';
 import useMediaQuery from '@mui/material/useMediaQuery';
 
-import { RouterLink } from 'src/components/router-link';
-import { Seo } from 'src/components/seo';
-import { usePageView } from 'src/hooks/use-page-view';
-import { paths } from 'src/paths';
+import { RouterLink } from '../components/router-link';
+import { Seo } from '../components/seo';
+import { usePageView } from '../hooks/use-page-view';
+import { paths } from '../paths';
 
 const Page = () => {
   const mdUp = useMediaQuery((theme) => theme.breakpoints.down('md'));

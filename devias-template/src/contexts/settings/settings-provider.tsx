@@ -3,7 +3,7 @@ import { useCallback, useEffect, useMemo, useState } from 'react';
 import PropTypes from 'prop-types';
 import isEqual from 'lodash.isequal';
 
-import type { Settings } from 'src/types/settings';
+import type { Settings } from '../../types/settings';
 
 import type { State } from './settings-context';
 import { defaultSettings, initialState, SettingsContext } from './settings-context';

@@ -4,13 +4,14 @@ import useMediaQuery from '@mui/material/useMediaQuery';
 import type { Theme } from '@mui/material/styles/createTheme';
 import { styled } from '@mui/material/styles';
 
-import type { NavColor } from 'src/types/settings';
+import type { NavColor } from '../../../types/settings';
 
 import type { Section } from '../config';
 import { MobileNav } from '../mobile-nav';
 import { SideNav } from './side-nav';
 import { TopNav } from './top-nav';
 import { useMobileNav } from './use-mobile-nav';
+import React from 'react';
 
 const SIDE_NAV_WIDTH = 280;
 

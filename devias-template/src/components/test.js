@@ -13,7 +13,7 @@ const ListingManager = () => {
   const [userId, setUserId] = useState('');
   const [listingName, setListingName] = useState('');
   const [listingId, setListingId] = useState('');
-  const [url, setUrl] = useState(''); // [TODO] - Remove this from the UI and the API 
+  const [url, setUrl] = useState(''); // [TODO] - Remove this from the UI and the API
   const [maxReviews, setMaxReviews] = useState(10);
   const [createdListing, setCreatedListing] = useState(null);
   const [fetchedListing, setFetchedListing] = useState(null);
@@ -21,7 +21,7 @@ const ListingManager = () => {
 
   const SMSCreateListing = async () => {
     const response = await apiHandler.handleCreateListing(url, user.id, listingName, description);
-    
+
     setCreatedListing(response);
   };
 

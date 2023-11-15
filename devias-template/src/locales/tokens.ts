@@ -10,5 +10,6 @@ export const tokens = {
     trends: 'Trends',
     pixel: 'Pixel',
     widget: 'Widget',
+    overview: 'Overview',
   },
 };

@@ -8,8 +8,8 @@ import ListItemButton from '@mui/material/ListItemButton';
 import ListItemText from '@mui/material/ListItemText';
 import SvgIcon from '@mui/material/SvgIcon';
 
-import { Dropdown, DropdownMenu, DropdownTrigger } from 'src/components/dropdown';
-import { RouterLink } from 'src/components/router-link';
+import { Dropdown, DropdownMenu, DropdownTrigger } from '../../../components/dropdown';
+import { RouterLink } from '../../../components/router-link';
 
 interface Item {
   disabled?: boolean;

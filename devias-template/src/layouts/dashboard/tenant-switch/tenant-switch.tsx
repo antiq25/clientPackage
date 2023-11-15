@@ -8,9 +8,10 @@ import Stack from '@mui/material/Stack';
 import SvgIcon from '@mui/material/SvgIcon';
 import Typography from '@mui/material/Typography';
 
-import { usePopover } from 'src/hooks/use-popover';
+import { usePopover } from '../../../hooks/use-popover';
 
 import { TenantPopover } from './tenant-popover';
+import React from 'react';
 
 const tenants: string[] = ['Devias', 'Acme Corp'];
 
