@@ -172,7 +172,24 @@ export const MobileNav: FC<MobileNavProps> = (props) => {
             >
               <Logo />
             </Box>
-            <TenantSwitch sx={{ flexGrow: 1 }} />
+            <Typography
+              component={RouterLink}
+              href={paths.index}
+              sx={{
+                flexGrow: 1,
+                textDecoration: 'none',
+                color: 'inherit',
+                '&:hover': {
+                  textDecoration: 'none', // Remove underline on hover
+                  color: 'inherit',
+                },
+                '&:visited': {
+                  color: 'inherit',
+                },
+              }}
+            >
+              Show my Service
+            </Typography>
           </Stack>
           <Stack
             component="nav"
@@ -191,33 +208,6 @@ export const MobileNav: FC<MobileNavProps> = (props) => {
               />
             ))}
           </Stack>
-          <Box sx={{ p: 3 }}>
-            <Typography
-              color="neutral.400"
-              variant="subtitle1"
-            >
-              Settings
-            </Typography>
-            <Typography
-              color="neutral.400"
-              sx={{ mb: 2 }}
-              variant="body2"
-            ></Typography>
-            <Button
-              component="a"
-              fullWidth
-              href={paths.docs}
-              startIcon={
-                <SvgIcon>
-                  <File04Icon />
-                </SvgIcon>
-              }
-              target="_blank"
-              variant="contained"
-            >
-              Account Settings
-            </Button>
-          </Box>
         </Stack>
       </Scrollbar>
     </Drawer>

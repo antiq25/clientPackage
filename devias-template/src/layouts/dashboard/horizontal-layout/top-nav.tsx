@@ -9,7 +9,7 @@ import SvgIcon from '@mui/material/SvgIcon';
 import useMediaQuery from '@mui/material/useMediaQuery';
 import type { Theme } from '@mui/material/styles/createTheme';
 import { useTheme } from '@mui/material/styles';
-
+import Typography from '@mui/material/Typography'
 import { Logo } from 'src/components/logo';
 import { RouterLink } from 'src/components/router-link';
 import { Scrollbar } from 'src/components/scrollbar';
@@ -218,7 +218,11 @@ export const TopNav: FC<TopNavProps> = (props) => {
           >
             <Logo />
           </Box>
-          <TenantSwitch />
+          <Typography component={RouterLink}
+              href={paths.index}
+              sx={{ flexGrow: 1 }}>
+              Show my Service
+          </Typography>
         </Stack>
         <Stack
           alignItems="center"

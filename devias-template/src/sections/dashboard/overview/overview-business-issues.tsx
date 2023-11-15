@@ -10,7 +10,7 @@ import Typography from '@mui/material/Typography';
 import BusinessIcon from '@mui/icons-material/Business';
 
 interface OverviewBusinessIssuesProps {
-  amount: number;
+  name: string;
 }
 
 export const OverviewBusinessIssues: FC<OverviewBusinessIssuesProps> = (props) => {
@@ -53,5 +53,5 @@ export const OverviewBusinessIssues: FC<OverviewBusinessIssuesProps> = (props) =
 };
 
 OverviewBusinessIssues.propTypes = {
-  amount: PropTypes.number.isRequired,
+  name: PropTypes.string.isRequired,
 };

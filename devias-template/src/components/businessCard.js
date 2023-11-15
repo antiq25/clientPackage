@@ -39,13 +39,12 @@ const BusinessCard = ({ onBusinessSelect, refreshTrigger, onSetReviewAggregate, 
     };
 
     fetchListings().finally(() => {
-      fetchLockRef.current = false; // Release the lock after fetching
+      fetchLockRef.current = false;
     });
-  }, [user, refreshTrigger]); // Dependencies include refreshTrigger
+  }, [user, refreshTrigger]);
 
   const fetchReviewsForListing = async (listingId) => {
     const reviewsResponse = await apiHandler.handleFetchReviews(listingId);
-    console.log('test');
     if (reviewsResponse?.success) {
       const reviews = reviewsResponse.data.reviews;
       const aggregate = reviews.reduce(

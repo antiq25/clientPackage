@@ -8,7 +8,7 @@ import DialogTitle from '@mui/material/DialogTitle';
 import Button from '@mui/material/Button';
 import Link from '@mui/material/Link';
 import { useRouter } from 'next/router';
-import useUser from '../hooks/decode'; // Adjust the import path as needed
+import useUser from '../hooks/decode'; 
 import { apiHandler } from '../api/bundle'; // Adjust the import path as needed
 
 const EmailVerificationDialog = () => {

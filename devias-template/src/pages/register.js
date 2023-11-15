@@ -10,6 +10,7 @@ import {
   Snackbar,
   Container,
   Stack,
+  FormHelperText,
   Typography,
   Alert as MuiAlert,
 } from '@mui/material';
@@ -152,12 +153,12 @@ const RegisterPage = () => {
                 onChange={(e) => setConfirmPassword(e.target.value)}
               />
               {error && (
-                <Typography
-                  color="error"
+                <FormHelperText
+                  error
                   mt={2}
                 >
-                  {error}
-                </Typography>
+                  {error.replaceAll("\"",'')}
+                </FormHelperText>
               )}
               <Button
                 type="submit"

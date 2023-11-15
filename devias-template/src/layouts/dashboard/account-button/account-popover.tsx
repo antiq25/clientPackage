@@ -73,7 +73,7 @@ export const AccountPopover: FC<AccountPopoverProps> = (props) => {
       disableScrollLock
       onClose={onClose}
       open={!!open}
-      PaperProps={{ sx: { width: 200 } }}
+      PaperProps={{ sx: { width: 250 } }}
       {...other}
     >
       <Box sx={{ p: 2 }}>
@@ -93,7 +93,7 @@ export const AccountPopover: FC<AccountPopoverProps> = (props) => {
       <Box sx={{ p: 1 }}>
         <ListItemButton
           component={RouterLink}
-          href="#"
+          href={paths.profile}
           onClick={onClose}
           sx={{
             borderRadius: 1,

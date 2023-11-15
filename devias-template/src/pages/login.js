@@ -1,6 +1,8 @@
+'use client';
 import React, { useEffect, useState, forwardRef } from 'react';
 import { useRouter } from 'next/router';
 import {
+  Box,
   Card,
   CardHeader,
   CardContent,
@@ -102,7 +104,8 @@ const LoginPage = () => {
                   Don&apos;t have an account? &nbsp;
                   <Link
                     href="/register"
-                    variant="body2"
+                    underline="hover"
+                    variant="subtitle2"
                   >
                     Register
                   </Link>
@@ -118,7 +121,7 @@ const LoginPage = () => {
               onSubmit={handleLogin}
               noValidate
             >
-              <Stack 
+              <Stack
                 spacing={2}
                 mt={2}>
                 <TextField
@@ -159,6 +162,21 @@ const LoginPage = () => {
               >
                 Log In
               </Button>
+              <Box
+                sx={{
+                  display: 'flex',
+                  justifyContent: 'center',
+                  mt: 3,
+                }}
+              >
+                <Link
+                  href="/forgot-password"
+                  underline="hover"
+                  variant="subtitle2"
+                >
+                  Forgot password?
+                </Link>
+              </Box>
             </form>
           </CardContent>
         </Card>

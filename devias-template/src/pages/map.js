@@ -110,13 +110,13 @@ const Page = () => {
               xs={12}
               md={4}
             >
-              <OverviewReviewIssues amount={reviewsCount} />
+              <OverviewReviewIssues amount={parseInt(reviewsCount)} />
             </Grid>
             <Grid
               xs={12}
               md={4}
             >
-              <OverviewRatingIssues amount={rating} />
+              <OverviewRatingIssues amount={parseInt(rating)} />
             </Grid>
             <Grid
               xs={12}

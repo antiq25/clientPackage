@@ -7,6 +7,7 @@ export const paths = {
   forgotPassword: '/forgot-password',
   resetPassword: '/reset-password',
   verifyEmail: '/verify',
+  profile: 'profile',
   notFound: '/404',
   serverError: '/500',
   business: '/business',

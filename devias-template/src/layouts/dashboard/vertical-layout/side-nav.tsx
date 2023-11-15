@@ -1,12 +1,10 @@
 import type { FC } from 'react';
 import { useMemo } from 'react';
 import PropTypes from 'prop-types';
-import File04Icon from '@untitled-ui/icons-react/build/esm/File04';
 import Box from '@mui/material/Box';
 import Button from '@mui/material/Button';
 import Drawer from '@mui/material/Drawer';
 import Stack from '@mui/material/Stack';
-import SvgIcon from '@mui/material/SvgIcon';
 import Typography from '@mui/material/Typography';
 import { useTheme } from '@mui/material/styles';
 
@@ -212,7 +210,24 @@ export const SideNav: FC<SideNavProps> = (props) => {
             >
               <Logo />
             </Box>
-            <TenantSwitch sx={{ flexGrow: 1 }} />
+            <Typography
+              component={RouterLink}
+              href={paths.index}
+              sx={{
+                flexGrow: 1,
+                textDecoration: 'none',
+                color: 'inherit',
+                '&:hover': {
+                  textDecoration: 'none', // Remove underline on hover
+                  color: 'inherit',
+                },
+                '&:visited': {
+                  color: 'inherit',
+                },
+              }}
+            >
+              Show my Service
+            </Typography>
           </Stack>
           <Stack
             component="nav"

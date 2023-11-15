@@ -77,7 +77,6 @@ class DashboardController extends dashboard_service_1.default {
                 throw new safeError_1.default(error.message, true);
             }
             const reviews = await this._fetchReviews(Number(userId), Number(listingId), max ? Number(max) : 10);
-            console.log(reviews);
             if (!reviews) {
                 throw new safeError_1.default('Reviews not found', true);
             }
