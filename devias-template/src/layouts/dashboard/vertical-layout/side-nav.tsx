@@ -8,16 +8,17 @@ import Stack from '@mui/material/Stack';
 import Typography from '@mui/material/Typography';
 import { useTheme } from '@mui/material/styles';
 
-import { Logo } from 'src/components/logo';
-import { RouterLink } from 'src/components/router-link';
-import { Scrollbar } from 'src/components/scrollbar';
-import { usePathname } from 'src/hooks/use-pathname';
-import { paths } from 'src/paths';
-import type { NavColor } from 'src/types/settings';
+import { Logo } from '../../../components/logo';
+import { RouterLink } from '../../../components/router-link';
+import { Scrollbar } from '../../../components/scrollbar';
+import { usePathname } from '../../../hooks/use-pathname';
+import { paths } from '../../../paths';
+import type { NavColor } from '../../../types/settings';
 
 import type { Section } from '../config';
 import { TenantSwitch } from '../tenant-switch';
 import { SideNavSection } from './side-nav-section';
+import React from 'react';
 
 const SIDE_NAV_WIDTH = 280;
 

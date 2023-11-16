@@ -1,19 +1,21 @@
 import type { NextPage } from 'next';
-import PlusIcon from '@untitled-ui/icons-react/build/esm/Plus';
 import Box from '@mui/material/Box';
 import Button from '@mui/material/Button';
 import Container from '@mui/material/Container';
 import Stack from '@mui/material/Stack';
 import SvgIcon from '@mui/material/SvgIcon';
 import Typography from '@mui/material/Typography';
-import ChartPage from '../components/ChartPage';
-import { Seo } from 'src/components/seo';
-import { useSettings } from 'src/hooks/use-settings';
-import { Layout as DashboardLayout } from 'src/layouts/dashboard';
-import LoginPage from '../components/loginpage';
+import { Seo } from '../components/seo';
+import { useSettings } from '../hooks/use-settings';
+import { Layout as DashboardLayout } from '../layouts/dashboard';
 import BusinessPage from '../components/MapReviews';
+import React from 'react';
 
-const Page: NextPage = () => {
+interface PageProps {}
+
+const Page: NextPage<PageProps> & {
+  getLayout: (page: React.ReactNode) => JSX.Element;
+} = () => {
   const settings = useSettings();
 
   return (
@@ -26,7 +28,11 @@ const Page: NextPage = () => {
           py: 8,
         }}
       >
-        <BusinessPage />
+        <BusinessPage
+          review={{ any: true }}
+          rating={{ any: true }}
+          business={{ any: true }}
+        />
       </Box>
     </>
   );

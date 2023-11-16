@@ -7,7 +7,8 @@ import Stack from '@mui/material/Stack';
 import SvgIcon from '@mui/material/SvgIcon';
 import Typography from '@mui/material/Typography';
 
-import { useSettings } from 'src/hooks/use-settings';
+import { useSettings } from '../../../hooks/use-settings';
+import React from 'react';
 
 export const OverviewBanner: FC = (props) => {
   const { handleDrawerOpen } = useSettings();

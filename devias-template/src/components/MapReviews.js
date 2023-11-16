@@ -57,41 +57,44 @@ const BusinessMap = ({ review, rating, business }) => {
     [fetchPlaces]
   );
 
-  const onMarkerClick = useCallback((marker) => {
-    const placeId = marker.placeId;
-    if (mapRef.current && placeId) {
-      const service = new window.google.maps.places.PlacesService(mapRef.current);
-      const request = {
-        placeId: placeId,
-        fields: ['name', 'rating', 'user_ratings_total', 'reviews'],
-      };
+  const onMarkerClick = useCallback(
+    (marker) => {
+      const placeId = marker.placeId;
+      if (mapRef.current && placeId) {
+        const service = new window.google.maps.places.PlacesService(mapRef.current);
+        const request = {
+          placeId: placeId,
+          fields: ['name', 'rating', 'user_ratings_total', 'reviews'],
+        };
 
-      service.getDetails(request, (place, status) => {
-        if (status === window.google.maps.places.PlacesServiceStatus.OK && place) {
-          setSelectedBusiness(place.name);
-          // Assuming 'place.reviews' is an array of review objects
-          if (place.reviews) {
-            // Calculate the average rating
-            const averageRating =
-              place.reviews.reduce((acc, { rating }) => acc + rating, 0) / place.reviews.length;
-            // Set data for the combined graph
-            business(place.name);
-            review(place.user_ratings_total);
-            rating(averageRating);
-            setReviewData([
-              {
-                category: 'Average Rating',
-                averageRating: averageRating,
-                totalReviews: place.user_ratings_total,
-              },
-            ]);
-          } else {
-            setReviewData([]);
+        service.getDetails(request, (place, status) => {
+          if (status === window.google.maps.places.PlacesServiceStatus.OK && place) {
+            setSelectedBusiness(place.name);
+            // Assuming 'place.reviews' is an array of review objects
+            if (place.reviews) {
+              // Calculate the average rating
+              const averageRating =
+                place.reviews.reduce((acc, { rating }) => acc + rating, 0) / place.reviews.length;
+              // Set data for the combined graph
+              business(place.name);
+              review(place.user_ratings_total);
+              rating(averageRating);
+              setReviewData([
+                {
+                  category: 'Average Rating',
+                  averageRating: averageRating,
+                  totalReviews: place.user_ratings_total,
+                },
+              ]);
+            } else {
+              setReviewData([]);
+            }
           }
-        }
-      });
-    }
-  }, []);
+        });
+      }
+    },
+    [business, rating, review]
+  );
 
   const onMapClick = useCallback((event) => {
     if (!mapRef.current) {

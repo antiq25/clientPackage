@@ -24,7 +24,7 @@
     ],
     "resolveJsonModule": true,
     "skipLibCheck": true,
-    "strict": true,
+    "strict": false,
     "target": "es6",
     "useUnknownInCatchVariables": false
   },

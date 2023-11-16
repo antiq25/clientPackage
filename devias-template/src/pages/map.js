@@ -5,15 +5,15 @@ import Container from '@mui/material/Container';
 import Grid from '@mui/material/Unstable_Grid2';
 import Stack from '@mui/material/Stack';
 import Typography from '@mui/material/Typography';
-import { Seo } from 'src/components/seo';
-import { useSettings } from 'src/hooks/use-settings';
+import { Seo } from '../components/seo';
+import { useSettings } from '../hooks/use-settings';
 import { Layout as DashboardLayout } from 'src/layouts/dashboard';
 import BusinessMap from '../components/MapReviews';
 import { usePageView } from '../hooks/use-page-view';
 import { OverviewReviewIssues } from '../sections/dashboard/overview/overview-review-issues';
 import { OverviewRatingIssues } from '../sections/dashboard/overview/overview-rating-issues';
 import { OverviewBusinessIssues } from '../sections/dashboard/overview/overview-business-issues';
-import { OverviewTips } from 'src/sections/dashboard/overview/overview-tips';
+import { OverviewTips } from '../sections/dashboard/overview/overview-tips';
 
 const Page = () => {
   const settings = useSettings();

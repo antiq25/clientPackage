@@ -4,9 +4,10 @@ import type { DocumentContext, DocumentProps } from 'next/document';
 import Document, { Head, Html, Main, NextScript } from 'next/document';
 import createEmotionServer from '@emotion/server/create-instance';
 
-import { createEmotionCache } from 'src/utils/create-emotion-cache';
+import { createEmotionCache } from '../utils/create-emotion-cache';
 
 import type { CustomAppProps } from './_app';
+import React from 'react';
 
 interface CustomDocumentProps extends DocumentProps {
   emotionStyleTags: ReactElement[];

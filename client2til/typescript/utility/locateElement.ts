@@ -1,73 +1,74 @@
-import * as apiCalls from '../api.wrap.js'
+import * as apiHandler from '../apiWrap'
 
-export const handleSignup = async () => {
-  const email = (document.getElementById('signupEmail') as HTMLInputElement)
-    .value
-  const password = (
-    document.getElementById('signupPassword') as HTMLInputElement
-  ).value
-  const firstName = (
-    document.getElementById('signupFirstName') as HTMLInputElement
-  ).value
-  const lastName = (
-    document.getElementById('signupLastName') as HTMLInputElement
-  ).value
-  await apiCalls.handleSignup(email, password, firstName, lastName)
+export const getInputValue = (id: string): string => {
+  return (document.getElementById(id) as HTMLInputElement).value
 }
 
-export const handleLogin = async () => {
-  const email = (document.getElementById('loginEmail') as HTMLInputElement)
-    .value
-  const password = (
-    document.getElementById('loginPassword') as HTMLInputElement
-  ).value
-  await apiCalls.handleLogin(email, password)
+export const handleSignup = async (): Promise<void> => {
+  const email = getInputValue('signupEmail')
+  const password = getInputValue('signupPassword')
+  const firstName = getInputValue('signupFirstName')
+  const lastName = getInputValue('signupLastName')
+  await apiHandler.handleSignup(email, password, firstName, lastName)
 }
 
-export const handleVerifyEmail = async () => {
-  const code = (document.getElementById('verifyEmailCode') as HTMLInputElement)
-    .value
-  await apiCalls.handleVerifyEmail(code)
+export const handleLogin = async (): Promise<void> => {
+  const email = getInputValue('loginEmail')
+  const password = getInputValue('loginPassword')
+  await apiHandler.handleLogin(email, password)
 }
 
-export const handleResendEmailVerification = async () => {
-  const email = (
-    document.getElementById('resendVerificationEmail') as HTMLInputElement
-  ).value
-  await apiCalls.handleResendEmailVerification(email)
+export const handleVerifyEmail = async (): Promise<void> => {
+  const code = getInputValue('verifyEmailCode')
+  await apiHandler.handleVerifyEmail(code)
 }
 
-export const handleGetProfile = async () => {
-  const id = Number(
-    (document.getElementById('getProfileId') as HTMLInputElement).value
-  )
-  await apiCalls.handleGetProfile(id)
+export const handleResendEmailVerification = async (): Promise<void> => {
+  const email = getInputValue('resendVerificationEmail')
+  await apiHandler.handleResendEmailVerification(email)
 }
 
-export const handleUpdateProfile = async () => {
-  const id = Number(localStorage.getItem('token'))
-  const firstName = (document.getElementById('firstName') as HTMLInputElement)
-    .value
-  const lastName = (document.getElementById('lastName') as HTMLInputElement)
-    .value
+export const handleGetProfile = async (): Promise<void> => {
+  const id = Number(localStorage.getItem('userId'))
+  await apiHandler.handleGetProfile(id)
+}
 
+export const handleUpdateProfile = async (): Promise<void> => {
+  const id = Number(localStorage.getItem('userId'))
+  const firstName = getInputValue('firstName')
+  const lastName = getInputValue('lastName')
   const profileData = { firstName, lastName }
-  await apiCalls.handleUpdateProfile(id, profileData)
+  await apiHandler.handleUpdateProfile(id, profileData)
 }
 
-export const handleForgotPassword = async () => {
-  const email = (
-    document.getElementById('forgotPasswordEmail') as HTMLInputElement
-  ).value
-  await apiCalls.handleForgotPassword(email)
+export const handleForgotPassword = async (): Promise<void> => {
+  const email = getInputValue('forgotPasswordEmail')
+  await apiHandler.handleForgotPassword(email)
 }
 
-export const handleResetPassword = async () => {
-  const token = (
-    document.getElementById('resetPasswordToken') as HTMLInputElement
-  ).value
-  const password = (
-    document.getElementById('resetPassword') as HTMLInputElement
-  ).value
-  await apiCalls.handleResetPassword(token, password)
+export const handleResetPassword = async (): Promise<void> => {
+  const token = getInputValue('resetPasswordToken')
+  const password = getInputValue('resetPassword')
+  await apiHandler.handleResetPassword(token, password)
+}
+
+export const handleFetchReviews = async (): Promise<void> => {
+  const listingId = Number(getInputValue('listingId'))
+  const max_reviews = Number(getInputValue('max_reviews'))
+  await apiHandler.handleFetchReviews(listingId, max_reviews)
+}
+
+export const handleCreateListing = async (): Promise<void> => {
+  const name = getInputValue('name')
+  const reviews_url = getInputValue('reviews_url')
+  const description = getInputValue('description')
+  const userId = Number(localStorage.getItem('userId')) // Assuming the user ID is stored in localStorage
+
+  await apiHandler.handleCreateListing(userId, name, reviews_url, description)
+}
+
+export const handleGetListing = async (): Promise<void> => {
+  const userId = Number(getInputValue('userId'))
+  const listingName = getInputValue('listingName')
+  await apiHandler.handleGetListing(userId, listingName)
 }

@@ -15,5 +15,6 @@ export const paths = {
   billing: '/billing',
   map: '/map',
   pixel: '/pixel',
+  docs: 'docs',
   widget: '/widget',
 };

@@ -4,7 +4,7 @@ import useMediaQuery from '@mui/material/useMediaQuery';
 import { styled } from '@mui/material/styles';
 import type { Theme } from '@mui/material/styles/createTheme';
 
-import type { NavColor } from 'src/types/settings';
+import type { NavColor } from '../../../types/settings';
 
 import type { Section } from '../config';
 import { MobileNav } from '../mobile-nav';

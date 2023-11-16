@@ -3,8 +3,8 @@ import { DataGrid } from '@mui/x-data-grid';
 import { Button, Box, Card, CardHeader } from '@mui/material';
 import SvgIcon from '@mui/material/SvgIcon';
 import FormPopUp from './formPopUp';
-import PlusIcon from '@untitled-ui/icons-react/build/esm/Plus';
-import MinusIcon from '@untitled-ui/icons-react/build/esm/minus';
+import Plus from '@untitled-ui/icons-react/build/esm/Plus';
+import Minus from '@untitled-ui/icons-react/build/esm/minus';
 
 const columns = [
   { field: 'id', headerName: 'ID', width: 100 },
@@ -80,7 +80,7 @@ const BusinessListing = () => {
         <Button
           startIcon={
             <SvgIcon>
-              <PlusIcon />
+              <Plus />
             </SvgIcon>
           }
           variant="contained"
@@ -97,7 +97,7 @@ const BusinessListing = () => {
         <Button
           startIcon={
             <SvgIcon>
-              <MinusIcon />
+              <Minus />
             </SvgIcon>
           }
           variant="contained"

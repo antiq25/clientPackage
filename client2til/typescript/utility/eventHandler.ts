@@ -55,3 +55,26 @@ document
     event.preventDefault()
     await domHandlers.handleResetPassword()
   })
+
+  document
+  .getElementById('fetch-reviews-form')!
+  .addEventListener('submit', async (event: Event) => {
+    event.preventDefault()
+    await domHandlers.handleFetchReviews()
+  })
+
+  document
+  .getElementById('create-listing-form')!
+  .addEventListener('submit', async (event: Event) => {
+    event.preventDefault()
+    await domHandlers.handleCreateListing()
+  })
+  document
+  .getElementById('get-listing-form')!
+  .addEventListener('submit', async (event: Event) => {
+    event.preventDefault()
+    await domHandlers.handleGetListing()
+  })
+
+ 
+  

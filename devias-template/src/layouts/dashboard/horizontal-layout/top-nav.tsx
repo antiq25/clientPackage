@@ -21,6 +21,7 @@ import { AccountButton } from '../account-button';
 import type { Section } from '../config';
 import { TenantSwitch } from '../tenant-switch';
 import { TopNavSection } from './top-nav-section';
+import React from 'react';
 
 const useCssVars = (color: NavColor): Record<string, string> => {
   const theme = useTheme();
