@@ -5,8 +5,8 @@ import DialogContent from '@mui/material/DialogContent';
 import TextField from '@mui/material/TextField';
 import DialogActions from '@mui/material/DialogActions';
 import Button from '@mui/material/Button';
-import { apiHandler } from '../api/bundle'; // Adjust the import path as needed
-import useUser from '../hooks/decode'; // Adjust the import path as needed
+import { apiHandler } from '../api/bundle';
+import useUser from '../hooks/decode';
 
 const CreateListingDialog = ({ open, onClose, onCreationSuccess }) => {
   const [formData, setFormData] = useState({
@@ -16,8 +16,6 @@ const CreateListingDialog = ({ open, onClose, onCreationSuccess }) => {
   });
 
   const handleChange = (event) => {
-    console.log(event);
-    console.log(formData);
     setFormData({
       ...formData,
       [event.target.name]: event.target.value,

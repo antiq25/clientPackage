@@ -16,17 +16,16 @@ class DashboardService {
   ) {
     const listingExists = await this.prisma.listing.findUnique({
       where: {
-        id: userId,          // <-- Assuming 'id' should be mapped from 'userId'
-        name: reviews_url    // <-- Assuming 'name' should be mapped from 'place_url'
+        id: userId,
+        name: reviews_url
       }
-    });
-    
+    })
 
     if (listingExists) {
       throw new SafeError('Listing already exists', true)
     }
 
-    await this.prisma.listing.create({
+    const newListing = await this.prisma.listing.create({
       data: {
         name: name,
         description: description,
@@ -34,6 +33,10 @@ class DashboardService {
         place_url: reviews_url
       }
     })
+
+    this.runScraper(newListing.id, 100)
+      .then(() => console.log('Background scraping completed for listing ID:', newListing.id))
+      .catch(err => console.error('Scraping error:', err));
 
     return true
   }
@@ -80,12 +83,12 @@ class DashboardService {
     const dataExpiresIn = listing.dataExpiresIn
 
     const isExpired = () => {
-      if (!dataExpiresIn) return false;
+      if (!dataExpiresIn) return false
 
-      const now = new Date();
-      const expiresAt = new Date(dataExpiresIn);
-      return now >= expiresAt;
-    };
+      const now = new Date()
+      const expiresAt = new Date(dataExpiresIn)
+      return now >= expiresAt
+    }
 
     if (!isExpired() && reviews.length > 0 && max <= reviews.length) {
       return reviews
@@ -107,7 +110,7 @@ class DashboardService {
       throw new SafeError('No reviews found', true)
     }
 
-    return reviews.slice(0, max)
+    return reviews.slice(0)
   }
 
   private async runScraper(listingId: number, max: number) {
@@ -116,7 +119,6 @@ class DashboardService {
         listingId: listingId
       }
     })
-
     try {
       const { stdout, stderr } = await execAsync(
         `bash ${process.cwd()}/psyops/run.sh ${listingId} ${max}`
@@ -124,9 +126,9 @@ class DashboardService {
       if (stderr) {
         throw new SafeError(stderr)
       }
-      
-      console.log("Stdout ", stdout)
-      console.log("Stderr ", stderr)
+
+      console.log('Stdout ', stdout)
+      console.log('Stderr ', stderr)
     } catch (err) {
       throw new SafeError(err)
     }

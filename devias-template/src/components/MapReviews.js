@@ -1,10 +1,10 @@
 import React, { useState, useCallback, useRef } from 'react';
-import dynamic from 'next/dynamic';
-import { alpha } from '@mui/system/colorManipulator';
-import { styled } from '@mui/material/styles';
-import { GoogleMap, Marker, useJsApiLoader } from '@react-google-maps/api';
+import { GoogleMap, Marker, Autocomplete, useJsApiLoader } from '@react-google-maps/api';
 import { useTheme } from '@mui/material/styles';
-import { Card, CardHeader } from '@mui/material';
+import { Card, CardHeader, TextField } from '@mui/material';
+import ConfirmationDialog from './listingDialog';
+import { apiHandler } from '../api/bundle';
+import useUser from '../hooks/decode'
 
 const containerStyle = {
   width: '100%',
@@ -18,16 +18,19 @@ const center = {
 
 const libraries = ['places'];
 
-const BusinessMap = ({ review, rating, business }) => {
+const BusinessMap = ({ review, rating, business, onBusinessAdded  }) => {
   const [businesses, setBusinesses] = useState([]);
   const [selectedBusiness, setSelectedBusiness] = useState(null);
   const [reviewData, setReviewData] = useState([]);
   const [markers, setMarkers] = useState([]);
   const [map, setMap] = useState(null);
+  const [zoom, setZoom] = useState(12);
   const mapRef = useRef(null);
-  const theme = useTheme();
+  const autocompleteRef = useRef(null);
+  const [dialogOpen, setDialogOpen] = useState(false);
+  const [currentPlaceId, setCurrentPlaceId] = useState(null);
 
-  const [totalReviewsData, setTotalReviewsData] = useState([]);
+
 
   const { isLoaded } = useJsApiLoader({
     googleMapsApiKey: 'AIzaSyBGx2qihcXLK-_Ek-g-GxlNTDZVlDgf0lU',
@@ -54,95 +57,99 @@ const BusinessMap = ({ review, rating, business }) => {
       setMap(mapInstance);
       fetchPlaces(mapInstance);
     },
-    [fetchPlaces]
   );
 
-  const onMarkerClick = useCallback(
-    (marker) => {
-      const placeId = marker.placeId;
-      if (mapRef.current && placeId) {
-        const service = new window.google.maps.places.PlacesService(mapRef.current);
-        const request = {
-          placeId: placeId,
-          fields: ['name', 'rating', 'user_ratings_total', 'reviews'],
-        };
 
-        service.getDetails(request, (place, status) => {
-          if (status === window.google.maps.places.PlacesServiceStatus.OK && place) {
-            setSelectedBusiness(place.name);
-            // Assuming 'place.reviews' is an array of review objects
-            if (place.reviews) {
-              // Calculate the average rating
-              const averageRating =
-                place.reviews.reduce((acc, { rating }) => acc + rating, 0) / place.reviews.length;
-              // Set data for the combined graph
-              business(place.name);
-              review(place.user_ratings_total);
-              rating(averageRating);
-              setReviewData([
-                {
-                  category: 'Average Rating',
-                  averageRating: averageRating,
-                  totalReviews: place.user_ratings_total,
-                },
-              ]);
-            } else {
-              setReviewData([]);
-            }
+  const onMarkerClick = useCallback((marker) => {
+    setCurrentPlaceId(marker.placeId);
+    setDialogOpen(true);
+    const placeId = marker.placeId;
+    console.log(placeId)
+    if (mapRef.current && placeId) {
+      const service = new window.google.maps.places.PlacesService(mapRef.current);
+      const request = {
+        placeId: placeId,
+        fields: ['name', 'rating', 'user_ratings_total', 'reviews'],
+      };
+
+
+      service.getDetails(request, (place, status) => {
+        if (status === window.google.maps.places.PlacesServiceStatus.OK && place) {
+          setSelectedBusiness(place.name);
+          // Assuming 'place.reviews' is an array of review objects
+          if (place.reviews) {
+            // Calculate the average rating
+            const averageRating =
+              place.reviews.reduce((acc, { rating }) => acc + rating, 0) / place.reviews.length;
+            // Set data for the combined graph
+            business(place.name);
+            review(place.user_ratings_total);
+            rating(averageRating);
+            setReviewData([
+              {
+                category: 'Average Rating',
+                averageRating: averageRating,
+                totalReviews: place.user_ratings_total,
+              },
+            ]);
+          } else {
+            setReviewData([]);
           }
-        });
-      }
-    },
+        }
+      });
+    }
+  },
     [business, rating, review]
   );
 
-  const onMapClick = useCallback((event) => {
-    if (!mapRef.current) {
-      console.error('Map reference not available.');
+  const onPlaceChanged = () => {
+    const place = autocompleteRef.current.getPlace();
+
+    if (!place.geometry) {
+      console.log("Returned place contains no geometry");
       return;
     }
-    const latLng = event.latLng;
-    const geocoder = new window.google.maps.Geocoder();
-    geocoder.geocode({ location: latLng }, (results, status) => {
-      if (status === 'OK') {
-        if (results[0]) {
-          console.log('Nearest address:', results[0].formatted_address);
-
-          const newMarker = {
-            place_id: null,
-            position: {
-              lat: latLng.lat(),
-              lng: latLng.lng(),
-            },
-          };
-
-          setMarkers((prevMarkers) => [...prevMarkers, newMarker]);
-
-          const placesService = new window.google.maps.places.PlacesService(mapRef.current);
-          placesService.nearbySearch(
-            {
-              location: latLng,
-              radius: '50',
-            },
-            (placesResults, placesStatus) => {
-              if (
-                placesStatus === window.google.maps.places.PlacesServiceStatus.OK &&
-                placesResults
-              ) {
-                console.log('Found places:', placesResults);
-              } else {
-                console.error('No places found:', placesStatus);
-              }
-            }
-          );
-        } else {
-          console.log('No results found');
-        }
+    
+    if (place.place_id) {
+      setZoom(18);
+      const existingMarker = markers.find(marker => marker.placeId === place.place_id);
+      if (existingMarker) {
+        onMarkerClick(existingMarker);
       } else {
-        console.error('Geocoder failed due to:', status);
+        console.log('No existing marker found for the selected place');
       }
-    });
-  }, []);
+
+      mapRef.current.panTo(place.geometry.location);
+    } else {
+      console.log("Place ID is undefined");
+    }
+  };
+
+  const handleDialogClose = () => {
+    setDialogOpen(false);
+  };
+
+  const handleAddBusiness = async (placeId) => {
+    console.log("Adding business with place ID:", placeId, "Business Name", selectedBusiness);
+    try {
+      const userId = useUser; // This seems incorrect. You should call useUser() if it's a hook.
+      let url = `https://www.google.com/maps/place/?q=place_id:${placeId}`;
+      console.log(url)
+      const response = await apiHandler.handleCreateListing(
+        userId,
+        selectedBusiness.slice(0,20),
+        url,
+        'Imported from the dashboard map.'
+      );
+      if (response.success) {
+        onBusinessAdded();
+      } else {
+        console.error('Failed to create listing:', response.error);
+      }
+    } catch (error) {
+      console.error('Error creating listing:', error);
+    }
+  };
 
   if (!isLoaded) {
     return <div>Loading...</div>;
@@ -154,30 +161,37 @@ const BusinessMap = ({ review, rating, business }) => {
         title="Businesses Map"
         subheader="Select any business"
       />
+      <Autocomplete
+        onLoad={(autocomplete) => {
+          autocompleteRef.current = autocomplete;
+        }}
+        onPlaceChanged={onPlaceChanged}
+        fields={['place_id', 'geometry', 'name', 'rating', 'user_ratings_total', 'reviews', 'formatted_address']}
+      >
+        <TextField
+          variant="outlined"
+          placeholder="Search places..."
+          fullWidth
+          type='search'
+          autoComplete="off"
+          sx={{ borderRadius: '0px' }}
+        />
+      </Autocomplete>
       <GoogleMap
         style={{ paddingLeft: '16px', paddingRight: '16px' }}
         mapContainerStyle={containerStyle}
         center={center}
-        zoom={12}
+        zoom={zoom}
         onLoad={onMapLoad}
         onClick={onMarkerClick}
       >
-        {markers.map((marker, index) => (
-          <Marker
-            key={marker.place_id || index}
-            position={marker.position}
-            placeId={marker.place_id}
-            onClick={(e) => {
-              e.domEvent?.stopPropagation();
-              e.nativeEvent?.stopImmediatePropagation();
-              const confirmFetch = window.confirm('Do you want to fetch data from this marker?');
-              if (confirmFetch) {
-                onMarkerClickHandler(marker);
-              }
-            }}
-          />
-        ))}
       </GoogleMap>
+      <ConfirmationDialog
+        open={dialogOpen}
+        onClose={handleDialogClose}
+        onConfirm={handleAddBusiness}
+        placeId={currentPlaceId}
+      />
     </Card>
   );
 };

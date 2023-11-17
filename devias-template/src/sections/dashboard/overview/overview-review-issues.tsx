@@ -42,7 +42,7 @@ export const OverviewReviewIssues: FC<OverviewReviewIssuesProps> = (props) => {
             color="text.primary"
             variant="h5"
           >
-            {amount}
+            {amount ? amount : 'Select a business'}
           </Typography>
         </Box>
       </Stack>

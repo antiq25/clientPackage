@@ -96,7 +96,7 @@ class DashboardController extends DashboardService {
       const reviews = await this._fetchReviews(
         Number(userId),
         Number(listingId),
-        max ? Number(max) : 10
+        max ? Number(max) : 50
       )
 
       if (!reviews) {

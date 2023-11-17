@@ -4,9 +4,9 @@ export const tokens = {
   },
   nav: {
     dashboard: 'Dashboard',
-    business: 'Business',
+    // business: 'Business',
     billing: 'Billing',
-    map: 'Map',
+    // map: 'Map',
     trends: 'Trends',
     pixel: 'Pixel',
     widget: 'Widget',

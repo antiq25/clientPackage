@@ -43,24 +43,24 @@ export const useSections = () => {
               </SvgIcon>
             ),
           },
-          {
-            title: t(tokens.nav.business),
-            path: paths.business,
-            icon: (
-              <SvgIcon fontSize="small">
-                <BusinessIcon />
-              </SvgIcon>
-            ),
-          },
-          {
-            title: t(tokens.nav.map),
-            path: paths.map,
-            icon: (
-              <SvgIcon fontSize="small">
-                <MapIcon />
-              </SvgIcon>
-            ),
-          },
+          // {
+          //   title: t(tokens.nav.business),
+          //   path: paths.business,
+          //   icon: (
+          //     <SvgIcon fontSize="small">
+          //       <BusinessIcon />
+          //     </SvgIcon>
+          //   ),
+          // },
+          // {
+          //   title: t(tokens.nav.map),
+          //   path: paths.map,
+          //   icon: (
+          //     <SvgIcon fontSize="small">
+          //       <MapIcon />
+          //     </SvgIcon>
+          //   ),
+          // },
           {
             title: t(tokens.nav.trends),
             path: paths.trends,

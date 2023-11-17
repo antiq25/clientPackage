@@ -77,7 +77,7 @@ const ScrapedReviews = ({ reviews }) => {
           rows={rows}
           columns={columns}
           pageSize={10}
-          rowsPerPageOptions={[10, 25, 50]}
+          pageSizeOptions={[10, 25, 50, 100]}
           pagination
           disableColumnMenu
           onRowClick={(params) => setSelectedReview(params.row)}

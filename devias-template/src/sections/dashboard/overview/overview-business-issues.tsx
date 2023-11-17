@@ -45,7 +45,7 @@ export const OverviewBusinessIssues: FC<OverviewBusinessIssuesProps> = (props) =
             color="text.primary"
             variant="h5"
           >
-            {name}
+            {name ? name : 'Select a business'}
           </Typography>
         </Box>
       </Stack>

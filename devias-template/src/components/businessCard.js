@@ -6,7 +6,7 @@ import { apiHandler } from '../api/bundle';
 import Card from '@mui/material/Card';
 import CardHeader from '@mui/material/CardHeader';
 
-const BusinessCard = ({ onBusinessSelect, refreshTrigger, onSetReviewAggregate, onSetReviews }) => {
+const BusinessCard = ({ onBusinessSelect, refreshTrigger, mapRefreshTrigger, onSetReviewAggregate, onSetReviews }) => {
   const [businesses, setBusinesses] = useState([]);
   const [selectedBusinessId, setSelectedBusinessId] = useState('');
   const [reviewAggregate, setReviewAggregate] = useState([]);
@@ -37,11 +37,10 @@ const BusinessCard = ({ onBusinessSelect, refreshTrigger, onSetReviewAggregate, 
         }
       }
     };
-
     fetchListings().finally(() => {
       fetchLockRef.current = false;
     });
-  }, [user, refreshTrigger]);
+  }, [user, refreshTrigger, mapRefreshTrigger]);
 
   const fetchReviewsForListing = async (listingId) => {
     const reviewsResponse = await apiHandler.handleFetchReviews(listingId);

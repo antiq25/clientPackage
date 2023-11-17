@@ -59,7 +59,7 @@ def update_listing_expiration(listingId, expiresAt):
 
 
 def batch_insert_reviews(listingId, reviews):
-    expiresAt = datetime.datetime.now() + datetime.timedelta(hours=2)
+    expiresAt = datetime.datetime.now() + datetime.timedelta(hours=24)
     sql = """
     INSERT INTO "Review" ("listingId", author, "authorDescription", stars, date, content)
     VALUES (%s, %s, %s, %s, %s, %s)

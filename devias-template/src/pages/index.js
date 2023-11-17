@@ -10,7 +10,6 @@ import Typography from '@mui/material/Typography';
 import { useEffect, useState } from 'react';
 import useUser from '../hooks/decode';
 import { Seo } from '../components/seo';
-import { usePageView } from '../hooks/use-page-view';
 import { Layout as DashboardLayout } from 'src/layouts/dashboard';
 import { useSettings } from '../hooks/use-settings';
 import { OverviewSubscriptionUsage } from '../sections/dashboard/overview/overview-subscription-usage';
@@ -19,6 +18,12 @@ import BusinessCard from '../components/businessCard';
 import EmailVerificationDialog from '../components/emailverifydialog';
 import CreateListingDialog from '../components/createListingPopUp';
 import ScrapedReviews from '../components/scrapedReviews';
+import BusinessMap from '../components/MapReviews';
+import { usePageView } from '../hooks/use-page-view';
+import { OverviewReviewIssues } from '../sections/dashboard/overview/overview-review-issues';
+import { OverviewRatingIssues } from '../sections/dashboard/overview/overview-rating-issues';
+import { OverviewBusinessIssues } from '../sections/dashboard/overview/overview-business-issues';
+import { OverviewTips } from '../sections/dashboard/overview/overview-tips';
 
 const Page = () => {
   const settings = useSettings();
@@ -30,6 +35,14 @@ const Page = () => {
   const [refreshBusinessCard, setRefreshBusinessCard] = useState(false);
   const [reviewAggregate, setReviewAggregate] = useState([]);
   const [reviews, setReviews] = useState([]);
+  const [reviewsCount, setReviewsCount] = useState('');
+  const [rating, setRating] = useState('');
+  const [business, setBusiness] = useState('');
+  const [triggerBusinessCardRefresh, setTriggerBusinessCardRefresh] = useState(false);
+
+  const handleBusinessCardRefresh = () => {
+    setTriggerBusinessCardRefresh(prev => !prev);
+  };
 
   const handleSetReviewAggregate = (newAggregate) => {
     const formattedData = newAggregate.map((item) => ({
@@ -74,7 +87,7 @@ const Page = () => {
     }
   }, [selectedBusiness]);
 
-  useEffect(() => {}, [user]);
+  useEffect(() => { }, [user]);
 
   usePageView();
 
@@ -125,7 +138,6 @@ const Page = () => {
                     open={isCreateListingDialogOpen}
                     onClose={handleCloseCreateListingDialog}
                     onCreationSuccess={() => {
-                      // This should toggle the state and trigger a re-render of BusinessCard
                       setRefreshBusinessCard((prev) => !prev);
                     }}
                   />
@@ -136,11 +148,76 @@ const Page = () => {
             </Grid>
             <Grid
               xs={12}
+              md={12}
+            >
+              <OverviewTips
+                sx={{ height: '100%' }}
+                tips={[
+                  {
+                    title: 'Explore the Map',
+                    content:
+                      'Use your mouse or touchpad to navigate around the map. Scroll to zoom in and out to find businesses in your area of interest.',
+                  },
+                  {
+                    title: 'Business Information at a Glance',
+                    content:
+                      'Click on any business pin to see a brief overview including the business name, total number of reviews, and average rating.',
+                  },
+                  {
+                    title: 'Detailed Business Insights',
+                    content:
+                      'After selecting a business, check the overview components on the dashboard for detailed insights and metrics.',
+                  },
+                  {
+                    title: 'Refresh Data',
+                    content:
+                      'If you navigate to a new area of the map, click on a business to refresh the data displayed in the overview components.',
+                  },
+                  {
+                    title: 'Full Screen View',
+                    content:
+                      'For an immersive experience, you can use the full screen option provided by your browser when viewing the map.',
+                  },
+                ]}
+              />
+            </Grid>
+            <Grid
+              xs={12}
+              md={4}
+            >
+              <OverviewBusinessIssues name={business} />
+            </Grid>
+            <Grid
+              xs={12}
+              md={4}
+            >
+              <OverviewReviewIssues amount={parseInt(reviewsCount)} />
+            </Grid>
+            <Grid
+              xs={12}
+              md={4}
+            >
+              <OverviewRatingIssues amount={parseInt(rating)} />
+            </Grid>
+            <Grid
+              xs={12}
+              lg={12}
+            >
+              <BusinessMap
+                review={setReviewsCount}
+                rating={setRating}
+                business={setBusiness}
+                onBusinessAdded={handleBusinessCardRefresh}
+              />
+            </Grid>
+            <Grid
+              xs={12}
               md={5}
             >
               <BusinessCard
                 onBusinessSelect={setSelectedBusiness}
                 refreshTrigger={refreshBusinessCard}
+                mapRefreshTrigger={triggerBusinessCardRefresh}
                 onSetReviewAggregate={handleSetReviewAggregate}
                 onSetReviews={handleSetReviews}
               />
