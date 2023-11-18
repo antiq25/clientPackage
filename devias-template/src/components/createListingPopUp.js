@@ -25,14 +25,12 @@ const CreateListingDialog = ({ open, onClose, onCreationSuccess }) => {
   const handleSubmit = async () => {
     // Call API to create a new listing
     try {
-      const userId = useUser; // This seems incorrect. You should call useUser() if it's a hook.
+      const userId = useUser; 
       let value = formData.reviews_url;
       if (value.includes("'")) {
-        console.log('found');
-        value = value.replace("'", '%E2%80%99'); // Replace single quote with two single quotes
+        value = value.replace("'", '%E2%80%99'); 
       }
       formData.reviews_url = value;
-      console.log(formData.reviews_url);
       const response = await apiHandler.handleCreateListing(
         userId,
         formData.name,

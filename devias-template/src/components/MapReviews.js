@@ -1,6 +1,5 @@
-import React, { useState, useCallback, useRef } from 'react';
+import React, { useState, useCallback, useRef, useEffect } from 'react';
 import { GoogleMap, Marker, Autocomplete, useJsApiLoader } from '@react-google-maps/api';
-import { useTheme } from '@mui/material/styles';
 import { Card, CardHeader, TextField } from '@mui/material';
 import ConfirmationDialog from './listingDialog';
 import { apiHandler } from '../api/bundle';
@@ -29,11 +28,30 @@ const BusinessMap = ({ review, rating, business, onBusinessAdded  }) => {
   const autocompleteRef = useRef(null);
   const [dialogOpen, setDialogOpen] = useState(false);
   const [currentPlaceId, setCurrentPlaceId] = useState(null);
+  const [userLocation, setUserLocation] = useState(center); // Default to some center
 
-
+  // ONCE THE SITE IS USING HTTPS UNCOMMENT THIS
+  // useEffect(() => {
+  //   // Fetch user's geolocation
+  //   var requestOptions = {
+  //     method: 'GET',
+  //     redirect: 'follow'
+  //   };
+  //   fetch("https://ipinfo.io/json", requestOptions)
+  //     .then(response => response.json())
+  //     .then(data => {
+  //       const { loc } = data; // "latitude,longitude"
+  //       const [latitude, longitude] = loc.split(',').map(Number);
+  //       setUserLocation({ lat: latitude, lng: longitude });
+  //     })
+  //     .catch(error => {
+  //       console.error('Error fetching IP info:', error);
+  //       setUserLocation(center); // Fall back to default center in case of error
+  //     });
+  // }, []);
 
   const { isLoaded } = useJsApiLoader({
-    googleMapsApiKey: 'AIzaSyBGx2qihcXLK-_Ek-g-GxlNTDZVlDgf0lU',
+    googleMapsApiKey: process.env.GOOGLE_MAP_KEY,
     libraries,
   });
 
@@ -64,7 +82,6 @@ const BusinessMap = ({ review, rating, business, onBusinessAdded  }) => {
     setCurrentPlaceId(marker.placeId);
     setDialogOpen(true);
     const placeId = marker.placeId;
-    console.log(placeId)
     if (mapRef.current && placeId) {
       const service = new window.google.maps.places.PlacesService(mapRef.current);
       const request = {
@@ -111,7 +128,7 @@ const BusinessMap = ({ review, rating, business, onBusinessAdded  }) => {
     }
     
     if (place.place_id) {
-      setZoom(18);
+      setZoom(17);
       const existingMarker = markers.find(marker => marker.placeId === place.place_id);
       if (existingMarker) {
         onMarkerClick(existingMarker);

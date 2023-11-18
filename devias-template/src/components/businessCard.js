@@ -1,17 +1,20 @@
 import React, { useState, useEffect, useRef } from 'react';
-import { Typography, Radio, ListItem } from '@mui/material';
+import { Typography, Radio, ListItem, IconButton } from '@mui/material';
 import { FixedSizeList as VirtualizedList } from 'react-window';
+import DeleteIcon from '@mui/icons-material/Delete';
 import useUser from '../hooks/decode';
 import { apiHandler } from '../api/bundle';
 import Card from '@mui/material/Card';
 import CardHeader from '@mui/material/CardHeader';
+import ConfirmationDialog from './listingDeleteDialog';
 
 const BusinessCard = ({ onBusinessSelect, refreshTrigger, mapRefreshTrigger, onSetReviewAggregate, onSetReviews }) => {
   const [businesses, setBusinesses] = useState([]);
   const [selectedBusinessId, setSelectedBusinessId] = useState('');
-  const [reviewAggregate, setReviewAggregate] = useState([]);
   const user = useUser();
   const fetchLockRef = useRef(false);
+  const [dialogOpen, setDialogOpen] = useState(false);
+  const [businessToDelete, setBusinessToDelete] = useState(null);
 
   useEffect(() => {
     if (fetchLockRef.current) {
@@ -73,13 +76,36 @@ const BusinessCard = ({ onBusinessSelect, refreshTrigger, mapRefreshTrigger, onS
     await fetchReviewsForListing(business.id);
   };  
 
+  const handleDeleteClick = (businessId) => {
+    setBusinessToDelete(businessId);
+    setDialogOpen(true);
+  };
+
+  const handleDeleteConfirm = async () => {
+    if (businessToDelete) {
+      await apiHandler.handleDeleteListing(businessToDelete);
+      // Optionally, add logic to refresh the list of businesses after deletion
+    }
+    setDialogOpen(false);
+  };
+
+
   const Row = ({ index, style }) => {
     const business = businesses[index];
     return (
       <ListItem
         key={business.id}
-        sx={style}
+        style={style}
         selected={selectedBusinessId === business.id}
+        secondaryAction={
+          <IconButton
+          edge="end"
+          aria-label="delete"
+          onClick={() => handleDeleteClick(business.id)}
+        >
+          <DeleteIcon />
+        </IconButton>
+        }
       >
         <Radio
           checked={selectedBusinessId === business.id}
@@ -109,6 +135,12 @@ const BusinessCard = ({ onBusinessSelect, refreshTrigger, mapRefreshTrigger, onS
       ) : (
         <Typography sx={{ padding: '0px 25px 25px 25px' }}>No businesses found</Typography>
       )}
+      <ConfirmationDialog
+        open={dialogOpen}
+        onClose={() => setDialogOpen(false)}
+        onConfirm={handleDeleteConfirm}
+        message="Are you sure you want to delete this listing?"
+      />
     </Card>
   );
 };

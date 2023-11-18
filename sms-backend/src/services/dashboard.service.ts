@@ -14,13 +14,13 @@ class DashboardService {
     reviews_url: string,
     description?: string
   ) {
-    const listingExists = await this.prisma.listing.findUnique({
+    const listingExists = await this.prisma.listing.findFirst({
       where: {
-        id: userId,
-        name: reviews_url
+        userId: userId,
+        place_url: reviews_url
       }
     })
-
+    
     if (listingExists) {
       throw new SafeError('Listing already exists', true)
     }
@@ -35,8 +35,13 @@ class DashboardService {
     })
 
     this.runScraper(newListing.id, 100)
-      .then(() => console.log('Background scraping completed for listing ID:', newListing.id))
-      .catch(err => console.error('Scraping error:', err));
+      .then(() =>
+        console.log(
+          'Background scraping completed for listing ID:',
+          newListing.id
+        )
+      )
+      .catch((err) => console.error('Scraping error:', err))
 
     return true
   }
@@ -93,6 +98,13 @@ class DashboardService {
     if (!isExpired() && reviews.length > 0 && max <= reviews.length) {
       return reviews
     } else if (isExpired() || reviews.length === 0 || max > reviews.length) {
+      console.log('scraping reviews')
+      // Delete all associated reviews first
+      const reviewsDeleted = await this._deleteReviews(listingId);
+      if (!reviewsDeleted) {
+        throw new SafeError('Failed to delete associated reviews', true);
+      }
+
       const reviews = await this.runScraper(listingId, max)
 
       return reviews
@@ -134,6 +146,41 @@ class DashboardService {
     }
 
     return await this.fetchFromDB(listingId, max)
+  }
+
+  public async _deleteReviews(listingId: number) {
+    try {
+      await this.prisma.review.deleteMany({
+        where: {
+          listingId: listingId
+        }
+      })
+      return true
+    } catch (error) {
+      console.error('Error deleting reviews:', error)
+      throw new SafeError('Error deleting reviews', true)
+    }
+  }
+
+  public async _deleteListing(listingId: number) {
+    try {
+      // Delete all associated reviews first
+      const reviewsDeleted = await this._deleteReviews(listingId);
+      if (!reviewsDeleted) {
+        throw new SafeError('Failed to delete associated reviews', true);
+      }
+  
+      // Now delete the listing
+      await this.prisma.listing.delete({
+        where: {
+          id: listingId
+        }
+      });
+      return true;
+    } catch (error) {
+      console.error('Error deleting listing:', error);
+      throw new SafeError('Error deleting listing', true);
+    }
   }
 }
 

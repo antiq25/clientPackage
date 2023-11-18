@@ -61,6 +61,7 @@ const authAPIEndpoints = {
   createListing: '/dashboard/create-listing',
   getListing: '/dashboard/get-listing',
   fetchReviews: '/dashboard/fetch-reviews',
+  deleteListing: 'dashboard/delete-listing'
 };
 
 const authAPI = {
@@ -158,6 +159,17 @@ const authAPI = {
       'Reviews fetched',
       'Fetching reviews failed'
     ),
+  deleteListing: (listingId) =>
+    apiCall(
+      'deleteListing',
+      () =>
+        apiClient.delete(authAPIEndpoints.deleteListing, {
+            params: { listingId },
+          }),
+      'Listing deleted successfully',
+      'Deleting listing failed'
+    ),
+
 };
 
 const handleSignup = (email, password, firstName, lastName) => {
@@ -193,6 +205,9 @@ const handleGetListing = (userId, listingName) => {
 const handleFetchReviews = (listingId, max_reviews) => {
   return authAPI.fetchReviews(listingId, max_reviews);
 };
+const handleDeleteListing = (listingId) => {
+  return authAPI.deleteListing(listingId);
+};
 
 const apiWrap = {
   handleSignup,
@@ -206,6 +221,7 @@ const apiWrap = {
   handleCreateListing,
   handleGetListing,
   handleFetchReviews,
+  handleDeleteListing,
 };
 
 export {

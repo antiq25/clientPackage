@@ -17,4 +17,8 @@ dashboardRouter.get('/fetch-reviews', onlyAuth, async (req, res) => {
   await dashboardController.fetchReviews(req, res)
 })
 
+dashboardRouter.delete('/delete-listing', onlyAuth, async (req, res) => {
+  await dashboardController.deleteListing(req, res);
+});
+
 export default dashboardRouter

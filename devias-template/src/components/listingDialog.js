@@ -1,7 +1,7 @@
 import React from 'react';
 import { Dialog, DialogActions, DialogContent, DialogContentText, DialogTitle, Button } from '@mui/material';
 
-const ConfirmationDialog = ({ open, onClose, onConfirm, placeId }) => {
+const ConfirmationDialog = ({ open, onClose, onConfirm, placeId,message }) => {
   const handleConfirm = () => {
     onConfirm(placeId);
     onClose();
@@ -13,6 +13,7 @@ const ConfirmationDialog = ({ open, onClose, onConfirm, placeId }) => {
       <DialogContent>
         <DialogContentText>
           Do you want to add this business to your listing?
+          retriving 
         </DialogContentText>
       </DialogContent>
       <DialogActions>

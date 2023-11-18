@@ -96,7 +96,7 @@ class DashboardController extends DashboardService {
       const reviews = await this._fetchReviews(
         Number(userId),
         Number(listingId),
-        max ? Number(max) : 50
+        max ? Number(max) : 100
       )
 
       if (!reviews) {
@@ -111,6 +111,40 @@ class DashboardController extends DashboardService {
       return safeReturn(res, err)
     }
   }
+
+  public async deleteListing(req: any, res: any) {
+    const { listingId } = req.query;
+    const userId = req.user.id;
+
+    try {
+      // Validate the listingId
+      const schema = Joi.object({
+        listingId: Joi.number().required()
+      })
+
+      const { error } = schema.validate({ listingId });
+      if (error) {
+        throw new SafeError(error.message, true);
+      }
+
+      // Delete all reviews for the listing
+      const reviewsDeleted = await this._deleteReviews( Number(listingId));
+      if (!reviewsDeleted) {
+        throw new SafeError('Error deleting reviews', true);
+      }
+
+      // Delete the listing
+      const listingDeleted = await this._deleteListing( Number(listingId));
+      if (!listingDeleted) {
+        throw new SafeError('Error deleting listing', true);
+      }
+
+      res.status(200).json({ message: 'Listing deleted successfully' });
+    } catch (err: any) {
+      return safeReturn(res, err);
+    }
+  }
+
 }
 
 export default DashboardController
