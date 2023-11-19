@@ -11,7 +11,7 @@ import { useEffect, useState } from 'react';
 import useUser from '../hooks/decode';
 import { Seo } from '../components/seo';
 import { usePageView } from '../hooks/use-page-view';
-import { Layout as DashboardLayout } from 'src/layouts/dashboard';
+import { Layout as DashboardLayout } from '../layouts/dashboard';
 import { useSettings } from '../hooks/use-settings';
 import { OverviewSubscriptionUsage } from '../sections/dashboard/overview/overview-subscription-usage';
 import { chartData } from '../mockData';

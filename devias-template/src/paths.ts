@@ -9,11 +9,11 @@ export const paths = {
   verifyEmail: '/verify',
   notFound: '/404',
   serverError: '/500',
-  business: '/business',
   trends: 'trends',
   billing: '/billing',
   map: '/map',
   pixel: '/pixel',
   docs: 'docs',
   widget: '/widget',
-};
+  accounts: '/accounts'
+}

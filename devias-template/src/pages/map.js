@@ -122,11 +122,7 @@ const Page = () => {
               xs={12}
               lg={12}
             >
-              <BusinessMap
-                review={setReviewsCount}
-                rating={setRating}
-                business={setBusiness}
-              />
+              <BusinessMap />
             </Grid>
           </Grid>
         </Container>

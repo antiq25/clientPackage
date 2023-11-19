@@ -1,108 +1,256 @@
-import React from 'react';
-import { Box, Typography, Button, Container, Paper, Card, CardHeader, Grid } from '@mui/material';
+import { useState, useEffect } from 'react';
+import PropTypes from 'prop-types';
+import numeral from 'numeral';
+import format from 'date-fns';
+import Edit02Icon from '@untitled-ui/icons-react';
+import Box from '@mui/material/Box';
+import Button from '@mui/material/Button';
+import Card from '@mui/material/Card';
+import CardContent from '@mui/material/CardContent';
+import CardHeader from '@mui/material/CardHeader';
+import Divider from '@mui/material/Divider';
+import Grid from '@mui/material/Grid';
+import Link from '@mui/material/Link';
+import Stack from '@mui/material/Stack';
+import SvgIcon from '@mui/material/SvgIcon';
+import Table from '@mui/material/Table';
+import TableBody from '@mui/material/TableBody';
+import TableCell from '@mui/material/TableCell';
+import TableHead from '@mui/material/TableHead';
+import TableRow from '@mui/material/TableRow';
+import Typography from '@mui/material/Typography';
+
+import PropertyList from '../components/property-list';
+import PropertyListItem from '../components/property-list-item';
+
+import AccountPlanIcon from './account-plan-icon';
 
 const plans = [
-  { title: 'Starter', price: 29, accounts: 1, listings: 1 },
-  { title: 'Business', price: 79, accounts: 5, listings: 5, popular: true },
-  { title: 'Pro', price: 129, accounts: 10, listings: 10 },
+  {
+    id: 'startup',
+    icon: <AccountPlanIcon name="startup" />,
+    name: 'Startup',
+    price: 0,
+  },
+  {
+    id: 'standard',
+    icon: <AccountPlanIcon name="standard" />,
+    name: 'Standard',
+    price: 4.99,
+  },
+  {
+    did: 'business',
+    icon: <AccountPlanIcon name="business" />,
+    name: 'Business',
+    price: 29.99,
+  },
 ];
 
-const PlanCard = ({ plan }) => {
+export const AccountBillingSettings = ({ plan: currentPlan = 'standard', invoices = [] }) => {
+  const [selectedPlan, setSelectedPlan] = useState(currentPlan);
+
+  useEffect(() => {
+    // Add any necessary side effects here
+  }, []);
+
   return (
-    <Paper
-      elevation={3}
-      style={{
-        padding: '0px',
-        margin: '20px',
-        position: 'relative',
-        width: '350px',
-        flexDirection: 'column',
-        alignItems: 'center',
-      }}
-    >
-      {plan.popular && (
-        <Box
-          style={{
-            position: 'absolute',
-            top: 0,
-            right: 0,
-            backgroundColor: '#cea528',
-            padding: '5px 10px',
-          }}
-        >
-          POPULAR
-        </Box>
-      )}
+    <Stack spacing={4}>
       <Card>
         <CardHeader
-          title={plan.title}
-          subheader={`${plan.accounts} Account`}
-          titleTypographyProps={{ align: 'center', variant: 'h4' }}
-          subheaderTypographyProps={{ align: 'center' }}
+          title="Change Plan"
+          subheader="You can upgrade and downgrade whenever you want"
         />
-        <Container
-          style={{
-            display: 'flex',
-            flexDirection: 'column',
-            alignItems: 'center',
-            margin: '0px 0px 40px 0px',
-          }}
-        >
-          <Box style={{ display: 'flex', alignItems: 'baseline' }}>
-            <Typography variant="h4">$</Typography>
-            <Typography variant="h2">{plan.price}</Typography>
-            <Typography variant="h6">Month</Typography>
-          </Box>
+        <CardContent sx={{ pt: 0 }}>
+          <div>
+            <Grid
+              container
+              spacing={3}
+            >
+              {plans.map((plan) => {
+                const isSelected = plan.id === selectedPlan;
+                const isCurrent = plan.id === currentPlan;
+                const price = numeral(plan.price).format('$0,0.00');
 
-          <Typography variant="subtitle1">✓ {plan.listings} Business Listings</Typography>
-          <Button
-            variant="contained"
-            style={{ marginTop: '20px' }}
+                return (
+                  <Grid
+                    key={plan.id}
+                    xs={12}
+                    sm={4}
+                  >
+                    <Card
+                      onClick={() => setSelectedPlan(plan.id)}
+                      sx={{
+                        cursor: 'pointer',
+                        ...(isSelected && {
+                          borderColor: 'primary.main',
+                          borderWidth: 2,
+                          m: '-1px',
+                        }),
+                      }}
+                      variant="outlined"
+                    >
+                      <CardContent>
+                        <Box
+                          sx={{
+                            height: 52,
+                            width: 52,
+                            '& img': {
+                              height: 'auto',
+                              width: '100%',
+                            },
+                          }}
+                        >
+                          {plan.icon}
+                        </Box>
+                        <Box
+                          sx={{
+                            display: 'flex',
+                            mb: 1,
+                            mt: 1,
+                          }}
+                        >
+                          <Typography variant="h5">{price}</Typography>
+                          <Typography
+                            color="text.secondary"
+                            sx={{
+                              mt: 'auto',
+                              ml: '4px',
+                            }}
+                            variant="body2"
+                          >
+                            /mo
+                          </Typography>
+                        </Box>
+                        <Stack
+                          alignItems="center"
+                          direction="row"
+                          justifyContent="space-between"
+                          spacing={3}
+                        >
+                          <Typography variant="overline">{plan.name}</Typography>
+                          {isCurrent && (
+                            <Typography
+                              color="primary.main"
+                              variant="caption"
+                            >
+                              Using now
+                            </Typography>
+                          )}
+                        </Stack>
+                      </CardContent>
+                    </Card>
+                  </Grid>
+                );
+              })}
+            </Grid>
+          </div>
+          <Divider sx={{ my: 3 }} />
+          <Box sx={{ alignItems: 'center', display: 'flex', justifyContent: 'space-between' }}>
+            <Typography variant="h6">Billing details</Typography>
+            <Button
+              color="inherit"
+              startIcon={
+                <SvgIcon>
+                  <Edit02Icon />
+                </SvgIcon>
+              }
+            >
+              Edit
+            </Button>
+          </Box>
+          <Box sx={{ border: 1, borderColor: 'divider', borderRadius: 1, mt: 3 }}>
+            <PropertyList>
+              <PropertyListItem
+                align="horizontal"
+                divider
+                label="Billing name"
+                value="John Doe"
+              />
+              <PropertyListItem
+                align="horizontal"
+                divider
+                label="Card number"
+                value="**** 1111"
+              />
+              <PropertyListItem
+                align="horizontal"
+                divider
+                label="Country"
+                value="Germany"
+              />
+              <PropertyListItem
+                align="horizontal"
+                label="Zip / Postal code"
+                value="667123"
+              />
+            </PropertyList>
+          </Box>
+          <Typography
+            color="text.secondary"
+            variant="body2"
+            sx={{ mt: 3 }}
           >
-            START FREE TRIAL
-          </Button>
-        </Container>
+            We cannot refund once you purchased a subscription, but you can always
+            <Link
+              href="#"
+              sx={{ ml: '4px' }}
+              underline="none"
+              variant="body2"
+            >
+              Cancel
+            </Link>
+          </Typography>
+          <Box sx={{ display: 'flex', justifyContent: 'flex-end', mt: 3 }}>
+            <Button variant="contained">Upgrade Plan</Button>
+          </Box>
+        </CardContent>
       </Card>
-    </Paper>
+      <Card>
+        <CardHeader
+          title="Invoice history"
+          subheader="You can view and download all your previous invoices here. If you’ve just made a payment, it may take a few hours for it to appear in the table below."
+        />
+        <Table>
+          <TableHead>
+            <TableRow>
+              <TableCell>Date</TableCell>
+              <TableCell>Total (incl. tax)</TableCell>
+              <TableCell />
+            </TableRow>
+          </TableHead>
+          <TableBody>
+            {invoices.map((invoice) => {
+              const createdAt = format(invoice.createdAt, 'dd MMM yyyy');
+              const amount = numeral(invoice.amount).format('$0,0.00');
+
+              return (
+                <TableRow key={invoice.id}>
+                  <TableCell>{createdAt}</TableCell>
+                  <TableCell>{amount}</TableCell>
+                  <TableCell align="right">
+                    <Link
+                      color="inherit"
+                      underline="always"
+                      href="#"
+                    >
+                      View Invoice
+                    </Link>
+                  </TableCell>
+                </TableRow>
+              );
+            })}
+          </TableBody>
+        </Table>
+      </Card>
+    </Stack>
   );
 };
 
-function BillingPage() {
-  return (
-    <Card>
-      <Box
-        textAlign="center"
-        paddingY={4}
-      >
-        <Typography variant="h3">Choose Your Plan</Typography>
-        <Typography variant="subtitle2">
-          After your 7-day FREE Trial – you will be automatically charged according to the plan you
-          select. If you require more than 10 business listings, please Contact Us Here.
-        </Typography>
-      </Box>
+AccountBillingSettings.propTypes = {
+  plan: PropTypes.string,
+  invoices: PropTypes.array,
+};
 
-      {/* Use the Grid container for responsive layout */}
-      <Grid
-        container
-        sx={{ justifyContent: 'center', paddingBottom: '10px' }}
-      >
-        {plans.map((plan) => (
-          // Define how the item should behave on different screen sizes
-          <Grid
-            item
-            key={plan.title}
-            display="flex"
-            justifyContent="center"
-            xs={12}
-            sm={6}
-            md={4}
-          >
-            <PlanCard plan={plan} />
-          </Grid>
-        ))}
-      </Grid>
-    </Card>
-  );
-}
-
-export default BillingPage;
+AccountBillingSettings.defaultProps = {
+  invoices: [],
+};

@@ -44,15 +44,6 @@ export const useSections = () => {
             ),
           },
           {
-            title: t(tokens.nav.business),
-            path: paths.business,
-            icon: (
-              <SvgIcon fontSize="small">
-                <BusinessIcon />
-              </SvgIcon>
-            ),
-          },
-          {
             title: t(tokens.nav.map),
             path: paths.map,
             icon: (
@@ -61,15 +52,7 @@ export const useSections = () => {
               </SvgIcon>
             ),
           },
-          {
-            title: t(tokens.nav.trends),
-            path: paths.trends,
-            icon: (
-              <SvgIcon fontSize="small">
-                <TrendingUpIcon />
-              </SvgIcon>
-            ),
-          },
+         
           {
             title: t(tokens.nav.pixel),
             path: paths.pixel,

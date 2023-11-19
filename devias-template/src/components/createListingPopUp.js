@@ -1,49 +1,67 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import Dialog from '@mui/material/Dialog';
 import DialogTitle from '@mui/material/DialogTitle';
 import DialogContent from '@mui/material/DialogContent';
 import TextField from '@mui/material/TextField';
 import DialogActions from '@mui/material/DialogActions';
 import Button from '@mui/material/Button';
-import { apiHandler } from '../api/bundle'; // Adjust the import path as needed
-import useUser from '../hooks/decode'; // Adjust the import path as needed
+import { apiHandler } from '../api/bundle';
+import useUser from '../hooks/decode';
 
-const CreateListingDialog = ({ open, onClose, onCreationSuccess }) => {
-  const [formData, setFormData] = useState({
+const CreateListingDialog = ({
+  open,
+  onClose,
+  onCreationSuccess,
+  formData,
+  userId,
+  selectedBusiness,
+}) => {
+  const [form, setForm] = useState({
     name: '',
     reviews_url: '',
     description: '',
   });
 
+  useEffect(() => {
+    if (open && formData) {
+      setForm({
+        name: formData.name || '',
+        reviews_url: formData.reviewsUrl || '',
+        description: `Average Rating: ${formData.averageRating || 'N/A'}, Total Reviews: ${
+          formData.totalReviews || 0
+        }`,
+      });
+    }
+  }, [formData, open]);
+
+  useEffect(() => {
+    if (open && selectedBusiness) {
+      setForm({
+        name: selectedBusiness.name || '',
+        reviews_url: selectedBusiness.reviewsUrl || '',
+        description: '',
+      });
+    }
+  }, [open, selectedBusiness]);
+
   const handleChange = (event) => {
-    console.log(event);
-    console.log(formData);
-    setFormData({
-      ...formData,
+    setForm({
+      ...form,
       [event.target.name]: event.target.value,
     });
   };
 
   const handleSubmit = async () => {
-    // Call API to create a new listing
     try {
-      const userId = useUser; // This seems incorrect. You should call useUser() if it's a hook.
-      let value = formData.reviews_url;
-      if (value.includes("'")) {
-        console.log('found');
-        value = value.replace("'", '%E2%80%99'); // Replace single quote with two single quotes
-      }
-      formData.reviews_url = value;
-      console.log(formData.reviews_url);
       const response = await apiHandler.handleCreateListing(
         userId,
-        formData.name,
-        formData.reviews_url,
-        formData.description
+        form.name,
+        form.reviews_url,
+        form.description
       );
       if (response.success) {
         console.log('Listing created successfully:', response.data);
-        onCreationSuccess(); // Invoke the callback here
+        onCreationSuccess();
         onClose();
       } else {
         console.error('Failed to create listing:', response.error);
@@ -68,17 +86,17 @@ const CreateListingDialog = ({ open, onClose, onCreationSuccess }) => {
           type="text"
           fullWidth
           variant="standard"
-          value={formData.name}
+          value={form.name}
           onChange={handleChange}
         />
         <TextField
           margin="dense"
           name="reviews_url"
           label="Reviews URL"
-          type="url"
+          type="text"
           fullWidth
           variant="standard"
-          value={formData.reviews_url}
+          value={form.reviews_url}
           onChange={handleChange}
         />
         <TextField
@@ -89,7 +107,7 @@ const CreateListingDialog = ({ open, onClose, onCreationSuccess }) => {
           fullWidth
           multiline
           variant="standard"
-          value={formData.description}
+          value={form.description}
           onChange={handleChange}
         />
       </DialogContent>

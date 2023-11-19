@@ -1,63 +1,154 @@
-'use client';
-
-import ArrowRightIcon from '@untitled-ui/icons-react/build/esm/ArrowRight';
-import PlusIcon from '@untitled-ui/icons-react/build/esm/Plus';
 import Box from '@mui/material/Box';
-import Button from '@mui/material/Button';
+import Chip from '@mui/material/Chip';
 import Container from '@mui/material/Container';
+import Divider from '@mui/material/Divider';
 import Grid from '@mui/material/Unstable_Grid2';
 import Stack from '@mui/material/Stack';
-import SvgIcon from '@mui/material/SvgIcon';
+import Switch from '@mui/material/Switch';
 import Typography from '@mui/material/Typography';
 
-import { Seo } from '../components/seo';
+import { Seo } from 'src/src2/components/seo';
 import { usePageView } from '../hooks/use-page-view';
 import { Layout as DashboardLayout } from 'src/layouts/dashboard';
-import { useSettings } from '../hooks/use-settings';
-import Billing from '../components/billing';
+import { PricingPlan } from 'src/src2/sections/pricing/pricing-plan';
+import { PricingPlanIcon } from 'src/src2/sections/pricing/pricing-plan-icon';
 
 const Page = () => {
-  const settings = useSettings();
-
   usePageView();
 
   return (
     <>
-      <Seo title="Dashboard: Analytics" />
+      <Seo title="Pricing" />
       <Box
         component="main"
-        sx={{
-          flexGrow: 1,
-          py: 8,
-        }}
+        sx={{ flexGrow: 1 }}
       >
-        <Container maxWidth={settings.stretch ? false : 'xl'}>
-          <Grid
-            container
-            spacing={{
-              xs: 3,
-              lg: 4,
-            }}
-          >
-            <Grid xs={12}>
-              <Stack
-                direction="row"
-                justifyContent="space-between"
-                spacing={4}
-              >
-                <Stack spacing={1}>
-                  <Typography variant="h4">Billing</Typography>
-                </Stack>
-              </Stack>
-            </Grid>
-            <Grid
-              xs={12}
-              lg={12}
+        <Box
+          sx={{
+            backgroundColor: (theme) =>
+              theme.palette.mode === 'dark' ? 'neutral.800' : 'neutral.50',
+            pb: '120px',
+            pt: '184px',
+          }}
+        >
+          <Container maxWidth="lg">
+            <Box
+              sx={{
+                alignItems: 'center',
+                display: 'flex',
+                flexDirection: 'column',
+                mb: 4,
+              }}
             >
-              <Billing />
+              <Typography variant="h3">Show My Service Pricing</Typography>
+              <Typography
+                color="text.secondary"
+                sx={{ my: 2 }}
+                variant="body1"
+              >
+                Find out your analytics &amp; and reach maximum potential with SMS.
+              </Typography>
+              <Stack
+                alignItems="center"
+                direction="row"
+                spacing={1}
+              >
+                <Switch checked />
+                <Typography variant="body1">Yearly Payment</Typography>
+                <Chip
+                  color="primary"
+                  label="25% OFF"
+                  size="small"
+                />
+              </Stack>
+            </Box>
+            <Grid
+              container
+              spacing={4}
+            >
+              <Grid
+                xs={12}
+                md={4}
+              >
+                <PricingPlan
+                  cta="Start Free Trial"
+                  currency="$"
+                  description="To familiarize yourself with our tools."
+                  features={['Create contracts', 'Chat support', 'Email alerts']}
+                  icon={<PricingPlanIcon name="startup" />}
+                  name="Startup"
+                  price="0"
+                  sx={{
+                    height: '100%',
+                    maxWidth: 460,
+                    mx: 'auto',
+                  }}
+                />
+              </Grid>
+              <Grid
+                xs={12}
+                md={4}
+              >
+                <PricingPlan
+                  cta="Start Free Trial"
+                  currency="$"
+                  description="To familiarize yourself with our tools."
+                  features={[
+                    'All previous',
+                    'Highlights reporting',
+                    'Data history',
+                    'Unlimited users',
+                  ]}
+                  icon={<PricingPlanIcon name="standard" />}
+                  name="Standard"
+                  popular
+                  price="4.99"
+                  sx={{
+                    height: '100%',
+                    maxWidth: 460,
+                    mx: 'auto',
+                  }}
+                />
+              </Grid>
+              <Grid
+                xs={12}
+                md={4}
+              >
+                <PricingPlan
+                  cta="Contact Us"
+                  currency="$"
+                  description="To familiarize yourself with our tools."
+                  features={[
+                    'All previous',
+                    'Unlimited contacts',
+                    'Analytics platform',
+                    'Public API access',
+                    'Send and sign unlimited contracts',
+                  ]}
+                  icon={<PricingPlanIcon name="business" />}
+                  name="Business"
+                  price="29.99"
+                  sx={{
+                    height: '100%',
+                    maxWidth: 460,
+                    mx: 'auto',
+                  }}
+                />
+              </Grid>
             </Grid>
-          </Grid>
-        </Container>
+            <Box sx={{ mt: 4 }}>
+              <Typography
+                align="center"
+                color="text.secondary"
+                component="p"
+                variant="caption"
+              >
+                30% of our income goes into Whale Charity
+              </Typography>
+            </Box>
+          </Container>
+        </Box>
+        <Divider />
       </Box>
     </>
   );
