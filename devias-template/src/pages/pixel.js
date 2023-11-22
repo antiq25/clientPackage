@@ -64,23 +64,24 @@ const components = [
 const Page = () => {
   const settings = useSettings();
   usePageView();
+  
 
   useEffect(() => {
-    fetch('http://localhost:3000/api/v1/pixel/log-view', { method: 'POST' })
+    fetch('https://smart.aliveai.net:3000/api/v1/pixel/log-view', { method: 'POST' })
       .then((response) => response.text())
       .then((result) => console.log(result))
       .catch((error) => console.log('error', error));
   });
 
   useEffect(() => {
-    fetch('http://localhost:3000/api/v1/pixel/log-view', { method: 'POST' })
+    fetch('https://smart.aliveai.net:3000/api/v1/pixel/log-view', { method: 'POST' })
       .then((response) => response.text())
       .then((result) => console.log(result))
       .catch((error) => console.log('error', error));
   });
 
   const handleConversionClick = () => {
-    fetch('http://localhost:3000/api/v1/pixel/log-click', { method: 'POST' })
+    fetch('https://smart.aliveai.net:3000/api/v1/pixel/log-click', { method: 'POST' })
       .then((response) => response.text())
       .then((result) => console.log(result))
       .catch((error) => console.log('error', error));

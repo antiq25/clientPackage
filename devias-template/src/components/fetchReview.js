@@ -11,32 +11,32 @@ const ReviewsFetcher = ({ apiHandler }) => {
   const [error, setError] = useState('');
   const [isLoading, setIsLoading] = useState(false); // Added missing state variable
   
-  const collectReviews = () => {
-    setIsLoading(true);
-    fetch('http://localhost:3002/collect-reviews', {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
-      },
-      body: JSON.stringify({
-        companyNames: ['Company A', 'Company B'],
-        companyLocations: ['Location A', 'Location B'],
-      }),
-    })
-      .then((response) => response.json())
-      .then((data) => {
-        setReviews(data);
+    const collectReviews = () => {
+      setIsLoading(true);
+      fetch('https://smart.aliveai.net:3002/collect-reviews', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({
+          companyNames: ['Company A', 'Company B'],
+          companyLocations: ['Location A', 'Location B'],
+        }),
       })
-      .catch((error) => {
-        setError(error);
-      })
-      .finally(() => {
-        setIsLoading(false);
-      });
-  };
+        .then((response) => response.json())
+        .then((data) => {
+          setReviews(data);
+        })
+        .catch((error) => {
+          setError(error);
+        })
+        .finally(() => {
+          setIsLoading(false);
+        });
+    };
 
   const importReviews = () => {
-    fetch('http://localhost:3002/import-reviews', {
+    fetch('https://smart.aliveai.net:3002/import-reviews', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
@@ -52,7 +52,7 @@ const ReviewsFetcher = ({ apiHandler }) => {
   };
 
   const getReviews = () => {
-    fetch('http://localhost:3002/reviews')
+    fetch('https://smart.aliveai.net:3002/reviews')
       .then((response) => response.json())
       .then((data) => {
         setReviews(data);
