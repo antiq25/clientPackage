@@ -52,8 +52,7 @@ const Page = () => {
           >
             <Stack
               maxWidth="sm"
-              spacing={3}
-            >
+              spacing={3}>
               <Typography variant="h4">Create Widget</Typography>
               <JobCreateForm />
             </Stack>

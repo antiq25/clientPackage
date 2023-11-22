@@ -16,25 +16,25 @@ import { LocalizationProvider } from '@mui/x-date-pickers/LocalizationProvider';
 
 import 'src/global.css';
 // Remove if locales are not used
-import 'src/locales/i18n';
+import 'src/src2/locales/i18n';
 
-import { RTL } from 'src/components/rtl';
+import { RTL } from 'src/src2/components/rtl';
 import { SplashScreen } from 'src/src2/components/splash-screen';
-import { SettingsButton } from 'src/components/settings/settings-button';
-import { SettingsDrawer } from 'src/components/settings/settings-drawer';
-import { Toaster } from 'src/components/toaster';
+import { SettingsButton } from 'src/src2/components/settings/settings-button';
+import { SettingsDrawer } from 'src/src2/components/settings/settings-drawer';
+import { Toaster } from 'src/src2/components/toaster';
 import { gtmConfig } from 'src/src2/config';
 import { AuthConsumer, AuthProvider } from 'src/src2/contexts/auth/jwt';
-import { SettingsConsumer, SettingsProvider } from 'src/contexts/settings';
-import { useAnalytics } from 'src/hooks/use-analytics';
-import { useNprogress } from 'src/hooks/use-nprogress';
-import { store } from 'src/src2//store';
-import { createTheme } from 'src/theme';
-import { createEmotionCache } from 'src/utils/create-emotion-cache';
+import { SettingsConsumer, SettingsProvider } from 'src/src2/contexts/settings';
+import { useAnalytics } from 'src/src2/hooks/use-analytics';
+import { useNprogress } from 'src/src2/hooks/use-nprogress';
+import { store } from 'src/src2/store';
+import { createTheme } from 'src/src2/theme';
+import { createEmotionCache } from 'src/src2/utils/create-emotion-cache';
 
 const clientSideEmotionCache = createEmotionCache();
 
-const CustomAppProps = (props) => {
+const CustomApp = (props) => {
   const { Component, emotionCache = clientSideEmotionCache, pageProps } = props;
 
   useAnalytics(gtmConfig);
@@ -130,4 +130,4 @@ const CustomAppProps = (props) => {
   );
 };
 
-export default CustomAppProps;
+export default CustomApp;

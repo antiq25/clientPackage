@@ -6,15 +6,19 @@ import Grid from '@mui/material/Unstable_Grid2';
 import Stack from '@mui/material/Stack';
 import Switch from '@mui/material/Switch';
 import Typography from '@mui/material/Typography';
+import { useSettings } from '../hooks/use-settings';
+import { usePageView } from '../hooks/use-page-view';
 
 import { Seo } from 'src/src2/components/seo';
-import { usePageView } from '../hooks/use-page-view';
 import { Layout as DashboardLayout } from 'src/layouts/dashboard';
 import { PricingPlan } from 'src/src2/sections/pricing/pricing-plan';
 import { PricingPlanIcon } from 'src/src2/sections/pricing/pricing-plan-icon';
 
 const Page = () => {
   usePageView();
+  useSettings();
+  
+
 
   return (
     <>

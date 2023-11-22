@@ -2,6 +2,9 @@
 import PlusIcon from '@untitled-ui/icons-react/build/esm/Plus';
 import Box from '@mui/material/Box';
 import Button from '@mui/material/Button';
+import Card from '@mui/material/Card';  
+import CardHeader from '@mui/material/Card';  
+
 import Container from '@mui/material/Container';
 import Grid from '@mui/material/Unstable_Grid2';
 import Stack from '@mui/material/Stack';
@@ -13,12 +16,10 @@ import { Seo } from '../components/seo';
 import { usePageView } from '../hooks/use-page-view';
 import { Layout as DashboardLayout } from '../layouts/dashboard';
 import { useSettings } from '../hooks/use-settings';
-import { OverviewSubscriptionUsage } from '../sections/dashboard/overview/overview-subscription-usage';
 import { chartData } from '../mockData';
-import BusinessCard from '../components/businessCard';
 import EmailVerificationDialog from '../components/emailverifydialog';
 import CreateListingDialog from '../components/createListingPopUp';
-import ScrapedReviews from '../components/scrapedReviews';
+import FetchedReviews from '../components/fetchReview';
 
 const Page = () => {
   const settings = useSettings();
@@ -99,7 +100,7 @@ const Page = () => {
             <Grid xs={12}>
               <Stack
                 direction="row"
-                justifyContent="space-between"
+                justifyContent="center"
                 spacing={4}
               >
                 <Stack spacing={1}>
@@ -134,32 +135,20 @@ const Page = () => {
                 </Stack>
               </Stack>
             </Grid>
-            <Grid
-              xs={12}
-              md={5}
-            >
-              <BusinessCard
-                onBusinessSelect={setSelectedBusiness}
-                refreshTrigger={refreshBusinessCard}
-                onSetReviewAggregate={handleSetReviewAggregate}
-                onSetReviews={handleSetReviews}
-              />
-            </Grid>
-            <Grid
-              xs={12}
-              md={7}
-              lg={7}
-            >
-              <OverviewSubscriptionUsage
-                chartSeries={[{ name: 'Reviews', data: reviewAggregate }]}
-              />
-            </Grid>
+
+  
             <Grid
               item
               xs={12}
               md={12}
             >
-              <ScrapedReviews reviews={reviews} />
+              <Card>
+              <CardHeader
+                title="Businesses"
+                subheader="Manage your businesses"
+              />
+            <FetchedReviews />
+            </Card>
             </Grid>
           </Grid>
         </Container>

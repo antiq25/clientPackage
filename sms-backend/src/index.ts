@@ -4,7 +4,7 @@ import authRouter from './routes/auth.route'
 import profileRouter from './routes/profile.route'
 import recoveryRouter from './routes/recovery.route'
 import dashboardRouter from './routes/dashboard.route'
-import pixelRouter from './routes/pixel.route'
+import  pixelRouter  from './controllers/pixel.controller'
 import cors from 'cors'
 import * as dotenv from 'dotenv'
 dotenv.config()
@@ -31,7 +31,7 @@ app.use(`${prefix}/profile`, profileRouter)
 app.use(`${prefix}/pixel`, pixelRouter)
 app.use(`${prefix}/recovery`, recoveryRouter)
 app.use(`${prefix}/dashboard`, dashboardRouter)
-
+app.use(`${prefix}/pixel`, pixelRouter)
 app.listen(Number(process.env.PORT!), '0.0.0.0', () => {
   console.log(`Server listening on port ${process.env.PORT}`)
 })

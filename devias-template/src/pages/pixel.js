@@ -1,27 +1,94 @@
-'use client';
-import ArrowRightIcon from '@untitled-ui/icons-react/build/esm/ArrowRight';
-import PlusIcon from '@untitled-ui/icons-react/build/esm/Plus';
-import Box from '@mui/material/Box';
+import React from 'react';
+import Box from '@mui/material/Box'; // Corrected import statement
+import Container from '@mui/material/Container'; // Corrected import statement
+import Stack from '@mui/material/Stack'; // Corrected import statement
+import PlusIcon from '@mui/icons-material/Add'; // Corrected import statement
 import Button from '@mui/material/Button';
-import Container from '@mui/material/Container';
-import Grid from '@mui/material/Unstable_Grid2';
-import Stack from '@mui/material/Stack';
 import SvgIcon from '@mui/material/SvgIcon';
 import Typography from '@mui/material/Typography';
-import { Seo } from '../components/seo';
+import { QuickStats1 } from 'src/sections/components/quick-stats/quick-stats-1';
+import { QuickStats2 } from 'src/sections/components/quick-stats/quick-stats-2';
+import { QuickStats3 } from 'src/sections/components/quick-stats/quick-stats-3';
+import { QuickStats4 } from 'src/sections/components/quick-stats/quick-stats-4';
+import { QuickStats5 } from 'src/sections/components/quick-stats/quick-stats-5';
+import { QuickStats6 } from 'src/sections/components/quick-stats/quick-stats-6';
+import { QuickStats7 } from 'src/sections/components/quick-stats/quick-stats-7';
+import { QuickStats8 } from 'src/sections/components/quick-stats/quick-stats-8';
+import { QuickStats9 } from 'src/sections/components/quick-stats/quick-stats-9';
+import { Previewer } from 'src/src2/sections/components/previewer';
+import { useEffect, useState } from 'react';
+import { Seo } from 'src/src2/components/seo'; // Corrected import statement
+import { useSettings } from '../hooks/use-settings'; // Corrected import statement
+import { Layout as DashboardLayout } from '../layouts/dashboard'; // Corrected import statement
 import { usePageView } from '../hooks/use-page-view';
-import { Layout as DashboardLayout } from 'src/layouts/dashboard';
-import { useSettings } from 'src/hooks/use-settings';
-import PixelTracking from '../components/pixelTracking';
+
+const components = [
+  {
+    element: <QuickStats2 />,
+    title: 'Pixel Tracker #1',
+  },
+  {
+    element: <QuickStats1 />,
+    title: 'Business 2',
+  },
+  {
+    element: <QuickStats3 />,
+    title: 'Business 3',
+  },
+  {
+    element: <QuickStats4 />,
+    title: 'Business 4',
+  },
+  {
+    element: <QuickStats5 />,
+    title: 'Business 5',
+  },
+  {
+    element: <QuickStats6 />,
+    title: 'Business 6',
+  },
+  {
+    element: <QuickStats7 />,
+    title: 'Business 7',
+  },
+  {
+    element: <QuickStats8 />,
+    title: 'Business 8',
+  },
+  {
+    element: <QuickStats9 />,
+    title: 'Business 9',
+  },
+];
 
 const Page = () => {
   const settings = useSettings();
-
   usePageView();
+
+  useEffect(() => {
+    fetch('http://localhost:3000/api/v1/pixel/log-view', { method: 'POST' })
+      .then((response) => response.text())
+      .then((result) => console.log(result))
+      .catch((error) => console.log('error', error));
+  });
+
+  useEffect(() => {
+    fetch('http://localhost:3000/api/v1/pixel/log-view', { method: 'POST' })
+      .then((response) => response.text())
+      .then((result) => console.log(result))
+      .catch((error) => console.log('error', error));
+  });
+
+  const handleConversionClick = () => {
+    fetch('http://localhost:3000/api/v1/pixel/log-click', { method: 'POST' })
+      .then((response) => response.text())
+      .then((result) => console.log(result))
+      .catch((error) => console.log('error', error));
+  };
 
   return (
     <>
-      <Seo title="Dashboard: Analytics" />
+      <Seo title="Dashboard: Blank" />
       <Box
         component="main"
         sx={{
@@ -29,49 +96,32 @@ const Page = () => {
           py: 8,
         }}
       >
-        <Container maxWidth={settings.stretch ? false : 'xl'}>
-          <Grid
-            container
-            spacing={{
-              xs: 3,
-              lg: 4,
-            }}
-          >
-            <Grid xs={12}>
-              <Stack
-                direction="row"
-                justifyContent="space-between"
-                spacing={4}
-              >
-                <Stack spacing={1}>
-                  <Typography variant="h4">Pixel</Typography>
-                </Stack>
-                <Stack
-                  alignItems="center"
-                  direction="row"
-                  spacing={2}
+        <Box
+          component="main"
+          sx={{
+            flexGrow: 1,
+            py: 8,
+          }}
+        >
+          <Container maxWidth="lg">
+            <Stack spacing={8}>
+              {components.map((component) => (
+                <Previewer
+                  key={component.title}
+                  title={component.title}
                 >
-                  <Button
-                    startIcon={
-                      <SvgIcon>
-                        <PlusIcon />
-                      </SvgIcon>
-                    }
-                    variant="contained"
-                  >
-                    Create Listing
-                  </Button>
-                </Stack>
-              </Stack>
-            </Grid>
-            <Grid
-              xs={12}
-              lg={12}
+                  {component.element}
+                </Previewer>
+              ))}
+            </Stack>
+            <Button
+              variant="contained"
+              onClick={handleConversionClick}
             >
-              <PixelTracking />
-            </Grid>
-          </Grid>
-        </Container>
+              Log Conversion
+            </Button>
+          </Container>
+        </Box>
       </Box>
     </>
   );

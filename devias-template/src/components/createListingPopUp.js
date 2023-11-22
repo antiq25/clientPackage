@@ -5,31 +5,30 @@ import DialogContent from '@mui/material/DialogContent';
 import TextField from '@mui/material/TextField';
 import DialogActions from '@mui/material/DialogActions';
 import Button from '@mui/material/Button';
-import { apiHandler } from '../api/bundle';
-import useUser from '../hooks/decode';
+import Tooltip from '@mui/material/Tooltip';
+import CircularProgress from '@mui/material/CircularProgress';
 
 const CreateListingDialog = ({
   open,
   onClose,
   onCreationSuccess,
   formData,
-  userId,
   selectedBusiness,
+  userId,
 }) => {
   const [form, setForm] = useState({
-    name: '',
-    reviews_url: '',
-    description: '',
+    companyNames: '',
+    companyLocations: '',
   });
+
+  const [isLoading, setIsLoading] = useState(false);
 
   useEffect(() => {
     if (open && formData) {
       setForm({
-        name: formData.name || '',
-        reviews_url: formData.reviewsUrl || '',
-        description: `Average Rating: ${formData.averageRating || 'N/A'}, Total Reviews: ${
-          formData.totalReviews || 0
-        }`,
+        ...form,
+        companyNames: formData.companyNames || '',
+        companyLocations: formData.companyLocations || '',
       });
     }
   }, [formData, open]);
@@ -37,12 +36,12 @@ const CreateListingDialog = ({
   useEffect(() => {
     if (open && selectedBusiness) {
       setForm({
-        name: selectedBusiness.name || '',
-        reviews_url: selectedBusiness.reviewsUrl || '',
-        description: '',
+        ...form,
+        companyNames: selectedBusiness.companyNames || '',
+        companyLocations: selectedBusiness.companyLocations || '',
       });
     }
-  }, [open, selectedBusiness]);
+  }, [selectedBusiness, open]);
 
   const handleChange = (event) => {
     setForm({
@@ -51,23 +50,41 @@ const CreateListingDialog = ({
     });
   };
 
+  const collectReviews = async () => {
+    setIsLoading(true);
+    try {
+      const response = await fetch('http://localhost:3002/collect-reviews', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({
+          companyNames: form.companyNames.split(',').map((s) => s.trim()),
+          companyLocations: form.companyLocations.split(',').map((s) => s.trim()),
+        }),
+      });
+      const data = await response.json();
+      return data;
+    } catch (error) {
+      console.error('Error:', error);
+      throw error;
+    } finally {
+      setIsLoading(false);
+    }
+  };
+
   const handleSubmit = async () => {
     try {
-      const response = await apiHandler.handleCreateListing(
-        userId,
-        form.name,
-        form.reviews_url,
-        form.description
-      );
-      if (response.success) {
-        console.log('Listing created successfully:', response.data);
-        onCreationSuccess();
+      const reviewsData = await collectReviews();
+      if (reviewsData.success) {
+        console.log('Reviews collected successfully:', reviewsData.data);
+        onCreationSuccess(reviewsData.data);
         onClose();
       } else {
-        console.error('Failed to create listing:', response.error);
+        console.error('Failed to collect reviews:', reviewsData.error);
       }
     } catch (error) {
-      console.error('Error creating listing:', error);
+      console.error('Error in collecting reviews:', error);
     }
   };
 
@@ -81,39 +98,37 @@ const CreateListingDialog = ({
         <TextField
           autoFocus
           margin="dense"
-          name="name"
-          label="Listing Name"
+          name="companyNames"
+          label="Company Names (comma separated)"
           type="text"
           fullWidth
           variant="standard"
-          value={form.name}
+          value={form.companyNames}
           onChange={handleChange}
         />
         <TextField
           margin="dense"
-          name="reviews_url"
-          label="Reviews URL"
+          name="companyLocations"
+          label="Company Locations (comma separated)"
           type="text"
           fullWidth
           variant="standard"
-          value={form.reviews_url}
-          onChange={handleChange}
-        />
-        <TextField
-          margin="dense"
-          name="description"
-          label="Description"
-          type="text"
-          fullWidth
-          multiline
-          variant="standard"
-          value={form.description}
+          value={form.companyLocations}
           onChange={handleChange}
         />
       </DialogContent>
       <DialogActions>
         <Button onClick={onClose}>Cancel</Button>
-        <Button onClick={handleSubmit}>Create</Button>
+        <Tooltip title={isLoading ? 'Loading...' : 'Collect Reviews'}>
+          <div>
+            <Button
+              onClick={handleSubmit}
+              disabled={isLoading}
+            >
+              {isLoading ? <CircularProgress size={24} /> : 'Collect Reviews'}
+            </Button>
+          </div>
+        </Tooltip>
       </DialogActions>
     </Dialog>
   );

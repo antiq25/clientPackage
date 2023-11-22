@@ -32,7 +32,7 @@ const auth_route_1 = __importDefault(require("./routes/auth.route"));
 const profile_route_1 = __importDefault(require("./routes/profile.route"));
 const recovery_route_1 = __importDefault(require("./routes/recovery.route"));
 const dashboard_route_1 = __importDefault(require("./routes/dashboard.route"));
-const pixel_route_1 = __importDefault(require("./routes/pixel.route"));
+const pixel_controller_1 = __importDefault(require("./controllers/pixel.controller"));
 const cors_1 = __importDefault(require("cors"));
 const dotenv = __importStar(require("dotenv"));
 dotenv.config();
@@ -49,9 +49,10 @@ app.get('/', (req, res) => {
 });
 app.use(`${prefix}/auth`, auth_route_1.default);
 app.use(`${prefix}/profile`, profile_route_1.default);
-app.use(`${prefix}/pixel`, pixel_route_1.default);
+app.use(`${prefix}/pixel`, pixel_controller_1.default);
 app.use(`${prefix}/recovery`, recovery_route_1.default);
 app.use(`${prefix}/dashboard`, dashboard_route_1.default);
+app.use(`${prefix}/pixel`, pixel_controller_1.default);
 app.listen(Number(process.env.PORT), '0.0.0.0', () => {
     console.log(`Server listening on port ${process.env.PORT}`);
 });
