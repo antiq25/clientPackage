@@ -1,0 +1,487 @@
+{
+    "place_id": "ChIJN5S_tR90hlQRe-FAM4e1PiU",
+    "name": "Banh Mi Saigon",
+    "description": "Vietnamese subs with freshly baked bread, plus drinks & desserts, served in a small, buzzy locale.",
+    "reviews": 1517,
+    "website": "http://www.banhmisaigon.ca/",
+    "owner": {
+        "id": null,
+        "name": "Banh Mi Saigon (Owner)",
+        "link": null
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOA_TCprzw_wJcG1M1jhZBom6Vd7yt-kc1A_zlS=w408-h306-k-no",
+    "main_category": "Vietnamese restaurant",
+    "categories": [
+        "Vietnamese restaurant"
+    ],
+    "rating": 4.4,
+    "workday_timing": "8 a.m.-5 p.m.",
+    "closed_on": [],
+    "phone": "(778) 379-9992",
+    "address": "Banh Mi Saigon, 5397 Victoria Dr, Vancouver, BC V5P 3V6",
+    "review_keywords": [
+        {
+            "keyword": "subs",
+            "count": 110
+        },
+        {
+            "keyword": "cash",
+            "count": 86
+        },
+        {
+            "keyword": "cold cut",
+            "count": 23
+        },
+        {
+            "keyword": "lemongrass pork",
+            "count": 18
+        },
+        {
+            "keyword": "sugar cane juice",
+            "count": 14
+        },
+        {
+            "keyword": "pastries",
+            "count": 11
+        },
+        {
+            "keyword": "bacon",
+            "count": 10
+        },
+        {
+            "keyword": "crust",
+            "count": 6
+        },
+        {
+            "keyword": "veggie sandwich",
+            "count": 5
+        },
+        {
+            "keyword": "pate chaud",
+            "count": 5
+        }
+    ],
+    "link": "https://www.google.com/maps/place/Banh+Mi+Saigon/data=!4m7!3m6!1s0x5486741fb5bf9437:0x253eb5873340e17b!8m2!3d49.235371!4d-123.0657716!16s%2Fg%2F11byhjfxyw!19sChIJN5S_tR90hlQRe-FAM4e1PiU?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 8 a.m.",
+    "price_range": "$",
+    "reviews_per_rating": {
+        "1": 81,
+        "2": 37,
+        "3": 85,
+        "4": 282,
+        "5": 1032
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJN5S_tR90hlQRe-FAM4e1PiU&q=Banh+Mi+Saigon&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.235371,
+        "longitude": -123.06577159999999
+    },
+    "plus_code": "6WPM+4M Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "Knight",
+        "street": "5397 Victoria Dr",
+        "city": "Vancouver",
+        "postal_code": "V5P 3V6",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "2683782020244496763",
+    "data_id": "0x5486741fb5bf9437:0x253eb5873340e17b",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Takeout",
+                    "enabled": true
+                },
+                {
+                    "name": "Dine-in",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Coffee",
+                    "enabled": true
+                },
+                {
+                    "name": "Healthy options",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Dining options",
+            "options": [
+                {
+                    "name": "Breakfast",
+                    "enabled": true
+                },
+                {
+                    "name": "Lunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Dinner",
+                    "enabled": true
+                },
+                {
+                    "name": "Catering",
+                    "enabled": true
+                },
+                {
+                    "name": "Dessert",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosphere",
+            "options": [
+                {
+                    "name": "Casual",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planning",
+            "options": [
+                {
+                    "name": "Accepts reservations",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Cash-only",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "parking",
+            "name": "Parking",
+            "options": [
+                {
+                    "name": "Free street parking",
+                    "enabled": true
+                },
+                {
+                    "name": "Parking",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOA_TCprzw_wJcG1M1jhZBom6Vd7yt-kc1A_zlS=w397-h298-k-no"
+        },
+        {
+            "about": "Latest",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNF0YmlXm8jSub4NVZiscOLm6ZVo8yB-ezpG5UO=w394-h298-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMhWsUPrY7b1morHPsIyv4QFK7r2qrxtmPpdVga=w224-h398-k-no"
+        },
+        {
+            "about": "Menu",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOkv2CBdGc0zWJjG46_jf1tz1pH-ox-2J3kSoUW=w397-h298-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNlJw69UZIYtQCWbAHqb0nfKWQ9edBwzGtTTWJU=w397-h298-k-no"
+        },
+        {
+            "about": "Vibe",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNAPj8d6AW6ZG0gvg0Hw7oMkBpFYfXmfibdz9_z=w397-h298-k-no"
+        },
+        {
+            "about": "Take-out",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMz7bUyRFDBKYMrY_ZEQj7pNcEh0JJ4QMX2gWfh=w224-h298-k-no"
+        },
+        {
+            "about": "Banh mi",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPRFXrkw3fPfK-f4E6BnRhWMsyfv_2Ky033x3YC=w397-h298-k-no"
+        },
+        {
+            "about": "Iced coffee",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNa18oHNJ5hRB0-fhMmefP-O_ST-VKhEMibEenl=w397-h298-k-no"
+        },
+        {
+            "about": "Juice",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPMPz7vs8HM_N_WqYO43YR3leyCy3FpMDOmAQdV=w224-h298-k-no"
+        },
+        {
+            "about": "Baguette",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPMGSK8i3668LcEwrCFwvzWu2pa2-1zO0AO7pGd=w282-h298-k-no"
+        },
+        {
+            "about": "Bubble tea",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPf_VB6HmkijHCOLjdKUBntB0K293M2zNSXxXrK=w224-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=-PI6ux6geZ5k8UBYddnHYA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=2.6654136&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "8 a.m.-5 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "8 a.m.-5 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "8 a.m.-5 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "8 a.m.-5 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "8 a.m.-5 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "8 a.m.-5 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "8 a.m.-5 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "The baguettes were made in house which is nice. Beautiful crust, light and crunchy. I've tried several filling options. The non vegan options are all good and tasty. But I dont recommend the vegan banh mi. There are many more vegetable choices out there I don't know why they use vermicelli noodles as filling for the banh mi. But it is still 5 star for the traditional banh mi and homemade baguette.",
+            "reviewer_name": "Emma Le",
+            "rating": 5,
+            "review_text": "The baguettes were made in house which is nice. Beautiful crust, light and crunchy. I've tried several filling options. The non vegan options are all good and tasty. But I dont recommend the vegan banh mi. There are many more vegetable choices out there I don't know why they use vermicelli noodles as filling for the banh mi. But it is still 5 star for the traditional banh mi and homemade baguette.",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-09T18:17:39.223000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 19,
+            "total_number_of_photos_by_reviewer": 33,
+            "reviewer_url": "https://www.google.com/maps/contrib/117382875951396738940/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXbZIna1gKxkbKfNmjfNaCjeuPqrj2-KXaqxaasws0yFQk=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPQcrASilv1TDjSAQOSEJW78nDhx9SumbAz1I7i=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNE8AznlrnVjLRRIBbpE2fMSJ5GmGEZeUwU9Jd2=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMhWsUPrY7b1morHPsIyv4QFK7r2qrxtmPpdVga=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Amazing spot for banh mi.  Bread is super fresh, flaky on the outside but soft on the inside.  Service is very quick and efficient.",
+            "reviewer_name": "Sandra Leung",
+            "rating": 5,
+            "review_text": "Amazing spot for banh mi.  Bread is super fresh, flaky on the outside but soft on the inside.  Service is very quick and efficient.",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-01T01:37:59.162000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 178,
+            "total_number_of_photos_by_reviewer": 311,
+            "reviewer_url": "https://www.google.com/maps/contrib/116100620502690044366/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXBWjJQxc7_Sn_2wQ1MdAmzwGN3oz253Dc7mlmhHSXR7ZbO=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNEU3Re3otI2abj8ZZZ7JQJekx0RrO3biLeWabq=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMZ5J8Qfaw43tZ9iYA8Ql9vYdARvZtnrElFjhSK=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "I didn't expect it to be that spicy actually. It's a bit over for me so I split it for 2 servings finally. But it taste good, just a bit too spicy. They do not accept cards so better bring cash there.",
+            "reviewer_name": "Aubree C",
+            "rating": 4,
+            "review_text": "I didn't expect it to be that spicy actually. It's a bit over for me so I split it for 2 servings finally. But it taste good, just a bit too spicy. They do not accept cards so better bring cash there.",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-16T06:06:13.523000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 5,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/108135809768953425032/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLPVyp0hPuke8NpOXJS5V4MHI2HiAAGjqJ8gmI5vevI=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOL5yCmTE375BhZL7XyQ8duR_U8dnz7u8TT7NSz=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "(CASH ONLY!) \n\nBest vegan banh mi in Vancouver. There is just the one option (the veggie banh mi with no mayo), and one is all you need. The crunch of the baguette  and the jalapeno cannot be topped. My go to place.",
+            "reviewer_name": "Gina",
+            "rating": 5,
+            "review_text": "(CASH ONLY!) \n\nBest vegan banh mi in Vancouver. There is just the one option (the veggie banh mi with no mayo), and one is all you need. The crunch of the baguette  and the jalapeno cannot be topped. My go to place.",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-06-25T17:28:49.521000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 17,
+            "total_number_of_photos_by_reviewer": 19,
+            "reviewer_url": "https://www.google.com/maps/contrib/106001844954749888121/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUE2qhB_d021taytpSt5Nq1kF8j6qQ8Yd5kb4t475I90I4=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOwXYXHN4aUjw1EofU0S9OlpiNnhjdyYNvacT30=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Really fresh bread so crunchy! I need this type of food to soak the booze after my gambling sessions. The taste makes me forget how much money I have lost . I can't believe it. I will buy this coffee all the time , it's so roasty I forget all my money burned. It puts me into a different state of mind.",
+            "reviewer_name": "Johnny G",
+            "rating": 5,
+            "review_text": "Really fresh bread so crunchy! I need this type of food to soak the booze after my gambling sessions. The taste makes me forget how much money I have lost . I can't believe it. I will buy this coffee all the time , it's so roasty I forget all my money burned. It puts me into a different state of mind.",
+            "published_at": "7 months ago",
+            "published_at_date": "2023-04-14T00:04:16.937000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 3,
+            "total_number_of_reviews_by_reviewer": 457,
+            "total_number_of_photos_by_reviewer": 925,
+            "reviewer_url": "https://www.google.com/maps/contrib/108690264085858221131/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKhQdP_RCm0C3A0xivx_l__4zKA4Ng-EK1ozys0uuHx=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNKUW20KBaL2o467aifLyAYmSHRKXvnmVN8MIqh=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOde_lQo126Wz2v_cPpZW51HuBwzEdSb9-cullF=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipN-aedw-CDAl6UY3IRwvwnKIFJ9giOgpceBxiGM=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOVvBRyS9b8ul_21QIWTmAOouzSJCwbaURNczoQ=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Very affordable banh mi. Delicious at any time of the day! Made super fresh. Highly recommended.",
+            "reviewer_name": "Mr Brandon Ho",
+            "rating": 5,
+            "review_text": "Very affordable banh mi. Delicious at any time of the day! Made super fresh. Highly recommended.",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-16T20:57:38.681000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 51,
+            "total_number_of_photos_by_reviewer": 63,
+            "reviewer_url": "https://www.google.com/maps/contrib/111795907294170531692/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVsZgSKCNLdjgCzT2oONF2w90VwASGkR8NDYT7wutcx2sk=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPmaPGzqVkvhVn_UyrluGlUePprOFs53BFnYqLc=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipObmHFB_buB2QwnTw3OWIHU73ms4HtQza7DOFFE=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "This is definitely my go-to place for banh mi.  I've been to other shops and they just don't live up to this place where the price point is great and they don't skimp on ingredients!  They make their own bread so you can see and smell it as soon as you step inside.  I also recommend their iced coffee!  There is no dine-in and be prepared to bring cash as they don't take any form of card.",
+            "reviewer_name": "Linda L",
+            "rating": 5,
+            "review_text": "This is definitely my go-to place for banh mi.  I've been to other shops and they just don't live up to this place where the price point is great and they don't skimp on ingredients!  They make their own bread so you can see and smell it as soon as you step inside.  I also recommend their iced coffee!  There is no dine-in and be prepared to bring cash as they don't take any form of card.",
+            "published_at": "3 weeks ago",
+            "published_at_date": "2023-10-31T04:04:54.380000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 7,
+            "total_number_of_photos_by_reviewer": 4,
+            "reviewer_url": "https://www.google.com/maps/contrib/111825335392705175303/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXh0W0NpbxjWzh0kdsOuvpR2pfsd3JSTx2z3wQVJRKplV7X=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "What's the big deal? The sandwich was good but not extraordinarily better than the nearby competition. The jalapenos had a bit of a kick which was nice. Bread was fresh.\n\nService was lacking, guy gave an attitude after he misheard my order. I said chicken sandwich, but he heard special sandwich, and after I noticed it on the slip, he asked why I called it chicken sandwich, just say chicken. As if somehow chicken sandwich is not correct .\n\nWon't be coming back. Food was good but not that good to justify the attitude. Also the cash only thing is annoying.",
+            "reviewer_name": "Alastair Leigh",
+            "rating": 3,
+            "review_text": "What's the big deal? The sandwich was good but not extraordinarily better than the nearby competition. The jalapenos had a bit of a kick which was nice. Bread was fresh.\n\nService was lacking, guy gave an attitude after he misheard my order. I said chicken sandwich, but he heard special sandwich, and after I noticed it on the slip, he asked why I called it chicken sandwich, just say chicken. As if somehow chicken sandwich is not correct .\n\nWon't be coming back. Food was good but not that good to justify the attitude. Also the cash only thing is annoying.",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-19T16:59:54.289000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 33,
+            "total_number_of_photos_by_reviewer": 44,
+            "reviewer_url": "https://www.google.com/maps/contrib/111112353021007621989/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXmjFBNrbOYOKsBwf7pN3LheuBRXluXgwBvgrenpGH5MZMn=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

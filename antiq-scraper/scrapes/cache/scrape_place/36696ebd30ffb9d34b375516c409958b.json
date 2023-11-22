@@ -1,0 +1,425 @@
+{
+    "place_id": "ChIJ3VnkeB90hlQRJURvKDZZ9Cs",
+    "name": "London Drugs",
+    "description": null,
+    "reviews": 397,
+    "website": "https://www.londondrugs.com/london-drugs-store-053-vancouver/41st-vicrtoria-053.html%3Futm_source%3DGMB%26utm_medium%3DYext",
+    "owner": {
+        "id": "110364028364228892269",
+        "name": "London Drugs (Owner)",
+        "link": "https://www.google.com/maps/contrib/110364028364228892269"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM7kpYGUf65erp6FDa-JPRiE3r_lbyoh2Uat4fK=w426-h240-k-no",
+    "main_category": "Pharmacy",
+    "categories": [
+        "Pharmacy",
+        "Camera store",
+        "Computer store",
+        "Cosmetics store",
+        "Electronics store",
+        "Grocery store"
+    ],
+    "rating": 3.5,
+    "workday_timing": "9 a.m.-10 p.m.",
+    "closed_on": [],
+    "phone": "(604) 448-4853",
+    "address": "London Drugs, 5639 Victoria Dr, Vancouver, BC V5P 3W2",
+    "review_keywords": [
+        {
+            "keyword": "photo",
+            "count": 25
+        },
+        {
+            "keyword": "parking",
+            "count": 25
+        },
+        {
+            "keyword": "electronics",
+            "count": 11
+        },
+        {
+            "keyword": "desk",
+            "count": 10
+        },
+        {
+            "keyword": "cosmetic",
+            "count": 8
+        },
+        {
+            "keyword": "macbook",
+            "count": 6
+        },
+        {
+            "keyword": "laptop",
+            "count": 6
+        },
+        {
+            "keyword": "passport",
+            "count": 5
+        },
+        {
+            "keyword": "postal",
+            "count": 5
+        },
+        {
+            "keyword": "aisle",
+            "count": 5
+        }
+    ],
+    "link": "https://www.google.com/maps/place/London+Drugs/data=!4m7!3m6!1s0x5486741f78e459dd:0x2bf45936286f4425!8m2!3d49.2332581!4d-123.0665659!16s%2Fg%2F1tf6x0xl!19sChIJ3VnkeB90hlQRJURvKDZZ9Cs?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 9 a.m.",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 86,
+        "2": 16,
+        "3": 52,
+        "4": 93,
+        "5": 150
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ3VnkeB90hlQRJURvKDZZ9Cs&q=London+Drugs&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.2332581,
+        "longitude": -123.0665659
+    },
+    "plus_code": "6WMM+89 Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "Knight",
+        "street": "5639 Victoria Dr",
+        "city": "Vancouver",
+        "postal_code": "V5P 3W2",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "3167254527089787941",
+    "data_id": "0x5486741f78e459dd:0x2bf45936286f4425",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Curbside pickup",
+                    "enabled": true
+                },
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "In-store pickup",
+                    "enabled": true
+                },
+                {
+                    "name": "In-store shopping",
+                    "enabled": true
+                },
+                {
+                    "name": "Same-day delivery",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair-accessible elevator",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Passport photos",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Wi-Fi",
+                    "enabled": true
+                },
+                {
+                    "name": "Wi-Fi",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipO1XN3UubwZ6slt_U6jfKWh3bw8YObnu7I-BK55=w224-h298-k-no"
+        },
+        {
+            "about": "Latest",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOBJJrQha3pUxK0tmN5DZmf9T25_f-5qP4BoOox=w224-h497-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMIlu0QZojuUfieD5m2bGIetwpXO05iWSSBXxDz=w298-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipM7kpYGUf65erp6FDa-JPRiE3r_lbyoh2Uat4fK=w529-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipO0Y4CkMYsFrDBiew-o-ULtun119oIXibi3hFLN=w224-h298-k-no-pi-0-ya200-ro0-fo100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "9 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "9 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "9 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "9 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "9 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "9 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "10 a.m.-8 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "Absolutely love this location. Very convenient, large and spacious. Lots of neat items. Used to Love browsing here, but lately security personnel (especially the ones in an clothes) makes it uncomfortable.",
+            "reviewer_name": "Jenn E",
+            "rating": 4,
+            "review_text": "Absolutely love this location. Very convenient, large and spacious. Lots of neat items. Used to Love browsing here, but lately security personnel (especially the ones in an clothes) makes it uncomfortable.",
+            "published_at": "a week ago",
+            "published_at_date": "2023-11-14T23:18:58.352000Z",
+            "response_from_owner_text": "Hello Jenn E! Thank you for your feedback.  We will follow up your feedback with our security personnel.",
+            "response_from_owner_ago": "6 days ago",
+            "response_from_owner_date": "2023-11-15T20:17:03.985000Z",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 10,
+            "total_number_of_photos_by_reviewer": 6,
+            "reviewer_url": "https://www.google.com/maps/contrib/101086795874064767604/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjX23p8Pw_au8fiNt9ueFidnigLAQg7PF9UjnFCPOKcYy1Y=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOBJJrQha3pUxK0tmN5DZmf9T25_f-5qP4BoOox=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "We had few questions with regards to our laptop which was not starting and had overheating issues. Met Mr. Gary and he helped us to identify and fix the issue instantly. He has a comprehensive and broad knowledge about laptops and was kind, patient and polite too! Love his attitude and kindness! Highly recommend the place and Mr. Gary for any of your laptop repairs. Excellent client service and personalized service has to be appreciated as well! Thank you so much Gary for your support!!",
+            "reviewer_name": "Emma Kinson",
+            "rating": 5,
+            "review_text": "We had few questions with regards to our laptop which was not starting and had overheating issues. Met Mr. Gary and he helped us to identify and fix the issue instantly. He has a comprehensive and broad knowledge about laptops and was kind, patient and polite too! Love his attitude and kindness! Highly recommend the place and Mr. Gary for any of your laptop repairs. Excellent client service and personalized service has to be appreciated as well! Thank you so much Gary for your support!!",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-02T22:04:45.104000Z",
+            "response_from_owner_text": "Hello Emma! Thank you for your feedback on Gary's service and for the generous 5-star review.\n\nWe will ensure Gary is recognized for his excellent service.  We hope to see you again.\n\nRegards,\nMike",
+            "response_from_owner_ago": "a month ago",
+            "response_from_owner_date": "2023-10-02T22:37:31.542000Z",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 3,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/113569106347552391524/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVwHmwCUiHorfxZ-wsgkDNm8Frandz7TNhd693h_UEySD2J=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "I had an issue with my Macbook Pro battery. Gary at tech support was super helpful and resolved the issue for me within an hour. I am happy with his excellent customer service!",
+            "reviewer_name": "Harman Jassal",
+            "rating": 5,
+            "review_text": "I had an issue with my Macbook Pro battery. Gary at tech support was super helpful and resolved the issue for me within an hour. I am happy with his excellent customer service!",
+            "published_at": "a week ago",
+            "published_at_date": "2023-11-11T06:22:11.585000Z",
+            "response_from_owner_text": "Hello Harman Jassal! Thank you for your feedback.",
+            "response_from_owner_ago": "a week ago",
+            "response_from_owner_date": "2023-11-11T15:06:42.594000Z",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 3,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/116630967058542887539/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJp6rt1lkUMixRICdMsvJl10av5UlpoQ_G7z_DwzTOR=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "4.5 they are the best at packing, they put zip lock packaging on anything liquid & I've never had a problem with them, it's surprising really! Anyone else I've had issues with deliveries & damage, especially Costco and Save on foods. London drugs uses postal from the distribution center & corporate couriers from the individual outlets. I've been dealing with them for so many years. When we changed our car oil, we came because they had the lowest price ! Haha, that was about 45 years ago !",
+            "reviewer_name": "Hawkeye",
+            "rating": 4,
+            "review_text": "4.5 they are the best at packing, they put zip lock packaging on anything liquid & I've never had a problem with them, it's surprising really! Anyone else I've had issues with deliveries & damage, especially Costco and Save on foods. London drugs uses postal from the distribution center & corporate couriers from the individual outlets. I've been dealing with them for so many years. When we changed our car oil, we came because they had the lowest price ! Haha, that was about 45 years ago !",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-08T01:42:18.030000Z",
+            "response_from_owner_text": "Hello Hawkeye! Thank you for your feedback.",
+            "response_from_owner_ago": "a month ago",
+            "response_from_owner_date": "2023-10-09T17:12:10.181000Z",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 10,
+            "total_number_of_photos_by_reviewer": 39,
+            "reviewer_url": "https://www.google.com/maps/contrib/114701656248295278252/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLRBaqfopbu9krNDH5_aASQm2slKvpUJzrAd039KRZsgXM=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "This is the best London Drugs in town! All the employees are so helpful and actually nice! Everyone in every department, always willing to help, always smiling and being nice. It's also stocked up, and I can always get everything I need. Congrats to the team working hard everyday",
+            "reviewer_name": "Anne Checoli",
+            "rating": 5,
+            "review_text": "This is the best London Drugs in town! All the employees are so helpful and actually nice! Everyone in every department, always willing to help, always smiling and being nice. It's also stocked up, and I can always get everything I need. Congrats to the team working hard everyday",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-02T05:41:22.055000Z",
+            "response_from_owner_text": "Hello Anne.  Thank you so much for your feedback, the very kind words and for the 5-star review.\n\nOur entire store works extremely hard in giving the best service possible.  I am happy that we can meet your needs.  We hope to see you soon.\n\nRegards,\nMike",
+            "response_from_owner_ago": "a month ago",
+            "response_from_owner_date": "2023-10-02T14:35:27.911000Z",
+            "review_likes_count": 3,
+            "total_number_of_reviews_by_reviewer": 3,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/114500870524157162611/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjX3CHKBKa9sJcASvBor_fuwiV-tyOPaKDQw_OOsOVfn8Wg=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "They say they recycle soft plastic, but my mom was told on 3 separate occasions by 3 different people \"not to bring so much\". She brought a small grocery bag size of soft plastics that are appropriate for recycling. It is not feasible to bring a little ziploc bag of plastic everytime so we bring it when we collect a small grocery bag size. The Indian guy today even said that it is only for \"packaging for products that are being sold by London Drugs\" only and not for any other soft plastic. So much for trying to do our part in a greener planet. Very disappointed in the lack of customer service.",
+            "reviewer_name": "Ada Y.",
+            "rating": 1,
+            "review_text": "They say they recycle soft plastic, but my mom was told on 3 separate occasions by 3 different people \"not to bring so much\". She brought a small grocery bag size of soft plastics that are appropriate for recycling. It is not feasible to bring a little ziploc bag of plastic everytime so we bring it when we collect a small grocery bag size. The Indian guy today even said that it is only for \"packaging for products that are being sold by London Drugs\" only and not for any other soft plastic. So much for trying to do our part in a greener planet. Very disappointed in the lack of customer service.",
+            "published_at": "3 weeks ago",
+            "published_at_date": "2023-11-01T01:19:41.090000Z",
+            "response_from_owner_text": "I'm sorry to hear about your frustrating experience with recycling soft plastics. It's important to acknowledge the effort you and your mom are making to contribute to a greener planet by recycling.  We do apologize and understand that it can indeed be discouraging when there seems to be a lack of clarity and consistency in our recycling programs.  Rest assured that we do indeed take in grocery bad sized soft plastics for recycling and will remind our front-end staff about that policy.  Please feel free to speak to a manager in the store if there are further issues regarding this matter.",
+            "response_from_owner_ago": "3 weeks ago",
+            "response_from_owner_date": "2023-11-01T04:18:58.126000Z",
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 250,
+            "total_number_of_photos_by_reviewer": 488,
+            "reviewer_url": "https://www.google.com/maps/contrib/106161463010264338148/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKGWVbxXbRwPzhmHHgKFN8Sqm6ZHh4w-XUTq9NIt_mi=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "I am concerned about why many pharmacy staff do not wear masks, given that they have to be in close contact with patients who might carry germs. Looks like London Drugs doesn't care whether staff would spread germs onto other customers. I suppose providing a safe environment for patients and healthcare staff is not a priority of the management team.",
+            "reviewer_name": "Chorkee Tong",
+            "rating": 1,
+            "review_text": "I am concerned about why many pharmacy staff do not wear masks, given that they have to be in close contact with patients who might carry germs. Looks like London Drugs doesn't care whether staff would spread germs onto other customers. I suppose providing a safe environment for patients and healthcare staff is not a priority of the management team.",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-08T02:20:58.311000Z",
+            "response_from_owner_text": "Hello Chorkee Tong! Thank you for your feedback.  We take the safety of our staff and customers seriously.  With that being said, we do follow the government guidelines/recommendations.  It is optional to wear masks and we leave that option to all staff.  Pharmacy staff are not in close contact with customers compared to the rest of the store staff.  \n\nIf you have any concerns, feel free to contact me directly.\n\nThanks,\nMike\nStore Manager",
+            "response_from_owner_ago": "2 months ago",
+            "response_from_owner_date": "2023-09-08T13:30:41.241000Z",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 3,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/105229186688310162867/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLqoWg7B-zUfjMBRP-ssjsy8Sw7w7FBaW_f5vKEc_e3=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "I had a very bad experience with 41st and Victoria, London Drug, and Photoshop. I was waiting for the service. But no one is willing to serve. Finally, someone came to help, and I gave them some pictures to enlarge. The quality was terrible. If you ask about the quality of the photos with cut-off hands and feet, they are ready to refund the money in a hurry. Not to correct the quality. They do not care about customer satisfaction. They refunded the money. I was asking for the pictures, which they refused to give me because they refunded the money and said they were going to shred those pictures.",
+            "reviewer_name": "Bama I",
+            "rating": 1,
+            "review_text": "I had a very bad experience with 41st and Victoria, London Drug, and Photoshop. I was waiting for the service. But no one is willing to serve. Finally, someone came to help, and I gave them some pictures to enlarge. The quality was terrible. If you ask about the quality of the photos with cut-off hands and feet, they are ready to refund the money in a hurry. Not to correct the quality. They do not care about customer satisfaction. They refunded the money. I was asking for the pictures, which they refused to give me because they refunded the money and said they were going to shred those pictures.",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-11T04:26:54.491000Z",
+            "response_from_owner_text": "We are sorry to hear that you had an unpleasant experience at the London Drugs Photoshop depart at 41st and Victoria. It's unfortunate that the service you received was not up to your expectations and that the quality of the enlarged photos was not satisfactory. It's good that we refunded your money, but it's understandable that you would have preferred to have the issue with the photos corrected rather than just receiving a refund.  Please feel free to reach out to our Photolab manager Will at 604-448-4853 to see if there is anything we could do better to give you the prints that you desire.",
+            "response_from_owner_ago": "3 months ago",
+            "response_from_owner_date": "2023-08-11T05:24:08.816000Z",
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 5,
+            "total_number_of_photos_by_reviewer": 5,
+            "reviewer_url": "https://www.google.com/maps/contrib/108140905752404690114/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWFHgR1msA-ORUkMgUR03kzhSKhu9cp-K0mod4ujQoY68k=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

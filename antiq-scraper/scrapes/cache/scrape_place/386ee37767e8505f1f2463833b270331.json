@@ -1,0 +1,381 @@
+{
+    "place_id": "ChIJu8hAPbR1hlQRm8zOidoHAxA",
+    "name": "MJ Physio & Massage (Fraser Street Physio) - Physio In Vancouver",
+    "description": null,
+    "reviews": 179,
+    "website": "https://mjphysio.ca/",
+    "owner": {
+        "id": "104048679345063566250",
+        "name": "MJ Physio & Massage (Fraser Street Physio) - Physio In Vancouver (Owner)",
+        "link": "https://www.google.com/maps/contrib/104048679345063566250"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMKFinTmAHad5wfrVKFGK2UoswsSVTusHvdafwc=w468-h240-k-no",
+    "main_category": "Physiotherapist",
+    "categories": [
+        "Physiotherapist"
+    ],
+    "rating": 4.9,
+    "workday_timing": "9 a.m.-7 p.m.",
+    "closed_on": [
+        "Sunday"
+    ],
+    "phone": "(604) 563-5684",
+    "address": "MJ Physio & Massage (Fraser Street Physio) - Physio In Vancouver, 5684 Fraser St, Vancouver, BC V5W 2Z4",
+    "review_keywords": [
+        {
+            "keyword": "injury",
+            "count": 32
+        },
+        {
+            "keyword": "exercises",
+            "count": 26
+        },
+        {
+            "keyword": "krishna",
+            "count": 23
+        },
+        {
+            "keyword": "ram",
+            "count": 18
+        },
+        {
+            "keyword": "back pain",
+            "count": 12
+        },
+        {
+            "keyword": "feel",
+            "count": 11
+        },
+        {
+            "keyword": "clinic",
+            "count": 9
+        },
+        {
+            "keyword": "heal",
+            "count": 8
+        },
+        {
+            "keyword": "receptionist",
+            "count": 7
+        },
+        {
+            "keyword": "walk",
+            "count": 7
+        }
+    ],
+    "link": "https://www.google.com/maps/place/MJ+Physio+%26+Massage+%28Fraser+Street+Physio%29+-+Physio+In+Vancouver/data=!4m7!3m6!1s0x548675b43d40c8bb:0x100307da89cecc9b!8m2!3d49.2332311!4d-123.0900556!16s%2Fg%2F11fcrgx42d!19sChIJu8hAPbR1hlQRm8zOidoHAxA?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 9 a.m.",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 3,
+        "2": 1,
+        "3": 0,
+        "4": 3,
+        "5": 172
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJu8hAPbR1hlQRm8zOidoHAxA&q=MJ+Physio+%26+Massage+(Fraser+Street+Physio)+-+Physio+In+Vancouver&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.2332311,
+        "longitude": -123.0900556
+    },
+    "plus_code": "6WM5+7X Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "Knight",
+        "street": "5684 Fraser St",
+        "city": "Vancouver",
+        "postal_code": "V5W 2Z4",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "1153774564733275291",
+    "data_id": "0x548675b43d40c8bb:0x100307da89cecc9b",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [
+        {
+            "link": "https://mjphysio.janeapp.com/",
+            "source": "janeapp.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planning",
+            "options": [
+                {
+                    "name": "Appointment required",
+                    "enabled": true
+                },
+                {
+                    "name": "Accepts new patients",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMKFinTmAHad5wfrVKFGK2UoswsSVTusHvdafwc=w581-h298-k-no"
+        },
+        {
+            "about": "Latest",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipP6jbOEUx5a6oPmhXrj7k2a2Uuow-UJxgqkOfqM=w298-h298-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPxFCEMF5QOitFcmDwMkDlLNDRpEIVXtjRpT2dl=w528-h298-k-no"
+        },
+        {
+            "about": "Physical fitness",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipP1uyWQ3RkCOnyABfrKSJRzd_-Xp08P5etPp9oG=w529-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMRGq-CUqOJO66SIkDp6r-OWG0dNdjX6XjmFQ5y=w397-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=wJdaTgSCw4IpW1STI9qeaw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=96.40081&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "9 a.m.-7 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "9 a.m.-7 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "9 a.m.-7 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "9 a.m.-7 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "9 a.m.-7 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "9 a.m.-3 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "Closed"
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "Staff are amazing! I've been a patient in this clinic for almost 3 yrs now for my Physio therapy with Krishna. She's such a great PT, helps me alot with my treatment issues. And lately I'm doing my massage therapy with Tony also.\nThey're awesome! Great job! Thank you very much.",
+            "reviewer_name": "YJulz binayan",
+            "rating": 5,
+            "review_text": "Staff are amazing! I've been a patient in this clinic for almost 3 yrs now for my Physio therapy with Krishna. She's such a great PT, helps me alot with my treatment issues. And lately I'm doing my massage therapy with Tony also.\nThey're awesome! Great job! Thank you very much.",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-20T03:35:09.964000Z",
+            "response_from_owner_text": "Thank you for your feedback, we will keep it up. krishna has 25 years of experience and is an amazing physio for sure .  ",
+            "response_from_owner_ago": "4 weeks ago",
+            "response_from_owner_date": "2023-10-25T01:44:10.549000Z",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/110018403048780464246/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLLXocZoWmjZRADUU_U9aFVuaWfdfEBdddABzR5SE7C=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "I am utterly greatfull  Mrs Rajwant chahal Physiotherapist she is very kind, attentive and very gentle with patients. And she is a great human being.\nAnd the simran she is very kind and helpfull im extremely reccomend this place to every one.\nWe are visiting at our baddest moment but like these people make it brightest moment.\nThank you very much for all.",
+            "reviewer_name": "Methmini kokila",
+            "rating": 5,
+            "review_text": "I am utterly greatfull  Mrs Rajwant chahal Physiotherapist she is very kind, attentive and very gentle with patients. And she is a great human being.\nAnd the simran she is very kind and helpfull im extremely reccomend this place to every one.\nWe are visiting at our baddest moment but like these people make it brightest moment.\nThank you very much for all.",
+            "published_at": "6 days ago",
+            "published_at_date": "2023-11-16T02:15:49.477000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/110762508787499787479/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVNOrp3b5dGkKxM8_EFtakiYYgxAfqR2749vc9guIs6wwg=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "I chose MJ Physio because they had a physiotherapist that could help with my concussion and it was close enough that I could walk to it with minimal symptoms. I'm so happy I found it and Krishna! I've been receiving concussion therapy for two months now and it's like I'm finally human again. I can walk, bike, and drive again, and my cognition and screen time tolerance is improving with the exercises. None of this was the case when I first started with Krishna.\n\nDuring my first session, Krishna quickly identified that my vision was affected by the concussion and that is the likely cause of my symptoms. It was a huge relief to understand why I was feeling so yucky and have a plan to fix it. Thank you so much!!!",
+            "reviewer_name": "Dorothy Ordogh",
+            "rating": 5,
+            "review_text": "I chose MJ Physio because they had a physiotherapist that could help with my concussion and it was close enough that I could walk to it with minimal symptoms. I'm so happy I found it and Krishna! I've been receiving concussion therapy for two months now and it's like I'm finally human again. I can walk, bike, and drive again, and my cognition and screen time tolerance is improving with the exercises. None of this was the case when I first started with Krishna.\n\nDuring my first session, Krishna quickly identified that my vision was affected by the concussion and that is the likely cause of my symptoms. It was a huge relief to understand why I was feeling so yucky and have a plan to fix it. Thank you so much!!!",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-08T16:08:13.471000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 4,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/107962512941506015628/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWZUtTLGHAF3ZdfshZPs_5QGqI5ZOB5_reT14yTbu9uh-EC=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "i went there for my uncle physio appoinmnt.Dr Krishnajeeja treated my uncle really well before going to the appoinmnt my uncle was not able to move properly . krishnajeeja helped him really well nd educate him how he can take care to prevent nd heal from the injury really fast. Dr jeeja is very professional nd knowledgable . I recommend everyone to visit this place for fast recovery.",
+            "reviewer_name": "Pawandeep Kaur",
+            "rating": 5,
+            "review_text": "i went there for my uncle physio appoinmnt.Dr Krishnajeeja treated my uncle really well before going to the appoinmnt my uncle was not able to move properly . krishnajeeja helped him really well nd educate him how he can take care to prevent nd heal from the injury really fast. Dr jeeja is very professional nd knowledgable . I recommend everyone to visit this place for fast recovery.",
+            "published_at": "a month ago",
+            "published_at_date": "2023-09-25T17:14:51.692000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/103406419670462876984/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKhdGDfAyyuseVGKd6nB1xrOD9OJWX_J43pd_EU-o9v=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Krishna treated my left hip bursitis and knee injury from golf, on 1st day of season. My pain was so bad I couldn't walk & completely bent over the next day and on. I should've gone to my doc for a shot(which I found out later), but a week later, I went to MJ physio. She used ultrasound & tens machine to help heal. She told me about certain exercises that I should do to strengthen & stretching my glutes & hamstrings, as I wasn't in good shape to play golf. Doc said it'd take 6-12 weeks, but I played my first golf 5 weeks after injury and I played better because I was more stronger in my core and glutes. I'm still getting treatments b'c of sore left shoulder & back and she's used shock therapy for shoulder and it has rapidly helped the shoulder. My back pain is also getting better. 6 weeks later now, I'm playing golf better & I can run if I have to, btw, I'm a newish senior. I'm planning to check in with Krishna from time to time if I feel aches & pains. Thanks much, Krishna!",
+            "reviewer_name": "helena biddle",
+            "rating": 5,
+            "review_text": "Krishna treated my left hip bursitis and knee injury from golf, on 1st day of season. My pain was so bad I couldn't walk & completely bent over the next day and on. I should've gone to my doc for a shot(which I found out later), but a week later, I went to MJ physio. She used ultrasound & tens machine to help heal. She told me about certain exercises that I should do to strengthen & stretching my glutes & hamstrings, as I wasn't in good shape to play golf. Doc said it'd take 6-12 weeks, but I played my first golf 5 weeks after injury and I played better because I was more stronger in my core and glutes. I'm still getting treatments b'c of sore left shoulder & back and she's used shock therapy for shoulder and it has rapidly helped the shoulder. My back pain is also getting better. 6 weeks later now, I'm playing golf better & I can run if I have to, btw, I'm a newish senior. I'm planning to check in with Krishna from time to time if I feel aches & pains. Thanks much, Krishna!",
+            "published_at": "5 months ago",
+            "published_at_date": "2023-06-10T18:26:26.840000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 3,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/104399107746475796402/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIEzwnePTruOFz5go24dvnBH_WCzijgzt_1yIE0jNHG=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "My experience is wonderful with MJ Physio & Message. They spend good amount of time on patients and provide the appropriate advice according to the case. I went for my wrist pain issue and now its relived.",
+            "reviewer_name": "Aarti Dheer",
+            "rating": 5,
+            "review_text": "My experience is wonderful with MJ Physio & Message. They spend good amount of time on patients and provide the appropriate advice according to the case. I went for my wrist pain issue and now its relived.",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-18T15:01:56.427000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/107620044441067171500/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJrMMJaorYE8XGuggu9SjCp8U14PMJfSVAGop6hIgjA=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "I highly recommend Krishna Jeeja for Physiotherapy. She is professional, knowledgeable, and a very kind person. Her skills as a Physio are unrivaled and she truly cares for her patients. I have been struggling with my knee pain for more than a year now, but she helper me to recover from my injury. My knee is so much better now and I highly recommend her to anyone who needs physiotherapy treatment!\n\nThe clinic is clean and well-equipped and the staff is super friendly.",
+            "reviewer_name": "Karthikeyan Sundararaj",
+            "rating": 5,
+            "review_text": "I highly recommend Krishna Jeeja for Physiotherapy. She is professional, knowledgeable, and a very kind person. Her skills as a Physio are unrivaled and she truly cares for her patients. I have been struggling with my knee pain for more than a year now, but she helper me to recover from my injury. My knee is so much better now and I highly recommend her to anyone who needs physiotherapy treatment!\n\nThe clinic is clean and well-equipped and the staff is super friendly.",
+            "published_at": "10 months ago",
+            "published_at_date": "2023-01-06T04:42:08.878000Z",
+            "response_from_owner_text": "Thank you  Karthik for your comments. ",
+            "response_from_owner_ago": "9 months ago",
+            "response_from_owner_date": "2023-02-16T20:55:00.915000Z",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/117657988157150573585/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJVrM2Jt4N-1jmRLcO7qceM2kVpBDW_QpkFekyqejmz=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "I had symptoms of bppv, Krishna was very quick to fix the vertigo and dizziness issues I was experiencing Just 30 minutes after my visit, I was feeling completely back to my usual self.",
+            "reviewer_name": "Val W",
+            "rating": 5,
+            "review_text": "I had symptoms of bppv, Krishna was very quick to fix the vertigo and dizziness issues I was experiencing Just 30 minutes after my visit, I was feeling completely back to my usual self.",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-07T07:39:10.204000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 4,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/109891333083346739461/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUSE6hCEyWbc71BvBJeIwE87SLR4saADdMmYOw64W8r2kA=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

@@ -1,0 +1,113 @@
+{
+    "place_id": "ChIJp1UOCXt1hlQR1H530X9Prks",
+    "name": "Cleanko Building Maintenance \"You're in Good Hands\"",
+    "description": null,
+    "reviews": null,
+    "website": null,
+    "owner": {
+        "id": "115613565993214237125",
+        "name": "Cleanko Building Maintenance \"You're in Good Hands\" (Owner)",
+        "link": "https://www.google.com/maps/contrib/115613565993214237125"
+    },
+    "featured_image": null,
+    "main_category": "Commercial cleaning service",
+    "categories": [
+        "Commercial cleaning service",
+        "Contractor",
+        "Service establishment"
+    ],
+    "rating": null,
+    "workday_timing": "9 a.m.-6 p.m.",
+    "closed_on": [
+        "Sunday"
+    ],
+    "phone": "(604) 518-9474",
+    "address": null,
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/Cleanko+Building+Maintenance+%E2%80%9CYou%E2%80%99re+in+Good+Hands%E2%80%9D/data=!4m7!3m6!1s0x5486757b090e55a7:0x4bae4f7fd1777ed4!8m2!3d49.2577354!4d-123.123904!16s%2Fg%2F11jfs11x0q!19sChIJp1UOCXt1hlQR1H530X9Prks?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 9 a.m.",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJp1UOCXt1hlQR1H530X9Prks&q=Cleanko+Building+Maintenance+%E2%80%9CYou%E2%80%99re+in+Good+Hands%E2%80%9D&authuser=0&hl=en&gl=None",
+    "coordinates": {
+        "latitude": 49.257735399999994,
+        "longitude": -123.123904
+    },
+    "plus_code": null,
+    "detailed_address": {
+        "ward": null,
+        "street": null,
+        "city": null,
+        "postal_code": null,
+        "state": null,
+        "country_code": null
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "5453383609185959636",
+    "data_id": "0x5486757b090e55a7:0x4bae4f7fd1777ed4",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [
+        {
+            "link": "http://www.cleanko.ca/",
+            "source": "cleanko.ca"
+        }
+    ],
+    "about": [],
+    "images": [],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "9 a.m.-6 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "9 a.m.-6 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "9 a.m.-6 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "9 a.m.-6 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "9 a.m.-6 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "9 a.m.-2 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "Closed"
+            ]
+        }
+    ],
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

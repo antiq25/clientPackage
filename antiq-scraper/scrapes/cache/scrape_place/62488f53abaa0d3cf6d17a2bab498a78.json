@@ -1,0 +1,367 @@
+{
+    "place_id": "ChIJQSsj-UZwhlQRri8JH1fJgZw",
+    "name": "Mr. Rooter Plumbing",
+    "description": null,
+    "reviews": 482,
+    "website": "https://www.mrrooter.ca/vancouver%3Futm_source%3Dgmb%26utm_campaign%3Dlocal%26utm_medium%3Dorganic",
+    "owner": {
+        "id": "106667367123292185445",
+        "name": "Mr. Rooter Plumbing (Owner)",
+        "link": "https://www.google.com/maps/contrib/106667367123292185445"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipONGqVghS5E0y5h-by_RScZ4UJUJXg39dNBqX71=w426-h240-k-no",
+    "main_category": "Plumber",
+    "categories": [
+        "Plumber"
+    ],
+    "rating": 4.6,
+    "workday_timing": "Open 24 hours",
+    "closed_on": [],
+    "phone": "(604) 433-5555",
+    "address": "Mr. Rooter Plumbing, 202-5128 Victoria Dr, Vancouver, BC V5P 3V2",
+    "review_keywords": [
+        {
+            "keyword": "job",
+            "count": 57
+        },
+        {
+            "keyword": "technician",
+            "count": 55
+        },
+        {
+            "keyword": "efficient",
+            "count": 30
+        },
+        {
+            "keyword": "toilet",
+            "count": 26
+        },
+        {
+            "keyword": "work",
+            "count": 15
+        },
+        {
+            "keyword": "sewer",
+            "count": 14
+        },
+        {
+            "keyword": "informative",
+            "count": 10
+        },
+        {
+            "keyword": "basement",
+            "count": 9
+        },
+        {
+            "keyword": "insurance",
+            "count": 7
+        },
+        {
+            "keyword": "sump pump",
+            "count": 5
+        }
+    ],
+    "link": "https://www.google.com/maps/place/Mr.+Rooter+Plumbing/data=!4m7!3m6!1s0x54867046f9232b41:0x9c81c9571f092fae!8m2!3d49.2379081!4d-123.0650974!16s%2Fg%2F1x6q1g3h!19sChIJQSsj-UZwhlQRri8JH1fJgZw?authuser=0&hl=en&rclk=1",
+    "status": "Open 24 hours",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 32,
+        "2": 6,
+        "3": 4,
+        "4": 32,
+        "5": 408
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJQSsj-UZwhlQRri8JH1fJgZw&q=Mr.+Rooter+Plumbing&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.2379081,
+        "longitude": -123.0650974
+    },
+    "plus_code": "6WQM+5X Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "Knight",
+        "street": "202-5128 Victoria Dr",
+        "city": "Vancouver",
+        "postal_code": "V5P 3V2",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "11277516317932466094",
+    "data_id": "0x54867046f9232b41:0x9c81c9571f092fae",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [
+        {
+            "link": "https://www.mrrooter.ca/vancouver/request-job-estimate/?utm_source=gmbappt&utm_medium=organic&utm_campaign=local",
+            "source": "mrrooter.ca"
+        }
+    ],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Online estimates",
+                    "enabled": true
+                },
+                {
+                    "name": "Onsite services",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Repair services",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipONGqVghS5E0y5h-by_RScZ4UJUJXg39dNBqX71=w529-h298-k-no"
+        },
+        {
+            "about": "Pipe",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipN85bQZoPX3b0p50rwwXHNiovZZRZOivKuvIjd5=w224-h298-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOIeE_3wamoa-qw0fmBNnvzP_OUsfmHvbBE706z=w529-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPTerlQ7pnyTAHRs-Tjp0ndA0E29OseuJWnEFGb=w224-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=dVs20clzOw2DwaGonOjgfw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=94.86846&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "Open 24 hours"
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "Open 24 hours"
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "Open 24 hours"
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "Open 24 hours"
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "Open 24 hours"
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "Open 24 hours"
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "Open 24 hours"
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "We had a massive flood in our basement and rooter was able to come to our house first thing in the morning - we opted to wait until morning to have them come.  Chris the technician / plumber was so great and  knowledgeable. We felt so supported.  The bill was less than we expected which was a bonus.  Don't hesitate to call them if your own plumber can't make it or if you have an emergency as we did.  Thanks so much",
+            "reviewer_name": "Helen",
+            "rating": 5,
+            "review_text": "We had a massive flood in our basement and rooter was able to come to our house first thing in the morning - we opted to wait until morning to have them come.  Chris the technician / plumber was so great and  knowledgeable. We felt so supported.  The bill was less than we expected which was a bonus.  Don't hesitate to call them if your own plumber can't make it or if you have an emergency as we did.  Thanks so much",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-19T23:12:25.412000Z",
+            "response_from_owner_text": "Very glad we could help! Appreciate the positive feedback Helen",
+            "response_from_owner_ago": "3 weeks ago",
+            "response_from_owner_date": "2023-10-31T05:58:05.839000Z",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/113399424170785862771/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJvNV1_uu81Xj8lngQ5X6QJ_66QhtlyWt1hacbAxfFZ=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "I had a great experience from start to finish with Mr. Rooter Plumbing. The technician Chris was on time on agreed ETA. He came in our home to assess the problem and made an estimate prior to doing the work. The estimate price was fair and affordable. Chris was courteous, professional, experienced, speedy and efficient in repairing our toilet that keeps on running. In addition, a big shout out to Mr. Rooter's answering service representative Kim, who has provided such an amazing customer service. She was very pleasant, kind and patient in answering my questions and connecting me with the technician. If you need any plumbing services, I highly recommend Mr. Rooter.",
+            "reviewer_name": "Karen",
+            "rating": 5,
+            "review_text": "I had a great experience from start to finish with Mr. Rooter Plumbing. The technician Chris was on time on agreed ETA. He came in our home to assess the problem and made an estimate prior to doing the work. The estimate price was fair and affordable. Chris was courteous, professional, experienced, speedy and efficient in repairing our toilet that keeps on running. In addition, a big shout out to Mr. Rooter's answering service representative Kim, who has provided such an amazing customer service. She was very pleasant, kind and patient in answering my questions and connecting me with the technician. If you need any plumbing services, I highly recommend Mr. Rooter.",
+            "published_at": "a month ago",
+            "published_at_date": "2023-09-27T02:15:50.170000Z",
+            "response_from_owner_text": "Hi Karen, thank you for your review and for choosing Mr. Rooter as your local plumbing and drain cleaning company. We appreciate the support. Have a great rest of your week!",
+            "response_from_owner_ago": "a month ago",
+            "response_from_owner_date": "2023-09-27T08:45:08.146000Z",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 7,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/108589850092539965063/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocI7i1KSPtvq4tGtUIqkEsJyrIzIuWPBhaxWuSyuuP4e=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Garburator was busted, very responsive and arranged an appointment super quickly within my schedule. Provided plenty of notice for when technician was due to arrive, they came on time, we're super friendly and explained everything really clearly. Great service for a reasonable price - did an exceptional job and didn't leave any mess. Would definitely use the service again, 10/10.",
+            "reviewer_name": "Georgia Middleton",
+            "rating": 5,
+            "review_text": "Garburator was busted, very responsive and arranged an appointment super quickly within my schedule. Provided plenty of notice for when technician was due to arrive, they came on time, we're super friendly and explained everything really clearly. Great service for a reasonable price - did an exceptional job and didn't leave any mess. Would definitely use the service again, 10/10.",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-01T02:17:31.978000Z",
+            "response_from_owner_text": "Thanks Georgia! You are describing what we hope everyone experiences when they choose Mr Rooter - consistent standard of excellence",
+            "response_from_owner_ago": "3 weeks ago",
+            "response_from_owner_date": "2023-10-31T05:59:05.712000Z",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 4,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/102966785628569420513/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocK4VdcDLM1AZ-3wwRKw4aSvJ35nUETc06ZPM7Ki9F0d=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "I would highly recommend Mr. Rooter for all your plumbing needs.  Kevin responded quickly, was courteous and up front about what needed to be done and supplied a written quote.  The work was done in a timely manner and their service technician Scott was informative and very professional.",
+            "reviewer_name": "Peter H",
+            "rating": 5,
+            "review_text": "I would highly recommend Mr. Rooter for all your plumbing needs.  Kevin responded quickly, was courteous and up front about what needed to be done and supplied a written quote.  The work was done in a timely manner and their service technician Scott was informative and very professional.",
+            "published_at": "2 weeks ago",
+            "published_at_date": "2023-11-03T16:50:00.109000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 3,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/106374234230791739291/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVGcTQQMP-PgA7DvGEwvjikc6ptfJtTUAvvYX4Q_H7yBa8=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "The same problem last year was not solved but strangely gone somehow. Happened again recently and somehow the water stayed in the sink overnight and the watermark stayed the same which was very bad. The plumber of Mr. Rooter came and checked the environment thoroughly and made some plans with us. The plumber followed the plan and used continuous iron ropes to dissolve the long stayed fat in the pipe. Finally the sink works. I'm happy with the result just kind of pricy.",
+            "reviewer_name": "Eric Yu",
+            "rating": 4,
+            "review_text": "The same problem last year was not solved but strangely gone somehow. Happened again recently and somehow the water stayed in the sink overnight and the watermark stayed the same which was very bad. The plumber of Mr. Rooter came and checked the environment thoroughly and made some plans with us. The plumber followed the plan and used continuous iron ropes to dissolve the long stayed fat in the pipe. Finally the sink works. I'm happy with the result just kind of pricy.",
+            "published_at": "6 days ago",
+            "published_at_date": "2023-11-15T20:06:53.227000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/104317459054691257928/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXqJK7TEl3QEpnrEqmFnPxrdf7FIaffo9ogw04fHPpxbqM=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "After a sewer line collapse, our first call was to Mr. Rooter. They did a great job of cleaning up and then proceeded to repair the line. This was no easy task as it required a 6ft deep x 10ft long trench to be hand dug. This was completed in less than a week! A Herculean task!\n\nKevin at Mr. Rooter then referred us to BC Preferred Restoration to do major repairs in the basement suite. The floor, dry wall and cabinets had to be replaced as they were all contaminated by sewer water. Steve in the head office guided as expertly through the insurance maze. He was responsive and professional. Ivan's work was top notch and we are very pleased with the end product.\n\nMr. Rooter and BC Preferred Restoration took a horrible nasty incident and made it tolerable with a timely professional approach. 5Star experience.",
+            "reviewer_name": "Peter Radiuk",
+            "rating": 5,
+            "review_text": "After a sewer line collapse, our first call was to Mr. Rooter. They did a great job of cleaning up and then proceeded to repair the line. This was no easy task as it required a 6ft deep x 10ft long trench to be hand dug. This was completed in less than a week! A Herculean task!\n\nKevin at Mr. Rooter then referred us to BC Preferred Restoration to do major repairs in the basement suite. The floor, dry wall and cabinets had to be replaced as they were all contaminated by sewer water. Steve in the head office guided as expertly through the insurance maze. He was responsive and professional. Ivan's work was top notch and we are very pleased with the end product.\n\nMr. Rooter and BC Preferred Restoration took a horrible nasty incident and made it tolerable with a timely professional approach. 5Star experience.",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-06-28T00:50:23.325000Z",
+            "response_from_owner_text": "Thank you Peter for this very comprehensive and descriptive review of our services. We appreciate both your feedback and your business. ",
+            "response_from_owner_ago": "4 months ago",
+            "response_from_owner_date": "2023-06-28T03:16:49.270000Z",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 17,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/115187763065623262293/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW_1zh6XSedjfB88SqbjFYswhUyyp-f1uDSj7St1SLeOcU=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "My mom had a leak of water outside her house and we didn't know where it came from since it is summer and there is no rain.  I called and Kevin Florkow called me right away to set up a time to see it the next day.  He is very experienced and knew what was the issue and how to go about contacting insurance etc.  All this was done in a day and Kevin contacted the insurance with a quote and immediately approved and the next day people came to start the repairs.  Kevin arranged everything and the job was done quickly and done well.  I will recommend Mr. Rooter for sure.",
+            "reviewer_name": "Judy N Wil L",
+            "rating": 5,
+            "review_text": "My mom had a leak of water outside her house and we didn't know where it came from since it is summer and there is no rain.  I called and Kevin Florkow called me right away to set up a time to see it the next day.  He is very experienced and knew what was the issue and how to go about contacting insurance etc.  All this was done in a day and Kevin contacted the insurance with a quote and immediately approved and the next day people came to start the repairs.  Kevin arranged everything and the job was done quickly and done well.  I will recommend Mr. Rooter for sure.",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-07-28T16:09:30.215000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/110573478548379282487/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWq-pFF1EMcovDtp2AGUKXa1xriVV95E8mkMG-icrQOlNbN=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Thanks for the prompt response, professional service! Our sewer was backing up, damaged both inside and outside of the house. The manager Steve was super helpful throughout the restoration. We definitely recommend Mr Rooter to our friends and family. Again, Thank you Steve ",
+            "reviewer_name": "Kevin Lee",
+            "rating": 5,
+            "review_text": "Thanks for the prompt response, professional service! Our sewer was backing up, damaged both inside and outside of the house. The manager Steve was super helpful throughout the restoration. We definitely recommend Mr Rooter to our friends and family. Again, Thank you Steve ",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-07-27T15:41:32.412000Z",
+            "response_from_owner_text": "Thanks Kevin \nEverything goes so smoothly when the Customer\nPuts their trust in us and follows our recommendations.\nIt was a pleasure working with you !\n",
+            "response_from_owner_ago": "3 months ago",
+            "response_from_owner_date": "2023-07-28T03:08:10.703000Z",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 13,
+            "total_number_of_photos_by_reviewer": 4,
+            "reviewer_url": "https://www.google.com/maps/contrib/101985331698090097972/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXEAaX3eYm29Tb-shHuC_RmXtaR8hM1CprteNHKfqxxuyk=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

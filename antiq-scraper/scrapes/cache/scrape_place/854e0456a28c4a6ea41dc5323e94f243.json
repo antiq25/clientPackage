@@ -1,0 +1,585 @@
+{
+    "place_id": "ChIJn6xdOQF1hlQRCNrrNczEZ_Q",
+    "name": "New Fishport Seafood Bistro",
+    "description": null,
+    "reviews": 221,
+    "website": "https://newfishport.com/",
+    "owner": {
+        "id": "103132232333412074330",
+        "name": "New Fishport Seafood Bistro (Owner)",
+        "link": "https://www.google.com/maps/contrib/103132232333412074330"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO2cADiF3-lqMFGLU4HUh0Rk_q1m2SMeCCHv8AX=w426-h240-k-no",
+    "main_category": "Chinese restaurant",
+    "categories": [
+        "Chinese restaurant",
+        "Asian restaurant",
+        "Seafood restaurant"
+    ],
+    "rating": 3.9,
+    "workday_timing": "5-10 p.m.",
+    "closed_on": [
+        "Tuesday"
+    ],
+    "phone": "(604) 323-1318",
+    "address": "New Fishport Seafood Bistro, 620 SE Marine Dr, Vancouver, BC V5X 2T4",
+    "review_keywords": [
+        {
+            "keyword": "price",
+            "count": 33
+        },
+        {
+            "keyword": "server",
+            "count": 17
+        },
+        {
+            "keyword": "dinner",
+            "count": 12
+        },
+        {
+            "keyword": "parking",
+            "count": 8
+        },
+        {
+            "keyword": "attitude",
+            "count": 7
+        },
+        {
+            "keyword": "crab",
+            "count": 7
+        },
+        {
+            "keyword": "rooms",
+            "count": 6
+        },
+        {
+            "keyword": "dessert",
+            "count": 5
+        },
+        {
+            "keyword": "lobster",
+            "count": 4
+        },
+        {
+            "keyword": "sticky rice",
+            "count": 3
+        }
+    ],
+    "link": "https://www.google.com/maps/place/New+Fishport+Seafood+Bistro/data=!4m7!3m6!1s0x54867501395dac9f:0xf467c4cc35ebda08!8m2!3d49.2106189!4d-123.092605!16s%2Fg%2F11gjw_bmf_!19sChIJn6xdOQF1hlQRCNrrNczEZ_Q?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 5 p.m.",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 32,
+        "2": 3,
+        "3": 24,
+        "4": 58,
+        "5": 104
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJn6xdOQF1hlQRCNrrNczEZ_Q&q=New+Fishport+Seafood+Bistro&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.2106189,
+        "longitude": -123.09260499999999
+    },
+    "plus_code": "6W64+6X Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "South Vancouver",
+        "street": "620 SE Marine Dr",
+        "city": "Vancouver",
+        "postal_code": "V5X 2T4",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "17611261249212635656",
+    "data_id": "0x54867501395dac9f:0xf467c4cc35ebda08",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [
+        {
+            "link": "https://www.fantuanorder.com/store/new-fishport-seafood-bistro/ca-5018?rwg_token=AOZt1jWdflPTKmARDf7cDDEFAUyQVWYFX-kYCs8fWgB4nqmsbBAKcGqr1caEtdnpU516aC9bmEV73MSzVeVcwup9FVOoJqWP7awC26G9qSSrSzl77JowOcs%3D",
+            "source": "fantuanorder.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Takeout",
+                    "enabled": true
+                },
+                {
+                    "name": "Dine-in",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair accessible seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Alcohol",
+                    "enabled": true
+                },
+                {
+                    "name": "Beer",
+                    "enabled": true
+                },
+                {
+                    "name": "Wine",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Dining options",
+            "options": [
+                {
+                    "name": "Dinner",
+                    "enabled": true
+                },
+                {
+                    "name": "Catering",
+                    "enabled": true
+                },
+                {
+                    "name": "Dessert",
+                    "enabled": true
+                },
+                {
+                    "name": "Seating",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                },
+                {
+                    "name": "Wi-Fi",
+                    "enabled": true
+                },
+                {
+                    "name": "Wi-Fi",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosphere",
+            "options": [
+                {
+                    "name": "Casual",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "crowd",
+            "name": "Crowd",
+            "options": [
+                {
+                    "name": "Family-friendly",
+                    "enabled": true
+                },
+                {
+                    "name": "Groups",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planning",
+            "options": [
+                {
+                    "name": "Accepts reservations",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "children",
+            "name": "Children",
+            "options": [
+                {
+                    "name": "High chairs",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "parking",
+            "name": "Parking",
+            "options": [
+                {
+                    "name": "Free parking lot",
+                    "enabled": true
+                },
+                {
+                    "name": "Free street parking",
+                    "enabled": true
+                },
+                {
+                    "name": "Parking",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipO2cADiF3-lqMFGLU4HUh0Rk_q1m2SMeCCHv8AX=w529-h298-k-no"
+        },
+        {
+            "about": "Latest",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipP-v1b1DWji6QZFLfcS-fmvzG38TYmAvgyhaGMV=w397-h298-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipP8J4jR5-jM4a9aMhXhzwVvVciEJEImvRtEgEBy=w224-h398-k-no"
+        },
+        {
+            "about": "Menu",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipN09PbGPNNNH3mLdhncTHtDj2Q35ClbgjnwcV-B=w224-h397-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipM-5dttYdsOWOj6JZjF1VTz8IM8ZGVgH9PQUmrt=w397-h298-k-no"
+        },
+        {
+            "about": "Vibe",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMWKkc5YdDPW_B0X4vJmoqJjuXF3Eo7NzwgUNPi=w397-h298-k-no"
+        },
+        {
+            "about": "Peking duck",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOLe-3L4YsZoeUHQhzisxsFv1RCvwiiPu2y2cVe=w224-h298-k-no"
+        },
+        {
+            "about": "Chinese broccoli",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMWehoNrxf4VDnC4_u4LJbX1wgjCudyAta6KD5i=w529-h298-k-no"
+        },
+        {
+            "about": "Lobster",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPacS8Jnw0BEHAfRnZAiYI1UULgD0jvSHwE0KQB=w529-h298-k-no"
+        },
+        {
+            "about": "Fried fish",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOCWyR3GRnbbod5OM_7OMXzUook3Xn5Lf-tp47K=w529-h298-k-no"
+        },
+        {
+            "about": "Lugaw",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMppI1vaK9Qa2TwWvQ3EDhyGAR1HJF1EHh2_EzH=w397-h298-k-no"
+        },
+        {
+            "about": "King crab",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPfICQPaH-GqhcWleR7Hm6TK9tuTOTdQIM3Bp-N=w397-h298-k-no"
+        },
+        {
+            "about": "Soup",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMPKWG4MTi0WKNqIbpbyu6MQRVJwKyrtqSYmIBZ=w397-h298-k-no"
+        },
+        {
+            "about": "Chinese cuisine",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPSkg6kYo6WMXnFqvQ69j5SEmeET5aShCs0TrVX=w397-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMCSGBqeYU8HZTWcHKmEnBWg2wQDG7HRm41fGBO=w397-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=i7p1wdFntXZ-It0eueS-BQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=187.18712&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "5-10 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "Closed"
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "5-10 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "5-10 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "5-10 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "5-10 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "5-10 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "The owner and chef used to work at Dynasty Chinese Restaurant before they moved out to their own place.\n\nThe food has good \"wok\" flavour, uses fresh ingredients, is tasty and better if you speak Cantonese so you can get the daily specials and seafood of the day, that aren't listed in the menu.\n\nWe came for a group dinner and the portions were generous. Some dishes were a bit oily.\n\nMy favourite was their fish maw baked with running chicken - the flavours were very complementary and the fish maw was cooked just right.\n\nThe restaurant isn't that nice looking; decor is simple and a bit dated, with tables fairly placed close together. They have two private rooms. It has a little bit of a hole-in-the-wall feeling but prices certainly were at par if not even more expensive than other restaurants with much nicer decor.\n\nWorth it to come back for the food, but not necessarily to present to visitors given the overall ambiance and dining experience.",
+            "reviewer_name": "Samantha P",
+            "rating": 4,
+            "review_text": "The owner and chef used to work at Dynasty Chinese Restaurant before they moved out to their own place.\n\nThe food has good \"wok\" flavour, uses fresh ingredients, is tasty and better if you speak Cantonese so you can get the daily specials and seafood of the day, that aren't listed in the menu.\n\nWe came for a group dinner and the portions were generous. Some dishes were a bit oily.\n\nMy favourite was their fish maw baked with running chicken - the flavours were very complementary and the fish maw was cooked just right.\n\nThe restaurant isn't that nice looking; decor is simple and a bit dated, with tables fairly placed close together. They have two private rooms. It has a little bit of a hole-in-the-wall feeling but prices certainly were at par if not even more expensive than other restaurants with much nicer decor.\n\nWorth it to come back for the food, but not necessarily to present to visitors given the overall ambiance and dining experience.",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-01T02:41:12.531000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 195,
+            "total_number_of_photos_by_reviewer": 247,
+            "reviewer_url": "https://www.google.com/maps/contrib/114556637849338784077/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJ4zhgvtn6tIrQ0dw18Hd2k6lt1FIUWRgd8w5n_Zqk0=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "First time here for dinner. A lot of special dishes that are not generally available in other Chinese restaurants. Food is good. Service is not bad. May repeat again for some other special dishes.",
+            "reviewer_name": "Peter Au",
+            "rating": 5,
+            "review_text": "First time here for dinner. A lot of special dishes that are not generally available in other Chinese restaurants. Food is good. Service is not bad. May repeat again for some other special dishes.",
+            "published_at": "6 months ago",
+            "published_at_date": "2023-05-06T05:41:08.982000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 142,
+            "total_number_of_photos_by_reviewer": 807,
+            "reviewer_url": "https://www.google.com/maps/contrib/106833934522927764227/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXNrkdDMhMa8PxTI_hPUQIRxu8xcDfAbmB3nN_7EIZRezY=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipO2cADiF3-lqMFGLU4HUh0Rk_q1m2SMeCCHv8AX=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMyWlY6X5_nF9NidNrsckZM4VNvY8MWn4skxs6C=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMtEEBKB5hB9wPItSGeV103c4wm3cYqUhyJGYvv=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMWehoNrxf4VDnC4_u4LJbX1wgjCudyAta6KD5i=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMahZpuHFpnDb7qaMh-KY2qtXElEsXmyM1Dt116=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMP54pgQV4CY9PV14JHMXBoVPVHuj9_-iOB_Dl4=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMXuS0ZukpODK350tVSx8sZrs-Bh1FHEr9G2onc=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipO6NuFX6wAAiskT_K5J78SDYfaJ8l1f_SJga8OR=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Our first time trying New Fishport Seafood Bistro was actually take out last year but we finally managed to visit in person a few weeks ago. It's located in a rather non-descript mini mall on Marine.\n\nThe interior isn't huge and they sat us at one of the few small tables in the restaurant. We ordered the Mixed Vegetables, Mui Choy Kau Yuk,\nHouse Special Fried Rice, and we wanted to order a crab dish. They tried to convince us that we ordered too much... As it turns out, they mistakenly gave us the wrong crab dish. We ordered a simple ginger and green onion crab but they wound up giving us their special Fire Crab with Sticky Rice. The reason why they call it that is because they pour some liquid on the sticky rice and set it on fire tableside. While it wasn't what we ordered, it turned out pretty good with a spicy garlic soy flavour.\n\nService was pretty good and food was tasty. Ended the meal with a taro tapioca dessert.",
+            "reviewer_name": "Penny Rusty Sophie",
+            "rating": 4,
+            "review_text": "Our first time trying New Fishport Seafood Bistro was actually take out last year but we finally managed to visit in person a few weeks ago. It's located in a rather non-descript mini mall on Marine.\n\nThe interior isn't huge and they sat us at one of the few small tables in the restaurant. We ordered the Mixed Vegetables, Mui Choy Kau Yuk,\nHouse Special Fried Rice, and we wanted to order a crab dish. They tried to convince us that we ordered too much... As it turns out, they mistakenly gave us the wrong crab dish. We ordered a simple ginger and green onion crab but they wound up giving us their special Fire Crab with Sticky Rice. The reason why they call it that is because they pour some liquid on the sticky rice and set it on fire tableside. While it wasn't what we ordered, it turned out pretty good with a spicy garlic soy flavour.\n\nService was pretty good and food was tasty. Ended the meal with a taro tapioca dessert.",
+            "published_at": "10 months ago",
+            "published_at_date": "2023-01-22T06:27:02.311000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 609,
+            "total_number_of_photos_by_reviewer": 4132,
+            "reviewer_url": "https://www.google.com/maps/contrib/110429535549061741595/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUiLphjeI3NmJ2Det4l5-QZfHM4kMqhcRaUOt8EK_xquwo=s120-c-rp-mo-ba6-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNtvTtWfoof2tKuOkvYmPBaOYahTLb1t7swGZKt=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipN-zMKjlSHr3cnzffsPJR4imMAJ345Pw3YRTouL=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNSzTZGi8qhSmFYgQhJBBfof45mcwBYSuxzC7k0=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNux5EJnsXsRLhVplMfaBjmYbpfb1QmFbf5ndGv=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMQuwvinq8hr6ys5k0IBd9EzsNrYafLu_9Ma8XT=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipM0sAiAapMaDni_oodbSJ_vaWTKqxtM2xsWxt8T=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Food was about average for a Cantonese seafood restaurant but the prices were quite a bit higher than the standard. For the quality of food itself it's actually not bad but it's about the full dining experience and to be honest I felt like my table received significantly worse service than other tables. Most likely based on the dishes we ordered. I mean our food was by no means \"cheap\" but we did not purchase any of those recommendations the server told us about that costs way more money.  We even over heard one of the servers ( or owner ) saying to another worker that they were relieved we were finally leaving. Probably because we were not spending \"that much\" for dinner.... And could finally fill our table with other people. No I will never set foot in this restaurant again or any future establishments the owner  opens in the future.  By no means is this review meant to defame the restaurant, maybe they were just feeling too stressed from the covid restrictions and really needed the money.  but to be treated based on how much we are willing to spend on a meal simply is a first... oh and y'all wondering how much the meal cost, it was a little over $300 with 12% tips ( why did I tip? Because it's not the servers faults they give that kind of service, more likely how the owner teaches the servers how to serve higher value customers)",
+            "reviewer_name": "clinton tong",
+            "rating": 2,
+            "review_text": "Food was about average for a Cantonese seafood restaurant but the prices were quite a bit higher than the standard. For the quality of food itself it's actually not bad but it's about the full dining experience and to be honest I felt like my table received significantly worse service than other tables. Most likely based on the dishes we ordered. I mean our food was by no means \"cheap\" but we did not purchase any of those recommendations the server told us about that costs way more money.  We even over heard one of the servers ( or owner ) saying to another worker that they were relieved we were finally leaving. Probably because we were not spending \"that much\" for dinner.... And could finally fill our table with other people. No I will never set foot in this restaurant again or any future establishments the owner  opens in the future.  By no means is this review meant to defame the restaurant, maybe they were just feeling too stressed from the covid restrictions and really needed the money.  but to be treated based on how much we are willing to spend on a meal simply is a first... oh and y'all wondering how much the meal cost, it was a little over $300 with 12% tips ( why did I tip? Because it's not the servers faults they give that kind of service, more likely how the owner teaches the servers how to serve higher value customers)",
+            "published_at": "2 years ago",
+            "published_at_date": "2021-08-10T03:04:37.538000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 15,
+            "total_number_of_reviews_by_reviewer": 12,
+            "total_number_of_photos_by_reviewer": 14,
+            "reviewer_url": "https://www.google.com/maps/contrib/106373483407241793240/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLrJFOPks_nf_lkmstqF1QwWp7AbyNU4NrZI9tq5zX6aw=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipP-eK9YF-lcRmEYvLsUoAnxBWrmM_0GtVXUUbhL=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMn0KY4Fcjgt5cNF7xxqTYRBfyzp3piDDOEiwnz=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMZ_YpnDNrg-3ps7JU4z1VqHncY1HNL7hszY32d=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMXLWMTtHHfg_ZhVIyvvBBxTvI94PNDQyfpNAIa=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPsr5eAIab8L_F_WzkoB_mUSOGNn-8g4qgHF0ov=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPN-fjMUqvI6KZWPW7LukAcgreUEaSJezgQEuL4=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Went there with few other friends for dinner. The service was good and the food even better. The server recommended what's fresh and some dishes as there were so many to choose from. We all enjoyed the good immensely. We all said that we would be back again with others.\nFood was too good and I forgot to take pictures!",
+            "reviewer_name": "Burton Wei",
+            "rating": 5,
+            "review_text": "Went there with few other friends for dinner. The service was good and the food even better. The server recommended what's fresh and some dishes as there were so many to choose from. We all enjoyed the good immensely. We all said that we would be back again with others.\nFood was too good and I forgot to take pictures!",
+            "published_at": "a year ago",
+            "published_at_date": "2022-03-29T05:02:48.496000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 62,
+            "total_number_of_photos_by_reviewer": 1222,
+            "reviewer_url": "https://www.google.com/maps/contrib/115306302924966059481/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWhXDYTHMzgAA5OTsmwdCdGbnlu5pGdgSmX88JskAk1tlI=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMPKWG4MTi0WKNqIbpbyu6MQRVJwKyrtqSYmIBZ=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipM6xpDtgnzL2u0N1RL04IXEK-Leb1vRbHVGthlg=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Not worth a second visit. Cramped space even though we had a room to ourselves, just four of use squeezed into a 4x4, extremely unfortable.\nThe food ... well, that special soup was watery. Guessed they put water to increase quantity, though it cost an arm and a leg.\nNot worth another visit for me, and certainly would not host a dinner with good friends.",
+            "reviewer_name": "Andre Ippe",
+            "rating": 3,
+            "review_text": "Not worth a second visit. Cramped space even though we had a room to ourselves, just four of use squeezed into a 4x4, extremely unfortable.\nThe food ... well, that special soup was watery. Guessed they put water to increase quantity, though it cost an arm and a leg.\nNot worth another visit for me, and certainly would not host a dinner with good friends.",
+            "published_at": "a week ago",
+            "published_at_date": "2023-11-14T04:33:11.618000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 149,
+            "total_number_of_photos_by_reviewer": 3178,
+            "reviewer_url": "https://www.google.com/maps/contrib/117855186538317534418/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVYCzjndy4ilpXsQGIKFIsSqtBCVIDBqLJ0mJHXul4USWjB=s120-c-rp-mo-ba6-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Bright atmosphere clean restaurant. Sitting is a bit tight. Lack of parking.\nChicken and lobster cook to perfect condition to serve. Only the fish is salty with fishy smell that I don't get use to that taste,  not recommended. Service is good and fast, politely stuff with courtesy, frequently change your dirty plate.",
+            "reviewer_name": "Albert Leung",
+            "rating": 4,
+            "review_text": "Bright atmosphere clean restaurant. Sitting is a bit tight. Lack of parking.\nChicken and lobster cook to perfect condition to serve. Only the fish is salty with fishy smell that I don't get use to that taste,  not recommended. Service is good and fast, politely stuff with courtesy, frequently change your dirty plate.",
+            "published_at": "2 years ago",
+            "published_at_date": "2021-11-16T07:18:15.018000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 259,
+            "total_number_of_photos_by_reviewer": 2962,
+            "reviewer_url": "https://www.google.com/maps/contrib/114314603981224299448/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJTV1cqh49DyZKl7xxp07PGDiVkjaIN_fyKsnmigLZD=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOJWdeX6qCmfrCqXqYyhCrrtsRTGiA2agCzyIUM=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOGdKbzzGEytYo0ih1VzWLz9NBsXUekbal-iFHV=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipN-X_4f1MfkUj93x3-PyVaXlJfedUiIiMtOdBd7=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Dinner for 12 people, order 8 dishes and all came within 20 mins since we sat down. We booked table at 545pm and we finished at 640pm. We finished eating all within 1 hour because they forced us as there was another booking coming in. They didnt squeeze our booking in or didn't tell us ahead of time we had only 1 hour. Our table didn't even have enough space for all the 8 dishes and the waiters were embarrassed as they kept bringing the dishes and kept apologizing. Soup was spilled everywhere as there were absolutely no space at the table and they pressured us to finish the dishes quickly to make space for other dishes. When we asked them to slow down the dishes, they said they had no control over the chef. It was a full house at the restaurant and all the dishes at our table came all at once. That's basically forcing us to finish quickly and leave. Will not return again. Dinner was not cheap.",
+            "reviewer_name": "Corinne Shum",
+            "rating": 1,
+            "review_text": "Dinner for 12 people, order 8 dishes and all came within 20 mins since we sat down. We booked table at 545pm and we finished at 640pm. We finished eating all within 1 hour because they forced us as there was another booking coming in. They didnt squeeze our booking in or didn't tell us ahead of time we had only 1 hour. Our table didn't even have enough space for all the 8 dishes and the waiters were embarrassed as they kept bringing the dishes and kept apologizing. Soup was spilled everywhere as there were absolutely no space at the table and they pressured us to finish the dishes quickly to make space for other dishes. When we asked them to slow down the dishes, they said they had no control over the chef. It was a full house at the restaurant and all the dishes at our table came all at once. That's basically forcing us to finish quickly and leave. Will not return again. Dinner was not cheap.",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-16T19:46:43.393000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/102451494690506114838/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKIaieJfdBIx_Xvr0Z9JegvCHj-QH7c3n2SBrSq0NKa=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

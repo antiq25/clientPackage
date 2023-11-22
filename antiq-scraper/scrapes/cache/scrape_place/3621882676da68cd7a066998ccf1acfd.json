@@ -1,0 +1,273 @@
+{
+    "place_id": "ChIJh35stnNxhlQR9w7WxtQXVBQ",
+    "name": "Good Company Lager",
+    "description": null,
+    "reviews": 4,
+    "website": "http://goodcompanylager.com/",
+    "owner": {
+        "id": "105227386272034819607",
+        "name": "Good Company Lager (Owner)",
+        "link": "https://www.google.com/maps/contrib/105227386272034819607"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=1L00gLlcaFJUXKvsCFHDhA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=310.608&pitch=0&thumbfov=100",
+    "main_category": "Brewery",
+    "categories": [
+        "Brewery"
+    ],
+    "rating": 4,
+    "workday_timing": "5 p.m.-1 a.m.",
+    "closed_on": [
+        "Sunday"
+    ],
+    "phone": "(778) 918-3671",
+    "address": "Good Company Lager, 917 Main St, Vancouver, BC V6A 2V8",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/Good+Company+Lager/data=!4m7!3m6!1s0x54867173b66c7e87:0x145417d4c6d60ef7!8m2!3d49.2765047!4d-123.1001039!16s%2Fg%2F11h2273ft5!19sChIJh35stnNxhlQR9w7WxtQXVBQ?authuser=0&hl=en&rclk=1",
+    "status": "Open  Closes 1 a.m.",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 3
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJh35stnNxhlQR9w7WxtQXVBQ&q=Good+Company+Lager&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.2765047,
+        "longitude": -123.1001039
+    },
+    "plus_code": "7VGX+JX Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "Downtown Vancouver",
+        "street": "917 Main St",
+        "city": "Vancouver",
+        "postal_code": "V6A 2V8",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "1464821981438676727",
+    "data_id": "0x54867173b66c7e87:0x145417d4c6d60ef7",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Alcohol",
+                    "enabled": true
+                },
+                {
+                    "name": "Beer",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Bar on-site",
+                    "enabled": true
+                },
+                {
+                    "name": "Gender-neutral washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "crowd",
+            "name": "Crowd",
+            "options": [
+                {
+                    "name": "LGBTQ+ friendly",
+                    "enabled": true
+                },
+                {
+                    "name": "Transgender safe space",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=1L00gLlcaFJUXKvsCFHDhA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=310.608&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Latest",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipO6AGuhaCVRdyIgtibwx0gYb4xVQGX1q3MgNI8L=w224-h298-k-no"
+        },
+        {
+            "about": "Beer",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipO6AGuhaCVRdyIgtibwx0gYb4xVQGX1q3MgNI8L=w224-h298-k-no"
+        },
+        {
+            "about": "Pub",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipO6AGuhaCVRdyIgtibwx0gYb4xVQGX1q3MgNI8L=w224-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=1L00gLlcaFJUXKvsCFHDhA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=310.608&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "5 p.m.-1 a.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "5 p.m.-1 a.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "5 p.m.-1 a.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "5 p.m.-1 a.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "5 p.m.-1 a.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "5 p.m.-1 a.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "Closed"
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "Not so Good Company when they're hiring some a**hole, red light jumping driver.",
+            "reviewer_name": "Vincent Meyer",
+            "rating": 1,
+            "review_text": "Not so Good Company when they're hiring some a**hole, red light jumping driver.",
+            "published_at": "2 years ago",
+            "published_at_date": "2021-08-05T04:22:33.448000Z",
+            "response_from_owner_text": "Vroom vroom ",
+            "response_from_owner_ago": "7 months ago",
+            "response_from_owner_date": "2023-04-20T05:56:59.387000Z",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 5,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/100954174705434170219/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocI2RPihs8XtA4bC8dcJImTlkO63Wd0p5JWEtHu5Wc4h=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": "Pious pious",
+            "review_photos": []
+        },
+        {
+            "review_id": "The original good co!",
+            "reviewer_name": "Timothy Haraldson",
+            "rating": 5,
+            "review_text": "The original good co!",
+            "published_at": "a year ago",
+            "published_at_date": "2022-07-20T22:33:50.365000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 31,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/112349515182500528495/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjU2UznOMYoaWPvzV7ofC_Nukuo8JBX0C_nHXDLAbyvE4A=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Absolutely love staff and management.",
+            "reviewer_name": "Ryan Everett Matthew",
+            "rating": 5,
+            "review_text": "Absolutely love staff and management.",
+            "published_at": "a day ago",
+            "published_at_date": "2023-11-20T07:44:01.365000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 7,
+            "total_number_of_photos_by_reviewer": 3,
+            "reviewer_url": "https://www.google.com/maps/contrib/114330533022038689015/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIqkXYfVsHWBt2mRTKQs6zuhgm_ujF_qZCwdFQBraG8=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipO6AGuhaCVRdyIgtibwx0gYb4xVQGX1q3MgNI8L=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Simon Fallick",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "a year ago",
+            "published_at_date": "2022-07-20T22:31:54.584000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 3,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/110667423415677719689/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXRKPHH87PzBIE3JdV-UbDZZVm-LOtrtoEjo-FCoISo3wA=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

@@ -1,0 +1,435 @@
+{
+    "place_id": "ChIJjSjM_2l9C0ERrXmfPB-HK2Q",
+    "name": "Red Truck Beer Company",
+    "description": null,
+    "reviews": 592,
+    "website": "http://redtruckbeer.com/",
+    "owner": {
+        "id": "113307732173079165209",
+        "name": "Red Truck Beer Company (Owner)",
+        "link": "https://www.google.com/maps/contrib/113307732173079165209"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNOUtWZ2aB5B9zFn62UunenwuyxZMy3cjOvghl7=w408-h271-k-no",
+    "main_category": "Brewery",
+    "categories": [
+        "Brewery",
+        "Beer distributor",
+        "Beer store",
+        "Liquor store"
+    ],
+    "rating": 4.3,
+    "workday_timing": "11 a.m.-9 p.m.",
+    "closed_on": [],
+    "phone": "(604) 682-4733",
+    "address": "Red Truck Beer Company, 295 E 1st Ave, Vancouver, BC V5T 1A7",
+    "review_keywords": [
+        {
+            "keyword": "patio",
+            "count": 34
+        },
+        {
+            "keyword": "fries",
+            "count": 26
+        },
+        {
+            "keyword": "live music",
+            "count": 23
+        },
+        {
+            "keyword": "hot dog",
+            "count": 15
+        },
+        {
+            "keyword": "bike",
+            "count": 14
+        },
+        {
+            "keyword": "chicken burger",
+            "count": 11
+        },
+        {
+            "keyword": "bourbon",
+            "count": 10
+        },
+        {
+            "keyword": "brisket",
+            "count": 7
+        },
+        {
+            "keyword": "blackberry",
+            "count": 5
+        },
+        {
+            "keyword": "grilled cheese",
+            "count": 5
+        }
+    ],
+    "link": "https://www.google.com/maps/place/Red+Truck+Beer+Company/data=!4m7!3m6!1s0x410b7d69ffcc288d:0x642b871f3c9f79ad!8m2!3d49.2689044!4d-123.0965019!16s%2Fg%2F1q6n2qhv4!19sChIJjSjM_2l9C0ERrXmfPB-HK2Q?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 11 a.m. Wed",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 34,
+        "2": 13,
+        "3": 42,
+        "4": 172,
+        "5": 331
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJjSjM_2l9C0ERrXmfPB-HK2Q&q=Red+Truck+Beer+Company&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.2689044,
+        "longitude": -123.09650189999999
+    },
+    "plus_code": "7W93+H9 Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "Strathcona",
+        "street": "295 E 1st Ave",
+        "city": "Vancouver",
+        "postal_code": "V5T 1A7",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "7218011396022172077",
+    "data_id": "0x410b7d69ffcc288d:0x642b871f3c9f79ad",
+    "menu": {
+        "link": "http://www.redtruckfoodtruck.com/",
+        "source": "redtruckfoodtruck.com"
+    },
+    "reservations": [],
+    "order_online_links": [
+        {
+            "link": "https://www.skipthedishes.com/red-truck-beer-company?serviceType=delivery&utm_source=google&utm_medium=organic&utm_campaign=gpav2",
+            "source": "skipthedishes.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Alcohol",
+                    "enabled": true
+                },
+                {
+                    "name": "Beer",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Bar on-site",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNOUtWZ2aB5B9zFn62UunenwuyxZMy3cjOvghl7=w447-h298-k-no"
+        },
+        {
+            "about": "Latest",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMPK4n7i79DDs4yf2hogRfw5_sijCuBHzMxitQk=w224-h397-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipO6NlVZFBd8xT3C8rD74cJR1QFEMDXenICyZtLw=w224-h398-k-no"
+        },
+        {
+            "about": "Beer",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipN4ywRau3HjRWAfVM6BoNpb87ej5LjjaYg8QT3Z=w447-h298-k-no"
+        },
+        {
+            "about": "Pub",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipP8-O11tBulOOiYV_aqFXP6crUZxID2hiMmGK_W=w397-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipM4gjyCgvKCDgM-fH8XMAN5fntRrmqh5LgQ5Ulg=w447-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOJKiVF8aOU0mBr_5J_faAKQ-QcPcNUCaigCn1O=w224-h298-k-no-pi0-ya36.269615-ro-0-fo100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "11 a.m.-9 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "11 a.m.-9 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "11 a.m.-9 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "11 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "11 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "11 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "11 a.m.-9 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "Great beer and really good food too! My favorite place to have a burger and a beer.\nI love everything on the menu from their wings to sandwiches and even eggs.\n\nI just wonder why they don't have a club sandwich. They have a great grilled chicken burger and a mean BLT but no club sandwich.\n\nI would love to see a club sandwich on the menu!",
+            "reviewer_name": "Cathalino Bayben",
+            "rating": 5,
+            "review_text": "Great beer and really good food too! My favorite place to have a burger and a beer.\nI love everything on the menu from their wings to sandwiches and even eggs.\n\nI just wonder why they don't have a club sandwich. They have a great grilled chicken burger and a mean BLT but no club sandwich.\n\nI would love to see a club sandwich on the menu!",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-06T02:12:13.794000Z",
+            "response_from_owner_text": "Thanks for the great review Cathalino!",
+            "response_from_owner_ago": "a month ago",
+            "response_from_owner_date": "2023-10-06T16:04:07.202000Z",
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 7,
+            "total_number_of_photos_by_reviewer": 4,
+            "reviewer_url": "https://www.google.com/maps/contrib/101361399671501337868/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWN3NJyW-1hRScR1w--2-s01X2jP5ui734Y8c8E4SGPMQ=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPLnyQofMuYQtpsppIW9epDtvHAzeOKXrF-mfTu=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "This place hit the spot.  The fish burger was huge! and delicious... the flight was 4x6ox for $9, great deal! But above all, the vibes were great. This place reminds me of my dad who was a trucker. They had live music with Dino, who was excellent. The sunset was hitting our table just right which gave it a memorable evening. The red truck out front was a nice photo-op.",
+            "reviewer_name": "David Kosareff",
+            "rating": 5,
+            "review_text": "This place hit the spot.  The fish burger was huge! and delicious... the flight was 4x6ox for $9, great deal! But above all, the vibes were great. This place reminds me of my dad who was a trucker. They had live music with Dino, who was excellent. The sunset was hitting our table just right which gave it a memorable evening. The red truck out front was a nice photo-op.",
+            "published_at": "5 months ago",
+            "published_at_date": "2023-05-28T02:20:39.988000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 4,
+            "total_number_of_photos_by_reviewer": 5,
+            "reviewer_url": "https://www.google.com/maps/contrib/104255316461118672279/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjX5hVEs0cp018VKIzZt8hvaJ_tQeT1_2ubq4olCF1MrECw=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipP1_9dB6JfbIL9XkU5_HgyMzq0qXPbFvy6_pYz8=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOgf1sejunA6WmQBto9INH4kB_ohX5UpFBZVgJs=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "I recently visited Red Truck Restaurant in Vancouver and had a great time.\nI would highly recommend Red Truck Restaurant for their delicious salad, generous portion sizes, impressive beer selection, and great live music. If you're looking for a fun and tasty dining experience in Vancouver, this is definitely a spot to check out!",
+            "reviewer_name": "Elaheh Mahraban",
+            "rating": 5,
+            "review_text": "I recently visited Red Truck Restaurant in Vancouver and had a great time.\nI would highly recommend Red Truck Restaurant for their delicious salad, generous portion sizes, impressive beer selection, and great live music. If you're looking for a fun and tasty dining experience in Vancouver, this is definitely a spot to check out!",
+            "published_at": "7 months ago",
+            "published_at_date": "2023-04-10T03:29:50.232000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 123,
+            "total_number_of_photos_by_reviewer": 712,
+            "reviewer_url": "https://www.google.com/maps/contrib/116272186424380428439/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWsy1GWDe26PCzCk9M7MNfgnj-afwVgLDWLoSIEKH-UEA=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMw-cZPkoiUniqUjnPBeOmtAPRrr-dMCoZdEvH_=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPCuNchfvJ4GXoNbghleVNeYXRDDUW3tEQQLT2h=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPb6h0m7eiJt2gbiFVllqpZXi9t1tqsajlS8VIM=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPBAlm4cCQJQfDug1S8hay3edU_6LG5tsgHfvse=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNiCQTSQal2vOIsPWXs1tDnPvPBl_xF65KWIq56=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMWAxMl1HVY5m0CdOL8fWnCR3x-6MdWs3aQw9sb=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipP9bz-EKSUJeG_YYyDfsovpC68pSc6CBvc8H95K=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "This is one of the best breweries i have ever been to and i am a brewery connoisseur. The views of the massive tanks through the windows are a marvel to look at. The service is incredible, the staff always gives the best customer service experience. They have a fantastic selection of beer as well. Perfect place for an anniversary drink",
+            "reviewer_name": "s c",
+            "rating": 5,
+            "review_text": "This is one of the best breweries i have ever been to and i am a brewery connoisseur. The views of the massive tanks through the windows are a marvel to look at. The service is incredible, the staff always gives the best customer service experience. They have a fantastic selection of beer as well. Perfect place for an anniversary drink",
+            "published_at": "a week ago",
+            "published_at_date": "2023-11-12T06:18:09.671000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 4,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/109294544402013244908/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVW-hVAnDv8Nc9kF8DHwTZBRhi8Xiy5CRYUvekz3e_xsGQ=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOqVsYvutsPpTlrl_V-Hxt5uHmBXjc-HYAfn9It=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "An easy place to drop by for a beer and tasty pub food. It's clean and has always had consistent friendly service.\n\nNice patio and indoor space that has games playing too.\n\nOnly drawback was the lettuce used in the Cobb salad was made with cheap iceberg lettuce. The salad was $17, would expect at least romaine however the fried chicken was very well done with a tasty light batter.",
+            "reviewer_name": "Shell Scrambles",
+            "rating": 4,
+            "review_text": "An easy place to drop by for a beer and tasty pub food. It's clean and has always had consistent friendly service.\n\nNice patio and indoor space that has games playing too.\n\nOnly drawback was the lettuce used in the Cobb salad was made with cheap iceberg lettuce. The salad was $17, would expect at least romaine however the fried chicken was very well done with a tasty light batter.",
+            "published_at": "a year ago",
+            "published_at_date": "2022-09-26T03:01:49.654000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 73,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/114090518899174774604/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJpPxTlh52Yj6j1FAkd9cyNflf5TVSGQpyVfKa60hA6=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipP-H9702RrHlmhBR0VlZadLfRNEIX1z2Si3JJu6=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipP6eXA38ZKZxUQEe6JkcvVIyTwPhSvX4uAPnQPM=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPurMAN-5-WRT-5bwxdoWZ7VolPSqPB5b3Sl_jJ=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Awesome food, great beer (can't beat their original lager) and service. One of my favourite breweries in BC!",
+            "reviewer_name": "Hark",
+            "rating": 5,
+            "review_text": "Awesome food, great beer (can't beat their original lager) and service. One of my favourite breweries in BC!",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-01T23:28:59.662000Z",
+            "response_from_owner_text": "Hi Hark, we appreciate your review and are happy to hear we are one of your favourite breweries! Hope to have you back again. ",
+            "response_from_owner_ago": "3 months ago",
+            "response_from_owner_date": "2023-07-31T19:57:00.739000Z",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 36,
+            "total_number_of_photos_by_reviewer": 11,
+            "reviewer_url": "https://www.google.com/maps/contrib/114454601638475596556/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLXGCSsa5QJwyqnsmNQbNwAboY7IDn8G9PdPdlcTsC1=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMh2IQ6wW4y7EgJ7bfTtwsfWddnvcUE7vAepKym=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "The ambience was nice.  The fish and chips had a really nice flaky crust and the bbq hotdog had well flavored brisket that was not fatty.  The beer was solid but we were hoping for at least one darker beer.",
+            "reviewer_name": "Carol Rose",
+            "rating": 5,
+            "review_text": "The ambience was nice.  The fish and chips had a really nice flaky crust and the bbq hotdog had well flavored brisket that was not fatty.  The beer was solid but we were hoping for at least one darker beer.",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-01T03:28:42.371000Z",
+            "response_from_owner_text": "Thank you for the great feedback Carol!",
+            "response_from_owner_ago": "2 months ago",
+            "response_from_owner_date": "2023-09-12T21:32:52.343000Z",
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 134,
+            "total_number_of_photos_by_reviewer": 9,
+            "reviewer_url": "https://www.google.com/maps/contrib/113419495580897285131/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWv4L09-9BGL3ir4Rb0of6tNBLvc-Qsohe3pPV1nFid2w=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNa6zEr3sFVO3rfAISJPP-CEFQavXyk1-ad7mqo=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Great place for a bite and bev. Their food and drink menu is decent. Patio space is adequate and so is parking. Wings special on Wednesday ($3 off), beef brisket sando was delicious. Would def be back.",
+            "reviewer_name": "Warner Y",
+            "rating": 5,
+            "review_text": "Great place for a bite and bev. Their food and drink menu is decent. Patio space is adequate and so is parking. Wings special on Wednesday ($3 off), beef brisket sando was delicious. Would def be back.",
+            "published_at": "5 months ago",
+            "published_at_date": "2023-05-29T04:03:22.499000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 65,
+            "total_number_of_photos_by_reviewer": 232,
+            "reviewer_url": "https://www.google.com/maps/contrib/116534040810342118729/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjX9ksoYmYmQpPms8k1_wsQfHvBdPQq02FNPm1BGF0zw_Gk=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNYuAU5ogTYtdFunWK8CsiXmTIbmx0I27cLD4jJ=w150-h150-k-no-p"
+            ]
+        }
+    ],
+    "is_spending_on_ads": false
+}

@@ -1,0 +1,442 @@
+{
+    "place_id": "ChIJ4S1x8xlxhlQRE8HG0PL5H8Y",
+    "name": "Parallel 49 Brewing Company",
+    "description": "Brewery with a low-key tasting room offering its craft beer on tap, plus bar bites & growler fills.",
+    "reviews": 1124,
+    "website": "http://parallel49brewing.com/",
+    "owner": {
+        "id": "106334848557977236615",
+        "name": "Parallel 49 Brewing Company (Owner)",
+        "link": "https://www.google.com/maps/contrib/106334848557977236615"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN8G67H4jmla49-PFWtzYZq354f--5uyzWbn2qU=w408-h272-k-no",
+    "main_category": "Brewery",
+    "categories": [
+        "Brewery",
+        "Bar",
+        "Beer store",
+        "Restaurant"
+    ],
+    "rating": 4.4,
+    "workday_timing": "11 a.m.-12 a.m.",
+    "closed_on": [],
+    "phone": "(604) 558-2739",
+    "address": "Parallel 49 Brewing Company, 1950 Triumph St, Vancouver, BC V5L 1K5",
+    "review_keywords": [
+        {
+            "keyword": "patio",
+            "count": 58
+        },
+        {
+            "keyword": "food truck",
+            "count": 49
+        },
+        {
+            "keyword": "tasting room",
+            "count": 37
+        },
+        {
+            "keyword": "renovation",
+            "count": 20
+        },
+        {
+            "keyword": "donuts",
+            "count": 18
+        },
+        {
+            "keyword": "waffle",
+            "count": 15
+        },
+        {
+            "keyword": "chicken wings",
+            "count": 11
+        },
+        {
+            "keyword": "oktoberfest",
+            "count": 9
+        },
+        {
+            "keyword": "panda",
+            "count": 6
+        },
+        {
+            "keyword": "radler",
+            "count": 6
+        }
+    ],
+    "link": "https://www.google.com/maps/place/Parallel+49+Brewing+Company/data=!4m7!3m6!1s0x54867119f3712de1:0xc61ff9f2d0c6c113!8m2!3d49.2837864!4d-123.064411!16s%2Fg%2F1hc7fgnh7!19sChIJ4S1x8xlxhlQRE8HG0PL5H8Y?authuser=0&hl=en&rclk=1",
+    "status": "Open  Closes 12 a.m.",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 58,
+        "2": 21,
+        "3": 62,
+        "4": 245,
+        "5": 738
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ4S1x8xlxhlQRE8HG0PL5H8Y&q=Parallel+49+Brewing+Company&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.2837864,
+        "longitude": -123.06441099999999
+    },
+    "plus_code": "7WMP+G6 Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "East Vancouver",
+        "street": "1950 Triumph St",
+        "city": "Vancouver",
+        "postal_code": "V5L 1K5",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "14276404165067850003",
+    "data_id": "0x54867119f3712de1:0xc61ff9f2d0c6c113",
+    "menu": {
+        "link": "http://parallel49brewing.com/street_kitchen",
+        "source": "parallel49brewing.com"
+    },
+    "reservations": [],
+    "order_online_links": [
+        {
+            "link": "https://www.doordash.com/store/parallel-49-brewery-vancouver-24442099/?utm_campaign=gpa",
+            "source": "doordash.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Alcohol",
+                    "enabled": true
+                },
+                {
+                    "name": "Beer",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Bar on-site",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipN8G67H4jmla49-PFWtzYZq354f--5uyzWbn2qU=w446-h298-k-no"
+        },
+        {
+            "about": "Latest",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOSF2WZJLSHGy29LG4X-4praDkRxh7Jn4ag30CO=w224-h298-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipP7DCGYSGoLzDuIjNTxq2gdKrGIul_4QAImFQux=w224-h398-k-no"
+        },
+        {
+            "about": "Pub",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOSK6xF-65GmT2vICOhvUfWAyJupDE4-D_0LtKj=w397-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPbBTkeKYvkTVKChh4n5Qf2IPl1ZY9-A1A3CLYZ=w238-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=K4scaSha71XM8x4yUhPFpQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=158.21101&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "11 a.m.-12 a.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "11 a.m.-12 a.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "11 a.m.-12 a.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "11 a.m.-12 a.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "11 a.m.-12 a.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "11 a.m.-12 a.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "11 a.m.-12 a.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "It's a cool spot. Really well laid out. Very nice outdoor patio. Food truck is inside and was pretty good.\n\nThe beers are all good.\n\nBUT...everyone that works there just seems so miserable. So unfriendly. I'd honestly guess they hire for that personality.\n\nI tipped 10% because the food was good.\n\nBut honestly what a bunch of jerks working in there. It's like they hate their customers.\n\nIf I was a hiring manager from another hospitality place, I'd never hire anyone from here.\n\nJust so lame.  Good food though.  I might go back for food. But 0% for tips.",
+            "reviewer_name": "Crabby Ermine",
+            "rating": 1,
+            "review_text": "It's a cool spot. Really well laid out. Very nice outdoor patio. Food truck is inside and was pretty good.\n\nThe beers are all good.\n\nBUT...everyone that works there just seems so miserable. So unfriendly. I'd honestly guess they hire for that personality.\n\nI tipped 10% because the food was good.\n\nBut honestly what a bunch of jerks working in there. It's like they hate their customers.\n\nIf I was a hiring manager from another hospitality place, I'd never hire anyone from here.\n\nJust so lame.  Good food though.  I might go back for food. But 0% for tips.",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-08-26T21:29:54.936000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 184,
+            "total_number_of_photos_by_reviewer": 597,
+            "reviewer_url": "https://www.google.com/maps/contrib/106984426499112393926/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXcfGdQN1uYS3W73gteDjWkOkjQe_Vz4QTrhHjynQqKQ70C=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipONIWBudY7HBgW4wQVH9kLIFLjO4kCg6ntfpW58=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "East Vancouver brewery. Came here for a work function to sample their beers. The location is off the beaten path.\n\nGreat selections of beers. Spacious bar with seating inside and outside. Open and bright. Staff is very friendly, great place to hang out and sample different types of beers.",
+            "reviewer_name": "Denny Hui",
+            "rating": 5,
+            "review_text": "East Vancouver brewery. Came here for a work function to sample their beers. The location is off the beaten path.\n\nGreat selections of beers. Spacious bar with seating inside and outside. Open and bright. Staff is very friendly, great place to hang out and sample different types of beers.",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-02T06:16:38.326000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 149,
+            "total_number_of_photos_by_reviewer": 1359,
+            "reviewer_url": "https://www.google.com/maps/contrib/117223317977698900129/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUaITf_rSP8gWYjDALckmjgtVWg3MTZnbnKIM7fgve7eE4=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOdBBvJ16wiv2H8W5CtKTKJhl4-HIVvwLd5qdgd=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNnoGE9uH0l1R1YkldMlXOlcWM9KgA5xVSM8aB3=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNU02Afz7bJJW09ydPGPiAhEmcHXzw9EoMae0C1=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNBNxx1vLE-WX5xERo7Vxh1Mx3GU0b6oX_JRC0N=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNxRSqCfoEq7xNSidVL-cIkQ2vv4B9TcqPderY2=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMPpOsrB66VSP165xSj6f-WzodvjEOZh_qRgktc=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Been drinking there beer for while and just discovered the actual brewery today. It's quite a cool setup . Huge indoor outdoor patio beer hall setup. Indoor food truck if you get hungry. Quite a good food selection as well! I would highly recommend this one to add to you easy van brewery tour!",
+            "reviewer_name": "Graham Robinson",
+            "rating": 5,
+            "review_text": "Been drinking there beer for while and just discovered the actual brewery today. It's quite a cool setup . Huge indoor outdoor patio beer hall setup. Indoor food truck if you get hungry. Quite a good food selection as well! I would highly recommend this one to add to you easy van brewery tour!",
+            "published_at": "5 months ago",
+            "published_at_date": "2023-05-29T00:42:56.524000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 106,
+            "total_number_of_photos_by_reviewer": 234,
+            "reviewer_url": "https://www.google.com/maps/contrib/108437472279624903164/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjV9vF5k0Jae9ZCfnEyQ8y48fsZ0XPo-O4g-7WBIJuRnG9V3=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNTn_TM41-lyfsvTIe6J_Jb3EIu57CdXnqeyAYL=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPG1MuZzNdpIhGXjiyWXlHbp7tbrqQsAmbi3NeA=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOSK6xF-65GmT2vICOhvUfWAyJupDE4-D_0LtKj=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Not a fan of their beers, at all - but they have muddlers on tap and they're better. Cool setup with the 'food truck' inside (unless you're there during Oktoberfest, in which case the endless pounding of schnitzel is no bueno). Grilled chicken sammie is satisfying.",
+            "reviewer_name": "Munro Stuff",
+            "rating": 3,
+            "review_text": "Not a fan of their beers, at all - but they have muddlers on tap and they're better. Cool setup with the 'food truck' inside (unless you're there during Oktoberfest, in which case the endless pounding of schnitzel is no bueno). Grilled chicken sammie is satisfying.",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-01T23:57:17.033000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 343,
+            "total_number_of_photos_by_reviewer": 1281,
+            "reviewer_url": "https://www.google.com/maps/contrib/101258701806417487400/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXtoA3a8-tnbOEdRK9FWkjvPqAlzKWQqt6q6qKyKRrIUQ=s120-c-rp-mo-ba6-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipP9LAMjgV7cfwmHW1eLUTbz5huwMPxS8csTjyrg=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "The beer and the food was great. I tried lager and veterinarian burger with fries which both were awesome.\nThe atmosphere is good especially outside!",
+            "reviewer_name": "Sharzi BD",
+            "rating": 5,
+            "review_text": "The beer and the food was great. I tried lager and veterinarian burger with fries which both were awesome.\nThe atmosphere is good especially outside!",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-08T04:45:12.003000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 135,
+            "total_number_of_photos_by_reviewer": 725,
+            "reviewer_url": "https://www.google.com/maps/contrib/102937192777021504560/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW4dphO5Jsz-M5iwuIeiruLiAptfrq8dyexQeMjWSlHQVk=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNw02sxrtsjP0LBg8U65xeHhQRN1wemnP579n-P=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipN7uPXO1TSJkI3doyGGht21HC51YvcjTbgZg3V8=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipM0hdrpJD-QtM9eIEWrQy7Sx3UzIZ-pkpadJWol=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Trash Panda (TP) is without a doubt my favorite beer. So, whenever I am in Vancouver, I visit Parallel 49 for a flight or two and a pint of the TP. (I even embroidered a shirt with the TP logo). Aside from anywhere up to 36 different beers on tap (as far as I counted), they have a food truck INSIDE the taproom for a quick snack, and their patio is dog friendly. A note though that the neighborhood is questionable so go with a group.",
+            "reviewer_name": "Graham Tranter",
+            "rating": 5,
+            "review_text": "Trash Panda (TP) is without a doubt my favorite beer. So, whenever I am in Vancouver, I visit Parallel 49 for a flight or two and a pint of the TP. (I even embroidered a shirt with the TP logo). Aside from anywhere up to 36 different beers on tap (as far as I counted), they have a food truck INSIDE the taproom for a quick snack, and their patio is dog friendly. A note though that the neighborhood is questionable so go with a group.",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-16T03:30:13.395000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 184,
+            "total_number_of_photos_by_reviewer": 1094,
+            "reviewer_url": "https://www.google.com/maps/contrib/100411449944311639877/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUYIzFy1hsr3BPX5vOcd8oHPkOy50yHr6elMJLEvWVwoVw=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMvRVCSwBx45Xq_dkBcwW6ND8vumoz_xLDZG8iP=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipP4qY3LrbMrofdCwPXhmT26uLTSR492-LfWSZuz=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNvRVbJjhgVGfKduA6fh8UrEErSGuRnZ17V6V8_=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPFC4DFOQtTGM2cDBe_K-B3rkMuCrjTh34XdFw0=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipP2iwoFgzcUTRKkzcv7o4iTraNzwjabVoX9NA4a=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOcsDTfV26A7tSgdUQiLCw3UE-VtBsViQtSq5Th=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipN1KBlQjl0q95LPjJbXjfZtsY7kuX_I8E5dMMMa=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPEYC1rJcJSU4SFQ0wACyDAJ2oxTDhKgZag8mEb=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMRNUM1aIRnBCJh11N2GZXpMkZSqEothwi4h4BN=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOeo1Fv4rZDqV9xe3jvffa8GwEPXtnyoBfgzszN=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPr-EB1Wu60bnjRZyPl5CA-8sFj6KGuTBsv8pXK=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Honestly, I'm surprised by the ratings. The last time I visited Vancouver, I skipped this brewery as others were rated higher.  This brewery should be rated higher,  in my opinion.  We had two flights after trying to pick from the 40 beers (all but cider brewed by them). The flights were great. The spot had plenty of seating and some skinny chicken wings, but don't let that discourage you. The sweet and spicy rub were bomb. Ended up, walking away with a mix pack and the yummy torque IPA. A new must try for our Vancouver trips",
+            "reviewer_name": "Stephanie Kaczka",
+            "rating": 5,
+            "review_text": "Honestly, I'm surprised by the ratings. The last time I visited Vancouver, I skipped this brewery as others were rated higher.  This brewery should be rated higher,  in my opinion.  We had two flights after trying to pick from the 40 beers (all but cider brewed by them). The flights were great. The spot had plenty of seating and some skinny chicken wings, but don't let that discourage you. The sweet and spicy rub were bomb. Ended up, walking away with a mix pack and the yummy torque IPA. A new must try for our Vancouver trips",
+            "published_at": "5 days ago",
+            "published_at_date": "2023-11-16T21:05:28.800000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 30,
+            "total_number_of_photos_by_reviewer": 60,
+            "reviewer_url": "https://www.google.com/maps/contrib/111013033219713919928/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVa6qFlB11SGfoJOnO_xSEQcOQ5Xvz58bYt11reJ-Mc2VDx=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Although parallel 49th isn't in the most glamorous location for food, the place itself is pretty wonderful if you need a place for a large group and good beer. You should know that you must first order your food and drink before sitting down. Food is best ordered to share, even though the portion sizes aren't the biggest, they aren't the smallest either, nor are they the best presented dishes. For a brewery, this place has a decent kitchen, mostly fried offerings.  Where they really excel, is the choice and quality of beer! They definitely have something for every beer lover in terms of flavors. I typically like to sit on their outdoor patio, but the inside of the building is also a great spot to hang out. Overall, if you have a large group of people and want to catch up, this place will seat you almost immediately and will feed everyone, within a reasonable budget.",
+            "reviewer_name": "Pat Trinh",
+            "rating": 5,
+            "review_text": "Although parallel 49th isn't in the most glamorous location for food, the place itself is pretty wonderful if you need a place for a large group and good beer. You should know that you must first order your food and drink before sitting down. Food is best ordered to share, even though the portion sizes aren't the biggest, they aren't the smallest either, nor are they the best presented dishes. For a brewery, this place has a decent kitchen, mostly fried offerings.  Where they really excel, is the choice and quality of beer! They definitely have something for every beer lover in terms of flavors. I typically like to sit on their outdoor patio, but the inside of the building is also a great spot to hang out. Overall, if you have a large group of people and want to catch up, this place will seat you almost immediately and will feed everyone, within a reasonable budget.",
+            "published_at": "a year ago",
+            "published_at_date": "2022-09-24T16:22:40.338000Z",
+            "response_from_owner_text": "Thank you Pat! We are glad to hear the positive feedback.",
+            "response_from_owner_ago": "a year ago",
+            "response_from_owner_date": "2022-10-28T19:25:05.077000Z",
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 196,
+            "total_number_of_photos_by_reviewer": 894,
+            "reviewer_url": "https://www.google.com/maps/contrib/106255234256258354988/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVaM6AP8wcTHEMIxxIjFwT7tub9VgWWoUh6sm-eWfGfnpvX=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipP7SuEWG-d0JJ6cw23F30vcbPy7fWGfwshRmXo5=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPs-80Jr3xzBJyVtX4yz1T5jDGD7Q28qQ208Ipz=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOq5-orNKc8_OEcsGbbAifQOLpb5bekwCJZdxwq=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOue2iCfGHF1waas5_pBxIJw2KIfEe3cWQhGkYj=w150-h150-k-no-p"
+            ]
+        }
+    ],
+    "is_spending_on_ads": false
+}

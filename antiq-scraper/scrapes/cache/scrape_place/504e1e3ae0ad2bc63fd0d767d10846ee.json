@@ -1,0 +1,367 @@
+{
+    "place_id": "ChIJw1FfnPZ0hlQRSZL8x1guh-k",
+    "name": "(Not a Walk-in Clinic) Marine Gateway Medical Clinic - Family Practice",
+    "description": null,
+    "reviews": 68,
+    "website": "http://marinegateway.clinic/",
+    "owner": {
+        "id": "102766072178000807142",
+        "name": "(Not a Walk-in Clinic) Marine Gateway Medical Clinic - Family Practice (Owner)",
+        "link": "https://www.google.com/maps/contrib/102766072178000807142"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNIWsp8IS8p0LDLQBrzWdcGJvFtEjsd0ss_Iqp3=w408-h306-k-no",
+    "main_category": "Medical clinic",
+    "categories": [
+        "Medical clinic"
+    ],
+    "rating": 3.1,
+    "workday_timing": "9 a.m.-4 p.m.",
+    "closed_on": [
+        "Saturday",
+        "Sunday"
+    ],
+    "phone": "(604) 227-3322",
+    "address": "(Not a Walk-in Clinic) Marine Gateway Medical Clinic - Family Practice, 470 SW Marine Dr #301, Vancouver, BC V5X 0C7",
+    "review_keywords": [
+        {
+            "keyword": "phone",
+            "count": 7
+        },
+        {
+            "keyword": "family doctor",
+            "count": 6
+        },
+        {
+            "keyword": "receptionist",
+            "count": 6
+        },
+        {
+            "keyword": "desk",
+            "count": 5
+        },
+        {
+            "keyword": "professional",
+            "count": 5
+        },
+        {
+            "keyword": "voicemail",
+            "count": 4
+        }
+    ],
+    "link": "https://www.google.com/maps/place/%28Not+a+Walk-in+Clinic%29+Marine+Gateway+Medical+Clinic+-+Family+Practice/data=!4m7!3m6!1s0x548674f69c5f51c3:0xe9872e58c7fc9249!8m2!3d49.2095142!4d-123.1167052!16s%2Fg%2F11c5z_qrgx!19sChIJw1FfnPZ0hlQRSZL8x1guh-k?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 9 a.m.",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 27,
+        "2": 3,
+        "3": 3,
+        "4": 3,
+        "5": 32
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJw1FfnPZ0hlQRSZL8x1guh-k&q=%28Not+a+Walk-in+Clinic%29+Marine+Gateway+Medical+Clinic+-+Family+Practice&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.2095142,
+        "longitude": -123.1167052
+    },
+    "plus_code": "6V5M+R8 Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "South Vancouver",
+        "street": "470 SW Marine Dr #301",
+        "city": "Vancouver",
+        "postal_code": "V5X 0C7",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "16827469491540365897",
+    "data_id": "0x548674f69c5f51c3:0xe9872e58c7fc9249",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair-accessible elevator",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "crowd",
+            "name": "Crowd",
+            "options": [
+                {
+                    "name": "LGBTQ+ friendly",
+                    "enabled": true
+                },
+                {
+                    "name": "Transgender safe space",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planning",
+            "options": [
+                {
+                    "name": "Appointment required",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNIWsp8IS8p0LDLQBrzWdcGJvFtEjsd0ss_Iqp3=w397-h298-k-no"
+        },
+        {
+            "about": "Building",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOVlPJNGnJRq_9j9LWUuDdHHl4e6wLaavhkOGiE=w224-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPt9xv-dvKRMHgXcoKfO8pb3j_sHkOTWhMLnNTd=w666-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=JcvShLKLO-VXjwPI5UOLcg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=180.54767&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "9 a.m.-4 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "9 a.m.-4 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "9 a.m.-4 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "9 a.m.-4 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "9 a.m.-4 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "Closed"
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "Closed"
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "Difficult reception staff\n\nI am a former patient here, and for more than a month I have been trying to get my records transferred so my new doctor can have them. I paid the fee to the records company that the office reception staff told me to contact for my records. I did not know at the time, but the company I was told to contact was completely incorrect. I paid a fee out-of-pocket to the incorrect company and have had to go through multiple rounds of back-and-forth with multiple people.\n\nNow, my personal medical information is in the hands of a third-party that it should never have gone to and I have to pay even more money on top of what I already paid, to fix an error that is not my doing. When I called the clinic to report this issue, they admitted that it was their mistake, but did not apologize and essentially told me I was out of luck and would have to just solve it myself.",
+            "reviewer_name": "Ryan Moore",
+            "rating": 1,
+            "review_text": "Difficult reception staff\n\nI am a former patient here, and for more than a month I have been trying to get my records transferred so my new doctor can have them. I paid the fee to the records company that the office reception staff told me to contact for my records. I did not know at the time, but the company I was told to contact was completely incorrect. I paid a fee out-of-pocket to the incorrect company and have had to go through multiple rounds of back-and-forth with multiple people.\n\nNow, my personal medical information is in the hands of a third-party that it should never have gone to and I have to pay even more money on top of what I already paid, to fix an error that is not my doing. When I called the clinic to report this issue, they admitted that it was their mistake, but did not apologize and essentially told me I was out of luck and would have to just solve it myself.",
+            "published_at": "a week ago",
+            "published_at_date": "2023-11-09T22:30:29.371000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 2,
+            "reviewer_url": "https://www.google.com/maps/contrib/107308636180780411896/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXXn1utMsUmPi1qKl0WTctE2mZbGdQ7zPekCwM390xFqjg=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Would give negative stars if I could. Get out of town! LIKE ACTUALLY! LEAVE! Waste of space clinic. Won't give you the time of day. Never there to answer phones for like an hour + during lunch breaks. Won't even take you in if you don't have a family doctor. CLOSE DOWN! So a real clinic can open and help people the people who are in\nneed.",
+            "reviewer_name": "Jacob Desrosiers",
+            "rating": 1,
+            "review_text": "Would give negative stars if I could. Get out of town! LIKE ACTUALLY! LEAVE! Waste of space clinic. Won't give you the time of day. Never there to answer phones for like an hour + during lunch breaks. Won't even take you in if you don't have a family doctor. CLOSE DOWN! So a real clinic can open and help people the people who are in\nneed.",
+            "published_at": "6 months ago",
+            "published_at_date": "2023-05-01T22:49:08.609000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 3,
+            "total_number_of_reviews_by_reviewer": 7,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/108594497490377115856/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLdcQ7SCPlCUpgNwHDEVc8fQVo-ZCD_ntk4ESREsAEb=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Bad treatment. Even if you provide feedback to improve, they will gaslight and make us stupid.  I witnessed unprofessionalism and unethical attitude from all staff members.",
+            "reviewer_name": "prince Thottan",
+            "rating": 1,
+            "review_text": "Bad treatment. Even if you provide feedback to improve, they will gaslight and make us stupid.  I witnessed unprofessionalism and unethical attitude from all staff members.",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-14T21:37:35.084000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/116654970125912479605/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW2Lhbw_DrjEA4DdeUzKSbg8fgb-VjkF8_5VuB2VTNSW9Y=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Dr Tien is the worst family doctor I have ever met. The front desk is rude and always not responsive. Last time I booked an appointment with him but canceled with no apologies and no reason explained. Dr Tien's diagnosis is ridiculous but he likes to criticize Chinese doctors a lot and call them \"liars\". Full of irony.",
+            "reviewer_name": "Teresa Mei",
+            "rating": 1,
+            "review_text": "Dr Tien is the worst family doctor I have ever met. The front desk is rude and always not responsive. Last time I booked an appointment with him but canceled with no apologies and no reason explained. Dr Tien's diagnosis is ridiculous but he likes to criticize Chinese doctors a lot and call them \"liars\". Full of irony.",
+            "published_at": "11 months ago",
+            "published_at_date": "2022-12-14T19:01:35.195000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 13,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/111471188694346644586/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocK24ENOStQUww9_VpTIML5Bn_tR2OzvM1FrIbYG2TExvw=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Utterly confused why this clinic would receive anything less than five stars. Convenient location on the upper floor of Marine Gateway Hub. Operates Monday to Friday. Lovely and professional staff who remain patient, helpful and composed during this unusually difficult time.\n\nOur family is seen and treated by Dr Vasquez who has brilliant reviews on Rate My MD (not at all surprising). We have also seen Dr Cubra on occasion when Dr Vasquez has been away. Both doctors are incredibly patient, empathetic, and knowledgeable with relationships to other fantastic specialists in the community.\n\nDr Vasquez is hardly ever late for an appointment - sometimes he is a few minutes early. On the rare occasion I have waited an additional 5-10 minutes but this is a far departure from our previous GP. I can't believe had become accustomed to\nwaiting 1 hour + elsewhere.\n\nWhen this clinic moved into our neighbourhood a few years ago, I happened to ask the receptionist which doctor I should see and they told me that ALL of them were amazing. We have happily found this to be true!",
+            "reviewer_name": "Jums Fan",
+            "rating": 5,
+            "review_text": "Utterly confused why this clinic would receive anything less than five stars. Convenient location on the upper floor of Marine Gateway Hub. Operates Monday to Friday. Lovely and professional staff who remain patient, helpful and composed during this unusually difficult time.\n\nOur family is seen and treated by Dr Vasquez who has brilliant reviews on Rate My MD (not at all surprising). We have also seen Dr Cubra on occasion when Dr Vasquez has been away. Both doctors are incredibly patient, empathetic, and knowledgeable with relationships to other fantastic specialists in the community.\n\nDr Vasquez is hardly ever late for an appointment - sometimes he is a few minutes early. On the rare occasion I have waited an additional 5-10 minutes but this is a far departure from our previous GP. I can't believe had become accustomed to\nwaiting 1 hour + elsewhere.\n\nWhen this clinic moved into our neighbourhood a few years ago, I happened to ask the receptionist which doctor I should see and they told me that ALL of them were amazing. We have happily found this to be true!",
+            "published_at": "2 years ago",
+            "published_at_date": "2020-12-05T22:10:46.138000Z",
+            "response_from_owner_text": "Thank you so much for your feedback on your experience with our clinic.  We have been working very hard to continue to navigate this ever changing situation and appreciate your kindness and patience.   We look forward to providing you with continued care.\nStay safe!",
+            "response_from_owner_ago": "2 years ago",
+            "response_from_owner_date": "2021-04-26T17:07:14.800000Z",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 29,
+            "total_number_of_photos_by_reviewer": 4,
+            "reviewer_url": "https://www.google.com/maps/contrib/108011165235519434777/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIYDMbw-NETPv8WwY5qPZLYx0RzyXJ6oPdjuCxgxgR4=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Doctors are amazing!!!\n\nFront desk staff are TERRIBLE. They don't answer the phones. They do not respond to voicemail in a timely manner too.  It has been hours since I left a voicemail. They have missed setting up specialist appointments. Certainly don't trust them to do what is asked. Just look at the reviews of numerous complaints of reception. When will the doctors wake up and see this effects their image and patients experience?",
+            "reviewer_name": "Dab Mann",
+            "rating": 2,
+            "review_text": "Doctors are amazing!!!\n\nFront desk staff are TERRIBLE. They don't answer the phones. They do not respond to voicemail in a timely manner too.  It has been hours since I left a voicemail. They have missed setting up specialist appointments. Certainly don't trust them to do what is asked. Just look at the reviews of numerous complaints of reception. When will the doctors wake up and see this effects their image and patients experience?",
+            "published_at": "2 years ago",
+            "published_at_date": "2021-07-02T20:38:32.685000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 19,
+            "total_number_of_reviews_by_reviewer": 7,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/110681098499793171253/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUSzBVLZVJAbPx8x8KSX1kLh-8bPxQlPTMXDstB-pSVWQ=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "I cannot say enough good things about this clinic and I have recommended it to so many of my coworkers and friends!\n\nHere's what I love the most:\n\n- The interior design of the clinic is just beautiful. It feels very welcoming and is always super clean!\n\n- All the ladies at the reception are so lovely, patient and helpful. I find their service always friendly and I never feel rushed when booking an appointment or asking a question, even though they are very busy!\n\n- I use the walk-in clinic here and Dr. Cubra is absolutely amazing. He is the kindest doctor,  very patient, understanding, trustworthy and extremely knowledgeable. I never feel rushed and he always takes the time to listen to my symptoms and explain his recommendations. I truly believe he goes above and beyond for all the patients he sees. He has been an extremely huge help (especially this year) for me and I am so thankful for him and this clinic. The team at this clinic...they are the best!\n\n- I have never felt I had to wait an unreasonable amount of time, which is amazing for a walk-in clinic. And if they feel I have, they always apologize which just shows how thoughtful they are.\n\nThank you so much, Marine Gateway MC. I so appreciate all you do for me and the other patients you see.",
+            "reviewer_name": "Emily",
+            "rating": 5,
+            "review_text": "I cannot say enough good things about this clinic and I have recommended it to so many of my coworkers and friends!\n\nHere's what I love the most:\n\n- The interior design of the clinic is just beautiful. It feels very welcoming and is always super clean!\n\n- All the ladies at the reception are so lovely, patient and helpful. I find their service always friendly and I never feel rushed when booking an appointment or asking a question, even though they are very busy!\n\n- I use the walk-in clinic here and Dr. Cubra is absolutely amazing. He is the kindest doctor,  very patient, understanding, trustworthy and extremely knowledgeable. I never feel rushed and he always takes the time to listen to my symptoms and explain his recommendations. I truly believe he goes above and beyond for all the patients he sees. He has been an extremely huge help (especially this year) for me and I am so thankful for him and this clinic. The team at this clinic...they are the best!\n\n- I have never felt I had to wait an unreasonable amount of time, which is amazing for a walk-in clinic. And if they feel I have, they always apologize which just shows how thoughtful they are.\n\nThank you so much, Marine Gateway MC. I so appreciate all you do for me and the other patients you see.",
+            "published_at": "5 years ago",
+            "published_at_date": "2018-09-14T22:24:19.874000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 5,
+            "total_number_of_reviews_by_reviewer": 3,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/104663121130603900051/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUEHmB_4jr0qB48O0SPitEjz46Nizo49SFK-tqhctC8Tooz=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "I have had tightness and pain in my left arm after my second vaccination for 4 months now.\n\nI've gone to the chiropractor, acupuncture, massage therapists with no avail and after enduring this pain for 4 months, I already lost hope and figured life would be like this since I'm getting into my late 60's.\n\nHowever after seeing Lester for Physio, in just 2 sessions I already feel 40% better!\n\nI went from having limited mobility and no strength in my left arm to being able to go about my day normally now \n\nI highly recommend people to see Lester as he is very caring and skillful!",
+            "reviewer_name": "Ivy Ng",
+            "rating": 5,
+            "review_text": "I have had tightness and pain in my left arm after my second vaccination for 4 months now.\n\nI've gone to the chiropractor, acupuncture, massage therapists with no avail and after enduring this pain for 4 months, I already lost hope and figured life would be like this since I'm getting into my late 60's.\n\nHowever after seeing Lester for Physio, in just 2 sessions I already feel 40% better!\n\nI went from having limited mobility and no strength in my left arm to being able to go about my day normally now \n\nI highly recommend people to see Lester as he is very caring and skillful!",
+            "published_at": "a year ago",
+            "published_at_date": "2022-02-17T03:25:34.898000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/106523692635802220777/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocK34FyPRlnu8-bCELrq157f0C2HoUYe9hjAyYkwhEvS=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

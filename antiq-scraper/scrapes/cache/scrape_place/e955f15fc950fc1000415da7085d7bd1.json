@@ -1,0 +1,132 @@
+{
+    "place_id": "ChIJw5XKy31xhlQRoU3m5FVn0Mc",
+    "name": "Federation of Independent School Associations in British Columbia",
+    "description": null,
+    "reviews": null,
+    "website": "http://www.fisabc.ca/",
+    "owner": {
+        "id": "113900837932816858022",
+        "name": "Federation of Independent School Associations in British Columbia (Owner)",
+        "link": "https://www.google.com/maps/contrib/113900837932816858022"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMkicqpRhi17WyacWOjQgfV3SvbNxh8xkAs69OI=w408-h244-k-no",
+    "main_category": "Association or organization",
+    "categories": [
+        "Association or organization"
+    ],
+    "rating": null,
+    "workday_timing": "7:30 a.m.-8 p.m.",
+    "closed_on": [],
+    "phone": "(604) 684-6023",
+    "address": "Federation of Independent School Associations in British Columbia, 4885 St John Paul II Way, Vancouver, BC V5Z 0G3",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/Federation+of+Independent+School+Associations+in+British+Columbia/data=!4m7!3m6!1s0x5486717dcbca95c3:0xc7d06755e4e64da1!8m2!3d49.241465!4d-123.123178!16s%2Fg%2F11b7q7yzsl!19sChIJw5XKy31xhlQRoU3m5FVn0Mc?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 7:30 a.m.",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJw5XKy31xhlQRoU3m5FVn0Mc&q=Federation+of+Independent+School+Associations+in+British+Columbia&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.241465,
+        "longitude": -123.123178
+    },
+    "plus_code": "6VRG+HP Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "South Cambie",
+        "street": "4885 St John Paul II Way",
+        "city": "Vancouver",
+        "postal_code": "V5Z 0G3",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "14398121627313655201",
+    "data_id": "0x5486717dcbca95c3:0xc7d06755e4e64da1",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMkicqpRhi17WyacWOjQgfV3SvbNxh8xkAs69OI=w496-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPgR1qf7XJMWdtW1CTpV9FUMwRjIazzWBlz8QtS=w771-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=KJ--PRa1o2DYLuDHAuK1hA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=260.38007&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "7:30 a.m.-8 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "7:30 a.m.-8 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "7:30 a.m.-8 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "7:30 a.m.-8 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "7:30 a.m.-8 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "7:30 a.m.-8 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "7:30 a.m.-8 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

@@ -1,0 +1,604 @@
+{
+    "place_id": "ChIJ9R182tZzhlQRgBcJ3U3p7t8",
+    "name": "Rodney's Oyster House",
+    "description": "Casual, airy seafood spot with a long bar, a lively atmosphere & happy hour specials.",
+    "reviews": 2023,
+    "website": "http://www.rohvan.com/",
+    "owner": {
+        "id": "111445260312528915976",
+        "name": "Rodney's Oyster House (Owner)",
+        "link": "https://www.google.com/maps/contrib/111445260312528915976"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPAtPL9gn5cZhpHPm5ypDehKgnncs2_DlufR3OH=w408-h306-k-no",
+    "main_category": "Oyster bar restaurant",
+    "categories": [
+        "Oyster bar restaurant",
+        "Restaurant",
+        "Seafood restaurant"
+    ],
+    "rating": 4.4,
+    "workday_timing": "4-10 p.m.",
+    "closed_on": [],
+    "phone": "(604) 609-0080",
+    "address": "Rodney's Oyster House, 1228 Hamilton St, Vancouver, BC V6B 6L2",
+    "review_keywords": [
+        {
+            "keyword": "happy hour",
+            "count": 117
+        },
+        {
+            "keyword": "clam chowder",
+            "count": 47
+        },
+        {
+            "keyword": "tide",
+            "count": 23
+        },
+        {
+            "keyword": "poutine",
+            "count": 17
+        },
+        {
+            "keyword": "halibut",
+            "count": 16
+        },
+        {
+            "keyword": "pan fried",
+            "count": 15
+        },
+        {
+            "keyword": "hot sauces",
+            "count": 13
+        },
+        {
+            "keyword": "shrimp cocktail",
+            "count": 12
+        },
+        {
+            "keyword": "crab dip",
+            "count": 7
+        },
+        {
+            "keyword": "caesar",
+            "count": 5
+        }
+    ],
+    "link": "https://www.google.com/maps/place/Rodney%27s+Oyster+House/data=!4m7!3m6!1s0x548673d6da7c1df5:0xdfeee94ddd091780!8m2!3d49.2743262!4d-123.1231342!16s%2Fm%2F04yjws4!19sChIJ9R182tZzhlQRgBcJ3U3p7t8?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 4 p.m.",
+    "price_range": "$$",
+    "reviews_per_rating": {
+        "1": 75,
+        "2": 61,
+        "3": 138,
+        "4": 497,
+        "5": 1252
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ9R182tZzhlQRgBcJ3U3p7t8&q=Rodney's+Oyster+House&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.2743262,
+        "longitude": -123.1231342
+    },
+    "plus_code": "7VFG+PP Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "Downtown Vancouver",
+        "street": "1228 Hamilton St",
+        "city": "Vancouver",
+        "postal_code": "V6B 6L2",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "16136091035545180032",
+    "data_id": "0x548673d6da7c1df5:0xdfeee94ddd091780",
+    "menu": {
+        "link": "https://rohvan.com/our-menus/",
+        "source": "rohvan.com"
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Curbside pickup",
+                    "enabled": true
+                },
+                {
+                    "name": "Takeout",
+                    "enabled": true
+                },
+                {
+                    "name": "Dine-in",
+                    "enabled": true
+                },
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair accessible seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Alcohol",
+                    "enabled": true
+                },
+                {
+                    "name": "Beer",
+                    "enabled": true
+                },
+                {
+                    "name": "Cocktails",
+                    "enabled": true
+                },
+                {
+                    "name": "Coffee",
+                    "enabled": true
+                },
+                {
+                    "name": "Happy hour food",
+                    "enabled": true
+                },
+                {
+                    "name": "Hard liquor",
+                    "enabled": true
+                },
+                {
+                    "name": "Healthy options",
+                    "enabled": true
+                },
+                {
+                    "name": "Late-night food",
+                    "enabled": true
+                },
+                {
+                    "name": "Small plates",
+                    "enabled": true
+                },
+                {
+                    "name": "Wine",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Dining options",
+            "options": [
+                {
+                    "name": "Lunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Dinner",
+                    "enabled": true
+                },
+                {
+                    "name": "Dessert",
+                    "enabled": true
+                },
+                {
+                    "name": "Seating",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Bar on-site",
+                    "enabled": true
+                },
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosphere",
+            "options": [
+                {
+                    "name": "Casual",
+                    "enabled": true
+                },
+                {
+                    "name": "Cozy",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "crowd",
+            "name": "Crowd",
+            "options": [
+                {
+                    "name": "Groups",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planning",
+            "options": [
+                {
+                    "name": "Accepts reservations",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "parking",
+            "name": "Parking",
+            "options": [
+                {
+                    "name": "Paid street parking",
+                    "enabled": true
+                },
+                {
+                    "name": "Parking",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPAtPL9gn5cZhpHPm5ypDehKgnncs2_DlufR3OH=w397-h298-k-no"
+        },
+        {
+            "about": "Latest",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMWhjE174Hv6LVwA60FsvZI_lZBA__rwHgSNidE=w234-h298-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPQmZAo0tPbP1sqAYQvM6o4RDDUHeDfMj9MjZw8=w529-h298-k-no"
+        },
+        {
+            "about": "Menu",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNhhrb44Si0k2rqn2Q63WbqKyOlwWNRTSmAPdMh=w224-h298-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPoZvxVerC64DPE6EMt4eNrB9sbEl4S-wUSTGh8=w397-h298-k-no"
+        },
+        {
+            "about": "Vibe",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMRqEf0kj3PvIatferT4LAa16ccLiuR4RTCHmLS=w447-h298-k-no"
+        },
+        {
+            "about": "Oyster",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOA6Cm02DavEK7im_k9eAgZmfviHHbOzWN5mNeF=w397-h298-k-no"
+        },
+        {
+            "about": "Mussel",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipM7Qovd8TKsWOykaV56YDMEPGYYKToUrIRF1ziF=w397-h298-k-no"
+        },
+        {
+            "about": "Clam chowder",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOzx8SBdjqV8KlEHVFV8FC4r7Zfp0GRzMOQcv6U=w529-h298-k-no"
+        },
+        {
+            "about": "Bloody Mary",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOw4Gyd-nrArO0qUlu4Lox6dfyG5qSHak5uwH0=w224-h298-k-no"
+        },
+        {
+            "about": "Lobster roll",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMom5RhwP0v2e3Af9xbxdEA1cAcIY9_4iKhPik=w397-h298-k-no"
+        },
+        {
+            "about": "Poutine",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPFvmcM8k8XxtvhcPzIv7VddVngL-HDQiq1UhUj=w397-h298-k-no"
+        },
+        {
+            "about": "Steamed clams",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMlNng7f99Wi8fbtPB-hvwxDLc36I5GUIK5r1pM=w224-h298-k-no"
+        },
+        {
+            "about": "Spaghetti",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMT-0gdmQeA2zPAIPGXnwC9qKY7PhUtr9IXXUQR=w224-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMRqEf0kj3PvIatferT4LAa16ccLiuR4RTCHmLS=w447-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=RJYGgSpU73SbsPlQ-0SYmw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=159.27713&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "4-10 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "4-10 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "4-10 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "4-11 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "12-11 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "12-11 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "12-10 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "Simply THE BEST Oyster House in town. Awesome \"happy hour\" deal, the atmosphere is always amazing, AND great food qualities! My wife and I enjoyed every visit, I am pretty sure you will and can find your \"oyster\" here!\nOh, yeah, don't forget their soup, mussel & clams, and drinks! And and their spicy sauce selection!\nSpicy Caesar, my favorite~",
+            "reviewer_name": "Xinxin Li",
+            "rating": 5,
+            "review_text": "Simply THE BEST Oyster House in town. Awesome \"happy hour\" deal, the atmosphere is always amazing, AND great food qualities! My wife and I enjoyed every visit, I am pretty sure you will and can find your \"oyster\" here!\nOh, yeah, don't forget their soup, mussel & clams, and drinks! And and their spicy sauce selection!\nSpicy Caesar, my favorite~",
+            "published_at": "a week ago",
+            "published_at_date": "2023-11-13T03:07:09.581000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 6,
+            "total_number_of_photos_by_reviewer": 5,
+            "reviewer_url": "https://www.google.com/maps/contrib/107160373555616623239/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUZ0rvaLRdnf8lYQEOZI280ssxGnbqfMnbXpprdQYj32Q=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPBfiPZB7aAM1nW_y1adRtvwhzYrgzrBh-0h0hK=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMXCv7NZy2TNTWO--rNaS4pQAg5JIDqsVrNbNcN=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPRFWuiJI_iGOVBmW7M_LSVmD0sRjYIBApRgVmn=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "By far one of my favourite place to go in Vancouver! Every time we go to Vancouver we make sure we stop by the Rodney oyster's house in Yaletown.\nFrom fresh oysters to one of the best service I've had in a restaurant, this is definitely a place you need to try.\nEvery single plate was perfect and came super fast, we got the crab cakes, garlic shrimps, shrimp cocktail, clams, mussels and obviously oysters. Everything was so fresh and the oysters come with a lot of different choices of sauces for you to choose from.\nVery clean restaurant and very cute ambiance for a date, a dinner with friends or even to just go by yourself !\nThe staff working there has one of the best service I've seen in years, they are really on point and so friendly and nice, this is one of the reasons we always go back there, we just love the ambiance and service so much, a lot of place should take exemple of this place !\nWe've been served by Mackenzie and sadly I don't forget the name of the other employees that took care of us but it isn't the last time they will see us in the establishment!\nIF YOU LOVE SEAFOOD AND GOOD VIBES YOU NEED TO TRY THIS PLACE !",
+            "reviewer_name": "Sabrina Sawyers",
+            "rating": 5,
+            "review_text": "By far one of my favourite place to go in Vancouver! Every time we go to Vancouver we make sure we stop by the Rodney oyster's house in Yaletown.\nFrom fresh oysters to one of the best service I've had in a restaurant, this is definitely a place you need to try.\nEvery single plate was perfect and came super fast, we got the crab cakes, garlic shrimps, shrimp cocktail, clams, mussels and obviously oysters. Everything was so fresh and the oysters come with a lot of different choices of sauces for you to choose from.\nVery clean restaurant and very cute ambiance for a date, a dinner with friends or even to just go by yourself !\nThe staff working there has one of the best service I've seen in years, they are really on point and so friendly and nice, this is one of the reasons we always go back there, we just love the ambiance and service so much, a lot of place should take exemple of this place !\nWe've been served by Mackenzie and sadly I don't forget the name of the other employees that took care of us but it isn't the last time they will see us in the establishment!\nIF YOU LOVE SEAFOOD AND GOOD VIBES YOU NEED TO TRY THIS PLACE !",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-07-27T03:01:54.255000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 125,
+            "total_number_of_photos_by_reviewer": 502,
+            "reviewer_url": "https://www.google.com/maps/contrib/113754641494355990033/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVQ2GrE9Y0m_RQAoi3k6l_Pwp2hg3GvwkqHtNpEqRQkug=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPVi5og1iPgQkJwMkKogJZoTNXvFgD_yThxt7nY=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMsLI_Um4ytvqjWhtr-5g_Fx5u7VhDOHYpQ58rH=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMzj4XbEazXp0Fc52zu2a8DGFOTiT_Q3YHpY983=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPG7t42cucFMBcUfx6ltfOxQeTA5XVcjakjukfr=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMvOQ2PixhO60oXRYMdnQXbLH-uu3aYfBWhFyX3=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipM3Aezv1YOHJd_nVONDo1eopAtrP1vBbz96cFvr=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipO1-EQdgl_GQ_ENi3DC8pmAwbGQe-U2S1jrCTi5=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPPV6Y3ts7JUVMTvO6gMbCByBZB3sq1kEdQDO6S=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMc0Gxd7s5rv224oQLAy4-wF9GRGyN0S3mH_vs0=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMT_vPVE-I62m16ue9WqGQjQ4HkqaG-3wwcBTwF=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipO1yIoeSOOTlXJ8X7BwJby2efZP-bIDHCC2EbKe=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOjN6iUmDG1cIZIiTMV8hkJEzFHV9IaQBg7mI1O=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMBz-o_aLUlNGgmJQhpwXHvrG9ueUQhnG5r3kVx=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNJsYRcv3StBmjmPeLxV9Rc1TLmQlVoHvdsXrOa=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipO8nVJZW3FaYCrAEuCH1dV3jCCRyjQqRkfKqvXI=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMh9Xmlrqs6XbOWwkAjFy-JBleKfpiN2SZ8UMkN=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOQvSf5nqTKKET4WsL6UVIg309MAHa4MNNEXVjX=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Great establishment.    If you plan to visit, try to make reservations.  It's not a large restaurant, and spaces fill up quickly.  I would definitely recommend the raw oysters, calamari, and fish dip.  Our group enjoyed EVERYTHING that came to our table.",
+            "reviewer_name": "TJ Lewis",
+            "rating": 5,
+            "review_text": "Great establishment.    If you plan to visit, try to make reservations.  It's not a large restaurant, and spaces fill up quickly.  I would definitely recommend the raw oysters, calamari, and fish dip.  Our group enjoyed EVERYTHING that came to our table.",
+            "published_at": "2 weeks ago",
+            "published_at_date": "2023-11-03T22:43:33.108000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 31,
+            "total_number_of_photos_by_reviewer": 55,
+            "reviewer_url": "https://www.google.com/maps/contrib/108700840712190195509/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUFxgtVnrwBAcI5JNSB9POq5-5vEURGEsnapstPK2ANkcC1=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOu9h02743OIQF4T24-Cm41UBme-HiCumHdVtIv=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMw57N7L6zvu7mvcLXmuTqrnrXFZNSN-14jf8gv=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMPP30rGszvIVxy00DJ9qSaACSLey8dQrlzHqCU=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "I tried oysters for the first time at Rodney's and I've been hooked ever since! Can't go wrong with seafood anywhere on the the west coast but Rodney's is extra special. I was at the location during a work trip and the staff made sure we were served on time so we can get back to work on time. The chef also came and said hello - super nice. Loved the decor as well!",
+            "reviewer_name": "Saarangi Balasingam",
+            "rating": 5,
+            "review_text": "I tried oysters for the first time at Rodney's and I've been hooked ever since! Can't go wrong with seafood anywhere on the the west coast but Rodney's is extra special. I was at the location during a work trip and the staff made sure we were served on time so we can get back to work on time. The chef also came and said hello - super nice. Loved the decor as well!",
+            "published_at": "5 months ago",
+            "published_at_date": "2023-06-10T13:56:24.103000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 45,
+            "total_number_of_photos_by_reviewer": 163,
+            "reviewer_url": "https://www.google.com/maps/contrib/108701520447318758919/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVe91R7TlnB4owihqBHjjEBCbZHy_aJOhvJDGJSapJmll3k=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMqVI7CRf3jFFmiVYVysHsbzGWX89MK0OiVHLAm=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMkCJ7yXio-AEIuV7jkmKaquPwyXucJ5IbT5XnC=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMdz9-iCgsxKjQ2Ve3h8zg0-5RKIBVwPrZP8xKX=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Highly recommend making a reservation for some delish eats at Rodney's. We went last Saturday, sat at the bar where Mehdi delivered both great service and entertainment as he worked the soups and steamers. The atmosphere is FUN. Go hungry. It's not cheap - but you get VALUE for the food.",
+            "reviewer_name": "jody vance",
+            "rating": 5,
+            "review_text": "Highly recommend making a reservation for some delish eats at Rodney's. We went last Saturday, sat at the bar where Mehdi delivered both great service and entertainment as he worked the soups and steamers. The atmosphere is FUN. Go hungry. It's not cheap - but you get VALUE for the food.",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-13T22:19:18.151000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 23,
+            "total_number_of_photos_by_reviewer": 7,
+            "reviewer_url": "https://www.google.com/maps/contrib/107524529733790590286/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKiiSHbj-qN0rb5dzC4kSTTWv5DvGxmU_rJeEUgcIJl=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPyyOiFG1zHT3Vm0Jd4KwnJKk0dTXsPapYqLfc5=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPP5PbzaO00ZYpU0I5FQkkb81zz1l72QRItxizT=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Happy Hour $2.95 Oysters, $23.50 Mini Lobster and Shrimp Sliders. What do you think? Please comment.",
+            "reviewer_name": "John Lau",
+            "rating": 3,
+            "review_text": "Happy Hour $2.95 Oysters, $23.50 Mini Lobster and Shrimp Sliders. What do you think? Please comment.",
+            "published_at": "5 days ago",
+            "published_at_date": "2023-11-17T00:30:05.558000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 121,
+            "total_number_of_photos_by_reviewer": 1204,
+            "reviewer_url": "https://www.google.com/maps/contrib/109675526749913271533/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjX72z8mhr-21JN8z3napj7cGwIM2FeyiFs12uAz9qHiBxg=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNkTcUgsZYGm4vzYucpRG9HEopMNLzbjbFYxfwW=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOBXZFHlDQY_GZR1J4htriNTwl0RSNYR62QHL-E=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPKCSQMkwfNofh4MB0CEdhVZRZWDoxJGOIIc4t8=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOMLOJYby1tT-YAFJhSA3TE3ffQSoX_6Cqdp7q3=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Recommend the mussels! Loved the white cream sauce, full of flavours!\nEnjoyed very much the coconut prawns--golden crispy and the note of the coconut after the crunchy bite.\nThe oysters were OK. My expectations we're higher given the name, Rodney's Oyster House.\nDo not recommend the Louisiana Crab meat dip. Nothing unique\n\nMy wife likes the mango cheesecake. But disappointed either the coffee.\n\nI want to support the staff, as a former waiter, but our server was not hospitable nor knowledgeable of the menu.\n\nFood 3.5 -- given the price\nService 2\nAtmosphere 4",
+            "reviewer_name": "Victor Ko",
+            "rating": 3,
+            "review_text": "Recommend the mussels! Loved the white cream sauce, full of flavours!\nEnjoyed very much the coconut prawns--golden crispy and the note of the coconut after the crunchy bite.\nThe oysters were OK. My expectations we're higher given the name, Rodney's Oyster House.\nDo not recommend the Louisiana Crab meat dip. Nothing unique\n\nMy wife likes the mango cheesecake. But disappointed either the coffee.\n\nI want to support the staff, as a former waiter, but our server was not hospitable nor knowledgeable of the menu.\n\nFood 3.5 -- given the price\nService 2\nAtmosphere 4",
+            "published_at": "2 years ago",
+            "published_at_date": "2021-08-22T22:49:37.435000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 44,
+            "total_number_of_photos_by_reviewer": 61,
+            "reviewer_url": "https://www.google.com/maps/contrib/104590915435793137663/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXdiPO7bKDiOOVwcBSKgfiOVPHfaqhsYrV79aOeXaDl7kc=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMoFd9PQwwQuIEpDRbindYl4hPbbsfBhEV0pJxI=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "I'm very impressed with the quality of Rodney's Oyster House. Great food and service, a fun place to be in, top class all around.\n\nWe found that it is important to reserve a table, even in the middle of the week (it was summer, too, so that might add a bit).\n\nThe waiter was great, the hot sauce defection was wonderful, and the choices in oyster types was unexpected and fantastic to have. We dove right in, so if you see the picture I took you can tell that a lot of the oysters had already been eaten by the time I got my camera out.\n\nYou know, you go away from raw oysters for a while and you start thinking, \"I'm kind of ok without them,\" or \"Did I really eat those things?\" But then you get taken to Rodney's and you relearn that oysters are amazing things to eat.",
+            "reviewer_name": "Michael Swanson",
+            "rating": 5,
+            "review_text": "I'm very impressed with the quality of Rodney's Oyster House. Great food and service, a fun place to be in, top class all around.\n\nWe found that it is important to reserve a table, even in the middle of the week (it was summer, too, so that might add a bit).\n\nThe waiter was great, the hot sauce defection was wonderful, and the choices in oyster types was unexpected and fantastic to have. We dove right in, so if you see the picture I took you can tell that a lot of the oysters had already been eaten by the time I got my camera out.\n\nYou know, you go away from raw oysters for a while and you start thinking, \"I'm kind of ok without them,\" or \"Did I really eat those things?\" But then you get taken to Rodney's and you relearn that oysters are amazing things to eat.",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-21T20:59:08.215000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 239,
+            "total_number_of_photos_by_reviewer": 281,
+            "reviewer_url": "https://www.google.com/maps/contrib/116982218296347093149/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJYS1FcUmxBij_F8IINz54arGCmu2mUCc32DC3yyPSu=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipObE4q34N00Ue6_-HvPFiu2x3zmXIJubKzlLs_O=w150-h150-k-no-p"
+            ]
+        }
+    ],
+    "is_spending_on_ads": false
+}

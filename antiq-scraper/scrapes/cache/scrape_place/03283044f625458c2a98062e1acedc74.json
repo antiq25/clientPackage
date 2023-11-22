@@ -1,0 +1,611 @@
+{
+    "place_id": "ChIJU2aU7s5zhlQRICX9WHYo0K8",
+    "name": "Tony's Fish & Oyster Cafe",
+    "description": "Casual kitchen dishing up oysters, fish 'n' chips & more, along with British Columbia beers/wines.",
+    "reviews": 1065,
+    "website": "http://www.tonysfishandoystercafe.com/",
+    "owner": {
+        "id": "112208844099904086838",
+        "name": "Tony's Fish & Oyster Cafe (Owner)",
+        "link": "https://www.google.com/maps/contrib/112208844099904086838"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMo5HfoCOTFRgw0h1_jaOoXTt5Vupe2M9xyLk3K=w426-h240-k-no",
+    "main_category": "Seafood restaurant",
+    "categories": [
+        "Seafood restaurant",
+        "Bar"
+    ],
+    "rating": 4.1,
+    "workday_timing": "11:30 a.m.-7 p.m.",
+    "closed_on": [],
+    "phone": "(604) 683-7127",
+    "address": "Tony's Fish & Oyster Cafe, 1511 Anderson St, Vancouver, BC V6H 3R5",
+    "review_keywords": [
+        {
+            "keyword": "fish and chips",
+            "count": 191
+        },
+        {
+            "keyword": "cod",
+            "count": 52
+        },
+        {
+            "keyword": "clam chowder",
+            "count": 43
+        },
+        {
+            "keyword": "halibut",
+            "count": 35
+        },
+        {
+            "keyword": "fried oysters",
+            "count": 13
+        },
+        {
+            "keyword": "tartar sauce",
+            "count": 10
+        },
+        {
+            "keyword": "oyster stew",
+            "count": 6
+        },
+        {
+            "keyword": "ale",
+            "count": 6
+        },
+        {
+            "keyword": "tourist trap",
+            "count": 6
+        },
+        {
+            "keyword": "brewery",
+            "count": 5
+        }
+    ],
+    "link": "https://www.google.com/maps/place/Tony%27s+Fish+%26+Oyster+Cafe/data=!4m7!3m6!1s0x548673ceee946653:0xafd0287658fd2520!8m2!3d49.2707061!4d-123.1364206!16s%2Fg%2F1trpkx8v!19sChIJU2aU7s5zhlQRICX9WHYo0K8?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 11:30 a.m.",
+    "price_range": "$$",
+    "reviews_per_rating": {
+        "1": 75,
+        "2": 27,
+        "3": 109,
+        "4": 320,
+        "5": 534
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJU2aU7s5zhlQRICX9WHYo0K8&q=Tony%27s+Fish+%26+Oyster+Cafe&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.2707061,
+        "longitude": -123.1364206
+    },
+    "plus_code": "7VC7+7C Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "West Side",
+        "street": "1511 Anderson St",
+        "city": "Vancouver",
+        "postal_code": "V6H 3R5",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "12668670240557442336",
+    "data_id": "0x548673ceee946653:0xafd0287658fd2520",
+    "menu": {
+        "link": "http://www.tonysfishandoystercafe.com/menu/",
+        "source": "tonysfishandoystercafe.com"
+    },
+    "reservations": [],
+    "order_online_links": [
+        {
+            "link": "https://www.doordash.com/store/tony%E2%80%99s-fish-%26-oyster-cafe-vancouver-915289/?utm_campaign=gpa&pickup=true",
+            "source": "doordash.com"
+        },
+        {
+            "link": "https://www.skipthedishes.com/thonys-fish-and-oyster-cafe?serviceType=delivery&utm_source=google&utm_medium=organic&utm_campaign=gpav2",
+            "source": "skipthedishes.com"
+        },
+        {
+            "link": "https://www.ubereats.com/ca/store/tonys-fish-%26-oyster-cafe/YEP5_KA3R8Ow-i-RMgvmBA?utm_campaign=place-action-link&utm_medium=organic&utm_source=google",
+            "source": "ubereats.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Takeout",
+                    "enabled": true
+                },
+                {
+                    "name": "Dine-in",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair accessible seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Alcohol",
+                    "enabled": true
+                },
+                {
+                    "name": "Beer",
+                    "enabled": true
+                },
+                {
+                    "name": "Coffee",
+                    "enabled": true
+                },
+                {
+                    "name": "Small plates",
+                    "enabled": true
+                },
+                {
+                    "name": "Wine",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Dining options",
+            "options": [
+                {
+                    "name": "Lunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Dinner",
+                    "enabled": true
+                },
+                {
+                    "name": "Dessert",
+                    "enabled": true
+                },
+                {
+                    "name": "Seating",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Gender-neutral washroom",
+                    "enabled": true
+                },
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                },
+                {
+                    "name": "Wi-Fi",
+                    "enabled": true
+                },
+                {
+                    "name": "Wi-Fi",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosphere",
+            "options": [
+                {
+                    "name": "Casual",
+                    "enabled": true
+                },
+                {
+                    "name": "Cozy",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "crowd",
+            "name": "Crowd",
+            "options": [
+                {
+                    "name": "Family-friendly",
+                    "enabled": true
+                },
+                {
+                    "name": "LGBTQ+ friendly",
+                    "enabled": true
+                },
+                {
+                    "name": "Transgender safe space",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "children",
+            "name": "Children",
+            "options": [
+                {
+                    "name": "Good for kids",
+                    "enabled": true
+                },
+                {
+                    "name": "High chairs",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMo5HfoCOTFRgw0h1_jaOoXTt5Vupe2M9xyLk3K=w529-h298-k-no"
+        },
+        {
+            "about": "Latest",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipM9-_UNdWi5RLQ3fdVdijL-FORPBrzo4wxfcX9X=w638-h298-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOIkAk6woXas564YeTwZH8KeNlEPxoBDOW2ffss=w529-h298-k-no"
+        },
+        {
+            "about": "Menu",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPMIrFhlBK-VYP4lvFimsi9ZKxX96ff12Jfzqqi=w224-h298-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNQeaa_jxKBGqAufdFUis7kRupHnydhJrmSd2AF=w529-h298-k-no"
+        },
+        {
+            "about": "Vibe",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMpF86vhxaiLy5VSYeLuLH-O_D3mCwwiTXRsxg=w448-h298-k-no"
+        },
+        {
+            "about": "Take-out",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPKa1dTAXpgmq37nOvXRbEc2iRN0QOHnZj7CFLw=w638-h298-k-no"
+        },
+        {
+            "about": "Fish and chips",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOZwvLQ-YvI-GEif5NOdQFyt_3deHzZAsPbHB3g=w447-h298-k-no"
+        },
+        {
+            "about": "Clam chowder",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMIridDc__TuLVtRCTug0nNgM7m8flzz6UjPB4y=w397-h298-k-no"
+        },
+        {
+            "about": "Oyster",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNV9m_S-le9pCjdR14EPyreNj1H72xYff1fIgdO=w397-h298-k-no"
+        },
+        {
+            "about": "Mussel",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipN31MeW1OAGGc0b097hb7YfPHF6iMrnkYCy7dVV=w224-h298-k-no"
+        },
+        {
+            "about": "Caesar salad",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMKic7hzAnwX7NnvuRc6QCyVJNwGiA0XIMWF9Sz=w529-h298-k-no"
+        },
+        {
+            "about": "Fried shrimp",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOTNdZ9VVVV9RdixkzlG0fieQiJMwWy7np6KZV5=w397-h298-k-no"
+        },
+        {
+            "about": "Beer",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPMwITxe0E9shXbc037pmPiTGZrvhon4u_JP6YH=w224-h479-k-no"
+        },
+        {
+            "about": "Fish soup",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPZxK_y5wg07MYuz7lfeecE-Kxx-1svwHczXY8H=w224-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNJ00BDxOEnT24guI-RYvWU5ZZ8iIEqy4dv73VG=w544-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=5UyR5MUNfNWhAhP-pOqVpw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=298.14566&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "11:30 a.m.-7 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "11:30 a.m.-7 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "11:30 a.m.-7 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "11:30 a.m.-7 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "11:30 a.m.-8 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "11:30 a.m.-8 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "11:30 a.m.-7 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "My partner suggested this spot after reading some reviews online, it's a small family friendly joint! The restaurant gets quite busy during lunch, I would suggest plan accordingly and come after the lunch rush. The restaurant holds about 20 people or less, the ambiance is that of a fish spot with seafood art on the walls. Since this was our first stop in Granville Island and wanted to try and see everything, we decided to share the clam chowder and the infamous fish and Chips! Great customer service, daughter was our server, mother washing dishes very humble people. If you are in a hurry, I wouldn't suggest coming here, everything is made fresh to order so it'll take a min. The food was hot and absolutely delicious, one of the best fish and chips around!",
+            "reviewer_name": "Tawny Valdez",
+            "rating": 5,
+            "review_text": "My partner suggested this spot after reading some reviews online, it's a small family friendly joint! The restaurant gets quite busy during lunch, I would suggest plan accordingly and come after the lunch rush. The restaurant holds about 20 people or less, the ambiance is that of a fish spot with seafood art on the walls. Since this was our first stop in Granville Island and wanted to try and see everything, we decided to share the clam chowder and the infamous fish and Chips! Great customer service, daughter was our server, mother washing dishes very humble people. If you are in a hurry, I wouldn't suggest coming here, everything is made fresh to order so it'll take a min. The food was hot and absolutely delicious, one of the best fish and chips around!",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-14T22:39:11.635000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 337,
+            "total_number_of_photos_by_reviewer": 4160,
+            "reviewer_url": "https://www.google.com/maps/contrib/107915963037960084951/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVaGKK-VYQUQ0WL1eZvrcxeDZoowtej9cL8qe3AV06h5ew=s120-c-rp-mo-ba6-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPIJzCKUOZfnfEVVQ-J-dANqRoGEYTlT1rJhYiP=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPKMrV4Y9Onmp7T20K1G2jqwt6-zB59JQWjGzpx=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipN1r75MESW9fb8iXgdbksQitl0PIv3r8FN-3n5D=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipN6LemYJcZJ-TaWkNbeJ0fXLDhTaWltKLVYTEXP=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMeAYsDD4lRfzD8TEkzUa1QFNH439dhaCMj7Q4H=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNuAx02AtKBDDWlR93M95TjdeIyRgbqZ5YW7R_W=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOQqtOrmTQPRcDY2XoZ9uD6YWJ75tTTs32FwS1Q=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOwmDRp6QPQXnIs-bU8xLN-VyA5JYs79lkcN5EN=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPGwWo_um7ZNdO79rmXvswfu-SPbGEwY6fXODOO=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOBBZBPrOHL6Jg_FLUsolWE1eG3VCwQUpGwjSnE=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOGNZTssgpcQxAAynP5i16oO5xWRw6tfIequ987=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOrIqU5y5J1migFJ5SC7Mf-cyH1sQlqI7M_Edes=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "I absolutely love a good fish & chips, and Tony's cod fish was delightful, especially when dipped in the creamy tar tar sauce.  Chill atmosphere, great service, and fresh seafood. Can't quite ask for more. After your meal, hop on over to the brewery across the street. ",
+            "reviewer_name": "Justine Yeo",
+            "rating": 5,
+            "review_text": "I absolutely love a good fish & chips, and Tony's cod fish was delightful, especially when dipped in the creamy tar tar sauce.  Chill atmosphere, great service, and fresh seafood. Can't quite ask for more. After your meal, hop on over to the brewery across the street. ",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-13T01:19:13.471000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 203,
+            "total_number_of_photos_by_reviewer": 507,
+            "reviewer_url": "https://www.google.com/maps/contrib/112390277008288985879/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWDm_PWL2v1ZjW0zuiASBwGGOdDfL52mXLAzRnA8R7W8vw=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMiSyPBRUHaEgVN8l64VsL55vJbubhdVkB3WWJI=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPOAzxdbFH9nWPEfd7aD6AsFQ1SRq6sCF7jTLjH=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMeHO7GuID4cv1bDlFkKrhE5mhoWdowedBI0UZw=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipM6PnamFLu0zQmMleOyZuvGFxYIjywJlXH0ap1m=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipM2Qh9H2dsBElVnIyw7bqcpqK1fR_x1ABn57-hb=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPrKR5VphpBYrCUVBzq_9ca7mhuwXOFFfKIf8ic=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Took the family out to this establishment for lunch today. Tony's Fish & Oyster Cafe proved to be a delightful culinary escapade for seafood enthusiasts like myself. The restaurant's inviting ambiance and friendly staff immediately set the stage for a memorable dining experience. With a diverse menu boasting a variety of seafood delicacies, our taste buds were in for a treat.\n\nTo start, we ordered the Caesar Salad, and it was a refreshing and well-balanced dish. The crisp romaine lettuce was generously coated in a tangy dressing, complemented by a sprinkle of Parmesan cheese and crunchy croutons. It served as an excellent precursor to the seafood feast that awaited us.  I will note a pretty standard caesar salad.\n\nNext up was the Seafood Sampler, a delightful platter brimming with ocean treasures. The array of Seafood Clams, Mussels, Prawns and Scallops with breaded Oysters and deep fried Cod was impeccably fresh and expertly prepared. The sampler was a great way to explore various flavours of the sea in one dish.\n\nThe Clam Chowder was a standout among the starters. Creamy, rich, and generously loaded with tender clams, it warmed our souls and left us craving more. The balance of flavours was spot on, and the hearty portion made it perfect for sharing.\n\nMoving on to the Prawn Appetizer, we were delighted by the succulent prawns cooked to perfection. The dish was accented with a zesty marinade that enhanced the natural sweetness of the prawns. It was an appetizer we couldn't resist finishing entirely, even though we knew we had a main course to savour.\n\nThe highlight of the meal was undoubtedly the Cioppino, a seafood stew packed with an array of fish, mussels, and squid. The broth was a harmonious symphony of tomatoes, garlic, and herbs that danced on our palates with every spoonful. The seafood was tender, indicating the use of fresh catch, and the dish was served piping hot, adding to its comforting appeal. Although it may seem simple, this dish showcased Tony's expertise in crafting seafood classics.\n\nOverall, Tony's Fish & Oyster Cafe earns a solid 4-star rating. The dining experience was enhanced not only by the delectable seafood offerings but also by the warm and attentive service provided by the sever. While some dishes stood out more than others, the restaurant's commitment to quality and flavoursome seafood left a lasting impression on our taste buds. Tony's Fish & Oyster Cafe is a worthy destination to satisfy your cravings.",
+            "reviewer_name": "Joey C",
+            "rating": 4,
+            "review_text": "Took the family out to this establishment for lunch today. Tony's Fish & Oyster Cafe proved to be a delightful culinary escapade for seafood enthusiasts like myself. The restaurant's inviting ambiance and friendly staff immediately set the stage for a memorable dining experience. With a diverse menu boasting a variety of seafood delicacies, our taste buds were in for a treat.\n\nTo start, we ordered the Caesar Salad, and it was a refreshing and well-balanced dish. The crisp romaine lettuce was generously coated in a tangy dressing, complemented by a sprinkle of Parmesan cheese and crunchy croutons. It served as an excellent precursor to the seafood feast that awaited us.  I will note a pretty standard caesar salad.\n\nNext up was the Seafood Sampler, a delightful platter brimming with ocean treasures. The array of Seafood Clams, Mussels, Prawns and Scallops with breaded Oysters and deep fried Cod was impeccably fresh and expertly prepared. The sampler was a great way to explore various flavours of the sea in one dish.\n\nThe Clam Chowder was a standout among the starters. Creamy, rich, and generously loaded with tender clams, it warmed our souls and left us craving more. The balance of flavours was spot on, and the hearty portion made it perfect for sharing.\n\nMoving on to the Prawn Appetizer, we were delighted by the succulent prawns cooked to perfection. The dish was accented with a zesty marinade that enhanced the natural sweetness of the prawns. It was an appetizer we couldn't resist finishing entirely, even though we knew we had a main course to savour.\n\nThe highlight of the meal was undoubtedly the Cioppino, a seafood stew packed with an array of fish, mussels, and squid. The broth was a harmonious symphony of tomatoes, garlic, and herbs that danced on our palates with every spoonful. The seafood was tender, indicating the use of fresh catch, and the dish was served piping hot, adding to its comforting appeal. Although it may seem simple, this dish showcased Tony's expertise in crafting seafood classics.\n\nOverall, Tony's Fish & Oyster Cafe earns a solid 4-star rating. The dining experience was enhanced not only by the delectable seafood offerings but also by the warm and attentive service provided by the sever. While some dishes stood out more than others, the restaurant's commitment to quality and flavoursome seafood left a lasting impression on our taste buds. Tony's Fish & Oyster Cafe is a worthy destination to satisfy your cravings.",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-07-29T06:16:28.555000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 253,
+            "total_number_of_photos_by_reviewer": 1877,
+            "reviewer_url": "https://www.google.com/maps/contrib/111975412644767187204/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWNnPSldCQziQJjgslvA1RfProPUpxYN0AGpRPmep9fwwQ=s120-c-rp-mo-ba6-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPTXwQlX1kBe3SAqWxB1kJxT8xyqEKkSrVmV5V5=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNCz_igePKhS55EZ2QeyeW8mpizm0XSXi0lvE9f=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipM_jZlVAr7hkXL1Yw4paY1fc1_Yng2kWXqDIlv2=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOx72_IrWe0jB1YKkmLoUw5tUjYlg-HiYLSS1AB=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipO-gwEFbiOpfqIgTmN1qEWWJ_tqI0Cwj2RWz4W7=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPZxK_y5wg07MYuz7lfeecE-Kxx-1svwHczXY8H=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOUgXOY6IB2HH2BiVYnCy2QgvkULOYv_UGVc_jr=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipODny6o_Px9u-_sr0uCxxcpDh8vMnwOuRdPC81v=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMFMYJWO9IpGAH0NJ4LEG2IobYYlnmohZWg7zCW=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMbe3Lt369ZTv2NxrZ5BdpklzKk8NrxMzGPJ2BT=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Ducked into this little spot for lunch, best fish & chips (halibut)! The service was excellent and personal, inquiring about our visit to Vancouver. Great lunch experience and well worth the short wait for a table!",
+            "reviewer_name": "Linda Williamson",
+            "rating": 5,
+            "review_text": "Ducked into this little spot for lunch, best fish & chips (halibut)! The service was excellent and personal, inquiring about our visit to Vancouver. Great lunch experience and well worth the short wait for a table!",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-12T18:45:35.774000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 9,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/101433934083397999771/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWexufEnC1v0ZE8Fd8dA6V9lPONkQijZ6anyLEpqw6mfzI=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPnobm44L07CyxOJ_p1aEUkKI48rOQAr6lVF3Xf=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Definitely a place you need to check out especially if you're craving some fish and chips or oysters. Prices are a little low high for the oysters, but they are delicious and local. Not the huge nasty ones you get from some places. These were medium size with clean shells and pretty fresh tasting. It's a small cozy restaurant with little seating but customer service is top notch.",
+            "reviewer_name": "Jason R.",
+            "rating": 4,
+            "review_text": "Definitely a place you need to check out especially if you're craving some fish and chips or oysters. Prices are a little low high for the oysters, but they are delicious and local. Not the huge nasty ones you get from some places. These were medium size with clean shells and pretty fresh tasting. It's a small cozy restaurant with little seating but customer service is top notch.",
+            "published_at": "5 months ago",
+            "published_at_date": "2023-06-18T04:16:49.610000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 240,
+            "total_number_of_photos_by_reviewer": 766,
+            "reviewer_url": "https://www.google.com/maps/contrib/112809509989734944728/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUf0PC4unZ7K06h59V5KPtLwUDs-daQi8YEN345324AnhQ=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOPOfzbusTc-bY0-YX386SzafsgYz402ix6Pd8R=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNH7Kg0lGBj2_yT__2NXaKE-EEbiuveqg1Z6s9y=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "We stopped by Tony's Fish & Oyster Cafe for a quick and simple dinner before heading to The Improv Centre on Granville Island. My husbandand I shared a Breaded Oyster Platter for our dinner. The oysters were plump, crispy, hot and delish! This restaurant is right next door to The Improv Centre so it's an excellent choice for dinner if you've got a show to go to afterwards!\n\nService:  Good\nParking: Paid parking on Granville Island\nLocation: 1511 Anderson St., Vancouver, BC",
+            "reviewer_name": "Josephine Ma",
+            "rating": 4,
+            "review_text": "We stopped by Tony's Fish & Oyster Cafe for a quick and simple dinner before heading to The Improv Centre on Granville Island. My husbandand I shared a Breaded Oyster Platter for our dinner. The oysters were plump, crispy, hot and delish! This restaurant is right next door to The Improv Centre so it's an excellent choice for dinner if you've got a show to go to afterwards!\n\nService:  Good\nParking: Paid parking on Granville Island\nLocation: 1511 Anderson St., Vancouver, BC",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-08-22T16:50:03.190000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 257,
+            "total_number_of_photos_by_reviewer": 1569,
+            "reviewer_url": "https://www.google.com/maps/contrib/109835683511918603870/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXhYpAUbdYf1P2mLHxA_FCyEQ4blqQfgBAjbS4YlI_h8Xk=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNo0aChzHWMUoABchYXiG1DlE8M0nCgUZYGZ2I5=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipML3stuA0FVD05oJuHh8tlvIdwoEqnE4-13hRZH=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNVEq1Ga7uykPCMzARfWnLkyrQoF2uAbWELFS54=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipN5FiodqatjlVTj44sj6fFmKaLr3QxJxHb7Jt41=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipO_zD6TDYGHiDK-zlU3JIxbUR2lWZm3terRqYBp=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipN6b8Bq6bdhCx7bxm1nmC4Ea2QIpJCxI6oiq2jI=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMxe_ncdUy_e6mM7cWpUl2bRrSKj9mSb_DZa8bT=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNVK-t-10NXriNswkoEcUhyfri6fVU_zS1mDakn=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "The freshest, biggest and absolutely delicious Oysters I have ever had! The front of house staff greet you warmly every time and we were able to be sat immediately. Not long after ordering they bring out their incredible Oysters. We went to Tony's for quick oysters before dinner, after dinner and then another day before lunch! You GOT to come here if you are seeking incredible Oysters.",
+            "reviewer_name": "Emma",
+            "rating": 5,
+            "review_text": "The freshest, biggest and absolutely delicious Oysters I have ever had! The front of house staff greet you warmly every time and we were able to be sat immediately. Not long after ordering they bring out their incredible Oysters. We went to Tony's for quick oysters before dinner, after dinner and then another day before lunch! You GOT to come here if you are seeking incredible Oysters.",
+            "published_at": "a week ago",
+            "published_at_date": "2023-11-15T06:58:42.581000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 36,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/109270034777509156096/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXMVyIdAYhWIaty5TGmOsm86uo7O74FxXaOra1ZbYyFcuHs=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Had the cod fish n chips. Fish and chips were average. Fries were over cooked. Service was quite good however. Oysters as starter was good. But main course of fish n chips unfortunately was a let down.",
+            "reviewer_name": "Alan Tan",
+            "rating": 3,
+            "review_text": "Had the cod fish n chips. Fish and chips were average. Fries were over cooked. Service was quite good however. Oysters as starter was good. But main course of fish n chips unfortunately was a let down.",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-19T03:27:17.977000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 12,
+            "total_number_of_photos_by_reviewer": 10,
+            "reviewer_url": "https://www.google.com/maps/contrib/110906736312507079849/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXWcWajtfcSLz1-xFghtGX6Mi-eYqf41sPoNq8ojDGOuQ=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipO1xYDr9J6k9FpFTSPT_AVHq_5-qv6jJDteNeoT=w150-h150-k-no-p"
+            ]
+        }
+    ],
+    "is_spending_on_ads": false
+}

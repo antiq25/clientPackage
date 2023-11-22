@@ -1,0 +1,439 @@
+{
+    "place_id": "ChIJ0wQb_bFxhlQR8_3KkEW69Ww",
+    "name": "Superflux Beer Company",
+    "description": null,
+    "reviews": 380,
+    "website": "http://www.superfluxbeer.com/",
+    "owner": {
+        "id": "112417678455179328057",
+        "name": "Superflux Beer Company (Owner)",
+        "link": "https://www.google.com/maps/contrib/112417678455179328057"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNzd2qbrXuOlU3gyE5m7k2GzbwY3JRbSq0NOkYn=w408-h272-k-no",
+    "main_category": "Brewery",
+    "categories": [
+        "Brewery",
+        "Lounge",
+        "Restaurant"
+    ],
+    "rating": 4.7,
+    "workday_timing": "12-9 p.m.",
+    "closed_on": [],
+    "phone": null,
+    "address": "Superflux Beer Company, 505 Clark Dr, Vancouver, BC V5L 3H6",
+    "review_keywords": [
+        {
+            "keyword": "hot dogs",
+            "count": 36
+        },
+        {
+            "keyword": "space",
+            "count": 21
+        },
+        {
+            "keyword": "tasting room",
+            "count": 14
+        },
+        {
+            "keyword": "patio",
+            "count": 12
+        },
+        {
+            "keyword": "lager",
+            "count": 8
+        },
+        {
+            "keyword": "stout",
+            "count": 8
+        },
+        {
+            "keyword": "salad",
+            "count": 6
+        },
+        {
+            "keyword": "flavours",
+            "count": 6
+        },
+        {
+            "keyword": "hazy ipa",
+            "count": 5
+        },
+        {
+            "keyword": "gummy",
+            "count": 3
+        }
+    ],
+    "link": "https://www.google.com/maps/place/Superflux+Beer+Company/data=!4m7!3m6!1s0x548671b1fd1b04d3:0x6cf5ba4590cafdf3!8m2!3d49.2801561!4d-123.0775631!16s%2Fg%2F11fwj3dx4y!19sChIJ0wQb_bFxhlQR8_3KkEW69Ww?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 12 p.m. Wed",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 8,
+        "2": 6,
+        "3": 17,
+        "4": 43,
+        "5": 306
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ0wQb_bFxhlQR8_3KkEW69Ww&q=Superflux+Beer+Company&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.2801561,
+        "longitude": -123.07756309999999
+    },
+    "plus_code": "7WJC+3X Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "Central Vancouver",
+        "street": "505 Clark Dr",
+        "city": "Vancouver",
+        "postal_code": "V5L 3H6",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "7851386333335059955",
+    "data_id": "0x548671b1fd1b04d3:0x6cf5ba4590cafdf3",
+    "menu": {
+        "link": "https://www.superfluxbeer.com/visit-us",
+        "source": "superfluxbeer.com"
+    },
+    "reservations": [
+        {
+            "link": "https://www.opentable.ca/restaurant/profile/1321327%3Fref%3D16423",
+            "source": "opentable.ca"
+        }
+    ],
+    "order_online_links": [
+        {
+            "link": "https://www.superfluxbeer.com/?owg-fulfillment=pickup&location=11eb1e0218b3f7788648ac1f6bbbd01e&rwg_token=AOZt1jWhTY4s7A5IIV-EL2MHiRI1j9a0oJpYQ3zAAxC0LJCG9VGkvbaaLtkBgSCHuPk1WR_OxFMvmBIgiw8XzRN32HGyStDvHN7GV7ddjPNUvJgFH8gNiyY%3D",
+            "source": "superfluxbeer.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Alcohol",
+                    "enabled": true
+                },
+                {
+                    "name": "Beer",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Bar on-site",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNzd2qbrXuOlU3gyE5m7k2GzbwY3JRbSq0NOkYn=w446-h298-k-no"
+        },
+        {
+            "about": "Building",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNaY0l_wg1CYff9_2asaDdJM-Qs3uBeGPxT5p9S=w629-h298-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMi9NZD_HdHUX_F9RYqArcdQvUN7mlH3nsYGxB9=w224-h398-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMwakC5YVWGQIBIaIvvBIoEH7-6X7GKvDVrS_95=w446-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=2B4djI8esAd6t2wgkWhvOw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=247.52615&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "12-9 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "12-9 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "12-10 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "12-10 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "12-11 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "12-11 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "12-9 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "Good tasting beers in an industrial setting. While it looks like they brew a god amount of beers here the varieties are limited and focus is on taste. Try some of the experimental beers as they are great. Nice staff and reasonably priced ($7-10). They have food here but a bit too pricey for me ($18 tuna sandwich).",
+            "reviewer_name": "Eddie Kubo",
+            "rating": 4,
+            "review_text": "Good tasting beers in an industrial setting. While it looks like they brew a god amount of beers here the varieties are limited and focus is on taste. Try some of the experimental beers as they are great. Nice staff and reasonably priced ($7-10). They have food here but a bit too pricey for me ($18 tuna sandwich).",
+            "published_at": "6 months ago",
+            "published_at_date": "2023-04-30T03:14:18.080000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 108,
+            "total_number_of_photos_by_reviewer": 153,
+            "reviewer_url": "https://www.google.com/maps/contrib/105974218443337104488/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW4XW3WTYLTPcuidyUd0j8tyjkkS52dxfhVP3PYb8YLUg=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMFK2NoO8t8M50igydjpYSZP2Z1THKw-nqT2XZc=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPNVcaUytoi6cH7GYgDWoDXlD00n5_a1YgiMJQX=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "This brewery is one of the most modern and sophisticated breweries I have ever visited. I had tried their beers before and knew they were good, but I was blown away by the size and style of their brewing facility. It was massive yet very sleek and stylish. I loved the tasting room and sampled several of their beers, leaving me satisfied. I also bought some glassware to take home, and I use it often. I want to revisit this brewery as they update the tap quite often. Thanks for the great experience, Superflux!",
+            "reviewer_name": "Y. Cherski",
+            "rating": 5,
+            "review_text": "This brewery is one of the most modern and sophisticated breweries I have ever visited. I had tried their beers before and knew they were good, but I was blown away by the size and style of their brewing facility. It was massive yet very sleek and stylish. I loved the tasting room and sampled several of their beers, leaving me satisfied. I also bought some glassware to take home, and I use it often. I want to revisit this brewery as they update the tap quite often. Thanks for the great experience, Superflux!",
+            "published_at": "11 months ago",
+            "published_at_date": "2022-11-28T22:43:04.488000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 195,
+            "total_number_of_photos_by_reviewer": 980,
+            "reviewer_url": "https://www.google.com/maps/contrib/115360839518239695984/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIQcMNM9NxvshmxVWsDXkqq-dbGdLUyf4j1niq3ogfk=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipO3P1_zs_Ol2khCOGCidki0v_38M5p1vNdcvYSm=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNyd1xQmAK5IWu24mGzUv_nMuwf0Twm4ab7nIVS=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipP-dBkEr0NpJsroTaEqPCabxCG5oGqvbt1W2cPK=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Very nice brewery in east Vancouver. Airy, bright with plenty of seats. Enjoy the assortment of IPAs. I got the happyness and it satisfied my beer craving. Service was prompt and nice.",
+            "reviewer_name": "Audrey T",
+            "rating": 5,
+            "review_text": "Very nice brewery in east Vancouver. Airy, bright with plenty of seats. Enjoy the assortment of IPAs. I got the happyness and it satisfied my beer craving. Service was prompt and nice.",
+            "published_at": "7 months ago",
+            "published_at_date": "2023-03-28T00:25:37.249000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 614,
+            "total_number_of_photos_by_reviewer": 1587,
+            "reviewer_url": "https://www.google.com/maps/contrib/111384259646867950371/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXvMxZXY0aGaqciuHer1tjRjpEiglCPfmdj1orI0HawEmk=s120-c-rp-mo-ba6-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOEdxVwtVdr4-_ppDdURoHoqh8tvu6axUfpT8-m=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipM65O8aiqq8apCu8aU4YY1e-C6HPt06Y_t51gLf=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNyeaKeU4nvLDI-HLxWzvixQoVAXXfd9BQPBA42=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMAWHL43UcLxTSvzM2kpGrL6326ekCN5PagUuCg=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPnnloZR2YcTlFzJ2ES2ccBN3GP2_HTdsXBuKXY=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPDzFFpDV_1JQQ0d73RdndP17X5PnUwvDxyfs79=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "My personal favorite brewery in Vancouver; dog friendly and it has the best beer. Patio is fun, and the food is delicious (always ask about the special popcorn of the week).",
+            "reviewer_name": "John Hayes",
+            "rating": 5,
+            "review_text": "My personal favorite brewery in Vancouver; dog friendly and it has the best beer. Patio is fun, and the food is delicious (always ask about the special popcorn of the week).",
+            "published_at": "5 months ago",
+            "published_at_date": "2023-05-26T04:31:23.049000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 62,
+            "total_number_of_photos_by_reviewer": 68,
+            "reviewer_url": "https://www.google.com/maps/contrib/106821675271481158086/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjX7dtS6XaVYMY5zybK3cCNegQKTl5onDooqZZfydPmZlz3z=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOyz3urrVcg2jze7b1q93TrTS7R7UrhyQRoM6ln=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNH6YnBDAFEDAA3IPqb7Eu9622CrsDEjlejmXKB=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "The best beer in Vancouver hands down.  Their IPA game is on point.  I was happy to be able to visit them on the first day of arriving and had sampled their offerings previously. My ONLY gripe is you can't purchase single cans and only 4 packs... for those that want to sample all the to go offerings, you either walk away empty handed, or empty walleted.. regardless, their hot dogs are fantastic and their beer is the best you will get in Van.",
+            "reviewer_name": "Chris Kabin",
+            "rating": 5,
+            "review_text": "The best beer in Vancouver hands down.  Their IPA game is on point.  I was happy to be able to visit them on the first day of arriving and had sampled their offerings previously. My ONLY gripe is you can't purchase single cans and only 4 packs... for those that want to sample all the to go offerings, you either walk away empty handed, or empty walleted.. regardless, their hot dogs are fantastic and their beer is the best you will get in Van.",
+            "published_at": "a year ago",
+            "published_at_date": "2022-08-08T05:19:53.198000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 112,
+            "total_number_of_photos_by_reviewer": 118,
+            "reviewer_url": "https://www.google.com/maps/contrib/112551267036627949801/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJXVaPAxrluLr9vDMKtcpFnUUvcTcbNbZDjbkysoRYz=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOY4x1lOQdtetmsdFHPxyP-mtxNyEQA9G8NY9fx=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPupOMANuC_fuEYKXsS5AyqlH4YeqruaUzCOlB9=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPJTHbecCL8ejtyS60FzGDUCLw3E25S7t5xQdR2=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipN7LY-Me_NKEB_Qp2Q_sTC_I-6L3qf2e4i451sY=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOSvQkQEmgszusNgBXEltA2BKY5KMO_GNHCDdGO=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Wow! I was told to go here by a friend as they told me the beer was amazing.. but I ended up staying as the staff were the best! So knowledgeable and sweet. It was a perfect rainy Saturday afternoon. Special shout out to the manager Sabrina (I think that's your name-sorry) she went over and above taking care of us!",
+            "reviewer_name": "Kevin Carroll",
+            "rating": 5,
+            "review_text": "Wow! I was told to go here by a friend as they told me the beer was amazing.. but I ended up staying as the staff were the best! So knowledgeable and sweet. It was a perfect rainy Saturday afternoon. Special shout out to the manager Sabrina (I think that's your name-sorry) she went over and above taking care of us!",
+            "published_at": "2 weeks ago",
+            "published_at_date": "2023-11-05T05:47:30.105000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 7,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/116594846532664386870/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWZOxcn1WzO_7Kpyj0odYP8msNEVcKuNnoqIzpMFf2yVr8=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Such an aesthetically pleasing brewery. Dog friendly in the front, and surprisingly large main dining room. Hot dogs look rad. Surprisingly small beer list.",
+            "reviewer_name": "JESSICA",
+            "rating": 4,
+            "review_text": "Such an aesthetically pleasing brewery. Dog friendly in the front, and surprisingly large main dining room. Hot dogs look rad. Surprisingly small beer list.",
+            "published_at": "6 months ago",
+            "published_at_date": "2023-05-01T18:12:51.559000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 208,
+            "total_number_of_photos_by_reviewer": 404,
+            "reviewer_url": "https://www.google.com/maps/contrib/107634675788822926704/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVwGNlNyR8zHPi438oULtfzYgFmVw3Iitd4K4gEI2WLVhE=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNJDIFdNlruW9QCVG3coNuURZ9nxXhmVAJq8IlH=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOHQQSiHrZJWMYZQjTIu3FqyNWPOXmgwjhU7axT=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Beautiful interior, good selection of beer, every beer we tried is quite special.",
+            "reviewer_name": "Henry Chen",
+            "rating": 5,
+            "review_text": "Beautiful interior, good selection of beer, every beer we tried is quite special.",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-18T05:36:57.429000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 648,
+            "total_number_of_photos_by_reviewer": 2316,
+            "reviewer_url": "https://www.google.com/maps/contrib/109970382848645014352/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWr7ZTRFAn_LJEc2gTNQuL_NWdl0Mv9-Zqw85ZTh3dVJvI=s120-c-rp-mo-ba6-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPlSC4ffMgboW5EOOvuUJjBzDpfpTwwJ7i0QUie=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPbaMVQ5KzsHPUDAy3Q37qb19eJm-AZoiGSd_uP=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOhWa9gh8pmF6E3bUyvIiREFFyfsRElauHXXzUV=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMkgLJfDB1WNo9ZNgVACoVUvBMgpLspgXgvJgYV=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipN8hMq1ghPMJk7XBbSxCjTO71aqPo_0MBldMwba=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNLZDfOki5Nttle7OUMMjrN3lPr6vJqChg9HiEl=w150-h150-k-no-p"
+            ]
+        }
+    ],
+    "is_spending_on_ads": false
+}

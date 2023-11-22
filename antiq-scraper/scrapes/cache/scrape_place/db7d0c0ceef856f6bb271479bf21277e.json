@@ -1,0 +1,689 @@
+{
+    "place_id": "ChIJZ04tZ9ZzhlQRDsJZp_cOS4U",
+    "name": "Blue Water Cafe",
+    "description": "Destination in a heritage warehouse space offering sustainable seafood with innovative touches.",
+    "reviews": 2779,
+    "website": "http://www.bluewatercafe.net/",
+    "owner": {
+        "id": "104031234057247974385",
+        "name": "Blue Water Cafe (Owner)",
+        "link": "https://www.google.com/maps/contrib/104031234057247974385"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNxRb5tv6HtVD8I8nlW-GkFwrqmbUnXHLGjqbuU=w408-h270-k-no",
+    "main_category": "Seafood restaurant",
+    "categories": [
+        "Seafood restaurant"
+    ],
+    "rating": 4.7,
+    "workday_timing": "4:30-10 p.m.",
+    "closed_on": [],
+    "phone": "(604) 688-8078",
+    "address": "Blue Water Cafe, 1095 Hamilton St, Vancouver, BC V6B 5T4",
+    "review_keywords": [
+        {
+            "keyword": "sablefish",
+            "count": 159
+        },
+        {
+            "keyword": "wine list",
+            "count": 46
+        },
+        {
+            "keyword": "halibut",
+            "count": 34
+        },
+        {
+            "keyword": "fine dining",
+            "count": 22
+        },
+        {
+            "keyword": "tenderloin",
+            "count": 17
+        },
+        {
+            "keyword": "kobe beef",
+            "count": 16
+        },
+        {
+            "keyword": "seafood tasting",
+            "count": 14
+        },
+        {
+            "keyword": "sommelier",
+            "count": 12
+        },
+        {
+            "keyword": "jellyfish",
+            "count": 10
+        },
+        {
+            "keyword": "spicy tuna roll",
+            "count": 7
+        }
+    ],
+    "link": "https://www.google.com/maps/place/Blue+Water+Cafe/data=!4m7!3m6!1s0x548673d6672d4e67:0x854b0ef7a759c20e!8m2!3d49.276155!4d-123.1211291!16s%2Fm%2F04xhnhq!19sChIJZ04tZ9ZzhlQRDsJZp_cOS4U?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 4:30 p.m.",
+    "price_range": "$$$$",
+    "reviews_per_rating": {
+        "1": 39,
+        "2": 42,
+        "3": 109,
+        "4": 433,
+        "5": 2156
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJZ04tZ9ZzhlQRDsJZp_cOS4U&q=Blue+Water+Cafe&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.276154999999996,
+        "longitude": -123.12112909999999
+    },
+    "plus_code": "7VGH+FG Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "Downtown Vancouver",
+        "street": "1095 Hamilton St",
+        "city": "Vancouver",
+        "postal_code": "V6B 5T4",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "9604787087125103118",
+    "data_id": "0x548673d6672d4e67:0x854b0ef7a759c20e",
+    "menu": {
+        "link": "http://www.bluewatercafe.net/",
+        "source": "bluewatercafe.net"
+    },
+    "reservations": [
+        {
+            "link": "https://www.bluewatercafe.net/reservations/%3FtriggerSevenrooms%3Dtrue",
+            "source": "bluewatercafe.net"
+        },
+        {
+            "link": "https://www.google.com/maps/reserve/v/dine/c/qylhic2bpVY?source=pa",
+            "source": "google.com"
+        }
+    ],
+    "order_online_links": [
+        {
+            "link": "https://www.bluewatercafe.net/reservations/?triggerSevenrooms=true",
+            "source": "bluewatercafe.net"
+        },
+        {
+            "link": "https://www.google.com/maps/reserve/v/dine/c/qylhic2bpVY?source=pa",
+            "source": "google.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Outdoor seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Dine-in",
+                    "enabled": true
+                },
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "highlights",
+            "name": "Highlights",
+            "options": [
+                {
+                    "name": "Great cocktails",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair accessible seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Alcohol",
+                    "enabled": true
+                },
+                {
+                    "name": "Beer",
+                    "enabled": true
+                },
+                {
+                    "name": "Cocktails",
+                    "enabled": true
+                },
+                {
+                    "name": "Coffee",
+                    "enabled": true
+                },
+                {
+                    "name": "Hard liquor",
+                    "enabled": true
+                },
+                {
+                    "name": "Healthy options",
+                    "enabled": true
+                },
+                {
+                    "name": "Late-night food",
+                    "enabled": true
+                },
+                {
+                    "name": "Private dining room",
+                    "enabled": true
+                },
+                {
+                    "name": "Small plates",
+                    "enabled": true
+                },
+                {
+                    "name": "Vegetarian options",
+                    "enabled": true
+                },
+                {
+                    "name": "Wine",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Dining options",
+            "options": [
+                {
+                    "name": "Lunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Dinner",
+                    "enabled": true
+                },
+                {
+                    "name": "Dessert",
+                    "enabled": true
+                },
+                {
+                    "name": "Seating",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Bar on-site",
+                    "enabled": true
+                },
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                },
+                {
+                    "name": "Wi-Fi",
+                    "enabled": true
+                },
+                {
+                    "name": "Wi-Fi",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosphere",
+            "options": [
+                {
+                    "name": "Cozy",
+                    "enabled": true
+                },
+                {
+                    "name": "Romantic",
+                    "enabled": true
+                },
+                {
+                    "name": "Upscale",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "crowd",
+            "name": "Crowd",
+            "options": [
+                {
+                    "name": "Family-friendly",
+                    "enabled": true
+                },
+                {
+                    "name": "Groups",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planning",
+            "options": [
+                {
+                    "name": "Reservations required",
+                    "enabled": true
+                },
+                {
+                    "name": "Accepts reservations",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "children",
+            "name": "Children",
+            "options": [
+                {
+                    "name": "High chairs",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "parking",
+            "name": "Parking",
+            "options": [
+                {
+                    "name": "Paid street parking",
+                    "enabled": true
+                },
+                {
+                    "name": "Parking",
+                    "enabled": true
+                },
+                {
+                    "name": "Valet parking",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNxRb5tv6HtVD8I8nlW-GkFwrqmbUnXHLGjqbuU=w449-h298-k-no"
+        },
+        {
+            "about": "Latest",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMvIhmsXS2pVehOts-hS-OQWRTxN3v_qKyJ3ySn=w395-h298-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPAdzoifPgp2lN7uHaco--jIB5eM07PzT_PuIqw=w224-h398-k-no"
+        },
+        {
+            "about": "Menu",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPnYwf2owrS8ckEajy2TtAT92MG1IWIevYoWc69=w224-h329-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipM9OKlSUva7Dsr84sSWErOfGeB7Q8czn_V-1kyz=w224-h298-k-no"
+        },
+        {
+            "about": "Vibe",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNj_mt5U7L9KW56kCo6cjDOtyOiJUMdUM04oe4G=w224-h398-k-no"
+        },
+        {
+            "about": "Sea bass",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPqpjkN1nETYqRE43IcG8LE_jVS2jFKvsQqAtKE=w395-h298-k-no"
+        },
+        {
+            "about": "Seafood",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOxuy_hyuLnNs0n5VIH76G-ZFgfybdI19RitNBl=w224-h335-k-no"
+        },
+        {
+            "about": "Oyster",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPZp4D9Uk4UA4K0ydjEIj57LtFI2aH86mzlOR5Q=w397-h298-k-no"
+        },
+        {
+            "about": "Sushi",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPtbXz9YmH3pSXM8rPJnhuGmmO7OpkI5f8EqjCr=w374-h298-k-no"
+        },
+        {
+            "about": "Scallops",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMPAxBowK8iq4unAoixlhp_ueDOEV8hbj5ESNFF=w529-h298-k-no"
+        },
+        {
+            "about": "Ceviche",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPx-BVU7MUVVpPAGtGNldxHomn1Y24AfGsh9704=w397-h298-k-no"
+        },
+        {
+            "about": "Smoked salmon",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPKwvJ10-L7ZjjohBeUnrb4Cnq6qiMyIzHc1CLY=w224-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPqblZi1eDTeTWfEEuXQaPijP8ixyzLfi3OXBbB=w449-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPB9mY6rGSBZD23PNia0sDNbDZ19Xw_LvZqGakb=w224-h298-k-no-pi-10-ya340-ro0-fo100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "4:30-10 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "4:30-10 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "4:30-10 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "4:30-11:30 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "4:30-11:30 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "4:30-11:30 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "4:30-10 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "What an amazing experience!  I am so glad to choose this restaurant to celebrate my partner's birthday. Best service ever! Thanks million times to Jennifer. She provided us the best dining experience ever. Food is just another level in Vancouver and still I can taste it in my mouth. Atmosphere is amazing and there is nothing to make it better. In short we had a great night. Thank you so much all! We can't wait to come back and have another awesome night!",
+            "reviewer_name": "Ridvan Karamuk",
+            "rating": 5,
+            "review_text": "What an amazing experience!  I am so glad to choose this restaurant to celebrate my partner's birthday. Best service ever! Thanks million times to Jennifer. She provided us the best dining experience ever. Food is just another level in Vancouver and still I can taste it in my mouth. Atmosphere is amazing and there is nothing to make it better. In short we had a great night. Thank you so much all! We can't wait to come back and have another awesome night!",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-12T07:39:58.717000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 14,
+            "total_number_of_photos_by_reviewer": 8,
+            "reviewer_url": "https://www.google.com/maps/contrib/109622692145573238739/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW55mzzpzzJ10u86UznTTUZ8QIlcVeq3P-PDVf20TTRMGg=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMhqFTBCTXKuFBepQxEQw3EL6iVBCEOZ863YQ_m=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipME-eyj3GwAVOI9lJZTR6D8SjmTro7wyqlIgeXW=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPltZZyboLCJgcCAJINQGN471ncW2ZuY15UhbtH=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPo0F4Gzw8euCFU8JXVPRPnACLwbB-jPFZQPsSo=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPISYO0I8aXDeoYamcaXwvk9TRd-rzWxZL4noj_=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipP9eYfGmay52UhmQXopn2Y08OX6HS0ANwrhD5aC=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Loved the customer service and thoroughly enjoyed the food! Excellent table service. Highly recommend the sable dish and beef tenderloin. We also added sides of broccolini and heirloom carrots. Cocktails were pretty decent and the wine menu was great. We would happily be back.",
+            "reviewer_name": "J.J. LaRocque",
+            "rating": 5,
+            "review_text": "Loved the customer service and thoroughly enjoyed the food! Excellent table service. Highly recommend the sable dish and beef tenderloin. We also added sides of broccolini and heirloom carrots. Cocktails were pretty decent and the wine menu was great. We would happily be back.",
+            "published_at": "3 weeks ago",
+            "published_at_date": "2023-10-29T17:12:20.174000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 123,
+            "total_number_of_photos_by_reviewer": 756,
+            "reviewer_url": "https://www.google.com/maps/contrib/114637066728490620540/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUMGvqDsUuJHJIl54hpC_x3IuCmGr6lZU0qIZKVJODsVuI=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPFbNuqJosxfIDCTSP5fdO_w4oeNypW1A9aj09K=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipO57gkPJThyDe1Emu9EAVXxHWwxr703zcyy-2Os=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMC0WSZOaHXHYVrikJyDg4JjlRCF6Zs7XvSsIJP=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNbQgi2B1uqSBg2m8-cpeAN0_UOd0DzesfIKOTU=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNu72tmt-NWNR3vHsWWHmuJNPMPUvq2qxM_HJh9=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOtzYTU1iLTvS44LKJnowc1QQd9lE-9TPGigj7k=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMjHgVC07AEPzZzqjftFiDQpB__4lZ_gtKAZAdy=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMG6QFb-zGMQktx_pryQ4ry--st5IveIR66aW-G=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMqFLbdi3dceYv1HSqwOC2f5v_qNs8jVNYtyZWX=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPhxi1QAxNNnh_zvTQWMzORJCAzxwrPiAplUQPY=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Selected this venue for our final family dinner during my parents' visit, and it turned out to be the ideal setting for creating cherished memories with my loved ones.\n\nBenoit's exceptional service made the night much better. His expertise and pleasant demeanor were truly commendable.\nFood was also amazing! I would say seafood tower is for 3-4 people to share.\n\nI highly recommend this restaurant, particularly for special occasions.",
+            "reviewer_name": "Nae Hase",
+            "rating": 5,
+            "review_text": "Selected this venue for our final family dinner during my parents' visit, and it turned out to be the ideal setting for creating cherished memories with my loved ones.\n\nBenoit's exceptional service made the night much better. His expertise and pleasant demeanor were truly commendable.\nFood was also amazing! I would say seafood tower is for 3-4 people to share.\n\nI highly recommend this restaurant, particularly for special occasions.",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-18T14:07:58.402000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 3,
+            "reviewer_url": "https://www.google.com/maps/contrib/101784783542171942925/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVT5hsFXnc8SnKX1whDKQnbFuj9zvV0eabIM43ugzR9EQ=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOO8fO3bO-QtRhmIjDvRZ0eGqGCAAbFUHpdxL5k=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipP3n7bgunaU8GNV_lvBBGSxSFIW6Rsf0pIYVvp8=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNZxy8gx9zllHKoQFaCBN63B0KA_VJMWO8iL1oU=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "We hired this cafe for our business functions for 2 nights as part of a major conference. The food, service and atmosphere of the restaurant are second to none. A wonderful experience from the time we all walked in until it finished. Couldn't recommend it more highly.",
+            "reviewer_name": "Revital Youthspan",
+            "rating": 5,
+            "review_text": "We hired this cafe for our business functions for 2 nights as part of a major conference. The food, service and atmosphere of the restaurant are second to none. A wonderful experience from the time we all walked in until it finished. Couldn't recommend it more highly.",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-01T04:20:47.544000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 109,
+            "total_number_of_photos_by_reviewer": 788,
+            "reviewer_url": "https://www.google.com/maps/contrib/103683809328890812109/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUs8DTox2BFdwbnNyCBHBFUyXhbvVjXaN7eRiETGeyZvg=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMPzFBQ8r9EiHejd7Ebx1H3ExeesrSEwsU5yDy6=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMsraw_iKBm8BntZ7ZcgSLZcdKsb1uEE-fqCx1T=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipM6u2VQ8Cmr7__futuCFTIuKI7udU2dQUAp7Siv=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNS65J2DCZyfQoUWyIQPRYKk3GjcGL3h0AhfN-2=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMomw0jAq59OtoTMGjyfdkSq5U8wQ3O7Y1xBm5O=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOe1SEyyV92PIhA3EsAK1qy1JJBOrancD3VFZ44=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMnyShgX4nv-D35uP2NmRXOeUNKZtQX70Vu7bwZ=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOB4ZiPZPBruanxOXVeGAWcxXZuinRo0tGy4Rzi=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipM6BJ4LS6eYG7T_y3xci54GlvK8HeyICvIXiWfg=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNc6zWhQGOmj0Y7FLZNKaaqm0I8ZCwNoCWG0W3r=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPnmO36gx4B9NOJTHAdaj3RIFRYxcMmu3xfXrsM=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMu6UW4zFK4T8r9k2GG_8kXLyFKL9eTJ7t8eKmk=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNkNOurEn87PCyEQ1l1POVArtD_Gpj6RX_tZoJF=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "One of the most high end restaurants in Van, Yaletown. Everyone has their opinion on whether the food worth the price. My opinion is it's a bit overpriced.\n\n- The calamari was decent, but not phenomenal. Not worth double or triple price.\n- we ordered another scallop. To be honest nothing really stands out. They are fresh but not meet our expectation.\n\nThis place is definitely for special occasion. However it's getting pretty crowded and the tables are close. May not comeback.",
+            "reviewer_name": "Michael Yin",
+            "rating": 4,
+            "review_text": "One of the most high end restaurants in Van, Yaletown. Everyone has their opinion on whether the food worth the price. My opinion is it's a bit overpriced.\n\n- The calamari was decent, but not phenomenal. Not worth double or triple price.\n- we ordered another scallop. To be honest nothing really stands out. They are fresh but not meet our expectation.\n\nThis place is definitely for special occasion. However it's getting pretty crowded and the tables are close. May not comeback.",
+            "published_at": "2 weeks ago",
+            "published_at_date": "2023-11-05T06:48:47.185000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 77,
+            "total_number_of_photos_by_reviewer": 136,
+            "reviewer_url": "https://www.google.com/maps/contrib/103216562679170867022/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVuo562vlsXfzSifxhWm8MJvaCK6_tw1neoE72R-lqOzYY=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNQhvqXDyOyofcZdk0rgYdeqGhzA25Gm2mXZQo8=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOmYFxeStSKxDZMh7EABnzRimqK5xXVO3khHXd1=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPADp42gP1W1BVV_V6XnBaRa152ear3gulWgM1R=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOJT61LrDCiD17dnPv1px_8CfYVb0ZoAlzmvjZQ=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipP3bk5WmYsMzDGgktjbHdrI9EGABYpPXAcrRpFS=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Came with a group of 7 on a chilly night for a special dinner. It was a busy Friday night. First the good, the food was better than I remembered it being. Everything was very flavourful and well presented, the was perfectly cooked (previously I'd been served Sable fish that was raw in the middle).\n\nWhat wasn't great was the service, yes it was a busy night and our server was trying to be present but it seemed obvious he was rushed when he did check in, combined with a long pause between appys and dinner, then another long pause before we were asked about desert then our coffees didn't come till after we were done with desert. Although the bill managed to show up well before we were done. At this point the restaurant was not busy.\n\nLastly our server managed to cut himself and put out plates for appys with blood smears on them and didn't.notice till I asked another server who very quickly swept them up. Appys arrived without replacement plates until it was pointed out. Not a good performance for premiere dining....",
+            "reviewer_name": "Peter Powell",
+            "rating": 4,
+            "review_text": "Came with a group of 7 on a chilly night for a special dinner. It was a busy Friday night. First the good, the food was better than I remembered it being. Everything was very flavourful and well presented, the was perfectly cooked (previously I'd been served Sable fish that was raw in the middle).\n\nWhat wasn't great was the service, yes it was a busy night and our server was trying to be present but it seemed obvious he was rushed when he did check in, combined with a long pause between appys and dinner, then another long pause before we were asked about desert then our coffees didn't come till after we were done with desert. Although the bill managed to show up well before we were done. At this point the restaurant was not busy.\n\nLastly our server managed to cut himself and put out plates for appys with blood smears on them and didn't.notice till I asked another server who very quickly swept them up. Appys arrived without replacement plates until it was pointed out. Not a good performance for premiere dining....",
+            "published_at": "3 days ago",
+            "published_at_date": "2023-11-19T05:23:33.536000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 254,
+            "total_number_of_photos_by_reviewer": 1767,
+            "reviewer_url": "https://www.google.com/maps/contrib/101606395409126814005/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUNpolm8x0hggt2xKFdWbTc29cL1QE1Io3rryQ4Ms8eiQI=s120-c-rp-mo-ba6-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPOsXLnHMzgC3GSqkyChgBfwaYET9k7K5hvtuqF=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMvIhmsXS2pVehOts-hS-OQWRTxN3v_qKyJ3ySn=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNJvtoLPz1xPI9bhPSj0PLmw0WJjVTWgtNiHlyb=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOsnF94Epb7FbZXVCE0jslle_nD8qbI1uKgrKDf=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOKqOFk9O4tM_V4WoHXdX4fHU-R2J8DQYGo323Y=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipO9zXHDu9YSjfWCxBJc7GsGq5ZcdwvE7wARpQSQ=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMJ-8tx4ZC7D4vOggpcVd1vVyV2NS1w5oKUQ3F1=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPZZnYkOKm4ZupIJq-E_nzoAwQnCpVax1z7gpjF=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOtxIXP3I0wcDOJPGNCOUBP5YzOzE-dTZrBIr31=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOyZyCzJ2mN25ngsnB67ycaXfP5LuwRNZh5jrDq=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOYFYMKWmyQ1Vj9K5DB1-5OC3dUKJkDWGlE3BiN=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipP08oLgMdXxFp9CmRJLoh1LqQQzxykmqKVJS5vX=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipO85pWiF6jO0Ziu45AKFyU4XDbKfM1PAJ0gWVXA=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMTkhkRDWAIv2B3xO-WEKFOA48LSzwJAIhEE_jD=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOGxKw_entzWegMsON3Z7aryYboLL-pddKJ_2Yp=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNeMxIzRz7wWfbMmed0Og35AJkicOT7_EKxiINM=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Went for dinner last night and was absolutely blown away by the service. While the food was amazing, the service was incomparable! My friends and I had the pleasure of dining with Tara and her colleagues and this was by far my best dining experience in the city (and I'm a local)!\n\nTara was knowledgeable, attentive and just a pleasure to be around. From the moment we arrived we were warmly greeted and never once did we have to try and seek her attention as she was always checking in. Any time someone left the table, her and her team were quick ensure settings and napkins remained tidy and presentable upon our arrival back. Tara explained the menu in detail and was quick to recommend food and beverage pairings that we were all pleased with. The food was beautifully presented, tasted great and everyone was satisfied.\n\nWhile I don't have photos of everything we ordered, the raw oysters were fresh and sweet, prawns were plump and juicy, and sashimi was fresh and paired with an in house soy sauce. I ordered the beef tenderloin and asked for it to be cooked between medium rare and rare and it was cooked to perfection. It was tender, seared crisp on the outside and juicy on the inside. I also ordered the truffle fries as a side and will say you have to try them!\n\nTara is a gem and I want to thank her and the staff for creating such a welcoming atmosphere that was paired with amazing food! I don't know how it took me so long to come here but can definitely say I will be back.\n\nMake your reservation now and thank me later!",
+            "reviewer_name": "Sarah Kwan PREC",
+            "rating": 5,
+            "review_text": "Went for dinner last night and was absolutely blown away by the service. While the food was amazing, the service was incomparable! My friends and I had the pleasure of dining with Tara and her colleagues and this was by far my best dining experience in the city (and I'm a local)!\n\nTara was knowledgeable, attentive and just a pleasure to be around. From the moment we arrived we were warmly greeted and never once did we have to try and seek her attention as she was always checking in. Any time someone left the table, her and her team were quick ensure settings and napkins remained tidy and presentable upon our arrival back. Tara explained the menu in detail and was quick to recommend food and beverage pairings that we were all pleased with. The food was beautifully presented, tasted great and everyone was satisfied.\n\nWhile I don't have photos of everything we ordered, the raw oysters were fresh and sweet, prawns were plump and juicy, and sashimi was fresh and paired with an in house soy sauce. I ordered the beef tenderloin and asked for it to be cooked between medium rare and rare and it was cooked to perfection. It was tender, seared crisp on the outside and juicy on the inside. I also ordered the truffle fries as a side and will say you have to try them!\n\nTara is a gem and I want to thank her and the staff for creating such a welcoming atmosphere that was paired with amazing food! I don't know how it took me so long to come here but can definitely say I will be back.\n\nMake your reservation now and thank me later!",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-06-26T06:55:01.719000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 4,
+            "total_number_of_reviews_by_reviewer": 11,
+            "total_number_of_photos_by_reviewer": 14,
+            "reviewer_url": "https://www.google.com/maps/contrib/102048389309162188412/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUXKMYCfdu_lmZu0BjAmP-WJzC7jcxiPdnNPmSIfPRl6ygu=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMeMlQfUc7SExmPTEqmDeh9GpGzcloeCJhi5BkC=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMdo6wqxw1eZnnUsf-47z4s9F2ABcQ85Yn8JMoc=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOVPzYu6ELgWnAaXM5KA1QFr63o9HoQW0ev4ho_=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipP6_CvX20S7PY4_cJ4tHFAUaZJoCu7pE9DDvtq6=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNns1z2rpLVcQhnMRvu3fO6x5veCHxzuWvD3kpN=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Came here last night for my one year anniversary with my partners. The place was very accommodating about letting us move our reservation up a bit from when we originally set it. The place is very beautiful, well decorated and very elegant yet cozy. We sat on the enclosed patio and the temperature was perfect, not to mention the ivy covered lanterns giving soft romantic light to the room. We were given a hand written congratulations from the restaurant, which was a very sweet personal touch. Our server, Phillip, was engaging, charming, and was very well versed on the menu. Any question he couldn't answer he was quick to ask the kitchen. He also checked in with us all night and was constantly refilling our waters. It was a very royal treatment we did not expect at that price point, for certain. We got the two tier seafood platter, the scallops entre, and a beef tenderloin to split. Not only were they very attentive to my dairy allergy, and my wife's peanut allergy, but everything we tried exceeded our expectations. Never had jellyfish before here and I would for certain try it again. The oysters were fresh and absolutely something I was excited for as an oyster lover, I was not disappointed. In terms of accessibility I'd say very for a wheelchair, but I was having a good day so walked in with my cane. The parking is subject to downtown and I didn't see a disabled spot, but that doesn't mean they aren't there. Likely just filled before we got there. However they do offer valet services. They are very accommodating if you call ahead. Definitely recommend this place to seafood lovers looking for a nice elegant date spot.",
+            "reviewer_name": "Sarah Adams",
+            "rating": 5,
+            "review_text": "Came here last night for my one year anniversary with my partners. The place was very accommodating about letting us move our reservation up a bit from when we originally set it. The place is very beautiful, well decorated and very elegant yet cozy. We sat on the enclosed patio and the temperature was perfect, not to mention the ivy covered lanterns giving soft romantic light to the room. We were given a hand written congratulations from the restaurant, which was a very sweet personal touch. Our server, Phillip, was engaging, charming, and was very well versed on the menu. Any question he couldn't answer he was quick to ask the kitchen. He also checked in with us all night and was constantly refilling our waters. It was a very royal treatment we did not expect at that price point, for certain. We got the two tier seafood platter, the scallops entre, and a beef tenderloin to split. Not only were they very attentive to my dairy allergy, and my wife's peanut allergy, but everything we tried exceeded our expectations. Never had jellyfish before here and I would for certain try it again. The oysters were fresh and absolutely something I was excited for as an oyster lover, I was not disappointed. In terms of accessibility I'd say very for a wheelchair, but I was having a good day so walked in with my cane. The parking is subject to downtown and I didn't see a disabled spot, but that doesn't mean they aren't there. Likely just filled before we got there. However they do offer valet services. They are very accommodating if you call ahead. Definitely recommend this place to seafood lovers looking for a nice elegant date spot.",
+            "published_at": "2 weeks ago",
+            "published_at_date": "2023-11-06T22:45:12.923000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 24,
+            "total_number_of_photos_by_reviewer": 7,
+            "reviewer_url": "https://www.google.com/maps/contrib/103595568902297080202/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWOn-vGb8M2XenC9E-_CPMI_I8lBNDVRS5aboMmAN8JX0A=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPKGpzonQZdRNLxHd9PXlsGSMIA5Dbwj-2rSZxN=w150-h150-k-no-p"
+            ]
+        }
+    ],
+    "is_spending_on_ads": false
+}

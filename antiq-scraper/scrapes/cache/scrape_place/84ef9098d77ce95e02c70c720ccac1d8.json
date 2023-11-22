@@ -1,0 +1,81 @@
+{
+    "place_id": "ChIJ55gK_E10hlQRYBj_xkqfVgc",
+    "name": "BYL Pharmaceuticals Ltd",
+    "description": null,
+    "reviews": null,
+    "website": "http://bylpharm.com/",
+    "owner": {
+        "id": null,
+        "name": "BYL Pharmaceuticals Ltd (Owner)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=LaACC_QIl7q8oGfk_fScKA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=262.20657&pitch=0&thumbfov=100",
+    "main_category": "Pharmaceutical company",
+    "categories": [
+        "Pharmaceutical company"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": [],
+    "phone": "(604) 327-4189",
+    "address": "BYL Pharmaceuticals Ltd, 418 East Kent Ave N, Vancouver, BC V5X 2X7",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/BYL+Pharmaceuticals+Ltd/data=!4m7!3m6!1s0x5486744dfc0a98e7:0x7569f4ac6ff1860!8m2!3d49.2085324!4d-123.0869986!16s%2Fg%2F11gmcdhmt2!19sChIJ55gK_E10hlQRYBj_xkqfVgc?authuser=0&hl=en&rclk=1",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ55gK_E10hlQRYBj_xkqfVgc&q=BYL+Pharmaceuticals+Ltd&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.208532399999996,
+        "longitude": -123.0869986
+    },
+    "plus_code": "6W57+C6 Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "South Vancouver",
+        "street": "418 East Kent Ave N",
+        "city": "Vancouver",
+        "postal_code": "V5X 2X7",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "528785149777614944",
+    "data_id": "0x5486744dfc0a98e7:0x7569f4ac6ff1860",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=LaACC_QIl7q8oGfk_fScKA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=262.20657&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=LaACC_QIl7q8oGfk_fScKA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=262.20657&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

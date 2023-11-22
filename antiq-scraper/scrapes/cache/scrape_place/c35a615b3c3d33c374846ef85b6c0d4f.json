@@ -1,0 +1,720 @@
+{
+    "place_id": "ChIJne5yIJF2hlQR--ivmQJAexw",
+    "name": "Jambo Grill Tandoor & Paan House",
+    "description": "Diverse menu of East African & Indian dishes in spacious quarters plus delivery service.",
+    "reviews": 1534,
+    "website": "http://www.jambogrill.ca/",
+    "owner": {
+        "id": "111742860019533613723",
+        "name": "Jambo Grill Tandoor & Paan House (Owner)",
+        "link": "https://www.google.com/maps/contrib/111742860019533613723"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipODPx66Ywd-GX71YKNyFyxN_d-b_sRPUQfgGQRn=w501-h240-k-no",
+    "main_category": "Fusion restaurant",
+    "categories": [
+        "Fusion restaurant",
+        "Bar & grill",
+        "Brunch restaurant",
+        "Caterer",
+        "East African restaurant",
+        "Family restaurant",
+        "Indian restaurant",
+        "Lunch restaurant",
+        "Delivery Restaurant",
+        "Takeout Restaurant"
+    ],
+    "rating": 4.2,
+    "workday_timing": "11 a.m.-10 p.m.",
+    "closed_on": [],
+    "phone": "(604) 433-5060",
+    "address": "Jambo Grill Tandoor & Paan House, 3219 Kingsway, Vancouver, BC V5R 5K3",
+    "review_keywords": [
+        {
+            "keyword": "indian food",
+            "count": 64
+        },
+        {
+            "keyword": "african food",
+            "count": 51
+        },
+        {
+            "keyword": "naan",
+            "count": 39
+        },
+        {
+            "keyword": "biryani",
+            "count": 27
+        },
+        {
+            "keyword": "butter chicken",
+            "count": 22
+        },
+        {
+            "keyword": "chai",
+            "count": 20
+        },
+        {
+            "keyword": "thali",
+            "count": 18
+        },
+        {
+            "keyword": "pili pili",
+            "count": 18
+        },
+        {
+            "keyword": "lamb curry",
+            "count": 10
+        },
+        {
+            "keyword": "tilapia",
+            "count": 7
+        }
+    ],
+    "link": "https://www.google.com/maps/place/Jambo+Grill+Tandoor+%26+Paan+House/data=!4m7!3m6!1s0x548676912072ee9d:0x1c7b400299afe8fb!8m2!3d49.2349794!4d-123.0371333!16s%2Fg%2F1tdqb866!19sChIJne5yIJF2hlQR--ivmQJAexw?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 11 a.m.",
+    "price_range": "$$",
+    "reviews_per_rating": {
+        "1": 111,
+        "2": 56,
+        "3": 130,
+        "4": 376,
+        "5": 861
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJne5yIJF2hlQR--ivmQJAexw&q=Jambo+Grill+Tandoor+%26+Paan+House&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.2349794,
+        "longitude": -123.0371333
+    },
+    "plus_code": "6XM7+X4 Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "South Vancouver",
+        "street": "3219 Kingsway",
+        "city": "Vancouver",
+        "postal_code": "V5R 5K3",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "2052304435109947643",
+    "data_id": "0x548676912072ee9d:0x1c7b400299afe8fb",
+    "menu": {
+        "link": "https://jambogrill.ca/menu/",
+        "source": "jambogrill.ca"
+    },
+    "reservations": [
+        {
+            "link": "https://jambogrill.ca/reservations/",
+            "source": "jambogrill.ca"
+        }
+    ],
+    "order_online_links": [
+        {
+            "link": "https://jambogrill.ca/menu",
+            "source": "jambogrill.ca"
+        },
+        {
+            "link": "https://www.ubereats.com/ca/store/jambo-grill/AIdxZgfjSViBzFYArIgWaA?utm_campaign=place-action-link&utm_medium=organic&utm_source=google",
+            "source": "ubereats.com"
+        },
+        {
+            "link": "https://www.skipthedishes.com/jambo-grill?serviceType=collection&utm_source=google&utm_medium=organic&utm_campaign=gpav2",
+            "source": "skipthedishes.com"
+        },
+        {
+            "link": "https://www.food.ee/restaurants/vancouver/jambo-grill/",
+            "source": "food.ee"
+        },
+        {
+            "link": "https://www.doordash.com/store/jambo-grill-vancouver-31014/?utm_campaign=gpa",
+            "source": "doordash.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Curbside pickup",
+                    "enabled": true
+                },
+                {
+                    "name": "No-contact delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Takeout",
+                    "enabled": true
+                },
+                {
+                    "name": "Dine-in",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "highlights",
+            "name": "Highlights",
+            "options": [
+                {
+                    "name": "Great cocktails",
+                    "enabled": true
+                },
+                {
+                    "name": "Great tea selection",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair accessible seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Alcohol",
+                    "enabled": true
+                },
+                {
+                    "name": "Beer",
+                    "enabled": true
+                },
+                {
+                    "name": "Cocktails",
+                    "enabled": true
+                },
+                {
+                    "name": "Coffee",
+                    "enabled": true
+                },
+                {
+                    "name": "Halal food",
+                    "enabled": true
+                },
+                {
+                    "name": "Happy hour food",
+                    "enabled": true
+                },
+                {
+                    "name": "Hard liquor",
+                    "enabled": true
+                },
+                {
+                    "name": "Healthy options",
+                    "enabled": true
+                },
+                {
+                    "name": "Late-night food",
+                    "enabled": true
+                },
+                {
+                    "name": "Organic dishes",
+                    "enabled": true
+                },
+                {
+                    "name": "Small plates",
+                    "enabled": true
+                },
+                {
+                    "name": "Vegan options",
+                    "enabled": true
+                },
+                {
+                    "name": "Vegetarian options",
+                    "enabled": true
+                },
+                {
+                    "name": "Wine",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Dining options",
+            "options": [
+                {
+                    "name": "Breakfast",
+                    "enabled": true
+                },
+                {
+                    "name": "Brunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Lunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Dinner",
+                    "enabled": true
+                },
+                {
+                    "name": "Catering",
+                    "enabled": true
+                },
+                {
+                    "name": "Counter service",
+                    "enabled": true
+                },
+                {
+                    "name": "Dessert",
+                    "enabled": true
+                },
+                {
+                    "name": "Seating",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Bar on-site",
+                    "enabled": true
+                },
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                },
+                {
+                    "name": "Wi-Fi",
+                    "enabled": true
+                },
+                {
+                    "name": "Wi-Fi",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosphere",
+            "options": [
+                {
+                    "name": "Casual",
+                    "enabled": true
+                },
+                {
+                    "name": "Cozy",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "crowd",
+            "name": "Crowd",
+            "options": [
+                {
+                    "name": "Family-friendly",
+                    "enabled": true
+                },
+                {
+                    "name": "Groups",
+                    "enabled": true
+                },
+                {
+                    "name": "LGBTQ+ friendly",
+                    "enabled": true
+                },
+                {
+                    "name": "Transgender safe space",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planning",
+            "options": [
+                {
+                    "name": "Accepts reservations",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "children",
+            "name": "Children",
+            "options": [
+                {
+                    "name": "Good for kids",
+                    "enabled": true
+                },
+                {
+                    "name": "High chairs",
+                    "enabled": true
+                },
+                {
+                    "name": "Kids' menu",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "parking",
+            "name": "Parking",
+            "options": [
+                {
+                    "name": "Free parking lot",
+                    "enabled": true
+                },
+                {
+                    "name": "Free street parking",
+                    "enabled": true
+                },
+                {
+                    "name": "Paid street parking",
+                    "enabled": true
+                },
+                {
+                    "name": "Parking",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipODPx66Ywd-GX71YKNyFyxN_d-b_sRPUQfgGQRn=w622-h298-k-no"
+        },
+        {
+            "about": "Latest",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNStRaKrBVKQOaUt5jdFCwEZOzJe43EEpGTKQOH=w397-h298-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipN-CAFfQDmU5fPkQ63CfEkZ-RteKjKKj0t8GX8=w224-h398-k-no"
+        },
+        {
+            "about": "Menu",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPiRygKTIaPpmpGRPXFxMftrIV0wNGhrvxwD7Y8=w224-h298-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPW1sUCyfw4ihXdC0Pn-xJXUkqpOlH1EhXyc8Zi=w447-h298-k-no"
+        },
+        {
+            "about": "Vibe",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOnOJ3o53D_OZRUOuK29xZ51jZizwNIpOe_53y7=w397-h298-k-no"
+        },
+        {
+            "about": "Thali",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipM_PQj_9galpqaKzHeQODHSjIiiu_VyFF555R1B=w224-h298-k-no"
+        },
+        {
+            "about": "Bhel puri",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPU8utANnBacJRA8dOxLBg18I9ZUx6LUSFfLwjl=w224-h298-k-no"
+        },
+        {
+            "about": "Naan",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMQKH0D9CJ333amV4gqHu7HBCwIrqMrRHkdWEjN=w529-h298-k-no"
+        },
+        {
+            "about": "Coffee",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipM4ZZPo42IL5l-xg21FdfH-n4aFpyfrNfOHucyW=w224-h298-k-no"
+        },
+        {
+            "about": "Samosa",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPRS3y1KEG94B6FXRY4bWpmCbnAMQIxqb_Qq0hg=w224-h298-k-no"
+        },
+        {
+            "about": "Juice",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOceQkKZ3QU-h8H_Yr589bdIvXT1H6kXV910Tf3=w224-h298-k-no"
+        },
+        {
+            "about": "Bar",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPWpFs-s_UtK3J6Yjcb0dSrdupNPz0WKJXOnooT=w224-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOhFkgThn1I-4Rod0o0SIvXonKdktzS9rY1X7Lx=w529-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=wO5q3Up8HfnfvJNiCLsTcg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=51.661377&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "11 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "11 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "11 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "11 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "11 a.m.-11 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "11 a.m.-11 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "11 a.m.-10 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "Some of the best butter chicken I have ever had. I have passed this place for years and never went in but man am I glad I did. I got their butter chicken pasta and was not disappointed. Huge portion, great flavor, the perfect amount of spice for me. Would recommend and I will be back to try more of the menu.",
+            "reviewer_name": "Sailex Cahill (LinuxPony)",
+            "rating": 5,
+            "review_text": "Some of the best butter chicken I have ever had. I have passed this place for years and never went in but man am I glad I did. I got their butter chicken pasta and was not disappointed. Huge portion, great flavor, the perfect amount of spice for me. Would recommend and I will be back to try more of the menu.",
+            "published_at": "4 days ago",
+            "published_at_date": "2023-11-18T03:32:01.452000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 67,
+            "total_number_of_photos_by_reviewer": 68,
+            "reviewer_url": "https://www.google.com/maps/contrib/102145457996040732134/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVKCXSxyhlkbABQk2sbSVuYpNPIX5cDzsD1kMCdwxLhfhM=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNStRaKrBVKQOaUt5jdFCwEZOzJe43EEpGTKQOH=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "People sometimes forget we have a lot of diversity in this town! Jambo is great for African and Indian flavours. The menu reflects this and is split into two sections. Service friendly, food even better!",
+            "reviewer_name": "J Chow",
+            "rating": 5,
+            "review_text": "People sometimes forget we have a lot of diversity in this town! Jambo is great for African and Indian flavours. The menu reflects this and is split into two sections. Service friendly, food even better!",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-06-22T20:30:57.024000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 466,
+            "total_number_of_photos_by_reviewer": 861,
+            "reviewer_url": "https://www.google.com/maps/contrib/103206122051915109489/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVJXyQpEnUQ4FtQaLgvqICj9Y3UYvZbo5wT8-pDY11QzTg=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNSV0RdtSesQvxerpTmLvcs1PRkstHwdrMARKV7=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPXuUTuyLlJs-D6wgtUjTeMNvJdyez1Mvms3Gsm=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "I always love the food here it's absolutely delicious and flavorful. The waitresses were really nice and attentive too. The atmosphere is really calm and quiet and it's a great place to catch up with friends or family. Highly recommend",
+            "reviewer_name": "Sonia Kakai",
+            "rating": 5,
+            "review_text": "I always love the food here it's absolutely delicious and flavorful. The waitresses were really nice and attentive too. The atmosphere is really calm and quiet and it's a great place to catch up with friends or family. Highly recommend",
+            "published_at": "5 months ago",
+            "published_at_date": "2023-06-20T13:22:32.102000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 3,
+            "total_number_of_reviews_by_reviewer": 20,
+            "total_number_of_photos_by_reviewer": 55,
+            "reviewer_url": "https://www.google.com/maps/contrib/106785491866814282022/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWge7ixOKhqmK6u3djRqiCJzvqz1H8qx6NcUE3UPO45-cU=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOs8fjs7HC2JaovHolCsc2Yl8debnAN5r8xwWVt=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipP4MmWmrp1h18VHntqrz8OaBuSkzE8YQqNceeFC=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPAGpaHRGUwc0szFYRL68H8SikS4ujhtffGzeRl=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Food was great. Service was ok. They assumed we had other party members coming since the table for two wasn't cleaned up so they sat us at a four people table. Then proceed to ignore us for quite a while and not even offering water until we ordered by looking at the menu online.",
+            "reviewer_name": "Kit Mak (Rais321)",
+            "rating": 5,
+            "review_text": "Food was great. Service was ok. They assumed we had other party members coming since the table for two wasn't cleaned up so they sat us at a four people table. Then proceed to ignore us for quite a while and not even offering water until we ordered by looking at the menu online.",
+            "published_at": "5 months ago",
+            "published_at_date": "2023-05-25T14:26:34.688000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 25,
+            "total_number_of_photos_by_reviewer": 73,
+            "reviewer_url": "https://www.google.com/maps/contrib/117777217875926120491/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWnLid9DJgtUwdR9NIQ0mfnHeis87Yo3FFonDc3whcB6qw=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOa0gnSJMzvifyssz5fzf4hK9UT6n0UFVip2BJR=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipO40cFTG_20KA_weaXhiPojOYTlGy619IXj2oMd=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "The whole experience was nice, tried their combos that were available which came with kabab tandoori chicken ribs sides along with appetizers and desserts. The food was great specially the ribs were great. Totally recommend for anyone looking for good kababs",
+            "reviewer_name": "Ayon Rayhan",
+            "rating": 5,
+            "review_text": "The whole experience was nice, tried their combos that were available which came with kabab tandoori chicken ribs sides along with appetizers and desserts. The food was great specially the ribs were great. Totally recommend for anyone looking for good kababs",
+            "published_at": "7 months ago",
+            "published_at_date": "2023-04-15T01:56:31.616000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 96,
+            "total_number_of_photos_by_reviewer": 883,
+            "reviewer_url": "https://www.google.com/maps/contrib/106255606062342530568/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXSQCxREwXzBNBqXLxJuMAAQs3ZqbOP6w9nLXxU0Rf6eA=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNtfMo0uv4SWHC90pxh0PJRUsdo-LGo-18AEgE=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMfH9qPpRnvYcAEOkp0BLgmqP85W4u-fxpoYgc=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPMdsYZTixsa0VREUrBpLVt0b6zpCHMo_11qwg=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMZ0q_7g4yJtMTMcAKMS3kb3Ka3q-WeBKddRX4=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMOwbzVm4mlb-Ls7jvl0cHiNK5jM_Ka5m_KFpA=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOXlj0EXiHia51EV7WEMz7PVR--s5XodGx6TUQ=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOfTKo7KwPmq1Dq2qwNUJ7ClcFCPTiB12DAi20=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipN7RBg8TvUNP0ZWb4JQFIyCxpft6x42WkJzij0=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipN-CAFfQDmU5fPkQ63CfEkZ-RteKjKKj0t8GX8=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "First time to try both dishes and my friend and I enjoyed it so much. One dish is good for 2 people. Mildly spicy and flavorful, yogurt on the side balances the heat. Great customer service. Fish looks big but not a lot of meat though. Still, I think price is reasonable for the serving size. Fries are crispy and not too salty. Will definitely consider going back here to try other dishes.",
+            "reviewer_name": "Grace A",
+            "rating": 5,
+            "review_text": "First time to try both dishes and my friend and I enjoyed it so much. One dish is good for 2 people. Mildly spicy and flavorful, yogurt on the side balances the heat. Great customer service. Fish looks big but not a lot of meat though. Still, I think price is reasonable for the serving size. Fries are crispy and not too salty. Will definitely consider going back here to try other dishes.",
+            "published_at": "10 months ago",
+            "published_at_date": "2022-12-30T02:19:00.147000Z",
+            "response_from_owner_text": "Dear Grace,                                                                                                  Jambo !!                                                                                                        Thank you for taking the time to leave us a review! We're so happy to hear that you had a 5 star experience with us. We hope you'll join us again soon! ",
+            "response_from_owner_ago": "5 months ago",
+            "response_from_owner_date": "2023-06-09T00:25:50.860000Z",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 14,
+            "total_number_of_photos_by_reviewer": 21,
+            "reviewer_url": "https://www.google.com/maps/contrib/105156728139110761882/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWltNAM8ZcRuAgHinMPes1Teo0MfeqaIB6IWsW7xwif4Zo=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMCufEq-eHxHM5pKF7E8nmWqADF8AS2FDURp8QG=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNWfXLa6WXVfMXf1dt9KhgD67NlPVRRHZdsq7cj=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPch07rZBLanqxB4IHwTBlPzyUjAsuYtPKTEbWk=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "I swear I'm not racist, but the thought of eating in a safari, with motifs such as \"jungle ribs\" is really off-putting to me.\n\nI had the meat hali thali, it came with two curries and other dishes, and was a decent amount of food. The curries weren't as flavourful as others I've had, and the chicken curry in particular was not good. I wasn't a fan of the Gujarati dal, it was too thin and tangy.\nThe rest of the dishes were alright, papad, naan, Kheer, and I liked the carrot pickles.",
+            "reviewer_name": "Victor Chen",
+            "rating": 3,
+            "review_text": "I swear I'm not racist, but the thought of eating in a safari, with motifs such as \"jungle ribs\" is really off-putting to me.\n\nI had the meat hali thali, it came with two curries and other dishes, and was a decent amount of food. The curries weren't as flavourful as others I've had, and the chicken curry in particular was not good. I wasn't a fan of the Gujarati dal, it was too thin and tangy.\nThe rest of the dishes were alright, papad, naan, Kheer, and I liked the carrot pickles.",
+            "published_at": "5 months ago",
+            "published_at_date": "2023-06-19T18:12:34.974000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 124,
+            "total_number_of_photos_by_reviewer": 248,
+            "reviewer_url": "https://www.google.com/maps/contrib/113950666857843661707/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWmTd_8PC3uQtz3vxRyDbJxkFFAF1jutS-Akh3aVUVCn4k=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipP9-Np3nRw57mBp5fMBgs1e6EVutrun49laypBP=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMbOv-ITHZKELOiUSEkL4iHIZDNgjarIX3d4-76=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Four of us went for dinner based on the recommendation of some friends. Each one of us picked a selection from the Africa section of the menu and loved our meal.\nThe mango lassi was the best I've had in Vancouver (my dessert).\nThe service was prompt and friendly, the music wasn't loud and annoying, and the temperature in the restaurant was also pleasant (I usually need to keep my coat on at restaurants because it is too cold).",
+            "reviewer_name": "Isabeau Iqbal",
+            "rating": 5,
+            "review_text": "Four of us went for dinner based on the recommendation of some friends. Each one of us picked a selection from the Africa section of the menu and loved our meal.\nThe mango lassi was the best I've had in Vancouver (my dessert).\nThe service was prompt and friendly, the music wasn't loud and annoying, and the temperature in the restaurant was also pleasant (I usually need to keep my coat on at restaurants because it is too cold).",
+            "published_at": "2 weeks ago",
+            "published_at_date": "2023-11-06T14:32:26.323000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 14,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/106066331907316227978/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjU0DpV46zDgjAwFMSLMt1fPFfpu-QX2hz51DtoXQiroa2Q=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

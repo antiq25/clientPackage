@@ -1,0 +1,515 @@
+{
+    "place_id": "ChIJEcMJ2G9xhlQRXDCcU027qqs",
+    "name": "Oyster Express",
+    "description": "Relaxed wood-accented corner standby offering raw bar selections & seafood dishes, plus cocktails.",
+    "reviews": 340,
+    "website": "https://www.facebook.com/oysterexpresscanada/",
+    "owner": {
+        "id": "103699159224095993757",
+        "name": "Oyster Express (Owner)",
+        "link": "https://www.google.com/maps/contrib/103699159224095993757"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMFF6_2jPUH7yztW1VfXVxYIFPhJfSrisbPVOkJ=w408-h306-k-no",
+    "main_category": "Restaurant",
+    "categories": [
+        "Restaurant",
+        "Takeout Restaurant",
+        "Oyster bar restaurant"
+    ],
+    "rating": 4.6,
+    "workday_timing": "4-8 p.m.",
+    "closed_on": [
+        "Monday"
+    ],
+    "phone": "(604) 684-3300",
+    "address": "Oyster Express, 296 Keefer St, Vancouver, BC V6A 1X4",
+    "review_keywords": [
+        {
+            "keyword": "oysters",
+            "count": 151
+        },
+        {
+            "keyword": "happy hour",
+            "count": 43
+        },
+        {
+            "keyword": "varieties",
+            "count": 9
+        },
+        {
+            "keyword": "vodka",
+            "count": 8
+        },
+        {
+            "keyword": "chicken wings",
+            "count": 7
+        },
+        {
+            "keyword": "condiments",
+            "count": 7
+        },
+        {
+            "keyword": "coast",
+            "count": 6
+        },
+        {
+            "keyword": "prawn",
+            "count": 5
+        },
+        {
+            "keyword": "cocktail sauce",
+            "count": 5
+        },
+        {
+            "keyword": "mussels",
+            "count": 5
+        }
+    ],
+    "link": "https://www.google.com/maps/place/Oyster+Express/data=!4m7!3m6!1s0x5486716fd809c311:0xabaabb4d539c305c!8m2!3d49.279292!4d-123.097424!16s%2Fg%2F113hnzxzr!19sChIJEcMJ2G9xhlQRXDCcU027qqs?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 4 p.m.",
+    "price_range": "$$",
+    "reviews_per_rating": {
+        "1": 6,
+        "2": 3,
+        "3": 12,
+        "4": 64,
+        "5": 255
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJEcMJ2G9xhlQRXDCcU027qqs&q=Oyster+Express&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.279292,
+        "longitude": -123.09742399999999
+    },
+    "plus_code": "7WH3+P2 Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "Strathcona",
+        "street": "296 Keefer St",
+        "city": "Vancouver",
+        "postal_code": "V6A 1X4",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "12369905267316109404",
+    "data_id": "0x5486716fd809c311:0xabaabb4d539c305c",
+    "menu": {
+        "link": "http://www.oysterexpress.ca/menu.html",
+        "source": "oysterexpress.ca"
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Takeout",
+                    "enabled": true
+                },
+                {
+                    "name": "Dine-in",
+                    "enabled": true
+                },
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair accessible seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Alcohol",
+                    "enabled": true
+                },
+                {
+                    "name": "Beer",
+                    "enabled": true
+                },
+                {
+                    "name": "Cocktails",
+                    "enabled": true
+                },
+                {
+                    "name": "Hard liquor",
+                    "enabled": true
+                },
+                {
+                    "name": "Small plates",
+                    "enabled": true
+                },
+                {
+                    "name": "Wine",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Dining options",
+            "options": [
+                {
+                    "name": "Dinner",
+                    "enabled": true
+                },
+                {
+                    "name": "Catering",
+                    "enabled": true
+                },
+                {
+                    "name": "Dessert",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Bar on-site",
+                    "enabled": true
+                },
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosphere",
+            "options": [
+                {
+                    "name": "Casual",
+                    "enabled": true
+                },
+                {
+                    "name": "Cozy",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planning",
+            "options": [
+                {
+                    "name": "Accepts reservations",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMFF6_2jPUH7yztW1VfXVxYIFPhJfSrisbPVOkJ=w397-h298-k-no"
+        },
+        {
+            "about": "Latest",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNC0h-ClurR0pOvyC7gkoCci7pYWyFIBGWueycX=w224-h397-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOGnmO0a025MtWDmyY4a-zY835nlxyjZ1aRZN5D=w224-h298-k-no"
+        },
+        {
+            "about": "Menu",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNsjxx0KQpZxa2Y6Gt8XEbVYc8XMuhaUa6AppfI=w224-h298-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNN7obgEL50ZNQwseWuyYrnGYjaeTjdZpIAZZLX=w529-h298-k-no"
+        },
+        {
+            "about": "Vibe",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOBSzW0OoMtZeXxDmXmwYpP33OwFV_St3qSP-YN=w448-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipN9iGhFwfzLVwQoTcHRJKRP_4VVWOBEt3xwN3Dk=w528-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=s0wTPgiX4j84_M3VB7K13A&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=203.96754&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "Closed"
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "4-8 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "4-8 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "4-8 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "4-8 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "4-8 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "4-7 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "Tried one of each of the 8 different oysters that were available. They were all so good although I was gravitating towards the briny ones. Sean executed them well on the plate by placing them in the order as the menu so we'd know which variety we were eating.\n\nThe fresh prawn cocktail were huge and meaty and the fried oyster were so crunchy and delicious. Fries were perfectly crunchy.\n\nI love the cozy environment and the window seat is great for eating and people watching. I will definitely be back.  Highly recommend.",
+            "reviewer_name": "Maxmillan Maxmillan",
+            "rating": 5,
+            "review_text": "Tried one of each of the 8 different oysters that were available. They were all so good although I was gravitating towards the briny ones. Sean executed them well on the plate by placing them in the order as the menu so we'd know which variety we were eating.\n\nThe fresh prawn cocktail were huge and meaty and the fried oyster were so crunchy and delicious. Fries were perfectly crunchy.\n\nI love the cozy environment and the window seat is great for eating and people watching. I will definitely be back.  Highly recommend.",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-02T07:32:13.940000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 23,
+            "total_number_of_photos_by_reviewer": 31,
+            "reviewer_url": "https://www.google.com/maps/contrib/107372475351163295766/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIG17bD2h2Ws6ka9IQ8Dktcme-feBLVZaND18DnlREu=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipO1OK6ZlvhnND9AQ_d8uXTo_qjMoSgTlZ3hG0AU=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipM0OOR-FaEVcjYXcpbkHnwTOhXuqgElYhEQKPjb=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipP6fTNaaq6pmHMVU-szKkw3rafK09ofNi2HVmHB=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipM3-PH9Z5rX_Eh1C_cqqDrDRtoViAOZ5Be8XTSw=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Such a great little spot. The staff is super friendly and knowledgeable and the oysters are super fresh. Always a great selection and the space is a great vibe!",
+            "reviewer_name": "Andrew Robillard",
+            "rating": 5,
+            "review_text": "Such a great little spot. The staff is super friendly and knowledgeable and the oysters are super fresh. Always a great selection and the space is a great vibe!",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-02T02:26:39.775000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 13,
+            "total_number_of_photos_by_reviewer": 6,
+            "reviewer_url": "https://www.google.com/maps/contrib/109223668311766975463/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXWNlu5yYR2_G03nyU8zby4wvvNH-tx0tw1MfNb3BnS1mo=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipN6RC3yvXtEpgTJFCvBFWhELhHY6F9572tiK4Yo=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNMJ7OPggfa03XwN9v4QmHn1s0yGQo_dGXluGGI=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Came here for the oysters and it didn't disappoint.\nWe had the special oyster of the day which was discounted to $2.50 each. It came with the full complement of different toppings to accompany the oysters.\n\nNeedless to say we couldn't stop at only 1 dozen..",
+            "reviewer_name": "David Lai (Visions by David)",
+            "rating": 5,
+            "review_text": "Came here for the oysters and it didn't disappoint.\nWe had the special oyster of the day which was discounted to $2.50 each. It came with the full complement of different toppings to accompany the oysters.\n\nNeedless to say we couldn't stop at only 1 dozen..",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-10T03:40:45.595000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 66,
+            "total_number_of_photos_by_reviewer": 538,
+            "reviewer_url": "https://www.google.com/maps/contrib/102609923180372221264/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWkRMG8BprfwrFUKobUFP3Tr4wXHOYlP-9oF6i71YqpRp1a=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipO2ngxOdFqkClpsy7Le2zu8U_hTdeT_LnLONEEx=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipP1wqlnOCN0Mu_ScQiOAN2TP8Em4eKWS5iT7VIp=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Delicious & fresh oysters. Lovely little shop that specializes in oysters and does it so well. Knowledgeable and sweet staff. The small space aids in the charm so I recommend making a rezo.",
+            "reviewer_name": "Ciarra Cook",
+            "rating": 5,
+            "review_text": "Delicious & fresh oysters. Lovely little shop that specializes in oysters and does it so well. Knowledgeable and sweet staff. The small space aids in the charm so I recommend making a rezo.",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-08-28T02:58:04.412000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 3,
+            "total_number_of_photos_by_reviewer": 2,
+            "reviewer_url": "https://www.google.com/maps/contrib/104061692287468138090/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUeMEr63RCcIX2ohkEN1JspBg3p_PlTMg7IVWrda7S-dJI=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNOvLvsvIu2897KR1lh6OEDJZgPe-HnPsdzsHTL=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOjOkCbBoy6GM1Ysu4QjJTLxis0ceBlZGINie7z=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Coziest little oyster bar ever! I don't know if it seats more than a dozen people, but I am glad I was one of them last week. Top class fresh oysters, usually 6-7 varieties to choose from.\nThe raw shucked are outstanding - the shucker is a master. We had 2 dozen raw and each was a work of shucking art - each oyster perfectly separated from its shell, undamaged in any way. And with the liquor intact. That is some skill. Hat's off! Oh, and the homemade chili-vodka condiment? Inspired!\n\nThe fried oysters were big meaty west coasters, perfectly crispy, juicy.\n\nI want to go back with a bigger group, so we can try them all.\nBig thanks to the owners - such nice people",
+            "reviewer_name": "Chris Opines",
+            "rating": 5,
+            "review_text": "Coziest little oyster bar ever! I don't know if it seats more than a dozen people, but I am glad I was one of them last week. Top class fresh oysters, usually 6-7 varieties to choose from.\nThe raw shucked are outstanding - the shucker is a master. We had 2 dozen raw and each was a work of shucking art - each oyster perfectly separated from its shell, undamaged in any way. And with the liquor intact. That is some skill. Hat's off! Oh, and the homemade chili-vodka condiment? Inspired!\n\nThe fried oysters were big meaty west coasters, perfectly crispy, juicy.\n\nI want to go back with a bigger group, so we can try them all.\nBig thanks to the owners - such nice people",
+            "published_at": "10 months ago",
+            "published_at_date": "2022-12-24T18:32:14.322000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 3,
+            "total_number_of_reviews_by_reviewer": 64,
+            "total_number_of_photos_by_reviewer": 127,
+            "reviewer_url": "https://www.google.com/maps/contrib/116108957189491064868/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjX07shQJiX67qKialQ7CgthHhAfEI_DTdB5gjaEier6bA=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOdy3F2qKG2qR5UVrAq0cWgTuBcrMHuRRsfv9Oa=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNl7r0hQ2qdyyCKCHxX4VZrJeA_F5uKtiiwp-uf=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMgTld0FkS7dVZmolFCnqPNa3qVIqJN2o5OdnL2=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMuTmmFS95W1DBjjdThrXbjPFJp6cQrPU7gv80Q=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Small oyster bar in Chinatown. Had variety of oysters from BC, PEI and elsewhere. The happy hour oyster for 2.50 each was a bit bland and unexciting. The favorite was the Gorge Inlet which was larger in size and tastier than the other options. The fried oyster was really good too. Would rate it higher if was bit cheaper in prices.",
+            "reviewer_name": "Steven",
+            "rating": 4,
+            "review_text": "Small oyster bar in Chinatown. Had variety of oysters from BC, PEI and elsewhere. The happy hour oyster for 2.50 each was a bit bland and unexciting. The favorite was the Gorge Inlet which was larger in size and tastier than the other options. The fried oyster was really good too. Would rate it higher if was bit cheaper in prices.",
+            "published_at": "5 months ago",
+            "published_at_date": "2023-05-23T05:50:16.733000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 82,
+            "total_number_of_photos_by_reviewer": 143,
+            "reviewer_url": "https://www.google.com/maps/contrib/113649869213429808080/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKoX7Gm_-8SdKWaYv0iPIRCcCrvADB3FPUGV_aDbRQn=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMn55avAAg2tDoR7Z48SaXBoVn14DOuklvi0LCP=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPHm_hPFp8naUD-3klXUE_ilET32BJ1tEzXlLp0=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOA0s8HTUt3TJmltKcoXQJleETtwMKUOLtKxv9P=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Always love visiting here. Has such quiet charm and the oysters are always delicious. On my visit they were offering 5 different types of Oyster. My favorite was the Sannich Bay Oyster. But all were tasty.",
+            "reviewer_name": "Damien Bent",
+            "rating": 5,
+            "review_text": "Always love visiting here. Has such quiet charm and the oysters are always delicious. On my visit they were offering 5 different types of Oyster. My favorite was the Sannich Bay Oyster. But all were tasty.",
+            "published_at": "a year ago",
+            "published_at_date": "2022-09-12T05:48:27.793000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 5,
+            "total_number_of_photos_by_reviewer": 19,
+            "reviewer_url": "https://www.google.com/maps/contrib/117878001685746762577/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLhwJBU8c-5t4weOITge1J5IrgN309j53k53sKfbQ=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPEzkUVmGJICfgXxbAK-AqKlh6761D3zNcqPg=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOVf5ArJExg4vJxnzzPbbRpoHae-UDTw_4nOg=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMbKenyFMqPcM_N4SP3sdnnCuKJkGOkt-5_PQ=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Great spot. Excellent, excellent oysters. Service was  really slow, I think they were a bit short staffed. Fantastic happy hour prices though.",
+            "reviewer_name": "Danielle Clavelle",
+            "rating": 4,
+            "review_text": "Great spot. Excellent, excellent oysters. Service was  really slow, I think they were a bit short staffed. Fantastic happy hour prices though.",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-14T20:29:15.806000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 140,
+            "total_number_of_photos_by_reviewer": 24,
+            "reviewer_url": "https://www.google.com/maps/contrib/109450166276753626493/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXE5DT5yNU2FUDuqmCiunXuqX8XuDjvDbDk6sUMXNYFRJqb=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

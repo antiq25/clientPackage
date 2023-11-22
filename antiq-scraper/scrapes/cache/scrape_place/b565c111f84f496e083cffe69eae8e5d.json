@@ -1,0 +1,81 @@
+{
+    "place_id": "ChIJ86Pelkx1hlQRp6XQo_O7ii4",
+    "name": "SoJenics Pharmaceuticals",
+    "description": null,
+    "reviews": null,
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "SoJenics Pharmaceuticals (Owner)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Xxtutg70dlT6P4dWJqsHSQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=70.01999&pitch=0&thumbfov=100",
+    "main_category": "Pharmaceutical company",
+    "categories": [
+        "Pharmaceutical company"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": [],
+    "phone": "(604) 773-5918",
+    "address": "SoJenics Pharmaceuticals, 6338 Fraser St, Vancouver, BC V5W 3A3",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/SoJenics+Pharmaceuticals/data=!4m7!3m6!1s0x5486754c96dea3f3:0x2e8abbf3a3d0a5a7!8m2!3d49.2271027!4d-123.0904324!16s%2Fg%2F11tc9ch60n!19sChIJ86Pelkx1hlQRp6XQo_O7ii4?authuser=0&hl=en&rclk=1",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ86Pelkx1hlQRp6XQo_O7ii4&q=SoJenics+Pharmaceuticals&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.227102699999996,
+        "longitude": -123.0904324
+    },
+    "plus_code": "6WG5+RR Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "South Vancouver",
+        "street": "6338 Fraser St",
+        "city": "Vancouver",
+        "postal_code": "V5W 3A3",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "3353699527630562727",
+    "data_id": "0x5486754c96dea3f3:0x2e8abbf3a3d0a5a7",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Xxtutg70dlT6P4dWJqsHSQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=70.01999&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Xxtutg70dlT6P4dWJqsHSQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=70.01999&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

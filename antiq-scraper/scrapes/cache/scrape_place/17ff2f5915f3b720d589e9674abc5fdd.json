@@ -1,0 +1,607 @@
+{
+    "place_id": "ChIJV6kDy3BxhlQRf6BeNO5iuhw",
+    "name": "Rodney's Oyster House",
+    "description": "Shellfish, chowder & other seafood dishes served in a stylish space with exposed-brick walls.",
+    "reviews": 1067,
+    "website": "http://rohvan.com/",
+    "owner": {
+        "id": "112315248406640320277",
+        "name": "Rodney's Oyster House (Owner)",
+        "link": "https://www.google.com/maps/contrib/112315248406640320277"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPcVu5yWOiOyuECl8iNTV-Lj-cWKDD1TkTa3iv4=w426-h240-k-no",
+    "main_category": "Oyster bar restaurant",
+    "categories": [
+        "Oyster bar restaurant",
+        "Restaurant"
+    ],
+    "rating": 4.4,
+    "workday_timing": "4-10 p.m.",
+    "closed_on": [
+        "Monday",
+        "Tuesday"
+    ],
+    "phone": "(604) 685-2005",
+    "address": "Rodney's Oyster House, 52 Powell St, Vancouver, BC V6A 1E7",
+    "review_keywords": [
+        {
+            "keyword": "happy hour",
+            "count": 57
+        },
+        {
+            "keyword": "clam chowder",
+            "count": 25
+        },
+        {
+            "keyword": "tide",
+            "count": 18
+        },
+        {
+            "keyword": "poutine",
+            "count": 14
+        },
+        {
+            "keyword": "crab cakes",
+            "count": 12
+        },
+        {
+            "keyword": "lobster rolls",
+            "count": 12
+        },
+        {
+            "keyword": "halibut",
+            "count": 10
+        },
+        {
+            "keyword": "seafood pasta",
+            "count": 6
+        },
+        {
+            "keyword": "fish stew",
+            "count": 5
+        },
+        {
+            "keyword": "pan fried",
+            "count": 5
+        }
+    ],
+    "link": "https://www.google.com/maps/place/Rodney%27s+Oyster+House/data=!4m7!3m6!1s0x54867170cb03a957:0x1cba62ee345ea07f!8m2!3d49.2831389!4d-123.1029806!16s%2Fg%2F1pty3g9y9!19sChIJV6kDy3BxhlQRf6BeNO5iuhw?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 4 p.m.",
+    "price_range": "$$",
+    "reviews_per_rating": {
+        "1": 35,
+        "2": 40,
+        "3": 79,
+        "4": 273,
+        "5": 640
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJV6kDy3BxhlQRf6BeNO5iuhw&q=Rodney%27s+Oyster+House&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.2831389,
+        "longitude": -123.1029806
+    },
+    "plus_code": "7VMW+7R Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "Gastown",
+        "street": "52 Powell St",
+        "city": "Vancouver",
+        "postal_code": "V6A 1E7",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "2070075753950519423",
+    "data_id": "0x54867170cb03a957:0x1cba62ee345ea07f",
+    "menu": {
+        "link": "https://rohvan.com/our-menus/",
+        "source": "rohvan.com"
+    },
+    "reservations": [
+        {
+            "link": "https://www.tbdine.com/book/restaurant/rodneys-oyster-house-gastown%3FidApp%3D70146%26language%3Den-us",
+            "source": "tbdine.com"
+        },
+        {
+            "link": "https://www.google.com/maps/reserve/v/dine/c/uGTsnSqm-a8?source=pa",
+            "source": "google.com"
+        }
+    ],
+    "order_online_links": [
+        {
+            "link": "https://www.tbdine.com/book/restaurant/rodneys-oyster-house-gastown?idApp=70146&language=en-us",
+            "source": "tbdine.com"
+        },
+        {
+            "link": "https://www.google.com/maps/reserve/v/dine/c/uGTsnSqm-a8?source=pa",
+            "source": "google.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Takeout",
+                    "enabled": true
+                },
+                {
+                    "name": "Dine-in",
+                    "enabled": true
+                },
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair-accessible washroom",
+                    "enabled": true
+                },
+                {
+                    "name": "Assistive hearing loop",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Alcohol",
+                    "enabled": true
+                },
+                {
+                    "name": "Beer",
+                    "enabled": true
+                },
+                {
+                    "name": "Cocktails",
+                    "enabled": true
+                },
+                {
+                    "name": "Coffee",
+                    "enabled": true
+                },
+                {
+                    "name": "Hard liquor",
+                    "enabled": true
+                },
+                {
+                    "name": "Healthy options",
+                    "enabled": true
+                },
+                {
+                    "name": "Late-night food",
+                    "enabled": true
+                },
+                {
+                    "name": "Small plates",
+                    "enabled": true
+                },
+                {
+                    "name": "Wine",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Dining options",
+            "options": [
+                {
+                    "name": "Dinner",
+                    "enabled": true
+                },
+                {
+                    "name": "Dessert",
+                    "enabled": true
+                },
+                {
+                    "name": "Seating",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Bar on-site",
+                    "enabled": true
+                },
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosphere",
+            "options": [
+                {
+                    "name": "Casual",
+                    "enabled": true
+                },
+                {
+                    "name": "Cozy",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "crowd",
+            "name": "Crowd",
+            "options": [
+                {
+                    "name": "Groups",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planning",
+            "options": [
+                {
+                    "name": "Accepts reservations",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPcVu5yWOiOyuECl8iNTV-Lj-cWKDD1TkTa3iv4=w529-h298-k-no"
+        },
+        {
+            "about": "Latest",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOm9LulZVM3cwkdyTHaeVIFlg3wIOQGQfOeCMLV=w224-h298-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMZxeHjG3x7C3_UaS5SWtcF94S7T2ehINUhGqOd=w529-h298-k-no"
+        },
+        {
+            "about": "Menu",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNzCPJ7hGxvwOx2rnGNkfoeh6fmbS03Touna7Wb=w224-h397-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPi3Hwzm6hDzoDqmbzvDySK0BieU0sQ1cG80aA9=w447-h298-k-no"
+        },
+        {
+            "about": "Vibe",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipM4AD9auqe0Tj1K9uRQC1hNUMnjUXyMAzfWJxVV=w529-h298-k-no"
+        },
+        {
+            "about": "Oyster",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPh6XPta-a0Q0nqLGoMY0X5JWEhGxcWoE25Czmk=w397-h298-k-no"
+        },
+        {
+            "about": "Clam chowder",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipO2Fob3cfxVBQTBn4j90hltI4-cYuWR4tXh7C-1=w529-h298-k-no"
+        },
+        {
+            "about": "Lobster roll",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipM33TtLaVzS7sPHkRNDqkZYAI30FBLZld7XwlUV=w397-h298-k-no"
+        },
+        {
+            "about": "Seafood",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOj28wt-ygvSzkoTL2EnKwqY0SThcsT4Fc1yHnw=w529-h298-k-no"
+        },
+        {
+            "about": "Poutine",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMCZsBp0sO-BsafvBWNder--cXWX3leKwFMemN7=w224-h298-k-no"
+        },
+        {
+            "about": "Mussel",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOj28wt-ygvSzkoTL2EnKwqY0SThcsT4Fc1yHnw=w529-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPi3Hwzm6hDzoDqmbzvDySK0BieU0sQ1cG80aA9=w447-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=8WPC9Yyr04TsiI0CoEZGXg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=160.66568&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "Closed"
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "Closed"
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "4-10 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "4-10 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "4-10 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "4-10 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "4-10 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "The last time I came was before Covid hit. This time I return finding the quality of food downgraded. Their signature happy hour oysters were much smaller than before and the taste was only average. I used to really like their clam chowder but this time I found it too salty and I had to keep drinking water to ease the taste.\n\nThe restaurant's vibe was still nice but the quality of food suggested to me that I ain't coming back anymore.",
+            "reviewer_name": "Yvonne Tong",
+            "rating": 3,
+            "review_text": "The last time I came was before Covid hit. This time I return finding the quality of food downgraded. Their signature happy hour oysters were much smaller than before and the taste was only average. I used to really like their clam chowder but this time I found it too salty and I had to keep drinking water to ease the taste.\n\nThe restaurant's vibe was still nice but the quality of food suggested to me that I ain't coming back anymore.",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-18T04:02:19.996000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 105,
+            "total_number_of_photos_by_reviewer": 373,
+            "reviewer_url": "https://www.google.com/maps/contrib/100872738310352255270/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUKwRxF2_ClXxyCoJHYvVqWFUipb3m43auzj2uk9Qowt90=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMzw0azcHD3Lyn0KrWYJiy23LRkFtQwsNTC6OSC=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNEW5BD09yYzx42dYAR3sToMdnmr_Sqk7-4OalK=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "The food was good but I didn't like the seats. We were squished in on the benches against the table.\n\nI had the Rodney's Seafood Pasta and that was quite good. The calamari was good but the serving size was too small. And they were out when we tried to order seconds.\n\nWe also had crab cakes and halibut which were good.",
+            "reviewer_name": "Alicia C",
+            "rating": 4,
+            "review_text": "The food was good but I didn't like the seats. We were squished in on the benches against the table.\n\nI had the Rodney's Seafood Pasta and that was quite good. The calamari was good but the serving size was too small. And they were out when we tried to order seconds.\n\nWe also had crab cakes and halibut which were good.",
+            "published_at": "a month ago",
+            "published_at_date": "2023-09-26T23:15:51.995000Z",
+            "response_from_owner_text": "Ahoy Alicia,\n\nThank you for the review.\n",
+            "response_from_owner_ago": "a month ago",
+            "response_from_owner_date": "2023-09-29T01:15:11.129000Z",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 174,
+            "total_number_of_photos_by_reviewer": 410,
+            "reviewer_url": "https://www.google.com/maps/contrib/102427989188096317327/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXGeBCZrS71LaUpUT1dZ_w8krYXG49UP43OCDTaOlNLTkso=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNMy5A45kOOeDapV_ISAifgY1Boo04zpcCHKkpM=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Oysters were best I've had, fantastic clams, and great service overall. Highly recommended",
+            "reviewer_name": "Thomas Pietryla",
+            "rating": 5,
+            "review_text": "Oysters were best I've had, fantastic clams, and great service overall. Highly recommended",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-12T02:36:20.692000Z",
+            "response_from_owner_text": "Ahoy Thomas,\n\nLove to hear this.\nThank you for the review and recommendation.",
+            "response_from_owner_ago": "a month ago",
+            "response_from_owner_date": "2023-09-29T01:21:10.702000Z",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 13,
+            "total_number_of_photos_by_reviewer": 18,
+            "reviewer_url": "https://www.google.com/maps/contrib/104810126449323986469/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLQN3UqCNGeIcoAf3LnERRpmPTeqfQBG0edh6klkaFg9g=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipO3jvVT6Q38LO0lNn1mdW4Lju0hj4QOofksvnYN=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOqMltuwZCU5EO7QxLu-MmdqSnrwN6G48HGNt4x=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPXSIqJVF3kuBqGTmeEJyWUbr4HQ4WXNY8g9kXZ=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPTyUH0mpKzNn8gZH_qeI3z8ZwWB5yAnbBnGH-q=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "We had a fabulous time here! The staff is so friendly and welcoming. The oysters are incredibly fresh and good quality. They also pour the wine to the very top of the glass, which is fun!",
+            "reviewer_name": "Alisha Khalil",
+            "rating": 5,
+            "review_text": "We had a fabulous time here! The staff is so friendly and welcoming. The oysters are incredibly fresh and good quality. They also pour the wine to the very top of the glass, which is fun!",
+            "published_at": "10 months ago",
+            "published_at_date": "2023-01-06T04:56:50.327000Z",
+            "response_from_owner_text": "Ahoy Alisha,\n\nWe are so happy to hear you had fun! Thank you so much for the review.",
+            "response_from_owner_ago": "10 months ago",
+            "response_from_owner_date": "2023-01-07T00:07:06.267000Z",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 37,
+            "total_number_of_photos_by_reviewer": 56,
+            "reviewer_url": "https://www.google.com/maps/contrib/107218214534394911578/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWTsX64DrwAslceVLENpGBcUgvYDJ_DyINQ_tMb26QQkls=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPagCu1qU0U83AauwGPhlQE-XGjasuA3uocniSs=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOAgdoRWA3-i-7UYXulo6gPRywiYVFOjJnU7Mm4=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOpsUUji1hfnyJIK0I7loLJ2VDZKcZIflF9Hd9e=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPAyUMNjqONJ15y-XSIMCRb7mRl-cEhGHAs_yEU=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPiotExO-x4i4mjlEuwFbhYUQzWX-VakP3l-PzB=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "This place is a 'must'! Here, one can find delicious oysters, and the happiest Happy-Hour (complete with generous pours of wine)! All service members took excellent care of us, and the delightful conversation they fostered made us feel truly welcome.  My only regret was that my Husband & I didn't visit again for a full meal while on vacation in Vancouver. ",
+            "reviewer_name": "Kimberly Stephenson",
+            "rating": 5,
+            "review_text": "This place is a 'must'! Here, one can find delicious oysters, and the happiest Happy-Hour (complete with generous pours of wine)! All service members took excellent care of us, and the delightful conversation they fostered made us feel truly welcome.  My only regret was that my Husband & I didn't visit again for a full meal while on vacation in Vancouver. ",
+            "published_at": "6 months ago",
+            "published_at_date": "2023-04-29T14:47:51.728000Z",
+            "response_from_owner_text": "Ahoy Kimberly,\n\nThank you for the fabulous review.\nWe are so happy you enjoyed your time with us!",
+            "response_from_owner_ago": "6 months ago",
+            "response_from_owner_date": "2023-05-11T00:14:18.125000Z",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 42,
+            "total_number_of_photos_by_reviewer": 40,
+            "reviewer_url": "https://www.google.com/maps/contrib/102927846302779249017/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjV5P6BvcIFOxi6AcmwkVJInqT3tlVrqVNtHBL3FOQpeIH6h=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPNm-NHzdC6SkThbyi4Fq0lkc6WWV7LLEB_a29U=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Pricy for what you get compared to other restaurants.\nSeafood Pasta for $37 had 2 medium sized scallops, 4 smaller shrimp, 10 assorted shelled clams/mussels. Sauce was over spiced (not hot) and missing a fresh component that could have balanced it out a bit. Scallop pasta dish for $36 with 5 medium sized scallops and a bland cream sauce (missing fresh or acidic component or something).\nBam Bam Honey shrimp was good but the shrimp were smaller than expected for $22 but there was a decent amount of them.\nHostess was good but serving staff was just alright - don't go here if you aren't drinking as you won't get service as good as other tables that are. It is was very obvious and made didn't improve the atmosphere. It is a bit loud when the places fills up but you can still hear your dinner companions.\nHowever they do have a great wine and beer menu for those who do partake.\nThe restaurant was clean and well staffed. Should have reservations if not going during happy hour (which is before 6).\nTable had wood splinters coming off but the tables were spacious enough for multiple plates and they can accommodate larger groups.",
+            "reviewer_name": "Jennifer Lynn",
+            "rating": 3,
+            "review_text": "Pricy for what you get compared to other restaurants.\nSeafood Pasta for $37 had 2 medium sized scallops, 4 smaller shrimp, 10 assorted shelled clams/mussels. Sauce was over spiced (not hot) and missing a fresh component that could have balanced it out a bit. Scallop pasta dish for $36 with 5 medium sized scallops and a bland cream sauce (missing fresh or acidic component or something).\nBam Bam Honey shrimp was good but the shrimp were smaller than expected for $22 but there was a decent amount of them.\nHostess was good but serving staff was just alright - don't go here if you aren't drinking as you won't get service as good as other tables that are. It is was very obvious and made didn't improve the atmosphere. It is a bit loud when the places fills up but you can still hear your dinner companions.\nHowever they do have a great wine and beer menu for those who do partake.\nThe restaurant was clean and well staffed. Should have reservations if not going during happy hour (which is before 6).\nTable had wood splinters coming off but the tables were spacious enough for multiple plates and they can accommodate larger groups.",
+            "published_at": "7 months ago",
+            "published_at_date": "2023-03-26T02:01:07.079000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 428,
+            "total_number_of_photos_by_reviewer": 4096,
+            "reviewer_url": "https://www.google.com/maps/contrib/107487373827418551695/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXvenysvrvoQnoQPaIstRhbDmjiJ3wzORbREJXvo-3dvQ=s120-c-rp-mo-ba6-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPtyUs853cLT3NeqYOxghmuAZ3XnMGUJVu1boDk=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNXdOpbG-KH0DB2dAEciQPgF9Ohqbt6HNR7VW-y=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNzjRrov58tQon2seT3pMU02QtH1Z0osYrywGWH=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Amazing food, the oysters and streak are a must have. Lobster rolls were to die for, highly recommended.\n\nGreat ambience, staff were attentive and super friendly.\n\nFood was delicious, I'd highly recommend getting the cheesecakes as well.\n\nA must go for dates, family meals, company dinners, or just to chill and people watch.\n\nLocation is easily accessible via transit and the surrounding streets are a great place to take amazing photos.",
+            "reviewer_name": "Joshua (ThickBurger_Bites)",
+            "rating": 4,
+            "review_text": "Amazing food, the oysters and streak are a must have. Lobster rolls were to die for, highly recommended.\n\nGreat ambience, staff were attentive and super friendly.\n\nFood was delicious, I'd highly recommend getting the cheesecakes as well.\n\nA must go for dates, family meals, company dinners, or just to chill and people watch.\n\nLocation is easily accessible via transit and the surrounding streets are a great place to take amazing photos.",
+            "published_at": "a year ago",
+            "published_at_date": "2021-12-26T01:31:20.196000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 194,
+            "total_number_of_photos_by_reviewer": 4175,
+            "reviewer_url": "https://www.google.com/maps/contrib/100401043911131936448/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWwiUpZcUddqVwgqcFaCr4JC2Q7iP2HYEWEKAjP6j5bpwFw=s120-c-rp-mo-ba6-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPuq-QW6TOiQsmYg1EjVIT1S4l3HYJpjedl6ZLp=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPgovRH8MucBdCWw_FA9j1Y-ofYPM6-9FlK0as3=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMAQB6yaMELSCznxZ-Zl32xZ4cs03ZjhAzgFRnF=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPhqm1jAVJp0Jgqq-p5yYKT09oSDaMCiyWFBHgf=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNRQUgwmjrJDsAOkEAKuNZKDHNQXD0Wn1wl90Gc=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMJD7YBac7-zheVSay-W7uq3utWPgCrS8o65cGg=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPf_tz7ByD_9G6pxjY7IsLcx0Xx-8R-E5YvwSyq=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMcUwZT5Q_2pSZMO-4SjjtL-pgKHJN2Hxd03u6M=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMIi00eXqXmYUnn9QQ0cOeuEm-j3qA1lMuJLZO4=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMz4UWXbICWMGRJhgSffpkVfB4b8F2yuHAefGEN=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOHbU6BQeF97Ajd5zvYALavB_iRn3xyKzt5grYa=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMXmSXLr0bImcwybC5pCK9fBHbY704W1IA0uyVV=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMxdhJY05h-ymIeWjnMHrm3BIzzHhCN2NkolRPd=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMT5Us-W07ElmRRBZUD4HI7YDP2O4oGD01f44ZR=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "We love this place. You pretty much cannot go wrong with Yaletown. Fresh oysters is what we are looking for. With my favorite Stella beer, what else can you ask for?\n\nParking is not always easy in this area. But it is a very nice place to walk around around sunset and enjoy the view, the smell and the noise in this area. Youngsters love this place and it has developed and changed so much over the years. People come and go, the spirit remains.",
+            "reviewer_name": "Richard Wu",
+            "rating": 4,
+            "review_text": "We love this place. You pretty much cannot go wrong with Yaletown. Fresh oysters is what we are looking for. With my favorite Stella beer, what else can you ask for?\n\nParking is not always easy in this area. But it is a very nice place to walk around around sunset and enjoy the view, the smell and the noise in this area. Youngsters love this place and it has developed and changed so much over the years. People come and go, the spirit remains.",
+            "published_at": "a year ago",
+            "published_at_date": "2022-07-14T21:32:49.545000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 603,
+            "total_number_of_photos_by_reviewer": 6892,
+            "reviewer_url": "https://www.google.com/maps/contrib/113513141143855065093/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUXIXm_q4hceBRn0p5eDOGONzFw2X4H57iqyULcww22eRhB=s120-c-rp-mo-ba7-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNwVVO56Gzcjjh_0L3BSXHD6lgbWTtjfRr2rvmT=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOKkZCB-aeTDg2Q_jDxg3bxb4EgdiB_8RjC8VD0=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipP8jJXcMGYobbjfO1O5sZTwQM3hJOzwA11J2RT-=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPaxc5pl097GuobCIjd8zeZ62N3ZlrxkZCFySjF=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMcY89Q__BsgzI3aoDW2gfLiTlZvmLdHAvvkUK1=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPeP8CH7bi3BesLQ6zWzrEPTgD_bVQoBGXv942B=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOLCW5dnAtX6vA_Q0T-irtM2bNUk2npIewK_eOx=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOOcBzQm3LKx_Du9f5uidVElfd8y-wYpZ3T7kHY=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMyNkfzdWO6QCpqqreDldquVeewTlKCbSBY_nPR=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMWMSJvdPLKxlTw47T7_V6ETu2Y5-KQqOphzhgp=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipM2IQ-ZZvIwgeJGTpir5yRYLjgMeXYLizcqKo12=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOLagMwrOPqTWZEpl0WGKx6tJTVGDgc38CulOvP=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPbZvo1ktElwA0YpCVstsby2IYd6tKJeyvQ_gQ_=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPsfZouuN0Xv84Ov_KOltgua7hP-xqw64ZIbzGm=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOmE8oZl2yM5EvvIC4__06byd8o9U5fKBFdbvtv=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOPbMGqgaPj_RrsnNipK08UTF8mp-ty_AJrGodJ=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPty7WjMaKFz9N4TaX0AZnHA_jQSyvDEUYAA0jB=w150-h150-k-no-p"
+            ]
+        }
+    ],
+    "is_spending_on_ads": false
+}

@@ -1,0 +1,441 @@
+{
+    "place_id": "ChIJxReuzDz3iFQRwLcw0pjza4g",
+    "name": "Big O Tires",
+    "description": null,
+    "reviews": 245,
+    "website": "https://www.bigokingsway.ca/",
+    "owner": {
+        "id": "108613878623888190763",
+        "name": "Big O Tires (Owner)",
+        "link": "https://www.google.com/maps/contrib/108613878623888190763"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNkeMtlemRtPiqvoKDkzyaSjMwIS66BarT6w4Fg=w408-h254-k-no",
+    "main_category": "Tire shop",
+    "categories": [
+        "Tire shop",
+        "Brake shop",
+        "Car repair and maintenance service",
+        "Mechanic",
+        "Oil change service",
+        "Wheel alignment service",
+        "Wheel store"
+    ],
+    "rating": 3.8,
+    "workday_timing": "8:30 a.m.-5:30 p.m.",
+    "closed_on": [
+        "Sunday"
+    ],
+    "phone": "(604) 434-0535",
+    "address": "Big O Tires, 3059 Kingsway, Vancouver, BC V5R 5J8",
+    "review_keywords": [
+        {
+            "keyword": "flat tire",
+            "count": 16
+        },
+        {
+            "keyword": "review",
+            "count": 12
+        },
+        {
+            "keyword": "job",
+            "count": 12
+        },
+        {
+            "keyword": "business",
+            "count": 12
+        },
+        {
+            "keyword": "winter tires",
+            "count": 10
+        },
+        {
+            "keyword": "wall",
+            "count": 8
+        },
+        {
+            "keyword": "mechanic",
+            "count": 8
+        },
+        {
+            "keyword": "rude",
+            "count": 7
+        },
+        {
+            "keyword": "writing",
+            "count": 6
+        },
+        {
+            "keyword": "truck",
+            "count": 5
+        }
+    ],
+    "link": "https://www.google.com/maps/place/Big+O+Tires/data=!4m7!3m6!1s0x5488f73cccae17c5:0x886bf398d230b7c0!8m2!3d49.2359773!4d-123.040184!16s%2Fg%2F1vp73gpx!19sChIJxReuzDz3iFQRwLcw0pjza4g?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 8:30 a.m.",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 63,
+        "2": 3,
+        "3": 12,
+        "4": 21,
+        "5": 146
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJxReuzDz3iFQRwLcw0pjza4g&q=Big+O+Tires&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.235977299999995,
+        "longitude": -123.040184
+    },
+    "plus_code": "6XP5+9W Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "South Vancouver",
+        "street": "3059 Kingsway",
+        "city": "Vancouver",
+        "postal_code": "V5R 5J8",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "9830218449353226176",
+    "data_id": "0x5488f73cccae17c5:0x886bf398d230b7c0",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [
+        {
+            "link": "https://www.bigokingsway.ca/auto-repair/schedule-a-repair.aspx?utm_source=GMB&utm_medium=Button",
+            "source": "bigokingsway.ca"
+        }
+    ],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "In-store pickup",
+                    "enabled": true
+                },
+                {
+                    "name": "In-store shopping",
+                    "enabled": true
+                },
+                {
+                    "name": "Same-day delivery",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Oil change",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Mechanic",
+                    "enabled": true
+                },
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                },
+                {
+                    "name": "Wi-Fi",
+                    "enabled": true
+                },
+                {
+                    "name": "Wi-Fi",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "crowd",
+            "name": "Crowd",
+            "options": [
+                {
+                    "name": "LGBTQ+ friendly",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNkeMtlemRtPiqvoKDkzyaSjMwIS66BarT6w4Fg=w478-h298-k-no"
+        },
+        {
+            "about": "Inside",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPAxshdD3J6R2gno7-Dfk0S1VCBBhhrJhfpEzUr=w224-h398-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMqi286lSzNQLv6o_T1S5Whg6xLNMHLzGB5dtjf=w224-h485-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=t8ZZVTwn4Uif1b9MhrFYVg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=35.639507&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "8:30 a.m.-5:30 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "8:30 a.m.-5:30 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "8:30 a.m.-5:30 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "8:30 a.m.-5:30 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "8:30 a.m.-5:30 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "9 a.m.-4 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "Closed"
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "They love to help people, being in the business for a long time in Vancouver's Collingwood-Kingsway area. I just walked in  early in the morning today on a (I know) busy Friday for them having one punctured tire to be repaired & for winter tire changeover-- following seeing my tire concerns,  the staff told me that he will just organize the already scheduled work lineup at hand and assured me that by midday the work on my car will be done. By noon time; I picked up my car as the requested tire service was done. Kudos to Randy S. in charge of the shop and the crew who've made it possible. Top-notch, quality service with integrity. More Power Big O Tire Kingsway Vancouver! ",
+            "reviewer_name": "ThirDy Palanca",
+            "rating": 5,
+            "review_text": "They love to help people, being in the business for a long time in Vancouver's Collingwood-Kingsway area. I just walked in  early in the morning today on a (I know) busy Friday for them having one punctured tire to be repaired & for winter tire changeover-- following seeing my tire concerns,  the staff told me that he will just organize the already scheduled work lineup at hand and assured me that by midday the work on my car will be done. By noon time; I picked up my car as the requested tire service was done. Kudos to Randy S. in charge of the shop and the crew who've made it possible. Top-notch, quality service with integrity. More Power Big O Tire Kingsway Vancouver! ",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-06T23:21:37.992000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/107005254836646927200/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXEtZ8QWKukY4gTX60thcHIjRDoca52ye8SkZlxTHSWrg=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "I recently purchased a new set of wheels and tires from the Big O Tires in Victoria and was advised to get the lug nuts tightened up after 200km of driving. I called last minute before a road trip and these guys were super accommodating (it was a quick job) and Rod got the wheels checked and had me out the door in less than 10min. Thank you so much for the great service!",
+            "reviewer_name": "Eiry Bartlett",
+            "rating": 5,
+            "review_text": "I recently purchased a new set of wheels and tires from the Big O Tires in Victoria and was advised to get the lug nuts tightened up after 200km of driving. I called last minute before a road trip and these guys were super accommodating (it was a quick job) and Rod got the wheels checked and had me out the door in less than 10min. Thank you so much for the great service!",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-07-31T17:03:22.924000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 4,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/117438177728499741580/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUHZXpz2ahkJiBqzBNQ81iHbwsXh5fMEd5hCxsZ5R1G1Dw=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Randy has helped my husband for years and finally it was my turn to get a new set of summer tires. He was very informative and his assistants are just as helpful. Very fast and efficient service, when booking the appointment and at time of drop off/pick up. Will recommend him and his team to my friends!",
+            "reviewer_name": "Rachel Cloutier",
+            "rating": 5,
+            "review_text": "Randy has helped my husband for years and finally it was my turn to get a new set of summer tires. He was very informative and his assistants are just as helpful. Very fast and efficient service, when booking the appointment and at time of drop off/pick up. Will recommend him and his team to my friends!",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-16T05:36:21.749000Z",
+            "response_from_owner_text": "Awesome! Thanks Rachel!",
+            "response_from_owner_ago": "4 months ago",
+            "response_from_owner_date": "2023-07-16T22:05:03.129000Z",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 20,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/109287806116477263523/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKybrRz3jQGynIkHmKMsIMVcdVmZo-KwrjSvVL87_Pi=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "I'm writing this review from a repair last October. I was in Vancouver staying over in a hotel for a medical specialist appointment, and woke up to a flat tire. I was panicking b/c I couldn't miss this appointment, but also had to get back on the highway to the interior before an approaching snow storm. After hearing this, Randy got me sorted out and back on the road in less time than it took me to inflate my flat and limp my truck to the shop. Besides being an awesome guy for many people in similar situations to mine (as you can read in other reviews), I trusted them to be my regular mechanic shop for all my vehicles when I was living in Vancouver.",
+            "reviewer_name": "Alden Wolgram",
+            "rating": 5,
+            "review_text": "I'm writing this review from a repair last October. I was in Vancouver staying over in a hotel for a medical specialist appointment, and woke up to a flat tire. I was panicking b/c I couldn't miss this appointment, but also had to get back on the highway to the interior before an approaching snow storm. After hearing this, Randy got me sorted out and back on the road in less time than it took me to inflate my flat and limp my truck to the shop. Besides being an awesome guy for many people in similar situations to mine (as you can read in other reviews), I trusted them to be my regular mechanic shop for all my vehicles when I was living in Vancouver.",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-06T20:27:32.393000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 97,
+            "total_number_of_photos_by_reviewer": 201,
+            "reviewer_url": "https://www.google.com/maps/contrib/116282491105026894312/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW5KCoPXWjTw6sYbn3zSCLqb8Z0k0Z4u3Mc_drOYkLkHSk=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "I had a nail in one of my back tires and was told by multiple shops that my tire couldn't be repaired since it was too close to the sidewall... Big O Tires was the only shop that repaired the tire and saved me from having to buy new tires. Their service was fast, professional and inexpensive.  I highly recommend Big O Tires for all your car's needs!",
+            "reviewer_name": "Son Fran",
+            "rating": 5,
+            "review_text": "I had a nail in one of my back tires and was told by multiple shops that my tire couldn't be repaired since it was too close to the sidewall... Big O Tires was the only shop that repaired the tire and saved me from having to buy new tires. Their service was fast, professional and inexpensive.  I highly recommend Big O Tires for all your car's needs!",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-06-26T19:38:53.205000Z",
+            "response_from_owner_text": "Thank you!   (it's a healthy boy btw)  :)",
+            "response_from_owner_ago": "4 months ago",
+            "response_from_owner_date": "2023-06-27T16:36:18.435000Z",
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/113314195294732388683/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLc1sA35Ez_dpsppiLSOeJp4hdHR6SXvTAtHz1wa9Ai=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Randy's a great guy. He patched my tire with a fairly large hole, that I was sure was a goner, for a great price, and saved me from buying a new $700 set. Thanks a lot Randy!",
+            "reviewer_name": "Caelin Preston",
+            "rating": 5,
+            "review_text": "Randy's a great guy. He patched my tire with a fairly large hole, that I was sure was a goner, for a great price, and saved me from buying a new $700 set. Thanks a lot Randy!",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-14T19:16:05.425000Z",
+            "response_from_owner_text": "Your kind words are very much appreciated Caelin!",
+            "response_from_owner_ago": "4 months ago",
+            "response_from_owner_date": "2023-07-16T22:05:37.546000Z",
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/110463781010557260127/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLv7aKSKnDKxd9bmlsorzygLYHqnNmQucN9HLZ8pag5=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "I have to say that Randy Sokalofsky the  Owner/Manager @ The Big O Tire on Kingsway in Vancouver is not interested in keeping a customer or even trying to be professional when you value your time. I will not take him my car care needs again.\n\nI came into the shop at 10:58 AM, I know because I looked at my phone, I was busy and was watching the time carefully. Randy said hi and asked me what I was in for. I said a tire with a not so slow leak. Randy then said have a seat.\n\nWhile waiting in the lobby of his messy little shop he was taking payment from a customer named \"Jodie\" they talked about his and her children, grand children and her career working with children. That was a 12 minute conversation. Then a fellow came in an he had a tire with him, Randy dealt with him his tire was whisked away into the garage and he sat in the waiting area with me and one other fellow\n\nRandy went into the back of the shop, came out, sat at his desk and while using the computer took out a plastic food container and fork and began eating a bit. He then went back into the garage area at back of the shop.\n\nAt that time the fellow (customer) who was dealt with ahead of me even though I came in before them was speaking to me and I had said It has been 37 minutes since he asked me to have a seat. The other customer said ring the bell and I said, he knows I am here, he told me to have a seat for a moment and I have been here for 20 minutes before you came in, he knows I am here.\n\nRandy then comes toward the waiting area and interrupts our conversation with a question what about was said about the bell on the desk. I said I was speaking with this gentleman. Randy then says well you are arguing about the bell. I said Randy no one is arguing about anything and the conversation was between me and the man I was speaking with. I said you ask me to wait a moment and have a seat then 37 minutes later the thing you want to address / say to me is to interrupt a casual conversation with another and characterize it as arguing and not to ask how can you help me?\n\nI said there is no problem waiting but if you knew that it would be 40 minutes before you would even speak to me why would you not value my time and tell me that, why not tell me you will be taking other customers before me, doing working on your computer and having something to eat, please come back later or call / book online.\n\nafter I asked that Randy then told me to get out of the shop and don't come back...\n\nHe then nastily said and pick up your coffee off the table and get out. I said I have not come here to take orders from you, how can you be so rude?\n\nHe then said fine don't leave. I said really you are going to try to play mind games with a paying customer and try to use reverse psychology. I mentioned what I do in mental heath and he scoffed and laughed right in my face as he mockingly says \"psychologist\".\n\nHe then kept on being rude and following me out the door, I said you wasted 37 minutes of my time already, he then says \"it is 39 minutes\" now and called me a broken person who could not be helped...",
+            "reviewer_name": "John McILwraith",
+            "rating": 1,
+            "review_text": "I have to say that Randy Sokalofsky the  Owner/Manager @ The Big O Tire on Kingsway in Vancouver is not interested in keeping a customer or even trying to be professional when you value your time. I will not take him my car care needs again.\n\nI came into the shop at 10:58 AM, I know because I looked at my phone, I was busy and was watching the time carefully. Randy said hi and asked me what I was in for. I said a tire with a not so slow leak. Randy then said have a seat.\n\nWhile waiting in the lobby of his messy little shop he was taking payment from a customer named \"Jodie\" they talked about his and her children, grand children and her career working with children. That was a 12 minute conversation. Then a fellow came in an he had a tire with him, Randy dealt with him his tire was whisked away into the garage and he sat in the waiting area with me and one other fellow\n\nRandy went into the back of the shop, came out, sat at his desk and while using the computer took out a plastic food container and fork and began eating a bit. He then went back into the garage area at back of the shop.\n\nAt that time the fellow (customer) who was dealt with ahead of me even though I came in before them was speaking to me and I had said It has been 37 minutes since he asked me to have a seat. The other customer said ring the bell and I said, he knows I am here, he told me to have a seat for a moment and I have been here for 20 minutes before you came in, he knows I am here.\n\nRandy then comes toward the waiting area and interrupts our conversation with a question what about was said about the bell on the desk. I said I was speaking with this gentleman. Randy then says well you are arguing about the bell. I said Randy no one is arguing about anything and the conversation was between me and the man I was speaking with. I said you ask me to wait a moment and have a seat then 37 minutes later the thing you want to address / say to me is to interrupt a casual conversation with another and characterize it as arguing and not to ask how can you help me?\n\nI said there is no problem waiting but if you knew that it would be 40 minutes before you would even speak to me why would you not value my time and tell me that, why not tell me you will be taking other customers before me, doing working on your computer and having something to eat, please come back later or call / book online.\n\nafter I asked that Randy then told me to get out of the shop and don't come back...\n\nHe then nastily said and pick up your coffee off the table and get out. I said I have not come here to take orders from you, how can you be so rude?\n\nHe then said fine don't leave. I said really you are going to try to play mind games with a paying customer and try to use reverse psychology. I mentioned what I do in mental heath and he scoffed and laughed right in my face as he mockingly says \"psychologist\".\n\nHe then kept on being rude and following me out the door, I said you wasted 37 minutes of my time already, he then says \"it is 39 minutes\" now and called me a broken person who could not be helped...",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-20T00:05:06.917000Z",
+            "response_from_owner_text": "The video recording demonstrates how foolish you acted and how the others waiting around you laughed at you after you left (in case you have the ability to self-reflect). One person, with a head-shake of disbelief, pitied the 'beneficiaries' of your psychological work. Now I'm seeing the irony in how a person trained to understand humankind can't wrap his mind around a simple concept of 'waiting one's turn - no babysitting required' & 'complaining as a way to force entitlement on others'.\n\nThere was also discussion about how you openly usurped the authority of God Almighty in your feeble attempt at bullying as if 'the powers had been vested in you' or some other silly nonsense. We don't tolerate such behavior so when you began attacking, accusing, and displaying prejudice... ya, you're going to have to leave. Permanently.  Discrediting Christianity by representing it horribly is a symptom of something quite negative.\n\nCLARIFICATION: you as a no-appointment drop-in were assured that we would be able to assist you in repairing a tire without having to leave it and return (unlike the other shops you tried). The shop was informed that you (a drop-in tire repair) were waiting to have your tire repaired. The shop (not me as I'm not the person in the back doing the tire repairs (as you erroneously concluded)) continued with the work that was booked before you while I, doing my part, ensured that the shop ran smoothly. I also took payment/invoiced a customer who's vehicle was completed, had a conversation with a customer as part of my lunch-break, and spent a couple minutes actually eating my lunch and replying to emails. I think the rest of your utter misconstrued blah blah blah above demonstrates the rest of the story.\n\nComplaining to others who were waiting then denying when I overheard and attempted to explain was also immature.\n\nWe don't like people who berate/belittle service industry people. We don't like people who place themselves above their neighbours. We don't like people who are openly judgmental. And we don't like people who bring negativity (toxicity) into our space. You are all of these things. Standing up and blurting out - as some type of qualifier - that you are a psychologist so you know Randy is wrong sealed the deal.\n\nEnjoy your life. Enjoy the ramifications of the path you've justified taking. Enjoy blessing another shop in Vancouver with your superiority complex. We all enjoyed the relief and peace that was restored after you stomped off like a child. Our world is better without you.\n\nBlessings & buh-bye. \n",
+            "response_from_owner_ago": "3 months ago",
+            "response_from_owner_date": "2023-08-20T04:26:12.846000Z",
+            "review_likes_count": 7,
+            "total_number_of_reviews_by_reviewer": 6,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/108926450554693137422/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUBo3iOeG7ZXGAzBLEHrK1U1iXyamCOA_bHxMbD8z_N_t0=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Randy was very helpful he fixed my tire and saved me some money . I was in and out fast he also has good customer service skills I will definitely be back. Highly recommend ",
+            "reviewer_name": "gavin o connor",
+            "rating": 5,
+            "review_text": "Randy was very helpful he fixed my tire and saved me some money . I was in and out fast he also has good customer service skills I will definitely be back. Highly recommend ",
+            "published_at": "5 months ago",
+            "published_at_date": "2023-06-16T21:50:56.666000Z",
+            "response_from_owner_text": "Thank you Gavin!",
+            "response_from_owner_ago": "4 months ago",
+            "response_from_owner_date": "2023-07-16T22:05:58.953000Z",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/111354588909891441207/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKo0plgXV9i9g1A4dkmnFn836f1aR1Jpm4Jw_JH47xk=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

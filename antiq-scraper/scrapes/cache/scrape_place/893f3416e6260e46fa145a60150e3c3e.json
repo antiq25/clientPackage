@@ -1,0 +1,400 @@
+{
+    "place_id": "ChIJxcvdKx92hlQRzECyONWAgm0",
+    "name": "Fresh Ideas Start Here",
+    "description": null,
+    "reviews": 236,
+    "website": "http://eatfish.ca/",
+    "owner": {
+        "id": "105179275851275896648",
+        "name": "Fresh Ideas Start Here (Owner)",
+        "link": "https://www.google.com/maps/contrib/105179275851275896648"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNQZHRNuCxSl6WR1vuiP_jAdEcpPU7vGvX0jDTB=w408-h544-k-no",
+    "main_category": "Seafood market",
+    "categories": [
+        "Seafood market",
+        "Seafood restaurant"
+    ],
+    "rating": 4.4,
+    "workday_timing": "11 a.m.-6 p.m.",
+    "closed_on": [],
+    "phone": "(604) 398-3987",
+    "address": "Fresh Ideas Start Here, 7515 Market Crossing #180, Burnaby, BC V6J 0A3",
+    "review_keywords": [
+        {
+            "keyword": "poke",
+            "count": 46
+        },
+        {
+            "keyword": "uni",
+            "count": 11
+        },
+        {
+            "keyword": "salmon",
+            "count": 9
+        },
+        {
+            "keyword": "halibut",
+            "count": 8
+        },
+        {
+            "keyword": "frozen",
+            "count": 8
+        },
+        {
+            "keyword": "rice",
+            "count": 8
+        },
+        {
+            "keyword": "fresh fish",
+            "count": 5
+        },
+        {
+            "keyword": "onigiri",
+            "count": 5
+        },
+        {
+            "keyword": "crab cakes",
+            "count": 5
+        },
+        {
+            "keyword": "flavour",
+            "count": 5
+        }
+    ],
+    "link": "https://www.google.com/maps/place/Fresh+Ideas+Start+Here/data=!4m7!3m6!1s0x5486761f2bddcbc5:0x6d8280d538b240cc!8m2!3d49.1979573!4d-122.9784771!16s%2Fg%2F1ts3f9kw!19sChIJxcvdKx92hlQRzECyONWAgm0?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 11 a.m.",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 17,
+        "2": 3,
+        "3": 13,
+        "4": 42,
+        "5": 161
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJxcvdKx92hlQRzECyONWAgm0&q=Fresh+Ideas+Start+Here&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.1979573,
+        "longitude": -122.97847709999999
+    },
+    "plus_code": "52XC+5J Burnaby, British Columbia",
+    "detailed_address": {
+        "ward": null,
+        "street": "7515 Market Crossing #180",
+        "city": "Burnaby",
+        "postal_code": "V6J 0A3",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "7891011150374125772",
+    "data_id": "0x5486761f2bddcbc5:0x6d8280d538b240cc",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "In-store shopping",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPhpdqR3PnZUF-q4MBBLRTccI9I1VLpFBG5NWOB=w397-h298-k-no"
+        },
+        {
+            "about": "Latest",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipM_tWa6irn0Izw3cwYRMZwpuHUlXmjXEp3CT0Op=w224-h298-k-no"
+        },
+        {
+            "about": "Inside",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOrUiv4yzPtt87r84nnsV1sZu_I2kD0E-o0it9_=w397-h298-k-no"
+        },
+        {
+            "about": "Seafood",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNOyzQ4M7XgT3gwEV-2o51vo1RvhwcYCWYGnGeg=w529-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMAvyoZpZOlAWa4VIA0H5HGdXez6xz_CptCJ0gK=w224-h336-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ZM5QlyH2Mpc_H9wEhWfocA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=160.84906&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "11 a.m.-6 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "11 a.m.-6 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "11 a.m.-6 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "11 a.m.-6 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "11 a.m.-6 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "11 a.m.-6 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "11 a.m.-6 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "Fresh Ideas Start Here sells fresh and frozen sustainably caught seafood and the majority of their products are locally sourced. They have seafood that is raw and ready to cook as well as foods that have already been assembled and may just need a bit of time in the oven or on the stove before it's ready to eat. (eg. Crab Cakes,Truffle Spot Prawn Mac n Cheese)\n\nTo celebrate the launch of their fall seasonal menu, Fresh Ideas Start Here was offering a small bowl of complimentary seafood congee to the first 50 customers who came into their store and mentioned the word \"halibut.\" We'd never tried this seafood congee before, but apparently it's a \"cult favourite\" so we went to the store right when it opened and managed to bring home some of this famed seafood congee.\n\nOh wow! This seafood congee exceeded my expectations. I totally understand now why it's a cult favourite. It was packed with seafood. They don't skimp on ingredients at this place. According to the stickers stuck onto our containers, a small congee is normally $6 and a large congee is normally $8. I would absolutely go back and pay to have this seafood congee again! I'm so happy that it's Fall now. With hot summer days leaving, and cooler weather arriving, we should definitely have a reason to go back for the seafood congee!\n\nService: Good\nParking: Plentiful and free\nLocation: 7515 Market Crossing #180, Burnaby",
+            "reviewer_name": "Josephine Ma",
+            "rating": 5,
+            "review_text": "Fresh Ideas Start Here sells fresh and frozen sustainably caught seafood and the majority of their products are locally sourced. They have seafood that is raw and ready to cook as well as foods that have already been assembled and may just need a bit of time in the oven or on the stove before it's ready to eat. (eg. Crab Cakes,Truffle Spot Prawn Mac n Cheese)\n\nTo celebrate the launch of their fall seasonal menu, Fresh Ideas Start Here was offering a small bowl of complimentary seafood congee to the first 50 customers who came into their store and mentioned the word \"halibut.\" We'd never tried this seafood congee before, but apparently it's a \"cult favourite\" so we went to the store right when it opened and managed to bring home some of this famed seafood congee.\n\nOh wow! This seafood congee exceeded my expectations. I totally understand now why it's a cult favourite. It was packed with seafood. They don't skimp on ingredients at this place. According to the stickers stuck onto our containers, a small congee is normally $6 and a large congee is normally $8. I would absolutely go back and pay to have this seafood congee again! I'm so happy that it's Fall now. With hot summer days leaving, and cooler weather arriving, we should definitely have a reason to go back for the seafood congee!\n\nService: Good\nParking: Plentiful and free\nLocation: 7515 Market Crossing #180, Burnaby",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-09T16:57:43.800000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 257,
+            "total_number_of_photos_by_reviewer": 1569,
+            "reviewer_url": "https://www.google.com/maps/contrib/109835683511918603870/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXhYpAUbdYf1P2mLHxA_FCyEQ4blqQfgBAjbS4YlI_h8Xk=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOO13705owQEzSxju2lsiyZDCF2D6xgmyA2slQK=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNRStfGm8oxOXVwTk24la27NXUoT811D7vJEBTH=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPJUPd5-xREz8EVDAHBjixj0KIdULPLOhB-CxoZ=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOcPSf2Z03GFvjPUx-jrqBAaxQZvsF0PjYRYBoL=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOYTDPbvEhUDTA0yeeR-h6199REvQpfUSlO1ihC=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNC_BWhTerpoSwVFB8gfjafETMm_EfcjdzkWY4v=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipM7La4netkUXMpict1kZZ6E0zgba_4e2ylEx6sQ=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNiXIvzcVKsUZ4r9ejDRWqv_Tw2DDzQMthaDvbe=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMbKJaJjNM7izydVHvo85_NN68udkLZlVVQ4zoV=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPUm0I8YUezU9qX6pcETMndrXFTFUuRRhWzBDlb=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Chris is always friendly and the seafood is super fresh and their prices are great. I grab stuff to make dinner and ceviche and stuff all the time! Highly recommend  ",
+            "reviewer_name": "Bryan Chow",
+            "rating": 5,
+            "review_text": "Chris is always friendly and the seafood is super fresh and their prices are great. I grab stuff to make dinner and ceviche and stuff all the time! Highly recommend  ",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-08-31T00:52:43.566000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 9,
+            "total_number_of_photos_by_reviewer": 3,
+            "reviewer_url": "https://www.google.com/maps/contrib/115306826344107109457/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVAFmIPEhPiwkKOpTZqsyO3DuvVr2OsT3NoWa95Mf0NCUo=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMCM_K8W3vGaNyQXzSeW-Dr1Dzkvu9_O-rse1qO=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "The employees are very kind and explains in detail if you have any questions. I visited because I wanted to get sea urchin(uni) and spotted prawn, but it was not the season yet, so I bought frozen sea urchin and defrosted it.\nAlso I'm very satisfied with the poke that the staff makes on the spot and it was delicious. I'm going to visit here again.",
+            "reviewer_name": "Endorphin YK",
+            "rating": 5,
+            "review_text": "The employees are very kind and explains in detail if you have any questions. I visited because I wanted to get sea urchin(uni) and spotted prawn, but it was not the season yet, so I bought frozen sea urchin and defrosted it.\nAlso I'm very satisfied with the poke that the staff makes on the spot and it was delicious. I'm going to visit here again.",
+            "published_at": "a year ago",
+            "published_at_date": "2022-06-12T03:36:35.346000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 3,
+            "total_number_of_reviews_by_reviewer": 5,
+            "total_number_of_photos_by_reviewer": 13,
+            "reviewer_url": "https://www.google.com/maps/contrib/103021264728862097516/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIg5oiL2_xhSqLDj2Z2mAkm8G3JDBNcRa18O4OUYr5E=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipM385QPypCQfZRuhB2FLZeltGnBOMrH8Owz4hFH=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipM-KQfMYpBArhhg7i4dEF8eMPpFOXiBk9B30OkL=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "I come here to buy uni. The staff here is amazing. Very knowledgeable and always cheerful. You leave with a smile on your face. I recommend that you also try their smoke salmon and cod.",
+            "reviewer_name": "Victor Unscripted",
+            "rating": 5,
+            "review_text": "I come here to buy uni. The staff here is amazing. Very knowledgeable and always cheerful. You leave with a smile on your face. I recommend that you also try their smoke salmon and cod.",
+            "published_at": "a week ago",
+            "published_at_date": "2023-11-12T16:09:51.583000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 29,
+            "total_number_of_photos_by_reviewer": 8,
+            "reviewer_url": "https://www.google.com/maps/contrib/100553014107288854233/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUW8Sk8PgR_IokSsfixV-E1mM_IAbc1mmZLuS2VVULw6BY=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Popped in today and all we got was ready made food--onigiri, inari, and a poke bowl. All were very fresh and tasty and the staff were very good to us :) Will be back!",
+            "reviewer_name": "KC Smith",
+            "rating": 5,
+            "review_text": "Popped in today and all we got was ready made food--onigiri, inari, and a poke bowl. All were very fresh and tasty and the staff were very good to us :) Will be back!",
+            "published_at": "4 days ago",
+            "published_at_date": "2023-11-18T03:57:58.666000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 13,
+            "total_number_of_photos_by_reviewer": 2,
+            "reviewer_url": "https://www.google.com/maps/contrib/111900637703388905459/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLmqq8UaknDVsu8sAlzFtlsd0CO9IUOisP_Oftxjttc=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "If you're in the area or not.  Craving for some fresh poke!!  Look no further!  You can purchase the onigiri here as well to go with your poke bowl.  It's jam packed full of fresh poke and ingredients.  Need some super fresh seafood as well!   They have all that as well.  Can't be any fresher then them processing it in the store.  They do have some frozen products as well, but mainly fresh.  You won't be disappointed",
+            "reviewer_name": "michael sum",
+            "rating": 5,
+            "review_text": "If you're in the area or not.  Craving for some fresh poke!!  Look no further!  You can purchase the onigiri here as well to go with your poke bowl.  It's jam packed full of fresh poke and ingredients.  Need some super fresh seafood as well!   They have all that as well.  Can't be any fresher then them processing it in the store.  They do have some frozen products as well, but mainly fresh.  You won't be disappointed",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-06T22:48:09.961000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 131,
+            "total_number_of_photos_by_reviewer": 88,
+            "reviewer_url": "https://www.google.com/maps/contrib/101295608300203880161/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLs3uGjfQZcJOLG-mmg9dTIsvfkRtUMOwS-DNW2_vj9=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Best Poke bowl I have ever tried. My sister and I both got the Bara Chirashi and it was delicious! They ran out of octopus so we picked more ahi tuna. I may decide to do the same substitute in future since the tuna was great!",
+            "reviewer_name": "C L",
+            "rating": 5,
+            "review_text": "Best Poke bowl I have ever tried. My sister and I both got the Bara Chirashi and it was delicious! They ran out of octopus so we picked more ahi tuna. I may decide to do the same substitute in future since the tuna was great!",
+            "published_at": "6 months ago",
+            "published_at_date": "2023-04-23T19:25:30.991000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 4,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/115017410938797633677/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJ5sjoKkoV1tI4JJKR8hBErSYCviFyR9OErYFzJZfy_=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMgJiErRqGs_pZmgEOd_Eg8_JsEu-7WdVrFvquU=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "As you can see from the photos, my poke bowl is drown in the classic sauce.. I've always gotten poke from here but it has been going downhill. I am so disappointed :( !!!!!! Make sure all staff know how to make the order!!! I don't think i'm ever returning as it was really bad and with the price I paid for, I could go somewhere better!!",
+            "reviewer_name": "Carissa Wong",
+            "rating": 1,
+            "review_text": "As you can see from the photos, my poke bowl is drown in the classic sauce.. I've always gotten poke from here but it has been going downhill. I am so disappointed :( !!!!!! Make sure all staff know how to make the order!!! I don't think i'm ever returning as it was really bad and with the price I paid for, I could go somewhere better!!",
+            "published_at": "a year ago",
+            "published_at_date": "2022-08-14T19:41:39.285000Z",
+            "response_from_owner_text": "Hi Claire! Thank you for taking the time to give us your valuable feedback.\n\nWe are so sorry to hear about your recent experience and we'd love to make things right. Please drop us a message at info@eatfish.ca. Looking forward to hearing from you!",
+            "response_from_owner_ago": "a year ago",
+            "response_from_owner_date": "2022-08-17T07:46:01.518000Z",
+            "review_likes_count": 3,
+            "total_number_of_reviews_by_reviewer": 3,
+            "total_number_of_photos_by_reviewer": 2,
+            "reviewer_url": "https://www.google.com/maps/contrib/117285114357720050712/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKR4-eMmaPXKwDkFrltvDt7qMVY-oOKcRv4DCmhi9iLdA=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMNxYuSifwj4wKMqT6Nc4et5x8Xg0qAtTflu6tc=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPQ1YEtagQNxr65NFQ9SFsknm5m5EGYyDIRkoFb=w150-h150-k-no-p"
+            ]
+        }
+    ],
+    "is_spending_on_ads": false
+}

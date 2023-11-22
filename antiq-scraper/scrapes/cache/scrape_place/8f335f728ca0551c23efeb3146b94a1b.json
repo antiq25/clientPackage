@@ -1,0 +1,681 @@
+{
+    "place_id": "ChIJqYIGTy9yhlQRuS6kHx4pVKM",
+    "name": "Hook Restaurant",
+    "description": "Stylish, airy waterfront eatery serving seafood-focused plates alongside craft beers & cocktails.",
+    "reviews": 1031,
+    "website": "http://www.hookrestaurant.ca/",
+    "owner": {
+        "id": "103825243475260039160",
+        "name": "Hook Restaurant (Owner)",
+        "link": "https://www.google.com/maps/contrib/103825243475260039160"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNLPafud1LqU1MQZWAUnrlDi78DgSRrXise8lzd=w408-h272-k-no",
+    "main_category": "Seafood restaurant",
+    "categories": [
+        "Seafood restaurant",
+        "Brunch restaurant",
+        "Oyster bar restaurant"
+    ],
+    "rating": 4.2,
+    "workday_timing": "3-10 p.m.",
+    "closed_on": [],
+    "phone": "(604) 620-4668",
+    "address": "Hook Restaurant, 1210 Denman St, Vancouver, BC V6G 2N2",
+    "review_keywords": [
+        {
+            "keyword": "patio",
+            "count": 62
+        },
+        {
+            "keyword": "happy hour",
+            "count": 54
+        },
+        {
+            "keyword": "fish and chips",
+            "count": 53
+        },
+        {
+            "keyword": "sunset",
+            "count": 40
+        },
+        {
+            "keyword": "BLT",
+            "count": 11
+        },
+        {
+            "keyword": "guacamole",
+            "count": 11
+        },
+        {
+            "keyword": "soft shell crab",
+            "count": 10
+        },
+        {
+            "keyword": "beet",
+            "count": 7
+        },
+        {
+            "keyword": "brussel sprouts",
+            "count": 7
+        },
+        {
+            "keyword": "cactus",
+            "count": 5
+        }
+    ],
+    "link": "https://www.google.com/maps/place/Hook+Restaurant/data=!4m7!3m6!1s0x5486722f4f0682a9:0xa354291e1fa42eb9!8m2!3d49.2868665!4d-123.1419375!16s%2Fg%2F11fxcdby4k!19sChIJqYIGTy9yhlQRuS6kHx4pVKM?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 3 p.m.",
+    "price_range": "$$$",
+    "reviews_per_rating": {
+        "1": 72,
+        "2": 47,
+        "3": 91,
+        "4": 255,
+        "5": 566
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJqYIGTy9yhlQRuS6kHx4pVKM&q=Hook+Restaurant&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.286866499999995,
+        "longitude": -123.1419375
+    },
+    "plus_code": "7VP5+P6 Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "Central Vancouver",
+        "street": "1210 Denman St",
+        "city": "Vancouver",
+        "postal_code": "V6G 2N2",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "11769076935582559929",
+    "data_id": "0x5486722f4f0682a9:0xa354291e1fa42eb9",
+    "menu": {
+        "link": "http://www.hookrestaurant.ca/",
+        "source": "hookrestaurant.ca"
+    },
+    "reservations": [
+        {
+            "link": "https://www.opentable.ca/restaurant/profile/1292314%3Fref%3D16423",
+            "source": "opentable.ca"
+        }
+    ],
+    "order_online_links": [
+        {
+            "link": "https://www.opentable.ca/restaurant/profile/1292314?ref=16423",
+            "source": "opentable.ca"
+        }
+    ],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Outdoor seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Takeout",
+                    "enabled": true
+                },
+                {
+                    "name": "Dine-in",
+                    "enabled": true
+                },
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "highlights",
+            "name": "Highlights",
+            "options": [
+                {
+                    "name": "Sports",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair accessible seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Alcohol",
+                    "enabled": true
+                },
+                {
+                    "name": "Beer",
+                    "enabled": true
+                },
+                {
+                    "name": "Cocktails",
+                    "enabled": true
+                },
+                {
+                    "name": "Coffee",
+                    "enabled": true
+                },
+                {
+                    "name": "Happy hour food",
+                    "enabled": true
+                },
+                {
+                    "name": "Hard liquor",
+                    "enabled": true
+                },
+                {
+                    "name": "Healthy options",
+                    "enabled": true
+                },
+                {
+                    "name": "Late-night food",
+                    "enabled": true
+                },
+                {
+                    "name": "Small plates",
+                    "enabled": true
+                },
+                {
+                    "name": "Vegetarian options",
+                    "enabled": true
+                },
+                {
+                    "name": "Wine",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Dining options",
+            "options": [
+                {
+                    "name": "Brunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Lunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Dinner",
+                    "enabled": true
+                },
+                {
+                    "name": "Catering",
+                    "enabled": true
+                },
+                {
+                    "name": "Dessert",
+                    "enabled": true
+                },
+                {
+                    "name": "Seating",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Bar on-site",
+                    "enabled": true
+                },
+                {
+                    "name": "Dogs allowed",
+                    "enabled": true
+                },
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                },
+                {
+                    "name": "Wi-Fi",
+                    "enabled": true
+                },
+                {
+                    "name": "Wi-Fi",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosphere",
+            "options": [
+                {
+                    "name": "Casual",
+                    "enabled": true
+                },
+                {
+                    "name": "Cozy",
+                    "enabled": true
+                },
+                {
+                    "name": "Romantic",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "crowd",
+            "name": "Crowd",
+            "options": [
+                {
+                    "name": "Family-friendly",
+                    "enabled": true
+                },
+                {
+                    "name": "Groups",
+                    "enabled": true
+                },
+                {
+                    "name": "LGBTQ+ friendly",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planning",
+            "options": [
+                {
+                    "name": "Accepts reservations",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "children",
+            "name": "Children",
+            "options": [
+                {
+                    "name": "Good for kids",
+                    "enabled": true
+                },
+                {
+                    "name": "High chairs",
+                    "enabled": true
+                },
+                {
+                    "name": "Kids' menu",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNLPafud1LqU1MQZWAUnrlDi78DgSRrXise8lzd=w446-h298-k-no"
+        },
+        {
+            "about": "Latest",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNZFqLpRwf3FQJR_JwvhjBiB5bw7z9qhQtRYjfQ=w224-h398-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMCnL5KQJWYTyWEbXV4fXVXVmZ39AfeHv22bpjB=w224-h398-k-no"
+        },
+        {
+            "about": "Menu",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipO_bGOJruaNPc_7Rawg9G9LWQqV2LWWs5DZGcrH=w481-h298-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMLKNwVleYzEKQ930_AvFuzT-DS-J8flmF1sVw1=w447-h298-k-no"
+        },
+        {
+            "about": "Vibe",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMXrNKdlS3H7ypgHWEMQsfYJK6lUBiQk5w2fcne=w238-h298-k-no"
+        },
+        {
+            "about": "Fish and chips",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPvAvfkfl3RoZa0Pk_5kwugwsjvdF6EZwCpdtHO=w447-h298-k-no"
+        },
+        {
+            "about": "Oyster",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipN1B-lRNP77polG0RgBD43dOhwgnBJ-TRdjiro6=w529-h298-k-no"
+        },
+        {
+            "about": "Guacamole",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMHvHSYPA_7BuAU7nA8C-t3q0HCNMSkPTe4rWOx=w397-h298-k-no"
+        },
+        {
+            "about": "Chicken Wings",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNx5cBsMNAaEVAI-D_PP-iURjL_kZUb_hiyAM-y=w224-h298-k-no"
+        },
+        {
+            "about": "Beer",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNXjQt_cO6Mtx_J28dbL6bTcOtQdH3KCu5L2y3Z=w224-h398-k-no"
+        },
+        {
+            "about": "Chicken sandwich",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPfW7LnFbDIt3k8X-qrfGSovKM8ruJmrSySQe1W=w613-h298-k-no"
+        },
+        {
+            "about": "Tuna salad",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipP26-J1CXuASURrmLrPe9B0DrLVica63xjvFmxo=w224-h298-k-no"
+        },
+        {
+            "about": "Seafood",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMwZ54DY2HbJ_tQ5yk80qAVpgT3oVCvy39bcT_-=w397-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOEOPPzAk5OxClXak2cieo7QcAxypHQ5PwoHGnO=w447-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=AfMZ36CG1fpuGPNRzXMr5w&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=165.7925&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "3-10 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "3-10 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "3-10 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "3-10 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "3-11 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "11 a.m.-11 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "11 a.m.-10 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "A great fine and dine just in front of the English Bay beach. You got to the see the best sunset from the patio, at the hook! The food is tasty, and it will bring mouth watery flavours to you. A great sea food experience, the one you won't experience anywhere else. Food service at its best, servers are so welcoming, friendly and their recommendations are great. Beers, Lagers, Ale, wine, and speciality cocktails name it any, and they will have for you at the bar. The best oysters with the best standards. Perfectly shucked. Come and have a experience!",
+            "reviewer_name": "Apurv Gaur",
+            "rating": 5,
+            "review_text": "A great fine and dine just in front of the English Bay beach. You got to the see the best sunset from the patio, at the hook! The food is tasty, and it will bring mouth watery flavours to you. A great sea food experience, the one you won't experience anywhere else. Food service at its best, servers are so welcoming, friendly and their recommendations are great. Beers, Lagers, Ale, wine, and speciality cocktails name it any, and they will have for you at the bar. The best oysters with the best standards. Perfectly shucked. Come and have a experience!",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-04T02:00:30.447000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 38,
+            "total_number_of_photos_by_reviewer": 1026,
+            "reviewer_url": "https://www.google.com/maps/contrib/106467920143108792752/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW35QPe_FLWqxly2hhky5pfEQD3XH0SQ4SddBVjN4qCSryo=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPFlgq5S-JjCoJZHZhFK6zBkCbHELRuYLS66R4c=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOdD_aVuY8I-H1baY6paVw4dw59b2L96zY4Qt_3=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOg-3WhxmNaW3BPnE2HwgaX5NEX5TFYBPPvJbgj=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPdlphJDkQ7FKShT0MCkpdVyNkNwYaLo-aoO2OY=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPAg4nFu4-8T1viXceS2tpYZ8PbAhODAKuJbsm1=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipM4B4wGFx2IbMc23ReFz3kx6PXkQ5tb_8KkfN-P=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMfOvUTSj94Twusf9NB-fYqMijEVI0he_lLTbVa=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOA1MlQS-SFjzm1TyyHfjQG7EuMAxlN4WAHhCBV=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNDIQv9uENm6N39dBR-GhsS1Z-Zg-owkQVhxzoX=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPxdVr6UBtmsp9ujQJZkf8GorK3Fm1fwiHgWgJV=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMCE5XBNN6rKHDn2Rq3Hk0Bzd2QFMJTNT34ZOWz=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNJDVSn656zCdapdjfF0eKa_mdapbvAHbg66-n7=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPqnjitplq4UfPNi0QZ99qogx2B5tkJJviTx8Vg=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMMthLIJd0ze8MGqP4u3VOosreCtdHmdoYWMDy1=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNyZramgtCR-V5QtGvfYO5uGhlEZW3EAKDE_41d=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipN3VKpX6-A6wxgAPtqRObTvZh3VrciyHwyn3g3w=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPCDAkX-r7-LnR2XBV1eAbeA-SzooOk_ICGnnRv=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOSH96OyRusaQgl9_TxGQd2IaqDMOO6SIz9MHgg=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOeYC0ouHnxrEOVuiITWIzCQlnDcvg4N9CkAGys=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipP5DqK7QJmBqhOLZrKrjtd61zMD1SQgJ38R0sa8=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMEVg0mDccaWzaoi0q4ltc-auD_lQzDq1ZSK5S7=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOv1pASSW0_a1VaIXUUBR-ojXCon-o01pEars0Q=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMg22mo1qEuvURaYJYJrczh3zC-PgpCX4nwQbhB=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNVXzGQYrc5rmwva09y0xUXLaJtJHtqpnBQwJQQ=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Fantastic experience from beginning to end! Everyone loved the food - the only comment the even resembled criticism was the angry pasta could have been angrier (spicier) but so many dishes had us talking about them days later: baked oysters, sliders, asparagus, Brussels sprouts, seafood mac and cheese, the mocktails, cookies & ice cream... it was the highlight meal on our trip! The staff was beyond accommodating and everyone we interacted with was genuine, cheerful, and each an absolute delight! We were a group of 8 with small children and we wandered in without reservations and we were treated to a fantastic meal. I can't recommend this place enough!",
+            "reviewer_name": "Shawna Tregunna",
+            "rating": 5,
+            "review_text": "Fantastic experience from beginning to end! Everyone loved the food - the only comment the even resembled criticism was the angry pasta could have been angrier (spicier) but so many dishes had us talking about them days later: baked oysters, sliders, asparagus, Brussels sprouts, seafood mac and cheese, the mocktails, cookies & ice cream... it was the highlight meal on our trip! The staff was beyond accommodating and everyone we interacted with was genuine, cheerful, and each an absolute delight! We were a group of 8 with small children and we wandered in without reservations and we were treated to a fantastic meal. I can't recommend this place enough!",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-06T03:12:16.581000Z",
+            "response_from_owner_text": "Hi Shawna!\nThanks so much for the great review.  We will pass on the feedback to our Chef.  We hope to see you again soon!",
+            "response_from_owner_ago": "a month ago",
+            "response_from_owner_date": "2023-10-06T21:09:29.533000Z",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 29,
+            "total_number_of_photos_by_reviewer": 80,
+            "reviewer_url": "https://www.google.com/maps/contrib/104393657936344473173/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVNu8XX-FiCbOIIuUTYAlRzwFtzIgHLp1jEz6tSBC5YMBg=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPuuM2IMEvPG3MU-O5XC-JplpVo7CZPwl3jFJA=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "I live 1 block away from Hook , so I pass by this place everyday, it has a good vibe , always full of people , smiling friendly staff, and a nice patio\nI ordered its famous Fish& Chips with halibut 30$(you can also order with Cod-26$)\nChips great! Sauce great ,salad great , Fish a little greasy though.\nThe order was served a little late , and there were not much of a choice for Vegetarians in main courses!\nWe ordered yam fries as well, soft inside , crispy outside and well seasoned! Delicious!\nGreat view of english bay is by your side !",
+            "reviewer_name": "niloofar tavasoli (Nillicious)",
+            "rating": 4,
+            "review_text": "I live 1 block away from Hook , so I pass by this place everyday, it has a good vibe , always full of people , smiling friendly staff, and a nice patio\nI ordered its famous Fish& Chips with halibut 30$(you can also order with Cod-26$)\nChips great! Sauce great ,salad great , Fish a little greasy though.\nThe order was served a little late , and there were not much of a choice for Vegetarians in main courses!\nWe ordered yam fries as well, soft inside , crispy outside and well seasoned! Delicious!\nGreat view of english bay is by your side !",
+            "published_at": "5 months ago",
+            "published_at_date": "2023-06-04T23:14:55.934000Z",
+            "response_from_owner_text": "Hello Nillicious, \nThank you very much for your review! We are working on our operations so I appreciate your comments. ",
+            "response_from_owner_ago": "4 months ago",
+            "response_from_owner_date": "2023-07-03T01:36:31.725000Z",
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 24,
+            "total_number_of_photos_by_reviewer": 44,
+            "reviewer_url": "https://www.google.com/maps/contrib/109398156912283803917/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjV6VfZnB994bj4XRGTYal3QERyOw_iIloVLU0a-r5MKnQ=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPFnilxs6EsbY7GkHVwxcXV6l-zD452rbVp9-Yf=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMCnL5KQJWYTyWEbXV4fXVXVmZ39AfeHv22bpjB=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipM7p2jqMClF3eqD2B7kiwz_iN8Zt1AellbUebzE=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMu0pwzr5d6OII-xj0cDjj8Tcc5k8NPkphcfoq9=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipM_H-kPljbdxzb9B57hwgmR62hxP4zkfNE64Kkc=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNsOUSh3AQNxCTzee50iYYY5gw5Mi10j1y8Pox4=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Nice view, the food was ok, they changed the whole menu, so if you're craving for something that you saw on google maps, they may not have it anymore, however the fish and chips and some poke bowls are still there.\nThe staff is really nice, and despite our small disappointment about the menu we had a really good meal.",
+            "reviewer_name": "JS H",
+            "rating": 4,
+            "review_text": "Nice view, the food was ok, they changed the whole menu, so if you're craving for something that you saw on google maps, they may not have it anymore, however the fish and chips and some poke bowls are still there.\nThe staff is really nice, and despite our small disappointment about the menu we had a really good meal.",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-08-27T14:14:13.293000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 167,
+            "total_number_of_photos_by_reviewer": 671,
+            "reviewer_url": "https://www.google.com/maps/contrib/112266310609717841809/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVpOvNkXSvfSvIpkanzC6U7jZGzJcbzXCjtP5gm8VckNjE=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipN1eBTMNmEACpOjmVskhx6OLXhT_68SwID66cvB=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMDVp5CuRKytDVgEniPjvsEjlfJqubP7fTtQSkS=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOMXWaKMaX8XodTSdq9wzmI05HdQEEtDwqyy5_K=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMMf7CiCMjQJIeExAmuuSRwFgdvpsYulnc1gIyy=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNMILo5jylCbnXhFj66gBg7UFavIorslCGdFNeX=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipODfKFbBqHrTA1tG7L7yiBYRDzGElsSAThsfhZN=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMlBtFf4-DWw5X88kTZ7cMAITvAJoief5A_ICYE=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Great service here! I was here with a few friends on the fireworks festival. Although we were here kinda the last minute they still gladly arranged seats for us. We sat at the corner seat which is a gorgeous seat with a full view of the beach. The food here are also awesome, which although there aren't that many choice of food dishes, this is still a highly recommended restaurant.",
+            "reviewer_name": "Ian Chen",
+            "rating": 5,
+            "review_text": "Great service here! I was here with a few friends on the fireworks festival. Although we were here kinda the last minute they still gladly arranged seats for us. We sat at the corner seat which is a gorgeous seat with a full view of the beach. The food here are also awesome, which although there aren't that many choice of food dishes, this is still a highly recommended restaurant.",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-07-31T21:31:53.587000Z",
+            "response_from_owner_text": "Hi Ian! \n\nThank you so much for your review- very happy we were able to accommodate you :) ",
+            "response_from_owner_ago": "3 months ago",
+            "response_from_owner_date": "2023-07-31T22:05:24.102000Z",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 76,
+            "total_number_of_photos_by_reviewer": 1470,
+            "reviewer_url": "https://www.google.com/maps/contrib/104294028454019663054/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXzcOarqndjZSRCpzDNiUmaWrmC1IFSE4_U4O2TC1trOiE=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipN1B-lRNP77polG0RgBD43dOhwgnBJ-TRdjiro6=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNzC0lLspYou5XLdfROJ9_-tNEy3lHPx1t_llbr=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMT44J2QGimGM5oW6tpjKFM_FsICVsFE4J1r10-=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "The best beach side restaurant in Vancouver! The vibes in there are awesome. The service is absolutely bang on. Jonah, Theo and Sham gave us such an unreal experience at Hook. From the stunning drinks to the unreal shucking, the staff there treat their guests like family. Making sure to ask for your names and give you a good experience. Their seafood and oysters are the freshest I've ever had and the biggest oysters I've ever eaten in my life! This is the restaurant to go to not only for the food but for the service. Our new fave spot in the West End!",
+            "reviewer_name": "Alexandra Panganiban",
+            "rating": 5,
+            "review_text": "The best beach side restaurant in Vancouver! The vibes in there are awesome. The service is absolutely bang on. Jonah, Theo and Sham gave us such an unreal experience at Hook. From the stunning drinks to the unreal shucking, the staff there treat their guests like family. Making sure to ask for your names and give you a good experience. Their seafood and oysters are the freshest I've ever had and the biggest oysters I've ever eaten in my life! This is the restaurant to go to not only for the food but for the service. Our new fave spot in the West End!",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-12T17:40:55.990000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 6,
+            "total_number_of_photos_by_reviewer": 7,
+            "reviewer_url": "https://www.google.com/maps/contrib/102018580972206354747/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW_2xTwxKqAOl2b9fWG5QyzySLpM0EymJsai9hFXFo9aw=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNFSZ5F1Jcjlvp7z0qh2Lsh5t10s1Q38alkUYez=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "One of the best restaurant experiences we've had in Vancouver! We had an event there and everything was absolutely perfect. The chef there is incredible talented, the staff was so friendly and attentive, and the manager Axel made sure it all ran smoothly. We watched the sunset through through the windows while everything unfolded perfectly. Everyone kept raving about the service, food and atmosphere. I would give more stars if I could. Thanks again for one of the best nights!!!",
+            "reviewer_name": "Amanda S",
+            "rating": 5,
+            "review_text": "One of the best restaurant experiences we've had in Vancouver! We had an event there and everything was absolutely perfect. The chef there is incredible talented, the staff was so friendly and attentive, and the manager Axel made sure it all ran smoothly. We watched the sunset through through the windows while everything unfolded perfectly. Everyone kept raving about the service, food and atmosphere. I would give more stars if I could. Thanks again for one of the best nights!!!",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-03T15:18:04.375000Z",
+            "response_from_owner_text": "Amanda thank you so much! The event was so beautiful and we were thrilled to have the opportunity to host you! Thanks for the review! \n",
+            "response_from_owner_ago": "4 months ago",
+            "response_from_owner_date": "2023-07-13T07:27:20.752000Z",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 16,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/105134576056068289633/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKZ874a_0s89T-gQ7_p6jAi8Zy8sn8m1UY0M5pTd9Tv=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMSaNwEdTNw_w0rkoa7VIMGrobhCxBYcoggJl4w=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "I've been to Hook a couple times now and it's always been great. On my last trip the server Bre was amazing with our group. We had a couple different people with a lot of different orders and she took great care of us. The burger is a classic and the Miraval Rose was amazing.",
+            "reviewer_name": "Yohan M.",
+            "rating": 5,
+            "review_text": "I've been to Hook a couple times now and it's always been great. On my last trip the server Bre was amazing with our group. We had a couple different people with a lot of different orders and she took great care of us. The burger is a classic and the Miraval Rose was amazing.",
+            "published_at": "6 months ago",
+            "published_at_date": "2023-05-14T06:27:23.898000Z",
+            "response_from_owner_text": "Hi Yohan! Thank you so much for the review! ",
+            "response_from_owner_ago": "5 months ago",
+            "response_from_owner_date": "2023-05-22T23:34:15.229000Z",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 72,
+            "total_number_of_photos_by_reviewer": 224,
+            "reviewer_url": "https://www.google.com/maps/contrib/110221477478290323261/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWeEZSPDsQWVGBtGEFynMcot00r2Qoi05boq1bpkmU_bPMr=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNx5xQGggf-vfvPSiw9L67ZRPaKLmIh41tksM5x=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNyLTmgmii0vLfpCBzfTf2kokWMKmaI0gz_kGk6=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipP7-FkfWUU5HUFFxmoDsOeEwV6voU40xY0RdE_Y=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNDl4iLGnxkQpksQWMbizPwuPyBR_bQ10U0Aij2=w150-h150-k-no-p"
+            ]
+        }
+    ],
+    "is_spending_on_ads": false
+}

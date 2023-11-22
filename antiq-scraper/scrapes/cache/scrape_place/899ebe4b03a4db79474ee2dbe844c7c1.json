@@ -1,0 +1,85 @@
+{
+    "place_id": "ChIJk1EMKYJxhlQR-4Y9C7Fnrok",
+    "name": "NervGen",
+    "description": null,
+    "reviews": null,
+    "website": "http://nervgen.com/",
+    "owner": {
+        "id": "103545292317215165976",
+        "name": "NervGen (Owner)",
+        "link": "https://www.google.com/maps/contrib/103545292317215165976"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=3alpTcFnd26Gs15aZpjFng&cb_client=search.gws-prod.gps&w=408&h=240&yaw=9.427675&pitch=0&thumbfov=100",
+    "main_category": "Pharmaceutical company",
+    "categories": [
+        "Pharmaceutical company"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": [],
+    "phone": "(778) 731-1711",
+    "address": "NervGen, 2955 Virtual Way #480, Vancouver, BC V5M 4X6",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/NervGen/data=!4m7!3m6!1s0x54867182290c5193:0x89ae67b10b3d86fb!8m2!3d49.2614835!4d-123.0419008!16s%2Fg%2F11h0zj0b2p!19sChIJk1EMKYJxhlQR-4Y9C7Fnrok?authuser=0&hl=en&rclk=1",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJk1EMKYJxhlQR-4Y9C7Fnrok&q=NervGen&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.2614835,
+        "longitude": -123.0419008
+    },
+    "plus_code": "7X65+H6 Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "South Vancouver",
+        "street": "2955 Virtual Way #480",
+        "city": "Vancouver",
+        "postal_code": "V5M 4X6",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "9920981039239235323",
+    "data_id": "0x54867182290c5193:0x89ae67b10b3d86fb",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=3alpTcFnd26Gs15aZpjFng&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=9.427675&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=3alpTcFnd26Gs15aZpjFng&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=9.427675&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

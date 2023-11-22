@@ -1,0 +1,485 @@
+{
+    "place_id": "ChIJQ3Fm7jx3hlQRWATGRuounDc",
+    "name": "Potato Corner Kingsway Vancouver",
+    "description": null,
+    "reviews": 160,
+    "website": "https://potatocornerbc.com/",
+    "owner": {
+        "id": "107810907178424623501",
+        "name": "Potato Corner Kingsway Vancouver (Owner)",
+        "link": "https://www.google.com/maps/contrib/107810907178424623501"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOxWF-IZUKsLolK9mYW8gti3i5sLQ3dj39vUM0=w408-h306-k-no",
+    "main_category": "Restaurant",
+    "categories": [
+        "Restaurant"
+    ],
+    "rating": 3.5,
+    "workday_timing": "1-8 p.m.",
+    "closed_on": [],
+    "phone": "(604) 923-2305",
+    "address": "Potato Corner Kingsway Vancouver, 3544 Kingsway #2, Vancouver, BC V5R 5L7",
+    "review_keywords": [
+        {
+            "keyword": "fries",
+            "count": 69
+        },
+        {
+            "keyword": "BBQ",
+            "count": 14
+        },
+        {
+            "keyword": "seasoning",
+            "count": 13
+        },
+        {
+            "keyword": "sour cream",
+            "count": 11
+        },
+        {
+            "keyword": "waffle",
+            "count": 7
+        },
+        {
+            "keyword": "fryer",
+            "count": 5
+        },
+        {
+            "keyword": "chili",
+            "count": 5
+        },
+        {
+            "keyword": "powder",
+            "count": 4
+        },
+        {
+            "keyword": "truffle",
+            "count": 4
+        },
+        {
+            "keyword": "manager",
+            "count": 4
+        }
+    ],
+    "link": "https://www.google.com/maps/place/Potato+Corner+Kingsway+Vancouver/data=!4m7!3m6!1s0x5486773cee667143:0x379c2eea46c60458!8m2!3d49.2319383!4d-123.02726!16s%2Fg%2F11hlpmrfw0!19sChIJQ3Fm7jx3hlQRWATGRuounDc?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 1 p.m.",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 35,
+        "2": 17,
+        "3": 14,
+        "4": 28,
+        "5": 66
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJQ3Fm7jx3hlQRWATGRuounDc&q=Potato+Corner+Kingsway+Vancouver&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.231938299999996,
+        "longitude": -123.02726
+    },
+    "plus_code": "6XJF+Q3 Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "South Vancouver",
+        "street": "3544 Kingsway #2",
+        "city": "Vancouver",
+        "postal_code": "V5R 5L7",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "4007129352197506136",
+    "data_id": "0x5486773cee667143:0x379c2eea46c60458",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [
+        {
+            "link": "https://www.doordash.com/store/potato-corner-vancouver-1442771/?utm_campaign=gpa",
+            "source": "doordash.com"
+        },
+        {
+            "link": "https://www.ubereats.com/ca/store/potato-corner-kingsway/-lOFTmyeSLCw1jj_z5Zeow?utm_campaign=place-action-link&utm_medium=organic&utm_source=google",
+            "source": "ubereats.com"
+        },
+        {
+            "link": "https://www.fantuanorder.com/store/potato-corner/ca-10747?rwg_token=AOZt1jWEK5nol9ETJP3fFWRRhSSUcHmzHtI4jAu9NpsPxErW_WvOyHpXwGFmrvMM84x7_6LfMnIAqi4IzkKcTQFtNFeU5Y_HjBW50IKCLIXoyOQJC5cC80A%3D",
+            "source": "fantuanorder.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Takeout",
+                    "enabled": true
+                },
+                {
+                    "name": "Dine-in",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Dining options",
+            "options": [
+                {
+                    "name": "Lunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Dinner",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosphere",
+            "options": [
+                {
+                    "name": "Casual",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planning",
+            "options": [
+                {
+                    "name": "Accepts reservations",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMg7UoaG5Qv_0A97c8-4A398b8lGaROK_cRqT-0=w224-h298-k-no"
+        },
+        {
+            "about": "Latest",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNtdQuOyWXim2OjHFAu68xBYWVo4lp9r-gurFJv=w529-h298-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPF1MjFXR4C4bFqWsWw1bGmsi_DOy56ym6uMKvv=w224-h398-k-no"
+        },
+        {
+            "about": "Menu",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNVfLvsgpZOO4m5cg6TszdTru70lssbn8KavD_B=w529-h298-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipO1XwPfK9VV_mWTUNDFBkwTlufUEX3U1Z8tvnMT=w224-h298-k-no"
+        },
+        {
+            "about": "Vibe",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOyaojnx7BJe52YosUIX2K5j-2kFj5TmRBuiV_4=w397-h298-k-no"
+        },
+        {
+            "about": "Take-out",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPSVE298mQGoJAWAvm2mJxB98Usw5WN8xXLxBdc=w224-h298-k-no"
+        },
+        {
+            "about": "French fries",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNGnQzJOX-4is5vEjLpMcqjEgMCMoWQlXjLKd3X=w224-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=npL71rrG3InvsF1GceKBXw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=159.56058&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "1-8 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "1-8 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "1-8 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "1-8 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "12-8 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "12-8 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "12-8 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "I love love love the curly cheese fries! My favourite flavours are the sour cream and onion, original cheese and the sweet corn! A bit difficult to park in that area and it's very busy but the food itself just takes you back home to the Philippines.",
+            "reviewer_name": "Sylvanna Asia",
+            "rating": 5,
+            "review_text": "I love love love the curly cheese fries! My favourite flavours are the sour cream and onion, original cheese and the sweet corn! A bit difficult to park in that area and it's very busy but the food itself just takes you back home to the Philippines.",
+            "published_at": "9 months ago",
+            "published_at_date": "2023-02-03T07:26:44.215000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 15,
+            "total_number_of_photos_by_reviewer": 14,
+            "reviewer_url": "https://www.google.com/maps/contrib/101125672750365392449/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJ2BC_J6BKYWdmMn-ydwtRXvZVXatVzz6Sur2Az_y1w=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPB6iYaBsnID5I8pTlAd2xUIaVHFfquQ65cEmGq=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipO1XwPfK9VV_mWTUNDFBkwTlufUEX3U1Z8tvnMT=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Came in here today to try them out.  I was the only one there.  They didn't have BBQ but the staff told me to get Corn.  So I ended up getting Corn, Sour Cream and Cheese.  They made the fresh.  They didn't have fries pre made.  So the fries were fresh and hot.  I watched her make the friend and it is quite the process.  I can see why people complain about the time.  But it's made to order and it's a process to season the fries.  My kids and family loved the fries.  The kids loved the corn and I wish we ordered bigger size.  Next time I would order larger size cause it didn't not last long and it's not much of a price increase for a bigger size.  Really friendly staff and can tell she took pride in her work.  I hope they continue to provide excellent fries without compromising the quality for speeding up the process.",
+            "reviewer_name": "Joey C",
+            "rating": 4,
+            "review_text": "Came in here today to try them out.  I was the only one there.  They didn't have BBQ but the staff told me to get Corn.  So I ended up getting Corn, Sour Cream and Cheese.  They made the fresh.  They didn't have fries pre made.  So the fries were fresh and hot.  I watched her make the friend and it is quite the process.  I can see why people complain about the time.  But it's made to order and it's a process to season the fries.  My kids and family loved the fries.  The kids loved the corn and I wish we ordered bigger size.  Next time I would order larger size cause it didn't not last long and it's not much of a price increase for a bigger size.  Really friendly staff and can tell she took pride in her work.  I hope they continue to provide excellent fries without compromising the quality for speeding up the process.",
+            "published_at": "2 years ago",
+            "published_at_date": "2021-08-06T04:41:02.179000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 4,
+            "total_number_of_reviews_by_reviewer": 253,
+            "total_number_of_photos_by_reviewer": 1877,
+            "reviewer_url": "https://www.google.com/maps/contrib/111975412644767187204/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWNnPSldCQziQJjgslvA1RfProPUpxYN0AGpRPmep9fwwQ=s120-c-rp-mo-ba6-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNf6c5k09b4oMYNS_EAfSxrtOf7dZrCTn3Thmfg=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNSdCXyyAP7fLIvXnkFhEztTUXzDpA6qPoN2160=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOL9dRmcLYu1jAdipfQdjc0iB-8kLvNPuaavMCo=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOJflttUxcxCVWLSRyOx_xOdRTTaCmCnHsG9vZm=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOe9LkmBSuTMXaD7cgj5Xlli81TJX5nRJId-XRY=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOwvNtj8rJfe-CYkwRZ0Lw9enKnwLsUZtd6FNM4=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Potato Corner brings back some great memories for me. I loved them in the Philippines and I still love them to this day. So happy they have 2 locations here and this one is nice and spacious. Friendly and helpful staff, great selection of fries and flavours, cool drinks. If you love salty snacks, make sure you grab some Potato Corner! Waffle, curly fries and tater tots are awesome!!",
+            "reviewer_name": "Diane (Dineoutwithdee)",
+            "rating": 5,
+            "review_text": "Potato Corner brings back some great memories for me. I loved them in the Philippines and I still love them to this day. So happy they have 2 locations here and this one is nice and spacious. Friendly and helpful staff, great selection of fries and flavours, cool drinks. If you love salty snacks, make sure you grab some Potato Corner! Waffle, curly fries and tater tots are awesome!!",
+            "published_at": "a year ago",
+            "published_at_date": "2022-08-24T06:21:47.449000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 196,
+            "total_number_of_photos_by_reviewer": 564,
+            "reviewer_url": "https://www.google.com/maps/contrib/116137465658611212857/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWwrQU5gphNjruAoM5Cukd_h5j98aR46HlBGLhNu1FSew=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNIM5CBxU8-3uXVKtM_aUHNOQZaqSAmfbD9N_xx=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipM4U5p2ABCnGFze_QhaWhbugnRsjUj05oyRJNnx=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOL2N8i7ge-HEsKqB3m-_kohnSZRaYb6ArPZCSy=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPqSDkHUWG0Ll_HXA45amagqkM5wLZFU5t4rMgY=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "First experience of this \"seasoned fries\" was okay. Nothing crazy or different from just doing this yourself at home. Grabbed the \"Tere\" size which is their extra large fries option that you're allowed two different flavours. We ended going with the Chili Barbeque because they didn't have the plain barbeque seasoning. This was probably my favourite over the truffle seasoning that we had. The truffle flavour is there but also it's very salty in my honest opinion.",
+            "reviewer_name": "Calvin Duong",
+            "rating": 3,
+            "review_text": "First experience of this \"seasoned fries\" was okay. Nothing crazy or different from just doing this yourself at home. Grabbed the \"Tere\" size which is their extra large fries option that you're allowed two different flavours. We ended going with the Chili Barbeque because they didn't have the plain barbeque seasoning. This was probably my favourite over the truffle seasoning that we had. The truffle flavour is there but also it's very salty in my honest opinion.",
+            "published_at": "a year ago",
+            "published_at_date": "2022-06-11T07:31:51.475000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 5,
+            "total_number_of_reviews_by_reviewer": 224,
+            "total_number_of_photos_by_reviewer": 823,
+            "reviewer_url": "https://www.google.com/maps/contrib/114931543808742088023/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUO5ieXMeAjlLnsIHQ-Gc7Ac8wqc9DiKIAhb0fQ6M0IwMWf=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMg7UoaG5Qv_0A97c8-4A398b8lGaROK_cRqT-0=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipP2_biBKqZKVKsr5Kv4_-slryF6aNomRzQsyv8_=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipO9Kz0Ve9MsfdkA_L7NLTLbtlV25xg8I8COY7xJ=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Yummy fries and friendly service. It usually takes about 7-10 minutes to get your order because they make each batch when ordered.",
+            "reviewer_name": "Leah Kloeble",
+            "rating": 4,
+            "review_text": "Yummy fries and friendly service. It usually takes about 7-10 minutes to get your order because they make each batch when ordered.",
+            "published_at": "2 weeks ago",
+            "published_at_date": "2023-11-07T16:28:26.101000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 149,
+            "total_number_of_photos_by_reviewer": 451,
+            "reviewer_url": "https://www.google.com/maps/contrib/102390655139498897598/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUgqkSDxci-TG7NWlArjlb7gr4FXCftISsXpGm4VumD5TWw=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipP3eapkXovWuMc-Ligh6F1qT_TsPRsc__LKs-hZ=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNtdQuOyWXim2OjHFAu68xBYWVo4lp9r-gurFJv=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "It's a great place to have flavoured fries. We went to Landsdowne mall and they have their food truck. Best service. Highly recommended!!",
+            "reviewer_name": "Mayank Lathar",
+            "rating": 5,
+            "review_text": "It's a great place to have flavoured fries. We went to Landsdowne mall and they have their food truck. Best service. Highly recommended!!",
+            "published_at": "5 months ago",
+            "published_at_date": "2023-05-23T01:38:50.737000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 7,
+            "total_number_of_photos_by_reviewer": 2,
+            "reviewer_url": "https://www.google.com/maps/contrib/113075900272816405919/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVp_KjLBL3DitcMvc9leHWkk3GYjhkSl5nTjtwyLvleoBg=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPj25vGptP-q_iThWmrGm2F6MlDlnXWe1KdBgRe=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "I went during a non-peak time so there was no line-up. I agree with the other reviews that it takes quite a while to get your order.\n\nMy order: Sour Cream & Onion Loopy Fries (size: Mega)\nI really liked how it wasn't greasy at all. It's like a hybrid between fries and chips. The seasoning was great, not overly salty (had a hint of sweetness to balance the flavour), and evenly coated as well. Very crispy, and stays crispy - no sogginess even at the bottom.\n\nProcess: They take your order, and then you wait for your fries to come out of this (air fryer-like?) machine - which takes a while, then they dump the fries into a tray, scoop them back up to throw them in a bucket to shake with seasoning (by hand), then throw them BACK on ANOTHER tray after seasoning, then scoop them up into your bucket/bag. Seems tedious, but I assume they have their reasons as they're a huge chain and very popular in Asia.",
+            "reviewer_name": "Erica",
+            "rating": 5,
+            "review_text": "I went during a non-peak time so there was no line-up. I agree with the other reviews that it takes quite a while to get your order.\n\nMy order: Sour Cream & Onion Loopy Fries (size: Mega)\nI really liked how it wasn't greasy at all. It's like a hybrid between fries and chips. The seasoning was great, not overly salty (had a hint of sweetness to balance the flavour), and evenly coated as well. Very crispy, and stays crispy - no sogginess even at the bottom.\n\nProcess: They take your order, and then you wait for your fries to come out of this (air fryer-like?) machine - which takes a while, then they dump the fries into a tray, scoop them back up to throw them in a bucket to shake with seasoning (by hand), then throw them BACK on ANOTHER tray after seasoning, then scoop them up into your bucket/bag. Seems tedious, but I assume they have their reasons as they're a huge chain and very popular in Asia.",
+            "published_at": "2 years ago",
+            "published_at_date": "2021-01-07T07:18:11.060000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 3,
+            "total_number_of_reviews_by_reviewer": 174,
+            "total_number_of_photos_by_reviewer": 712,
+            "reviewer_url": "https://www.google.com/maps/contrib/104674524383379153496/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKpAamKhN0peFb-jtx8Wbpf_Zt2RM8_kEHAir3iXD9y=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPa_TKzgSFkrXLOyS0tBmnzGDqD-fq658pAh_zj=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipON52km7xuD3PFNJ6lJgJPxM3_kT6fy8KKSBd7T=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "I suggest waiting a few weeks so the hype dies down to try this. I was told the wait was 20 min (there were about 10 people in front of me) and most of us ended up waiting for 40ish minutes.\nBut the BBQ fries were yummy--nice to have a familiar taste of home, hence the 2 star rating.",
+            "reviewer_name": "Abigail Climacosa",
+            "rating": 2,
+            "review_text": "I suggest waiting a few weeks so the hype dies down to try this. I was told the wait was 20 min (there were about 10 people in front of me) and most of us ended up waiting for 40ish minutes.\nBut the BBQ fries were yummy--nice to have a familiar taste of home, hence the 2 star rating.",
+            "published_at": "3 years ago",
+            "published_at_date": "2020-09-12T17:29:37.090000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 14,
+            "total_number_of_photos_by_reviewer": 20,
+            "reviewer_url": "https://www.google.com/maps/contrib/109572753789802997008/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXV-FIRK63i5cyp28fZ2YuOBIu1C0KAbb9cssW3pHluPtI=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOTrxcZ91T1rQ_wkoOTRodPF5qG2ZeQ52ybwQW-=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOYz5e6jO8xWbemsJs2uRPAp9H7DoiXFs4rDOBq=w150-h150-k-no-p"
+            ]
+        }
+    ],
+    "is_spending_on_ads": false
+}

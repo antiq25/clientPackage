@@ -1,0 +1,396 @@
+{
+    "place_id": "ChIJKQokTj9xhlQRQHo6_OHQP_g",
+    "name": "The Daily Catch Seafood Company",
+    "description": null,
+    "reviews": 163,
+    "website": "http://www.dailycatchseafood.ca/",
+    "owner": {
+        "id": "109312727177364049685",
+        "name": "The Daily Catch Seafood Company (Owner)",
+        "link": "https://www.google.com/maps/contrib/109312727177364049685"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOz147_HGeF7I3HBPZnN_QX3YSpB9i77-cebTGG=w408-h393-k-no",
+    "main_category": "Seafood market",
+    "categories": [
+        "Seafood market",
+        "Fish store",
+        "Fresh food market"
+    ],
+    "rating": 4.4,
+    "workday_timing": "10:30 a.m.-6 p.m.",
+    "closed_on": [],
+    "phone": "(604) 253-3474",
+    "address": "The Daily Catch Seafood Company, 1418 Commercial Dr, Vancouver, BC V5L 3X9",
+    "review_keywords": [
+        {
+            "keyword": "price",
+            "count": 23
+        },
+        {
+            "keyword": "product",
+            "count": 17
+        },
+        {
+            "keyword": "salmon",
+            "count": 15
+        },
+        {
+            "keyword": "pay",
+            "count": 7
+        },
+        {
+            "keyword": "oysters",
+            "count": 6
+        },
+        {
+            "keyword": "delivery",
+            "count": 6
+        },
+        {
+            "keyword": "smoked",
+            "count": 5
+        },
+        {
+            "keyword": "questions",
+            "count": 5
+        },
+        {
+            "keyword": "candied",
+            "count": 4
+        },
+        {
+            "keyword": "halibut",
+            "count": 4
+        }
+    ],
+    "link": "https://www.google.com/maps/place/The+Daily+Catch+Seafood+Company/data=!4m7!3m6!1s0x5486713f4e240a29:0xf83fd0e1fc3a7a40!8m2!3d49.2718193!4d-123.069437!16s%2Fg%2F1tl0x0h7!19sChIJKQokTj9xhlQRQHo6_OHQP_g?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 10:30 a.m.",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 10,
+        "2": 6,
+        "3": 5,
+        "4": 31,
+        "5": 111
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJKQokTj9xhlQRQHo6_OHQP_g&q=The+Daily+Catch+Seafood+Company&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.2718193,
+        "longitude": -123.069437
+    },
+    "plus_code": "7WCJ+P6 Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "East Vancouver",
+        "street": "1418 Commercial Dr",
+        "city": "Vancouver",
+        "postal_code": "V5L 3X9",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "17888245913956809280",
+    "data_id": "0x5486713f4e240a29:0xf83fd0e1fc3a7a40",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Curbside pickup",
+                    "enabled": true
+                },
+                {
+                    "name": "No-contact delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "In-store shopping",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOn2cJF_yNpdGsfQ32l7ngsVdx7-7J2IJ_p8I6Q=w224-h298-k-no-pi0-ya240-ro0-fo100"
+        },
+        {
+            "about": "Inside",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNhQ-jKF967grqvEizQZWlsB-4oo7n6Yu7_-stD=w425-h298-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipP1Kh4HOfwt1C5Vs2F9ncnHkEbvZiozvfKs7SGH=w529-h298-k-no"
+        },
+        {
+            "about": "Seafood",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMoAsvtMCiFld_Xnys3WETKUzCr8Vf5tTlYy5O0=w530-h298-k-no"
+        },
+        {
+            "about": "Fish",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPmGLVdDXGs6P_I1x6XQcz3ZIrEuWdLqnqkvqs2=w397-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipM-zH1_VqErZBiO0iMU5ywrP1-75qbrXk8mbcXR=w224-h298-k-no-pi-10-ya340-ro0-fo100"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNA_izJlAWVVANeRbFJGuL7Vee0nnMwXyZGbWse=w224-h298-k-no-pi-10-ya320-ro0-fo100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "10:30 a.m.-6 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "10:30 a.m.-6 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "10:30 a.m.-6 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "10:30 a.m.-6 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "10:30 a.m.-6 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "10:30 a.m.-6 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "11 a.m.-6 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "I came here looking for some fresh seafood and boy did I find a gem. The service was fantastic and the staff is very knowledgeable, the product are extremely fresh and of amazing quality. The store is kept very clean and I would highly recommend and come back to buy more.\n\nKeep up the great work guys",
+            "reviewer_name": "Stanley Kwok",
+            "rating": 5,
+            "review_text": "I came here looking for some fresh seafood and boy did I find a gem. The service was fantastic and the staff is very knowledgeable, the product are extremely fresh and of amazing quality. The store is kept very clean and I would highly recommend and come back to buy more.\n\nKeep up the great work guys",
+            "published_at": "3 weeks ago",
+            "published_at_date": "2023-10-25T22:31:52.861000Z",
+            "response_from_owner_text": "Thanks for the great review Stanley! ",
+            "response_from_owner_ago": "3 weeks ago",
+            "response_from_owner_date": "2023-10-25T23:04:54.117000Z",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/105045789369116200111/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVMBCJ8pqwCo_q25MwjJ51I9yhSPvUjkYNfAbQ2pvp-Eg=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "I came in and bought 2 lbs of fresh prawns($63). The man at the counter was helpful and polite. The prawns were absolutely delicious! If you ever need some good seafood to impress people at a party, this is the place to buy from.",
+            "reviewer_name": "Frank Warburton Bailey III",
+            "rating": 5,
+            "review_text": "I came in and bought 2 lbs of fresh prawns($63). The man at the counter was helpful and polite. The prawns were absolutely delicious! If you ever need some good seafood to impress people at a party, this is the place to buy from.",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-18T12:51:27.422000Z",
+            "response_from_owner_text": "So glad you had a great experience at our store. Reviews like this really help our business grow online.\n\nWe hope we get the pleasure of having you at our store again soon!",
+            "response_from_owner_ago": "4 months ago",
+            "response_from_owner_date": "2023-07-18T15:37:02.604000Z",
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 29,
+            "total_number_of_photos_by_reviewer": 12,
+            "reviewer_url": "https://www.google.com/maps/contrib/112801954198741202150/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVmQNlrioqKTkWS8gVAkth_EQfly4G48X-Ua0vBaoj5aCM=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "I came in to purchase fresh oysters but when I inquired about the freshness and when they got the oysters in, neither staff person could tell me. Then I asked to see the harvest tag and they couldn't find or provide that. Red flag, left without purchase.",
+            "reviewer_name": "Elaire & Marc",
+            "rating": 1,
+            "review_text": "I came in to purchase fresh oysters but when I inquired about the freshness and when they got the oysters in, neither staff person could tell me. Then I asked to see the harvest tag and they couldn't find or provide that. Red flag, left without purchase.",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-21T17:02:39.549000Z",
+            "response_from_owner_text": "Hello,\n\n We are so sorry about the poor experience  you had at our store. We greatly appreciate your feed back, we have lots of part time and new staff and you've brought a weakness in our business to our attention that we can now work on.\n\nWe keep all our harvest tags right beside the bin we sell our shellfish out of so I am surprised that staff on site yesterday could not find them as they all know where they are, we will talk to them about this.\n\n\nAs for our oyster the kusshi we have in stock were harvested Oct 19th/23. The malpeque and beausoleil  were harvested on the 15th and 18th respectively.\n\nPlease reach out via email orders@dailycatchseafood.ca , we would love to make it up to the both of you!\n\nwarm regards,\n\n",
+            "response_from_owner_ago": "a month ago",
+            "response_from_owner_date": "2023-10-21T19:21:17.567000Z",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/115210383880047956459/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLa1sYp3H-6037LLMzuj8UBVyMIEcrxd5gmQ2rXTfJa=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "My girlfriend and I recently made the decision to eat more quality food so we decided to buy a range of seafood options from Daily Catch. We were blown away by the customer service and knowledge of the staff. We ended up getting steak fillets, halibut, tuna and shrimp. Everything was fantastic! My brother owns a seafood restaurant so I am very particular when it comes to seafood and the quality. After the seafood de thawed it had a sweet smell with no \"fishyness\". I was able to make raw poke with the tuna and it was divine. Would 100% recommend Daily catch and now we place bi weekly orders so daily catch has been crucial towards us leading a healthier lifestyle with amazing seafood! Thank you Daily Catch!",
+            "reviewer_name": "Elliott Graham",
+            "rating": 5,
+            "review_text": "My girlfriend and I recently made the decision to eat more quality food so we decided to buy a range of seafood options from Daily Catch. We were blown away by the customer service and knowledge of the staff. We ended up getting steak fillets, halibut, tuna and shrimp. Everything was fantastic! My brother owns a seafood restaurant so I am very particular when it comes to seafood and the quality. After the seafood de thawed it had a sweet smell with no \"fishyness\". I was able to make raw poke with the tuna and it was divine. Would 100% recommend Daily catch and now we place bi weekly orders so daily catch has been crucial towards us leading a healthier lifestyle with amazing seafood! Thank you Daily Catch!",
+            "published_at": "6 months ago",
+            "published_at_date": "2023-05-18T00:07:55.968000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/107217482598967288019/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLk4xyA17tHq2dQMq7S3uwct-l2eqPYdD1CeLp074L8=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "I recently had the opportunity to visit Daily Catch, a retail seafood shop that I had heard great things about. From the moment I walked in, I was impressed with the friendly and attentive customer service I received from the staff. They were more than happy to answer any questions I had about the products and make recommendations based on my preferences.\n\nThe seafood at Daily Catch is absolutely top-notch. The freshness and quality of the seafood they sell is outstanding. They had variety of species to choose from and were all expertly handled and packaged. I especially enjoyed the local oysters and the fresh sashimi-grade tuna. The prices were very reasonable, and they had good deals on the specials of the day.\n\nI also appreciated the shop's commitment to sourcing sustainable seafood. It's always good to know that the seafood I'm purchasing is not only delicious but also responsibly sourced.\n\nOverall, I had an excellent experience at Daily Catch and I would highly recommend it to anyone looking for high-quality and sustainable seafood. The customer service is top-notch and the seafood is outstanding. I will definitely be back!",
+            "reviewer_name": "Chad Spicer",
+            "rating": 5,
+            "review_text": "I recently had the opportunity to visit Daily Catch, a retail seafood shop that I had heard great things about. From the moment I walked in, I was impressed with the friendly and attentive customer service I received from the staff. They were more than happy to answer any questions I had about the products and make recommendations based on my preferences.\n\nThe seafood at Daily Catch is absolutely top-notch. The freshness and quality of the seafood they sell is outstanding. They had variety of species to choose from and were all expertly handled and packaged. I especially enjoyed the local oysters and the fresh sashimi-grade tuna. The prices were very reasonable, and they had good deals on the specials of the day.\n\nI also appreciated the shop's commitment to sourcing sustainable seafood. It's always good to know that the seafood I'm purchasing is not only delicious but also responsibly sourced.\n\nOverall, I had an excellent experience at Daily Catch and I would highly recommend it to anyone looking for high-quality and sustainable seafood. The customer service is top-notch and the seafood is outstanding. I will definitely be back!",
+            "published_at": "10 months ago",
+            "published_at_date": "2023-01-10T17:15:13.513000Z",
+            "response_from_owner_text": "Thanks for the Amazing review Chad we can't wait to see you again!",
+            "response_from_owner_ago": "10 months ago",
+            "response_from_owner_date": "2023-01-11T22:33:58.869000Z",
+            "review_likes_count": 4,
+            "total_number_of_reviews_by_reviewer": 3,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/107250506041139038372/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXTHj7eEcjD0rKqNyGPdygPaXG4IqAfyK0Tg1Y9IhDOdZc=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Everyone is friendly and helpful. A great selection of fresh seafood. The lobsters, the smoked salmon treats, the freezer stocked with goodies, and other tasty offerings make this place a must when shopping on the Drive. We like to buy a whole salmon and have it filleted and wrapped for our freezer. Yesterday, live Spot Prawns were available. Excellent seafood market!",
+            "reviewer_name": "John Pozer",
+            "rating": 5,
+            "review_text": "Everyone is friendly and helpful. A great selection of fresh seafood. The lobsters, the smoked salmon treats, the freezer stocked with goodies, and other tasty offerings make this place a must when shopping on the Drive. We like to buy a whole salmon and have it filleted and wrapped for our freezer. Yesterday, live Spot Prawns were available. Excellent seafood market!",
+            "published_at": "2 years ago",
+            "published_at_date": "2021-09-06T18:17:54.660000Z",
+            "response_from_owner_text": "Thank you for the outstanding review John! we work really hard and a hearing this from customers make it all worth while! Look forward to serving you again in the near future!\n\ncheers!",
+            "response_from_owner_ago": "2 years ago",
+            "response_from_owner_date": "2021-06-04T19:30:14.760000Z",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 314,
+            "total_number_of_photos_by_reviewer": 2501,
+            "reviewer_url": "https://www.google.com/maps/contrib/105659789804563488065/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWKmlh1MfextNVcZZKadt7hl-kEm-awUdu-Vo9j4g8FyxYp=s120-c-rp-mo-ba6-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipM0kexns_8tYwOlOSZTkIQkLjV3otC5zAcytblL=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPInYS_s_0CCOIr_OQzAO9Jip6LJ2B1Ch4abrBP=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNfH0DVbQRQRmV3mAoIGOQrb7yv4Z7PiiUemGWa=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "I am so thrilled to have discovered this little market on the drive. They have incredibly high standards, which means that we get only the best seafood out there. This store is kept so clean and free of clutter, that you just want to spend a lot of time looking around. They have everything from fresh cut fillets, fresh oysters, clams and mussels, to frozen and vacuum packed items done in store. They also have a variety of smoked products that are either frozen or ready to eat. What ever you a looking for, they got it!\nThere are so many things I love about this store, and I hope that more people take a trip down to the Drive to experience what the Daily Catch has to offer.",
+            "reviewer_name": "Melissa Leong",
+            "rating": 5,
+            "review_text": "I am so thrilled to have discovered this little market on the drive. They have incredibly high standards, which means that we get only the best seafood out there. This store is kept so clean and free of clutter, that you just want to spend a lot of time looking around. They have everything from fresh cut fillets, fresh oysters, clams and mussels, to frozen and vacuum packed items done in store. They also have a variety of smoked products that are either frozen or ready to eat. What ever you a looking for, they got it!\nThere are so many things I love about this store, and I hope that more people take a trip down to the Drive to experience what the Daily Catch has to offer.",
+            "published_at": "a year ago",
+            "published_at_date": "2022-10-03T18:04:41.798000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 19,
+            "total_number_of_photos_by_reviewer": 3,
+            "reviewer_url": "https://www.google.com/maps/contrib/115480062587659046454/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVBVkiVbgSj4HYN6-nGBt4HCJe0Psp6fn2rkS0uEBs5C_8=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "First time today and my last time. I asked the sales person whether the salmon was fresh and caught today, he made a long pause then said yes it is. Unfortunately for him the other customer asked like 30 sec after i did and the other sales person said it was previously frozen. That sales person lied to me to sell that overpriced salmon. As this person who was cutting my salmon,I asked him again whether the fish was fresh . He looked lost and finally admitted it was previously frozen. Fish was old.  Apparently  since like November. I ended up buying a piece( for whatever stupid reason) for 15 dollars. Terrible experience and lying sales associate. Would not recommend this place!!! 0 out of 10",
+            "reviewer_name": "Saida Smith",
+            "rating": 1,
+            "review_text": "First time today and my last time. I asked the sales person whether the salmon was fresh and caught today, he made a long pause then said yes it is. Unfortunately for him the other customer asked like 30 sec after i did and the other sales person said it was previously frozen. That sales person lied to me to sell that overpriced salmon. As this person who was cutting my salmon,I asked him again whether the fish was fresh . He looked lost and finally admitted it was previously frozen. Fish was old.  Apparently  since like November. I ended up buying a piece( for whatever stupid reason) for 15 dollars. Terrible experience and lying sales associate. Would not recommend this place!!! 0 out of 10",
+            "published_at": "8 months ago",
+            "published_at_date": "2023-03-20T17:24:39.366000Z",
+            "response_from_owner_text": "Hello Saida, \nSorry you had such a poor experience at our store. When the staff were asked about the situation, the one helping you, thought you had asked \"If the fish was Cut Today\" and because it was he replied \"yes\". When you asked him \"if it was previously frozen\" he replied \"it was\" not because he was changing his mind or lying earlier but because in his mind he wasn't asked if it was fresh or frozen yet. The staff who was helping you has worked for us for a long time and knows that the salmon right now is not fresh, there is no incentive for him to lie about it so I honestly believe this is a miss communication on our part. Occasionally staff might miss-hear what a customer is saying, we serve thousands of customers a week so its bound to happen every once in a while. \n We are extremely transparent about our products. We don't hide the fact that this time of year we sell previously frozen wild Salmon as there is no fresh wild pacific salmon available for commercial purposes for several more months. All Wild Salmon being sold outside of Fresh Season is always going to be previously frozen, unless it is farmed. Our store Signage is also usually very accurate and products that are Fresh will say so. The more transparent we are the better business we become. Our employees have no incentive lying about our products it would only get them in trouble if done in anyway that isn't an honest mistake. For this reason and the employee in questions vast knowledge on our products I believe this was an honest mistake.\n As for the frozen Salmon its by far the highest quality Sockeye you can purchase outside of fresh season. We pay a lot more for it so that we can sell it with a smile knowing the quality is superb, we can guarantee you will enjoy it!\n We would love to here more from you as well as refund your purchase, Please Email us at Orders@dailycatchseafood.ca so we can connect, Thank You",
+            "response_from_owner_ago": "8 months ago",
+            "response_from_owner_date": "2023-03-20T16:34:49.443000Z",
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/103394781445184391569/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKfY1_vj1nBy7CgB47dQFxs9NpxLN343bdPq8zeChOf=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

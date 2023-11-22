@@ -1,0 +1,540 @@
+{
+    "place_id": "ChIJ2dc6j-N5hlQRXb_0wExtmFs",
+    "name": "McDonald's",
+    "description": "Classic, long-running fast-food chain known for its burgers & fries.",
+    "reviews": 320,
+    "website": "https://www.mcdonalds.com/ca/en-ca/restaurant-locator.html?y_source=1_MTQ1MTk3MDEtNzE1LWxvY2F0aW9uLndlYnNpdGU=",
+    "owner": {
+        "id": "103579062629913293982",
+        "name": "McDonald's (Owner)",
+        "link": "https://www.google.com/maps/contrib/103579062629913293982"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN3vbWSB125yaCVCYyzmb8RfBsTM0IDWM7OtOuQ=w421-h240-k-no",
+    "main_category": "Hamburger restaurant",
+    "categories": [
+        "Hamburger restaurant",
+        "American restaurant",
+        "Breakfast restaurant",
+        "Cafe",
+        "Fast food restaurant",
+        "Restaurant"
+    ],
+    "rating": 2.9,
+    "workday_timing": "8 a.m.-10 p.m.",
+    "closed_on": [],
+    "phone": "(604) 718-1140",
+    "address": "McDonald's, 9855 Austin Ave Suite 300, Burnaby, BC V3J 1N5",
+    "review_keywords": [
+        {
+            "keyword": "cashier",
+            "count": 6
+        },
+        {
+            "keyword": "mess",
+            "count": 5
+        },
+        {
+            "keyword": "gloves",
+            "count": 4
+        },
+        {
+            "keyword": "breakfast",
+            "count": 4
+        },
+        {
+            "keyword": "ice cream",
+            "count": 4
+        },
+        {
+            "keyword": "nuggets",
+            "count": 3
+        },
+        {
+            "keyword": "manager",
+            "count": 3
+        }
+    ],
+    "link": "https://www.google.com/maps/place/McDonald%27s/data=!4m7!3m6!1s0x548679e38f3ad7d9:0x5b986d4cc0f4bf5d!8m2!3d49.2519213!4d-122.896107!16s%2Fg%2F1tkf0nxb!19sChIJ2dc6j-N5hlQRXb_0wExtmFs?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 8 a.m.",
+    "price_range": "$",
+    "reviews_per_rating": {
+        "1": 85,
+        "2": 29,
+        "3": 89,
+        "4": 60,
+        "5": 57
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ2dc6j-N5hlQRXb_0wExtmFs&q=McDonald's&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.2519213,
+        "longitude": -122.896107
+    },
+    "plus_code": "7423+QH Burnaby, British Columbia",
+    "detailed_address": {
+        "ward": null,
+        "street": "9855 Austin Ave Suite 300",
+        "city": "Burnaby",
+        "postal_code": "V3J 1N5",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "6600145430333669213",
+    "data_id": "0x548679e38f3ad7d9:0x5b986d4cc0f4bf5d",
+    "menu": {
+        "link": "https://www.mcdonalds.com/ca/en-ca/full-menu.html?y_source=1_MTQ1MTk3MDEtNzE1LWxvY2F0aW9uLm1lbnVfdXJs",
+        "source": "mcdonalds.com"
+    },
+    "reservations": [],
+    "order_online_links": [
+        {
+            "link": "https://www4.mcdonalds.ca/mcdeliverycanada/?y_source=1_MTQ1MTk3MDEtNzE1LWxvY2F0aW9uLm9yZGVyX3VybA%253D%253D",
+            "source": "mcdonalds.ca"
+        },
+        {
+            "link": "https://www.ubereats.com/ca/store/mcdonalds-unit-300-9855-austin-avenue/szuoy2eKQzmSw7LWCNoHrw?utm_campaign=place-action-link&utm_medium=organic&utm_source=google",
+            "source": "ubereats.com"
+        },
+        {
+            "link": "https://www.skipthedishes.com/mcdonalds-austin-ave?serviceType=delivery&utm_source=google&utm_medium=organic&utm_campaign=gpav2",
+            "source": "skipthedishes.com"
+        },
+        {
+            "link": "https://www.doordash.com/store/mcdonald%27s-burnaby-1598353/?utm_campaign=gpa",
+            "source": "doordash.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Drive-through",
+                    "enabled": true
+                },
+                {
+                    "name": "Takeout",
+                    "enabled": true
+                },
+                {
+                    "name": "Dine-in",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "highlights",
+            "name": "Highlights",
+            "options": [
+                {
+                    "name": "Fast service",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair accessible seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Coffee",
+                    "enabled": true
+                },
+                {
+                    "name": "Late-night food",
+                    "enabled": true
+                },
+                {
+                    "name": "Quick bite",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Dining options",
+            "options": [
+                {
+                    "name": "Breakfast",
+                    "enabled": true
+                },
+                {
+                    "name": "Lunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Dinner",
+                    "enabled": true
+                },
+                {
+                    "name": "Counter service",
+                    "enabled": true
+                },
+                {
+                    "name": "Dessert",
+                    "enabled": true
+                },
+                {
+                    "name": "Seating",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosphere",
+            "options": [
+                {
+                    "name": "Casual",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "crowd",
+            "name": "Crowd",
+            "options": [
+                {
+                    "name": "Family-friendly",
+                    "enabled": true
+                },
+                {
+                    "name": "Groups",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planning",
+            "options": [
+                {
+                    "name": "Accepts reservations",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "children",
+            "name": "Children",
+            "options": [
+                {
+                    "name": "Good for kids",
+                    "enabled": true
+                },
+                {
+                    "name": "High chairs",
+                    "enabled": true
+                },
+                {
+                    "name": "Kids' menu",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipN3vbWSB125yaCVCYyzmb8RfBsTM0IDWM7OtOuQ=w522-h298-k-no"
+        },
+        {
+            "about": "Menu",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPweIM7_1h9hckV6mmBgAJp-bCF3vGzqGe-ZG8I=w397-h298-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipO8Qck2bmp9-5iNja4_j02H4ZCMcSbwXPvahUd1=w224-h298-k-no"
+        },
+        {
+            "about": "Vibe",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOsa3WR-Imgc19IvExLmVRJeJ5JSDeI5vqImsw8=w397-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=djJE6W7j2nDLtHhOccukmw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=177.54353&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "8 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "8 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "8 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "8 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "8 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "8 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "8 a.m.-10 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "Indian girl with make ups at cashier has attitude and gets orders wrong.\n\nMy mcchicken burger bread was torn off in the edge and it had spicy sauce on it when i ordered just regular one.\n\nI ordered 2 double qt pounder w cheese and mcchicken instead got 2 mcchicken. GIVE MY MONEY BACK.\n\nThis location is total garbage",
+            "reviewer_name": "SUNGSHIN LEE",
+            "rating": 1,
+            "review_text": "Indian girl with make ups at cashier has attitude and gets orders wrong.\n\nMy mcchicken burger bread was torn off in the edge and it had spicy sauce on it when i ordered just regular one.\n\nI ordered 2 double qt pounder w cheese and mcchicken instead got 2 mcchicken. GIVE MY MONEY BACK.\n\nThis location is total garbage",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-07T22:24:30.269000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 4,
+            "total_number_of_reviews_by_reviewer": 33,
+            "total_number_of_photos_by_reviewer": 72,
+            "reviewer_url": "https://www.google.com/maps/contrib/105284895357067674241/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWnVUYRDTfb2YJQ9Ri_NoEYDL4aU7srdVQjNBBNklb0I0c=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNmmXKRhE5H5Gm5lQnbe9rooSl5N1X4fBaaY1Fs=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPo4xk318UUb4obNYklRrrl2wvy1SUtT2YcZIyH=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipN3UC-hzJYyBMPVpIEJvxlbUtvv0hdSbhYiw-be=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPPPAGBVM9JnKD3yhBmh2_lcKzF8ANMke8v7O7X=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "2nd time visiting, DO NOT EAT HERE, QUESTIONABLE SANITARY HABITS!!\n\nWas disappointed the first time cause they didn't have nuggets cause machine was 'already cleaned', even though order was placed via mobile 20min before close.\n\nThis time...even worse...\nThey are missing a lot of items on the menu, and make your burger with BARE HANDS (UNWASHED)!! This has caused me to have stomachache!!\n\nTaste 1/1*\nTastes like McDonalds\n\nValue 0/1*\nCosts like McDonalds, for the cleanliness however, not worth your health\n\nService 0/1*\nRude and stuck up\n\nCleanliness -1/1*\nAs shown in video, they make your burgers without gloves (did not see them washing hands either)\n\nOverall/Revisit 0/1*\nNever again!\n\nPaying for ambience?\nAbove and beyond? 0/+1*",
+            "reviewer_name": "TIM C",
+            "rating": 1,
+            "review_text": "2nd time visiting, DO NOT EAT HERE, QUESTIONABLE SANITARY HABITS!!\n\nWas disappointed the first time cause they didn't have nuggets cause machine was 'already cleaned', even though order was placed via mobile 20min before close.\n\nThis time...even worse...\nThey are missing a lot of items on the menu, and make your burger with BARE HANDS (UNWASHED)!! This has caused me to have stomachache!!\n\nTaste 1/1*\nTastes like McDonalds\n\nValue 0/1*\nCosts like McDonalds, for the cleanliness however, not worth your health\n\nService 0/1*\nRude and stuck up\n\nCleanliness -1/1*\nAs shown in video, they make your burgers without gloves (did not see them washing hands either)\n\nOverall/Revisit 0/1*\nNever again!\n\nPaying for ambience?\nAbove and beyond? 0/+1*",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-03T06:34:58.652000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 3,
+            "total_number_of_reviews_by_reviewer": 52,
+            "total_number_of_photos_by_reviewer": 169,
+            "reviewer_url": "https://www.google.com/maps/contrib/116545285502872492049/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVJtgBrIIM5wVP_G3g26GCEJ7AsUQio3d7WxPT3kKdGYiI=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPtmQp1qjwCPPiaLeG18y9YWbG11VNBPK6Y1d7j=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipN0bq-zf9XvTahuY2tQrmyayoMRDgRipHkgxMEv=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOfEWTnrZ3qIQIhJ8zrAqyJa9STvgq7PWUAeyQv=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNo9ttZJiABe-By5bCwb7RtKNJdgMAV3LgwDOTP=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNgt-5CToJ1-sZQtrexZEpbAcnccPbkQ3F_eYKK=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNzwj6HBVmicS9J6Sm7KoywkTHpLZ0rNaEvDzVt=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "So i ordered the quarter pound no cheese, what i got was a soggy bread, a patty few pieces of onion, an eye drop of sauce and single piece of pickle. I showed it to the manager and she actually didnt see a problem with that picture. I asked them to redo my order and put more stuff and sauce in the burger. After waiting 10 mins i got a reheated burger with an additional SINGLE slice of pickle!!!! Save your money go somewhere else",
+            "reviewer_name": "amin sharifkhani",
+            "rating": 1,
+            "review_text": "So i ordered the quarter pound no cheese, what i got was a soggy bread, a patty few pieces of onion, an eye drop of sauce and single piece of pickle. I showed it to the manager and she actually didnt see a problem with that picture. I asked them to redo my order and put more stuff and sauce in the burger. After waiting 10 mins i got a reheated burger with an additional SINGLE slice of pickle!!!! Save your money go somewhere else",
+            "published_at": "5 months ago",
+            "published_at_date": "2023-05-29T00:56:33.199000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 3,
+            "total_number_of_reviews_by_reviewer": 9,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/111925089953765603241/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjX97xEoNlE-C1ISC6WNmI1FrVw0RWxCNCUIElGQjV0vG3Ul=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipO8Qck2bmp9-5iNja4_j02H4ZCMcSbwXPvahUd1=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Busy location but they're efficient and I like how they have a screen showing your number in progress or ready.",
+            "reviewer_name": "Agnes",
+            "rating": 5,
+            "review_text": "Busy location but they're efficient and I like how they have a screen showing your number in progress or ready.",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-12T23:31:31.310000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 312,
+            "total_number_of_photos_by_reviewer": 1325,
+            "reviewer_url": "https://www.google.com/maps/contrib/112434307291794668842/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXJabPr7FOmzLEneR48j9jzbigQoMxAgMpZ6wgDscm7lSnD=s120-c-rp-mo-ba6-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPwtwiHW-oujshF80x4j3AusmxHsuZjM5OoYuXS=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Absolutely useless staff.\nOver charges constantly..I actually drive an extra 10 minutes to avoid this place. Over charged 5 dollars on a coffee and breakfast sandwich....tried the app and it crashed and they had no idea how to fix it. Cost me 21 dollars and no help from them.\nI've been going here since 1985....I'll never set foot in there again. Whoever is in charge retire already.",
+            "reviewer_name": "Simon Shovelhead",
+            "rating": 1,
+            "review_text": "Absolutely useless staff.\nOver charges constantly..I actually drive an extra 10 minutes to avoid this place. Over charged 5 dollars on a coffee and breakfast sandwich....tried the app and it crashed and they had no idea how to fix it. Cost me 21 dollars and no help from them.\nI've been going here since 1985....I'll never set foot in there again. Whoever is in charge retire already.",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-05T13:05:46.394000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 67,
+            "total_number_of_photos_by_reviewer": 12,
+            "reviewer_url": "https://www.google.com/maps/contrib/116873137513050556928/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXT-7cSvMOnNeHHasnOecHBvxld4WLRAmDyWGSFENaPoqf3=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Ordered dine in, got paper bag.\nKetchup dispenser broken.\nDirty tables.\nSquished burgers.\nNo salt on fries.\nLocation is convenient though.",
+            "reviewer_name": "Marieke Jordaan",
+            "rating": 3,
+            "review_text": "Ordered dine in, got paper bag.\nKetchup dispenser broken.\nDirty tables.\nSquished burgers.\nNo salt on fries.\nLocation is convenient though.",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-02T21:08:41.051000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 25,
+            "total_number_of_photos_by_reviewer": 5,
+            "reviewer_url": "https://www.google.com/maps/contrib/114354287721135194724/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJSBLYkueFrYxr9CYL5VFTISTNUuLhdxeu7ggXZOj1W=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "***Do Not Recommend This Location ***\n\nThey gave me a broken cup that leaked everywhere on me and inside my car! The manager took my number said that the owner would give me a call  and so far nothing from them! This place has also got me and my friends orders wrong in the past as well. 1/10",
+            "reviewer_name": "Stony Stone 514",
+            "rating": 1,
+            "review_text": "***Do Not Recommend This Location ***\n\nThey gave me a broken cup that leaked everywhere on me and inside my car! The manager took my number said that the owner would give me a call  and so far nothing from them! This place has also got me and my friends orders wrong in the past as well. 1/10",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-09T23:41:20.009000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 16,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/112327470114813462176/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjX4-uKhG9BjnE3yEH5ReguFrK95G1oRJTFPu0c5hZazSmdD=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Not a nice McDonald's at all. I went to use their washroom and it was disgusting, there was pee everywhere and who knows what else. I ended up leaving and not ordering food I was so turned off by the dirty washroom.b",
+            "reviewer_name": "Branwynn (CasualGamer93)",
+            "rating": 1,
+            "review_text": "Not a nice McDonald's at all. I went to use their washroom and it was disgusting, there was pee everywhere and who knows what else. I ended up leaving and not ordering food I was so turned off by the dirty washroom.b",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-13T11:58:59.651000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 17,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/104869900773845767213/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjU-zkWDWKhUjXhOboMoy6T36g6xEgqv1my5poAPOheSzy4=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

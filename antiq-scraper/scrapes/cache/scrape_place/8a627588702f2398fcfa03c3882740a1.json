@@ -1,0 +1,70 @@
+{
+    "place_id": "ChIJTWvuR5h2hlQRGenehrNsKLE",
+    "name": "In-RealEstate.ca",
+    "description": null,
+    "reviews": null,
+    "website": "https://in-realestate.ca/contact.html",
+    "owner": {
+        "id": null,
+        "name": "In-RealEstate.ca (Owner)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=pOihuKGaurxVMNTRS09EiQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=214.37779&pitch=0&thumbfov=100",
+    "main_category": "Real estate agent",
+    "categories": [
+        "Real estate agent"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": [],
+    "phone": "+1 201-773-6825",
+    "address": "In-RealEstate.ca, 2806 Kingsway, Vancouver, BC V5R 5T5",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/In-RealEstate.ca/data=!4m7!3m6!1s0x5486769847ee6b4d:0xb1286cb386dee919!8m2!3d49.2366521!4d-123.0472493!16s%2Fg%2F11pc79dvqc!19sChIJTWvuR5h2hlQRGenehrNsKLE?authuser=0&hl=en&rclk=1",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJTWvuR5h2hlQRGenehrNsKLE&q=In-RealEstate.ca&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.2366521,
+        "longitude": -123.04724929999999
+    },
+    "plus_code": "6XP3+M4 Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "South Vancouver",
+        "street": "2806 Kingsway",
+        "city": "Vancouver",
+        "postal_code": "V5R 5T5",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "12765572662099372313",
+    "data_id": "0x5486769847ee6b4d:0xb1286cb386dee919",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=pOihuKGaurxVMNTRS09EiQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=214.37779&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=pOihuKGaurxVMNTRS09EiQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=214.37779&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

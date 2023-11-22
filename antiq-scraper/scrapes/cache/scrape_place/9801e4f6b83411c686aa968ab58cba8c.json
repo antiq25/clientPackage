@@ -1,0 +1,650 @@
+{
+    "place_id": "ChIJMZpqcC51hlQR_fFyw7kTx4k",
+    "name": "Sun Sui Wah Seafood Restaurant",
+    "description": "Classy Chinese dining room known for its dim sum, roasted squab & Alaskan King Crab.",
+    "reviews": 2323,
+    "website": "https://sunsuiwahvancouver.ca/",
+    "owner": {
+        "id": "105379530429632149375",
+        "name": "Sun Sui Wah Seafood Restaurant (Owner)",
+        "link": "https://www.google.com/maps/contrib/105379530429632149375"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP-TBRKhIdu3lkMOVXGe6ufAceoSZD-PKbtursl=w408-h270-k-no",
+    "main_category": "Seafood restaurant",
+    "categories": [
+        "Seafood restaurant"
+    ],
+    "rating": 4.1,
+    "workday_timing": "10:30 a.m.-3 p.m., 5-10 p.m.",
+    "closed_on": [],
+    "phone": "(604) 872-8822",
+    "address": "Sun Sui Wah Seafood Restaurant, 3888 Main St, Vancouver, BC V5V 3N9",
+    "review_keywords": [
+        {
+            "keyword": "dim sum",
+            "count": 422
+        },
+        {
+            "keyword": "chinese",
+            "count": 126
+        },
+        {
+            "keyword": "dumplings",
+            "count": 21
+        },
+        {
+            "keyword": "cantonese",
+            "count": 19
+        },
+        {
+            "keyword": "peking duck",
+            "count": 17
+        },
+        {
+            "keyword": "rice rolls",
+            "count": 14
+        },
+        {
+            "keyword": "bbq pork",
+            "count": 13
+        },
+        {
+            "keyword": "squab",
+            "count": 12
+        },
+        {
+            "keyword": "sesame balls",
+            "count": 8
+        },
+        {
+            "keyword": "mango pudding",
+            "count": 6
+        }
+    ],
+    "link": "https://www.google.com/maps/place/Sun+Sui+Wah+Seafood+Restaurant/data=!4m7!3m6!1s0x5486752e706a9a31:0x89c713b9c372f1fd!8m2!3d49.250525!4d-123.1006073!16s%2Fm%2F04yqwln!19sChIJMZpqcC51hlQR_fFyw7kTx4k?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 10:30 a.m.",
+    "price_range": "$$",
+    "reviews_per_rating": {
+        "1": 124,
+        "2": 84,
+        "3": 303,
+        "4": 830,
+        "5": 982
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJMZpqcC51hlQR_fFyw7kTx4k&q=Sun+Sui+Wah+Seafood+Restaurant&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.250524999999996,
+        "longitude": -123.1006073
+    },
+    "plus_code": "7V2X+6Q Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "East Vancouver",
+        "street": "3888 Main St",
+        "city": "Vancouver",
+        "postal_code": "V5V 3N9",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "9927925592130515453",
+    "data_id": "0x5486752e706a9a31:0x89c713b9c372f1fd",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [
+        {
+            "link": "https://www.doordash.com/store/sun-sui-wah-seafood-restaurant-%E6%96%B0%E7%91%9E%E5%8D%8E-vancouver-28213/?utm_campaign=gpa&pickup=true",
+            "source": "doordash.com"
+        },
+        {
+            "link": "https://www.ubereats.com/ca/store/sun-sui-wah-seafood-restaurant/V4qW2apfW7Gn5bPQXU51nw?utm_campaign=place-action-link&utm_medium=organic&utm_source=google",
+            "source": "ubereats.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Takeout",
+                    "enabled": true
+                },
+                {
+                    "name": "Dine-in",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "highlights",
+            "name": "Highlights",
+            "options": [
+                {
+                    "name": "Great tea selection",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair accessible seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Alcohol",
+                    "enabled": true
+                },
+                {
+                    "name": "Beer",
+                    "enabled": true
+                },
+                {
+                    "name": "Hard liquor",
+                    "enabled": true
+                },
+                {
+                    "name": "Small plates",
+                    "enabled": true
+                },
+                {
+                    "name": "Wine",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Dining options",
+            "options": [
+                {
+                    "name": "Breakfast",
+                    "enabled": true
+                },
+                {
+                    "name": "Brunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Lunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Dinner",
+                    "enabled": true
+                },
+                {
+                    "name": "Catering",
+                    "enabled": true
+                },
+                {
+                    "name": "Dessert",
+                    "enabled": true
+                },
+                {
+                    "name": "Seating",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosphere",
+            "options": [
+                {
+                    "name": "Casual",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "crowd",
+            "name": "Crowd",
+            "options": [
+                {
+                    "name": "Groups",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planning",
+            "options": [
+                {
+                    "name": "Accepts reservations",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "children",
+            "name": "Children",
+            "options": [
+                {
+                    "name": "Good for kids",
+                    "enabled": true
+                },
+                {
+                    "name": "High chairs",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "parking",
+            "name": "Parking",
+            "options": [
+                {
+                    "name": "Free parking garage",
+                    "enabled": true
+                },
+                {
+                    "name": "Free parking lot",
+                    "enabled": true
+                },
+                {
+                    "name": "Parking",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipP-TBRKhIdu3lkMOVXGe6ufAceoSZD-PKbtursl=w448-h298-k-no"
+        },
+        {
+            "about": "Latest",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNHzc7JmSCMlLrNvpJIIc30iWTPQMHFDMqNL6pD=w529-h298-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipP1r8_thAeVEod3NX7leVddCpqp1uP1bAopkJZS=w529-h298-k-no"
+        },
+        {
+            "about": "Menu",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMyvwCaGmLYVIBrsh3MxpFrkX4VTRaLUhMTX60i=w397-h298-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNvwB2qwcOSFvXKWnYivC4DMCFKJ0IhRKoGPvCO=w531-h298-k-no"
+        },
+        {
+            "about": "Vibe",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipO4k0srY5YTbOI-3CvKgAJ_o4dpi-sD8z9epFSV=w397-h298-k-no"
+        },
+        {
+            "about": "Dim sum",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOCTtYJte8_EwT3fy_vnf-J0zxY7ad9gMduoC-a=w529-h298-k-no"
+        },
+        {
+            "about": "Peking duck",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipONl0NrKEdkL3BwwYRtAyq2Vh_RlRFPF5gIGqoV=w224-h298-k-no"
+        },
+        {
+            "about": "Rice noodle roll",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOQF3lidDsmVe5TWJzIWlZZui5F-QmfUmifckMD=w397-h298-k-no"
+        },
+        {
+            "about": "Shumai",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNkpkDmLd7WDSq_75XrVicvAaut2Mfcm6-60goh=w224-h298-k-no"
+        },
+        {
+            "about": "Taro dumpling",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOak4CyQLmsQcNggWZqNpWWVfOvzoFb2Xh9Dq72=w397-h298-k-no"
+        },
+        {
+            "about": "King crab",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNCR2u92wx1GZAuuytUOANwV_ZzR6hXGqfOzxmJ=w397-h298-k-no"
+        },
+        {
+            "about": "Corn on the cob",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPfpyCOQHCIKZgfLeakYVXPKX5re3uOz1GribwB=w395-h298-k-no"
+        },
+        {
+            "about": "Turnip",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOxZmQ_q9xAj0NnWUWVScvHGE4eVzId0EHC3QTz=w224-h298-k-no"
+        },
+        {
+            "about": "Seafood",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPwcKuxlW_TSQPrG19eX-Vcw4oX2Q9zh441DUFd=w397-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipM8L_IbNRqMX6Afp0uqrQj3mdmMCcLn8YydzYHU=w448-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipM_iIGiptGgWgNpt6pm85dL_woeD2Q7KVC3qhTi=w224-h298-k-no-pi-1.7989064-ya0.06284004-ro2.0009925-fo100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "10:30 a.m.-3 p.m.",
+                "5-10 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "10:30 a.m.-3 p.m.",
+                "5-10 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "10:30 a.m.-3 p.m.",
+                "5-10 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "10:30 a.m.-3 p.m.",
+                "5-10 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "10:30 a.m.-3 p.m.",
+                "5-10 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "10 a.m.-3 p.m.",
+                "5-10 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "10 a.m.-3 p.m.",
+                "5-10 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "First time coming here for dim sum. We came at 10:30 to avoid the crowds. Service was excellent. Our teapot was topped up multiple times and finished dishes were cleared away  throughout the meal. Very good quality food. Underground parking is a bonus.",
+            "reviewer_name": "35RedBackpack",
+            "rating": 5,
+            "review_text": "First time coming here for dim sum. We came at 10:30 to avoid the crowds. Service was excellent. Our teapot was topped up multiple times and finished dishes were cleared away  throughout the meal. Very good quality food. Underground parking is a bonus.",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-02T22:44:48.205000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 219,
+            "total_number_of_photos_by_reviewer": 387,
+            "reviewer_url": "https://www.google.com/maps/contrib/106409157546383433660/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUvwr3AZSHi1je2OqkHnUqWX3vAiM74G7JX7cijNlak7UA=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipP8LB5Dqt6RX4hmiyZQn6Ym3Q-F8Id-jpu9xfI8=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMl3r9-VUhtHNOydQxDSl5_1vgIxzfyYVRFiGGK=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPgGxopFHspjYZacPFYUfNs4Uzg8Y5UAzVN0K3g=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipO-U6WFyh6NCNKFoCji03m-c09rmXlXJ_p5eEJk=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Came for dinner on a Sunday. It was pretty empty so I don't think there's a need for reservations unless you want to reserve a particular dish like we did.\n\nThe highlight of the night was definitely the pigeon, the melon soup and the sweet and sour pork.\n\nThe pigeon was really crispy and juicy at the same time. Perfectly salted and delicious (no Pic as it was grabbed at quickly)\n\nThe melon soup was so full of goods that I don't think it should be called a soup and instead it should be considered a meal. There was craband scallops inside. The soup was so sweet not in a fake sugary kind of way but a savory and seafood kind of way. Would recommend if money is of no object\n\nThe sweet and sour pork was surprisingly good. Crispy on the outside. Perfect balance of sweet and salty. The meat wasn't dry but instead very crisp in a good way.\n\nOverall the food here was pretty good. Not overly salty and didn't make me drink loads of water afterwards. The service was friendly and fast. My dirty plates were switched out every time a shell landed on it. The prices are appropriate for the amount of food and quality of food. Would definitely recommend the pigeon and sweet and sour pork. The atmosphere was nice because only half the restaurant was full. People were well spaced out and lots of wait staff to help.",
+            "reviewer_name": "Stephanie",
+            "rating": 4,
+            "review_text": "Came for dinner on a Sunday. It was pretty empty so I don't think there's a need for reservations unless you want to reserve a particular dish like we did.\n\nThe highlight of the night was definitely the pigeon, the melon soup and the sweet and sour pork.\n\nThe pigeon was really crispy and juicy at the same time. Perfectly salted and delicious (no Pic as it was grabbed at quickly)\n\nThe melon soup was so full of goods that I don't think it should be called a soup and instead it should be considered a meal. There was craband scallops inside. The soup was so sweet not in a fake sugary kind of way but a savory and seafood kind of way. Would recommend if money is of no object\n\nThe sweet and sour pork was surprisingly good. Crispy on the outside. Perfect balance of sweet and salty. The meat wasn't dry but instead very crisp in a good way.\n\nOverall the food here was pretty good. Not overly salty and didn't make me drink loads of water afterwards. The service was friendly and fast. My dirty plates were switched out every time a shell landed on it. The prices are appropriate for the amount of food and quality of food. Would definitely recommend the pigeon and sweet and sour pork. The atmosphere was nice because only half the restaurant was full. People were well spaced out and lots of wait staff to help.",
+            "published_at": "5 months ago",
+            "published_at_date": "2023-06-16T21:38:11.235000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 242,
+            "total_number_of_photos_by_reviewer": 889,
+            "reviewer_url": "https://www.google.com/maps/contrib/110279979533432439565/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIZ1M-Aj_oFZfyj58HWM1wWBpDQLUZnTjPF70Lppwlt_CY=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPi43wq89S2MCOx9mqhZF9cEJEXJ63-sgLuiXmR=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMgV0XWvBpJjSCbvKlv08GT9gL8hhp7TAO12dXy=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPl5XcEpJxBv47npjhY9uHDwV0Bw-Fl_MUGIRA2=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMw2jVOmS1S0NrCYBwGn-JS5tLEuBvegKutx04n=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Very tasty dimsum. Highly recommend the sticky rice wrapped in lotus leaf- the best I've ever had of this kind. The rice roll with chinese donuts, shumai, shrimp dumplings were all yummy. Pricey though, even with the lunch menu. The staff was friendly and the space was clean.",
+            "reviewer_name": "Quynh Nguyen",
+            "rating": 5,
+            "review_text": "Very tasty dimsum. Highly recommend the sticky rice wrapped in lotus leaf- the best I've ever had of this kind. The rice roll with chinese donuts, shumai, shrimp dumplings were all yummy. Pricey though, even with the lunch menu. The staff was friendly and the space was clean.",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-02T02:42:09.194000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 100,
+            "total_number_of_photos_by_reviewer": 814,
+            "reviewer_url": "https://www.google.com/maps/contrib/105402160346840469661/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXNZkAVK0pd7PDkPyxNd4tMpo9jvzQ9bWww94FzAp1621k=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipP1r8_thAeVEod3NX7leVddCpqp1uP1bAopkJZS=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNPFvrDEr4322MVmMvY-ALHWY3Uxok4yHuk5MFI=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipO59vTJPjM3Q8ixdnqHycOyee7m_27f_gL1O0Xd=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMV6tqfP85EEi6Cy1kTj6hCI739l-SH_XN1MM4m=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPUdahDKsOpfeXBv0XnfIGm5UsEGSpgDEBVfDFK=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "3 stars for dinner, 5 stars for dim sum. Average = 4 stars.\n\nDinner service was very short-staffed with the waiters yelling to be heard.\n\nAsked for red vinegar 5 times and guess what? It never came. I can't eat Chinese food without it, soooo....yeah. Sad dinner. Also slow service at dinner meant we were there for 4 hours. O.m.g.\n\nAnd the 2nd course of the Peking duck was forgotten until we reminded them an hour later.\n\nBut - seafood was fresh,Peking duck crispy and light, veggies crisp, and sauces on point.\n\nGarlic wings and roasted green peppers were a favorite.",
+            "reviewer_name": "Christina Chan",
+            "rating": 4,
+            "review_text": "3 stars for dinner, 5 stars for dim sum. Average = 4 stars.\n\nDinner service was very short-staffed with the waiters yelling to be heard.\n\nAsked for red vinegar 5 times and guess what? It never came. I can't eat Chinese food without it, soooo....yeah. Sad dinner. Also slow service at dinner meant we were there for 4 hours. O.m.g.\n\nAnd the 2nd course of the Peking duck was forgotten until we reminded them an hour later.\n\nBut - seafood was fresh,Peking duck crispy and light, veggies crisp, and sauces on point.\n\nGarlic wings and roasted green peppers were a favorite.",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-11T04:34:13.099000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 185,
+            "total_number_of_photos_by_reviewer": 1154,
+            "reviewer_url": "https://www.google.com/maps/contrib/117827170504417971186/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJr6n214riYja8pq_3-Mi_HTmud2pmHc1F8kEjqxys4=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPPWzZnvGKsgvjnHdZIVF9a1NbeEBScNtnTPFeQ=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNivIbkIBPpoLzTQJ-JSZdJlIvbiGR_Pz6vfZS-=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPy5bTqsB6u0pyOMyza4_QArT-7Skd_ECYKTY3v=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPfavs0POcZfM1UMCHo-OCGn0qL6kYI-9NHnBEt=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMurX87sfjXMf8gig-96yOsASxoj4KmFtuYttv1=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOzY4IhomDkL4GU9vP-xABBaEwIvMDDvYfWqVej=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOBr_IFc1BH25_iMRtTh4p8YCltD-HGERXj1dkp=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipN-eyaenZOiLomGk7U8jwdj3zR02n34A7RFqK7o=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMPR3zmzA1jHyFQ0KGfDoAC_8vAp6uFQX6XQ9PR=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPOltZF7zuHqTIGvLfeWMxcVI64ETZA7QVagmXf=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipP94U1fw9hurfqsssrADjl_hA-RRALfs8NYm2SO=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOKl9v3kU_9eOu2zOgBQXZ0QcO7MmzQb1UxICCd=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNSiQ1Pz8k0N5LMhkSqPkL7aGNkwzl7Aq-TjFGt=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPu44SuzMPfWgJ03l-s4BT6l_Dtmr3W3NnMedG1=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Be aware from ordering too much! Food was good but the portion of each dish is pretty big. The plastic container for takeout costs 1$ each.",
+            "reviewer_name": "Sam Mi",
+            "rating": 4,
+            "review_text": "Be aware from ordering too much! Food was good but the portion of each dish is pretty big. The plastic container for takeout costs 1$ each.",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-03T22:45:52.079000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 54,
+            "total_number_of_photos_by_reviewer": 106,
+            "reviewer_url": "https://www.google.com/maps/contrib/114444790500643056371/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXo8FPPabdZAGhw5PTTn2NkCk8iLj2u3-mL7NpkFP7D8A=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMzaMmaCs5Uy1X1QGo5M-L_Tv4hySGVwGfl1FXC=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNMXiPagqgRQrm3a6MA2ZWTwuCfsvsNHYwsl2V1=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMkvyNqKAfUXJCu4jgL49nwctjABhuM28W6xWjx=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPESJD6tPKZRR_gH8Mn0kKB3bJvpp4kQGllQciR=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMKZrh8deKfqr9ZrxlvSPufmqlcVgr78fN6N2mI=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNaT7Kpj6zdjp8aGbOioUAnjvWMeyoPytAkgnff=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNsH8FLKFHWpCY65xeSJ2KAsvwGgpY8ymxpn4V4=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNom_Jayugvz9TGV23_xi7pC47ahxkSiySxz6l4=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOaLnorOO3r5dNfDX_lI2dLbpgNGVmVhLFx-3-R=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Under-seasoned/bland in many cases. Some excellent items, but others were disappointing, especially given the reputation. I tried to order typically popular dishes, but maybe I didn't pick particularly well?",
+            "reviewer_name": "Shankari Sharma",
+            "rating": 3,
+            "review_text": "Under-seasoned/bland in many cases. Some excellent items, but others were disappointing, especially given the reputation. I tried to order typically popular dishes, but maybe I didn't pick particularly well?",
+            "published_at": "a week ago",
+            "published_at_date": "2023-11-13T02:37:55.548000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 57,
+            "total_number_of_photos_by_reviewer": 74,
+            "reviewer_url": "https://www.google.com/maps/contrib/109216309378518510840/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJE1tAxXMgicZxuYHIZ0tljTbBqaOsjlVIibBnJBWWR=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipN4EcyhM6qeDPWyYp8I20ZHfMg-hQ2GlCktj6II=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Wow! What a tasty dining experience. The service was friendly and fast, and the food was amazing. We will definitely be back here.",
+            "reviewer_name": "Jason",
+            "rating": 5,
+            "review_text": "Wow! What a tasty dining experience. The service was friendly and fast, and the food was amazing. We will definitely be back here.",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-10T02:49:01.534000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 138,
+            "total_number_of_photos_by_reviewer": 158,
+            "reviewer_url": "https://www.google.com/maps/contrib/112924761540910969919/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjU4AOIpL5cUdMTNo1VfEO3OpGHV3qUgq0f4aoNpSKE8arzU=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipORdkfs_KiWX5qwNgiJNMxX0WkHaCybvQ0zhAjz=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNatsJQL29TJsUYB8q4DRy17Z-3rKEt58PtbdZ1=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOii7HVs8Hqz226SSD99TmKPXNfo9DGtqRULKMS=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Had the dim sum. Most items were quite good but the rice rolls skin was a little too thick for my liking.  The ingredients within however was fresh and tasty.  The prawn items were all really fresh.  All the service staff were polite and pleasant.  We didn't do a reservation but they seated us almost immediately.",
+            "reviewer_name": "Hsuet Funn Chan",
+            "rating": 4,
+            "review_text": "Had the dim sum. Most items were quite good but the rice rolls skin was a little too thick for my liking.  The ingredients within however was fresh and tasty.  The prawn items were all really fresh.  All the service staff were polite and pleasant.  We didn't do a reservation but they seated us almost immediately.",
+            "published_at": "a year ago",
+            "published_at_date": "2022-11-04T03:22:10.574000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 34,
+            "total_number_of_photos_by_reviewer": 59,
+            "reviewer_url": "https://www.google.com/maps/contrib/117265061650610488669/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIIKaKEmfcxeDOeIO48fSwlAEVWUlVrx3_Yd8Eza1Hs=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMd6i1u2qRQ78aure8luBHbsRd3j1Xcc6rlAjTl=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPgUR03OuTOHXPFhBQpn_-7Td3YBjtNZJoTJyHI=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipN7lmsriGbgM_UGDsl3suhujbwyEygXxlZObUrP=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPadKzm5ZO8RAq73-cSLyF75RGkyQlCL7BQydeg=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOHWwthsSkrYrDceE_V1DaFXFrbdjTQofhNc88-=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNcGqEKmOw3jZJzGTcLbtYY05eXDjMWp0dvnHnw=w150-h150-k-no-p"
+            ]
+        }
+    ],
+    "is_spending_on_ads": false
+}

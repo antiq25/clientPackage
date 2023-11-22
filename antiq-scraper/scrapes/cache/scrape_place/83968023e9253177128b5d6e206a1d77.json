@@ -1,0 +1,550 @@
+{
+    "place_id": "ChIJmQgpI213hlQRul-qIjkYqOs",
+    "name": "McDonald's",
+    "description": "Classic, long-running fast-food chain known for its burgers & fries.",
+    "reviews": 287,
+    "website": "https://www.mcdonalds.com/ca/en-ca.html",
+    "owner": {
+        "id": "101794944189502509440",
+        "name": "McDonald's (Owner)",
+        "link": "https://www.google.com/maps/contrib/101794944189502509440"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPuY6N9na5MlhW7FL3lu2LUrUG5EcvlqrzAO5Op=w408-h306-k-no",
+    "main_category": "Fast food restaurant",
+    "categories": [
+        "Fast food restaurant"
+    ],
+    "rating": 2.4,
+    "workday_timing": "6:30 a.m.-11 p.m.",
+    "closed_on": [],
+    "phone": "(604) 299-2987",
+    "address": "McDonald's, 4501 Lougheed Hwy. P2501, Burnaby, BC V5C 3Z6",
+    "review_keywords": [
+        {
+            "keyword": "order",
+            "count": 21
+        },
+        {
+            "keyword": "coffee",
+            "count": 20
+        },
+        {
+            "keyword": "management",
+            "count": 17
+        },
+        {
+            "keyword": "door",
+            "count": 12
+        },
+        {
+            "keyword": "number",
+            "count": 8
+        },
+        {
+            "keyword": "app",
+            "count": 8
+        },
+        {
+            "keyword": "cashier",
+            "count": 8
+        },
+        {
+            "keyword": "morning",
+            "count": 8
+        },
+        {
+            "keyword": "trash",
+            "count": 7
+        },
+        {
+            "keyword": "teenagers",
+            "count": 5
+        }
+    ],
+    "link": "https://www.google.com/maps/place/McDonald%E2%80%99s/data=!4m7!3m6!1s0x5486776d23290899:0xeba8183922aa5fba!8m2!3d49.2666932!4d-123.0021153!16s%2Fg%2F11rwmf300c!19sChIJmQgpI213hlQRul-qIjkYqOs?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 6:30 a.m.",
+    "price_range": "$",
+    "reviews_per_rating": {
+        "1": 150,
+        "2": 18,
+        "3": 32,
+        "4": 37,
+        "5": 50
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJmQgpI213hlQRul-qIjkYqOs&q=McDonald%E2%80%99s&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.2666932,
+        "longitude": -123.0021153
+    },
+    "plus_code": "7X8X+M5 Burnaby, British Columbia",
+    "detailed_address": {
+        "ward": null,
+        "street": "4501 Lougheed Hwy. P2501",
+        "city": "Burnaby",
+        "postal_code": "V5C 3Z6",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "16980849028674248634",
+    "data_id": "0x5486776d23290899:0xeba8183922aa5fba",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [
+        {
+            "link": "https://www.doordash.com/store/mcdonald%27s-burnaby-2213438/?utm_campaign=gpa",
+            "source": "doordash.com"
+        },
+        {
+            "link": "https://www.skipthedishes.com/mcdonalds-4501-lougheed-hwy?serviceType=delivery&utm_source=google&utm_medium=organic&utm_campaign=gpav2",
+            "source": "skipthedishes.com"
+        },
+        {
+            "link": "https://www.ubereats.com/ca/store/mcdonalds-brentwood/LzPELxutShCaAEPjPIrJfQ?utm_campaign=place-action-link&utm_medium=organic&utm_source=google",
+            "source": "ubereats.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Outdoor seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Takeout",
+                    "enabled": true
+                },
+                {
+                    "name": "Dine-in",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair accessible seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Coffee",
+                    "enabled": true
+                },
+                {
+                    "name": "Late-night food",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Dining options",
+            "options": [
+                {
+                    "name": "Breakfast",
+                    "enabled": true
+                },
+                {
+                    "name": "Lunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Dinner",
+                    "enabled": true
+                },
+                {
+                    "name": "Counter service",
+                    "enabled": true
+                },
+                {
+                    "name": "Dessert",
+                    "enabled": true
+                },
+                {
+                    "name": "Seating",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Gender-neutral washroom",
+                    "enabled": true
+                },
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                },
+                {
+                    "name": "Wi-Fi",
+                    "enabled": true
+                },
+                {
+                    "name": "Wi-Fi",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosphere",
+            "options": [
+                {
+                    "name": "Casual",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "crowd",
+            "name": "Crowd",
+            "options": [
+                {
+                    "name": "Family-friendly",
+                    "enabled": true
+                },
+                {
+                    "name": "Groups",
+                    "enabled": true
+                },
+                {
+                    "name": "LGBTQ+ friendly",
+                    "enabled": true
+                },
+                {
+                    "name": "Transgender safe space",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "children",
+            "name": "Children",
+            "options": [
+                {
+                    "name": "Good for kids",
+                    "enabled": true
+                },
+                {
+                    "name": "High chairs",
+                    "enabled": true
+                },
+                {
+                    "name": "Kids' menu",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPuY6N9na5MlhW7FL3lu2LUrUG5EcvlqrzAO5Op=w397-h298-k-no"
+        },
+        {
+            "about": "Latest",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOSvOwYZOF7bPZRqLw55Mt0AzlXqkxfdRoxGFVB=w224-h298-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipP4s1U2Hqx-vESQmHe3hkufPGeI0RZvTTAPZRR1=w224-h398-k-no"
+        },
+        {
+            "about": "Menu",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMYecnsvjP1nNBXdjuguuG-CIqqm98F03UfJU2W=w224-h298-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMI73f1XEI5wK_pBI7X-wBXVLjVwS4cavOOwe6Q=w224-h298-k-no"
+        },
+        {
+            "about": "Vibe",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipP1Za-d-d3lwo7-Os1MaztuTYem9ysloipA64an=w224-h438-k-no"
+        },
+        {
+            "about": "French fries",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPgiUa3VfJ3WniM4anCXigRWwJSXnf8_o4TFRyQ=w397-h298-k-no"
+        },
+        {
+            "about": "Comfort food",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMgsEMeJvkOuhWhkYUE-e7Qa3VQsxJI4aSSDhpL=w397-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=NO3ygZ0GvlGDPUKmv9jd9w&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=13.329241&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "6:30 a.m.-11 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "6:30 a.m.-11 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "6:30 a.m.-11 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "6:30 a.m.-11 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "Open 24 hours"
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "Open 24 hours"
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "6:30 a.m.-11 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "The burger in picture 1 and picture 2 are from here, compared with the same burgers from other branches, which is not the same level at all. Many times I chose the  customization, but they did wrong. I don't know how they can cook a fast food so bad and the vegetables are always not fresh...",
+            "reviewer_name": "Lucia Zhuang",
+            "rating": 1,
+            "review_text": "The burger in picture 1 and picture 2 are from here, compared with the same burgers from other branches, which is not the same level at all. Many times I chose the  customization, but they did wrong. I don't know how they can cook a fast food so bad and the vegetables are always not fresh...",
+            "published_at": "3 days ago",
+            "published_at_date": "2023-11-18T21:56:32.226000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 5,
+            "reviewer_url": "https://www.google.com/maps/contrib/100308761978430921778/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLSYt3b0sE4rZ6TyYh5Ezquq-ai0-gFkUpWMUpq20vZ=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOSvOwYZOF7bPZRqLw55Mt0AzlXqkxfdRoxGFVB=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNYWa_hmMIKx7ZWKErm8ZoBbo80LyLSZLs38bgN=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMI73f1XEI5wK_pBI7X-wBXVLjVwS4cavOOwe6Q=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "I ordered at the kiosk a large fries and a cheeseburger. Went over to the pickup section and on the screen, I was the 2nd number down. There were about 8 total orders waiting. ALL of them were served before mine. Fine whatever. I finally got my order. After opening it, they gave us a medium fries instead of a large. I can't do anything about it now but when you're paying almost $5 for a large...... the medium wasn't even fresh fries and not full either.",
+            "reviewer_name": "T Dang",
+            "rating": 1,
+            "review_text": "I ordered at the kiosk a large fries and a cheeseburger. Went over to the pickup section and on the screen, I was the 2nd number down. There were about 8 total orders waiting. ALL of them were served before mine. Fine whatever. I finally got my order. After opening it, they gave us a medium fries instead of a large. I can't do anything about it now but when you're paying almost $5 for a large...... the medium wasn't even fresh fries and not full either.",
+            "published_at": "3 days ago",
+            "published_at_date": "2023-11-18T22:49:59.381000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 45,
+            "total_number_of_photos_by_reviewer": 2,
+            "reviewer_url": "https://www.google.com/maps/contrib/118341760021768484401/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXb9MxhRKkauzZs-nK0aJHN2_cqHP1qSll9T65scKveZBY=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "**Update** To everyone who has had a negative experience with this location, please fill out a contact form on the McDonald's app or website and file a complaint. They told me this location is already flagged and on their radar. I took the chance and ordered two breakfast sandwiches today and one of them was wrong, and the other had ZERO sauce. The chicken tasted old. Absolutely disgusting.\n\nThird review since this McDonald's keeps deleting them since they don't like hearing the truth!!\n\nIn short:\n\nAlways check your order before you leave because they usually mess it up and forget something or give you the wrong item.\n\nThe food quality is horrendous and does not meet the franchise standards. You might receive a burger with barely any sauce, bread will be burnt, fries are half full and upside down in the bag, etc.\n\nThe facility is usually dirty.\n\nStaff are cranky and never know what they are doing.\n\nI've sent in complaints to McDonald's via Twitter and email and they have responded and told me they will be following up with this location.",
+            "reviewer_name": "Melissa Denise",
+            "rating": 1,
+            "review_text": "**Update** To everyone who has had a negative experience with this location, please fill out a contact form on the McDonald's app or website and file a complaint. They told me this location is already flagged and on their radar. I took the chance and ordered two breakfast sandwiches today and one of them was wrong, and the other had ZERO sauce. The chicken tasted old. Absolutely disgusting.\n\nThird review since this McDonald's keeps deleting them since they don't like hearing the truth!!\n\nIn short:\n\nAlways check your order before you leave because they usually mess it up and forget something or give you the wrong item.\n\nThe food quality is horrendous and does not meet the franchise standards. You might receive a burger with barely any sauce, bread will be burnt, fries are half full and upside down in the bag, etc.\n\nThe facility is usually dirty.\n\nStaff are cranky and never know what they are doing.\n\nI've sent in complaints to McDonald's via Twitter and email and they have responded and told me they will be following up with this location.",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-17T17:59:50.397000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 14,
+            "total_number_of_reviews_by_reviewer": 307,
+            "total_number_of_photos_by_reviewer": 970,
+            "reviewer_url": "https://www.google.com/maps/contrib/110273018111094845401/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXVz7miaRW41cbS0r2BPgDnM39GsDQl3UkU5DpIoxLklMez=s120-c-rp-mo-ba6-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOQDlttpA2wx8HEw1kpiztVpFpVm1NXEcTpfaUe=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNZHluI3u75z6FCMHNZpxvJt8xgvVtUz1esHUDo=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "I am unsure of the purpose of the monitor if I cannot find my order and have to rely on the staff for updates every time. Despite their assurances that it is on its way, I believe that if an order is not ready, it should be displayed on the monitor.\n\nIt seems that the orders are removed from the monitor to showcase how quickly they serve customers. However, in reality, there is often a backlog of orders waiting to be fulfilled behind the counter. This raises concerns about the integrity of McDonald's practices.\n\nI am curious whether anyone from McDonald's reads customer reviews and takes them into consideration.\n\nFrom attached picture, you can see people waiting for their orders while there are only two order on the monitor.",
+            "reviewer_name": "Farzad Hamidi",
+            "rating": 1,
+            "review_text": "I am unsure of the purpose of the monitor if I cannot find my order and have to rely on the staff for updates every time. Despite their assurances that it is on its way, I believe that if an order is not ready, it should be displayed on the monitor.\n\nIt seems that the orders are removed from the monitor to showcase how quickly they serve customers. However, in reality, there is often a backlog of orders waiting to be fulfilled behind the counter. This raises concerns about the integrity of McDonald's practices.\n\nI am curious whether anyone from McDonald's reads customer reviews and takes them into consideration.\n\nFrom attached picture, you can see people waiting for their orders while there are only two order on the monitor.",
+            "published_at": "5 months ago",
+            "published_at_date": "2023-06-14T16:18:52.943000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 6,
+            "total_number_of_reviews_by_reviewer": 18,
+            "total_number_of_photos_by_reviewer": 21,
+            "reviewer_url": "https://www.google.com/maps/contrib/113368182935650269574/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjX7LLCaWZEORshho64d58jPB1ebdUgX1E5Sq8Kkoj081Rk=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNzBZY58VDA1eL1RNeoJQLCdwxT0Z2r7sdhIkPq=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "I get that McDonald's is fast food. But on about 3 occasions my egg mc muffins have been unedibles. To the point that when I gave it to a coworker they threw it straight in the garbage.\n\nThe grease was so bad it was seeping through the wrapper all over the place. I've been to many McDonald's and never seen it this bad on numerous occasions.\n\nPlus coffee is never consistent.\n\nReally hate giving bad reviews but do yourself a favour and get something edible elsewhere.\n\nStaff are nice tho.",
+            "reviewer_name": "Elias Whitfield",
+            "rating": 1,
+            "review_text": "I get that McDonald's is fast food. But on about 3 occasions my egg mc muffins have been unedibles. To the point that when I gave it to a coworker they threw it straight in the garbage.\n\nThe grease was so bad it was seeping through the wrapper all over the place. I've been to many McDonald's and never seen it this bad on numerous occasions.\n\nPlus coffee is never consistent.\n\nReally hate giving bad reviews but do yourself a favour and get something edible elsewhere.\n\nStaff are nice tho.",
+            "published_at": "a month ago",
+            "published_at_date": "2023-09-23T15:40:15.910000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 3,
+            "total_number_of_reviews_by_reviewer": 5,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/110435102472507884104/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUXMdvnlkTkQVU0ehtd-REaiMQEj8sgaC3LqEXbuh7mAxo=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Cup leaks and it was the most chaotic walk to work I've ever had. Imagine burning fingers, holding your purse & lunch bag and trying to avoid dripping coffee on your work clothes. Also gave me the wrong item for breakfast.",
+            "reviewer_name": "Alison Ho",
+            "rating": 1,
+            "review_text": "Cup leaks and it was the most chaotic walk to work I've ever had. Imagine burning fingers, holding your purse & lunch bag and trying to avoid dripping coffee on your work clothes. Also gave me the wrong item for breakfast.",
+            "published_at": "6 months ago",
+            "published_at_date": "2023-05-15T16:08:13.122000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 5,
+            "total_number_of_reviews_by_reviewer": 13,
+            "total_number_of_photos_by_reviewer": 7,
+            "reviewer_url": "https://www.google.com/maps/contrib/107163171024683193124/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXWOWyw5Ho0-nUMqY4WfTPg3N226yYd0y7qVAHoIuM7yV8=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPXYicmAl8-KqNH5ZiVNkTr2IIKOyub4itIcoUC=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Been giving this place quite a few chances but their service is the worst compared to other McDonald's locations I've been at. I understand that they're a fast food chain but it doesn't excuse the fact that their workers seem so unhappy at dealing with their customers.\nMultiple times they've missed my orders (e.g. no fries when I ordered a meal with medium fries) and I mostly order takeout so I can't just easily inform them of the missing items. I know I should double check my orders before I leave but there are times when I forget and as a customer we do rely and expect on the servers to give you your correct and complete order.\n\nLastly, they will close and no longer accept orders 10minutes before closing. I've worked at a fast food place as a teenager and we were required to keep our store open to customers at the last minute. The employee on the counter had to raise her voice to tell us that they will no longer be accepting food orders and that we should leave.",
+            "reviewer_name": "Vanessa Holleran",
+            "rating": 1,
+            "review_text": "Been giving this place quite a few chances but their service is the worst compared to other McDonald's locations I've been at. I understand that they're a fast food chain but it doesn't excuse the fact that their workers seem so unhappy at dealing with their customers.\nMultiple times they've missed my orders (e.g. no fries when I ordered a meal with medium fries) and I mostly order takeout so I can't just easily inform them of the missing items. I know I should double check my orders before I leave but there are times when I forget and as a customer we do rely and expect on the servers to give you your correct and complete order.\n\nLastly, they will close and no longer accept orders 10minutes before closing. I've worked at a fast food place as a teenager and we were required to keep our store open to customers at the last minute. The employee on the counter had to raise her voice to tell us that they will no longer be accepting food orders and that we should leave.",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-06-28T06:05:54.971000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 6,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/105559894828294469750/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKYaAc_kp8gszdgH3vQziE0lIINYBcdb4td7I7UUlWi=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Mindy the manager was extremely rude to me when I asked her to unlock the bathroom downstairs. She said go upstairs I said no my mom needs to use the bathroom downstairs. She ignored me. I had to tell her again and I said my mom is handicap she can't go up the stairs she needs the bathroom. She looked at me like \"who cares\" and her other staff ignored me again. I had to basically tell them to open the door and  when I told Mindy she was rude she started arguing with me and talking to me as if we were in a brawl. Completely unprofessional for a \"manager\" to act this way! She argued with me and even customers were shaking their head at what she was doing. When someone needs to use the bathroom it should not matter what the reason is. I did not need to explain to her that my mother is handicap and is unable to go up the stairs. I have never been to this location but I do have to say it's one of the worst experiences I have ever had. Mindy needs management skills training. Horrible experience! The best part is when you complain to their upper management they always say \"will look into it\" and nothing gets fixed or done. Upper management will read this and do absolutely nothing and continue on because that's what McDonald's management do \"nothing\".",
+            "reviewer_name": "Tania Boudreau",
+            "rating": 1,
+            "review_text": "Mindy the manager was extremely rude to me when I asked her to unlock the bathroom downstairs. She said go upstairs I said no my mom needs to use the bathroom downstairs. She ignored me. I had to tell her again and I said my mom is handicap she can't go up the stairs she needs the bathroom. She looked at me like \"who cares\" and her other staff ignored me again. I had to basically tell them to open the door and  when I told Mindy she was rude she started arguing with me and talking to me as if we were in a brawl. Completely unprofessional for a \"manager\" to act this way! She argued with me and even customers were shaking their head at what she was doing. When someone needs to use the bathroom it should not matter what the reason is. I did not need to explain to her that my mother is handicap and is unable to go up the stairs. I have never been to this location but I do have to say it's one of the worst experiences I have ever had. Mindy needs management skills training. Horrible experience! The best part is when you complain to their upper management they always say \"will look into it\" and nothing gets fixed or done. Upper management will read this and do absolutely nothing and continue on because that's what McDonald's management do \"nothing\".",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-02T18:51:04.120000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 7,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/100858677116475021486/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJSfgGcbRbUj8XxQZRrLSTTXQPnrIA4MjfuEEMFBJS1=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

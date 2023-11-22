@@ -1,0 +1,305 @@
+{
+    "place_id": "ChIJqVkxYCeWYoYRY0ZY9adJPqg",
+    "name": "IN Departamentos",
+    "description": null,
+    "reviews": 12,
+    "website": "http://nestin.com.mx/",
+    "owner": {
+        "id": null,
+        "name": "IN Departamentos (Owner)",
+        "link": null
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNgsg4KRUCpe6cpbZ3JHnhH9PMd7i1N4CBv0nt1=w426-h240-k-no",
+    "main_category": "Apartment building",
+    "categories": [
+        "Apartment building"
+    ],
+    "rating": 4.7,
+    "workday_timing": "Open 24 hours",
+    "closed_on": [],
+    "phone": null,
+    "address": "IN Departamentos, Blvd. Antonio L. Rodriguez 1888, Santa Maria, 64650 Monterrey, N.L., Mexico",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/IN+Departamentos/data=!4m7!3m6!1s0x86629627603159a9:0xa83e49a7f5584663!8m2!3d25.6704705!4d-100.3794222!16s%2Fg%2F11c2j8v7sm!19sChIJqVkxYCeWYoYRY0ZY9adJPqg?authuser=0&hl=en&rclk=1",
+    "status": "Open 24 hours",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 11
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJqVkxYCeWYoYRY0ZY9adJPqg&q=IN+Departamentos&authuser=0&hl=en&gl=MX",
+    "coordinates": {
+        "latitude": 25.6704705,
+        "longitude": -100.3794222
+    },
+    "plus_code": "MJCC+56 Monterrey, Nuevo Leon, Mexico",
+    "detailed_address": {
+        "ward": "Santa Maria",
+        "street": "Blvd. Antonio L. Rodriguez 1888",
+        "city": "Monterrey",
+        "postal_code": null,
+        "state": "Nuevo Leon",
+        "country_code": "MX"
+    },
+    "time_zone": "America/Monterrey",
+    "cid": "12123208232652523107",
+    "data_id": "0x86629627603159a9:0xa83e49a7f5584663",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNgsg4KRUCpe6cpbZ3JHnhH9PMd7i1N4CBv0nt1=w529-h298-k-no"
+        },
+        {
+            "about": "Exterior",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPbJwe8UlCKF0OImq20XOgs_23T_HfoujpPIHU=w397-h298-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMKGAa9Sp-NgPp44Sy6msxKb4UjvqEGrLdDueCJ=w804-h298-k-no"
+        },
+        {
+            "about": "Apartment",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOj8WXGch-yMjjyhtRUX_YxOxF5xXYQfQI9A_wg=w224-h298-k-no"
+        },
+        {
+            "about": "From visitors",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNWJVb_Tfp5rheCCuuk_sIXYtIEd4WMcrwsFBGW=w397-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=0Fkkcr2Zs4fyRfzYt91E5g&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=15.248233&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "Open 24 hours"
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "Open 24 hours"
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "Open 24 hours"
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "Open 24 hours"
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "Open 24 hours"
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "Open 24 hours"
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "Open 24 hours"
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "I moved this apartment, but too much stressed now. The train track is located at too much near, so train horn is too much noisy. Wow, even night also.",
+            "reviewer_name": "handsome lee",
+            "rating": 1,
+            "review_text": "I moved this apartment, but too much stressed now. The train track is located at too much near, so train horn is too much noisy. Wow, even night also.",
+            "published_at": "2 years ago",
+            "published_at_date": "2021-10-14T12:47:53.810000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 5,
+            "total_number_of_reviews_by_reviewer": 30,
+            "total_number_of_photos_by_reviewer": 44,
+            "reviewer_url": "https://www.google.com/maps/contrib/118132531489892539857/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIUCIW-FBZS4Xq139HdAKEFnPZgxzHk2r6wIr24gezF=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Super padre edificio, es petfrendly.. lo tienen todo muy cuidado y hay muchas Amenidades como alberca,gym, asadores entre otras cosas ..",
+            "reviewer_name": "Monica Garcia",
+            "rating": 5,
+            "review_text": "Super padre edificio, es petfrendly.. lo tienen todo muy cuidado y hay muchas Amenidades como alberca,gym, asadores entre otras cosas ..",
+            "published_at": "a year ago",
+            "published_at_date": "2022-09-06T21:07:03.830000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 5,
+            "reviewer_url": "https://www.google.com/maps/contrib/103095862708788809749/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVfGbqiq4WTUHNfD1h6LiZ5sp8qO4_yLoaz9ayxY1DBHpZQ=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": "Super cool building, it is petfrendly... they have everything very well taken care of and there are many amenities such as a pool, gym, grills among other things...",
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Muy seguro",
+            "reviewer_name": "Tono 77",
+            "rating": 5,
+            "review_text": "Muy seguro",
+            "published_at": "4 years ago",
+            "published_at_date": "2019-11-08T22:25:57.987000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 39,
+            "total_number_of_photos_by_reviewer": 346,
+            "reviewer_url": "https://www.google.com/maps/contrib/109299657246469395227/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVFkFk-CvLJVxWaIpAq6ns0LAMUMCVfnkWX7q7dUXDCkfk=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": "Very sure",
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Excelentes departamentos",
+            "reviewer_name": "Daniel Gonzalez",
+            "rating": 5,
+            "review_text": "Excelentes departamentos",
+            "published_at": "2 years ago",
+            "published_at_date": "2021-02-14T21:33:33.028000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 252,
+            "total_number_of_photos_by_reviewer": 193,
+            "reviewer_url": "https://www.google.com/maps/contrib/105125160261405242601/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVOSiTAjoHkZCa75l7M4pNjv4tM-_tzcoh18EvyCiOB_TU=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": "Excellent apartments",
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Super krasivye doma",
+            "reviewer_name": "kris vera",
+            "rating": 5,
+            "review_text": "Super krasivye doma",
+            "published_at": "3 years ago",
+            "published_at_date": "2020-03-18T01:17:30.421000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 110,
+            "total_number_of_photos_by_reviewer": 604,
+            "reviewer_url": "https://www.google.com/maps/contrib/101914331741879217292/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjV1xMA7gZB3grSsVsejYSfUE86aoJpMEOrqSPdd_ook9w=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": "Super beautiful houses",
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Excelente lugar!!!",
+            "reviewer_name": "Carlos Camacho",
+            "rating": 5,
+            "review_text": "Excelente lugar!!!",
+            "published_at": "6 years ago",
+            "published_at_date": "2016-12-21T14:43:43.643000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/102582945865803679141/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWj7zdrg7q59QHmVnzwYVcjLnRUm1fUNQ_I6qeg5DfsrrM=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": "Excellent place!!!",
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Oscar Nunez-Elias",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "6 months ago",
+            "published_at_date": "2023-05-20T17:44:53.167000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 186,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/105367424238951336259/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVIbHSmSC0_8uUzfNp2oPvbH6fcWFEdaveQgXkKMnhXFw=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Juan Pablo Estrada",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "a year ago",
+            "published_at_date": "2022-06-02T14:03:28.232000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 74,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/109235390148401291132/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWQ87JPe1FBhl0k5Ky0N3hVMGiyxZb4th-8gc1-AE64EO0=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

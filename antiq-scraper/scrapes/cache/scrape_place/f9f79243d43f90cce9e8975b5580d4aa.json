@@ -1,0 +1,522 @@
+{
+    "place_id": "ChIJkYhNAMxzhlQR3FNxyaa4ETg",
+    "name": "Go Fish",
+    "description": "Popular takeaway joint offers simple menu of sustainable seafood from fish 'n' chips to tacos.",
+    "reviews": 2084,
+    "website": "https://www.facebook.com/pages/Go-Fish/335133559903806%3Fnr",
+    "owner": {
+        "id": "114477721119090004182",
+        "name": "Go Fish (Owner)",
+        "link": "https://www.google.com/maps/contrib/114477721119090004182"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO1vi8yJ8kVkKqfweg6mC7KW6NkIb1irFvROpU=w426-h240-k-no",
+    "main_category": "Fish & chips restaurant",
+    "categories": [
+        "Fish & chips restaurant",
+        "Seafood restaurant"
+    ],
+    "rating": 4.3,
+    "workday_timing": "11:30 a.m.-6 p.m.",
+    "closed_on": [
+        "Monday"
+    ],
+    "phone": "(604) 730-5040",
+    "address": "Go Fish, 1505 W 1st Ave, Vancouver, BC V6J 1E8",
+    "review_keywords": [
+        {
+            "keyword": "halibut",
+            "count": 145
+        },
+        {
+            "keyword": "salmon",
+            "count": 80
+        },
+        {
+            "keyword": "tacos",
+            "count": 57
+        },
+        {
+            "keyword": "rain",
+            "count": 25
+        },
+        {
+            "keyword": "dock",
+            "count": 21
+        },
+        {
+            "keyword": "po boy",
+            "count": 20
+        },
+        {
+            "keyword": "tuna",
+            "count": 18
+        },
+        {
+            "keyword": "patio",
+            "count": 16
+        },
+        {
+            "keyword": "seawall",
+            "count": 16
+        },
+        {
+            "keyword": "shack",
+            "count": 14
+        }
+    ],
+    "link": "https://www.google.com/maps/place/Go+Fish/data=!4m7!3m6!1s0x548673cc004d8891:0x3811b8a6c97153dc!8m2!3d49.2715703!4d-123.1399695!16s%2Fm%2F04yj1xf!19sChIJkYhNAMxzhlQR3FNxyaa4ETg?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 11:30 a.m.",
+    "price_range": "$$",
+    "reviews_per_rating": {
+        "1": 108,
+        "2": 72,
+        "3": 136,
+        "4": 440,
+        "5": 1328
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJkYhNAMxzhlQR3FNxyaa4ETg&q=Go+Fish&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.2715703,
+        "longitude": -123.13996949999999
+    },
+    "plus_code": "7VC6+J2 Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "West Side",
+        "street": "1505 W 1st Ave",
+        "city": "Vancouver",
+        "postal_code": "V6J 1E8",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "4040213367211774940",
+    "data_id": "0x548673cc004d8891:0x3811b8a6c97153dc",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Outdoor seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Takeout",
+                    "enabled": true
+                },
+                {
+                    "name": "Dine-in",
+                    "enabled": true
+                },
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair accessible seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Dining options",
+            "options": [
+                {
+                    "name": "Lunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Dinner",
+                    "enabled": true
+                },
+                {
+                    "name": "Seating",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Dogs allowed",
+                    "enabled": true
+                },
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosphere",
+            "options": [
+                {
+                    "name": "Casual",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planning",
+            "options": [
+                {
+                    "name": "Accepts reservations",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "children",
+            "name": "Children",
+            "options": [
+                {
+                    "name": "Good for kids",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "parking",
+            "name": "Parking",
+            "options": [
+                {
+                    "name": "Free parking lot",
+                    "enabled": true
+                },
+                {
+                    "name": "Parking",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipO1vi8yJ8kVkKqfweg6mC7KW6NkIb1irFvROpU=w529-h298-k-no"
+        },
+        {
+            "about": "Latest",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOzmlAhpcK6b7ASkQK8YrhPX4_uqaM_j7gxMQDE=w992-h298-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipO-2llKtQuZ7okuGYEy5lGEZJnYGTzANDxkpwFe=w224-h398-k-no"
+        },
+        {
+            "about": "Menu",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipO6XbAJQKjwFrn7XRwuAnyNqMybK5p4rBBSUEkP=w224-h298-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipM4kB-A6DTbDNQ8k1vEIfjTcr5_ufa8nSBkOmY=w529-h298-k-no"
+        },
+        {
+            "about": "Vibe",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOqKe0BQ9RPtEKpkBdp2m2pz5xp93rfYFpcPhk=w402-h298-k-no"
+        },
+        {
+            "about": "Take-out",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipN1Yx7vin5vbjwgbyRTJPShhkejqSQggfUkU-aS=w224-h298-k-no"
+        },
+        {
+            "about": "Fish and chips",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNWoN5S1qrSWFjoLjbVsyFTM3lg38dNVdZixpV5=w395-h298-k-no"
+        },
+        {
+            "about": "Shawarma",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipP-mdyaQO2kNg9PLAYoorE4sLiu2UtAt2eJ0qxO=w397-h298-k-no"
+        },
+        {
+            "about": "French fries",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipM15-xbBwcCuIKYAExGtaV93fD84nrlhZopWV6d=w529-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=XzAyaUqYFZ1HWAQq3P5P6A&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=244.97784&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "Closed"
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "11:30 a.m.-6 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "11:30 a.m.-6 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "11:30 a.m.-6 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "11:30 a.m.-6 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "12-6 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "12-6 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "Hands down, best fish and chips I've ever had in my life. We got the halibut and chips - fish tasted so fresh, was flaky in the inside and had a great exterior crunch. I must say though, the chips (i.e. fries), was the star of the dish for me - they were cooked to perfection. Crunchy on the outside and fluffy on the inside, every single one of them. Service was quick and the patio atmosphere with a good view just makes this place that much better. It's about a 5min walk from Granville Island. 10000000% would recommend this place to anyone that loves good food.",
+            "reviewer_name": "Kelly Dela Cruz",
+            "rating": 5,
+            "review_text": "Hands down, best fish and chips I've ever had in my life. We got the halibut and chips - fish tasted so fresh, was flaky in the inside and had a great exterior crunch. I must say though, the chips (i.e. fries), was the star of the dish for me - they were cooked to perfection. Crunchy on the outside and fluffy on the inside, every single one of them. Service was quick and the patio atmosphere with a good view just makes this place that much better. It's about a 5min walk from Granville Island. 10000000% would recommend this place to anyone that loves good food.",
+            "published_at": "3 weeks ago",
+            "published_at_date": "2023-10-30T23:29:33.823000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 11,
+            "total_number_of_photos_by_reviewer": 13,
+            "reviewer_url": "https://www.google.com/maps/contrib/111731168794311199926/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVM1DiZKqe5JwGeKHrxX4zjo35NkLzeSnJ1wKkY8-kHApM=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMlJNhNNsEbEdEyMW65zwRNGQSdG1UNWRUH_hgG=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "The tuna sandwich was okay, but the Halibut and Chips were amazing!! Meaty with light crispy batter that melts in your mouth..\nHighly recommend the fish & chips!!\nNice small outdoor spot by the docks across from Granville Island.\nSandwich was a 3/5\nHalibut was 7/5",
+            "reviewer_name": "Daniel Jung",
+            "rating": 5,
+            "review_text": "The tuna sandwich was okay, but the Halibut and Chips were amazing!! Meaty with light crispy batter that melts in your mouth..\nHighly recommend the fish & chips!!\nNice small outdoor spot by the docks across from Granville Island.\nSandwich was a 3/5\nHalibut was 7/5",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-08-26T20:40:37.004000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 3,
+            "total_number_of_reviews_by_reviewer": 245,
+            "total_number_of_photos_by_reviewer": 832,
+            "reviewer_url": "https://www.google.com/maps/contrib/111149626096541591082/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVB3Y696XZA61ninAQt-0fSkOYeV5GnLC5hz6s6UCNKh9k=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNYB88FuN_9LPQaTtfiEX0RAxqRxPKBQf9sqMU5=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOYlcZibUv0_v85FF53AHHvuZa3vQK90qLbT37O=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPKg1qKhGWuUfvrWk4MFaKuFkshwhyaWPsPiRHP=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipN1Yx7vin5vbjwgbyRTJPShhkejqSQggfUkU-aS=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "To be concise.. yes, I would recommend.\n\nPro: delicious. Good portions. Very friendly staff (exceptional customer service)\n\nCon: parking is difficult. No indoor or covered seating.\n\nWe tried the Cod fish and chips. Excellent batter and the fries were delicious. Tatar sauce was rich and satisfying. Coleslaw was underwhelming and slightly boring.\n\nWe also had the Oyster \"Po Boy\" sandwich. The flavour was amazing and unique. Highly recommend.\n\nOverall, great service and exciting sandwich menu. Fish and chips were above par. I wished there were some covered seating as you're completely exposed to the elements.\n\nOf note: walking distance to Granville Island! Also, expect to wait to be served during peak hours.",
+            "reviewer_name": "Willy Lien",
+            "rating": 5,
+            "review_text": "To be concise.. yes, I would recommend.\n\nPro: delicious. Good portions. Very friendly staff (exceptional customer service)\n\nCon: parking is difficult. No indoor or covered seating.\n\nWe tried the Cod fish and chips. Excellent batter and the fries were delicious. Tatar sauce was rich and satisfying. Coleslaw was underwhelming and slightly boring.\n\nWe also had the Oyster \"Po Boy\" sandwich. The flavour was amazing and unique. Highly recommend.\n\nOverall, great service and exciting sandwich menu. Fish and chips were above par. I wished there were some covered seating as you're completely exposed to the elements.\n\nOf note: walking distance to Granville Island! Also, expect to wait to be served during peak hours.",
+            "published_at": "a month ago",
+            "published_at_date": "2023-09-22T21:30:35.389000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 21,
+            "total_number_of_photos_by_reviewer": 35,
+            "reviewer_url": "https://www.google.com/maps/contrib/106741661770818529988/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjU_rMxUtibSGO2Yzc4RYvIYt_mU9swkzT7cQSO_51Lqtzg=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPrVl5uwL2zVuBKeZE8ysgbGTFjGzSI-OrcJJFj=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOEEn3E47FcYG-iL4_bM4QB7ncS6670gN91yWzB=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMBYxLHVe2Kf3oClL1wItLpMGyfNWgHFaTquy-N=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Amazing!!! Wanted fish and chips and I could not have been more pleased. Best I've ever had. Staff was great and you can see them cutting up the fish to order so couldn't be fresher. Do not hesitate to visit.",
+            "reviewer_name": "Matt Fatouros",
+            "rating": 5,
+            "review_text": "Amazing!!! Wanted fish and chips and I could not have been more pleased. Best I've ever had. Staff was great and you can see them cutting up the fish to order so couldn't be fresher. Do not hesitate to visit.",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-08T23:11:30.239000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 4,
+            "total_number_of_photos_by_reviewer": 2,
+            "reviewer_url": "https://www.google.com/maps/contrib/101119995147780428844/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIn-dqYQ70jKx61Pq1NFCbtq1mw4qYkFGqo3T4PyHih=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPw77VsY-9Awwldnt9o-Kpv9hxqwkIiVhlCzsU7=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Spectacular fish and chips and other delicacies (fish tacos and burgers) at this modest shack near Granville Island. The cod is fresh and super tasty, perfectly cooked! The chips (French fries) are excellent, the tuna taco is worth a trip. With CAD 10 per person you eat like a king. Best food in a long time! The service is super friendly. The accommodation is a bit rustic but hey... you can take the goodies out and eat it in your own castle!",
+            "reviewer_name": "Renato Nardello",
+            "rating": 5,
+            "review_text": "Spectacular fish and chips and other delicacies (fish tacos and burgers) at this modest shack near Granville Island. The cod is fresh and super tasty, perfectly cooked! The chips (French fries) are excellent, the tuna taco is worth a trip. With CAD 10 per person you eat like a king. Best food in a long time! The service is super friendly. The accommodation is a bit rustic but hey... you can take the goodies out and eat it in your own castle!",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-14T21:38:27.595000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 53,
+            "total_number_of_photos_by_reviewer": 52,
+            "reviewer_url": "https://www.google.com/maps/contrib/116884485037890379941/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocL1A1ADFbnWlRc-moofhNFGZW7cKFWSof8xdxC05NEPweo=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPULTxeKQpfjBBIBtcOGWkp_YKPI0v9LXS3flR3=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPFosOlHuiiyrhzS6VteFUWXLAbHzpGv9DBZ2IL=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNqtp13VBSfFd64AYJvnzqsR8-hGTSmIi1A5xsR=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPcF-nIP1TEuCRKBaUIDu7y0vhBKahKSs2quBwk=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Super tasty Fish & Chips!\nI went a couple of times and it was  amazing, the Halibut and the Salmon were delicious .\nI also tried the Tuna Sandwich, super tasty with the wasabi mayo.\n\nThe only downside was, that in one of my visits they made a mistake on my order and instead of trying to fix it they were really rude.",
+            "reviewer_name": "JS H",
+            "rating": 5,
+            "review_text": "Super tasty Fish & Chips!\nI went a couple of times and it was  amazing, the Halibut and the Salmon were delicious .\nI also tried the Tuna Sandwich, super tasty with the wasabi mayo.\n\nThe only downside was, that in one of my visits they made a mistake on my order and instead of trying to fix it they were really rude.",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-12T16:24:36.858000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 167,
+            "total_number_of_photos_by_reviewer": 671,
+            "reviewer_url": "https://www.google.com/maps/contrib/112266310609717841809/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVpOvNkXSvfSvIpkanzC6U7jZGzJcbzXCjtP5gm8VckNjE=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPk8pbFnb-i_Lejh-Tlppp3Rd5F_zqEEHv_WdnO=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNaIKI1cvzrqnqtvefGpUEPEqxkCdR6mmjtbcqN=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNS8fvi6524l5otIwXYEoU1kPDRzVYbLiLOcSM4=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNt2r8MakfwkNiCEDFQlL0qE2rdXH9be_O4PP_G=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipObkIto0PfO7gMbBmgZ9vL6A4fj8_RzMOjgqGL3=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "The perfect way to end your day visiting Granville Island. This fish and chips shack is worth the walk over from the main market area. The staff here is super friendly and the food is cooked to order.\n\nWe got the cod fish and chips basket, and it tasted so fresh and high quality! The portions here are huge so honestly one plate is big enough to share between two people. The dish also comes with an amazing sesame tasting slaw on the side.\n\nDon't skip this place!",
+            "reviewer_name": "Peter Farejowicz",
+            "rating": 5,
+            "review_text": "The perfect way to end your day visiting Granville Island. This fish and chips shack is worth the walk over from the main market area. The staff here is super friendly and the food is cooked to order.\n\nWe got the cod fish and chips basket, and it tasted so fresh and high quality! The portions here are huge so honestly one plate is big enough to share between two people. The dish also comes with an amazing sesame tasting slaw on the side.\n\nDon't skip this place!",
+            "published_at": "6 months ago",
+            "published_at_date": "2023-05-15T02:50:35.263000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 5,
+            "total_number_of_reviews_by_reviewer": 163,
+            "total_number_of_photos_by_reviewer": 669,
+            "reviewer_url": "https://www.google.com/maps/contrib/103688512592452127720/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXVDx3RF_2N6wx6cfAiSlX95zSZpXOP54O9WUdMS99p87E5=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOqPXQWOzVIzSqAp_bSZNOgrn2OMez6bHgjPnFE=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPnTzPrDcZrwXWY_zEp_91dQ-9N5ji1zFDPbp6-=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Came during a Tues afternoon around 3pm, ordered and got my cod fish and chips all within 10mins.\n\nLimited sheltered space if you are eating in. Also there are birds around that might go for your food if unattended to.\n\nFish was fresh and crispy. And there's lots of fries enough for 2 person. I hope they are more generous with the tartar sauce though\n\nOffered free drinking water. Credit card accepted.",
+            "reviewer_name": "Deming",
+            "rating": 4,
+            "review_text": "Came during a Tues afternoon around 3pm, ordered and got my cod fish and chips all within 10mins.\n\nLimited sheltered space if you are eating in. Also there are birds around that might go for your food if unattended to.\n\nFish was fresh and crispy. And there's lots of fries enough for 2 person. I hope they are more generous with the tartar sauce though\n\nOffered free drinking water. Credit card accepted.",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-11T22:16:30.251000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 581,
+            "total_number_of_photos_by_reviewer": 1607,
+            "reviewer_url": "https://www.google.com/maps/contrib/104497591180122525539/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW5zWxI0A_xp0whm4yrLvwd8lVY2EHOdtxymdMg8TFckyA=s120-c-rp-mo-ba6-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNo16WG8D1_dgvXAUDfXjvhZ-oDCjyHGz4us3Up=w150-h150-k-no-p"
+            ]
+        }
+    ],
+    "is_spending_on_ads": false
+}

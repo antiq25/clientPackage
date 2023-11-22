@@ -1,0 +1,276 @@
+{
+    "place_id": "ChIJ24BRA0h1hlQRVMOtx14FTVk",
+    "name": "Physio2U In-Home Physiotherapy",
+    "description": null,
+    "reviews": 6,
+    "website": "https://www.physio2u.ca/",
+    "owner": {
+        "id": null,
+        "name": "Physio2U In-Home Physiotherapy (Owner)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vKnOs1OU7lUwboBFI2AmGA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=114.97318&pitch=0&thumbfov=100",
+    "main_category": "Physiotherapist",
+    "categories": [
+        "Physiotherapist"
+    ],
+    "rating": 4.7,
+    "workday_timing": "8:30 a.m.-5:30 p.m.",
+    "closed_on": [
+        "Saturday",
+        "Sunday"
+    ],
+    "phone": "(778) 846-7695",
+    "address": "Physio2U In-Home Physiotherapy, 6060 Silver Dr Floor 3, Burnaby, BC V5H 0H5",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/Physio2U+In-Home+Physiotherapy/data=!4m7!3m6!1s0x54867548035180db:0x594d055ec7adc354!8m2!3d49.2282421!4d-123.0026155!16s%2Fg%2F11p43zd0m9!19sChIJ24BRA0h1hlQRVMOtx14FTVk?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 8:30 a.m.",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 1,
+        "4": 0,
+        "5": 5
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ24BRA0h1hlQRVMOtx14FTVk&q=Physio2U+In-Home+Physiotherapy&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.228242099999996,
+        "longitude": -123.00261549999999
+    },
+    "plus_code": "6XHW+7X Burnaby, British Columbia",
+    "detailed_address": {
+        "ward": "Metrotown",
+        "street": "6060 Silver Dr Floor 3",
+        "city": "Burnaby",
+        "postal_code": "V5H 0H5",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "6434805347217425236",
+    "data_id": "0x54867548035180db:0x594d055ec7adc354",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planning",
+            "options": [
+                {
+                    "name": "Accepts new patients",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vKnOs1OU7lUwboBFI2AmGA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=114.97318&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vKnOs1OU7lUwboBFI2AmGA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=114.97318&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "8:30 a.m.-5:30 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "8:30 a.m.-5:30 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "8:30 a.m.-5:30 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "8:30 a.m.-5:30 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "9 a.m.-5 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "Closed"
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "Closed"
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "Raechel John has been a Godsend to my husband after his hospitalization in the first month  of the year..  Rehab at home has been and continues to be a  blessing.  Our therapist is A one. Highly recommend this service if you have the funds or the extended health coverage like we do.",
+            "reviewer_name": "Jeannine Kenmuir",
+            "rating": 5,
+            "review_text": "Raechel John has been a Godsend to my husband after his hospitalization in the first month  of the year..  Rehab at home has been and continues to be a  blessing.  Our therapist is A one. Highly recommend this service if you have the funds or the extended health coverage like we do.",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-08T03:19:18.294000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 61,
+            "total_number_of_photos_by_reviewer": 4,
+            "reviewer_url": "https://www.google.com/maps/contrib/103674761584409490773/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKlEyDL5UZpYzD1s9YYc9jt7pTAuBFIY-lTnqbtzhtd=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Physiotherapist service met expectations however they are either not aware of or do not provide the correct info in regards to dealing with post-op rehab. I was also not informed of the correct rate until it was invoice time (a 5 dollar difference only, but still not ideal).",
+            "reviewer_name": "Sargun Saran",
+            "rating": 3,
+            "review_text": "Physiotherapist service met expectations however they are either not aware of or do not provide the correct info in regards to dealing with post-op rehab. I was also not informed of the correct rate until it was invoice time (a 5 dollar difference only, but still not ideal).",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-08-30T20:26:25.916000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 3,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/109426904159219494373/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLFxGcxRf751udNYECtTjCuV0m5e4wXoirI_M4dzVMHRQ=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "My family and I are very pleased the service Physio2U and Kingston Chung provided.  Kingston has been working with mom on her therapies.  He's very patience, knowledgeable, and supportive.  I can see the improvement my mom is making these weeks and we are super grateful that we have him and Physio2U to support us!  Thank you team!",
+            "reviewer_name": "Wing Chan",
+            "rating": 5,
+            "review_text": "My family and I are very pleased the service Physio2U and Kingston Chung provided.  Kingston has been working with mom on her therapies.  He's very patience, knowledgeable, and supportive.  I can see the improvement my mom is making these weeks and we are super grateful that we have him and Physio2U to support us!  Thank you team!",
+            "published_at": "a year ago",
+            "published_at_date": "2022-05-26T17:25:26.742000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 3,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/112972403741099410695/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocI4ancHLTZ86j0XHPJ369iRzfrQFfE7S-XF7Cnz4KSvJA=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Kim Hall is my Physiotherapist. I'm recovering from a total hip replacement. Physio 2 U service has been exceptional in skill, knowledge, caring, compassion. The service Physio 2 U provides is far and beyond what is provided at a Physiotherapy Clinic.\nKim's care has ensured a safe and effective pathway to my recovery! My sincere thanks for everything you've done.",
+            "reviewer_name": "Jim Gellatly",
+            "rating": 5,
+            "review_text": "Kim Hall is my Physiotherapist. I'm recovering from a total hip replacement. Physio 2 U service has been exceptional in skill, knowledge, caring, compassion. The service Physio 2 U provides is far and beyond what is provided at a Physiotherapy Clinic.\nKim's care has ensured a safe and effective pathway to my recovery! My sincere thanks for everything you've done.",
+            "published_at": "a year ago",
+            "published_at_date": "2022-07-06T23:55:32.299000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 3,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/104401028013271383032/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJnnAOIoAbT8yzY6BUlAVFudr3O5Y9YfgY-C5N0btiE=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Just wanted to put in a good word for Jason. He has just been really excellent with my father who broke his hip about 5 months ago. For 5 weeks he was in rehab and we were disappointed as  there was absolutely no improvement.  With Jason onboard, we are very much encouraged by the progress that my father has made. Jason is excellent and would recommend him to all our friends.",
+            "reviewer_name": "narmina hudani",
+            "rating": 5,
+            "review_text": "Just wanted to put in a good word for Jason. He has just been really excellent with my father who broke his hip about 5 months ago. For 5 weeks he was in rehab and we were disappointed as  there was absolutely no improvement.  With Jason onboard, we are very much encouraged by the progress that my father has made. Jason is excellent and would recommend him to all our friends.",
+            "published_at": "a year ago",
+            "published_at_date": "2021-12-23T18:21:09.975000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/116674544825394355450/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocL1HK4RuJ5XMwBVO6EbYzmJjMCh-Jb5xx2QHr0woZbo=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Chapmann Cheung",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "a year ago",
+            "published_at_date": "2022-09-13T21:24:28.789000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 205,
+            "total_number_of_photos_by_reviewer": 569,
+            "reviewer_url": "https://www.google.com/maps/contrib/103480471472699997580/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWdTFu7kENRg9YkOJ2-H9XLcA41jC1z6DcQbvR1TmjAuTg=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

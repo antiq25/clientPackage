@@ -1,0 +1,495 @@
+{
+    "place_id": "ChIJrcAWSTx0hlQRiYqm5szz1-U",
+    "name": "Papa Day's Pizza & Indian Cuisine",
+    "description": null,
+    "reviews": 184,
+    "website": "https://papadays.ca/%3Futm_source%3Dgoogle%26utm_medium%3Dmaps%26utm_campaign%3Dwebsite",
+    "owner": {
+        "id": "111829004288888553145",
+        "name": "Papa Day's Pizza & Indian Cuisine (Owner)",
+        "link": "https://www.google.com/maps/contrib/111829004288888553145"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNjR47I16oknhGniXmJnk73520mY05hUNPB0oAT=w426-h240-k-no",
+    "main_category": "Indian restaurant",
+    "categories": [
+        "Indian restaurant"
+    ],
+    "rating": 4.3,
+    "workday_timing": "11 a.m.-9:30 p.m.",
+    "closed_on": [
+        "Wednesday"
+    ],
+    "phone": "(604) 321-4050",
+    "address": "Papa Day's Pizza & Indian Cuisine, 6483 Knight St, Vancouver, BC V5P 2V9",
+    "review_keywords": [
+        {
+            "keyword": "butter chicken",
+            "count": 48
+        },
+        {
+            "keyword": "price",
+            "count": 25
+        },
+        {
+            "keyword": "tandoori",
+            "count": 7
+        },
+        {
+            "keyword": "chicken tikka masala",
+            "count": 5
+        },
+        {
+            "keyword": "delivery",
+            "count": 5
+        },
+        {
+            "keyword": "lamb",
+            "count": 5
+        },
+        {
+            "keyword": "tomatoes",
+            "count": 4
+        },
+        {
+            "keyword": "gem",
+            "count": 3
+        },
+        {
+            "keyword": "hair",
+            "count": 3
+        },
+        {
+            "keyword": "hands",
+            "count": 3
+        }
+    ],
+    "link": "https://www.google.com/maps/place/Papa+Day%27s+Pizza+%26+Indian+Cuisine/data=!4m7!3m6!1s0x5486743c4916c0ad:0xe5d7f3cce6a68a89!8m2!3d49.2257047!4d-123.0778437!16s%2Fg%2F1tf23s9_!19sChIJrcAWSTx0hlQRiYqm5szz1-U?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 11 a.m. Thu",
+    "price_range": "$",
+    "reviews_per_rating": {
+        "1": 19,
+        "2": 2,
+        "3": 7,
+        "4": 30,
+        "5": 126
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJrcAWSTx0hlQRiYqm5szz1-U&q=Papa+Day%27s+Pizza+%26+Indian+Cuisine&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.225704699999994,
+        "longitude": -123.07784369999999
+    },
+    "plus_code": "6WGC+7V Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "South Vancouver",
+        "street": "6483 Knight St",
+        "city": "Vancouver",
+        "postal_code": "V5P 2V9",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "16561974216046840457",
+    "data_id": "0x5486743c4916c0ad:0xe5d7f3cce6a68a89",
+    "menu": {
+        "link": "https://papadays.ca/",
+        "source": "papadays.ca"
+    },
+    "reservations": [
+        {
+            "link": "https://papadays.ca/",
+            "source": "papadays.ca"
+        }
+    ],
+    "order_online_links": [
+        {
+            "link": "https://papadays.ca/?utm_source=google&utm_medium=maps&utm_campaign=order",
+            "source": "papadays.ca"
+        },
+        {
+            "link": "https://www.doordash.com/store/papa-day%27s-pizza-indian-cuisine-vancouver-42772/?utm_campaign=gpa&pickup=true",
+            "source": "doordash.com"
+        },
+        {
+            "link": "https://www.ubereats.com/ca/store/papa-days-pizza-%26-indian-cuisine/KSvTjuNyRnWVdU33siZVbA?utm_campaign=place-action-link&utm_medium=organic&utm_source=google",
+            "source": "ubereats.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Takeout",
+                    "enabled": true
+                },
+                {
+                    "name": "Dine-in",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair accessible seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Vegan options",
+                    "enabled": true
+                },
+                {
+                    "name": "Vegetarian options",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Dining options",
+            "options": [
+                {
+                    "name": "Lunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Dinner",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosphere",
+            "options": [
+                {
+                    "name": "Casual",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planning",
+            "options": [
+                {
+                    "name": "Accepts reservations",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNjR47I16oknhGniXmJnk73520mY05hUNPB0oAT=w529-h298-k-no"
+        },
+        {
+            "about": "Latest",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOTFiKapfRimELnnqsLVWxC1HJz-_XC0ns_2npO=w224-h298-k-no"
+        },
+        {
+            "about": "Menu",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMDItASZSUwl6yEt93j_izVAG5qz6KtiuQEi01j=w263-h298-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPDIDWpVc9Pp5FlBLsQ2cPjUEpNLhyaATBiCJE2=w397-h298-k-no"
+        },
+        {
+            "about": "Take-out",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNxX4I9MAM4wv3vgHjjbZHRqCMUbwZdmMiljK4F=w298-h298-k-no"
+        },
+        {
+            "about": "Pizza",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMlJTycoU11Te9URq5qLXJhrZ8lavoop63WNz4v=w298-h298-k-no"
+        },
+        {
+            "about": "Curry",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMCuy0f8hutzw2AkwTCWTBkETc4K_9vj4hHTm_P=w397-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOqnf29nKnLE0TcW9IkVzvxUZ67VKBC8GeWBlpl=w397-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7oia2hsTJPnPEcwUdX6eLw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=292.91364&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "11 a.m.-9:30 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "11 a.m.-9:30 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "Closed"
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "11 a.m.-9:30 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "11 a.m.-9:30 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "3-9:30 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "3-9:30 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "This is like a hidden gem! The food was amazing and the service was great. I got the $12.50 pick up special for the rice, naan and curry. I was waiting to get food at KFC but the line was too long! I was walking around and decided to opt for this place instead as it said \"best curry\" on the sign. The service was quick, the food was fresh and you could tell the meats were marinaded in the curry due to the nice colour gradient from the protein. Super flavourful, the mild curry is basically non-spicy and everything was packed nicely and a good portion. Didn't get a photo of the naan as I was too hungry and forgot... Would come back and would recommend.",
+            "reviewer_name": "Raveen",
+            "rating": 5,
+            "review_text": "This is like a hidden gem! The food was amazing and the service was great. I got the $12.50 pick up special for the rice, naan and curry. I was waiting to get food at KFC but the line was too long! I was walking around and decided to opt for this place instead as it said \"best curry\" on the sign. The service was quick, the food was fresh and you could tell the meats were marinaded in the curry due to the nice colour gradient from the protein. Super flavourful, the mild curry is basically non-spicy and everything was packed nicely and a good portion. Didn't get a photo of the naan as I was too hungry and forgot... Would come back and would recommend.",
+            "published_at": "2 weeks ago",
+            "published_at_date": "2023-11-01T13:22:15.706000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 59,
+            "total_number_of_photos_by_reviewer": 176,
+            "reviewer_url": "https://www.google.com/maps/contrib/114897034165778313735/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWBYZX1pXjoqIIRrk54CAXjyKS4Poq9twfADYgnnnygzTY=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPVjngEKJRJ6Vj7BLejGPH-gAUSjPplFkyiep-y=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Best place in town for butter chicken. I've been here many times and the quality and quantity of the food are very much worth the price. I ordered a large butter chicken, lamb curry and 3 naan bread, which is enough to feed 3 people, and I was given 12 pieces of naan bread. If you're craving authentic Indian food, check this place out.",
+            "reviewer_name": "Neptr",
+            "rating": 5,
+            "review_text": "Best place in town for butter chicken. I've been here many times and the quality and quantity of the food are very much worth the price. I ordered a large butter chicken, lamb curry and 3 naan bread, which is enough to feed 3 people, and I was given 12 pieces of naan bread. If you're craving authentic Indian food, check this place out.",
+            "published_at": "9 months ago",
+            "published_at_date": "2023-02-14T12:13:28.897000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 17,
+            "total_number_of_photos_by_reviewer": 17,
+            "reviewer_url": "https://www.google.com/maps/contrib/107878971686629176708/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjU3knsV951zpD6m5UOX5reAkn8uVWMV4bI1aXZOEYX-d3M=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNUhZ3b_7oVeAkpg2ED64_0KPLwPmjYSDmN27sT=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "5 stars for the butter chicken.\n\nSeriously the best I've ever had. The pick up special was super generous, four big pieces of naan, and probably 3-4x the amount of rice and curry in the pic. All for 12.50.\n\nThe tandoori pizza was only OK. Good crust and nice charring on the bottom but bland cheese and tandoori pieces were also meh.\n\nGet the butter chicken.",
+            "reviewer_name": "drew lichty",
+            "rating": 5,
+            "review_text": "5 stars for the butter chicken.\n\nSeriously the best I've ever had. The pick up special was super generous, four big pieces of naan, and probably 3-4x the amount of rice and curry in the pic. All for 12.50.\n\nThe tandoori pizza was only OK. Good crust and nice charring on the bottom but bland cheese and tandoori pieces were also meh.\n\nGet the butter chicken.",
+            "published_at": "2 years ago",
+            "published_at_date": "2021-09-02T02:25:02.467000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 4,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 2,
+            "reviewer_url": "https://www.google.com/maps/contrib/103320918002043186976/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKIWPQ6Tzwfn3H_q-SiLtbNs7OLlDXSqwoZDYbcoesr=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNfWTjtUHyUbCwplqYnHx6rfwCQVR_HOHBiyFSO=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "I ordered chicken and mushrooms pizza on Monday. So delicious and the bread is just right not tough or too soft",
+            "reviewer_name": "Jessica",
+            "rating": 5,
+            "review_text": "I ordered chicken and mushrooms pizza on Monday. So delicious and the bread is just right not tough or too soft",
+            "published_at": "7 months ago",
+            "published_at_date": "2023-04-11T05:57:22.027000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/117956359304816983488/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocK-NA854q7OA-mXDcDtVQeffY0cAANlKhJF8_TP_Cwr=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipM905RGbra0lcWs7A6Cx1rqs6lW9c1xElNKbC_9=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "BUTTER CHICKEN IS A MUST!\n\nUber eats review! I got the butter chicken and and chicken tikka masala. they are both amazing! Give amazing portions for your buck with lots of flavours. Don't ever change your recipe or portions because this is too amazing.\n\nButter chicken: this is my favourite out of the two. Lots of flavours, chicken and spices. Don't forgot to ask for tomatoes, onions etc on the side. Also get their garlic naan! It matches so perfectly with this dish! Chicken was a bit dry, but I like to shred them into pieces. Love the amount of chicken\n\nChicken tikka masala: this is super delicious and have a more refreshing herb and spices taste to it. Has onions and peppers in the dish if you like more veggies in your dish.\n\nWould definitely come here again and order! The best butter chicken I had so far in Vancouver and highly recommend for those to come and try!",
+            "reviewer_name": "Melody Tran",
+            "rating": 5,
+            "review_text": "BUTTER CHICKEN IS A MUST!\n\nUber eats review! I got the butter chicken and and chicken tikka masala. they are both amazing! Give amazing portions for your buck with lots of flavours. Don't ever change your recipe or portions because this is too amazing.\n\nButter chicken: this is my favourite out of the two. Lots of flavours, chicken and spices. Don't forgot to ask for tomatoes, onions etc on the side. Also get their garlic naan! It matches so perfectly with this dish! Chicken was a bit dry, but I like to shred them into pieces. Love the amount of chicken\n\nChicken tikka masala: this is super delicious and have a more refreshing herb and spices taste to it. Has onions and peppers in the dish if you like more veggies in your dish.\n\nWould definitely come here again and order! The best butter chicken I had so far in Vancouver and highly recommend for those to come and try!",
+            "published_at": "2 years ago",
+            "published_at_date": "2021-04-02T16:55:18.966000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 3,
+            "total_number_of_reviews_by_reviewer": 172,
+            "total_number_of_photos_by_reviewer": 274,
+            "reviewer_url": "https://www.google.com/maps/contrib/114860593752738157147/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVbqsBTy0_lzC3n1e94oH3AFwIWOr_lj_kJ2biJduV6nW0=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOsXOkNp74qFjXFHAtfSjzAHUWf7Ftu-SdGlmUg=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPnAbIMGvkXAur8b3-B1bzG2ddaV77zRSdv0VUG=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Hands down the best butter chicken in Vancouver. Also the most affordable, $13 for a full meal with rice + naan included",
+            "reviewer_name": "Dwayne A",
+            "rating": 5,
+            "review_text": "Hands down the best butter chicken in Vancouver. Also the most affordable, $13 for a full meal with rice + naan included",
+            "published_at": "a year ago",
+            "published_at_date": "2022-11-05T07:53:39.472000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 5,
+            "total_number_of_photos_by_reviewer": 4,
+            "reviewer_url": "https://www.google.com/maps/contrib/115010556060657479855/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUMUI3RbpR2dxdLP0l8Na0Hw54i3K5uNFNBvBRhcRDUB98=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNT60Y4N4-CyN-YP9Csad5xaXlIllflGBr3xXZG=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Best pizza in the town !! Today I first time ordered one tandoori chicken pizza from this restaurant and it was delicious, best quality ",
+            "reviewer_name": "Harneet Kaur",
+            "rating": 5,
+            "review_text": "Best pizza in the town !! Today I first time ordered one tandoori chicken pizza from this restaurant and it was delicious, best quality ",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-19T03:20:00.941000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 4,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/113507656327840480686/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocI4sLYVAVMajFFBLV_0H0uNoOjTX0LPtV12Oj40uYCX=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Had order 14 inch chicken tikka pizza , was really disappointed bcs it literally had no sauce just cheese and toppings it tasted totally blant . Had high expectations I would rather suggest to go for Cami's pizza any day .",
+            "reviewer_name": "Soumya Handa",
+            "rating": 2,
+            "review_text": "Had order 14 inch chicken tikka pizza , was really disappointed bcs it literally had no sauce just cheese and toppings it tasted totally blant . Had high expectations I would rather suggest to go for Cami's pizza any day .",
+            "published_at": "a year ago",
+            "published_at_date": "2022-02-15T05:23:54.510000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 47,
+            "total_number_of_photos_by_reviewer": 72,
+            "reviewer_url": "https://www.google.com/maps/contrib/113290769704380746165/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVGaSCduOXWcVqdLBQSOsuyE-aKZ0jpgh9HjHTaQ1sALx3c=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNZw6qXmYfVJMGlBRws1ZpE9zkd-I7VT-LB5RoO=w150-h150-k-no-p"
+            ]
+        }
+    ],
+    "is_spending_on_ads": false
+}

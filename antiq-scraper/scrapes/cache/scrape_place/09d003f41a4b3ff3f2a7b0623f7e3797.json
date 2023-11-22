@@ -1,0 +1,159 @@
+{
+    "place_id": "ChIJRXhJ1nTZhVQRx8IL0AX5FHA",
+    "name": "The Saucy Bean Company",
+    "description": null,
+    "reviews": 1,
+    "website": "http://the-saucy-bean-company.square.site/",
+    "owner": {
+        "id": "115854348847380805244",
+        "name": "The Saucy Bean Company (Owner)",
+        "link": "https://www.google.com/maps/contrib/115854348847380805244"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPtDoVY7pgwGBqHY5Eycwj3B5ZDPkHMOH6FmIMa=w408-h306-k-no",
+    "main_category": "Food products supplier",
+    "categories": [
+        "Food products supplier"
+    ],
+    "rating": 5,
+    "workday_timing": "Open 24 hours",
+    "closed_on": [],
+    "phone": "(778) 378-9601",
+    "address": "The Saucy Bean Company, 898 Carnarvon St #3506, New Westminster, BC V3M 0C3",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/The+Saucy+Bean+Company/data=!4m7!3m6!1s0x5485d974d6497845:0x7014f905d00bc2c7!8m2!3d49.2008358!4d-122.9143825!16s%2Fg%2F11sv403gn7!19sChIJRXhJ1nTZhVQRx8IL0AX5FHA?authuser=0&hl=en&rclk=1",
+    "status": "Open 24 hours",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJRXhJ1nTZhVQRx8IL0AX5FHA&q=The+Saucy+Bean+Company&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.2008358,
+        "longitude": -122.91438249999999
+    },
+    "plus_code": "632P+86 New Westminster, British Columbia",
+    "detailed_address": {
+        "ward": null,
+        "street": "898 Carnarvon St #3506",
+        "city": "New Westminster",
+        "postal_code": "V3M 0C3",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "8076353835142726343",
+    "data_id": "0x5485d974d6497845:0x7014f905d00bc2c7",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [
+        {
+            "link": "https://the-saucy-bean-company.square.site/?owg-fulfillment=delivery&location=11ee268251045b52949d3cecef6dbac6&rwg_token=AOZt1jX-zFW2XqDuoaRNQWMYJk2RoLRSsfJE-Uv2-42A37KZWjCdGb2hy_RDnPk1a8BCZ_MzIdLblYRWdRsAbR-J9Wa6d8HUrFfR-P3iQLBZ9kl4gKzaGV4%3D",
+            "source": "square.site"
+        }
+    ],
+    "about": [
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPtDoVY7pgwGBqHY5Eycwj3B5ZDPkHMOH6FmIMa=w397-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMsHk2xRYSYjZs1LozyZe_0_8JcTo92a-CVaqK7=w224-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=q191lkgb_ugj2BsdERinYQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=51.620346&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "Open 24 hours"
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "Open 24 hours"
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "Open 24 hours"
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "Open 24 hours"
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "Open 24 hours"
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "Open 24 hours"
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "Open 24 hours"
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": null,
+            "reviewer_name": "Veronica Schofield",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-01T19:15:16.980000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 4,
+            "total_number_of_photos_by_reviewer": 4,
+            "reviewer_url": "https://www.google.com/maps/contrib/117209046646620642090/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKJlOti6m8QiB_A6HMO-AXdOU1plpflbrQ5ISCkFVCQ=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPHyBqS1m0Vwfj217WHd34iKpdrJx1BLNaU24tH=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNO54FM1Q7rmuJjNyx6NhmRGzwbJ5E8zEVNG3fW=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOpO5WeAzAxqN15frf5r3TffGdXnFeqFPo-B-hL=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipN9wIHAsC8sEZ-yVX7Sz3PmXEc_nb11QTN2qxGP=w150-h150-k-no-p"
+            ]
+        }
+    ],
+    "is_spending_on_ads": false
+}

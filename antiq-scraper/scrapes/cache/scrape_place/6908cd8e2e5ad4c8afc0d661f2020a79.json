@@ -1,0 +1,315 @@
+{
+    "place_id": "ChIJnVMZV1V0hlQRMER6SQ6xcOA",
+    "name": "Donald's Fine Foods",
+    "description": null,
+    "reviews": 17,
+    "website": null,
+    "owner": {
+        "id": "108008813998198071153",
+        "name": "Donald's Fine Foods (Owner)",
+        "link": "https://www.google.com/maps/contrib/108008813998198071153"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=NeoSMw2fM9N7dEBr0wiEsQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=170.34781&pitch=0&thumbfov=100",
+    "main_category": "Food processing company",
+    "categories": [
+        "Food processing company",
+        "Meat processor"
+    ],
+    "rating": 4.5,
+    "workday_timing": "6 a.m.-2:30 p.m.",
+    "closed_on": [
+        "Saturday",
+        "Sunday"
+    ],
+    "phone": "(604) 875-6033",
+    "address": "Donald's Fine Foods, 11528 Eburne Way, Richmond, BC V6V 2G7",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/Donald%27s+Fine+Foods/data=!4m7!3m6!1s0x548674555719539d:0xe070b10e497a4430!8m2!3d49.200395!4d-123.097212!16s%2Fg%2F11gmxx7wc8!19sChIJnVMZV1V0hlQRMER6SQ6xcOA?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 6 a.m. Wed",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 1,
+        "2": 0,
+        "3": 1,
+        "4": 2,
+        "5": 13
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJnVMZV1V0hlQRMER6SQ6xcOA&q=Donald%27s+Fine+Foods&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.200395,
+        "longitude": -123.097212
+    },
+    "plus_code": "6W23+54 Richmond, British Columbia",
+    "detailed_address": {
+        "ward": null,
+        "street": "11528 Eburne Way",
+        "city": "Richmond",
+        "postal_code": "V6V 2G7",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "16172620936807859248",
+    "data_id": "0x548674555719539d:0xe070b10e497a4430",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=NeoSMw2fM9N7dEBr0wiEsQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=170.34781&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=NeoSMw2fM9N7dEBr0wiEsQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=170.34781&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMi0zp4LYtuZlrRt7AGXSApwfvTDcU5as06U13b=w224-h398-k-no"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "6 a.m.-2:30 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "6 a.m.-2:30 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "6 a.m.-2:30 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "6 a.m.-2:30 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "6 a.m.-2:30 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "Closed"
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "Closed"
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "High quality products exceeding Canadian Food Inspection Agency standards and great customer-purveyor relations. Recommend.",
+            "reviewer_name": "Christian Malin",
+            "rating": 5,
+            "review_text": "High quality products exceeding Canadian Food Inspection Agency standards and great customer-purveyor relations. Recommend.",
+            "published_at": "a year ago",
+            "published_at_date": "2022-08-24T20:15:38.846000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 282,
+            "total_number_of_photos_by_reviewer": 217,
+            "reviewer_url": "https://www.google.com/maps/contrib/111469356474974689568/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVOTjGIqwD42twy3ZvoJX5lqU_aWI_gvXOEBB-N42UKSw=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Good place to get fresh meat products. Though a major exporter, they cater to the public as well. I will definitely buy from them.",
+            "reviewer_name": "Prince Felix Okojie (Melchizedek)",
+            "rating": 4,
+            "review_text": "Good place to get fresh meat products. Though a major exporter, they cater to the public as well. I will definitely buy from them.",
+            "published_at": "5 years ago",
+            "published_at_date": "2018-05-14T21:30:59.338000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 8,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/116017801500078494444/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUkfi5_I_9PgoJp9eRBGoqNeMoxbxsvaO5V72-8aFD-bT9A=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Great place to work. Very friendly",
+            "reviewer_name": "Raylene Shiminousky",
+            "rating": 5,
+            "review_text": "Great place to work. Very friendly",
+            "published_at": "3 years ago",
+            "published_at_date": "2020-05-22T16:47:52.755000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 3,
+            "total_number_of_reviews_by_reviewer": 8,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/110841227431050566717/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXGd5V-bnTW2C3bxZKqy09SDGfKkGuN6MjyadTPzr65tQ=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Great service and great products",
+            "reviewer_name": "Ken Choy",
+            "rating": 5,
+            "review_text": "Great service and great products",
+            "published_at": "2 years ago",
+            "published_at_date": "2021-05-20T18:43:23.743000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 99,
+            "total_number_of_photos_by_reviewer": 8,
+            "reviewer_url": "https://www.google.com/maps/contrib/104381790230490016953/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJq40fkKb-nC2RXxFnhDuwlGecbLiUESm5tEuQdI0PB=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "The service was excellent....recommend",
+            "reviewer_name": "John Dore",
+            "rating": 5,
+            "review_text": "The service was excellent....recommend",
+            "published_at": "4 years ago",
+            "published_at_date": "2019-01-10T00:57:26.990000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 219,
+            "total_number_of_photos_by_reviewer": 16,
+            "reviewer_url": "https://www.google.com/maps/contrib/116250995847584199656/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKNh4lMXzdvh92bIlLqAI6HB27Lf3XlFxUWsNqHKWkJ=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Barely speak English and are not very helpful",
+            "reviewer_name": "Katerina Klimes",
+            "rating": 1,
+            "review_text": "Barely speak English and are not very helpful",
+            "published_at": "4 years ago",
+            "published_at_date": "2019-06-25T16:16:04.870000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 80,
+            "total_number_of_photos_by_reviewer": 14,
+            "reviewer_url": "https://www.google.com/maps/contrib/102302764180582999085/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUssswm49YeoylnOn-p0iLvYrzw1VXuTUFi2b2R5kLZjhnP=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Gurmeet Pawar",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "a year ago",
+            "published_at_date": "2022-07-15T01:34:26.991000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 43,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/115350249501331658566/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUbQN_wE6tVyUOuy7Oea5hLc_ps_QOyy6gekthduBNPPFU=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Roberto Latorre",
+            "rating": 4,
+            "review_text": null,
+            "published_at": "3 years ago",
+            "published_at_date": "2020-10-16T18:10:40.405000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/102775069329705430184/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLZhoG-hktO2PA-5dUlbDNvjrNfcbi5pMWpjPjiDS4e=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

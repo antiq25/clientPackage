@@ -1,0 +1,126 @@
+{
+    "place_id": "ChIJ9SWzD-BzhlQRjDH7HooPtbE",
+    "name": "Jobs in Demand",
+    "description": null,
+    "reviews": null,
+    "website": "http://jobsindemand.ca/",
+    "owner": {
+        "id": null,
+        "name": "Jobs in Demand (Owner)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=EzGgNkHejUTvbct3gwD-YQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=166.70546&pitch=0&thumbfov=100",
+    "main_category": "Training centre",
+    "categories": [
+        "Training centre"
+    ],
+    "rating": null,
+    "workday_timing": "9:30 a.m.-4 p.m.",
+    "closed_on": [
+        "Sunday"
+    ],
+    "phone": "+1 866-377-3670",
+    "address": "Jobs in Demand, 30 E 6th Ave #300, Vancouver, BC V5T 1J4",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/Jobs+in+Demand/data=!4m7!3m6!1s0x548673e00fb325f5:0xb1b50f8a1efb318c!8m2!3d49.2653153!4d-123.1040146!16s%2Fg%2F11gfjw6jm5!19sChIJ9SWzD-BzhlQRjDH7HooPtbE?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 9:30 a.m.",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ9SWzD-BzhlQRjDH7HooPtbE&q=Jobs+in+Demand&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.2653153,
+        "longitude": -123.1040146
+    },
+    "plus_code": "7V8W+49 Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "East Vancouver",
+        "street": "30 E 6th Ave #300",
+        "city": "Vancouver",
+        "postal_code": "V5T 1J4",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "12805158201397555596",
+    "data_id": "0x548673e00fb325f5:0xb1b50f8a1efb318c",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=EzGgNkHejUTvbct3gwD-YQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=166.70546&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=EzGgNkHejUTvbct3gwD-YQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=166.70546&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "9:30 a.m.-4 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "9:30 a.m.-7 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "9:30 a.m.-7 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "9:30 a.m.-7 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "9:30 a.m.-4 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "9:30 a.m.-4 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "Closed"
+            ]
+        }
+    ],
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

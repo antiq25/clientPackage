@@ -1,0 +1,216 @@
+{
+    "place_id": "ChIJudDQWmBxhlQR3Q6ahSUSgMY",
+    "name": "City in Focus",
+    "description": null,
+    "reviews": 4,
+    "website": "http://www.cityinfocus.ca/",
+    "owner": {
+        "id": "106816833612919808124",
+        "name": "City in Focus (Owner)",
+        "link": "https://www.google.com/maps/contrib/106816833612919808124"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=37DnuIhHLGHPTRdwtSttQA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=265.16534&pitch=0&thumbfov=100",
+    "main_category": "Association or organization",
+    "categories": [
+        "Association or organization"
+    ],
+    "rating": 5,
+    "workday_timing": "9:30 a.m.-4:30 p.m.",
+    "closed_on": [
+        "Saturday",
+        "Sunday"
+    ],
+    "phone": "(604) 687-7292",
+    "address": "City in Focus, 4885 St John Paul II Way, Vancouver, BC V5Z 2G3",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/City+in+Focus/data=!4m7!3m6!1s0x548671605ad0d0b9:0xc6801225859a0edd!8m2!3d49.2417141!4d-123.1229162!16s%2Fg%2F1tf47vl3!19sChIJudDQWmBxhlQR3Q6ahSUSgMY?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 9:30 a.m.",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 4
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJudDQWmBxhlQR3Q6ahSUSgMY&q=City+in+Focus&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.241714099999996,
+        "longitude": -123.12291619999999
+    },
+    "plus_code": "6VRG+MR Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "South Cambie",
+        "street": "4885 St John Paul II Way",
+        "city": "Vancouver",
+        "postal_code": "V5Z 2G3",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "14303452368893251293",
+    "data_id": "0x548671605ad0d0b9:0xc6801225859a0edd",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=37DnuIhHLGHPTRdwtSttQA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=265.16534&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Logo",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMzDChGnCtblEVHPjaAw1Va68rQxRjkK6KHA0Hk=w756-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMzDChGnCtblEVHPjaAw1Va68rQxRjkK6KHA0Hk=w756-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=37DnuIhHLGHPTRdwtSttQA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=265.16534&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "9:30 a.m.-4:30 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "9:30 a.m.-4:30 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "9:30 a.m.-4:30 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "9:30 a.m.-4:30 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "9:30 a.m.-4:30 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "Closed"
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "Closed"
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "A wonderful foundation that cares about people.",
+            "reviewer_name": "A C",
+            "rating": 5,
+            "review_text": "A wonderful foundation that cares about people.",
+            "published_at": "a month ago",
+            "published_at_date": "2023-09-23T15:43:32.824000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 20,
+            "total_number_of_photos_by_reviewer": 2,
+            "reviewer_url": "https://www.google.com/maps/contrib/109652383060981721733/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJ-KlziVCH367A8kS2qdQPgOZZyEQSNtcgd-M1AI3yKOuo=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "This place is home to the coolest organizations ever. A hub for social innovation in the city of Vancouver.\nIf you get the chance swing by and check it out,\n\nDarian Kovacs",
+            "reviewer_name": "Darian Kovacs",
+            "rating": 5,
+            "review_text": "This place is home to the coolest organizations ever. A hub for social innovation in the city of Vancouver.\nIf you get the chance swing by and check it out,\n\nDarian Kovacs",
+            "published_at": "14 years ago",
+            "published_at_date": "2009-07-16T17:48:00.236000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 465,
+            "total_number_of_photos_by_reviewer": 305,
+            "reviewer_url": "https://www.google.com/maps/contrib/111577816172258630436/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVHbXY2K0J0CDuaOiDl62QuOpA9UCI9btfGpIuaWnGouSs=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Friendly staff and great friends...what more could you ask for?  Doing important work for the city of Vancouver and beyond.",
+            "reviewer_name": "Matthew Leung",
+            "rating": 5,
+            "review_text": "Friendly staff and great friends...what more could you ask for?  Doing important work for the city of Vancouver and beyond.",
+            "published_at": "6 years ago",
+            "published_at_date": "2017-05-04T16:09:10.267000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 21,
+            "total_number_of_photos_by_reviewer": 3,
+            "reviewer_url": "https://www.google.com/maps/contrib/114782130834112349105/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIwzNFNE05gNEy-_9iA9BOkHxJwyV65wTAddez-K1Ddiq8=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Excellent folks, do some amazing work.  Went to a breakfast at Terminal Club, very well done.  Props.",
+            "reviewer_name": "J Tsang",
+            "rating": 5,
+            "review_text": "Excellent folks, do some amazing work.  Went to a breakfast at Terminal Club, very well done.  Props.",
+            "published_at": "7 years ago",
+            "published_at_date": "2016-10-08T21:53:34.378000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 486,
+            "total_number_of_photos_by_reviewer": 237,
+            "reviewer_url": "https://www.google.com/maps/contrib/107775659641344458387/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVVL2uK_qHUedDs4fCdi41mUnI9OIljR8eGrZ_vWMv4a2k=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

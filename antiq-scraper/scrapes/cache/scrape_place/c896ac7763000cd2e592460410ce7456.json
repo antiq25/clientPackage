@@ -1,0 +1,70 @@
+{
+    "place_id": "ChIJc-aPEYFxhlQRhgbj_Q5jDDo",
+    "name": "Industry Cast",
+    "description": null,
+    "reviews": null,
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Industry Cast (Owner)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=3GfsaOV7T2kJaL9eHQhgDQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=333.40686&pitch=0&thumbfov=100",
+    "main_category": "Software company",
+    "categories": [
+        "Software company"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": [],
+    "phone": null,
+    "address": "Industry Cast, 1111 W Georgia St #1110, Vancouver, BC V6E 4G2",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/Industry+Cast/data=!4m7!3m6!1s0x54867181118fe673:0x3a0c630efde30686!8m2!3d49.2861687!4d-123.1231212!16s%2Fg%2F11f7sgfzj5!19sChIJc-aPEYFxhlQRhgbj_Q5jDDo?authuser=0&hl=en&rclk=1",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJc-aPEYFxhlQRhgbj_Q5jDDo&q=Industry+Cast&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.2861687,
+        "longitude": -123.1231212
+    },
+    "plus_code": "7VPG+FQ Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "Central Vancouver",
+        "street": "1111 W Georgia St #1110",
+        "city": "Vancouver",
+        "postal_code": "V6E 4G2",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "4182827069960554118",
+    "data_id": "0x54867181118fe673:0x3a0c630efde30686",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=3GfsaOV7T2kJaL9eHQhgDQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=333.40686&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=3GfsaOV7T2kJaL9eHQhgDQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=333.40686&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

@@ -1,0 +1,128 @@
+{
+    "place_id": "ChIJoZ4S4PZ1hlQRtjc01dT_P-w",
+    "name": "SMR Max Construction",
+    "description": null,
+    "reviews": null,
+    "website": "https://www.smrmaxconstruction.ca/",
+    "owner": {
+        "id": "112729893647982093939",
+        "name": "SMR Max Construction (Owner)",
+        "link": "https://www.google.com/maps/contrib/112729893647982093939"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_bEsU6zjEVeLzBVuPjdhmQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=234.63216&pitch=0&thumbfov=100",
+    "main_category": "Construction company",
+    "categories": [
+        "Construction company",
+        "Bathroom remodeler",
+        "Building restoration service",
+        "Carpenter",
+        "Construction and maintenance office",
+        "Fire damage restoration service",
+        "Handyman/Handywoman/Handyperson",
+        "Interior construction contractor",
+        "Tile contractor",
+        "Water damage restoration service"
+    ],
+    "rating": null,
+    "workday_timing": "8 a.m.-7 p.m.",
+    "closed_on": [
+        "Sunday"
+    ],
+    "phone": "(778) 238-4997",
+    "address": "SMR Max Construction, 1820 East Kent Ave S, Vancouver, BC V5P 2S7",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/SMR+Max+Construction/data=!4m7!3m6!1s0x548675f6e0129ea1:0xec3fffd4d53437b6!8m2!3d49.2076118!4d-123.0687618!16s%2Fg%2F11vbtprbny!19sChIJoZ4S4PZ1hlQRtjc01dT_P-w?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 8 a.m. Wed",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJoZ4S4PZ1hlQRtjc01dT_P-w&q=SMR+Max+Construction&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.207611799999995,
+        "longitude": -123.06876179999999
+    },
+    "plus_code": "6W5J+2F Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "South Vancouver",
+        "street": "1820 East Kent Ave S",
+        "city": "Vancouver",
+        "postal_code": "V5P 2S7",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "17023606406058882998",
+    "data_id": "0x548675f6e0129ea1:0xec3fffd4d53437b6",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_bEsU6zjEVeLzBVuPjdhmQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=234.63216&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipN04mRR0sdJlk6NxIinYkmFzQ86J-XiDuhLLPaH=w774-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_bEsU6zjEVeLzBVuPjdhmQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=234.63216&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "8 a.m.-7 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "8 a.m.-7 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "8 a.m.-7 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "8 a.m.-7 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "8 a.m.-7 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "8 a.m.-7 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "Closed"
+            ]
+        }
+    ],
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

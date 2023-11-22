@@ -1,0 +1,360 @@
+{
+    "place_id": "ChIJL8SExnhxhlQRVtcbSpGlilc",
+    "name": "Peqish Food Company",
+    "description": "Healthy, counter-serve eatery featuring sandwiches, salads & baked goods, plus catering.",
+    "reviews": 75,
+    "website": "https://www.peqish.com/",
+    "owner": {
+        "id": "105841501027287955325",
+        "name": "Peqish Food Company (Owner)",
+        "link": "https://www.google.com/maps/contrib/105841501027287955325"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOwBf2up0EjOkGYq3dgaF_UTYgcY9hxpXQH--EV=w427-h240-k-no",
+    "main_category": "Food manufacturer",
+    "categories": [
+        "Food manufacturer",
+        "Food producer",
+        "Health food store",
+        "Sandwich shop"
+    ],
+    "rating": 4.1,
+    "workday_timing": "8 a.m.-3 p.m.",
+    "closed_on": [
+        "Saturday",
+        "Sunday"
+    ],
+    "phone": "(604) 681-3999",
+    "address": "Peqish Food Company, 552 Seymour St, Vancouver, BC V6B 3J5",
+    "review_keywords": [
+        {
+            "keyword": "healthy",
+            "count": 16
+        },
+        {
+            "keyword": "sandwich",
+            "count": 14
+        },
+        {
+            "keyword": "cookies",
+            "count": 11
+        },
+        {
+            "keyword": "catering",
+            "count": 10
+        },
+        {
+            "keyword": "price",
+            "count": 7
+        },
+        {
+            "keyword": "lunch",
+            "count": 6
+        },
+        {
+            "keyword": "filling",
+            "count": 5
+        },
+        {
+            "keyword": "salads",
+            "count": 5
+        },
+        {
+            "keyword": "stale",
+            "count": 3
+        },
+        {
+            "keyword": "brand",
+            "count": 3
+        }
+    ],
+    "link": "https://www.google.com/maps/place/Peqish+Food+Company/data=!4m7!3m6!1s0x54867178c684c42f:0x578aa5914a1bd756!8m2!3d49.2833591!4d-123.1144719!16s%2Fg%2F11bbyhq58l!19sChIJL8SExnhxhlQRVtcbSpGlilc?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 8 a.m. Wed",
+    "price_range": "$$",
+    "reviews_per_rating": {
+        "1": 10,
+        "2": 2,
+        "3": 5,
+        "4": 8,
+        "5": 50
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJL8SExnhxhlQRVtcbSpGlilc&q=Peqish+Food+Company&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.2833591,
+        "longitude": -123.1144719
+    },
+    "plus_code": "7VMP+86 Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "Downtown Vancouver",
+        "street": "552 Seymour St",
+        "city": "Vancouver",
+        "postal_code": "V6B 3J5",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "6308036271517980502",
+    "data_id": "0x54867178c684c42f:0x578aa5914a1bd756",
+    "menu": {
+        "link": "http://www.peqish.com/s/February_2017_Catering_Menu_Web-yabg.pdf",
+        "source": "peqish.com"
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Curbside pickup",
+                    "enabled": true
+                },
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOwBf2up0EjOkGYq3dgaF_UTYgcY9hxpXQH--EV=w530-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOJQPCVDbFeLWSlrSgmgOE9XtbjE8KmtRG74ba7=w446-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=sdpWPgtMrOUnDECsngIKWQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=155.80411&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "8 a.m.-3 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "8 a.m.-3 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "8 a.m.-3 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "8 a.m.-3 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "8 a.m.-3 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "Closed"
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "Closed"
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "Love this place! Love how easy they make it for me to choose something healthy to eat even when time barely allows it! The grab and go sandwiches are tasty and I can't get enough of their delicious cookies. I also happened to have attended an event recently and was pleasantly surprised to have found Peqish catered it. Their spread looked wonderful. Will for sure keep them in mind if I need catering in the future.",
+            "reviewer_name": "Wanda Lai",
+            "rating": 5,
+            "review_text": "Love this place! Love how easy they make it for me to choose something healthy to eat even when time barely allows it! The grab and go sandwiches are tasty and I can't get enough of their delicious cookies. I also happened to have attended an event recently and was pleasantly surprised to have found Peqish catered it. Their spread looked wonderful. Will for sure keep them in mind if I need catering in the future.",
+            "published_at": "4 years ago",
+            "published_at_date": "2019-11-08T20:39:23.688000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 3,
+            "total_number_of_reviews_by_reviewer": 3,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/116084180360476855899/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWRSautbggcKZ8b4FguyFWjU4GM-NeMskMci1IdUd4wUA=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Company with very strong values, welcoming and supportive.\n\nPeqish is a good company to work for. As Key Accounts Manager, I am doing a beautiful experience and I have a great work-life balance.\n\nI like the values of this company and their mission to assist people in being able to \"Eat Healthy on the go\".\n\nDoctors and Chef really take care about people's health and they are always looking for innovative recipes to create good and tasty products. Our food, low sugar, without preservative and additive tastes amazing.\n\nExcellent people to work with, all the staff is very supportive and hard working for the best of our company.\n\nThe owners are very wise, knowing and supportive. There are many opportunity to learn and grow.",
+            "reviewer_name": "Laura Magista",
+            "rating": 5,
+            "review_text": "Company with very strong values, welcoming and supportive.\n\nPeqish is a good company to work for. As Key Accounts Manager, I am doing a beautiful experience and I have a great work-life balance.\n\nI like the values of this company and their mission to assist people in being able to \"Eat Healthy on the go\".\n\nDoctors and Chef really take care about people's health and they are always looking for innovative recipes to create good and tasty products. Our food, low sugar, without preservative and additive tastes amazing.\n\nExcellent people to work with, all the staff is very supportive and hard working for the best of our company.\n\nThe owners are very wise, knowing and supportive. There are many opportunity to learn and grow.",
+            "published_at": "4 years ago",
+            "published_at_date": "2019-11-08T22:06:15.786000Z",
+            "response_from_owner_text": "Thanks for your nice words Laura. It is truly a pleasure to work alongside of you and we are glad that you have joined us on the Key Accounts side.",
+            "response_from_owner_ago": "4 years ago",
+            "response_from_owner_date": "2019-11-13T02:40:18.901000Z",
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 3,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/108212462461475662556/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJJbZzamDdgXUty-fdfBiKsUfpLLxVDhpRoshpXb-g9Ido=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "I can't thank Peqish enough for bringing to Vancouver what we so desperately needed.  Their food is delicious, healthy and very reasonably priced.  I have used them for catering as well as just picked up a sandwich or cookie when I am on the go.  I love their brand and LOVE the fact that it was started by PhDs who see intake of food as medicine that can dramatically effect your health. It is time for a change and how great is it that clean and healthy food also tastes so freakishly good???\n\nKeep up the goodness Peqish people.",
+            "reviewer_name": "Sean Azar",
+            "rating": 5,
+            "review_text": "I can't thank Peqish enough for bringing to Vancouver what we so desperately needed.  Their food is delicious, healthy and very reasonably priced.  I have used them for catering as well as just picked up a sandwich or cookie when I am on the go.  I love their brand and LOVE the fact that it was started by PhDs who see intake of food as medicine that can dramatically effect your health. It is time for a change and how great is it that clean and healthy food also tastes so freakishly good???\n\nKeep up the goodness Peqish people.",
+            "published_at": "4 years ago",
+            "published_at_date": "2019-11-08T19:13:45.434000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 3,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/113771673627468141411/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUNLLXQl2miKnKsAFlZB5yq_wj34jr70SjEmn7mIDhgpJON=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Finally a great place to buy (actually) healthy, quality food! It's so good!! Their cookies and energy balls are unbelievably yum! It's also really comforting to know that no matter what I buy from Peqish I can trust it's going to be healthy. I'm so glad I came across this place. Oh yes, and the service is amazing too! Such a nice bonus :)",
+            "reviewer_name": "B d",
+            "rating": 5,
+            "review_text": "Finally a great place to buy (actually) healthy, quality food! It's so good!! Their cookies and energy balls are unbelievably yum! It's also really comforting to know that no matter what I buy from Peqish I can trust it's going to be healthy. I'm so glad I came across this place. Oh yes, and the service is amazing too! Such a nice bonus :)",
+            "published_at": "4 years ago",
+            "published_at_date": "2019-11-08T16:45:51.081000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/109695532896579275108/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLZgfRsCzmaFZEaVTgPkB9lns_lHFj1Dm_rqsp7pZkD=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "I love the idea of Peqish and I want to love Peqish, but I always leave feeling that I wish something was different.\n\nHand crafted, fresh food to-go. Sounds great right? I thought so, but there is something off about bread sitting in a refrigerated case for multiple hours. The salads are impressive, but just feel expensive. Don't get me wrong... Peqish isn't bad. It's actually decent. It's just not as good as it could be.\n\nStaff is always friendly though!",
+            "reviewer_name": "Chris Wood",
+            "rating": 3,
+            "review_text": "I love the idea of Peqish and I want to love Peqish, but I always leave feeling that I wish something was different.\n\nHand crafted, fresh food to-go. Sounds great right? I thought so, but there is something off about bread sitting in a refrigerated case for multiple hours. The salads are impressive, but just feel expensive. Don't get me wrong... Peqish isn't bad. It's actually decent. It's just not as good as it could be.\n\nStaff is always friendly though!",
+            "published_at": "8 years ago",
+            "published_at_date": "2015-11-13T22:46:11.297000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 4,
+            "total_number_of_reviews_by_reviewer": 69,
+            "total_number_of_photos_by_reviewer": 371,
+            "reviewer_url": "https://www.google.com/maps/contrib/104677497153185334703/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVHF4DEQjIXY3AxwkjnHs-2G7zbwRfk46f770F5qmiIhMC5=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "This is a good spot to grab quick food like sandwiches, wraps, cookies, and coffee - on a street that's lacking these kind of options. The service is VERY friendly and most things taste good. My only reservation is that there isn't always good value for money. For example, the sandwiches taste nice but they don't have many toppings for the price.",
+            "reviewer_name": "Ben M",
+            "rating": 4,
+            "review_text": "This is a good spot to grab quick food like sandwiches, wraps, cookies, and coffee - on a street that's lacking these kind of options. The service is VERY friendly and most things taste good. My only reservation is that there isn't always good value for money. For example, the sandwiches taste nice but they don't have many toppings for the price.",
+            "published_at": "4 years ago",
+            "published_at_date": "2019-01-25T20:21:10.110000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 63,
+            "total_number_of_photos_by_reviewer": 141,
+            "reviewer_url": "https://www.google.com/maps/contrib/110811343978405934168/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVBK3S0pCkfj9uZuQ7a8_8IBvSYIiK5EvdSR6-NBH_BVKE=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Unbelievable catering service. First of all.. very reasonable pricing.\n\nThe food is outstanding, especially the classic turkey dinner. They're twist on a stuffing is what breaks them apart from the rest.\n\nI'd have to say their desert is #1 however. Highly recommend!",
+            "reviewer_name": "Biagio Audia",
+            "rating": 5,
+            "review_text": "Unbelievable catering service. First of all.. very reasonable pricing.\n\nThe food is outstanding, especially the classic turkey dinner. They're twist on a stuffing is what breaks them apart from the rest.\n\nI'd have to say their desert is #1 however. Highly recommend!",
+            "published_at": "4 years ago",
+            "published_at_date": "2019-11-09T00:13:48.443000Z",
+            "response_from_owner_text": "Joe. Happy to make that stuffin anytime for you. The apple galette with the salted caramel and candied pecan vanilla bean ice cream was a great end to a wonderful meal together. This year, you have to try our flourless chocolate explosion. a healthy, low sugar version of a chocolate lava cake.",
+            "response_from_owner_ago": "4 years ago",
+            "response_from_owner_date": "2019-11-11T04:12:40.362000Z",
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/109481983931562160046/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJ_Qs9jNtgvQ4DMUR5ZZX-FfpmnGm1nU5HiM6Uw0iWA=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "THE most delicious, healthy dishes. The salad pots are a full of flavour and filling with out giving the heavy feeling after eating. This is my go to lunch spot. I couldn't recommend Peqish more highly if I tried. Developed by Doctors and nutritionists, this brand knows exactly how to feed, fill and nurture.  Big Thumps Up.",
+            "reviewer_name": "Sarah Speddy",
+            "rating": 5,
+            "review_text": "THE most delicious, healthy dishes. The salad pots are a full of flavour and filling with out giving the heavy feeling after eating. This is my go to lunch spot. I couldn't recommend Peqish more highly if I tried. Developed by Doctors and nutritionists, this brand knows exactly how to feed, fill and nurture.  Big Thumps Up.",
+            "published_at": "4 years ago",
+            "published_at_date": "2019-04-10T23:05:06.903000Z",
+            "response_from_owner_text": "Sarah, thanks for the 5-star rating. Glad that you enjoy the food and feel good after you eat it. Our mission is to enable people whom are leading active and busy lifestyles to \"Eat Healthy on-the Go\". A big part of this commitment to producing better-for-you foods centers on the fact that we focus on either making either making the ingredients used in our food or sourcing from like-minded suppliers. Eat in good health!",
+            "response_from_owner_ago": "4 years ago",
+            "response_from_owner_date": "2019-11-13T03:25:03.358000Z",
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/114087625015079989975/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLts3qh4dgZycfGY4RzZiNDpsgvmT8PyCNvp9nK3vFt=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

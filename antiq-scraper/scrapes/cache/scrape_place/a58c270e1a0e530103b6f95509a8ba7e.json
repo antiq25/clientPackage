@@ -1,0 +1,556 @@
+{
+    "place_id": "ChIJFdpdHkx0hlQRSVAjcxQjaBQ",
+    "name": "Dogwood Brewing",
+    "description": "Small, laid-back brewery crafting organic beers, with tastings, growlers & made-to-order pizza.",
+    "reviews": 264,
+    "website": "http://www.dogwoodbrew.com/",
+    "owner": {
+        "id": "102549786736732388466",
+        "name": "Dogwood Brewing (Owner)",
+        "link": "https://www.google.com/maps/contrib/102549786736732388466"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPbbfIZUNvu8ABvnljOeHWFY3reaRpDJqMlSJdU=w408-h544-k-no",
+    "main_category": "Brewpub",
+    "categories": [
+        "Brewpub",
+        "Alcoholic beverage wholesaler",
+        "Beer store",
+        "Brewery"
+    ],
+    "rating": 4.5,
+    "workday_timing": "12-8 p.m.",
+    "closed_on": [
+        "Monday"
+    ],
+    "phone": "(604) 325-3693",
+    "address": "Dogwood Brewing, 8284 Sherbrooke St, Vancouver, BC V5X 4E8",
+    "review_keywords": [
+        {
+            "keyword": "pizza",
+            "count": 36
+        },
+        {
+            "keyword": "space",
+            "count": 13
+        },
+        {
+            "keyword": "tasting room",
+            "count": 12
+        },
+        {
+            "keyword": "board games",
+            "count": 12
+        },
+        {
+            "keyword": "coconut",
+            "count": 10
+        },
+        {
+            "keyword": "gem",
+            "count": 9
+        },
+        {
+            "keyword": "stout",
+            "count": 7
+        },
+        {
+            "keyword": "van",
+            "count": 5
+        },
+        {
+            "keyword": "parking",
+            "count": 5
+        },
+        {
+            "keyword": "flatbread",
+            "count": 5
+        }
+    ],
+    "link": "https://www.google.com/maps/place/Dogwood+Brewing/data=!4m7!3m6!1s0x5486744c1e5dda15:0x1468231473235049!8m2!3d49.2098687!4d-123.0817705!16s%2Fg%2F11b64jsvsv!19sChIJFdpdHkx0hlQRSVAjcxQjaBQ?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 12 p.m. Wed",
+    "price_range": "$$",
+    "reviews_per_rating": {
+        "1": 8,
+        "2": 8,
+        "3": 12,
+        "4": 43,
+        "5": 193
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJFdpdHkx0hlQRSVAjcxQjaBQ&q=Dogwood+Brewing&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.2098687,
+        "longitude": -123.08177049999999
+    },
+    "plus_code": "6W59+W7 Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "South Vancouver",
+        "street": "8284 Sherbrooke St",
+        "city": "Vancouver",
+        "postal_code": "V5X 4E8",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "1470463849074479177",
+    "data_id": "0x5486744c1e5dda15:0x1468231473235049",
+    "menu": {
+        "link": "https://www.skipthedishes.com/fr/dogwood-brewing/",
+        "source": "skipthedishes.com"
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Takeout",
+                    "enabled": true
+                },
+                {
+                    "name": "Dine-in",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "highlights",
+            "name": "Highlights",
+            "options": [
+                {
+                    "name": "Bar games",
+                    "enabled": true
+                },
+                {
+                    "name": "Karaoke",
+                    "enabled": true
+                },
+                {
+                    "name": "Live performances",
+                    "enabled": true
+                },
+                {
+                    "name": "Trivia night",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Alcohol",
+                    "enabled": true
+                },
+                {
+                    "name": "Beer",
+                    "enabled": true
+                },
+                {
+                    "name": "Cocktails",
+                    "enabled": true
+                },
+                {
+                    "name": "Food",
+                    "enabled": true
+                },
+                {
+                    "name": "Food at bar",
+                    "enabled": true
+                },
+                {
+                    "name": "Organic dishes",
+                    "enabled": true
+                },
+                {
+                    "name": "Wine",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Dining options",
+            "options": [
+                {
+                    "name": "Seating",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Gender-neutral washroom",
+                    "enabled": true
+                },
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosphere",
+            "options": [
+                {
+                    "name": "Casual",
+                    "enabled": true
+                },
+                {
+                    "name": "Cozy",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "children",
+            "name": "Children",
+            "options": [
+                {
+                    "name": "High chairs",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "parking",
+            "name": "Parking",
+            "options": [
+                {
+                    "name": "Free parking lot",
+                    "enabled": true
+                },
+                {
+                    "name": "Parking",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPbbfIZUNvu8ABvnljOeHWFY3reaRpDJqMlSJdU=w224-h298-k-no"
+        },
+        {
+            "about": "Latest",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNBpx8xWCEwqzjYw43mrL672JyqJJcD8sSDYUTH=w224-h398-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMIuxIzwEfWVLPQHr6aM1AylZ24klxw-n_C34uT=w224-h398-k-no"
+        },
+        {
+            "about": "Menu",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOlcMtFbqw9V8_P8CGF8E9djZ_GpQM2U7dbhqF5=w397-h298-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMYOKMRVUlZ2X3fnhi8FvJkXm_Ua3LCKbeylt-d=w446-h298-k-no"
+        },
+        {
+            "about": "Vibe",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPldFdRzRqqP6ZPZz8ZVAsDJLv1NUjN2YOIqb9Q=w224-h398-k-no"
+        },
+        {
+            "about": "Beer",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipO6dpmHZ0Gn468RjgGbqO7w2gLR3_BABRoZLDpX=w224-h298-k-no"
+        },
+        {
+            "about": "Cider",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipO0f1stOhsStHDJU5NUKsv69pPe4bNK9XZ6FbV7=w224-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMRDsL2_fwU8M-4frpKBCwHfdXqvP3f6Pn6Ekge=w387-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=z1FGhezdiUOKWxegsqlKOQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=106.75444&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "Closed"
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "12-8 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "12-8 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "12-9 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "12-10 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "12-10 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "12-8 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "Fun small space. Enjoyed the IPA and the London fog beers. Very nice tasting room friendly service.",
+            "reviewer_name": "mike merrick",
+            "rating": 5,
+            "review_text": "Fun small space. Enjoyed the IPA and the London fog beers. Very nice tasting room friendly service.",
+            "published_at": "a week ago",
+            "published_at_date": "2023-11-14T22:28:15.282000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 7,
+            "total_number_of_photos_by_reviewer": 17,
+            "reviewer_url": "https://www.google.com/maps/contrib/104724936864052933099/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWkVN6Dy9zF_JZqBtSgzW_lesOvB50Rh4vYvoXt_ysmN-o=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNYn63SOE9soLMLvp8Zk3BBMuhZfbl3URUM2wrE=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPYVdEw0rDfw156R7Uc1sWdwjKNGLgXokonZlhy=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipM4f9sCa3H9UWV1Y4lLOEZGRdcIsrASCOOWzwyN=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipN5wD-bi5nkYXPacuSdCmzssW8dxd7FT5YQouXZ=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Thought we'd pop in for a quick pint, lovely staff and delicious beer!! Next time we will come hungry and try the pizza",
+            "reviewer_name": "France Merrick",
+            "rating": 5,
+            "review_text": "Thought we'd pop in for a quick pint, lovely staff and delicious beer!! Next time we will come hungry and try the pizza",
+            "published_at": "a week ago",
+            "published_at_date": "2023-11-14T22:14:47.813000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 78,
+            "total_number_of_photos_by_reviewer": 55,
+            "reviewer_url": "https://www.google.com/maps/contrib/105899130043229589767/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVpd8SNWrEViURD6h3NXtWL-ejhp_dMI7E3yy7VVSFVwg=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPk04DmBF1l31DRoU0P_csiamYcJplNdTopy4Hx=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPjSwnEo2iwKqa2QfyQhFodCjRvUFiWqdit390U=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNBpx8xWCEwqzjYw43mrL672JyqJJcD8sSDYUTH=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Such a fun brewery! Incredible live music, great pizzas and the best staff! Can't wait to come back",
+            "reviewer_name": "Ben Buschke",
+            "rating": 5,
+            "review_text": "Such a fun brewery! Incredible live music, great pizzas and the best staff! Can't wait to come back",
+            "published_at": "5 months ago",
+            "published_at_date": "2023-06-18T05:28:10.001000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 42,
+            "total_number_of_photos_by_reviewer": 14,
+            "reviewer_url": "https://www.google.com/maps/contrib/100891371969594468575/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUsIrqCGpeFgdIkE07gdrj0qZPWztKF1J2Z4HaENsiV3urK=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMIuxIzwEfWVLPQHr6aM1AylZ24klxw-n_C34uT=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Great space and atmosphere but the beer didn't convince me, just not good.",
+            "reviewer_name": "Maria Mainart",
+            "rating": 3,
+            "review_text": "Great space and atmosphere but the beer didn't convince me, just not good.",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-06-28T05:43:27.004000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 531,
+            "total_number_of_photos_by_reviewer": 1761,
+            "reviewer_url": "https://www.google.com/maps/contrib/112808040334284533280/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWM042h-ieCgBd_zU88sh3iXGgJTKzltQqv_NhaSRlD1Kdf=s120-c-rp-mo-ba6-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipM8vgmL8Xj29Lys3q0In9-9JzhnRLtJ4SQOh817=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMvLm8d4o0hVBpTuF_vLH7UNonW7bGIatb_R2iT=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPXC1QFGF54ECDb4HDbAFISqxAbQfF2oJZJlsBO=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Nice brewery with great people behind the counter.. Saturday night live music; impressive performance and very entertaining.  Good beer and decent food and snacks.\n\nIt just had a great vibe and I appreciated it.",
+            "reviewer_name": "Al Kix",
+            "rating": 4,
+            "review_text": "Nice brewery with great people behind the counter.. Saturday night live music; impressive performance and very entertaining.  Good beer and decent food and snacks.\n\nIt just had a great vibe and I appreciated it.",
+            "published_at": "a year ago",
+            "published_at_date": "2022-09-18T08:41:41.337000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 3,
+            "total_number_of_reviews_by_reviewer": 736,
+            "total_number_of_photos_by_reviewer": 4543,
+            "reviewer_url": "https://www.google.com/maps/contrib/108985278416593122838/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXUNpLGE_kRkRXk49ZLZ3ViUrBbhynIFnoK_4RYtY7RE1ME=s120-c-rp-mo-ba7-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMDlHQ-lW3X1m9qkcOgVfBT0q4LYb2Ew2yiI6C6=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNobyPE0l3dfIal1Z8vtCSVnY4ZkxMp81HoyfwI=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipM_eatEW50awBPSb2lWzmU2kOAx4li9z1-o5OO1=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOIG2E5OVhj65mJWbb14iWBTc4rkAIHDW9oIgNr=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOVt3lD29zdPCCdKd4BOxtGSUBl_q_J0bwKg6am=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPyxvRbGsiiAixo6Y51YbHmHDxmsdoG8zeYVppX=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Pizza and beer special was fantastic. You HAVE to check this space out. Easy and free parking. Awesome feel of the space. Great decor. Friendly staff. The organic London Fog, Honey and Fest are my faves to start. Cute spot.",
+            "reviewer_name": "Jennifer Marie Luce",
+            "rating": 5,
+            "review_text": "Pizza and beer special was fantastic. You HAVE to check this space out. Easy and free parking. Awesome feel of the space. Great decor. Friendly staff. The organic London Fog, Honey and Fest are my faves to start. Cute spot.",
+            "published_at": "4 years ago",
+            "published_at_date": "2019-02-04T04:49:00.039000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 3,
+            "total_number_of_reviews_by_reviewer": 247,
+            "total_number_of_photos_by_reviewer": 612,
+            "reviewer_url": "https://www.google.com/maps/contrib/116904872879341948437/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLQDulE_EMMNF3chMm4xtQzhOA79CkZHVfIkCVPPqxt=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMSDEFGz1zL74YQASG9f9_MJtanmLKPc6kUB7lu=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPqwd4O8kHO2MaPJD66YPU9PuYxic7p-0fshqz_=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipODdcBHae8lRHlnFIJ3b8U5FYn9w-vD0Ksxt9I8=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOeG4Z9UwlBvMV0fPSxNEv7CMTn0tauRikU2vqk=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMYPCSy6v-wNGFsaKwz7aAtdQXKl2baJsuLiklf=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNr0yXMJlNdZdL9jjFHfLnGex6XxHD2IuX5Eja_=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMLDCnn-HrgA9lmUZfGi4fdk1cZ3pVk2OvfcoD_=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMIJ5pv_VqzjTfJQqKbanPVDpk3D0wbTe5JsrGX=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Really enjoy this brewery, but unfortunately this last visit was the least enjoyable. Only because the two beers we were hoping to have in draft weren't available! Please bring back London Fog and the Chai!!!",
+            "reviewer_name": "Amy",
+            "rating": 4,
+            "review_text": "Really enjoy this brewery, but unfortunately this last visit was the least enjoyable. Only because the two beers we were hoping to have in draft weren't available! Please bring back London Fog and the Chai!!!",
+            "published_at": "a month ago",
+            "published_at_date": "2023-09-30T03:13:27.325000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 74,
+            "total_number_of_photos_by_reviewer": 61,
+            "reviewer_url": "https://www.google.com/maps/contrib/112189546613554792518/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVxp54r026TakZpIo3lgLPNPZTcD0Zs52FiiD-nP0doeZs=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Service sucks!\nDropped recently ,ordered Greek pizza\nServer comes back 20 minutes later to\nInform they out\nWhy would you let me sit that long and make me expect what I ordered?\nVery unprofessional server , ordered another beer and she did not know what I was drinking\nBeer is awesome , service is thumbs down\nNot the place for good service.",
+            "reviewer_name": "vijay chand",
+            "rating": 2,
+            "review_text": "Service sucks!\nDropped recently ,ordered Greek pizza\nServer comes back 20 minutes later to\nInform they out\nWhy would you let me sit that long and make me expect what I ordered?\nVery unprofessional server , ordered another beer and she did not know what I was drinking\nBeer is awesome , service is thumbs down\nNot the place for good service.",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-14T00:11:24.131000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/104657419195040050092/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJwC1WVcxW5H2iOoGhgnx13SQaAy_FYJgiPgBdh08vT=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

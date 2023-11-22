@@ -1,0 +1,412 @@
+{
+    "place_id": "ChIJ8-9z9eBzhlQRrFZDlPTIfTw",
+    "name": "33 Acres Brewing Company",
+    "description": "House-brewed craft beer & cafe fare offered in a cool, minimalist space with rustic accents.",
+    "reviews": 1021,
+    "website": "http://33acresbrewing.com/",
+    "owner": {
+        "id": "113370624637335559445",
+        "name": "33 Acres Brewing Company (Owner)",
+        "link": "https://www.google.com/maps/contrib/113370624637335559445"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNAYT0NaH8Zx-UKNH3DA8Zy08GkVeMBGZw2Eayq=w408-h271-k-no",
+    "main_category": "Brewery",
+    "categories": [
+        "Brewery"
+    ],
+    "rating": 4.4,
+    "workday_timing": "11 a.m.-11 p.m.",
+    "closed_on": [],
+    "phone": "(604) 620-4589",
+    "address": "33 Acres Brewing Company, 15 W 8th Ave, Vancouver, BC V5Y 1M8",
+    "review_keywords": [
+        {
+            "keyword": "brunch",
+            "count": 45
+        },
+        {
+            "keyword": "growler",
+            "count": 29
+        },
+        {
+            "keyword": "hipster",
+            "count": 17
+        },
+        {
+            "keyword": "tasting room",
+            "count": 16
+        },
+        {
+            "keyword": "ocean",
+            "count": 10
+        },
+        {
+            "keyword": "breakfast",
+            "count": 10
+        },
+        {
+            "keyword": "belgian tripel",
+            "count": 9
+        },
+        {
+            "keyword": "acoustics",
+            "count": 6
+        },
+        {
+            "keyword": "experimental",
+            "count": 6
+        },
+        {
+            "keyword": "mezcal",
+            "count": 5
+        }
+    ],
+    "link": "https://www.google.com/maps/place/33+Acres+Brewing+Company/data=!4m7!3m6!1s0x548673e0f573eff3:0x3c7dc8f4944356ac!8m2!3d49.2639299!4d-123.1053388!16s%2Fg%2F1ptyr7wdr!19sChIJ8-9z9eBzhlQRrFZDlPTIfTw?authuser=0&hl=en&rclk=1",
+    "status": "Open  Closes 11 p.m.",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 50,
+        "2": 23,
+        "3": 60,
+        "4": 235,
+        "5": 653
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ8-9z9eBzhlQRrFZDlPTIfTw&q=33+Acres+Brewing+Company&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.2639299,
+        "longitude": -123.1053388
+    },
+    "plus_code": "7V7V+HV Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "East Vancouver",
+        "street": "15 W 8th Ave",
+        "city": "Vancouver",
+        "postal_code": "V5Y 1M8",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "4358860967149524652",
+    "data_id": "0x548673e0f573eff3:0x3c7dc8f4944356ac",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Alcohol",
+                    "enabled": true
+                },
+                {
+                    "name": "Beer",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Bar on-site",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNAYT0NaH8Zx-UKNH3DA8Zy08GkVeMBGZw2Eayq=w447-h298-k-no"
+        },
+        {
+            "about": "Latest",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOHsmhVe_SiStgK42PvmAclhtG0q-5hb-mTIA8Q=w224-h298-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOPIjKMWBitL1V4Pp16vBHh4tVSEsgs2fTzI1ee=w529-h298-k-no"
+        },
+        {
+            "about": "Building",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipM9vaUDoqjAu-OWadKpXy8du-UbtEQ8Zfb-nr-W=w224-h298-k-no"
+        },
+        {
+            "about": "Beer",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNO5zBGn7WiiJTt8V7pbMCW3Y1DPeWVlZFhle4e=w397-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMwoZLBupUPdMI62gUeLOqRBY0Wwh1lz_gtG7s8=w447-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipN5C0AT0-OiVf3WbH2aW4IuMUCb29ZphccliQkT=w224-h298-k-no-pi-0-ya93.31251-ro-0-fo100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "11 a.m.-11 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "11 a.m.-11 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "11 a.m.-11 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "11 a.m.-11 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "11 a.m.-11 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "10 a.m.-11 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "10 a.m.-11 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "Whatever you do, absolutely do not grab brunch here. The potatoes were served cold and the breakfast sandwich was inedible with what looked like an uncooked sausage patty. It's also ridiculously overpriced with sub par service and mediocre beer to boot.\n\nJust head down to Modus a few blocks away for a simple and delicious brunch instead (and quite affordable!).",
+            "reviewer_name": "Anant Prabhakar",
+            "rating": 1,
+            "review_text": "Whatever you do, absolutely do not grab brunch here. The potatoes were served cold and the breakfast sandwich was inedible with what looked like an uncooked sausage patty. It's also ridiculously overpriced with sub par service and mediocre beer to boot.\n\nJust head down to Modus a few blocks away for a simple and delicious brunch instead (and quite affordable!).",
+            "published_at": "3 weeks ago",
+            "published_at_date": "2023-10-29T05:29:05.986000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 3,
+            "total_number_of_reviews_by_reviewer": 11,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/110684036107089820401/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUn9n-vBKnjDuxIBkLgOTIJfJCV1yvaFvPQwJC6ncyxCrE=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNm5kXn3AzXbCgIdgvr5k44CMwZiKB471kuphKH=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "We came in for cold refreshments on a hot day. Seating is shaded outdoor or air con inside. Drinks are pricy but pleased that the flavoured sparkling water was unsweetened. We like to support small local businesses but we didn't exactly receive a friendly welcome. Need to work on providing better customer service and keeping bathrooms clean. Have you seen the wall behind the hand dryer? ",
+            "reviewer_name": "35RedBackpack",
+            "rating": 3,
+            "review_text": "We came in for cold refreshments on a hot day. Seating is shaded outdoor or air con inside. Drinks are pricy but pleased that the flavoured sparkling water was unsweetened. We like to support small local businesses but we didn't exactly receive a friendly welcome. Need to work on providing better customer service and keeping bathrooms clean. Have you seen the wall behind the hand dryer? ",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-02T22:09:17.554000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 3,
+            "total_number_of_reviews_by_reviewer": 219,
+            "total_number_of_photos_by_reviewer": 387,
+            "reviewer_url": "https://www.google.com/maps/contrib/106409157546383433660/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUvwr3AZSHi1je2OqkHnUqWX3vAiM74G7JX7cijNlak7UA=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOTkJju0Bd1pTG4SxsjtpYL83t2AEpRaosNJrhZ=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "You can't go wrong with 33. Seriously though.\n\nI recently had the pleasure of stopping in at 33 Acres Brewing after nearly a year. And I must say this place never disappoints. It was an amazing experience. The beer was incredibly delicious (as always) and the atmosphere (good music too) was super friendly and inviting.\n\nThe staff at 33 are always extremely helpful and knowledgeable, always going out of their way to make sure I enjoy my time and have a good time.\n\nI would highly recommend stopping in for a pint or two if you're ever near the area as it's a really great establishment. The outdoor seating is also awesome and a great way to enjoy a sunny day. Cheers!",
+            "reviewer_name": "Joshua Nash",
+            "rating": 5,
+            "review_text": "You can't go wrong with 33. Seriously though.\n\nI recently had the pleasure of stopping in at 33 Acres Brewing after nearly a year. And I must say this place never disappoints. It was an amazing experience. The beer was incredibly delicious (as always) and the atmosphere (good music too) was super friendly and inviting.\n\nThe staff at 33 are always extremely helpful and knowledgeable, always going out of their way to make sure I enjoy my time and have a good time.\n\nI would highly recommend stopping in for a pint or two if you're ever near the area as it's a really great establishment. The outdoor seating is also awesome and a great way to enjoy a sunny day. Cheers!",
+            "published_at": "5 months ago",
+            "published_at_date": "2023-06-07T03:09:01.147000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 211,
+            "total_number_of_photos_by_reviewer": 152,
+            "reviewer_url": "https://www.google.com/maps/contrib/106756583563100209919/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXVd8CvUJucNajHiqFxv9tZP2DRHUS1pVqYxk7zDSnA9Dkc=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipP29Fu1IRjH_g2JszecFydgHjGnHCsxOzTdcz29=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Fantastic local brewery. Great beers, good range and all done pretty well. My favourites are the French blanche and schwarzbier but everything I've tried has been above average. Great selection of snacks and excellent vibes.",
+            "reviewer_name": "Shaun Hagen",
+            "rating": 5,
+            "review_text": "Fantastic local brewery. Great beers, good range and all done pretty well. My favourites are the French blanche and schwarzbier but everything I've tried has been above average. Great selection of snacks and excellent vibes.",
+            "published_at": "7 months ago",
+            "published_at_date": "2023-04-16T02:57:56.597000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 41,
+            "total_number_of_photos_by_reviewer": 17,
+            "reviewer_url": "https://www.google.com/maps/contrib/100213669841970065060/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXEI3u90M6az95VOD1xJDMzvz58OON7BTHZ1MkWdljMllGA=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOk4Dw9KqIk5bO9_4rmRpgptPV7XqELqFvegcfk=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Great beers and great outdoor patio on a quiet, tree-lined street. I would say this is the brewery with the best ambience in Mt Pleasant.\nWARNING: They do NOT do growler fills. If you google \"33 acres growler fills\" the first result will tell you that they are doing growler fills, but it is not true (as of August 2023). On the FAQ of their website, they mention that they are currently not doing growler fills. Hopefully they consider doing them again - literally every other brewery in the area does.",
+            "reviewer_name": "Dane K Barney",
+            "rating": 5,
+            "review_text": "Great beers and great outdoor patio on a quiet, tree-lined street. I would say this is the brewery with the best ambience in Mt Pleasant.\nWARNING: They do NOT do growler fills. If you google \"33 acres growler fills\" the first result will tell you that they are doing growler fills, but it is not true (as of August 2023). On the FAQ of their website, they mention that they are currently not doing growler fills. Hopefully they consider doing them again - literally every other brewery in the area does.",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-03T02:32:47.624000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 43,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/104058502867211885079/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVtxDxSJBuukpIy6twWjpGrceiDbXMfm34-MxehFZmuYCSx=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Beer is top class!! No doubt about that. Color , taste, crispiness and finish is unsurpassed. One of the best beer I have tried. However 20 bucks for a pack of 4  is simply a bloody rip off. Seriously ?? $5.00 for a can of beer? In the government liquor store similar if not the same taste for a Czech  or German  beer you pay 2.25 at the most. I tried it , it is fine ,but for the price they charge , never again. I guess that place is for people with deeper pockets ,not for me. Fix your prices or you will start loosing customers.",
+            "reviewer_name": "Plamen Boychev",
+            "rating": 1,
+            "review_text": "Beer is top class!! No doubt about that. Color , taste, crispiness and finish is unsurpassed. One of the best beer I have tried. However 20 bucks for a pack of 4  is simply a bloody rip off. Seriously ?? $5.00 for a can of beer? In the government liquor store similar if not the same taste for a Czech  or German  beer you pay 2.25 at the most. I tried it , it is fine ,but for the price they charge , never again. I guess that place is for people with deeper pockets ,not for me. Fix your prices or you will start loosing customers.",
+            "published_at": "5 months ago",
+            "published_at_date": "2023-06-20T09:49:23.363000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 8,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/109899000556972564905/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJxH1a3BiuSXOWwKAlUORTgvPrrIFMKo-oUNsiC-ZuP0Q=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Beautiful taproom and lovely beer. Ample seating and clear space.",
+            "reviewer_name": "Brittany Johnson",
+            "rating": 5,
+            "review_text": "Beautiful taproom and lovely beer. Ample seating and clear space.",
+            "published_at": "3 weeks ago",
+            "published_at_date": "2023-10-28T22:52:15.481000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 62,
+            "total_number_of_photos_by_reviewer": 3,
+            "reviewer_url": "https://www.google.com/maps/contrib/118298367938808594673/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjV5oBoASsSscm8hm_XAi7V6jj_Hb0A8vRSKHZpvpTPh8Q=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOHsmhVe_SiStgK42PvmAclhtG0q-5hb-mTIA8Q=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "We waited about 10 mins for an outdoor table around 4:15pm; it's seat yourself and then order at the bar. Unfortunately they stopped serving coffee at 4 so we missed out there, but the ginger beer I had was delicious and folks enjoyed their beers.\n\nMy biggest complaint was the popcorn I ordered for $5 that was clearly made several hours before and pulled off an open-air shelf by an employee when I ordered it. It was, as you'd expect, stale, and I'm a little puzzled admittedly as to why popcorn couldn't be made (or even kept?) fresh daily. I had a pretzel that had some interesting sides and was okay, though admittedly a little misshapen.\n\nOkay stop for a pricey locally brewed drink, but I think the rest went over my head.",
+            "reviewer_name": "Matt",
+            "rating": 3,
+            "review_text": "We waited about 10 mins for an outdoor table around 4:15pm; it's seat yourself and then order at the bar. Unfortunately they stopped serving coffee at 4 so we missed out there, but the ginger beer I had was delicious and folks enjoyed their beers.\n\nMy biggest complaint was the popcorn I ordered for $5 that was clearly made several hours before and pulled off an open-air shelf by an employee when I ordered it. It was, as you'd expect, stale, and I'm a little puzzled admittedly as to why popcorn couldn't be made (or even kept?) fresh daily. I had a pretzel that had some interesting sides and was okay, though admittedly a little misshapen.\n\nOkay stop for a pricey locally brewed drink, but I think the rest went over my head.",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-11T15:41:44.581000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 97,
+            "total_number_of_photos_by_reviewer": 47,
+            "reviewer_url": "https://www.google.com/maps/contrib/102547411055634626015/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIwyJo2jeaB0Ri_lwqHttajRuNUG4Ohw_eLUxy-99sVFA=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

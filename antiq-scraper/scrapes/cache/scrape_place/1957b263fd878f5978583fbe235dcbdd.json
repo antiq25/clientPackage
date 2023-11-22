@@ -1,0 +1,600 @@
+{
+    "place_id": "ChIJNTkdMdJxhlQRcJH_6Ta39SA",
+    "name": "C-Lovers Fish & Chips",
+    "description": null,
+    "reviews": 999,
+    "website": "http://c-lovers.com/",
+    "owner": {
+        "id": "118432521271910951602",
+        "name": "C-Lovers Fish & Chips (Owner)",
+        "link": "https://www.google.com/maps/contrib/118432521271910951602"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOcv4wricYMPBPY8e5vO_b_1KfaQPn3Aii2eb7F=w426-h240-k-no",
+    "main_category": "Fish & chips restaurant",
+    "categories": [
+        "Fish & chips restaurant",
+        "Family restaurant",
+        "Seafood restaurant"
+    ],
+    "rating": 4.3,
+    "workday_timing": "11 a.m.-8 p.m.",
+    "closed_on": [],
+    "phone": "(604) 980-9993",
+    "address": "C-Lovers Fish & Chips, 1660 Pemberton Ave, North Vancouver, BC V7P 3M1",
+    "review_keywords": [
+        {
+            "keyword": "waitress",
+            "count": 37
+        },
+        {
+            "keyword": "halibut",
+            "count": 31
+        },
+        {
+            "keyword": "coleslaw",
+            "count": 28
+        },
+        {
+            "keyword": "tartar sauce",
+            "count": 15
+        },
+        {
+            "keyword": "onion rings",
+            "count": 13
+        },
+        {
+            "keyword": "all you can eat",
+            "count": 11
+        },
+        {
+            "keyword": "oysters",
+            "count": 8
+        },
+        {
+            "keyword": "beer",
+            "count": 8
+        },
+        {
+            "keyword": "platter",
+            "count": 7
+        },
+        {
+            "keyword": "chicken strips",
+            "count": 5
+        }
+    ],
+    "link": "https://www.google.com/maps/place/C-Lovers+Fish+%26+Chips/data=!4m7!3m6!1s0x548671d2311d3935:0x20f5b736e9ff9170!8m2!3d49.3245263!4d-123.1075345!16s%2Fg%2F113h024s9!19sChIJNTkdMdJxhlQRcJH_6Ta39SA?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 11 a.m.",
+    "price_range": "$$",
+    "reviews_per_rating": {
+        "1": 52,
+        "2": 23,
+        "3": 80,
+        "4": 299,
+        "5": 545
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJNTkdMdJxhlQRcJH_6Ta39SA&q=C-Lovers+Fish+%26+Chips&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.324526299999995,
+        "longitude": -123.1075345
+    },
+    "plus_code": "8VFR+RX North Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": null,
+        "street": "1660 Pemberton Ave",
+        "city": "North Vancouver",
+        "postal_code": "V7P 3M1",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "2375005824989761904",
+    "data_id": "0x548671d2311d3935:0x20f5b736e9ff9170",
+    "menu": {
+        "link": "https://c-lovers.com/menus/",
+        "source": "c-lovers.com"
+    },
+    "reservations": [],
+    "order_online_links": [
+        {
+            "link": "https://c-lovers.com/menus/",
+            "source": "c-lovers.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Takeout",
+                    "enabled": true
+                },
+                {
+                    "name": "Dine-in",
+                    "enabled": true
+                },
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "highlights",
+            "name": "Highlights",
+            "options": [
+                {
+                    "name": "Fast service",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair accessible seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Alcohol",
+                    "enabled": true
+                },
+                {
+                    "name": "All you can eat",
+                    "enabled": true
+                },
+                {
+                    "name": "Beer",
+                    "enabled": true
+                },
+                {
+                    "name": "Coffee",
+                    "enabled": true
+                },
+                {
+                    "name": "Small plates",
+                    "enabled": true
+                },
+                {
+                    "name": "Wine",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Dining options",
+            "options": [
+                {
+                    "name": "Lunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Dinner",
+                    "enabled": true
+                },
+                {
+                    "name": "Dessert",
+                    "enabled": true
+                },
+                {
+                    "name": "Seating",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosphere",
+            "options": [
+                {
+                    "name": "Casual",
+                    "enabled": true
+                },
+                {
+                    "name": "Cozy",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "crowd",
+            "name": "Crowd",
+            "options": [
+                {
+                    "name": "Family-friendly",
+                    "enabled": true
+                },
+                {
+                    "name": "Groups",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planning",
+            "options": [
+                {
+                    "name": "Accepts reservations",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "children",
+            "name": "Children",
+            "options": [
+                {
+                    "name": "Good for kids",
+                    "enabled": true
+                },
+                {
+                    "name": "High chairs",
+                    "enabled": true
+                },
+                {
+                    "name": "Kids' menu",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "parking",
+            "name": "Parking",
+            "options": [
+                {
+                    "name": "Free parking lot",
+                    "enabled": true
+                },
+                {
+                    "name": "Parking",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOcv4wricYMPBPY8e5vO_b_1KfaQPn3Aii2eb7F=w529-h298-k-no"
+        },
+        {
+            "about": "Latest",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipO4wiBQ7UpDn9FQ7YUsNCoPNB8YBMqHZDcmAPzu=w224-h298-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMSZDZMsb1_Xeya2SdVpDPsBFC62W5N7h1MXqhJ=w224-h398-k-no"
+        },
+        {
+            "about": "Menu",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMXdXNUr6hjcUy9K7r307oa85gI7KI3AAgOV4DX=w224-h298-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOXfDPKErfkXa_0nzhIcsuT7YImRxxFrMXN9XJd=w529-h298-k-no"
+        },
+        {
+            "about": "Vibe",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipO3BBtjDoC7JeXLPW30Hj_bEFAb_G6_gGVuWaO4=w397-h298-k-no"
+        },
+        {
+            "about": "Onion",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipP22N6HpHmo9gLG2GqwsNCfgfwbB_FlktFoSv9M=w529-h298-k-no"
+        },
+        {
+            "about": "Fish and chips",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipN6leQGHK3zUNXPShdxOTHNNisBb7oTxLTuDYa7=w397-h298-k-no"
+        },
+        {
+            "about": "French fries",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNe83tjS5DMswrgzehrTwC0Clr0j2i8FWFywsyu=w224-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOgDHUPYvuHa34AC9MFusHDVzac8pWliS4pwFfl=w529-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vdl80xj9wu3dC-Fyw_s8Cw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=36.775223&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "11 a.m.-8 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "11 a.m.-8 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "11 a.m.-8 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "11 a.m.-8 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "11 a.m.-9 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "11:30 a.m.-8 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "11:30 a.m.-8 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "Finally tried the all-you-can-eat. Serious error. All batter no fish and rather flavourless. Didn't order anymore and picked out the slicers of fish from the oily batter. Chips also mediocre. Coleslaw was extra and not bad. Can't be bothered to be back. If you like fish go elsewhere where quantity doesn't rule over quality. I'm just not clear why this is popular. Service was good.",
+            "reviewer_name": "Rita Eustergerling",
+            "rating": 2,
+            "review_text": "Finally tried the all-you-can-eat. Serious error. All batter no fish and rather flavourless. Didn't order anymore and picked out the slicers of fish from the oily batter. Chips also mediocre. Coleslaw was extra and not bad. Can't be bothered to be back. If you like fish go elsewhere where quantity doesn't rule over quality. I'm just not clear why this is popular. Service was good.",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-05T02:45:41.596000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 12,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/116045840891452224290/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJiZmowYwGt03MqNus7QbsQv7PHMXFeLC7qserE7Eue=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPg-6RhArO2v9hS6JooytjMZHtQ_uTPxbikgWm-=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "I visited North Vancouver District the first time just to try the food here. Honestly, they are best fish and chips I've ever had--better others I've had in Greater Vancouver!\n\nThe in-house tartar sauce was sooo delicious as well (can squeeze out as much as I want); it had a fresh, tarty dill taste.\n\nThe onion rings and oyster were good. And the tomato juice was tasty and refreshing.\n\nThe mushy peas, however, were not my cup of tea (it, to me, is like a coarse base puree that's just salted).\n\nIt was quite the satiating lunch; perfect for going to a hike trail afterward.  Moreover, I did not need to eat dinner.\n\nAs for the service, it's excellent. I liked the waitress' personality; she's chill and accommodating.",
+            "reviewer_name": "Kristi",
+            "rating": 5,
+            "review_text": "I visited North Vancouver District the first time just to try the food here. Honestly, they are best fish and chips I've ever had--better others I've had in Greater Vancouver!\n\nThe in-house tartar sauce was sooo delicious as well (can squeeze out as much as I want); it had a fresh, tarty dill taste.\n\nThe onion rings and oyster were good. And the tomato juice was tasty and refreshing.\n\nThe mushy peas, however, were not my cup of tea (it, to me, is like a coarse base puree that's just salted).\n\nIt was quite the satiating lunch; perfect for going to a hike trail afterward.  Moreover, I did not need to eat dinner.\n\nAs for the service, it's excellent. I liked the waitress' personality; she's chill and accommodating.",
+            "published_at": "7 months ago",
+            "published_at_date": "2023-04-03T22:16:57.934000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 7,
+            "total_number_of_photos_by_reviewer": 27,
+            "reviewer_url": "https://www.google.com/maps/contrib/107155661876570988318/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVvbgmd9yYJffvPQwvWc807dbNPVyL83q9DZVBEDzIqpFA=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPHSKC2W69G_aMZSTkhF7_H0uZCv0Zv-FfvDAYO=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPYLWq6yUpebJuJFbkFJk5eg8bP780-SeOmMoCG=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPU9GwcLoQ2rRiEYINXcNwUey59GwUdVDQixRCB=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipP36oBdA1f4tpghI3cL2WuqT4HYWoXogUaeoB0i=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNG16KyINWvAMMRzL8ViXYgxLvMaIFqd5uLzbJy=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMuDyia4xJDLipRUaNNpb3LaYBGEzCkCNVIXciM=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMVV_zY4dmWj09wFNXMxb2AW4tKCnxxwzOd3Rsd=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMYfivXUIPrNlXR5YIgQjzmmoyVxRWh6QK-ZkB8=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMFZVn37GySU1sR5_Rqv0RKyTnr6KS2TyAcQz-O=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "A great quick service, clean, one of the best in Greater Vancouver Area for those fish lovers, eat as much as you can meal also comes with unlimited refill for Pepsi products, coleslaw is great, onion rings and sauces. Enjoy the fresh fish & chips!",
+            "reviewer_name": "Kam Hammad",
+            "rating": 5,
+            "review_text": "A great quick service, clean, one of the best in Greater Vancouver Area for those fish lovers, eat as much as you can meal also comes with unlimited refill for Pepsi products, coleslaw is great, onion rings and sauces. Enjoy the fresh fish & chips!",
+            "published_at": "10 months ago",
+            "published_at_date": "2022-12-27T20:09:30.252000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 3,
+            "total_number_of_reviews_by_reviewer": 21,
+            "total_number_of_photos_by_reviewer": 154,
+            "reviewer_url": "https://www.google.com/maps/contrib/109906004104332612803/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUKPPCkU8Uzo_f8Ik5kiLxXVgQRhNm6lR2c11cFd72UsJo=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNa6xjUl3PlRqKM6Uz9oQeCzEDBW3z9JdR34Oqy=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMfLNuv8SbtDH5hEAkMrKOoBXVWGUFVoHryxbgl=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipP_7g-WmmD1_6-vQAT2XJnRUzp2QuNDjhZI-kSw=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOZ7JJ0Z7Hi9iB3POiC-eSxgzejB1HEO32azNWP=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPTA6MU9cbE3ysg9Od16BeJix7g03cUehsy2BZ4=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipO3BBtjDoC7JeXLPW30Hj_bEFAb_G6_gGVuWaO4=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipM5Hb4tiqIa9WL1Chw-FbhIrpl6j0BQswoa8BFG=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMLWborB8fYi98M3IlNdRDr3YlIIhXDIhTpNshI=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNdQBIQuTkLk9eFtvg4f4GRA8ywhXyI6jC1XFHI=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOpc40B2_pWru3Oaqzs-tqBxxlKlAkSixykDISM=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipP-v1cyPf8wWBsaL7Lt4uqFG-sRCuyxQRvozMIV=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPhGyyM0UsVOkZBAEbRwBA0VPttZpmP4Rilyk8_=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOY4NQRRv3nYyRbwNaStZ6Anpck87OPN_WcZofk=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMb2eEZViH00P60-nTYjsmRWJKFhIcK7UeZ8kUW=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Server was very attentive and friendly. Took care of us as soon as we needed refills on our drinks or more fish. Thank you!",
+            "reviewer_name": "Lawrence Leung",
+            "rating": 4,
+            "review_text": "Server was very attentive and friendly. Took care of us as soon as we needed refills on our drinks or more fish. Thank you!",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-20T01:45:46.741000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 140,
+            "total_number_of_photos_by_reviewer": 477,
+            "reviewer_url": "https://www.google.com/maps/contrib/108282038917219791075/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUFCiiOpzuT_xrxJuOY3jxOCyHDcS19LKCwpJQDgXtwUWLR=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNJ-XSIsgc88NcCEMQ57YjWjORXWSPMPkQ5LmZV=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPVvwkDWmax3a1H9XdGkAw5bs3PFnkERMVJFzxm=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "As advertised - had the all you can eat fish & chips. Fresh from the fryer to the table. Service was courteous and quick. Refills on the drinks were timely, and we went two extra rounds of fish. Overall very satisfying and not too pricey.",
+            "reviewer_name": "D Ashcroft",
+            "rating": 4,
+            "review_text": "As advertised - had the all you can eat fish & chips. Fresh from the fryer to the table. Service was courteous and quick. Refills on the drinks were timely, and we went two extra rounds of fish. Overall very satisfying and not too pricey.",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-02T04:18:07.296000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 7,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/104719150395314467438/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVo-_uFclCVm-IG1dIoJoxHfU13uGg3_qtZw-ETKTmL_Q=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "I had the all you can eat fish and chips. It was all around good; although, some pieces of fish were sub par In comparison to others. The environment within the restaurant is quite calm & relaxed.",
+            "reviewer_name": "Luc Dixon",
+            "rating": 4,
+            "review_text": "I had the all you can eat fish and chips. It was all around good; although, some pieces of fish were sub par In comparison to others. The environment within the restaurant is quite calm & relaxed.",
+            "published_at": "2 weeks ago",
+            "published_at_date": "2023-11-04T00:52:31.019000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 11,
+            "total_number_of_photos_by_reviewer": 2,
+            "reviewer_url": "https://www.google.com/maps/contrib/116898917004607497995/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWVjfgnvGfwJ99qRgQKr2IjA4ob2LDMcjG6f8UQS-1oNA=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Lots of free parking right outside.\nFair bit of seating inside while still maintaining social distancing.\nOrdered the all you can eat. Which is just fish and chips with bottomless pop. No coleslaw. Each plate had 5 pieces of fish (small to medium size). I was able to finish 2 plates.\nThe kitchen is visible and relatively clean, the wait staff were quick and attentive.\nNote you are not getting cod or halibut with the all you can eat.\nOverall, I would eat here again.",
+            "reviewer_name": "Mehr Poulad",
+            "rating": 4,
+            "review_text": "Lots of free parking right outside.\nFair bit of seating inside while still maintaining social distancing.\nOrdered the all you can eat. Which is just fish and chips with bottomless pop. No coleslaw. Each plate had 5 pieces of fish (small to medium size). I was able to finish 2 plates.\nThe kitchen is visible and relatively clean, the wait staff were quick and attentive.\nNote you are not getting cod or halibut with the all you can eat.\nOverall, I would eat here again.",
+            "published_at": "2 years ago",
+            "published_at_date": "2021-03-01T22:04:49.412000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 3,
+            "total_number_of_reviews_by_reviewer": 305,
+            "total_number_of_photos_by_reviewer": 2219,
+            "reviewer_url": "https://www.google.com/maps/contrib/101003521698768475877/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLbZTA48vt90eQnC-qKGUJ5ZeA4RycY-euI2R3ALhnB=s120-c-rp-mo-ba6-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipN05V9tNCvCyumpLimO6BKwicb8N8gySSeQIOv6=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipM8TPL8oNv-WL0YINOy1Lezg0IYPb4U35Ct7DNI=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNum3SuDxSKcEGspw0JhVuxxjV3nTBxlGbS_ZO2=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMNmkOOEzrYjjwvS4gpe297ty26Qk01mXzHNRLn=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMCXlPQ_MToyb-2pHv90XGyz680yQwoLeXjZXxI=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipO4KPmc9XCApOdguHdyxTII8NvHkakoMI7ouasc=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipN-ExL8vTGkiEqP_5vmqMyTvZXY1MeCJX892BqD=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOyINAWE9PHtSb_zdH4YU_PkwTnBZQy8_rTSHcG=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Great place for all things fish!  They have an amazing Family Deal for Pick Up that feeds so many people...like there is 20 -23 pieces of fish, chips, coleslaw and a 2 litre of soda of your choice.  For around $40.00.  Or dining in there is all you can eat fish and chips for a great price with bottomless soda!  If you have kids under 10 they eat for a steal.  Great Covid 19 measures in places.  Nice fresh food and friendly service.  It is a win!",
+            "reviewer_name": "Lisa Stewart",
+            "rating": 4,
+            "review_text": "Great place for all things fish!  They have an amazing Family Deal for Pick Up that feeds so many people...like there is 20 -23 pieces of fish, chips, coleslaw and a 2 litre of soda of your choice.  For around $40.00.  Or dining in there is all you can eat fish and chips for a great price with bottomless soda!  If you have kids under 10 they eat for a steal.  Great Covid 19 measures in places.  Nice fresh food and friendly service.  It is a win!",
+            "published_at": "3 years ago",
+            "published_at_date": "2020-10-19T00:55:09.928000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 358,
+            "total_number_of_photos_by_reviewer": 7021,
+            "reviewer_url": "https://www.google.com/maps/contrib/109969439335485710727/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjX36y5sQW9gfsN2_HiVcXdUyDlEADS4g9gRPuvX9r9oeACl=s120-c-rp-mo-ba6-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMn1jxGK4MXkvw3oIu6tA6z-r6gleIa32n5Yf6a=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOTMMKclr6NPBSj0UIIb5_NloIJxKvafFBX4qSR=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOG6d5d5oHJzSLNl-T_umjKLo9lTgrxhu-aLWpq=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPiQZx9J5-MtIsKmMFuzOe5NRD-jVEd210eSqFO=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPqbKWaXGo8iVGkiy6dO_UrK2Wpbe7zWWGjt5Dd=w150-h150-k-no-p"
+            ]
+        }
+    ],
+    "is_spending_on_ads": false
+}

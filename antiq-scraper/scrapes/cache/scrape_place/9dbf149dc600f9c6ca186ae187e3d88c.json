@@ -1,0 +1,141 @@
+{
+    "place_id": "ChIJGzfsBbh1hlQRc-P5ifr0CuY",
+    "name": "Alliance Soap Manufacturing Inc",
+    "description": null,
+    "reviews": null,
+    "website": "http://www.alliancesoap.ca/",
+    "owner": {
+        "id": null,
+        "name": "Alliance Soap Manufacturing Inc (Owner)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Awn203LxXOuDxb2QLvfwPg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=212.94423&pitch=0&thumbfov=100",
+    "main_category": "Chemical industry",
+    "categories": [
+        "Chemical industry"
+    ],
+    "rating": null,
+    "workday_timing": "9 a.m.-5:30 p.m.",
+    "closed_on": [
+        "Saturday",
+        "Sunday"
+    ],
+    "phone": "(604) 295-5647",
+    "address": "Alliance Soap Manufacturing Inc, 1851 Savage Rd, Richmond, BC V6V 2R6",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/Alliance+Soap+Manufacturing+Inc/data=!4m7!3m6!1s0x548675b805ec371b:0xe60af4fa89f9e373!8m2!3d49.2005491!4d-123.0582288!16s%2Fg%2F1td69kmt!19sChIJGzfsBbh1hlQRc-P5ifr0CuY?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 9 a.m. Wed",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJGzfsBbh1hlQRc-P5ifr0CuY&q=Alliance+Soap+Manufacturing+Inc&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.200549099999996,
+        "longitude": -123.0582288
+    },
+    "plus_code": "6W2R+6P Richmond, British Columbia",
+    "detailed_address": {
+        "ward": null,
+        "street": "1851 Savage Rd",
+        "city": "Richmond",
+        "postal_code": "V6V 2R6",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "16576330735384388467",
+    "data_id": "0x548675b805ec371b:0xe60af4fa89f9e373",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Awn203LxXOuDxb2QLvfwPg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=212.94423&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Awn203LxXOuDxb2QLvfwPg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=212.94423&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "9 a.m.-5:30 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "9 a.m.-5:30 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "9 a.m.-5:30 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "9 a.m.-5:30 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "9 a.m.-5:30 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "Closed"
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "Closed"
+            ]
+        }
+    ],
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

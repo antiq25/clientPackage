@@ -1,0 +1,318 @@
+{
+    "place_id": "ChIJ194_j3lxhlQRyMLluNwZDGU",
+    "name": "MistyWest",
+    "description": null,
+    "reviews": 17,
+    "website": "http://www.mistywest.com/",
+    "owner": {
+        "id": "116548440575611092362",
+        "name": "MistyWest (Owner)",
+        "link": "https://www.google.com/maps/contrib/116548440575611092362"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPfhi0XJbzmPc3Fq8Leu7-Dnogs0zRVHPfRTTx4=w426-h240-k-no",
+    "main_category": "Engineering consultant",
+    "categories": [
+        "Engineering consultant",
+        "Mechanical engineer"
+    ],
+    "rating": 4.9,
+    "workday_timing": "9 a.m.-5 p.m.",
+    "closed_on": [
+        "Saturday",
+        "Sunday"
+    ],
+    "phone": "(604) 292-7036",
+    "address": "MistyWest, 554 E 15th Ave, Vancouver, BC V5T 2R5",
+    "review_keywords": [
+        {
+            "keyword": "team",
+            "count": 5
+        },
+        {
+            "keyword": "projects",
+            "count": 4
+        },
+        {
+            "keyword": "design",
+            "count": 3
+        },
+        {
+            "keyword": "product",
+            "count": 3
+        }
+    ],
+    "link": "https://www.google.com/maps/place/MistyWest/data=!4m7!3m6!1s0x548671798f3fded7:0x650c19dcb8e5c2c8!8m2!3d49.2571545!4d-123.0924932!16s%2Fg%2F12hkwj5vt!19sChIJ194_j3lxhlQRyMLluNwZDGU?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 9 a.m. Wed",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 1,
+        "4": 0,
+        "5": 16
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ194_j3lxhlQRyMLluNwZDGU&q=MistyWest&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.2571545,
+        "longitude": -123.09249319999999
+    },
+    "plus_code": "7W45+V2 Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "East Vancouver",
+        "street": "554 E 15th Ave",
+        "city": "Vancouver",
+        "postal_code": "V5T 2R5",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "7281223133336814280",
+    "data_id": "0x548671798f3fded7:0x650c19dcb8e5c2c8",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPfhi0XJbzmPc3Fq8Leu7-Dnogs0zRVHPfRTTx4=w529-h298-k-no"
+        },
+        {
+            "about": "Exterior",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipORCVdQTsQZVVxbZw9_iEb766slLSRDpIrN5B3y=w447-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPw0SoWVIhPNHjz_D7ejgi7jMxuBd1NCF3r9f_M=w356-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=iPfzp3rm7H7IvjYtxQiamQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=188.1623&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "9 a.m.-5 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "9 a.m.-5 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "9 a.m.-5 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "9 a.m.-5 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "9 a.m.-5 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "Closed"
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "Closed"
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "We are really happy with the services, and friendly and professional design advice we have received from Misty West. Our product required multi-discipline expertise and the Misty West Team knows how to deliver and scale through each design phase. Having worked with many engineers and design teams over the years, Misty West has provided the best experience. It is quite clear their expertise and understanding of how to scale a product and business is far above the rest! We will use them again in the future for our product design needs and manufacturing advice. Thank you!",
+            "reviewer_name": "Green Thumb Technology",
+            "rating": 5,
+            "review_text": "We are really happy with the services, and friendly and professional design advice we have received from Misty West. Our product required multi-discipline expertise and the Misty West Team knows how to deliver and scale through each design phase. Having worked with many engineers and design teams over the years, Misty West has provided the best experience. It is quite clear their expertise and understanding of how to scale a product and business is far above the rest! We will use them again in the future for our product design needs and manufacturing advice. Thank you!",
+            "published_at": "5 years ago",
+            "published_at_date": "2017-12-06T18:02:06.616000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/112090139086812097298/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUhPDgK3JspbTpxoaYbz66URTYAnItw05rDvRgE1Sm0g6I=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "I've had the privilege of working with Leigh and Josh at Misty West one summer and the experience was incredibly inspiring. It was really refreshing to be part of a team that works just as hard on the creative vision as they do on technical strategies. Leigh and Josh are incredibly knowledge, immensely curious and wickedly creative people who know how to lead, encourage, and mentor a team to create the best work possible for their clients.",
+            "reviewer_name": "Sandy Wang",
+            "rating": 5,
+            "review_text": "I've had the privilege of working with Leigh and Josh at Misty West one summer and the experience was incredibly inspiring. It was really refreshing to be part of a team that works just as hard on the creative vision as they do on technical strategies. Leigh and Josh are incredibly knowledge, immensely curious and wickedly creative people who know how to lead, encourage, and mentor a team to create the best work possible for their clients.",
+            "published_at": "9 years ago",
+            "published_at_date": "2014-03-11T02:14:53.405000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/107094548441568491998/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJifpcDKAxdqlMAQnWCv5jBzpe_fE5jsSz6WpY3ChVw=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Working with MistyWest has been a real pleasure.  Their thoughtful, methodical and intelligent approach to engineering and product design are distinguishing traits of the firm.  They move quickly, and precisely to maximize productivity and creativity in solving the design issues that naturally arise in any product development cycle.  A great asset to any venture.",
+            "reviewer_name": "Aaron Ryan",
+            "rating": 5,
+            "review_text": "Working with MistyWest has been a real pleasure.  Their thoughtful, methodical and intelligent approach to engineering and product design are distinguishing traits of the firm.  They move quickly, and precisely to maximize productivity and creativity in solving the design issues that naturally arise in any product development cycle.  A great asset to any venture.",
+            "published_at": "9 years ago",
+            "published_at_date": "2014-02-06T02:54:54.598000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 67,
+            "total_number_of_photos_by_reviewer": 344,
+            "reviewer_url": "https://www.google.com/maps/contrib/114971149082875346714/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXMiKsS3pmC2qBU-2_-I-F6JarOZvLe7if7vXTpifASmgZY=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Enthusiastic, helpful, and truly caring. MistyWest is a true hardware pillar in Vancouver. Always impressed with their ability to bring a community together, and to share their experiences with a wider audience. The staff are quick to make useful suggestions and offer valuable insights, not just on your product, but on the business too.",
+            "reviewer_name": "Valerie Song",
+            "rating": 5,
+            "review_text": "Enthusiastic, helpful, and truly caring. MistyWest is a true hardware pillar in Vancouver. Always impressed with their ability to bring a community together, and to share their experiences with a wider audience. The staff are quick to make useful suggestions and offer valuable insights, not just on your product, but on the business too.",
+            "published_at": "5 years ago",
+            "published_at_date": "2017-12-05T08:06:13.056000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 3,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/107230510476858705219/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjX0QARFJzfidMTH-YzcFHPkU7tZ85JOWA6fW17Ab-wfiew=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Wonderful company!!! Mystywest has the best talents working on multiple state of the art projects. As an engineer working in high tech for a few years, I definitely recommend them if you need real experts for your innovative projects.",
+            "reviewer_name": "Elsa Asadian",
+            "rating": 5,
+            "review_text": "Wonderful company!!! Mystywest has the best talents working on multiple state of the art projects. As an engineer working in high tech for a few years, I definitely recommend them if you need real experts for your innovative projects.",
+            "published_at": "4 years ago",
+            "published_at_date": "2019-09-30T05:37:38.139000Z",
+            "response_from_owner_text": "Thank you Elsa - it's a pleasure to make connections to other engineers in the field! If you find yourself free you should definitely join us for our Hardware Meetup events. They're pretty fun!\nhttps://www.meetup.com/Vancouver-Hardware-Meetup/",
+            "response_from_owner_ago": "3 years ago",
+            "response_from_owner_date": "2020-01-21T21:12:58.884000Z",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 30,
+            "total_number_of_photos_by_reviewer": 7,
+            "reviewer_url": "https://www.google.com/maps/contrib/107471331839207452031/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVpqgvoJz1sx0ZSC4miQfGl7sSCfGjMcN-4rqWADL06pA=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "I have worked with MistyWest for over a year now on projects critical to our group. They have a rare combination of design, mechanical engineering, and electrical engineering that is hard to replicate in other firms and their team dynamics are positive, organized, and transparent.",
+            "reviewer_name": "Seth Hunter",
+            "rating": 5,
+            "review_text": "I have worked with MistyWest for over a year now on projects critical to our group. They have a rare combination of design, mechanical engineering, and electrical engineering that is hard to replicate in other firms and their team dynamics are positive, organized, and transparent.",
+            "published_at": "7 years ago",
+            "published_at_date": "2016-07-07T18:11:32.504000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 6,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/110816602193695633200/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXI488ff2OlQQdxQ8Kl7KQcB1rlScTdtmZKSUtdV5Uxf68=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "We only had a quick, informal meeting with Josh.  He started off with talking about what the company can offer and past projects, which seems really impressive.  However, when I described my project to him, it didn't seem like he was listening and at some point, actually pulled out his phone.  Perhaps he was not impressed by our small project and saw no value in continuing the conversation.\n\nAnyways, we took our project elsewhere, somewhere which seems to place more value into it, regardless of the size of our project.",
+            "reviewer_name": "John DuPont",
+            "rating": 3,
+            "review_text": "We only had a quick, informal meeting with Josh.  He started off with talking about what the company can offer and past projects, which seems really impressive.  However, when I described my project to him, it didn't seem like he was listening and at some point, actually pulled out his phone.  Perhaps he was not impressed by our small project and saw no value in continuing the conversation.\n\nAnyways, we took our project elsewhere, somewhere which seems to place more value into it, regardless of the size of our project.",
+            "published_at": "8 years ago",
+            "published_at_date": "2015-06-13T23:59:36.516000Z",
+            "response_from_owner_text": "Hi John, I'm really sorry we weren't able to help you. I searched through my email and I don't see any correspondence between us. Could you remind me what your company is and what you came to us looking for? I would be the first to admit that we do suggest to some people who talk to us that we are not a perfect fit when it either makes more sense to hire someone internally or go with an individual rather than an integrated engineering team, but I don't recall ever turning someone away without a good explanation of why it might more sense to take a different strategy. Many other firms may be more likely to take on the work even if it isn't the best move for the client. Are you sure it was our company that you talked to? Again, I'm sorry that we did not get a chance to work together and I hope that you have been successful with your venture.\n\nBest regards,\n\nJosh Usher",
+            "response_from_owner_ago": "8 years ago",
+            "response_from_owner_date": "2015-06-14T00:53:27.473000Z",
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/113008368473018926825/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJ_qsm-peO9GpPXVrT0OoXRmqkgEsAQp-QT7A9gAkAk=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Great team with a ton of insight. They give invaluable engineering advice from prototyping to future, large scale production. Most importantly, they are extremely personable and quick to respond to questions and concerns!",
+            "reviewer_name": "Rhea Sideris",
+            "rating": 5,
+            "review_text": "Great team with a ton of insight. They give invaluable engineering advice from prototyping to future, large scale production. Most importantly, they are extremely personable and quick to respond to questions and concerns!",
+            "published_at": "7 years ago",
+            "published_at_date": "2016-06-28T09:08:52.383000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/102465611114235338898/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWJJkrYdtgpvTrvDV1OL4i02KY7ANP47SELc4acWdPOB9I=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

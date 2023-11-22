@@ -1,0 +1,373 @@
+{
+    "place_id": "ChIJbWhMqjhxhlQRkXrg-VZAbeE",
+    "name": "Commercial Drive Medical Clinic",
+    "description": null,
+    "reviews": 120,
+    "website": "https://commercialdrivemedicalclinic.com/",
+    "owner": {
+        "id": "103491171930704699427",
+        "name": "Commercial Drive Medical Clinic (Owner)",
+        "link": "https://www.google.com/maps/contrib/103491171930704699427"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOUsBojxkOBw63nW_cn0PKAhxKHSTGdA9pdAT3w=w408-h271-k-no",
+    "main_category": "Walk-in clinic",
+    "categories": [
+        "Walk-in clinic",
+        "General practitioner",
+        "Health consultant",
+        "Medical Center",
+        "Medical office",
+        "Pediatrician"
+    ],
+    "rating": 3.7,
+    "workday_timing": "10 a.m.-3 p.m.",
+    "closed_on": [
+        "Monday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+    ],
+    "phone": "(604) 255-5922",
+    "address": "Commercial Drive Medical Clinic, 1515 Commercial Dr, Vancouver, BC V5L 3Y1",
+    "review_keywords": [
+        {
+            "keyword": "receptionist",
+            "count": 19
+        },
+        {
+            "keyword": "call",
+            "count": 11
+        },
+        {
+            "keyword": "understanding",
+            "count": 7
+        },
+        {
+            "keyword": "results",
+            "count": 6
+        },
+        {
+            "keyword": "door",
+            "count": 6
+        },
+        {
+            "keyword": "botox",
+            "count": 4
+        },
+        {
+            "keyword": "office",
+            "count": 4
+        },
+        {
+            "keyword": "license",
+            "count": 3
+        },
+        {
+            "keyword": "email",
+            "count": 3
+        },
+        {
+            "keyword": "morning",
+            "count": 3
+        }
+    ],
+    "link": "https://www.google.com/maps/place/Commercial+Drive+Medical+Clinic/data=!4m7!3m6!1s0x54867138aa4c686d:0xe16d4056f9e07a91!8m2!3d49.2711496!4d-123.0699244!16s%2Fg%2F1tgcl_5d!19sChIJbWhMqjhxhlQRkXrg-VZAbeE?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 10 a.m.",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 34,
+        "2": 4,
+        "3": 1,
+        "4": 8,
+        "5": 73
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJbWhMqjhxhlQRkXrg-VZAbeE&q=Commercial+Drive+Medical+Clinic&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.2711496,
+        "longitude": -123.06992439999999
+    },
+    "plus_code": "7WCJ+F2 Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "East Vancouver",
+        "street": "1515 Commercial Dr",
+        "city": "Vancouver",
+        "postal_code": "V5L 3Y1",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "16243710173298850449",
+    "data_id": "0x54867138aa4c686d:0xe16d4056f9e07a91",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [
+        {
+            "link": "https://chark.bookmd.ca/",
+            "source": "bookmd.ca"
+        }
+    ],
+    "about": [
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planning",
+            "options": [
+                {
+                    "name": "Accepts new patients",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOUsBojxkOBw63nW_cn0PKAhxKHSTGdA9pdAT3w=w447-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipN7C-1g7mq2ww04XYQqMtXN7PapcEfhBVhIcE4C=w296-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=khzUwobEeCB76eW1tz8n6g&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=293.25177&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "Closed"
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "10 a.m.-3 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "10 a.m.-3 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "10 a.m.-3 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "Closed"
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "Closed"
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "Closed"
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "Possibly the most unreliable clinic in the city. The front desk, please... Get a new job and hire a donkey to work for you instead, it will do a far better job than you can ever.",
+            "reviewer_name": "R",
+            "rating": 1,
+            "review_text": "Possibly the most unreliable clinic in the city. The front desk, please... Get a new job and hire a donkey to work for you instead, it will do a far better job than you can ever.",
+            "published_at": "a week ago",
+            "published_at_date": "2023-11-10T20:44:49.388000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 57,
+            "total_number_of_photos_by_reviewer": 8,
+            "reviewer_url": "https://www.google.com/maps/contrib/103683355838274497679/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJlU63p10bzOqI3l1eeYS6HheFfMGRInaaUt4pLgGtA=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "I don't know what is going on with this business? I was going here and seeing a doctor. I had my medical exam for my professional license and then got a requisition for some lab tests. After months of waiting the doctor never explained the results and when I call the office ( nearly impossible to get through) a young man promised me that a doctor would call me back at 2pm that day. I suspected I wouldn't get a call and sure enough no response after months of trying to get ahold of the doctor and office staff. What a completely incompetent, unprofessional and irresponsible business! Don't use this walk in clinic it's a joke!",
+            "reviewer_name": "Leif Wells",
+            "rating": 1,
+            "review_text": "I don't know what is going on with this business? I was going here and seeing a doctor. I had my medical exam for my professional license and then got a requisition for some lab tests. After months of waiting the doctor never explained the results and when I call the office ( nearly impossible to get through) a young man promised me that a doctor would call me back at 2pm that day. I suspected I wouldn't get a call and sure enough no response after months of trying to get ahold of the doctor and office staff. What a completely incompetent, unprofessional and irresponsible business! Don't use this walk in clinic it's a joke!",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-06-26T20:26:39.071000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/106536559462890664014/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXvUvYP0tc9hnAS9BvFykJuWnM0I-X_kUh_FAwkroXrMsE=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Been coming to the clinic since 2008 after my car accident. I now live in Nanaimo and still use the Commercial Drive Clinic. They're always helpful with everything I need done from so far. Thanks for your help over the years. I appreciate it.",
+            "reviewer_name": "Cupcake Baby",
+            "rating": 5,
+            "review_text": "Been coming to the clinic since 2008 after my car accident. I now live in Nanaimo and still use the Commercial Drive Clinic. They're always helpful with everything I need done from so far. Thanks for your help over the years. I appreciate it.",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-08-29T20:26:19.560000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 3,
+            "total_number_of_reviews_by_reviewer": 5,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/115751133083426635163/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUY0vCv4BFVKRsBOjDbeaOIMXcBZout1ApxU1bctiJEJbo=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Avoid this place for god's sake. A bunch of liars. They told us three (!!!) times month after month that signed us up to MRI queue while they never actually did it. They told us that they CANT TELL US WHICH PARTICULAR CLINIC WE ARE ASSIGNED TO. They can't. Ofc you can't if you never did it. Liars. Stupid, arrogant. Hope you guys have 0 working days week instead of 2. You didn't deserve a penny from MSP. How dare you to make a human suffer for a half a year from backpain and be afraid to tell you simply lied.\n\nP.S. to the owner: check my email which I sent on Mar 18, 2023, 3:06 PM asking about MRI date. Which you never bothered to respond ofc.",
+            "reviewer_name": "Omar Shykhkerimov",
+            "rating": 1,
+            "review_text": "Avoid this place for god's sake. A bunch of liars. They told us three (!!!) times month after month that signed us up to MRI queue while they never actually did it. They told us that they CANT TELL US WHICH PARTICULAR CLINIC WE ARE ASSIGNED TO. They can't. Ofc you can't if you never did it. Liars. Stupid, arrogant. Hope you guys have 0 working days week instead of 2. You didn't deserve a penny from MSP. How dare you to make a human suffer for a half a year from backpain and be afraid to tell you simply lied.\n\nP.S. to the owner: check my email which I sent on Mar 18, 2023, 3:06 PM asking about MRI date. Which you never bothered to respond ofc.",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-08-23T01:12:34.296000Z",
+            "response_from_owner_text": "Dear Omar, thank you for taking the time to leave your concern. Can you contact us directly at commercialdrivemedicalclinic@gmail.com. \n\nCurrently by checking your last name, we have no record of you being in our clinic, there are multiple clinics in commercial drive location. We look forward to getting your email and will look into this further. \n\n",
+            "response_from_owner_ago": "2 months ago",
+            "response_from_owner_date": "2023-08-23T00:34:50.287000Z",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 52,
+            "total_number_of_photos_by_reviewer": 4,
+            "reviewer_url": "https://www.google.com/maps/contrib/110588299495197743659/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXwdZjy2TLDoEbFF3xfyi-Fbam2bJGp7xKnMRTiAL2pbQ=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Thank you guys so much! Getting in to see a doctor can be super tough lately because of covid. However, they were able to get me in right away to take care of me :) Nice staff, thanks everyone there",
+            "reviewer_name": "Noah",
+            "rating": 5,
+            "review_text": "Thank you guys so much! Getting in to see a doctor can be super tough lately because of covid. However, they were able to get me in right away to take care of me :) Nice staff, thanks everyone there",
+            "published_at": "a month ago",
+            "published_at_date": "2023-09-27T20:29:59.170000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/104877389835092608556/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWDn6hxCGJOc8_AAIcE2LMdx9BbHVZSOOwx24agfRwmZw=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Booking my first appointment wasn't particularly easy as there is no booking confirmation and my appointment had to be moved and there was confusion between the staff - as I'm sure happens with a booking system that's not super intuitive. However I did get a call the morning of my appointment to check I was coming in and the staff were friendly. I had a really good experience with Dr Mark Abbey, as a foreigner in Vancouver without my own Dr here it's always hit and miss with a walk in clinic. I found Dr Abbey was friendly and actually listened to why I was there rather than pushing me out the door moments after arriving which is how I feel most of the time seeing Drs in this city. It was nice to feel like a person not a number (:",
+            "reviewer_name": "Genevieve Armstrong",
+            "rating": 5,
+            "review_text": "Booking my first appointment wasn't particularly easy as there is no booking confirmation and my appointment had to be moved and there was confusion between the staff - as I'm sure happens with a booking system that's not super intuitive. However I did get a call the morning of my appointment to check I was coming in and the staff were friendly. I had a really good experience with Dr Mark Abbey, as a foreigner in Vancouver without my own Dr here it's always hit and miss with a walk in clinic. I found Dr Abbey was friendly and actually listened to why I was there rather than pushing me out the door moments after arriving which is how I feel most of the time seeing Drs in this city. It was nice to feel like a person not a number (:",
+            "published_at": "7 months ago",
+            "published_at_date": "2023-03-29T19:05:46.843000Z",
+            "response_from_owner_text": "We are grateful for your fabulous review of our walk-in medical clinic. All of our staff, from the receptionist, nurses, doctors, and physicians are here to ensure your well being and safety. We are working on our online booking system and this should help patients booking more friendly.",
+            "response_from_owner_ago": "7 months ago",
+            "response_from_owner_date": "2023-03-29T20:27:21.548000Z",
+            "review_likes_count": 3,
+            "total_number_of_reviews_by_reviewer": 13,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/105620071156973769795/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXO01qBoCf2oJgTbKnCs6U-31RMPwm_84-MxSx97RhLnw4=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "One of THE best clinics I've been to. I never write reviews on Google and this is my first one, but this clinic deserves acknowledgment for their sincere and great work! I've been to lots of hospitals and clinics, living in Vancouver my whole life, but this is the only clinic I go out of my way to go to now. If you need yourself a great doctor, this is definitely the place you should stop by ",
+            "reviewer_name": "Suzy Park",
+            "rating": 5,
+            "review_text": "One of THE best clinics I've been to. I never write reviews on Google and this is my first one, but this clinic deserves acknowledgment for their sincere and great work! I've been to lots of hospitals and clinics, living in Vancouver my whole life, but this is the only clinic I go out of my way to go to now. If you need yourself a great doctor, this is definitely the place you should stop by ",
+            "published_at": "8 months ago",
+            "published_at_date": "2023-03-15T20:44:52.590000Z",
+            "response_from_owner_text": "We would like to thank you for taking the time to review. Your kind words are very supportive to staff and our doctors. We look forward to being your clinic of choice!\n",
+            "response_from_owner_ago": "8 months ago",
+            "response_from_owner_date": "2023-03-16T17:12:09.360000Z",
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 3,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/107752875619107238665/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjU7VSRjj2gZHovtJKvfGFAZJGKoMGpP4Lt4_BAzktdX2s0=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Highly recommend this clinic, staff are friendly and caring professionals. Look forward to a future relationship with the doctors in the clinic.",
+            "reviewer_name": "samantha will",
+            "rating": 5,
+            "review_text": "Highly recommend this clinic, staff are friendly and caring professionals. Look forward to a future relationship with the doctors in the clinic.",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-19T17:35:05.626000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/108020040607376900165/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJlRBgBr28A4lb-JuRrdQPWs2DDqKYXc_2ImmgsYcGi=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

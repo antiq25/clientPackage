@@ -1,0 +1,355 @@
+{
+    "place_id": "ChIJPQjn0nV3hlQRxoOaI4yIc40",
+    "name": "Fitness World",
+    "description": null,
+    "reviews": 601,
+    "website": "https://www.fitnessworld.ca/locations/kingsway/",
+    "owner": {
+        "id": "116909585349506582762",
+        "name": "Fitness World (Owner)",
+        "link": "https://www.google.com/maps/contrib/116909585349506582762"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMMP6whVXyg49YouxT-pqXupkrtrI7PTZzbvmCo=w408-h272-k-no",
+    "main_category": "Gym",
+    "categories": [
+        "Gym",
+        "Fitness center",
+        "Health spa",
+        "Indoor cycling",
+        "Personal trainer",
+        "Yoga studio"
+    ],
+    "rating": 4.5,
+    "workday_timing": "6 a.m.-10 p.m.",
+    "closed_on": [],
+    "phone": "(604) 558-4967",
+    "address": "Fitness World, 5500 Kingsway, Burnaby, BC V5H 2G2",
+    "review_keywords": [
+        {
+            "keyword": "personal trainer",
+            "count": 89
+        },
+        {
+            "keyword": "equipment",
+            "count": 51
+        },
+        {
+            "keyword": "goals",
+            "count": 34
+        },
+        {
+            "keyword": "motivating",
+            "count": 23
+        },
+        {
+            "keyword": "desk",
+            "count": 22
+        },
+        {
+            "keyword": "nutrition",
+            "count": 17
+        },
+        {
+            "keyword": "management",
+            "count": 16
+        },
+        {
+            "keyword": "plan",
+            "count": 15
+        },
+        {
+            "keyword": "weight",
+            "count": 12
+        },
+        {
+            "keyword": "ventilation",
+            "count": 7
+        }
+    ],
+    "link": "https://www.google.com/maps/place/Fitness+World/data=!4m7!3m6!1s0x54867775d2e7083d:0x8d73888c239a83c6!8m2!3d49.2231079!4d-122.9851946!16s%2Fg%2F11hkb9c_28!19sChIJPQjn0nV3hlQRxoOaI4yIc40?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 6 a.m.",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 41,
+        "2": 10,
+        "3": 19,
+        "4": 54,
+        "5": 477
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJPQjn0nV3hlQRxoOaI4yIc40&q=Fitness+World&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.223107899999995,
+        "longitude": -122.9851946
+    },
+    "plus_code": "62F7+6W Burnaby, British Columbia",
+    "detailed_address": {
+        "ward": null,
+        "street": "5500 Kingsway",
+        "city": "Burnaby",
+        "postal_code": "V5H 2G2",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "10192640517143692230",
+    "data_id": "0x54867775d2e7083d:0x8d73888c239a83c6",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Online classes",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMMP6whVXyg49YouxT-pqXupkrtrI7PTZzbvmCo=w447-h298-k-no"
+        },
+        {
+            "about": "Gym",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipN0cUO2XjN1Dn_f55rkveePoW1Lr90DB-PWWCEP=w397-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNmgrrzRUbwsGKHdceySoZrhnWn_AuClXi5Nzn3=w397-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=PO51DOhnTGrN3w5Q8ccr2Q&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=236.25157&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "6 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "6 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "6 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "6 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "6 a.m.-8 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "8 a.m.-8 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "8 a.m.-8 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "I recently joined this gym and it's been an outstanding experience. The manager is a gem. His excellent communication skills ensure that every member feels valued and heard. He genuinely cares about the facility and its clients, always striving to maintain a clean and well-equipped environment. I highly recommend this gym for its top-notch service and dedicated management.",
+            "reviewer_name": "Ahmad Ahmad",
+            "rating": 5,
+            "review_text": "I recently joined this gym and it's been an outstanding experience. The manager is a gem. His excellent communication skills ensure that every member feels valued and heard. He genuinely cares about the facility and its clients, always striving to maintain a clean and well-equipped environment. I highly recommend this gym for its top-notch service and dedicated management.",
+            "published_at": "2 weeks ago",
+            "published_at_date": "2023-11-05T22:33:14.255000Z",
+            "response_from_owner_text": "Thank you for the positive comment, Ahmad!! And we'll be sure to let the GM know that he is a \"gem\"! Haha",
+            "response_from_owner_ago": "2 weeks ago",
+            "response_from_owner_date": "2023-11-06T23:43:40.040000Z",
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/118202617526081139131/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIYwq08c7QkbLLNdk1V-mldGM4Uxf2jm_Zj7NY3AjY24w=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "I was initially skeptical after hearing the negative feedback, but I decided to give it a shot and see what it was all about. I was greeted by friendly staff who were genuinely interested in helping me achieve my fitness goals. They took the time to understand my needs and provided valuable advice without pushing me into any unnecessary commitments. It was evident that they genuinely cared about creating a positive and inclusive environment for all members. The equipment at this gym is also really good, with a ton of options. The cleanliness of the gym was commendable too, and I appreciated the staff's efforts in maintaining a hygienic space. One incident that really stood out to me was when I encountered a small issue with one of the machines. I approached a staff member and they walked with me to the machine right away and then told the maintenance team. I think what sets this gym apart from other places I've been is really the positive and motivating atmosphere. The members here are friendly and supportive, creating a sense of community that is often lacking in other gyms. The trainers are approachable and always willing to offer guidance, making sure that you get the most out of your workout routine. To sum it up, despite the negative feedback, my personal experience has been nothing but positive. I encourage anyone who might have been skeptical like I was to give it a chance. You might just be pleasantly surprised, just like I was! Overall, I highly recommend Fitness World Kingsway to anyone looking for a gym that offers quality equipment, helpful staff, and a welcoming atmosphere.",
+            "reviewer_name": "Aida Esmaeilidouki",
+            "rating": 5,
+            "review_text": "I was initially skeptical after hearing the negative feedback, but I decided to give it a shot and see what it was all about. I was greeted by friendly staff who were genuinely interested in helping me achieve my fitness goals. They took the time to understand my needs and provided valuable advice without pushing me into any unnecessary commitments. It was evident that they genuinely cared about creating a positive and inclusive environment for all members. The equipment at this gym is also really good, with a ton of options. The cleanliness of the gym was commendable too, and I appreciated the staff's efforts in maintaining a hygienic space. One incident that really stood out to me was when I encountered a small issue with one of the machines. I approached a staff member and they walked with me to the machine right away and then told the maintenance team. I think what sets this gym apart from other places I've been is really the positive and motivating atmosphere. The members here are friendly and supportive, creating a sense of community that is often lacking in other gyms. The trainers are approachable and always willing to offer guidance, making sure that you get the most out of your workout routine. To sum it up, despite the negative feedback, my personal experience has been nothing but positive. I encourage anyone who might have been skeptical like I was to give it a chance. You might just be pleasantly surprised, just like I was! Overall, I highly recommend Fitness World Kingsway to anyone looking for a gym that offers quality equipment, helpful staff, and a welcoming atmosphere.",
+            "published_at": "3 weeks ago",
+            "published_at_date": "2023-10-27T19:02:34.550000Z",
+            "response_from_owner_text": "That's great to hear, Aida! Thanks for sharing your feedback of our location, and so happy to hear that you're enjoying the ecosystem!",
+            "response_from_owner_ago": "2 weeks ago",
+            "response_from_owner_date": "2023-11-07T01:42:28.227000Z",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 3,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/107319145470732904927/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUvoRggm58uTWHt4T_sHPrl5Fb8UvyGcN1-U3VMGcPnkW8=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Love this gym. I had first experience of personal training with Parinaa here and it's the best choice I made this year. She has such a nice vibe to ease my anxiety at the gym and taught me many things in details. She's not only trains me but also motivates me with great positivity. That changed me a lot and very grateful for that. Love herrrr!!!",
+            "reviewer_name": "Yeongjin Byun (yeongjin)",
+            "rating": 5,
+            "review_text": "Love this gym. I had first experience of personal training with Parinaa here and it's the best choice I made this year. She has such a nice vibe to ease my anxiety at the gym and taught me many things in details. She's not only trains me but also motivates me with great positivity. That changed me a lot and very grateful for that. Love herrrr!!!",
+            "published_at": "a week ago",
+            "published_at_date": "2023-11-08T20:10:58.286000Z",
+            "response_from_owner_text": "Yessss -- love it, Yeongjin! This month is mental health awareness month here at Fitness World, which makes it even nicer to hear that you've noticed the benefits of dealing with anxiety around the gym. In our club, we try to provide the friendliest, supportive environment possble to help you achieve your goals -- so please let us know if there's ever anything else we can do for you moving forward as well :)\nKeep up the hard work Yeongjin!",
+            "response_from_owner_ago": "a day ago",
+            "response_from_owner_date": "2023-11-21T01:46:03.254000Z",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/108918419395100893925/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUEIHgsPhUamyYBfZy4739zwNGq2oXAlssN-C8jVLmtYJBD=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "This review is not related to this facility services but the pricing policies of Fitness World. There will always be a catch and a hidden charge, which they don't tell you, when you upgrade/degrade your membership or put your membership on hold. So please keep an eye on your card statement when you make any kind of membership changes with them.",
+            "reviewer_name": "Kb Sharma",
+            "rating": 1,
+            "review_text": "This review is not related to this facility services but the pricing policies of Fitness World. There will always be a catch and a hidden charge, which they don't tell you, when you upgrade/degrade your membership or put your membership on hold. So please keep an eye on your card statement when you make any kind of membership changes with them.",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-08-31T13:51:43.074000Z",
+            "response_from_owner_text": "Thanks for you comment, Kb!\n\nJust to remind you (and anyone else that might be interested to know of our sign-up process) -- for every member that signs up, including yourself, we explain (both verbally along with presenting the written agreement in front of you to read as well) the full details of your membership agreement. Only after you've read/listened to/understood your agreement do we collect your signature. If you would like a copy of the contract you signed and agreed to, we either print or provide a PDF version of the agreement. You would then have 10 days to review that contract, and if for any reason, you're not happy with it, you're welcome to cancel with a 100% return of your sign-up fees. \n\n\nIf you'd like a copy of that contract KB, please just give us a call and we can email it to you along with the signature on file :)\n\nRegardless, we're sad to hear that you had a poor experience, and we'll continue to do our best to let everyone of our members know the details of their agreement that they've chosen as best suitable for them.\n\nTake care, and wishing you the best of luck along your fitness journey!",
+            "response_from_owner_ago": "2 months ago",
+            "response_from_owner_date": "2023-08-25T16:59:44.439000Z",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 8,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/115425789692344882024/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIDXRTVV6-keIDUCNglWEZ8w2wh5qdEd8aPH_aVKBsv=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPENVcGW0zRgHcHyZBna6TZ8kWyoGxSLpTmMizQ=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Had very good experience in this gym Very nice gym, has so many locations , many equipments and staff is very friendly.\nI had my training with Parina  SHE is everything you need. Very nice, supportive trainer.",
+            "reviewer_name": "Kiranpreet Kaur",
+            "rating": 4,
+            "review_text": "Had very good experience in this gym Very nice gym, has so many locations , many equipments and staff is very friendly.\nI had my training with Parina  SHE is everything you need. Very nice, supportive trainer.",
+            "published_at": "2 weeks ago",
+            "published_at_date": "2023-11-07T20:57:40.414000Z",
+            "response_from_owner_text": "Thanks for the positive feedback, Kiranpreet!! Love to know you're enjoying your time with Parinaa as well! Please let us know if there's ever anything else we can do for you! :)",
+            "response_from_owner_ago": "a day ago",
+            "response_from_owner_date": "2023-11-21T01:55:29.986000Z",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 2,
+            "reviewer_url": "https://www.google.com/maps/contrib/117722738282938156172/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXJEXDQd_LJ2c8mSaH9mMFsG0IgiTJgjyt2nGJKIFLDdz0=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Great gym!\nI trained here during a business trip, felt excellent. atmosphere is motivative because 7:30AM there are quite a number of people started training. Al staffs are kind and supportive. Especially PT Emilio, he is passionate and professional, a few months after I left Vancouver, I'm still training myself with what he taught me.",
+            "reviewer_name": "Snow Helsing",
+            "rating": 5,
+            "review_text": "Great gym!\nI trained here during a business trip, felt excellent. atmosphere is motivative because 7:30AM there are quite a number of people started training. Al staffs are kind and supportive. Especially PT Emilio, he is passionate and professional, a few months after I left Vancouver, I'm still training myself with what he taught me.",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-08-24T03:56:33.272000Z",
+            "response_from_owner_text": "Thanks Snow! So glad to know you enjoyed your time here at Fitness World! And we agree -- our trainers are some of the best in the industry!! Wishing you nothing but the best moving forward with your health & fitness journey!! :)",
+            "response_from_owner_ago": "2 months ago",
+            "response_from_owner_date": "2023-08-25T15:51:05.546000Z",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/101080974312491458888/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUBaQL5OMkGkuryBWuUjlAyJpiEn3d2z4AVDSX_5xzozQ8=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Great gym with amazing trainers and manager. Dan was my personal trainer and he taught many things about strength training. He was very knowledgeable and would give us tips between the sets to improve our form. Nevertheless, he would also motivate to push further which is an important aspect of being a personal trainer.  Always had a fun session with Dan.",
+            "reviewer_name": "Viraj Parab",
+            "rating": 5,
+            "review_text": "Great gym with amazing trainers and manager. Dan was my personal trainer and he taught many things about strength training. He was very knowledgeable and would give us tips between the sets to improve our form. Nevertheless, he would also motivate to push further which is an important aspect of being a personal trainer.  Always had a fun session with Dan.",
+            "published_at": "5 months ago",
+            "published_at_date": "2023-06-19T15:51:08.539000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 3,
+            "total_number_of_reviews_by_reviewer": 5,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/114469124437863530939/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKaykIEdhGWbeJvKZTVlZzgeWBgZLh9KIPIK1hfXAXdZA=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "A good place for improving your health and body shape, all the staff here are really friendly and willing to help you. If you are a beginner for fitness and want to try, they also have many professional trainers to help you, highly recommends:)))",
+            "reviewer_name": "Ruby Hsieh",
+            "rating": 5,
+            "review_text": "A good place for improving your health and body shape, all the staff here are really friendly and willing to help you. If you are a beginner for fitness and want to try, they also have many professional trainers to help you, highly recommends:)))",
+            "published_at": "a week ago",
+            "published_at_date": "2023-11-10T18:48:31.350000Z",
+            "response_from_owner_text": "Hi Ruby! Thanks for the nice comment and so glad to hear you're enjoying your time at the club! Please let us know if there's ever anything else we can do to maintain a 5-star experience as well!! :)",
+            "response_from_owner_ago": "a day ago",
+            "response_from_owner_date": "2023-11-21T01:35:14.572000Z",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 3,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/111698632216926850481/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUhCMVWeC0-rwVqDunhUhzRcSF3VbMr05VOcvhDuUHoTLU=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

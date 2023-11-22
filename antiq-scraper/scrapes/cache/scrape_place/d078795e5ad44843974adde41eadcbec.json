@@ -1,0 +1,135 @@
+{
+    "place_id": "ChIJUczHCcJzhlQRpBd8n7SAo10",
+    "name": "Kids in General Child Development Centre",
+    "description": null,
+    "reviews": null,
+    "website": "https://www.develop.bc.ca/programs/children-and-youth/",
+    "owner": {
+        "id": "112715180876596765218",
+        "name": "Kids in General Child Development Centre (Owner)",
+        "link": "https://www.google.com/maps/contrib/112715180876596765218"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNnxSVIxvIt_oWcWnkJ7gz-VdyD616TDXDCfcoH=w408-h272-k-no",
+    "main_category": "Day care center",
+    "categories": [
+        "Day care center"
+    ],
+    "rating": null,
+    "workday_timing": "7:30 a.m.-5:45 p.m.",
+    "closed_on": [
+        "Saturday",
+        "Sunday"
+    ],
+    "phone": "(604) 875-5699",
+    "address": "Kids in General Child Development Centre, 889 W 13th Ave, Vancouver, BC V5Z 4S5",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/Kids+in+General+Child+Development+Centre/data=!4m7!3m6!1s0x548673c209c7cc51:0x5da380b49f7c17a4!8m2!3d49.2597254!4d-123.1234142!16s%2Fg%2F11cs9y_w_l!19sChIJUczHCcJzhlQRpBd8n7SAo10?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 7:30 a.m.",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJUczHCcJzhlQRpBd8n7SAo10&q=Kids+in+General+Child+Development+Centre&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.2597254,
+        "longitude": -123.1234142
+    },
+    "plus_code": "7V5G+VJ Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "West Side",
+        "street": "889 W 13th Ave",
+        "city": "Vancouver",
+        "postal_code": "V5Z 4S5",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "6747378179989313444",
+    "data_id": "0x548673c209c7cc51:0x5da380b49f7c17a4",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNnxSVIxvIt_oWcWnkJ7gz-VdyD616TDXDCfcoH=w446-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMcXXyARe4gZwtTUofrs0hdmwM8d1xC5AWQfkwD=w447-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=C9JvY84QXO7KUxTb9mlFBg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=320.8619&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "7:30 a.m.-5:45 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "7:30 a.m.-5:45 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "7:30 a.m.-5:45 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "7:30 a.m.-5:45 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "7:30 a.m.-5:45 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "Closed"
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "Closed"
+            ]
+        }
+    ],
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

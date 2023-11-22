@@ -1,0 +1,91 @@
+{
+    "place_id": "ChIJ2X7YxEBxhlQRGKagbt_DMqU",
+    "name": "Maple Supply Company Ltd.",
+    "description": null,
+    "reviews": 1,
+    "website": "https://www.mapleco.ca/",
+    "owner": {
+        "id": null,
+        "name": "Maple Supply Company Ltd. (Owner)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ayvs8jxUhJu6f_3tn6akEQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=42.64413&pitch=0&thumbfov=100",
+    "main_category": "Manufacturer",
+    "categories": [
+        "Manufacturer"
+    ],
+    "rating": 3,
+    "workday_timing": null,
+    "closed_on": [],
+    "phone": null,
+    "address": "Maple Supply Company Ltd., 207 W Hastings St #614, Vancouver, BC V6B 1H7",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/Maple+Supply+Company+Ltd./data=!4m7!3m6!1s0x54867140c4d87ed9:0xa532c3df6ea0a618!8m2!3d49.2829788!4d-123.1096973!16s%2Fg%2F11h39rfb7r!19sChIJ2X7YxEBxhlQRGKagbt_DMqU?authuser=0&hl=en&rclk=1",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 1,
+        "4": 0,
+        "5": 0
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ2X7YxEBxhlQRGKagbt_DMqU&q=Maple+Supply+Company+Ltd.&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.282978799999995,
+        "longitude": -123.1096973
+    },
+    "plus_code": "7VMR+54 Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "Downtown Vancouver",
+        "street": "207 W Hastings St #614",
+        "city": "Vancouver",
+        "postal_code": "V6B 1H7",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "11903792129494787608",
+    "data_id": "0x54867140c4d87ed9:0xa532c3df6ea0a618",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ayvs8jxUhJu6f_3tn6akEQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=42.64413&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ayvs8jxUhJu6f_3tn6akEQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=42.64413&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "featured_reviews": [
+        {
+            "review_id": "Centrally located. Close to transit.",
+            "reviewer_name": "Jay Holtslander",
+            "rating": 3,
+            "review_text": "Centrally located. Close to transit.",
+            "published_at": "4 years ago",
+            "published_at_date": "2019-01-29T09:27:01.899000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 236,
+            "total_number_of_photos_by_reviewer": 1208,
+            "reviewer_url": "https://www.google.com/maps/contrib/112278952869329204333/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVvk16m-vPLFoerOu2cPx10StoG23WTjjDA74uu9KBba4lm=s120-c-rp-mo-ba6-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

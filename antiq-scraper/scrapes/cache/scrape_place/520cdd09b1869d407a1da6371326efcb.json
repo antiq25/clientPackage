@@ -1,0 +1,346 @@
+{
+    "place_id": "ChIJYfBdm152hlQRvO53tDPDPjE",
+    "name": "J-Von Family Medical Centre-Not Walk-In Clinic",
+    "description": null,
+    "reviews": 301,
+    "website": "http://www.jvonmedicals.ca/",
+    "owner": {
+        "id": "108041646864568003909",
+        "name": "J-Von Family Medical Centre-Not Walk-In Clinic (Owner)",
+        "link": "https://www.google.com/maps/contrib/108041646864568003909"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMW97RJ0TBwUVK9C5sgEt2_AixeilOrPDujmTRt=w408-h544-k-no",
+    "main_category": "Medical clinic",
+    "categories": [
+        "Medical clinic"
+    ],
+    "rating": 3.3,
+    "workday_timing": "9 a.m.-4 p.m.",
+    "closed_on": [
+        "Sunday"
+    ],
+    "phone": "(778) 379-8299",
+    "address": "J-Von Family Medical Centre-Not Walk-In Clinic, 4468 Beresford St., Burnaby, BC V5H 2Y8",
+    "review_keywords": [
+        {
+            "keyword": "receptionist",
+            "count": 48
+        },
+        {
+            "keyword": "attitude",
+            "count": 19
+        },
+        {
+            "keyword": "front desk",
+            "count": 18
+        },
+        {
+            "keyword": "family doctor",
+            "count": 16
+        },
+        {
+            "keyword": "call",
+            "count": 13
+        },
+        {
+            "keyword": "system",
+            "count": 8
+        },
+        {
+            "keyword": "rude",
+            "count": 6
+        },
+        {
+            "keyword": "patience",
+            "count": 6
+        },
+        {
+            "keyword": "manners",
+            "count": 6
+        },
+        {
+            "keyword": "report",
+            "count": 5
+        }
+    ],
+    "link": "https://www.google.com/maps/place/J-Von+Family+Medical+Centre-Not+Walk-In+Clinic/data=!4m7!3m6!1s0x5486765e9b5df061:0x313ec333b477eebc!8m2!3d49.2252215!4d-123.0038555!16s%2Fg%2F11b7wn73vz!19sChIJYfBdm152hlQRvO53tDPDPjE?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 9 a.m.",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 115,
+        "2": 13,
+        "3": 6,
+        "4": 15,
+        "5": 152
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJYfBdm152hlQRvO53tDPDPjE&q=J-Von+Family+Medical+Centre-Not+Walk-In+Clinic&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.225221499999996,
+        "longitude": -123.0038555
+    },
+    "plus_code": "6XGW+3F Burnaby, British Columbia",
+    "detailed_address": {
+        "ward": "Metrotown",
+        "street": "4468 Beresford St.",
+        "city": "Burnaby",
+        "postal_code": "V5H 2Y8",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "3548488183253036732",
+    "data_id": "0x5486765e9b5df061:0x313ec333b477eebc",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMW97RJ0TBwUVK9C5sgEt2_AixeilOrPDujmTRt=w224-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=i2h0grJU9efMTKeqBhqQzw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=201.90294&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "9 a.m.-4 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "9 a.m.-4 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "9 a.m.-4 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "9 a.m.-4 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "9 a.m.-4 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "9 a.m.-4 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "Closed"
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "This place's reception and customer service is insane. Trying to cancel an appointment is nearly impossible - they expect you to notify them 24 hours ahead to cancel your appointment otherwise will charge you a fee, but when you go to cancel online the online booking says unable to cancel due to being <48hrs and to call the clinic to cancel? Then if you try calling, they don't answer their phone because their hours to pick up the phone is 9-12? Because of covid?? They are always rude whenever I tried booking or calling about anything. I had to get a form filled out by my doctor which she was willing to do as it was healthcare work related, then when I call the office the receptionist doesn't allow me to speak to her or let me get the form filled unless I pay 40$? After speaking with my doctor directly she didn't even mention a charge being needed. They seriously need to rethink how they deliver patient centred care as their clinic is far from that.",
+            "reviewer_name": "sweet Lemon",
+            "rating": 1,
+            "review_text": "This place's reception and customer service is insane. Trying to cancel an appointment is nearly impossible - they expect you to notify them 24 hours ahead to cancel your appointment otherwise will charge you a fee, but when you go to cancel online the online booking says unable to cancel due to being <48hrs and to call the clinic to cancel? Then if you try calling, they don't answer their phone because their hours to pick up the phone is 9-12? Because of covid?? They are always rude whenever I tried booking or calling about anything. I had to get a form filled out by my doctor which she was willing to do as it was healthcare work related, then when I call the office the receptionist doesn't allow me to speak to her or let me get the form filled unless I pay 40$? After speaking with my doctor directly she didn't even mention a charge being needed. They seriously need to rethink how they deliver patient centred care as their clinic is far from that.",
+            "published_at": "4 weeks ago",
+            "published_at_date": "2023-10-24T22:33:04.591000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/111666861556199005049/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocI_vBQDJTsy0UzUnd79fSAZPdxA0VMerNqDCIyu_JHz=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "I agree with the previous review author that I would also give zero stars.\n\nI have been to this clinic since 2018. While my doctor is fantastic, the receptionists are extremely rude, impatient, and disrespectful, whether the communication is on the phone or in person.\n\nMy doctor only works on Tuesdays and Thursdays, and the clinic is supposed to take same-day appointments from 9 am -12 noon. I called to book an appointment with my doctor. The receptionist asked me what's the reason. I have been coughing for over a week and tested negative for COVID multiple times. Sometimes when I cough a lot, it is hard to breathe. The receptionist replied, \"GO URGENT CARE!!\" Then she hung up on me.\n\nThe worst interaction ever! No patients deserve to be yelled at when they feel ill and need care. I wanted to book an appointment because I did not want to go to urgent care and put extra pressure on the hospital. I want to save it for those who really need it. Health care is a public good. It is morally wrong for clinics to choose what patients to take. I agree with all the previous reviews that J-Von only wants your money. This clinic does not really care about your health.\n\nMy doctor is quitting soon, and I will not miss this clinic.",
+            "reviewer_name": "Joey Lam",
+            "rating": 1,
+            "review_text": "I agree with the previous review author that I would also give zero stars.\n\nI have been to this clinic since 2018. While my doctor is fantastic, the receptionists are extremely rude, impatient, and disrespectful, whether the communication is on the phone or in person.\n\nMy doctor only works on Tuesdays and Thursdays, and the clinic is supposed to take same-day appointments from 9 am -12 noon. I called to book an appointment with my doctor. The receptionist asked me what's the reason. I have been coughing for over a week and tested negative for COVID multiple times. Sometimes when I cough a lot, it is hard to breathe. The receptionist replied, \"GO URGENT CARE!!\" Then she hung up on me.\n\nThe worst interaction ever! No patients deserve to be yelled at when they feel ill and need care. I wanted to book an appointment because I did not want to go to urgent care and put extra pressure on the hospital. I want to save it for those who really need it. Health care is a public good. It is morally wrong for clinics to choose what patients to take. I agree with all the previous reviews that J-Von only wants your money. This clinic does not really care about your health.\n\nMy doctor is quitting soon, and I will not miss this clinic.",
+            "published_at": "5 months ago",
+            "published_at_date": "2023-06-17T16:08:27.332000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 15,
+            "total_number_of_reviews_by_reviewer": 52,
+            "total_number_of_photos_by_reviewer": 149,
+            "reviewer_url": "https://www.google.com/maps/contrib/108075297415715114644/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJsdjuA-Q8B4iMuUMqFWb9I0OAx4LPv-N6iRUGSKXDI=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Their doctors and staffs are very helpful and professional. The doctor prescribed me to do the ultrasound,receptionist gave me the instruction how to book easily and faster. Once they received my report they called me and arranged me to see the doctor. Also they are so friendly and nice.",
+            "reviewer_name": "Tan Jinyuan",
+            "rating": 5,
+            "review_text": "Their doctors and staffs are very helpful and professional. The doctor prescribed me to do the ultrasound,receptionist gave me the instruction how to book easily and faster. Once they received my report they called me and arranged me to see the doctor. Also they are so friendly and nice.",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-06T18:56:12.812000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 4,
+            "total_number_of_reviews_by_reviewer": 3,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/100304167995517554992/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjV3CyfD36_quwIz_rlkTjENm6RMA-j77cTsRm1mtpEriew=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Reception is vey impatient and rude; the whole clinic never think from the patients' perspective. They don't care if the patient is very sick or anything, all they care is to get off work on time. The appointment never starts on time, and they take this as granted. But if you let them wait for even one minute, they will call you rudely asking why not showing up on time.\nThe communication is bad too. It happened to me twice that they conveyed the wrong thing, but they blamed me???",
+            "reviewer_name": "Y L",
+            "rating": 1,
+            "review_text": "Reception is vey impatient and rude; the whole clinic never think from the patients' perspective. They don't care if the patient is very sick or anything, all they care is to get off work on time. The appointment never starts on time, and they take this as granted. But if you let them wait for even one minute, they will call you rudely asking why not showing up on time.\nThe communication is bad too. It happened to me twice that they conveyed the wrong thing, but they blamed me???",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-10T01:58:02.197000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 6,
+            "total_number_of_reviews_by_reviewer": 5,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/106569980619479772406/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLqhnQlV3lxFK4xCDAg62LmsySSqY-CLXol-KYwahPO=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "This clinic is conveniently located, just a few steps away from where we get off. The doctors are highly professional, quickly identifying the cause of the illness and providing appropriate treatment. They explained the diagnosis report in great detail. The receptionist at the front desk is polite and patient, helping us make appointments efficiently.",
+            "reviewer_name": "viva pan",
+            "rating": 5,
+            "review_text": "This clinic is conveniently located, just a few steps away from where we get off. The doctors are highly professional, quickly identifying the cause of the illness and providing appropriate treatment. They explained the diagnosis report in great detail. The receptionist at the front desk is polite and patient, helping us make appointments efficiently.",
+            "published_at": "5 months ago",
+            "published_at_date": "2023-06-08T18:13:11.822000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 6,
+            "total_number_of_reviews_by_reviewer": 10,
+            "total_number_of_photos_by_reviewer": 287,
+            "reviewer_url": "https://www.google.com/maps/contrib/105054257378593973142/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIcAoWyVjA9Vq_Hz7gG5sTn8cKsXmxoq8UQq71WdS1O=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "My friend recommended me this clinic and said easy to book and dr are nice. However, they changed \"not a walk-in\"clinic since when. I booked the appointment yesterday and thought i was booked in but realized was not at all until I called this morning. Their online system is not professional and efficient. Plus Covid19 was already not an excuse to stop patient going to the clinic. Patients needed to be taken care of!!!",
+            "reviewer_name": "Cherrill L",
+            "rating": 1,
+            "review_text": "My friend recommended me this clinic and said easy to book and dr are nice. However, they changed \"not a walk-in\"clinic since when. I booked the appointment yesterday and thought i was booked in but realized was not at all until I called this morning. Their online system is not professional and efficient. Plus Covid19 was already not an excuse to stop patient going to the clinic. Patients needed to be taken care of!!!",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-01T16:55:59.613000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 5,
+            "total_number_of_reviews_by_reviewer": 25,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/102151705753060919557/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLS7pzSqA4v-7Mh_-t3TjpV4EY4QcphFugkVr3wnfQX=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Doctors and staffs are extremely helpful and professional. The receptionists are always amazing. I'm not familiar with their online booking system, they took their time, patiently and show me how to book it step by step. Doctors answer all my questions without rushing me out, and the wait wasn't too long. I always leave impressed.",
+            "reviewer_name": "C L",
+            "rating": 5,
+            "review_text": "Doctors and staffs are extremely helpful and professional. The receptionists are always amazing. I'm not familiar with their online booking system, they took their time, patiently and show me how to book it step by step. Doctors answer all my questions without rushing me out, and the wait wasn't too long. I always leave impressed.",
+            "published_at": "5 months ago",
+            "published_at_date": "2023-06-08T19:35:05.560000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 7,
+            "total_number_of_reviews_by_reviewer": 7,
+            "total_number_of_photos_by_reviewer": 6,
+            "reviewer_url": "https://www.google.com/maps/contrib/107170796064482227846/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJZK4tFSxCy5D5m2W9YPHV53V_QHdtnODsBl8R49gNT=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "J-Von Medical Clinic impressed me with their prompt response and efficient service. Upon receiving the lab results from my x-ray test, they quickly scheduled a follow-up doctor appointment. I really appreciate their extra care for me. Their commitment to promptness and attentive service is commendable.",
+            "reviewer_name": "Hongfang Gu",
+            "rating": 5,
+            "review_text": "J-Von Medical Clinic impressed me with their prompt response and efficient service. Upon receiving the lab results from my x-ray test, they quickly scheduled a follow-up doctor appointment. I really appreciate their extra care for me. Their commitment to promptness and attentive service is commendable.",
+            "published_at": "5 months ago",
+            "published_at_date": "2023-06-02T00:59:33.166000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 5,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/116372283900725850083/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLSzpU0VuX8w9ZSlMVpKOeVR4KH7GMCRSvqjoUAx2br=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

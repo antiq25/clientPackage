@@ -1,0 +1,71 @@
+{
+    "place_id": "ChIJsfcEE8xzhlQRJh4r9z_bs7s",
+    "name": "Howe Sound Seafood",
+    "description": null,
+    "reviews": null,
+    "website": "http://www.goodfish.co/",
+    "owner": {
+        "id": null,
+        "name": "Howe Sound Seafood (Owner)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=DWF95lx1ZeJj0zq3qCqWyA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=98.3669&pitch=0&thumbfov=100",
+    "main_category": "Seafood market",
+    "categories": [
+        "Seafood market",
+        "Seafood wholesaler"
+    ],
+    "rating": null,
+    "workday_timing": null,
+    "closed_on": [],
+    "phone": "(604) 902-5504",
+    "address": "Howe Sound Seafood, 1505 W 1st Ave #75, Vancouver, BC V6J 1E8",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/Howe+Sound+Seafood/data=!4m7!3m6!1s0x548673cc1304f7b1:0xbbb3db3ff72b1e26!8m2!3d49.2724962!4d-123.1410042!16s%2Fg%2F11fl79rbtt!19sChIJsfcEE8xzhlQRJh4r9z_bs7s?authuser=0&hl=en&rclk=1",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJsfcEE8xzhlQRJh4r9z_bs7s&q=Howe+Sound+Seafood&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.2724962,
+        "longitude": -123.1410042
+    },
+    "plus_code": "7VC5+XH Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "West Side",
+        "street": "1505 W 1st Ave #75",
+        "city": "Vancouver",
+        "postal_code": "V6J 1E8",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "13525395173699952166",
+    "data_id": "0x548673cc1304f7b1:0xbbb3db3ff72b1e26",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=DWF95lx1ZeJj0zq3qCqWyA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=98.3669&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=DWF95lx1ZeJj0zq3qCqWyA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=98.3669&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

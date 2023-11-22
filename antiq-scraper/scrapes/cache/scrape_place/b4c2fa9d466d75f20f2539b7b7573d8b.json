@@ -1,0 +1,577 @@
+{
+    "place_id": "ChIJgT1F23tzhlQRXBrTML1ykpE",
+    "name": "Fish Cafe",
+    "description": "Low-key restaurant offering an all-seafood menu with a choice of cooking methods & sauces.",
+    "reviews": 284,
+    "website": "http://fish-cafe.ca/",
+    "owner": {
+        "id": "107955805413423037889",
+        "name": "Fish Cafe (Owner)",
+        "link": "https://www.google.com/maps/contrib/107955805413423037889"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNvuTaRQ-t2uIrg-bL0k2j5buUKfIGJlwZCt9uw=w426-h240-k-no",
+    "main_category": "Restaurant",
+    "categories": [
+        "Restaurant"
+    ],
+    "rating": 4.4,
+    "workday_timing": "11:30 a.m.-2 p.m., 5-8 p.m.",
+    "closed_on": [
+        "Monday"
+    ],
+    "phone": "(604) 267-3474",
+    "address": "Fish Cafe, 2053 W 41st Ave, Vancouver, BC V6M 1Y7",
+    "review_keywords": [
+        {
+            "keyword": "fish and chips",
+            "count": 38
+        },
+        {
+            "keyword": "calamari",
+            "count": 21
+        },
+        {
+            "keyword": "blackened",
+            "count": 21
+        },
+        {
+            "keyword": "fish soup",
+            "count": 9
+        },
+        {
+            "keyword": "cod",
+            "count": 9
+        },
+        {
+            "keyword": "scallops",
+            "count": 8
+        },
+        {
+            "keyword": "steelhead",
+            "count": 8
+        },
+        {
+            "keyword": "snapper",
+            "count": 8
+        },
+        {
+            "keyword": "clam chowder",
+            "count": 7
+        },
+        {
+            "keyword": "tartar sauce",
+            "count": 6
+        }
+    ],
+    "link": "https://www.google.com/maps/place/Fish+Caf%C3%A9/data=!4m7!3m6!1s0x5486737bdb453d81:0x919272bd30d31a5c!8m2!3d49.2346877!4d-123.1535186!16s%2Fg%2F1tfy_tfj!19sChIJgT1F23tzhlQRXBrTML1ykpE?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 11:30 a.m.",
+    "price_range": "$$",
+    "reviews_per_rating": {
+        "1": 19,
+        "2": 9,
+        "3": 11,
+        "4": 51,
+        "5": 194
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJgT1F23tzhlQRXBrTML1ykpE&q=Fish+Caf%C3%A9&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.234687699999995,
+        "longitude": -123.1535186
+    },
+    "plus_code": "6RMW+VH Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "West Side",
+        "street": "2053 W 41st Ave",
+        "city": "Vancouver",
+        "postal_code": "V6M 1Y7",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "10489572638992833116",
+    "data_id": "0x5486737bdb453d81:0x919272bd30d31a5c",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Outdoor seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Takeout",
+                    "enabled": true
+                },
+                {
+                    "name": "Dine-in",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair accessible seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible washroom",
+                    "enabled": true
+                },
+                {
+                    "name": "Assistive hearing loop",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Alcohol",
+                    "enabled": true
+                },
+                {
+                    "name": "Beer",
+                    "enabled": true
+                },
+                {
+                    "name": "Cocktails",
+                    "enabled": true
+                },
+                {
+                    "name": "Coffee",
+                    "enabled": true
+                },
+                {
+                    "name": "Hard liquor",
+                    "enabled": true
+                },
+                {
+                    "name": "Healthy options",
+                    "enabled": true
+                },
+                {
+                    "name": "Wine",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Dining options",
+            "options": [
+                {
+                    "name": "Lunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Dinner",
+                    "enabled": true
+                },
+                {
+                    "name": "Dessert",
+                    "enabled": true
+                },
+                {
+                    "name": "Seating",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosphere",
+            "options": [
+                {
+                    "name": "Casual",
+                    "enabled": true
+                },
+                {
+                    "name": "Cozy",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "crowd",
+            "name": "Crowd",
+            "options": [
+                {
+                    "name": "Family-friendly",
+                    "enabled": true
+                },
+                {
+                    "name": "Groups",
+                    "enabled": true
+                },
+                {
+                    "name": "LGBTQ+ friendly",
+                    "enabled": true
+                },
+                {
+                    "name": "Transgender safe space",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planning",
+            "options": [
+                {
+                    "name": "Accepts reservations",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "children",
+            "name": "Children",
+            "options": [
+                {
+                    "name": "Good for kids",
+                    "enabled": true
+                },
+                {
+                    "name": "High chairs",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNvuTaRQ-t2uIrg-bL0k2j5buUKfIGJlwZCt9uw=w529-h298-k-no"
+        },
+        {
+            "about": "Latest",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPQ_fdDYzWNaEXYV18GwJPhhR6Bi24fI-9Yd3z5=w397-h298-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOJMuYFu3XDDpxHNZ30WDkrnquPQ0OkKhjFlXYG=w224-h398-k-no"
+        },
+        {
+            "about": "Menu",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipP5GRIU2QcYweJfoLvylF7bwfEu5IzLo3jt3lou=w529-h298-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPr30jY-Lhkz70hXGhoU8QDQj4wHX3RJkAqebRt=w397-h298-k-no"
+        },
+        {
+            "about": "Vibe",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNLR60DtQsbuimkkDvOmM1AsIH3qkLoHFV_lVB2=w529-h298-k-no"
+        },
+        {
+            "about": "Take-out",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNydQAdXnz9EERMTbWtSMpfQtFjoGSNDHX98ZU4=w397-h298-k-no"
+        },
+        {
+            "about": "Fish and chips",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPY-UVp07Z8GbULp0_6UMoCEjh7fE3hqn7yflKY=w224-h298-k-no"
+        },
+        {
+            "about": "French fries",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPwsLOKMZqeqfm4qY2gkPsLKw4jksKsIegE34MV=w529-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipP--bE0U8XWT6om_pzfYbmC97cSsiIkogAgv0kJ=w327-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=TkBwHrF8QOc_t8jkJ05BVQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=23.770247&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "Closed"
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "11:30 a.m.-2 p.m.",
+                "5-8 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "11:30 a.m.-2 p.m.",
+                "5-8 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "11:30 a.m.-2 p.m.",
+                "5-8 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "11:30 a.m.-2 p.m.",
+                "5-8 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "11:30 a.m.-2 p.m.",
+                "5-8 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "5-8 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "I ordered Cod with fries and tartar sauce tonight and it caused me around 25 dollars or so. To be honest it's a little bit expensive to me as a student, but the food and its taste is definitely worth the price. The fish is fresh and tartar sauce is delicious and flavorful I'm so into it after the first taste.  I will probably pay Fish Cafe a second visit.",
+            "reviewer_name": "Coffee Duck",
+            "rating": 5,
+            "review_text": "I ordered Cod with fries and tartar sauce tonight and it caused me around 25 dollars or so. To be honest it's a little bit expensive to me as a student, but the food and its taste is definitely worth the price. The fish is fresh and tartar sauce is delicious and flavorful I'm so into it after the first taste.  I will probably pay Fish Cafe a second visit.",
+            "published_at": "2 weeks ago",
+            "published_at_date": "2023-11-04T03:02:19.067000Z",
+            "response_from_owner_text": "Hi thank you for your very kind words and for visiting us, next time you come in come and say hello, I'll make sure to give you a better deal",
+            "response_from_owner_ago": "2 weeks ago",
+            "response_from_owner_date": "2023-11-04T20:41:29.917000Z",
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 3,
+            "total_number_of_photos_by_reviewer": 2,
+            "reviewer_url": "https://www.google.com/maps/contrib/100471023421661556379/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUNwRb_shbn992GeQ4v7wVcwNhdVr7Z2fIc6pZMECbjZg=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPQ_fdDYzWNaEXYV18GwJPhhR6Bi24fI-9Yd3z5=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Was running errand in the area. We actually waited over 30 minutes for them to open, it was well worth it!\n\nWe got 3pcs snapper fish&chips! Good portion! The batter was crispy, fish was moist, perfectly seasoned! It was soooooo good, really hit the spot! Tartar sauce was light and refreshing, not heavy at all. I craved this again 3-4 times that same day, I'm still thinking about it today!\n\nWe also got the scallop, grilled, over rice, with garlic butter! Scallop was also perfectly cooked! Sweet and juicy! I enjoyed dipping the scallop in the butter and adding tartar sauce to the rice for the perfect bite!\n\nFood was a little slow but we went right when they open so it was understandable. I appreciate that the chef take his time to prepare the food properly instead of rushing them out.\n\nService was friendly and casual, very warm and welcoming! We enjoyed our conversation with them and our time there. This was also the first time we took our puppy to a restaurant, we were glad it was a pleasant experience.\n\nTheir supplies came late that day and we couldn't order what we originally wanted, but we would definitely be back for other dishes. What we ended up ordering turn out great though, so no complain there! But next time we want to try cod fish& chips, grilled calamari, and clam chowder. :)\n\nWe wish they have deep fried oysters too, I think it will be amazing!",
+            "reviewer_name": "Pearobearo",
+            "rating": 5,
+            "review_text": "Was running errand in the area. We actually waited over 30 minutes for them to open, it was well worth it!\n\nWe got 3pcs snapper fish&chips! Good portion! The batter was crispy, fish was moist, perfectly seasoned! It was soooooo good, really hit the spot! Tartar sauce was light and refreshing, not heavy at all. I craved this again 3-4 times that same day, I'm still thinking about it today!\n\nWe also got the scallop, grilled, over rice, with garlic butter! Scallop was also perfectly cooked! Sweet and juicy! I enjoyed dipping the scallop in the butter and adding tartar sauce to the rice for the perfect bite!\n\nFood was a little slow but we went right when they open so it was understandable. I appreciate that the chef take his time to prepare the food properly instead of rushing them out.\n\nService was friendly and casual, very warm and welcoming! We enjoyed our conversation with them and our time there. This was also the first time we took our puppy to a restaurant, we were glad it was a pleasant experience.\n\nTheir supplies came late that day and we couldn't order what we originally wanted, but we would definitely be back for other dishes. What we ended up ordering turn out great though, so no complain there! But next time we want to try cod fish& chips, grilled calamari, and clam chowder. :)\n\nWe wish they have deep fried oysters too, I think it will be amazing!",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-12T18:33:23.981000Z",
+            "response_from_owner_text": "Thank you so much, please come and run some errands in our area so we can spoil you again soon",
+            "response_from_owner_ago": "4 months ago",
+            "response_from_owner_date": "2023-07-12T19:33:20.157000Z",
+            "review_likes_count": 4,
+            "total_number_of_reviews_by_reviewer": 57,
+            "total_number_of_photos_by_reviewer": 150,
+            "reviewer_url": "https://www.google.com/maps/contrib/103337500791791613284/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjV9sSwK2wrLbeBZhkdX8iqVTxXLq-53rgiSLeUbSmztAA=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOJMuYFu3XDDpxHNZ30WDkrnquPQ0OkKhjFlXYG=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOsE30lam49EGJUjkhUH-Pa2RcUiLqNjMBqfWja=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMyyoHq-pJbBUrnfFNU7gowtKERd9ckOMaRi7J2=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOyxjTfgv4kKZyY8ptkDeBdTqsiM1vTg6f6HqA5=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPTvhXMGguqE_4DjXgdDwZSxsfv73rRjuIuZkO4=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPWSQm52TmIoA1gjD71gnueN8LTyxJ_Oy5gxTea=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNz1Z9tHd1B9ifn2lMdua0GZAkTUwS1bGlBGYEo=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMPEiK4qp23uzxaczbyLhWyEi3kF66yfhKh4mGw=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Local restaurant with world class food.\n\nChef Marcus is personable and goes out of his way to make sure you are taken care of.\n\nThe fish grilled or blackened is always delicious. However, the calamari appetizer will always remain my favorite.",
+            "reviewer_name": "Osc W",
+            "rating": 5,
+            "review_text": "Local restaurant with world class food.\n\nChef Marcus is personable and goes out of his way to make sure you are taken care of.\n\nThe fish grilled or blackened is always delicious. However, the calamari appetizer will always remain my favorite.",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-07-28T06:07:35.280000Z",
+            "response_from_owner_text": "Thank you so much for this, but we cannot forget the 'team' behind this servers, dishwashers etc",
+            "response_from_owner_ago": "3 months ago",
+            "response_from_owner_date": "2023-07-28T06:51:14.349000Z",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 9,
+            "total_number_of_photos_by_reviewer": 289,
+            "reviewer_url": "https://www.google.com/maps/contrib/115327404332885582499/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVSl22-nAqz-vUtgh3lKq4n4BkZeT8h6pGYSezV6m6GRw=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNA9krX4_VsrpIUnSAxRp9o5fyzc_QWHnq72Fno=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "OMG! The food was amazing! We got the halibut sandwich, fish soup, snapper with fries - yum!\nDefinitely coming back!",
+            "reviewer_name": "Alena Baranova-Mokhort",
+            "rating": 5,
+            "review_text": "OMG! The food was amazing! We got the halibut sandwich, fish soup, snapper with fries - yum!\nDefinitely coming back!",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-19T20:57:47.270000Z",
+            "response_from_owner_text": "WOW !! Thanks a lot",
+            "response_from_owner_ago": "2 months ago",
+            "response_from_owner_date": "2023-09-19T21:35:01.099000Z",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 37,
+            "total_number_of_photos_by_reviewer": 3,
+            "reviewer_url": "https://www.google.com/maps/contrib/104119057298067151260/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXIege1GL-ATLoCvouTj6kgkQ4yq3ESuxOTSAZSwX8tHnc=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNtQSXcrmOb2AGt4h4EzKdYVnc-A-tsmeU7FjvS=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "This is the little \"hole in the wall\" people drive for great distances to enjoy. The Snapper Fish and Chips is a whole body and brain experience. It awakens pleasure centres deep in my brain.\n\nThe staff creates a happy vibe from the ground up and I really enjoyed dining outside on their tiny terrace.",
+            "reviewer_name": "Robb Powell",
+            "rating": 5,
+            "review_text": "This is the little \"hole in the wall\" people drive for great distances to enjoy. The Snapper Fish and Chips is a whole body and brain experience. It awakens pleasure centres deep in my brain.\n\nThe staff creates a happy vibe from the ground up and I really enjoyed dining outside on their tiny terrace.",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-14T00:55:40.798000Z",
+            "response_from_owner_text": "WOW!!! Thank you so much for your very kind words, and thanks for recognizing what an important role our servers played in your overall experience.",
+            "response_from_owner_ago": "4 months ago",
+            "response_from_owner_date": "2023-07-14T17:17:32.048000Z",
+            "review_likes_count": 4,
+            "total_number_of_reviews_by_reviewer": 64,
+            "total_number_of_photos_by_reviewer": 58,
+            "reviewer_url": "https://www.google.com/maps/contrib/110679480107634124667/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVF4bGFWwELvDi-7RGnMUdpIijIcL1e9YowdDZr37nqMBE=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPCvOzJoDZ-hcCJ1mm-m0Ib_JEG72jKMYGwOgM=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Great neighborhood restaurant.  I like the blackened fish with lemon butter sauce on the side. The fries are worth the calories here. If you're craving fish and chips make sure you eat here. They offer take out here.  Parking meters on 41st Ave is usually very easy.",
+            "reviewer_name": "Marni K",
+            "rating": 5,
+            "review_text": "Great neighborhood restaurant.  I like the blackened fish with lemon butter sauce on the side. The fries are worth the calories here. If you're craving fish and chips make sure you eat here. They offer take out here.  Parking meters on 41st Ave is usually very easy.",
+            "published_at": "6 days ago",
+            "published_at_date": "2023-11-15T19:30:19.401000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 4,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/117300633099043046763/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIMilOL6A8nXJbSGAnjMApRkOYGxDZO5VcGcr5xQVva=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "It was an incredible experience dining here. Food was great, we had fish n chips and caesar salad.\nChef and both waitresses were so kind and welcoming. It was a lovely experience.\nI just moved to Vancouver and this restaurant has definitely become my goto place.",
+            "reviewer_name": "Qasim Shahzad",
+            "rating": 5,
+            "review_text": "It was an incredible experience dining here. Food was great, we had fish n chips and caesar salad.\nChef and both waitresses were so kind and welcoming. It was a lovely experience.\nI just moved to Vancouver and this restaurant has definitely become my goto place.",
+            "published_at": "6 months ago",
+            "published_at_date": "2023-05-06T07:25:50.191000Z",
+            "response_from_owner_text": "Thank you very much for your kind words, welcome to Vancouver. ",
+            "response_from_owner_ago": "6 months ago",
+            "response_from_owner_date": "2023-05-06T14:33:45.766000Z",
+            "review_likes_count": 3,
+            "total_number_of_reviews_by_reviewer": 31,
+            "total_number_of_photos_by_reviewer": 8,
+            "reviewer_url": "https://www.google.com/maps/contrib/103878013926184579726/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUc6DW_uCbpjmdZJ3TEaiRBKmVhOKN0KElxTEqc429l7eA=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOhVWTwtGyVjJxTL9RbsYB5qlg2VJYfP5JFbIJ4=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNydQAdXnz9EERMTbWtSMpfQtFjoGSNDHX98ZU4=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Fish Cafe was great! I'm from Toronto and my cousin mentioned BC has great seafood, it's fresh. We started with the grilled calamari with garlic butter which was a great combo. I had a Greek salad with 1pc fish and chips. He had the grilled salmon on rice. For dessert we tried their chocolate cake (they didn't have anymore carrot cake). It's understandable that some menu items wouldn't be available due to the freshness of the food so we didn't get a chance to try their crab cakes or clam chowder. I would highly recommend the fish and chips, the snapper was very light and battered perfectly. Overall I'm happy we visited and I would definitely go back if I visit BC again :)",
+            "reviewer_name": "Steff K",
+            "rating": 5,
+            "review_text": "Fish Cafe was great! I'm from Toronto and my cousin mentioned BC has great seafood, it's fresh. We started with the grilled calamari with garlic butter which was a great combo. I had a Greek salad with 1pc fish and chips. He had the grilled salmon on rice. For dessert we tried their chocolate cake (they didn't have anymore carrot cake). It's understandable that some menu items wouldn't be available due to the freshness of the food so we didn't get a chance to try their crab cakes or clam chowder. I would highly recommend the fish and chips, the snapper was very light and battered perfectly. Overall I'm happy we visited and I would definitely go back if I visit BC again :)",
+            "published_at": "8 months ago",
+            "published_at_date": "2023-03-20T02:57:57.589000Z",
+            "response_from_owner_text": "Thanks for coming in tonight, I really pleased you guys enjoyed yourselves, thank you for taking the time to leave your thoughts here.",
+            "response_from_owner_ago": "8 months ago",
+            "response_from_owner_date": "2023-03-20T05:26:45.138000Z",
+            "review_likes_count": 3,
+            "total_number_of_reviews_by_reviewer": 32,
+            "total_number_of_photos_by_reviewer": 2,
+            "reviewer_url": "https://www.google.com/maps/contrib/104807838937497189974/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXfCg8-BXbBS1nBakKGRHwa5EyWlzejrWyZFYxvqLSvFSo=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMAZ5lycv4IFMJE3lqx-ItJ5pp6RkAUWd6m3vAL=w150-h150-k-no-p"
+            ]
+        }
+    ],
+    "is_spending_on_ads": false
+}

@@ -1,0 +1,435 @@
+{
+    "place_id": "ChIJ67olRJtwhlQR_VR0S96yej4",
+    "name": "Bridge Brewing Company",
+    "description": null,
+    "reviews": 430,
+    "website": "http://www.bridgebrewing.com/",
+    "owner": {
+        "id": "104740379916556379848",
+        "name": "Bridge Brewing Company (Owner)",
+        "link": "https://www.google.com/maps/contrib/104740379916556379848"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPLHsvU7oTKaguL1PSsAU_6EOAdeQxqc6x3G7A=w408-h408-k-no",
+    "main_category": "Brewery",
+    "categories": [
+        "Brewery"
+    ],
+    "rating": 4.7,
+    "workday_timing": "11 a.m.-10 p.m.",
+    "closed_on": [],
+    "phone": "(604) 770-2739",
+    "address": "Bridge Brewing Company, 1448 Charlotte Rd, North Vancouver, BC V7J 1H2",
+    "review_keywords": [
+        {
+            "keyword": "tacos",
+            "count": 72
+        },
+        {
+            "keyword": "patio",
+            "count": 24
+        },
+        {
+            "keyword": "blood orange",
+            "count": 21
+        },
+        {
+            "keyword": "bourbon",
+            "count": 14
+        },
+        {
+            "keyword": "tasting room",
+            "count": 14
+        },
+        {
+            "keyword": "growler",
+            "count": 9
+        },
+        {
+            "keyword": "parking",
+            "count": 8
+        },
+        {
+            "keyword": "the veggie",
+            "count": 6
+        },
+        {
+            "keyword": "lemon",
+            "count": 5
+        },
+        {
+            "keyword": "bacon",
+            "count": 5
+        }
+    ],
+    "link": "https://www.google.com/maps/place/Bridge+Brewing+Company/data=!4m7!3m6!1s0x5486709b4425baeb:0x3e7ab2de4b7454fd!8m2!3d49.3100803!4d-123.0338619!16s%2Fg%2F1pzr2kmlw!19sChIJ67olRJtwhlQR_VR0S96yej4?authuser=0&hl=en&rclk=1",
+    "status": "Closes soon  10 p.m.  Opens 11 a.m. Wed",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 12,
+        "2": 6,
+        "3": 10,
+        "4": 61,
+        "5": 341
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ67olRJtwhlQR_VR0S96yej4&q=Bridge+Brewing+Company&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.310080299999996,
+        "longitude": -123.03386189999999
+    },
+    "plus_code": "8X68+2F North Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": null,
+        "street": "1448 Charlotte Rd",
+        "city": "North Vancouver",
+        "postal_code": "V7J 1H2",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "4502107445328631037",
+    "data_id": "0x5486709b4425baeb:0x3e7ab2de4b7454fd",
+    "menu": {
+        "link": "https://www.bridgebrewing.com/food/",
+        "source": "bridgebrewing.com"
+    },
+    "reservations": [],
+    "order_online_links": [
+        {
+            "link": "https://www.skipthedishes.com/bridge-brewing-company?serviceType=delivery&utm_source=google&utm_medium=organic&utm_campaign=gpav2",
+            "source": "skipthedishes.com"
+        },
+        {
+            "link": "https://www.doordash.com/store/bridgedeck-north-vancouver-2818644/?utm_campaign=gpa",
+            "source": "doordash.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Alcohol",
+                    "enabled": true
+                },
+                {
+                    "name": "Beer",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Bar on-site",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPLHsvU7oTKaguL1PSsAU_6EOAdeQxqc6x3G7A=w298-h298-k-no"
+        },
+        {
+            "about": "Beer",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOae-YbkHQ0hWw1MfxcSLF__shl6CMwoxwEdB7V=w529-h298-k-no"
+        },
+        {
+            "about": "Pub",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOX0BkhuuIJcBImGxXD7eFPBEf3w3kyHgH64TUU=w224-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMAESSBkMol7xiW9MBG25VhOjCjYFZK72k4e3Lm=w446-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=LXBk9Y_64xkdB1PiRiVhug&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=344.49802&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "11 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "11 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "11 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "11 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "11 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "11 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "11 a.m.-10 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "Great beers, and friendly staff. They serve different kind of sandwiches. We were with quite a big group, and they allowed us to move around tables and chairs, so we could all enjoy the sun as a group on the patio, which was also dog-friendly :)",
+            "reviewer_name": "Mandy Meijer",
+            "rating": 4,
+            "review_text": "Great beers, and friendly staff. They serve different kind of sandwiches. We were with quite a big group, and they allowed us to move around tables and chairs, so we could all enjoy the sun as a group on the patio, which was also dog-friendly :)",
+            "published_at": "6 months ago",
+            "published_at_date": "2023-05-22T03:47:16.774000Z",
+            "response_from_owner_text": "Thanks for the review Mandy. Glad you enjoyed the beer and were well taken care of by our staff. Cheers Leigh ",
+            "response_from_owner_ago": "4 months ago",
+            "response_from_owner_date": "2023-07-10T17:58:44.039000Z",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 89,
+            "total_number_of_photos_by_reviewer": 9,
+            "reviewer_url": "https://www.google.com/maps/contrib/100298870697250306302/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIBHzokDLqAPeHUk7Q67Vk1hgIUFS3V4JaHS6AH4Yt1=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMbE90epbwW0CO-5lvfi6twu_N1yzxIevHKbF2V=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Nice IPA and some tropical flavor beers. It's a good place to chill during summer time. The patio is dog friendly:)",
+            "reviewer_name": "Stephanie Liu",
+            "rating": 4,
+            "review_text": "Nice IPA and some tropical flavor beers. It's a good place to chill during summer time. The patio is dog friendly:)",
+            "published_at": "5 months ago",
+            "published_at_date": "2023-06-10T21:23:11.425000Z",
+            "response_from_owner_text": "Thanks for your 4 star review Stephanie! Cheers Leigh ",
+            "response_from_owner_ago": "5 months ago",
+            "response_from_owner_date": "2023-06-12T18:09:35.107000Z",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 22,
+            "total_number_of_photos_by_reviewer": 77,
+            "reviewer_url": "https://www.google.com/maps/contrib/100182592869588567718/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLpo7Kr-t1X-wSQRk5yHg4Lx0RzvVXVE6F0WrVWNiMU=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOfB_r2Cwhwh7AnLBiDIipfl0AQIoXYfSA0_L7k=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Fun spot! Quality beer. Tons of different rotating and main stay beer available. With discounted mix and match in bottles/ cans. They know how to make beer here! Amazing tacos (chicken, pork, veggie) and chips and salsa to go with the delicious flight of beer and fresh corn tacos.  Locally sourced meat from two rivers, just down the street. Chips for salsa from Coquitlam! And Salsa from Jumpin' Johnneys on the North Shore. The tacos are good. The service and friendliness from the staff here is superb, with great knowledge in beer. Patio out front, with easy parking. Just drive down Mountain Highway, with this convenient location. Three different pepperoni sticks available. Impressive package, top notch everything.",
+            "reviewer_name": "Sarah Grace",
+            "rating": 5,
+            "review_text": "Fun spot! Quality beer. Tons of different rotating and main stay beer available. With discounted mix and match in bottles/ cans. They know how to make beer here! Amazing tacos (chicken, pork, veggie) and chips and salsa to go with the delicious flight of beer and fresh corn tacos.  Locally sourced meat from two rivers, just down the street. Chips for salsa from Coquitlam! And Salsa from Jumpin' Johnneys on the North Shore. The tacos are good. The service and friendliness from the staff here is superb, with great knowledge in beer. Patio out front, with easy parking. Just drive down Mountain Highway, with this convenient location. Three different pepperoni sticks available. Impressive package, top notch everything.",
+            "published_at": "4 years ago",
+            "published_at_date": "2019-05-16T23:24:24.367000Z",
+            "response_from_owner_text": "Hi Sarah, thank you for your kind words! Cheers!",
+            "response_from_owner_ago": "5 years ago",
+            "response_from_owner_date": "2018-02-01T21:40:59.741000Z",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 1590,
+            "total_number_of_photos_by_reviewer": 14977,
+            "reviewer_url": "https://www.google.com/maps/contrib/109846549800107030833/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjV3pOWWZFKL8rD4Y_kc9WOQIPyzrj88XzaX2bK7J3MZWsiY=s120-c-rp-mo-ba8-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipM9Vn-jnAyhOcaP2gFv-xqKEUxh-Z-h2lGzx6Be=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNR_DIBt02yrwfj7KctlghmibLpX6lj0yfcW-d-=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPOcHX4I7RChI0HdRQXEKwHyTaUL7xG6crIhwhu=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOGWy6YiQ1DoLNlu8xQXj_K0ZPdr8TrTpXIUHNT=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNO_lEB-GI55cJUHW2K8sNdqQF_jsSf5Q4eu-JF=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMfSiuAW4NWbROJiXzA_525BBuXFCqMM4sG3Liq=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "A nice tiny place who bring you back in the time of the old cantinas with country music and nice beer, they have a huge selection for any taste and the awesome thing is that you can refill your growler for a few bucks, if you are close from the bridge brewery take your time for visit this small but friendly place and ask for the awards beers that they have",
+            "reviewer_name": "Saul Venegas",
+            "rating": 5,
+            "review_text": "A nice tiny place who bring you back in the time of the old cantinas with country music and nice beer, they have a huge selection for any taste and the awesome thing is that you can refill your growler for a few bucks, if you are close from the bridge brewery take your time for visit this small but friendly place and ask for the awards beers that they have",
+            "published_at": "a year ago",
+            "published_at_date": "2021-12-14T05:40:13.752000Z",
+            "response_from_owner_text": "Thanks for the great review!\nCheers\nLeigh",
+            "response_from_owner_ago": "a year ago",
+            "response_from_owner_date": "2022-01-01T23:16:58.925000Z",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 28,
+            "total_number_of_photos_by_reviewer": 68,
+            "reviewer_url": "https://www.google.com/maps/contrib/103677604201594249956/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWuwxqnlYvIT404BJDCSK5xwpcxu5N-Mm87eggQCTRqvn8=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNQG-ujtF9NocjIl49juxiCUzGth78Tbd5mS5v8=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOZvC-9Ovd3rVw1ZZ47OeWHaWTAbVf2FEiQd_Ow=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipODGGGtLDpd9dmeOJbI5ep22nFNOeacp6-8uvSK=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Beer and food was amazing here! Been to many breweries around BC and this place has a great combination of beer and food! Highly recommend visiting here and grabbing a drink!",
+            "reviewer_name": "Eric Jun Hyeok Kim",
+            "rating": 5,
+            "review_text": "Beer and food was amazing here! Been to many breweries around BC and this place has a great combination of beer and food! Highly recommend visiting here and grabbing a drink!",
+            "published_at": "2 years ago",
+            "published_at_date": "2021-06-30T07:46:56.008000Z",
+            "response_from_owner_text": "Hi Eric,\n\nThank you for the 5-star review! We are so happy to hear you enjoyed your time at the brewery! We loved all the photos you shared online! We hope to see you again soon!\n\nCheers,\nKatrina",
+            "response_from_owner_ago": "2 years ago",
+            "response_from_owner_date": "2021-06-30T15:39:44.078000Z",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 70,
+            "total_number_of_photos_by_reviewer": 199,
+            "reviewer_url": "https://www.google.com/maps/contrib/110917251556506458651/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVsQgc8L6ruQVDsj6KHbxEp5yHwh2stdMGTHske3YLC_vg=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMVBE4aTDeL00a7adu-_QK0m-6XQihpjlFPo9r4=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPSTj73vw8QO6ynQjKySvxXB0IDRou34CoT3KE4=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipP6GO-c2170AW0MMzVUFFLwHLgtnGx2djV4g6Yu=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMlOlHivezpp7NwNUV1jCYcYKuWKqpTvJDRFSmb=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNHuhzs6TRTL5KBWpTZeW3lJRndFxwMnSOmJS5N=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMQ8diJbwrTjxKisBJkG-slG4s-gp6wKtCg33dg=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMKTrsM09pfVEIwRMt9OFpppg_iG6JsqTNwz04g=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNWIuvQRx84N3LCPkzd4ozDbpP9z70mh5pKxxhC=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMGPa14a0bzNyAxbEra-6H7n7I2btJvry_j_uq_=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPV3Hyv1096PpH_MXOTZQHKaKiVs90PPtkqSvFC=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Great beer, Harry was an amazing host alwho knew everything about the beers and was also a great conversationalist. The blood orange is incredible.",
+            "reviewer_name": "Kevin Oke",
+            "rating": 5,
+            "review_text": "Great beer, Harry was an amazing host alwho knew everything about the beers and was also a great conversationalist. The blood orange is incredible.",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-06T05:54:14.102000Z",
+            "response_from_owner_text": "Thanks for the 5 star review Kevin.  I'll let Harry know how much you enjoyed his service. Cheers Leigh ",
+            "response_from_owner_ago": "2 months ago",
+            "response_from_owner_date": "2023-09-07T21:36:44.141000Z",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 6,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/105478309923255114467/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUQdoE4cvb9s6_otR5j-qwb593Ri7PBwYeISJyuiKkOOCzt=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Their low calories beers are quite tasty with decent flavours for being low calorie beer.",
+            "reviewer_name": "Candice J.",
+            "rating": 4,
+            "review_text": "Their low calories beers are quite tasty with decent flavours for being low calorie beer.",
+            "published_at": "9 months ago",
+            "published_at_date": "2023-02-20T22:46:05.030000Z",
+            "response_from_owner_text": "Thanks for your review Candice.  Glad you like our PrimeTime line up. Cheers Leigh ",
+            "response_from_owner_ago": "9 months ago",
+            "response_from_owner_date": "2023-02-21T16:55:52.051000Z",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 18,
+            "total_number_of_photos_by_reviewer": 23,
+            "reviewer_url": "https://www.google.com/maps/contrib/117030253268196207355/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJMMr_3izcVDodqmHAvWYp5JIJVktvXHmsrg3VAiDfT=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipO3r5XwEI67qwKE41RsmFMcTmrSyl42QNnpOIQM=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNyJaPAMJO_WnwbP3GynYY74xi91BUQXSUv8mC8=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMpSWiQX9aPFNDXg4HBsdDoZLm23c1P93Tj1SIf=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "I LOVE this brewery. The staff is welcoming and very helpful, the beer is AMAZING, and the atmosphere is chill and upbeat. Have to stop here if you appreciate beer when visiting Vancouver.",
+            "reviewer_name": "Ben Roehrig",
+            "rating": 5,
+            "review_text": "I LOVE this brewery. The staff is welcoming and very helpful, the beer is AMAZING, and the atmosphere is chill and upbeat. Have to stop here if you appreciate beer when visiting Vancouver.",
+            "published_at": "a year ago",
+            "published_at_date": "2022-06-18T00:30:25.525000Z",
+            "response_from_owner_text": "Thanks for the great 5 Star review Ben. cheers Leigh",
+            "response_from_owner_ago": "a year ago",
+            "response_from_owner_date": "2022-06-19T15:06:14.063000Z",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 28,
+            "total_number_of_photos_by_reviewer": 14,
+            "reviewer_url": "https://www.google.com/maps/contrib/114196367087570800011/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjViaDxa7sm2oOoVDnXOx133UVErY9q0j9uJVlRMjr0O4cOg=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNJPACcDyOPNALe1tuMxbJJMwDVfGlkr21_LXon=w150-h150-k-no-p"
+            ]
+        }
+    ],
+    "is_spending_on_ads": false
+}

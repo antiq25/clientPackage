@@ -1,0 +1,678 @@
+{
+    "place_id": "ChIJB3MMFXV1hlQRFAa0ix8KpvA",
+    "name": "Karakoram Restaurant",
+    "description": null,
+    "reviews": 1934,
+    "website": "http://www.karakoramrestaurant.com/",
+    "owner": {
+        "id": "116418755073845587277",
+        "name": "Karakoram Restaurant (Owner)",
+        "link": "https://www.google.com/maps/contrib/116418755073845587277"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNVX8VA6Nh0Xy-23f10THFWUuruqkJjo7V_LeSx=w426-h240-k-no",
+    "main_category": "Pakistani restaurant",
+    "categories": [
+        "Pakistani restaurant",
+        "Halal restaurant"
+    ],
+    "rating": 4,
+    "workday_timing": "4 p.m.-2 a.m.",
+    "closed_on": [],
+    "phone": "(604) 737-1000",
+    "address": "Karakoram Restaurant, 6990 Victoria Dr, Vancouver, BC V5P 3Y8",
+    "review_keywords": [
+        {
+            "keyword": "chicken karahi",
+            "count": 106
+        },
+        {
+            "keyword": "nihari",
+            "count": 48
+        },
+        {
+            "keyword": "lamb karahi",
+            "count": 23
+        },
+        {
+            "keyword": "lahori chicken",
+            "count": 22
+        },
+        {
+            "keyword": "fish pakora",
+            "count": 13
+        },
+        {
+            "keyword": "mandi",
+            "count": 11
+        },
+        {
+            "keyword": "middle eastern",
+            "count": 11
+        },
+        {
+            "keyword": "cutlery",
+            "count": 11
+        },
+        {
+            "keyword": "koyla karahi",
+            "count": 5
+        },
+        {
+            "keyword": "bhuna",
+            "count": 5
+        }
+    ],
+    "link": "https://www.google.com/maps/place/Karakoram+Restaurant/data=!4m7!3m6!1s0x54867575150c7307:0xf0a60a1f8bb40614!8m2!3d49.2204656!4d-123.0656147!16s%2Fg%2F11f9gxlcgw!19sChIJB3MMFXV1hlQRFAa0ix8KpvA?authuser=0&hl=en&rclk=1",
+    "status": "Closes soon  2 a.m.  Reopens 4 p.m.",
+    "price_range": "$$",
+    "reviews_per_rating": {
+        "1": 302,
+        "2": 81,
+        "3": 129,
+        "4": 264,
+        "5": 1158
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJB3MMFXV1hlQRFAa0ix8KpvA&q=Karakoram+Restaurant&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.2204656,
+        "longitude": -123.0656147
+    },
+    "plus_code": "6WCM+5Q Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "South Vancouver",
+        "street": "6990 Victoria Dr",
+        "city": "Vancouver",
+        "postal_code": "V5P 3Y8",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "17340558545840768532",
+    "data_id": "0x54867575150c7307:0xf0a60a1f8bb40614",
+    "menu": {
+        "link": "https://www.karakoramrestaurant.com/our-menu",
+        "source": "karakoramrestaurant.com"
+    },
+    "reservations": [
+        {
+            "link": "https://www.karakoramrestaurant.com/reservation/",
+            "source": "karakoramrestaurant.com"
+        }
+    ],
+    "order_online_links": [
+        {
+            "link": "https://www.karakoramrestaurant.com/reservation/",
+            "source": "karakoramrestaurant.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Curbside pickup",
+                    "enabled": true
+                },
+                {
+                    "name": "No-contact delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Takeout",
+                    "enabled": true
+                },
+                {
+                    "name": "Dine-in",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "highlights",
+            "name": "Highlights",
+            "options": [
+                {
+                    "name": "Great tea selection",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair accessible seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "All you can eat",
+                    "enabled": true
+                },
+                {
+                    "name": "Coffee",
+                    "enabled": true
+                },
+                {
+                    "name": "Halal food",
+                    "enabled": true
+                },
+                {
+                    "name": "Healthy options",
+                    "enabled": true
+                },
+                {
+                    "name": "Late-night food",
+                    "enabled": true
+                },
+                {
+                    "name": "Small plates",
+                    "enabled": true
+                },
+                {
+                    "name": "Vegetarian options",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Dining options",
+            "options": [
+                {
+                    "name": "Brunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Lunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Dinner",
+                    "enabled": true
+                },
+                {
+                    "name": "Catering",
+                    "enabled": true
+                },
+                {
+                    "name": "Dessert",
+                    "enabled": true
+                },
+                {
+                    "name": "Seating",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                },
+                {
+                    "name": "Wi-Fi",
+                    "enabled": true
+                },
+                {
+                    "name": "Wi-Fi",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosphere",
+            "options": [
+                {
+                    "name": "Casual",
+                    "enabled": true
+                },
+                {
+                    "name": "Cozy",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "crowd",
+            "name": "Crowd",
+            "options": [
+                {
+                    "name": "Family-friendly",
+                    "enabled": true
+                },
+                {
+                    "name": "Groups",
+                    "enabled": true
+                },
+                {
+                    "name": "LGBTQ+ friendly",
+                    "enabled": true
+                },
+                {
+                    "name": "Transgender safe space",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planning",
+            "options": [
+                {
+                    "name": "Reservations required",
+                    "enabled": true
+                },
+                {
+                    "name": "Accepts reservations",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "children",
+            "name": "Children",
+            "options": [
+                {
+                    "name": "Good for kids",
+                    "enabled": true
+                },
+                {
+                    "name": "High chairs",
+                    "enabled": true
+                },
+                {
+                    "name": "Kids' menu",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "parking",
+            "name": "Parking",
+            "options": [
+                {
+                    "name": "Free parking lot",
+                    "enabled": true
+                },
+                {
+                    "name": "Free street parking",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNVX8VA6Nh0Xy-23f10THFWUuruqkJjo7V_LeSx=w529-h298-k-no"
+        },
+        {
+            "about": "Latest",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipM2_vBHt-8_7J5uZQJ47T0R5mPSkavoNMoShM4a=w224-h730-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMbb3aNnK66hFaBxAURjH5YVJvlFE3_WEFXvjIs=w525-h298-k-no"
+        },
+        {
+            "about": "Menu",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipO8LaWBjIz_vM_wwzwUEJUxsfsBgLjNt1PVpoP9=w224-h298-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipM-kIA52962bNZO1TwkPUuSjoKd5rMvy_ahZoEJ=w449-h298-k-no"
+        },
+        {
+            "about": "Vibe",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipM9mCT95-cYhITDIHWDYnspymTF2VHgO2B3F2A8=w450-h298-k-no"
+        },
+        {
+            "about": "Karahi",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMHCEbUwStCYzcUaSi6hLr7j0iKxfBO6hHeFzBt=w397-h298-k-no"
+        },
+        {
+            "about": "Naan",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOHaEmXTlvuwCs7M-NK_FC8TnVTUUlZLkoClD_k=w529-h298-k-no"
+        },
+        {
+            "about": "Kebab",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMeV3aAHUNh5zyQHTn0a2EkRGZAlw27bf28B0T3=w448-h298-k-no"
+        },
+        {
+            "about": "Pakora",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipP3vYBdBnBunfcv8DQopJzgD4j-ZUEIANF1rXT9=w397-h298-k-no"
+        },
+        {
+            "about": "Samosa",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNOr3LAjoyPniWEcQnF7O2wVyHU2N0fhs4l9SQ6=w397-h298-k-no"
+        },
+        {
+            "about": "Biryani",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMpsD-c1S0teG3LQYgl-21LxxmKN1RBa8jFOjLd=w224-h298-k-no"
+        },
+        {
+            "about": "Lassi",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPdHE5ZdTQDFbh2oW90X9PI1cSpBUOq3KcNhvua=w224-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOnp9l5SkU5P1h6RUpEx1DOWFumCsj80TXqQFDS=w449-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=aWJ_pec0UZGS3Mhr4-ixmQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=80.933426&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Sunday",
+            "times": [
+                "4 p.m.-2 a.m."
+            ]
+        },
+        {
+            "day": "Monday",
+            "times": [
+                "4 p.m.-2 a.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "4 p.m.-2 a.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "4 p.m.-2 a.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "4 p.m.-2 a.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "4 p.m.-2 a.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "4 p.m.-2 a.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "I tried a pakistani restaurant in Seattle and it was unbelievably good!! Today I tried this pakistani restaurant in Vancouver and the biryani is the worst!!! Chicken biryani had no spice and veg biryani has all the extra spices that chicken biryani lacked. Veg biryani was not spicy, it was only spices!! Very disappointing food.",
+            "reviewer_name": "akshata desai",
+            "rating": 3,
+            "review_text": "I tried a pakistani restaurant in Seattle and it was unbelievably good!! Today I tried this pakistani restaurant in Vancouver and the biryani is the worst!!! Chicken biryani had no spice and veg biryani has all the extra spices that chicken biryani lacked. Veg biryani was not spicy, it was only spices!! Very disappointing food.",
+            "published_at": "a week ago",
+            "published_at_date": "2023-11-12T07:25:01.982000Z",
+            "response_from_owner_text": "Hi Akshata thank you for your feedback we didn't have veg biryani in the menu but we made on your request we could make it spicy for you sorry we couldn't meet your expectations but we would love to make it right please visit us again and let us serve you better this time thank you ",
+            "response_from_owner_ago": "a week ago",
+            "response_from_owner_date": "2023-11-12T07:41:06.532000Z",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 67,
+            "total_number_of_photos_by_reviewer": 1536,
+            "reviewer_url": "https://www.google.com/maps/contrib/110568570653181972118/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWB_0ibo82mfEF3dm125-P05dVxiQYDR4oHcjODhiZ_i09D=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNxNoFPDxRIRn0J4TMM4D9jWj-Sd9Aad0gXWqMV=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNavdfxXWISpPN6cbK-fDebzUbL84Gj0BAWpxyA=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOM26OnR-qt7A3kKGtbxTQbsqI9oQRDQPntCuhr=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMbMhf5bkqc30GuTOAQ1PIAPVOLpXTAjdXGjaap=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMPxkmlZEwxm_4NprqRiOyJurJFNVDybC0hpRYy=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMStMSTraEGvpXbAkdH2RJmUYI-uD4k5R-TsC7t=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNaKOEmZlQRZ4Een-9ua66ZoWNuXFI1ZuWR9ZXm=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNpCVFzpOt0VFBBaOajC5ybXMjcNXW8xziJNcmm=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNah0xeMTFaU7RhdLhBIx3_VIYT0aP54jjdF5sk=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPmUMJxbyBf0CiK9poW6GA8PtB8J9nhlRDJ2ykG=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "After having ordered from Karakoram multiple times in the past, this will be our last.\n\nThe taste was decent for everything we ordered, but the amount of oil that's dripping from the food - One meal is enough to clog your arteries.\n\nNever again, I would highly recommend not ordering from them. There are far better restaurants in the city that offer amazing Pakistani dishes thats not soaking in cooking oil.\n\nThe 1 star for taste only, stripping 4 others for the amount of grease you have to fight through to get to the actual food.",
+            "reviewer_name": "Shivani Meher",
+            "rating": 1,
+            "review_text": "After having ordered from Karakoram multiple times in the past, this will be our last.\n\nThe taste was decent for everything we ordered, but the amount of oil that's dripping from the food - One meal is enough to clog your arteries.\n\nNever again, I would highly recommend not ordering from them. There are far better restaurants in the city that offer amazing Pakistani dishes thats not soaking in cooking oil.\n\nThe 1 star for taste only, stripping 4 others for the amount of grease you have to fight through to get to the actual food.",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-02T17:40:42.925000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 15,
+            "total_number_of_reviews_by_reviewer": 46,
+            "total_number_of_photos_by_reviewer": 96,
+            "reviewer_url": "https://www.google.com/maps/contrib/109669363245570235339/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXdr4kNubFyUQOoe5wnQ5Blwp6PrpwwF_jQlNQpkYyuE44=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipP8YT9zaOpDOnAuO-TT82AaASNl5iM1ux4KZnMy=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipM9Qy9K1sJNFQiWylG01NfJ76goZRSiPAcaluQq=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNjMkt5S3BdS6RJ6-6AOypjQ6Jrjlm5rBRJckW3=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOuLLHqXFnNiPMQkEOZtnoIBaTQr9u9KDu9HgO4=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "One of the best braised lamb and beef samosas I've ever had!\nOur server was very efficient and kind.\nShe gave us both ice cream flavours bc we couldn't decide between mango and pistachio- we enjoyed their ice cream too!",
+            "reviewer_name": "DANICA DG",
+            "rating": 4,
+            "review_text": "One of the best braised lamb and beef samosas I've ever had!\nOur server was very efficient and kind.\nShe gave us both ice cream flavours bc we couldn't decide between mango and pistachio- we enjoyed their ice cream too!",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-10T16:43:11.753000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 40,
+            "total_number_of_photos_by_reviewer": 88,
+            "reviewer_url": "https://www.google.com/maps/contrib/101114596276248222819/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVpbXI5Sg42DFFq6TTKlVi9HohRQ3MHXubvfloG_NRQU-U=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPwcmx2wC5eXsoQsQF-tAvryaU9pDMo413JoBhU=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMLCsZ4aPElNT7W9zRA0ffTsczP-RBxebTO9HHb=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNpY2hdvzFi8gPHNxLEr-R8woT5rfKtBcMyrQag=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOhxm__E76PVt-0g6lv4z9iJes4W7d44lc-f5Yg=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Food:\nTasty food. We ordered Mutton karahi , chicken biryani , chicken seek kabab  no flavour.\n\nService:\nGood service and staff. Food came quickly from kitchen.\n\nAtmosphere:\nLighting was a little dim for me. If I have to pick on issues, I did see some micro flies in the restaurant.",
+            "reviewer_name": "Sahib Matharu",
+            "rating": 4,
+            "review_text": "Food:\nTasty food. We ordered Mutton karahi , chicken biryani , chicken seek kabab  no flavour.\n\nService:\nGood service and staff. Food came quickly from kitchen.\n\nAtmosphere:\nLighting was a little dim for me. If I have to pick on issues, I did see some micro flies in the restaurant.",
+            "published_at": "5 months ago",
+            "published_at_date": "2023-06-19T03:01:48.748000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 58,
+            "total_number_of_photos_by_reviewer": 156,
+            "reviewer_url": "https://www.google.com/maps/contrib/103307198035203528760/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUgZCAljZ1EnRAxG7ers_XoiaD6eqlPKyaLN4MX7laoJeM=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPUU3B5RDhrFtLOjPc4kBGObLLXgT1Mu7E0qbLv=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOElpjIXITuU5UQgzLsWvL68A8qoZNsk2lVwI1A=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipM9keLyg3p9BNZUlB3AVw5xNQDsiIOZ35Vov2QI=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPilToPh_Xzsgr9J8od7XliipByKPjpyp0nRPZw=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "This place is a gem and so are the hosts. Rehana, our server, was amazing, and her colleague (I'm kicking myself for not getting his name) was just as great. The food was delicious - we had their specialty dish - Namak Mandi, and the atmosphere was cozy - the kind of place where you instantly feel at home. Can't wait to go back and enjoy another wonderful meal with such friendly and attentive staff.",
+            "reviewer_name": "C2D2",
+            "rating": 5,
+            "review_text": "This place is a gem and so are the hosts. Rehana, our server, was amazing, and her colleague (I'm kicking myself for not getting his name) was just as great. The food was delicious - we had their specialty dish - Namak Mandi, and the atmosphere was cozy - the kind of place where you instantly feel at home. Can't wait to go back and enjoy another wonderful meal with such friendly and attentive staff.",
+            "published_at": "3 weeks ago",
+            "published_at_date": "2023-10-31T05:45:50.623000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 9,
+            "total_number_of_photos_by_reviewer": 18,
+            "reviewer_url": "https://www.google.com/maps/contrib/101542596312975550787/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWdtKdRZkoPtxc1gcwx0ZTclJhOAkC4Z5laksAylxafLiY=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMc4wJzGmOsj7VQ_Gu-Jp47IG1sHtZHv_Vv9EeF=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMuAyX4-ETGUkjLSx_EOcaniUi1iTsTY76SWXjh=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNx3VoM_5hFA6mZ9U-yf-aVpBSPvkLpdwCGyKC6=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Good taste. Prices are higher, staff is very cooperative, location is around 6 KM from Downtown Vancouver.  Over best for Muslim Halal desi food.",
+            "reviewer_name": "mujay deen e islam say pyaar hai namaz kaem kro",
+            "rating": 4,
+            "review_text": "Good taste. Prices are higher, staff is very cooperative, location is around 6 KM from Downtown Vancouver.  Over best for Muslim Halal desi food.",
+            "published_at": "4 weeks ago",
+            "published_at_date": "2023-10-23T05:23:56.658000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 290,
+            "total_number_of_photos_by_reviewer": 6243,
+            "reviewer_url": "https://www.google.com/maps/contrib/102397057631389717494/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW7DD9m5jQJ7j3NwNyI1zDus9U8BvoK-Iy81bcEXCE8DGGV=s120-c-rp-mo-ba6-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNli-3OiNZaRcMOz2IXJmUrV-O--1g5CPppK8Pf=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNMCHKZDtkYVMyBcBB1W8sHpoLUE5e2P9c5kxdk=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMuozCoN7LIYNJiz0JzC4AslVFyiPwUKJ3Fy02X=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNPttxYdPOXE1BcoMBHKPKPOj_9NZ3heNk5wNv0=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPTqT7GWAfIg-ZghFV0qRGAN8NLBtOycw2lxtAG=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPibarWjC7EyLrDQ1UFE2kecxWdvqcWbGNxdVEC=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNKSbhlmQCVClThWwd-mNPp2LRzJxVhvS4W94Uw=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipN4h_07ArNyjzfY-dK3uEACUq5gmBbkZUGhE3Z9=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPjNP7swz7gkjM-UvgoEu9eWVOrpY-az_86yrsN=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipO1TW6_XbULz55EPgwDwSMB32fHRo6UK7FXYOQi=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNas4ZZhUzxPICG6bl0uaxv-JqL1-R1u_pZyK0f=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "We had mixed feelings about this place. So definitely not going back again.\nOur order or beef samosas came out rotten, and they, in turn, gave us a replacement plate of bhajiyas/pakodas, which they did charge us for.\n\nWe had ordered muttonn korma, and they dished out lamb. I corrected this with them while paying, but nothing was done about it. That\"s two mistakes already in same order.\n\nBiriyani, Nihari and drinks were good.\nServer was good.\n\nAmbience is not that great. Typical south Asian vibes.\nI'd avoid going there.",
+            "reviewer_name": "Ahmad Pirani",
+            "rating": 3,
+            "review_text": "We had mixed feelings about this place. So definitely not going back again.\nOur order or beef samosas came out rotten, and they, in turn, gave us a replacement plate of bhajiyas/pakodas, which they did charge us for.\n\nWe had ordered muttonn korma, and they dished out lamb. I corrected this with them while paying, but nothing was done about it. That\"s two mistakes already in same order.\n\nBiriyani, Nihari and drinks were good.\nServer was good.\n\nAmbience is not that great. Typical south Asian vibes.\nI'd avoid going there.",
+            "published_at": "2 weeks ago",
+            "published_at_date": "2023-11-05T20:56:51.825000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 5,
+            "total_number_of_reviews_by_reviewer": 364,
+            "total_number_of_photos_by_reviewer": 2699,
+            "reviewer_url": "https://www.google.com/maps/contrib/107262869910658154872/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXIHzyHyST49UZ-5-LpNYWp7V5HAwy2YrdKxE0g9x71GsKC=s120-c-rp-mo-ba6-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOH_5TJsVCP4G-Hzs33fDXGzFVML2ndyl5I1kqu=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipO4BqUQd5503eoQotLijAU6lJlnQhAH_A5yKDfZ=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNOr3LAjoyPniWEcQnF7O2wVyHU2N0fhs4l9SQ6=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMNGcTYC-MAztRXr0DlgdhffxLpiKuMz2fCYSIU=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNQl9gP7vkEd8IgPhW8MfKqYoBnmY7ge05ozMfA=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPoLbXMbHXyihWxF0Xp5V5VQSMIK9v4pSt0_TY9=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPLeRLRBvBl80RFvJtClE4SeEED2b-U8JefcNYI=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNexdlYXaVkOZpWWSaWVEant2jqxcrQSM5GTAoA=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipM64wpJmOTcGhmPIOXV1SdUiAihb-uOZCnHilwg=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Visiting from California looking for a great meal. Had a very lovely dinner at this amazing restaurant! From food to service everything was top notch. I wasn't expecting authentic Pakistani flavors but everything we ordered was perfect and took me straight back home! The Chicken Lahori Karahi was made to perfection with the right level of spice and curry sauce.\nWould like to thank our waiter Awais for recommending us and giving us a delightful evening with a great chat.\n\nWould definitely come here again if ever visiting Vancouver!",
+            "reviewer_name": "Bilal Rafiq",
+            "rating": 5,
+            "review_text": "Visiting from California looking for a great meal. Had a very lovely dinner at this amazing restaurant! From food to service everything was top notch. I wasn't expecting authentic Pakistani flavors but everything we ordered was perfect and took me straight back home! The Chicken Lahori Karahi was made to perfection with the right level of spice and curry sauce.\nWould like to thank our waiter Awais for recommending us and giving us a delightful evening with a great chat.\n\nWould definitely come here again if ever visiting Vancouver!",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-10T04:38:07.147000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 13,
+            "total_number_of_photos_by_reviewer": 2,
+            "reviewer_url": "https://www.google.com/maps/contrib/116959595734148661462/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVpgiPVHiRdZ_MoAiFTe8VLCPCvdIvkjwp1ZXr9V0X6z3g=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPyXphpHXuoqY27Nv0P0xYREU2AJPWtYjHAcpAK=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMv5uyo0m25J9P2--NxG4AU0ePDajznvfJMDfJw=w150-h150-k-no-p"
+            ]
+        }
+    ],
+    "is_spending_on_ads": false
+}

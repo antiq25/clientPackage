@@ -1,0 +1,340 @@
+{
+    "place_id": "ChIJVX-XAEJzhlQRtBJrGuxnSQg",
+    "name": "Bosley's",
+    "description": "Retail chain carrying food, supplies, toys & other products for pets such as dogs, cats & reptiles.",
+    "reviews": 78,
+    "website": "https://store.petvalu.ca/location/7029/",
+    "owner": {
+        "id": "103770779690644432420",
+        "name": "Bosley's (Owner)",
+        "link": "https://www.google.com/maps/contrib/103770779690644432420"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM-6puAUTvdmt0khs97qxXA1nDrJi-yAkn_xJqY=w408-h306-k-no",
+    "main_category": "Pet store",
+    "categories": [
+        "Pet store"
+    ],
+    "rating": 4.5,
+    "workday_timing": "9 a.m.-7 p.m.",
+    "closed_on": [],
+    "phone": "(604) 266-2667",
+    "address": "Bosley's, 3502 W 41st Ave, Vancouver, BC V6N 3E6",
+    "review_keywords": [
+        {
+            "keyword": "food",
+            "count": 6
+        },
+        {
+            "keyword": "products",
+            "count": 3
+        }
+    ],
+    "link": "https://www.google.com/maps/place/Bosley%27s/data=!4m7!3m6!1s0x5486734200977f55:0x84967ec1a6b12b4!8m2!3d49.2346047!4d-123.182402!16s%2Fg%2F1vxvhk5k!19sChIJVX-XAEJzhlQRtBJrGuxnSQg?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 9 a.m.",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 5,
+        "2": 0,
+        "3": 2,
+        "4": 16,
+        "5": 55
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJVX-XAEJzhlQRtBJrGuxnSQg&q=Bosley's&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.2346047,
+        "longitude": -123.182402
+    },
+    "plus_code": "6RM9+R2 Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "South Vancouver",
+        "street": "3502 W 41st Ave",
+        "city": "Vancouver",
+        "postal_code": "V6N 3E6",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "597122689356468916",
+    "data_id": "0x5486734200977f55:0x84967ec1a6b12b4",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "In-store pickup",
+                    "enabled": true
+                },
+                {
+                    "name": "In-store shopping",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipM-6puAUTvdmt0khs97qxXA1nDrJi-yAkn_xJqY=w397-h298-k-no"
+        },
+        {
+            "about": "Inside",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNwipQ8cTIkKy2tB9eigJdMmPRcxHdyTTg6_eh8=w224-h298-k-no"
+        },
+        {
+            "about": "Dog",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOAH2fZ_fEY_nwqZkhjloycWXz6JpNDN1Y0qQay=w224-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=l3CNLycxPWCjJa8xyothRQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=175.403&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "9 a.m.-7 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "9 a.m.-7 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "9 a.m.-7 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "9 a.m.-7 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "9 a.m.-7 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "9 a.m.-6 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "10 a.m.-6 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "The store attendant was so helpful and patient, she helped me find the perfect treats, at a great price! Thanks :)",
+            "reviewer_name": "Alie Duggan",
+            "rating": 5,
+            "review_text": "The store attendant was so helpful and patient, she helped me find the perfect treats, at a great price! Thanks :)",
+            "published_at": "5 months ago",
+            "published_at_date": "2023-06-13T23:16:55.235000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 14,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/117073234028827761169/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocITqcG8vqz_mJHuK0OfAsfJ5RKobvY48mecQck2Pa6C=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Staff are always kind and incredibly helpful at this location!",
+            "reviewer_name": "Sarah Blackwood",
+            "rating": 5,
+            "review_text": "Staff are always kind and incredibly helpful at this location!",
+            "published_at": "5 months ago",
+            "published_at_date": "2023-05-26T01:32:28.052000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 9,
+            "total_number_of_photos_by_reviewer": 3,
+            "reviewer_url": "https://www.google.com/maps/contrib/108779712511115674436/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVFQGPC2sUZr2u_FS-zVi9SjJUKJ6utJoii3aMsTdOQrw=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "These guys and gals are very helpful. Helped make my little guys very handsome this Christmas.",
+            "reviewer_name": "Reece Mack",
+            "rating": 5,
+            "review_text": "These guys and gals are very helpful. Helped make my little guys very handsome this Christmas.",
+            "published_at": "a year ago",
+            "published_at_date": "2021-12-27T04:29:14.303000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 79,
+            "total_number_of_photos_by_reviewer": 39,
+            "reviewer_url": "https://www.google.com/maps/contrib/111497024686818814171/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVL2-Udb-oEiNRbxO52U4LtPVjvjcYbeDpRYNalWcNsSbw=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNfZVIAkOf_JnzNcnuPRnWz7bGIBjWTh3cYu5kr=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "This store is as same as other bosley`s. But the owner is much more kind than others.",
+            "reviewer_name": "SB J.",
+            "rating": 5,
+            "review_text": "This store is as same as other bosley`s. But the owner is much more kind than others.",
+            "published_at": "6 months ago",
+            "published_at_date": "2023-04-25T23:45:02.359000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 33,
+            "total_number_of_photos_by_reviewer": 32,
+            "reviewer_url": "https://www.google.com/maps/contrib/114060690292683510084/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLLmF-9wGBCQhieU7N0qY60So_TlIy208wTAgjDrI3L=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "I was in there today and the two youngish guys working there were incredibly rude. Their customer service was nil. No please, no thank you. No pleasentries whatsoever and with the prices increased significantly on my pets food I have zero reason for ever step foot here again.",
+            "reviewer_name": "Kate Emberton",
+            "rating": 1,
+            "review_text": "I was in there today and the two youngish guys working there were incredibly rude. Their customer service was nil. No please, no thank you. No pleasentries whatsoever and with the prices increased significantly on my pets food I have zero reason for ever step foot here again.",
+            "published_at": "a year ago",
+            "published_at_date": "2022-05-27T04:49:48.067000Z",
+            "response_from_owner_text": "Hi Kate, we always appreciate hearing from our Pet Parents, but regret the experience that prompted your comments.  We would like the opportunity to connect with you, and invite you to contact us at 1-800-PET-VALU or email us at customerservice@petvalu.com.",
+            "response_from_owner_ago": "a year ago",
+            "response_from_owner_date": "2022-05-27T20:12:09.097000Z",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 110,
+            "total_number_of_photos_by_reviewer": 33,
+            "reviewer_url": "https://www.google.com/maps/contrib/108904848347946258751/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWPdq98zafImNNcduOb0RQvdpyyyKSR_Q1mFYua3APhG3vh=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Plenty of free parking nearby\nfriendly and helpful staffs facilitate my online order as well as faster checkout\nI will definitely go again",
+            "reviewer_name": "Emily D",
+            "rating": 5,
+            "review_text": "Plenty of free parking nearby\nfriendly and helpful staffs facilitate my online order as well as faster checkout\nI will definitely go again",
+            "published_at": "a year ago",
+            "published_at_date": "2022-04-09T23:22:21.412000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 5,
+            "total_number_of_photos_by_reviewer": 8,
+            "reviewer_url": "https://www.google.com/maps/contrib/107818427833857928281/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUN0LNJnFSuSu8vXrEjDcY6gTlMQE_450HZt2R-J6fFHA=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "This is unfortunate I've always been waited on by a wonderful older couple\nVery knowledgeable about the products and very helpful.\nThe last time I was there it was a fairly young girl.\nShe acually LIED to me about products and when I pointed out that No\nWhat she was trying to sell me as a fine pate (the only thing my fussy boy will eat )\nBut a chunky type that he wouldn't eat\nShe LAUGHED\nI'm sincerely hoping this was a summer hire and will soon be back at school\nWith so many products in thier store it's important to buy the right ones\nThat's why I pay high prices\nKnowledgeable information ftom staff !!!",
+            "reviewer_name": "Bianca Li",
+            "rating": 1,
+            "review_text": "This is unfortunate I've always been waited on by a wonderful older couple\nVery knowledgeable about the products and very helpful.\nThe last time I was there it was a fairly young girl.\nShe acually LIED to me about products and when I pointed out that No\nWhat she was trying to sell me as a fine pate (the only thing my fussy boy will eat )\nBut a chunky type that he wouldn't eat\nShe LAUGHED\nI'm sincerely hoping this was a summer hire and will soon be back at school\nWith so many products in thier store it's important to buy the right ones\nThat's why I pay high prices\nKnowledgeable information ftom staff !!!",
+            "published_at": "6 years ago",
+            "published_at_date": "2017-07-29T04:14:05.936000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 59,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/115580368275016443435/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXCv-jfpz7ujWhYJt1x_aUHITj2LoSbQ-miAL5vXNxRkr4=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Street parking. Helpful staff. Well stocked. Frequent shoppers get discounts. Bit pricey but quality merchandise.",
+            "reviewer_name": "Robin Jones",
+            "rating": 4,
+            "review_text": "Street parking. Helpful staff. Well stocked. Frequent shoppers get discounts. Bit pricey but quality merchandise.",
+            "published_at": "a year ago",
+            "published_at_date": "2021-12-17T21:11:44.480000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 596,
+            "total_number_of_photos_by_reviewer": 1777,
+            "reviewer_url": "https://www.google.com/maps/contrib/104001770147502874434/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIAECd4AX4sSt0_ttTzhBC4hM6_ClofW1wRw6maPMFJ=s120-c-rp-mo-ba6-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

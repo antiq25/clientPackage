@@ -1,0 +1,471 @@
+{
+    "place_id": "ChIJG3q8d85zhlQRcXV7OxDY740",
+    "name": "Celine's Fish & Chips",
+    "description": null,
+    "reviews": 206,
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Celine's Fish & Chips (Owner)",
+        "link": null
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOsac0XqRuC3CbyYD-MYE77y1GOaQSoWuugQ8dl=w493-h240-k-no",
+    "main_category": "Fish & chips restaurant",
+    "categories": [
+        "Fish & chips restaurant",
+        "Seafood restaurant"
+    ],
+    "rating": 3.1,
+    "workday_timing": "9 a.m.-6 p.m.",
+    "closed_on": [],
+    "phone": "(604) 669-8650",
+    "address": "Celine's Fish & Chips, 1689 Johnston St, Vancouver, BC V6H 3R9",
+    "review_keywords": [
+        {
+            "keyword": "halibut",
+            "count": 23
+        },
+        {
+            "keyword": "cod",
+            "count": 22
+        },
+        {
+            "keyword": "calamari",
+            "count": 15
+        },
+        {
+            "keyword": "batter",
+            "count": 15
+        },
+        {
+            "keyword": "oil",
+            "count": 10
+        },
+        {
+            "keyword": "platter",
+            "count": 9
+        },
+        {
+            "keyword": "oyster",
+            "count": 6
+        },
+        {
+            "keyword": "tartar sauce",
+            "count": 5
+        },
+        {
+            "keyword": "market",
+            "count": 5
+        },
+        {
+            "keyword": "onion rings",
+            "count": 5
+        }
+    ],
+    "link": "https://www.google.com/maps/place/Celine%27s+Fish+%26+Chips/data=!4m7!3m6!1s0x548673ce77bc7a1b:0x8defd8103b7b7571!8m2!3d49.2728385!4d-123.1349396!16s%2Fg%2F1w2yz472!19sChIJG3q8d85zhlQRcXV7OxDY740?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 9 a.m.",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 47,
+        "2": 30,
+        "3": 30,
+        "4": 44,
+        "5": 55
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJG3q8d85zhlQRcXV7OxDY740&q=Celine%27s+Fish+%26+Chips&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.2728385,
+        "longitude": -123.1349396
+    },
+    "plus_code": "7VF8+42 Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "West Side",
+        "street": "1689 Johnston St",
+        "city": "Vancouver",
+        "postal_code": "V6H 3R9",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "10227630843010708849",
+    "data_id": "0x548673ce77bc7a1b:0x8defd8103b7b7571",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Takeout",
+                    "enabled": true
+                },
+                {
+                    "name": "Dine-in",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Dining options",
+            "options": [
+                {
+                    "name": "Lunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Dinner",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosphere",
+            "options": [
+                {
+                    "name": "Casual",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planning",
+            "options": [
+                {
+                    "name": "Accepts reservations",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "children",
+            "name": "Children",
+            "options": [
+                {
+                    "name": "Good for kids",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOsac0XqRuC3CbyYD-MYE77y1GOaQSoWuugQ8dl=w613-h298-k-no"
+        },
+        {
+            "about": "Latest",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipM1l3ogTY7uzaQXah0hzR3kDXTWLSnmgBSKDc6t=w224-h298-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNsJrwJSNPWR24rhT-nyh5mWtv3hn25uOkqw90=w529-h298-k-no"
+        },
+        {
+            "about": "Menu",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipN1lCWEmPajDvdksy-6Lt5h0rHFyMkCS8VSWZ5E=w397-h298-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOxhpsmUbktL_a01gOo_Dt5T00iVflipJjSDehK=w397-h298-k-no"
+        },
+        {
+            "about": "Vibe",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipM2GCDYpyNqMO18doUQ72DBOi4OXxsNdqrJtXz-=w329-h298-k-no"
+        },
+        {
+            "about": "Take-out",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNC7SYoWp2PG-f8z3WaoLROiqYYNURKuOzeQVSi=w397-h298-k-no"
+        },
+        {
+            "about": "Fish and chips",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMD9QrJrOuX2_bRUODm9dtmQ5X4jHM0WzHLfuva=w397-h298-k-no"
+        },
+        {
+            "about": "French fries",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMj26Zp-S3RSAzAtFLq6bJfmjl2vQD5arV0isdG=w224-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=GFHi9CAOCUt7anIPZb1lgQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=186.27586&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "9 a.m.-6 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "9 a.m.-6 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "9 a.m.-6 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "9 a.m.-6 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "9 a.m.-6 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "9 a.m.-6 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "9 a.m.-6 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "The food came out at a decent time, so I didn't wait as long as expected. The batter on the cod seemed to be a bit too much. The calamari I enjoyed because it wasn't salted like other places. However, I wished I had more tartar sauce. Overall, it was okay.",
+            "reviewer_name": "Vinny T",
+            "rating": 3,
+            "review_text": "The food came out at a decent time, so I didn't wait as long as expected. The batter on the cod seemed to be a bit too much. The calamari I enjoyed because it wasn't salted like other places. However, I wished I had more tartar sauce. Overall, it was okay.",
+            "published_at": "2 weeks ago",
+            "published_at_date": "2023-11-04T03:40:22.665000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 98,
+            "total_number_of_photos_by_reviewer": 299,
+            "reviewer_url": "https://www.google.com/maps/contrib/103604201455878201466/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUiYnRxN4N4WIwLuDuXFCkWZ18A0W0qdLtOSNCLAtceUyc=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMOYAF4B_p3bbXG7nEYYQ0RhYgtR8yZ-BrRgBb_=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipN_s0LNCsckDiTBdm6s-sNbCkXglv3WrLLHCpMx=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipP_i7pZy2PYrEqOQs6nFZKieswHocay6eyx35yx=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Avoid. We got the sampler to see what is good.  It was mostly breading and oil and even the remaining actual seafood was not edible. Not fresh, overcooked etc.   We ended up throwing most of it out.  Everyone who ate was ill after a few minutes with indigestion.",
+            "reviewer_name": "Glen McCurdy",
+            "rating": 1,
+            "review_text": "Avoid. We got the sampler to see what is good.  It was mostly breading and oil and even the remaining actual seafood was not edible. Not fresh, overcooked etc.   We ended up throwing most of it out.  Everyone who ate was ill after a few minutes with indigestion.",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-07-26T05:03:37.583000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 5,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/109255688292666683959/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUec_0liJXq-6RHeQdcyikc_g8HWl__iCRkay7TmGd19A8=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNEgmuw6sCMWMP5qfDmZMgI-m8we7I6s_DDxCXm=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Looks elsewhere if youre looking for fish and chips what we got was uber dry fish, taste is okay.",
+            "reviewer_name": "Timothy Magpayo",
+            "rating": 2,
+            "review_text": "Looks elsewhere if youre looking for fish and chips what we got was uber dry fish, taste is okay.",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-03T15:09:22.684000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 13,
+            "total_number_of_photos_by_reviewer": 6,
+            "reviewer_url": "https://www.google.com/maps/contrib/116584500161856948222/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXisyTqE19zrlO_Gikrfu70EcUy3ZW1PHerqrpbgN7pxQ=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOvInW4EnoHjJcPGcs_80REWIGh-45LTiNBCB2y=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipN2_otgp5f0t3Nn8M9uaMGwP8WE_fsVRKSfwCHl=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "The fish was scrumptious. I ordered the cod & chips and it came with 2 pieces of cods. The batter was nicely fried and not too thick. I will definitely visit again and try the halibut",
+            "reviewer_name": "Ronnie Yeung",
+            "rating": 5,
+            "review_text": "The fish was scrumptious. I ordered the cod & chips and it came with 2 pieces of cods. The batter was nicely fried and not too thick. I will definitely visit again and try the halibut",
+            "published_at": "6 months ago",
+            "published_at_date": "2023-04-29T21:04:16.040000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 16,
+            "total_number_of_photos_by_reviewer": 23,
+            "reviewer_url": "https://www.google.com/maps/contrib/108398416252795269709/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJbpn4qWgDGG1-RvERHXzkCR7tpNQ57I2rG8jWZV6XK=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOrcb7i-uRc9LhpuJ3KamhxImkFqtywoMK7zimH=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Orders 1pc halibut and 1pc salmon, both were not good. Breading on the fish was undercooked and the flavor of both were bland. Fries were like eating pieces of cardboard...it was also expensive. The salmon was especially bad, it was full of bones and not even edible. Would definitely not recommend, probably one of the worst fish n chip places I've tried.",
+            "reviewer_name": "Matt Carr",
+            "rating": 1,
+            "review_text": "Orders 1pc halibut and 1pc salmon, both were not good. Breading on the fish was undercooked and the flavor of both were bland. Fries were like eating pieces of cardboard...it was also expensive. The salmon was especially bad, it was full of bones and not even edible. Would definitely not recommend, probably one of the worst fish n chip places I've tried.",
+            "published_at": "5 months ago",
+            "published_at_date": "2023-05-24T18:33:45.629000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 145,
+            "total_number_of_photos_by_reviewer": 410,
+            "reviewer_url": "https://www.google.com/maps/contrib/110770975498115387064/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVT1TjIf0KqS1-ysITqiirk_UvVbinkQWmYGpQP1PVLK7A=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNWoe8dCQtMqFPjwVWy9L9pKun2c5Rbw5lIWLP3=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Came across here at the public market. It have a large selection of seafood such as calamari, oyster, halibut\nGot the cod and chips. Pretty crispy and juicy. Price is decent with a good portion of fish and fries. The line is long but it moves quick.\nHighly recommended.",
+            "reviewer_name": "Michelle Lam",
+            "rating": 5,
+            "review_text": "Came across here at the public market. It have a large selection of seafood such as calamari, oyster, halibut\nGot the cod and chips. Pretty crispy and juicy. Price is decent with a good portion of fish and fries. The line is long but it moves quick.\nHighly recommended.",
+            "published_at": "a year ago",
+            "published_at_date": "2022-05-12T01:45:31.013000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 66,
+            "total_number_of_photos_by_reviewer": 489,
+            "reviewer_url": "https://www.google.com/maps/contrib/108784609745760877289/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXGCPDq7I0Gqffm4qnPP26eNSKRAB_bzsiFph1exfTbykE=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOpscLDPmEmRkzcEuA9OfaH8Av0B-GUO23r0ToN=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOKUZyZFqUAMCR8P569WXs0RH_OU0PsS1U-u5cy=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMj26Zp-S3RSAzAtFLq6bJfmjl2vQD5arV0isdG=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMjxtiI9nMQrUKCFBAmcW1WVGWJQ_C_UoXLLhMa=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPfMqbhhJyYRO0KTrUUoRcdxkl54nufSwNOyjDq=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPJsrtnBbhLFapEJ1HSeTAru13Nm70vqNyk6ltV=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "I don't usually give one star unless it's something really bad. But yesterday I got  mango bubble tea, it was sweet and a bit weird flavour, then I saw one of the woman staff inside cleaning her barefoot on the countertop. It was unhygienic and gross! I had to throw my drink away after seeing this happened. Won't come back again. Go teach your staff some food handling manner!!!",
+            "reviewer_name": "King Ma",
+            "rating": 1,
+            "review_text": "I don't usually give one star unless it's something really bad. But yesterday I got  mango bubble tea, it was sweet and a bit weird flavour, then I saw one of the woman staff inside cleaning her barefoot on the countertop. It was unhygienic and gross! I had to throw my drink away after seeing this happened. Won't come back again. Go teach your staff some food handling manner!!!",
+            "published_at": "6 months ago",
+            "published_at_date": "2023-05-18T17:20:30.816000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 335,
+            "total_number_of_photos_by_reviewer": 564,
+            "reviewer_url": "https://www.google.com/maps/contrib/104010567155450463866/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW5ySJQW_NasPFbUEkmL7VEtf3VaaFWfgWMiidlK_BXLgY=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNBokJcJBkXJgfXEFjzk1fHsa9uJKFYdoc7mdGu=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "I didn't want to leave a negative review but I can't hold in the disgust.\n\nI got the sampler for $27 and expected at least 2 pieces of prawn and oyster. There is only one small piece of prawn, and one small piece of oyster along with maybe 6 pieces of calamari, 2 pieces of tentacles and a cod. Most of the cod was over covered in dough. It came with re-fried fries (I could tell since I worked at A&W when I was young)  and the dough around the oyster was undercooked.\n\nWhile they were cooking it, the staff preparing in the back was eating her lunch in front of the prep station and holding her iPhone with her bare hands watching a video.",
+            "reviewer_name": "Eddy Lin",
+            "rating": 1,
+            "review_text": "I didn't want to leave a negative review but I can't hold in the disgust.\n\nI got the sampler for $27 and expected at least 2 pieces of prawn and oyster. There is only one small piece of prawn, and one small piece of oyster along with maybe 6 pieces of calamari, 2 pieces of tentacles and a cod. Most of the cod was over covered in dough. It came with re-fried fries (I could tell since I worked at A&W when I was young)  and the dough around the oyster was undercooked.\n\nWhile they were cooking it, the staff preparing in the back was eating her lunch in front of the prep station and holding her iPhone with her bare hands watching a video.",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-19T19:56:10.592000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 9,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/101282116056238373481/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLEsoHaJOpY5SzTUfFEbVPbZ0Pp0Ylc7BN2XhsHS49Y=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

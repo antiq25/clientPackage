@@ -1,0 +1,256 @@
+{
+    "place_id": "ChIJ_yUZAY12hlQRA9aGtHCR4qg",
+    "name": "StarGarden Corporation",
+    "description": null,
+    "reviews": 6,
+    "website": "http://www.stargarden.com/",
+    "owner": {
+        "id": "109184083283789064699",
+        "name": "StarGarden Corporation (Owner)",
+        "link": "https://www.google.com/maps/contrib/109184083283789064699"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMOfMeqK6SR_7RroWjct2irTJZP286IXTzBzJkg=w961-h240-k-no",
+    "main_category": "Software company",
+    "categories": [
+        "Software company"
+    ],
+    "rating": 4.5,
+    "workday_timing": "8 a.m.-5:30 p.m.",
+    "closed_on": [
+        "Saturday",
+        "Sunday"
+    ],
+    "phone": "+1 800-809-2880",
+    "address": "StarGarden Corporation, 3665 Kingsway, Vancouver, BC V5R 5W2",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/StarGarden+Corporation/data=!4m7!3m6!1s0x5486768d011925ff:0xa8e29170b486d603!8m2!3d49.2325664!4d-123.0242079!16s%2Fg%2F1thd1hbm!19sChIJ_yUZAY12hlQRA9aGtHCR4qg?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 8 a.m. Wed",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 1,
+        "3": 0,
+        "4": 0,
+        "5": 5
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ_yUZAY12hlQRA9aGtHCR4qg&q=StarGarden+Corporation&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.232566399999996,
+        "longitude": -123.0242079
+    },
+    "plus_code": "6XMG+28 Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "South Vancouver",
+        "street": "3665 Kingsway",
+        "city": "Vancouver",
+        "postal_code": "V5R 5W2",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "12169449056359601667",
+    "data_id": "0x5486768d011925ff:0xa8e29170b486d603",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMOfMeqK6SR_7RroWjct2irTJZP286IXTzBzJkg=w1194-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipP13JpdrUFJpig0VfoVJtDCN_xW-LvgsBfcf81H=w397-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=XedYD_BTbN_Yah3VTZUqGQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=10.66335&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "8 a.m.-5:30 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "8 a.m.-5:30 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "8 a.m.-5:30 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "8 a.m.-5:30 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "8 a.m.-5:30 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "Closed"
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "Closed"
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "Great software company to work with! Highly recommend.",
+            "reviewer_name": "Arshia A",
+            "rating": 5,
+            "review_text": "Great software company to work with! Highly recommend.",
+            "published_at": "a year ago",
+            "published_at_date": "2022-03-20T00:24:19.494000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 37,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/102440863900277587293/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLY7mcozhLkFvD4V5NKcQwLDfPmgE7WNYJHuO63cYUm=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Awesome company and cosy office!",
+            "reviewer_name": "Paul S",
+            "rating": 5,
+            "review_text": "Awesome company and cosy office!",
+            "published_at": "4 years ago",
+            "published_at_date": "2019-02-01T06:42:29.550000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 41,
+            "total_number_of_photos_by_reviewer": 2,
+            "reviewer_url": "https://www.google.com/maps/contrib/107004812297130353976/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocL_isZV0x05ybfcFjEZbtiC74avaLg6AIBuIsa0RsRV=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Jack Seary",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "5 months ago",
+            "published_at_date": "2023-06-09T18:55:42.849000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 14,
+            "total_number_of_photos_by_reviewer": 2,
+            "reviewer_url": "https://www.google.com/maps/contrib/108495083089892935225/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocI1QxUorjg55Y3ehF4DEHAcFnPiil6rrJai1KyzXqqC=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Am Singh",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "4 years ago",
+            "published_at_date": "2019-04-24T13:50:25.735000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 53,
+            "total_number_of_photos_by_reviewer": 6,
+            "reviewer_url": "https://www.google.com/maps/contrib/110928798161316091014/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIILtTaRE78h-iOIbeLZqo4apngcznJCZKWiMM9QXNT=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Mohammad saeed",
+            "rating": 2,
+            "review_text": null,
+            "published_at": "9 months ago",
+            "published_at_date": "2023-02-02T09:06:11.126000Z",
+            "response_from_owner_text": "Hi Mohammad,\n\nI would love to hear more about your experience with StarGarden and if there is anything we can do to help.\n\nWe do not have any client contacts with your name so we have not dealt with you personally. Are you an employee at a client site who uses StarGardens solution? Each one of our clients chooses what parts of StarGardens solution is best for their organization.\n\nPlease reach out to our team at info@stargarden.com and we would be happy to address any issues.",
+            "response_from_owner_ago": "9 months ago",
+            "response_from_owner_date": "2023-02-02T16:55:46.698000Z",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/107491607564553517970/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocL-y3WaGpOAsFnG44yWqhjyjbXY-SxSUgnx1ACZ6i15=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Adam Lloyd",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "3 years ago",
+            "published_at_date": "2020-10-30T16:57:49.615000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 0,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/103112786374869005418/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjV4pO_WkqJAktDPQmtd8aVbtw4mF2bNLhzKfzWj69Vxby4=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}
