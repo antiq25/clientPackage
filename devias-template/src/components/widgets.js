@@ -119,22 +119,31 @@ export const QuickStats8 = () => {
 
   return (
     <Box sx={{ backgroundColor: (theme) => (theme.palette.mode === 'dark' ? 'neutral.800' : 'neutral.100'), p: 3 }}>
-      <Box maxWidth="sm" sx={{ mx: 'auto' }}>
+      <Box maxWidth="sm"
+sx={{ mx: 'auto' }}>
         <Card>
-          <Stack alignItems="center" direction="row" spacing={2} sx={{ p: 3 }}>
+          <Stack alignItems="center"
+direction="row"
+spacing={2}
+sx={{ p: 3 }}>
             <Avatar sx={{ backgroundColor: 'primary.main', color: 'primary.contrastText' }}>
               <SvgIcon>
                 <RefreshCcw02Icon />
               </SvgIcon>
             </Avatar>
             <Box sx={{ flexGrow: 1 }}>
-              <Typography color="text.secondary" noWrap variant="body1">
+              <Typography color="text.secondary"
+noWrap
+variant="body1">
                 Conversions
               </Typography>
               <Typography variant="h4">{conversions}</Typography>
             </Box>
             <Box sx={{ maxWidth: 200 }}>
-              <Chart height={100} type="line" options={chartOptions} series={updatedChartSeries} />
+              <Chart height={100}
+type="line"
+options={chartOptions}
+series={updatedChartSeries} />
             </Box>
           </Stack>
         </Card>
