@@ -1,6 +1,6 @@
 #!/bin/bash
 
-export CPATH="$HOME/Desktop/clientPackage"
+export CPATH="$HOME/clientPackage"
 
 # Print ASCII art
 cat << "EOF"
@@ -30,7 +30,7 @@ fi
 
 
 
-kill node
+sh "./kill_servers"
 
 # Start Docker containers in the background
 docker-compose up -d
@@ -65,4 +65,4 @@ then
 fi
 
 # Start nodemon to run dataApi.js
-node js_bin/dataApi.js -p 3002
+

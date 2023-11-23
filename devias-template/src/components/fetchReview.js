@@ -13,7 +13,7 @@ const ReviewsFetcher = ({ apiHandler }) => {
   
     const collectReviews = () => {
       setIsLoading(true);
-      fetch('https://smart.aliveai.net:3002/collect-reviews', {
+      fetch('http://localhost:3002/collect-reviews', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -36,7 +36,7 @@ const ReviewsFetcher = ({ apiHandler }) => {
     };
 
   const importReviews = () => {
-    fetch('https://smart.aliveai.net:3002/import-reviews', {
+    fetch('http://localhost:3002/import-reviews', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
@@ -52,7 +52,7 @@ const ReviewsFetcher = ({ apiHandler }) => {
   };
 
   const getReviews = () => {
-    fetch('https://smart.aliveai.net:3002/reviews')
+    fetch('http://localhost:3002/reviews')
       .then((response) => response.json())
       .then((data) => {
         setReviews(data);

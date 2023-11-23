@@ -53,7 +53,7 @@ const CreateListingDialog = ({
   const collectReviews = async () => {
     setIsLoading(true);
     try {
-      const response = await fetch('https://smart.aliveai.net:3002/collect-reviews', {
+      const response = await fetch('http://localhost:3002/collect-reviews', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
