@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const baseURL = 'https://smart.aliveai.net:3000/api/v1/pixel'; // Replace with your actual base URL
+const baseURL = 'https://smart.aliveai.net/api/v1/pixel'; // Replace with your actual base URL
 
 // Log a view activity
 export const logView = async () => {

@@ -13,7 +13,7 @@ const ReviewsFetcher = ({ apiHandler }) => {
   
     const collectReviews = () => {
       setIsLoading(true);
-      fetch('http://localhost:3002/collect-reviews', {
+      fetch('https://database.aliveai.net/scrape/collect-reviews', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -36,7 +36,7 @@ const ReviewsFetcher = ({ apiHandler }) => {
     };
 
   const importReviews = () => {
-    fetch('http://localhost:3002/import-reviews', {
+    fetch('https://database.aliveai.net/scrape/import-reviews', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
@@ -52,7 +52,7 @@ const ReviewsFetcher = ({ apiHandler }) => {
   };
 
   const getReviews = () => {
-    fetch('http://localhost:3002/reviews')
+    fetch('https://database.aliveai.net/scrape/reviews')
       .then((response) => response.json())
       .then((data) => {
         setReviews(data);

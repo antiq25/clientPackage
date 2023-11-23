@@ -33,7 +33,7 @@ fi
 sh "./kill_servers"
 
 # Start Docker containers in the background
-docker-compose up -d
+sudo docker-compose up -d
 
 # Start the Next.js server in the background and store its PID
 (yarn prisma generate && yarn prisma migrate dev && cd "$CPATH/devias-template" && yarn next dev -p 3001) > nextjs.log 2>&1 &

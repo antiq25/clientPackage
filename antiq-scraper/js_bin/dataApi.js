@@ -27,7 +27,7 @@ const prisma = new PrismaClient();
 
 /* ***************************  C O L L E C T  ***************************************************/
 // ----------------------------  D A T A    ----------------------------------------------------//
-app.post("/collect-reviews", async (req, res) => {
+app.post("/scrape/collect-reviews", async (req, res) => {
 	try {
 		const { companyNames, companyLocations } = req.body;
 
@@ -87,7 +87,7 @@ app.post("/collect-reviews", async (req, res) => {
 
 /* ***************************   INJECT  ***************************************************/
 // ---------------------------	 DATA   ------------------------------------------------------//
-app.post("/import-reviews", async (req, res) => {
+app.post("/scrape/import-reviews", async (req, res) => {
 	try {
 		const filePath = path.join(
 			__dirname,
@@ -104,7 +104,7 @@ app.post("/import-reviews", async (req, res) => {
 
 
 
-app.get("/reviews", async (req, res) => {
+app.get("/scrape/reviews", async (req, res) => {
   try {
     const reviews = await prisma.review.findMany(); // Retrieve all reviews from the database
     res.status(200).json(reviews); // Send reviews as a JSON response
