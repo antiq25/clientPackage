@@ -1,0 +1,553 @@
+{
+    "place_id": "ChIJlY0pSTNwhlQR9bErUzmmU8o",
+    "name": "Burger King",
+    "description": "Well-known fast-food chain serving grilled burgers, fries & shakes.",
+    "reviews": 480,
+    "website": "https://www.burgerking.ca/store-locator/store/restaurant_11837",
+    "owner": {
+        "id": "108919326052698713185",
+        "name": "Burger King (Owner)",
+        "link": "https://www.google.com/maps/contrib/108919326052698713185"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN25NHG3vmj5R25RF_-Z_e513NX_0Y_nRK_t7Bs=w408-h306-k-no",
+    "main_category": "Restaurant",
+    "categories": [
+        "Restaurant",
+        "Fast food restaurant"
+    ],
+    "rating": 3.8,
+    "workday_timing": "7 a.m.-11 p.m.",
+    "closed_on": [],
+    "phone": "(604) 971-5100",
+    "address": "Burger King, 801 Marine Dr Unit 700, North Vancouver, BC V7P 3K6",
+    "review_keywords": [
+        {
+            "keyword": "whopper",
+            "count": 35
+        },
+        {
+            "keyword": "clean",
+            "count": 12
+        },
+        {
+            "keyword": "prices",
+            "count": 11
+        },
+        {
+            "keyword": "fries",
+            "count": 9
+        },
+        {
+            "keyword": "parking",
+            "count": 7
+        },
+        {
+            "keyword": "nuggets",
+            "count": 6
+        },
+        {
+            "keyword": "onion rings",
+            "count": 6
+        },
+        {
+            "keyword": "pay",
+            "count": 5
+        },
+        {
+            "keyword": "to go",
+            "count": 5
+        },
+        {
+            "keyword": "app",
+            "count": 4
+        }
+    ],
+    "link": "https://www.google.com/maps/place/Burger+King/data=!4m7!3m6!1s0x5486703349298d95:0xca53a639532bb1f5!8m2!3d49.3207592!4d-123.0957207!16s%2Fg%2F1hc7fgz1d!19sChIJlY0pSTNwhlQR9bErUzmmU8o?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 7 a.m. Sat",
+    "price_range": "$",
+    "reviews_per_rating": {
+        "1": 50,
+        "2": 33,
+        "3": 74,
+        "4": 153,
+        "5": 170
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJlY0pSTNwhlQR9bErUzmmU8o&q=Burger+King&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.3207592,
+        "longitude": -123.0957207
+    },
+    "plus_code": "8WC3+8P North Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": null,
+        "street": "801 Marine Dr Unit 700",
+        "city": "North Vancouver",
+        "postal_code": "V7P 3K6",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "14579179183867146741",
+    "data_id": "0x5486703349298d95:0xca53a639532bb1f5",
+    "menu": {
+        "link": "https://burgerking.ca/menu",
+        "source": "burgerking.ca"
+    },
+    "reservations": [],
+    "order_online_links": [
+        {
+            "link": "https://www.burgerking.ca/store-locator/store/restaurant_11837",
+            "source": "burgerking.ca"
+        },
+        {
+            "link": "https://www.ubereats.com/ca/store/burger-king-801-marine-drive/mvzpLphkRUKY8epiFHm0GQ?utm_campaign=place-action-link&utm_medium=organic&utm_source=google",
+            "source": "ubereats.com"
+        },
+        {
+            "link": "https://www.doordash.com/store/burger-king-north-vancouver-1153366/?utm_campaign=gpa",
+            "source": "doordash.com"
+        },
+        {
+            "link": "https://www.skipthedishes.com/burger-king-801?serviceType=delivery&utm_source=google&utm_medium=organic&utm_campaign=gpav2",
+            "source": "skipthedishes.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Takeout",
+                    "enabled": true
+                },
+                {
+                    "name": "Dine-in",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair accessible seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Coffee",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Dining options",
+            "options": [
+                {
+                    "name": "Breakfast",
+                    "enabled": true
+                },
+                {
+                    "name": "Lunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Dinner",
+                    "enabled": true
+                },
+                {
+                    "name": "Counter service",
+                    "enabled": true
+                },
+                {
+                    "name": "Dessert",
+                    "enabled": true
+                },
+                {
+                    "name": "Seating",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosphere",
+            "options": [
+                {
+                    "name": "Casual",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "crowd",
+            "name": "Crowd",
+            "options": [
+                {
+                    "name": "Family-friendly",
+                    "enabled": true
+                },
+                {
+                    "name": "Groups",
+                    "enabled": true
+                },
+                {
+                    "name": "LGBTQ+ friendly",
+                    "enabled": true
+                },
+                {
+                    "name": "Transgender safe space",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planning",
+            "options": [
+                {
+                    "name": "Accepts reservations",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "children",
+            "name": "Children",
+            "options": [
+                {
+                    "name": "Good for kids",
+                    "enabled": true
+                },
+                {
+                    "name": "High chairs",
+                    "enabled": true
+                },
+                {
+                    "name": "Kids' menu",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "parking",
+            "name": "Parking",
+            "options": [
+                {
+                    "name": "Free parking lot",
+                    "enabled": true
+                },
+                {
+                    "name": "Parking",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipN25NHG3vmj5R25RF_-Z_e513NX_0Y_nRK_t7Bs=w397-h298-k-no"
+        },
+        {
+            "about": "Menu",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMzjpM_ZStD4Rh8jx9jv1IuqNLls9hNC1_Gu7FW=w224-h317-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMnqenq3jRDPIl318BxnDSthKnKHmCbVmaNtD3X=w298-h298-k-no"
+        },
+        {
+            "about": "Vibe",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOPuQtjctpJZXhtGZUL-je575qixFI0VskwC-eS=w638-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNK5xykb1bVJBqPXMysT6ekviOszNKQQMTpq4Qy=w298-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=IfUbVn84r42KS-pIGwnhUQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=283.6877&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Sunday",
+            "times": [
+                "7 a.m.-11 p.m."
+            ]
+        },
+        {
+            "day": "Monday",
+            "times": [
+                "7 a.m.-11 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "7 a.m.-11 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "7 a.m.-11 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "7 a.m.-11 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "7 a.m.-11 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "7 a.m.-11 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "This is my favorite BK. Staff are friendly, helpful and doing their best to keep area and tables clean. Dining is large enough with plenty sitting tables and stools. Free parking lot in front. Food quality is good and free refill for drinks available. BK has always good offers if install the App or use coupons. Save your time and money  with order ahead by mobile app is the best choice.",
+            "reviewer_name": "Mehrdad Arastoo",
+            "rating": 5,
+            "review_text": "This is my favorite BK. Staff are friendly, helpful and doing their best to keep area and tables clean. Dining is large enough with plenty sitting tables and stools. Free parking lot in front. Food quality is good and free refill for drinks available. BK has always good offers if install the App or use coupons. Save your time and money  with order ahead by mobile app is the best choice.",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-12T23:00:55.390000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 321,
+            "total_number_of_photos_by_reviewer": 1018,
+            "reviewer_url": "https://www.google.com/maps/contrib/102403232451945830383/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjU5E1yTsk33MbcNowL5MNqWphSK5hCNhc7GlMLrYdeFZ8s=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOPuQtjctpJZXhtGZUL-je575qixFI0VskwC-eS=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNkkW7Bvjvti63ws0uZtu5U6fVD_foV1E3pj-UN=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "So I came to burger King, got some nice whoppers, decided to get some NASTY SMORES drink, the lady was nice to change it for something else. Although I had some backup, from a stranger who got the same order of that Coffee Smores drink, and freaking did a U-Turn with the drinks and he helped me to make the lady change her mind to give us   some ketchup nuggets instead and pay the $1 dollar difference. The ketchup nuggets are actually pretty good, although my boyfriend didn't like them. But warning THOSE SMORES DRINKS  are awful they taste like e-juice.",
+            "reviewer_name": "Ayla Hoeve",
+            "rating": 3,
+            "review_text": "So I came to burger King, got some nice whoppers, decided to get some NASTY SMORES drink, the lady was nice to change it for something else. Although I had some backup, from a stranger who got the same order of that Coffee Smores drink, and freaking did a U-Turn with the drinks and he helped me to make the lady change her mind to give us   some ketchup nuggets instead and pay the $1 dollar difference. The ketchup nuggets are actually pretty good, although my boyfriend didn't like them. But warning THOSE SMORES DRINKS  are awful they taste like e-juice.",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-14T18:09:55.639000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 19,
+            "total_number_of_photos_by_reviewer": 87,
+            "reviewer_url": "https://www.google.com/maps/contrib/118249487587014545958/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVhCJfx34EIlCZuF0RGj2lk9qsRlkfr7msKD_l0eHll2FE=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNuWt2Lkf74D9AjPxBV13bjdZct3X1ikhxDJSyO=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPSfc1iWF0yslLp0s1z2rCsG5k9QaoOG5aFWM_0=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "The phillipinee girl working at this location is very rude.. I don't understand what kind of attitude she carries.. raising eyebrows and showing attitude while taking order. Relax girl, you're not giving anything for free. We pay for the things we order.   poor service!",
+            "reviewer_name": "gick grewal",
+            "rating": 1,
+            "review_text": "The phillipinee girl working at this location is very rude.. I don't understand what kind of attitude she carries.. raising eyebrows and showing attitude while taking order. Relax girl, you're not giving anything for free. We pay for the things we order.   poor service!",
+            "published_at": "2 weeks ago",
+            "published_at_date": "2023-11-11T06:32:45.932000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 6,
+            "total_number_of_photos_by_reviewer": 2,
+            "reviewer_url": "https://www.google.com/maps/contrib/110690132172079840274/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocI_t5NlYuxnWb2-YcvPIBiK5yPvG-YX056Z6yrhbAEb=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Located in an open mall, place itself is very well maintained, floor is clean and clutter free.\nTables are clean and looked after, when customers leave.\nBut the sandwiches were very soggy and soft.\nThe fries and onion rings were good and fresh, and no burnt oil smell.",
+            "reviewer_name": "Al",
+            "rating": 3,
+            "review_text": "Located in an open mall, place itself is very well maintained, floor is clean and clutter free.\nTables are clean and looked after, when customers leave.\nBut the sandwiches were very soggy and soft.\nThe fries and onion rings were good and fresh, and no burnt oil smell.",
+            "published_at": "4 years ago",
+            "published_at_date": "2019-08-24T22:06:06.419000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 173,
+            "total_number_of_photos_by_reviewer": 749,
+            "reviewer_url": "https://www.google.com/maps/contrib/115549377255575720242/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXmmCroF2aHWCEb2ScnMkcDwDi5L3Hwc4f8mBjsYKbcxn0=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipO32ntZGaE5sT2S0BdKoRlqwa2v4i1FOn_9Q7Xb=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipM-MMHs_HINdleulwnpfzs5SaXlkNq0qttBJp85=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipM5lcZQozjGhAVIdG9Ogd8YRGpL1aK181_SnPcq=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNLPraD-bEey_Qt1x_8coih0--cdSi3EIMRCCTu=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMW3-VqqjXOaRr6cRyyDjkq0dda9rAk5VNAPpBr=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNNNLhMSlNmg3rAXg3GPTHSHJulMduSrOoG9jIp=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Clean and neat!\nNice location in North Vancouver!\nThe quality of the service is not good!\nThe person that served me was not professional, there was no smile, no greetings, no even asking about what I want to add up to my meal for example (cheese with burger or not) and very un welcoming to the customers.\nI understand the bad situation that people might go through but me as a customer always expect to be treated well.\nFood quality was not the best!\nI asked for to go order and the fries too dry and cold:(\n--------------------------------\nUpdate\nI went many times later, every time I go the service was good and everything was good so I had to update the eating from 2 to 4.",
+            "reviewer_name": "Omar Al-Allaf",
+            "rating": 4,
+            "review_text": "Clean and neat!\nNice location in North Vancouver!\nThe quality of the service is not good!\nThe person that served me was not professional, there was no smile, no greetings, no even asking about what I want to add up to my meal for example (cheese with burger or not) and very un welcoming to the customers.\nI understand the bad situation that people might go through but me as a customer always expect to be treated well.\nFood quality was not the best!\nI asked for to go order and the fries too dry and cold:(\n--------------------------------\nUpdate\nI went many times later, every time I go the service was good and everything was good so I had to update the eating from 2 to 4.",
+            "published_at": "a year ago",
+            "published_at_date": "2022-09-12T15:42:09.223000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 106,
+            "total_number_of_photos_by_reviewer": 374,
+            "reviewer_url": "https://www.google.com/maps/contrib/107546933439980370071/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUiK-0LgOQcprY1gmG81IkjqRr83Vi-7zDjRD7-iIrDcsBY=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipP6o40SSSEHvAjBGB8LHaaRfK9r2s3QyhxWl38X=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipN_WzVHJxRqtoCKWzm0cWAyX-mGpBH9ReYg9sSQ=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPcsnMycpXnnVvV5wUm2pKUh7iyVOSRxL_UJYIT=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "The manager Arlene does not follow proper food safe. I witnessed her picking her nose while serving our good. DISGUSTING",
+            "reviewer_name": "chad brake",
+            "rating": 1,
+            "review_text": "The manager Arlene does not follow proper food safe. I witnessed her picking her nose while serving our good. DISGUSTING",
+            "published_at": "4 weeks ago",
+            "published_at_date": "2023-10-25T23:12:25.507000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 13,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/109232031229518988587/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLSL75wD5oVUQ7R5i84cn1r140MfbSWo2UZDeovROAf=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "I had my lunch in this location today. I had a good experience. Alex was a nice young man friendly and without attitude who helped me with my order. I will definitely come back.",
+            "reviewer_name": "LMSR",
+            "rating": 5,
+            "review_text": "I had my lunch in this location today. I had a good experience. Alex was a nice young man friendly and without attitude who helped me with my order. I will definitely come back.",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-24T07:03:01.670000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 59,
+            "total_number_of_photos_by_reviewer": 18,
+            "reviewer_url": "https://www.google.com/maps/contrib/110927021730423642451/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXst7CQsAFnjtZUad0ZbP8h3kMZ7kKGVA5UJS-DPnoq9reH=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Arlene is very rude & unprofessional. She needs retraining in how to deal with customers. TERRIBLE EXPERIENCE. Burgers are very cold and disgusting",
+            "reviewer_name": "alex ja",
+            "rating": 1,
+            "review_text": "Arlene is very rude & unprofessional. She needs retraining in how to deal with customers. TERRIBLE EXPERIENCE. Burgers are very cold and disgusting",
+            "published_at": "4 weeks ago",
+            "published_at_date": "2023-10-25T23:14:31.646000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/102460965872562505787/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKjjjnX8ETwwTqq9ngWTv0ZyDDoMBymYsBHvF3I95yQ=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

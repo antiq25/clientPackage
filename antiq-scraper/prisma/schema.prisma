@@ -7,11 +7,45 @@ datasource db {
   url      = env("DATABASE_URL")
 }
 
-model Review {
-  review_id         String   @id
-  reviewer_name     String
-  rating            Int
-  review_text       String
-  published_at      String
-  published_at_date DateTime
+model Business {
+  id                  String           @id @default(uuid())
+  userId              String?           // Reference to the User ID from the other database
+  placeId             String           @unique
+  name                String
+  description         String?
+  isSpendingOnAds     Boolean          @default(false)
+  reviewCount         Int
+  averageRating       Float
+  website             String?
+  featuredImage       String?
+  mainCategory        String?
+  categories          String[]
+  workdayTiming       String?
+  closedOn            String[]
+  phone               String?
+  address             String
+  detailedReviews     DetailedReview[]
+  // ... other fields you might have for the Business model
+}
+
+model DetailedReview {
+  id                              String   @id @default(uuid())
+  userId                          String?   // Reference to the User ID from the other database
+  businessId                      String
+  business                        Business @relation(fields: [businessId], references: [id])
+  reviewId                        String   @unique
+  reviewerName                    String
+  rating                          Int
+  reviewText                      String?
+  publishedAt                     DateTime
+  responseFromOwnerText           String?
+  responseFromOwnerDate           DateTime?
+  reviewLikesCount                Int      @default(0)
+  totalNumberOfReviewsByReviewer  Int      @default(0)
+  totalNumberOfPhotosByReviewer   Int?     // Nullable if not always provided
+  reviewerUrl                     String?
+  isLocalGuide                    Boolean  @default(false)
+  reviewTranslatedText            String?
+  responseFromOwnerTranslatedText String?
+  // ... other fields you might have for the DetailedReview model
 }

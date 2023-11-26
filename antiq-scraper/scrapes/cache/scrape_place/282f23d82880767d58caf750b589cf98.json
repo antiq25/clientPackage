@@ -1,0 +1,542 @@
+{
+    "place_id": "ChIJxabTsH9xhlQR7ld9BtRZiPw",
+    "name": "Burger King",
+    "description": "Well-known fast-food chain serving grilled burgers, fries & shakes.",
+    "reviews": 910,
+    "website": "https://www.burgerking.ca/store-locator/store/restaurant_10377",
+    "owner": {
+        "id": "115136442237811519797",
+        "name": "Burger King (Owner)",
+        "link": "https://www.google.com/maps/contrib/115136442237811519797"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMG0XjSkskQVHHBYXSEiLb_przAnmsPvibzEQTT=w408-h725-k-no",
+    "main_category": "Restaurant",
+    "categories": [
+        "Restaurant",
+        "Fast food restaurant"
+    ],
+    "rating": 3.5,
+    "workday_timing": "Open 24 hours",
+    "closed_on": [],
+    "phone": "(604) 681-8895",
+    "address": "Burger King, 821 Granville St, Vancouver, BC V6Z 1K9",
+    "review_keywords": [
+        {
+            "keyword": "whopper",
+            "count": 47
+        },
+        {
+            "keyword": "fries",
+            "count": 22
+        },
+        {
+            "keyword": "clean",
+            "count": 16
+        },
+        {
+            "keyword": "cashier",
+            "count": 11
+        },
+        {
+            "keyword": "homeless people",
+            "count": 10
+        },
+        {
+            "keyword": "chicken nuggets",
+            "count": 7
+        },
+        {
+            "keyword": "wednesday",
+            "count": 7
+        },
+        {
+            "keyword": "bun",
+            "count": 5
+        },
+        {
+            "keyword": "coupon",
+            "count": 5
+        },
+        {
+            "keyword": "name",
+            "count": 5
+        }
+    ],
+    "link": "https://www.google.com/maps/place/Burger+King/data=!4m7!3m6!1s0x5486717fb0d3a6c5:0xfc8859d4067d57ee!8m2!3d49.2812302!4d-123.120573!16s%2Fg%2F1q62l74zk!19sChIJxabTsH9xhlQR7ld9BtRZiPw?authuser=0&hl=en&rclk=1",
+    "status": "Open 24 hours",
+    "price_range": "$",
+    "reviews_per_rating": {
+        "1": 128,
+        "2": 76,
+        "3": 211,
+        "4": 217,
+        "5": 278
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJxabTsH9xhlQR7ld9BtRZiPw&q=Burger+King&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.281230199999996,
+        "longitude": -123.120573
+    },
+    "plus_code": "7VJH+FQ Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "Downtown Vancouver",
+        "street": "821 Granville St",
+        "city": "Vancouver",
+        "postal_code": "V6Z 1K9",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "18196893061567305710",
+    "data_id": "0x5486717fb0d3a6c5:0xfc8859d4067d57ee",
+    "menu": {
+        "link": "https://burgerking.ca/menu",
+        "source": "burgerking.ca"
+    },
+    "reservations": [],
+    "order_online_links": [
+        {
+            "link": "https://www.burgerking.ca/store-locator/store/restaurant_10377",
+            "source": "burgerking.ca"
+        },
+        {
+            "link": "https://www.ubereats.com/ca/store/burger-king-821-granville-street/79mYG5onTEifVOY1o3BcHQ?utm_campaign=place-action-link&utm_medium=organic&utm_source=google",
+            "source": "ubereats.com"
+        },
+        {
+            "link": "https://www.skipthedishes.com/burger-king-821-granville?serviceType=delivery&utm_source=google&utm_medium=organic&utm_campaign=gpav2",
+            "source": "skipthedishes.com"
+        },
+        {
+            "link": "https://www.doordash.com/store/burger-king-vancouver-878664/?utm_campaign=gpa",
+            "source": "doordash.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Takeout",
+                    "enabled": true
+                },
+                {
+                    "name": "Dine-in",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair accessible seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Coffee",
+                    "enabled": true
+                },
+                {
+                    "name": "Late-night food",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Dining options",
+            "options": [
+                {
+                    "name": "Breakfast",
+                    "enabled": true
+                },
+                {
+                    "name": "Lunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Dinner",
+                    "enabled": true
+                },
+                {
+                    "name": "Counter service",
+                    "enabled": true
+                },
+                {
+                    "name": "Dessert",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosphere",
+            "options": [
+                {
+                    "name": "Casual",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "crowd",
+            "name": "Crowd",
+            "options": [
+                {
+                    "name": "Family-friendly",
+                    "enabled": true
+                },
+                {
+                    "name": "Groups",
+                    "enabled": true
+                },
+                {
+                    "name": "LGBTQ+ friendly",
+                    "enabled": true
+                },
+                {
+                    "name": "Transgender safe space",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planning",
+            "options": [
+                {
+                    "name": "Accepts reservations",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "children",
+            "name": "Children",
+            "options": [
+                {
+                    "name": "Good for kids",
+                    "enabled": true
+                },
+                {
+                    "name": "Kids' menu",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMG0XjSkskQVHHBYXSEiLb_przAnmsPvibzEQTT=w224-h398-k-no"
+        },
+        {
+            "about": "Latest",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNtPZE8_s-J7297Ft4aucn_WjvxvRrId-2tju3I=w224-h298-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPmv9GXjZAfNlXpB4-qEtICddxeiZABKi24WkAq=w224-h398-k-no"
+        },
+        {
+            "about": "Menu",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPimkCs1vLko1Fts_6mD0e9t2SwCLmlikcvJe3o=w224-h298-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNChFbkHI2CUemfwSimQuitxlz8N6cYpAjHaf_v=w298-h298-k-no"
+        },
+        {
+            "about": "Vibe",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOlJNRK1USlr_t3x4buD7H6kxWrljbHvc91VdVZ=w397-h298-k-no"
+        },
+        {
+            "about": "French fries",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMl-v114VrvS6tyexjg1xrFl3VS3QdKjh9MxtuY=w298-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipP5QASvTeaP1Hz4kZHd3Vn51G14SnVmocr6tuWm=w298-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNHr-6sk_nHbl_zzg5W-gdMTWiwjxLzBMwqLebY=w224-h298-k-no-pi-20-ya0-ro-0-fo100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Sunday",
+            "times": [
+                "12 a.m.-9 p.m."
+            ]
+        },
+        {
+            "day": "Monday",
+            "times": [
+                "9 a.m.-9 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "9 a.m.-9 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "9 a.m.-12 a.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "Open 24 hours"
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "Open 24 hours"
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "Open 24 hours"
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "We went there after the bars let out. The food quality was as expected but the restaurant was dirty and had two sleeping people passed out within view of the staff. At one point I thought one of the guys was dead and the staff said they will look into it. Luckily the guy was okay.",
+            "reviewer_name": "Go time",
+            "rating": 2,
+            "review_text": "We went there after the bars let out. The food quality was as expected but the restaurant was dirty and had two sleeping people passed out within view of the staff. At one point I thought one of the guys was dead and the staff said they will look into it. Luckily the guy was okay.",
+            "published_at": "7 months ago",
+            "published_at_date": "2023-04-15T21:48:41.236000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 305,
+            "total_number_of_photos_by_reviewer": 2008,
+            "reviewer_url": "https://www.google.com/maps/contrib/112005016945494812675/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUAf5poLBmA36Fyjntz-4j9GiV6okhE7Jm4d-6oNAtCrLw=s120-c-rp-mo-ba6-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNyhIpLqbzsVhVstCVl-n4CIVE0craJRr0BYWaq=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOfb-tBalEaVaMciXbouOf8UfT-Qn6u6KBL1T2I=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOG60Fu4MD3DaGMJhsBUtLCOp1LLVl3n2AEgJZH=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPimkCs1vLko1Fts_6mD0e9t2SwCLmlikcvJe3o=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPhW014iTJpXsi3ure8sah4MHJcmrevcwMKl7NS=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "I can't believe I haven't reviewed this Burger King yet. This place is legendary. If you're a super posh person who can't handle the real world, this Burger King isn't for you. That said, all kinds of people frequent this Burger King. Of course there are individuals, I know someone who got ripped off by an individual in this Burger King. There are also regular working people, office people, young people, and tourists. Usually they always have posters up for items that sold out long ago. They have a really large menu with a lot of customizability. I always found the staff to be nice and patient with me, even though I have yet to memorize the Burger King menu, and always need to read it when I get to the front. When you're standing at the front waiting for your food, it feels really tense, like a contest, because some things take forever, and you could get your food way earlier or way later than you expect.\n\nNot just anybody can use the bathrooms, they would be too prone to abuse in a location like this, the bathrooms are for paying customers only. No shenanigans.\n\nI like the music they play in here, it's always pleasant. Generally '70s music with a leaning towards soul.\n\nThe Angry Whopper is dope, I like that, I get it with no cheese because I'm lactose intolerant. I want to try and see if they have any spicy chicken tenders or nuggets.\n\nThis is a lively and fun establishment.\n\nTo be honest, I like to go to Jollibee first and order a two piece chicken, eat that, and then smuggle the Jollibee gravy in my pocket and use it for the Burger King fries. I haven't gotten banned yet.\n\nI usually go during off hours in the afternoons, and there are a lot of individuals. Right now I'm here at lunch and it is very orderly and normal. Kind of disappointing, really.",
+            "reviewer_name": "Merle Langlois",
+            "rating": 5,
+            "review_text": "I can't believe I haven't reviewed this Burger King yet. This place is legendary. If you're a super posh person who can't handle the real world, this Burger King isn't for you. That said, all kinds of people frequent this Burger King. Of course there are individuals, I know someone who got ripped off by an individual in this Burger King. There are also regular working people, office people, young people, and tourists. Usually they always have posters up for items that sold out long ago. They have a really large menu with a lot of customizability. I always found the staff to be nice and patient with me, even though I have yet to memorize the Burger King menu, and always need to read it when I get to the front. When you're standing at the front waiting for your food, it feels really tense, like a contest, because some things take forever, and you could get your food way earlier or way later than you expect.\n\nNot just anybody can use the bathrooms, they would be too prone to abuse in a location like this, the bathrooms are for paying customers only. No shenanigans.\n\nI like the music they play in here, it's always pleasant. Generally '70s music with a leaning towards soul.\n\nThe Angry Whopper is dope, I like that, I get it with no cheese because I'm lactose intolerant. I want to try and see if they have any spicy chicken tenders or nuggets.\n\nThis is a lively and fun establishment.\n\nTo be honest, I like to go to Jollibee first and order a two piece chicken, eat that, and then smuggle the Jollibee gravy in my pocket and use it for the Burger King fries. I haven't gotten banned yet.\n\nI usually go during off hours in the afternoons, and there are a lot of individuals. Right now I'm here at lunch and it is very orderly and normal. Kind of disappointing, really.",
+            "published_at": "a week ago",
+            "published_at_date": "2023-11-15T23:27:22.769000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 87,
+            "total_number_of_photos_by_reviewer": 10,
+            "reviewer_url": "https://www.google.com/maps/contrib/109681233722846164297/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJvgyef7LxWJWraUOqXjhTUOF_DuFA7ek_tQvhBspOP=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipO7JYLtvlwACgG3rfrRIrZqRya7A5RYLI_yFaGH=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOE7rGgeKzY9-knY4iNrkr0be7SUuLDA41jH-_G=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "I usually don't leave 1 star reviews unless it's really bad, but this place warrants it. I made a mobile order and went for pick up about 10 minutes later. The staff asked for my order number which I provided. They told me to wait a bit more since it was still being made. I waited for around 20 minutes right in front of the pick up window so they were aware I was there the entire time. When the order numbers being called were way ahead of mine, I asked if my order was ready yet since it looked like they'd forgotten about mine. Guess what, it was sitting in the back ready for god knows how long.\n\nThe staff really don't care about their customers and it's also quite obvious that their processes are extremely inefficient from watching them for 20 minutes. Avoid this BK unless necessary.",
+            "reviewer_name": "Johnny Lam",
+            "rating": 1,
+            "review_text": "I usually don't leave 1 star reviews unless it's really bad, but this place warrants it. I made a mobile order and went for pick up about 10 minutes later. The staff asked for my order number which I provided. They told me to wait a bit more since it was still being made. I waited for around 20 minutes right in front of the pick up window so they were aware I was there the entire time. When the order numbers being called were way ahead of mine, I asked if my order was ready yet since it looked like they'd forgotten about mine. Guess what, it was sitting in the back ready for god knows how long.\n\nThe staff really don't care about their customers and it's also quite obvious that their processes are extremely inefficient from watching them for 20 minutes. Avoid this BK unless necessary.",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-18T21:22:11.296000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 130,
+            "total_number_of_photos_by_reviewer": 290,
+            "reviewer_url": "https://www.google.com/maps/contrib/105085024613050375122/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVrW2Sy-H3gI2wP85xVpFroTRn3KQ0PmDfnrg57oez-Y3k7=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "We've ordered from here a few times and they always give us the wrong order entirely. Employees are barely literate and cannot understand simple english sentences. If they cannot handle a 1-item fast food order then they probably also can't clean their restaurant properly. Absolutely horrible.",
+            "reviewer_name": "David Bico",
+            "rating": 1,
+            "review_text": "We've ordered from here a few times and they always give us the wrong order entirely. Employees are barely literate and cannot understand simple english sentences. If they cannot handle a 1-item fast food order then they probably also can't clean their restaurant properly. Absolutely horrible.",
+            "published_at": "3 weeks ago",
+            "published_at_date": "2023-11-01T23:28:50.090000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/113251742410861275213/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUPofDOZU2Cthk2ckb27vjay1NaEdSFdttDodE6V9Grf08=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Good food relative to price, friendly staff.",
+            "reviewer_name": "Kaveh Dorafshan",
+            "rating": 5,
+            "review_text": "Good food relative to price, friendly staff.",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-24T22:33:33.584000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 5,
+            "total_number_of_photos_by_reviewer": 151,
+            "reviewer_url": "https://www.google.com/maps/contrib/116680632543102573036/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUIC5jvT4u6BkEKcOljfnaHMWJpkxaGCUMByiQ00Fk8Klyh=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOZLb7bixmKuEh_Y3REMlEpO1ax99-UoZpDJbxr=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Went in to use the bathroom but had to buy something, understandable, except for the part where employees forgot for 20 minutes, and when I went to ask again said okay will be right there, where I waited for another 10 minutes before going somewhere else. In this time employees were using the bathroom consistently. Food and Drinks were trash and service was trash.",
+            "reviewer_name": "Julianna K.",
+            "rating": 1,
+            "review_text": "Went in to use the bathroom but had to buy something, understandable, except for the part where employees forgot for 20 minutes, and when I went to ask again said okay will be right there, where I waited for another 10 minutes before going somewhere else. In this time employees were using the bathroom consistently. Food and Drinks were trash and service was trash.",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-08-31T00:37:14.884000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/111439927258961567242/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLmX82rndAfzzU4FJZ0T2un3qlkj5zAZWTBjexFa_rL=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Whopper is always delicious and big enough to fill your stomach. Chicken poppers are ok but the chicken is not high quality. Service is efficient and quick but I took off a star because they replaced my dipping sauce with another one without telling me because they were out of the one I ordered. I would have appreciated that they asked me with which one to replace. Also I took off another star for the size of the fries that is ridiculously small. Seriously bk, even the small size of McDo is bigger than your medium size!!",
+            "reviewer_name": "Sophie N",
+            "rating": 3,
+            "review_text": "Whopper is always delicious and big enough to fill your stomach. Chicken poppers are ok but the chicken is not high quality. Service is efficient and quick but I took off a star because they replaced my dipping sauce with another one without telling me because they were out of the one I ordered. I would have appreciated that they asked me with which one to replace. Also I took off another star for the size of the fries that is ridiculously small. Seriously bk, even the small size of McDo is bigger than your medium size!!",
+            "published_at": "2 years ago",
+            "published_at_date": "2021-07-20T04:20:18.161000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 452,
+            "total_number_of_photos_by_reviewer": 1013,
+            "reviewer_url": "https://www.google.com/maps/contrib/105140964694578394985/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVayWIbpuHwhY6tAgvZkrC_BFBU29-4WfSkXUr1AUZgj-s=s120-c-rp-mo-ba6-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNI5aQ9OrEa1ul5EmFeoI-zbaYJNaCdWEHPZAEI=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNCn0qnwmUIAMFs2ifVObPgm0aG9QWGLvzHlxMt=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipM29kcGpRHH40KrAE6adE9x0Nm23ZoDMNxauAEL=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOUBKRG5a9hLEN4w6inkq1q__eOg_CxBnL4Z-uw=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "A place with a bathroom to use which is very rare in Vancouver. Good food and service but didn't pay attention to my special order burger.  Ordered a whopper junior with onion rings and a whopper with no lettuce, extra pickle, extra onions. Just got a regular whopper with normal fixings.Otherwise coulda got the five stars.",
+            "reviewer_name": "Paul Mcclaskin",
+            "rating": 3,
+            "review_text": "A place with a bathroom to use which is very rare in Vancouver. Good food and service but didn't pay attention to my special order burger.  Ordered a whopper junior with onion rings and a whopper with no lettuce, extra pickle, extra onions. Just got a regular whopper with normal fixings.Otherwise coulda got the five stars.",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-07-30T03:59:48.008000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 25,
+            "total_number_of_photos_by_reviewer": 7,
+            "reviewer_url": "https://www.google.com/maps/contrib/106110361059407580858/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJXfPcA8wP2xUtczJmsbkU64brLT8z7nSo1Tf2pMs9HWA=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

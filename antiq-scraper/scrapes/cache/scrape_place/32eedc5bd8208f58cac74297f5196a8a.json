@@ -1,0 +1,545 @@
+{
+    "place_id": "ChIJfViWMXpxhlQR6op4X183_dY",
+    "name": "McDonald's",
+    "description": "Classic, long-running fast-food chain known for its burgers & fries.",
+    "reviews": 1054,
+    "website": "https://www.mcdonalds.com/ca/en-ca/restaurant-locator.html%3Fy_source%3D1_MTQ1MjA0NzctNzE1LWxvY2F0aW9uLndlYnNpdGU%253D",
+    "owner": {
+        "id": "112118695432574339709",
+        "name": "McDonald's (Owner)",
+        "link": "https://www.google.com/maps/contrib/112118695432574339709"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNumdI1ROa7GX6O2xH7dTH1GqF5nkrDAM_ZzO_3=w408-h306-k-no",
+    "main_category": "Fast food restaurant",
+    "categories": [
+        "Fast food restaurant",
+        "American restaurant",
+        "Breakfast restaurant",
+        "Cafe",
+        "Hamburger restaurant",
+        "Restaurant"
+    ],
+    "rating": 3.2,
+    "workday_timing": "7 a.m.-11 p.m.",
+    "closed_on": [],
+    "phone": "(604) 718-1165",
+    "address": "McDonald's, 86 W Pender St #1001, Vancouver, BC V6B 6N8",
+    "review_keywords": [
+        {
+            "keyword": "homeless",
+            "count": 29
+        },
+        {
+            "keyword": "coffee",
+            "count": 22
+        },
+        {
+            "keyword": "area",
+            "count": 13
+        },
+        {
+            "keyword": "cashier",
+            "count": 11
+        },
+        {
+            "keyword": "addicts",
+            "count": 6
+        },
+        {
+            "keyword": "mall",
+            "count": 6
+        },
+        {
+            "keyword": "walking",
+            "count": 6
+        },
+        {
+            "keyword": "cone",
+            "count": 5
+        },
+        {
+            "keyword": "life",
+            "count": 5
+        },
+        {
+            "keyword": "sitting",
+            "count": 5
+        }
+    ],
+    "link": "https://www.google.com/maps/place/McDonald%27s/data=!4m7!3m6!1s0x5486717a3196587d:0xd6fd375f5f788aea!8m2!3d49.2808074!4d-123.1072714!16s%2Fg%2F11_svczm2!19sChIJfViWMXpxhlQR6op4X183_dY?authuser=0&hl=en&rclk=1",
+    "status": "Open 24 hours",
+    "price_range": "$",
+    "reviews_per_rating": {
+        "1": 220,
+        "2": 109,
+        "3": 257,
+        "4": 217,
+        "5": 251
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJfViWMXpxhlQR6op4X183_dY&q=McDonald%27s&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.2808074,
+        "longitude": -123.10727139999999
+    },
+    "plus_code": "7VJV+83 Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "Downtown Vancouver",
+        "street": "86 W Pender St #1001",
+        "city": "Vancouver",
+        "postal_code": "V6B 6N8",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "15491599175987530474",
+    "data_id": "0x5486717a3196587d:0xd6fd375f5f788aea",
+    "menu": {
+        "link": "https://www.mcdonalds.com/ca/en-ca/full-menu.html%3Fy_source%3D1_MTQ1MjA0NzctNzE1LWxvY2F0aW9uLm1lbnVfdXJs",
+        "source": "mcdonalds.com"
+    },
+    "reservations": [],
+    "order_online_links": [
+        {
+            "link": "https://www4.mcdonalds.ca/mcdeliverycanada/?y_source=1_MTQ1MjA0NzctNzE1LWxvY2F0aW9uLm9yZGVyX3VybA%3D%3D",
+            "source": "mcdonalds.ca"
+        },
+        {
+            "link": "https://www.skipthedishes.com/mcdonalds-pender?serviceType=delivery&utm_source=google&utm_medium=organic&utm_campaign=gpav2",
+            "source": "skipthedishes.com"
+        },
+        {
+            "link": "https://www.ubereats.com/ca/store/mcdonalds-international-village/3Apn2VlPQXyiCAMYKX5e4A?utm_campaign=place-action-link&utm_medium=organic&utm_source=google",
+            "source": "ubereats.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "No-contact delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Takeout",
+                    "enabled": true
+                },
+                {
+                    "name": "Dine-in",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "highlights",
+            "name": "Highlights",
+            "options": [
+                {
+                    "name": "Fast service",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair accessible seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Coffee",
+                    "enabled": true
+                },
+                {
+                    "name": "Late-night food",
+                    "enabled": true
+                },
+                {
+                    "name": "Quick bite",
+                    "enabled": true
+                },
+                {
+                    "name": "Vegetarian options",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Dining options",
+            "options": [
+                {
+                    "name": "Breakfast",
+                    "enabled": true
+                },
+                {
+                    "name": "Lunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Dinner",
+                    "enabled": true
+                },
+                {
+                    "name": "Counter service",
+                    "enabled": true
+                },
+                {
+                    "name": "Dessert",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosphere",
+            "options": [
+                {
+                    "name": "Casual",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "crowd",
+            "name": "Crowd",
+            "options": [
+                {
+                    "name": "Family-friendly",
+                    "enabled": true
+                },
+                {
+                    "name": "Groups",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "children",
+            "name": "Children",
+            "options": [
+                {
+                    "name": "Good for kids",
+                    "enabled": true
+                },
+                {
+                    "name": "Kids' menu",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "parking",
+            "name": "Parking",
+            "options": [
+                {
+                    "name": "Paid parking lot",
+                    "enabled": true
+                },
+                {
+                    "name": "Paid street parking",
+                    "enabled": true
+                },
+                {
+                    "name": "Parking",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNumdI1ROa7GX6O2xH7dTH1GqF5nkrDAM_ZzO_3=w397-h298-k-no"
+        },
+        {
+            "about": "Latest",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOdP8_h6CjUoH_tK6RUROsFl3FUeoS6bZ85kOct=w224-h298-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMzYLCvwvK6nTuea6cGzh31d-JyUnz3UmQmG7sv=w529-h298-k-no"
+        },
+        {
+            "about": "Menu",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipN-lG26UCtzgj8i_geBMxYIn8ZpQCSD8VOxpybd=w397-h298-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPktIcFxv9eOGyoOTdlu1KU2al-ql3tZhWWlO5a=w529-h298-k-no"
+        },
+        {
+            "about": "Comfort food",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNO7Glw5NfOqN44UbLgA6VAe7wRLtaCkHaYGw4m=w397-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNPRJ3RcRfRCYWqfs368Q9VNqsKjFOtBA-cZzCx=w529-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=YmUoJaDIBHgESJGDVWIpJQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=169.5921&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Sunday",
+            "times": [
+                "12 a.m.-11 p.m."
+            ]
+        },
+        {
+            "day": "Monday",
+            "times": [
+                "7 a.m.-11 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "7 a.m.-11 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "7 a.m.-11 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "7 a.m.-11 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "7 a.m.-12 a.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "Open 24 hours"
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "The service is so bad, the restaurant is super messy, and the staff pick up the fries from the counter and put them in fries packages. I am not recommending it at all, and I report it to the health and safety food department. Also, I asked for large fries, but as you can see in the picture, they gave me medium fries in a large box.",
+            "reviewer_name": "ehsan halvaei",
+            "rating": 1,
+            "review_text": "The service is so bad, the restaurant is super messy, and the staff pick up the fries from the counter and put them in fries packages. I am not recommending it at all, and I report it to the health and safety food department. Also, I asked for large fries, but as you can see in the picture, they gave me medium fries in a large box.",
+            "published_at": "4 days ago",
+            "published_at_date": "2023-11-20T07:38:50.592000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 25,
+            "total_number_of_photos_by_reviewer": 61,
+            "reviewer_url": "https://www.google.com/maps/contrib/113072952766174571262/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUlGvETq8hXf_8XYTovOzRnJpyMMTZEqNcEBjQ_-UvHOUM=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOdP8_h6CjUoH_tK6RUROsFl3FUeoS6bZ85kOct=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "I always get great service. Never a problem here. My experience was a good one.",
+            "reviewer_name": "Bernell",
+            "rating": 4,
+            "review_text": "I always get great service. Never a problem here. My experience was a good one.",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-15T23:34:11.705000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 126,
+            "total_number_of_photos_by_reviewer": 2351,
+            "reviewer_url": "https://www.google.com/maps/contrib/104162054907424320143/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVB8OHr_tNmglgB-rv9rPUc0DLT6hOhSfydIGmExt5fKK8=s120-c-rp-mo-ba6-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOWbJVRm7a1sdHXnNlmKAyZsWP3F89CsPIyKxEB=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNgX6KPOugRF3Rpsl0QzijloLVys_P1ros7FNqz=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Staff was very rude when calling me over because I was too \"slow\". Literally she called only max 2~3 times in short intervals and I was already walking over. I ordered a happy meal but they didn't give me a toy. I should have checked right then. If you're going to be rude about customers not walking over fast enough, at least get the order right.",
+            "reviewer_name": "Cindy Cheung",
+            "rating": 2,
+            "review_text": "Staff was very rude when calling me over because I was too \"slow\". Literally she called only max 2~3 times in short intervals and I was already walking over. I ordered a happy meal but they didn't give me a toy. I should have checked right then. If you're going to be rude about customers not walking over fast enough, at least get the order right.",
+            "published_at": "6 months ago",
+            "published_at_date": "2023-05-12T01:02:37.343000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/103393254757559697753/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKDc-gqXTuxdp5EM6rr0OXp2j8ljoaPsPyBulrjI-ZI=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOuNX4pf43hNzMCvHe6-q9EwONFGBn6O0vrOPX4=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "At first I thought they skipped my order but the I noticed alot of the orders were only 1 or 2 items,  where I had ordered a meal.. so I didn't mind the wait.. plus I think I got a fresh order of fries.. they were still very hot        Seems like they're stepped up their game at this spot.. I remember a few times when I got my food, it didn't even seem like anyone cares for quality control.. made me not even bother even thinking about stopping by any of their restaurants.. not if it was my choice  anyway.",
+            "reviewer_name": "jewtubedit",
+            "rating": 4,
+            "review_text": "At first I thought they skipped my order but the I noticed alot of the orders were only 1 or 2 items,  where I had ordered a meal.. so I didn't mind the wait.. plus I think I got a fresh order of fries.. they were still very hot        Seems like they're stepped up their game at this spot.. I remember a few times when I got my food, it didn't even seem like anyone cares for quality control.. made me not even bother even thinking about stopping by any of their restaurants.. not if it was my choice  anyway.",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-22T12:06:47.135000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 14,
+            "total_number_of_photos_by_reviewer": 2,
+            "reviewer_url": "https://www.google.com/maps/contrib/115170961606504730983/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVTqIwYGBPEzCHfLy5uTz_aSowluHMegdjAs235wbQPMA=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Staff are rude and impatient. I could deal with that given the atmosphere of the location but they always give my 2 year old stale happy meals. Dried out, rubbery buns, cheese is crusty/dry on the edges, hamburger and fries are cold. It's disgusting and unfair. They've also said the ice cream machine broken and then proceeded to give other people it.",
+            "reviewer_name": "Sarah Keys",
+            "rating": 1,
+            "review_text": "Staff are rude and impatient. I could deal with that given the atmosphere of the location but they always give my 2 year old stale happy meals. Dried out, rubbery buns, cheese is crusty/dry on the edges, hamburger and fries are cold. It's disgusting and unfair. They've also said the ice cream machine broken and then proceeded to give other people it.",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-01T02:44:31.178000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 7,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/102912380898754432017/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLHC4LfSz2HkCNW0lbe2D4eJAzHeBezqfPpjRaJVvzm=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Ordered on the app while I was at the Waterfront Centre location and it switched to this location without me noticing. I called this location and right away the person on the phone offered to call Waterfront McDonald's and have them make what I ordered there. I appreciate it!",
+            "reviewer_name": "Geoffrey Abubakary",
+            "rating": 5,
+            "review_text": "Ordered on the app while I was at the Waterfront Centre location and it switched to this location without me noticing. I called this location and right away the person on the phone offered to call Waterfront McDonald's and have them make what I ordered there. I appreciate it!",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-07-27T17:37:03.771000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 35,
+            "total_number_of_photos_by_reviewer": 47,
+            "reviewer_url": "https://www.google.com/maps/contrib/118107765986338951254/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUrHytZ-UfqelNZlxKIF0QOhI2QPSaMIEYk1nLtUHnBTq0=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "My fries were cold, the burger was cold and wasn't even assembled well, the patty was halfway on the bun. I can see if it were late at night or busy or understaffed but it was quiet, with at least four staff around 7pm. I don't expect much from fast food but when I'm paying $16 for 2 burgers, fries and a coke I expect it to at least be hot. And ketchup would have been nice considering I specifically asked for it. Worst McDonald's I've been to in a very long time.\n\n*Edit\nI have since returned to this McDonald's and have had a much better experience. Maybe that one visit was just an off day or maybe there was a change in management. Whatever the reason, I hate to pigeon hole a place based on 1 visit. I will eat here again as it's close to home, and let you all know how it goes. Upgrading from 1 to 3 stars.\n\nEdit* I ordered a cone which immediately fell apart all over my hands. She grabbed a cup and put it in there and thought that was sufficient. I asked for a new one. She disappeared for a minute anf gave me the same cone in a cup and said it was new. I'm done with this McDonald's. 0 stars",
+            "reviewer_name": "Jason Reimer",
+            "rating": 1,
+            "review_text": "My fries were cold, the burger was cold and wasn't even assembled well, the patty was halfway on the bun. I can see if it were late at night or busy or understaffed but it was quiet, with at least four staff around 7pm. I don't expect much from fast food but when I'm paying $16 for 2 burgers, fries and a coke I expect it to at least be hot. And ketchup would have been nice considering I specifically asked for it. Worst McDonald's I've been to in a very long time.\n\n*Edit\nI have since returned to this McDonald's and have had a much better experience. Maybe that one visit was just an off day or maybe there was a change in management. Whatever the reason, I hate to pigeon hole a place based on 1 visit. I will eat here again as it's close to home, and let you all know how it goes. Upgrading from 1 to 3 stars.\n\nEdit* I ordered a cone which immediately fell apart all over my hands. She grabbed a cup and put it in there and thought that was sufficient. I asked for a new one. She disappeared for a minute anf gave me the same cone in a cup and said it was new. I'm done with this McDonald's. 0 stars",
+            "published_at": "10 months ago",
+            "published_at_date": "2023-01-01T23:06:10.651000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 20,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/110572349311994314691/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVxk8PAuHYCO2s1gs4TKBsYoqc4DlQgUb7UYAM9OlJobSRw=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPkM8bHRa0CSLoOyTHBz-fMwkEc0R7XgJMoe9EQ=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Online Ordering Beware!\nHands down the worst order I've ever received from any McDonald's location, *so far*.\n\nI'm not kidding either, do yourself a favor and don't order takeout delivery from this location. Period. The picture I took of my poutine order should already say it all.\n\nIf you want further context, read below:\n\nI ordered a poutine from this location through UberEats. There were no issues with the delivery itself. Opening up my poutine box, I discovered one shoddy, thin layer of gravy on a few hardened, bland fries.\nIf I had to recount, it only had around 10~ individual fries. To make it worse, it arrived at room temperature, despite how I got my order delivered relatively quickly. (McDonald's location is within 1.5 kilometers away from my location.) In the end, I did get my refund from UberEats (thankfully). Sufficient to say I will not be ordering at this location again...",
+            "reviewer_name": "Lynk \"Pen\"",
+            "rating": 1,
+            "review_text": "Online Ordering Beware!\nHands down the worst order I've ever received from any McDonald's location, *so far*.\n\nI'm not kidding either, do yourself a favor and don't order takeout delivery from this location. Period. The picture I took of my poutine order should already say it all.\n\nIf you want further context, read below:\n\nI ordered a poutine from this location through UberEats. There were no issues with the delivery itself. Opening up my poutine box, I discovered one shoddy, thin layer of gravy on a few hardened, bland fries.\nIf I had to recount, it only had around 10~ individual fries. To make it worse, it arrived at room temperature, despite how I got my order delivered relatively quickly. (McDonald's location is within 1.5 kilometers away from my location.) In the end, I did get my refund from UberEats (thankfully). Sufficient to say I will not be ordering at this location again...",
+            "published_at": "7 months ago",
+            "published_at_date": "2023-04-16T14:54:00.629000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 27,
+            "total_number_of_photos_by_reviewer": 3,
+            "reviewer_url": "https://www.google.com/maps/contrib/116017856528432586963/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjX0Q-2biiFkg4qx3UZLEx4RkDIrpLG74aeONe_xnCx16ic=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNoR7WKv84oOKJ7fy0TsgR1Ai2kZGL896ivNoKv=w150-h150-k-no-p"
+            ]
+        }
+    ],
+    "is_spending_on_ads": false
+}

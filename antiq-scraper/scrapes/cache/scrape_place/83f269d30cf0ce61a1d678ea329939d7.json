@@ -1,0 +1,545 @@
+{
+    "place_id": "ChIJpwSY0i5yhlQRlMe-bWiZwys",
+    "name": "McDonald's",
+    "description": "Classic, long-running fast-food chain known for its burgers & fries.",
+    "reviews": 886,
+    "website": "https://www.mcdonalds.com/ca/en-ca/restaurant-locator.html%3Fy_source%3D1_MTQ1MjAxMjAtNzE1LWxvY2F0aW9uLndlYnNpdGU%253D",
+    "owner": {
+        "id": "104393606118092117885",
+        "name": "McDonald's (Owner)",
+        "link": "https://www.google.com/maps/contrib/104393606118092117885"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMiihLSYcAnwljUtkvhFWUoeGqjU2CMMVyeYmWC=w408-h306-k-no",
+    "main_category": "Fast food restaurant",
+    "categories": [
+        "Fast food restaurant",
+        "American restaurant",
+        "Breakfast restaurant",
+        "Cafe",
+        "Hamburger restaurant",
+        "Restaurant"
+    ],
+    "rating": 3.5,
+    "workday_timing": "Open 24 hours",
+    "closed_on": [],
+    "phone": "(604) 718-1175",
+    "address": "McDonald's, 1610 Davie St, Vancouver, BC V6G 1V9",
+    "review_keywords": [
+        {
+            "keyword": "coffee",
+            "count": 21
+        },
+        {
+            "keyword": "night",
+            "count": 11
+        },
+        {
+            "keyword": "morning",
+            "count": 11
+        },
+        {
+            "keyword": "girl",
+            "count": 8
+        },
+        {
+            "keyword": "machine",
+            "count": 8
+        },
+        {
+            "keyword": "health",
+            "count": 6
+        },
+        {
+            "keyword": "homeless people",
+            "count": 5
+        },
+        {
+            "keyword": "renovations",
+            "count": 5
+        },
+        {
+            "keyword": "order",
+            "count": 5
+        },
+        {
+            "keyword": "training",
+            "count": 5
+        }
+    ],
+    "link": "https://www.google.com/maps/place/McDonald%27s/data=!4m7!3m6!1s0x5486722ed29804a7:0x2bc399686dbec794!8m2!3d49.2852274!4d-123.1389977!16s%2Fg%2F1v_s5l1l!19sChIJpwSY0i5yhlQRlMe-bWiZwys?authuser=0&hl=en&rclk=1",
+    "status": "Open 24 hours",
+    "price_range": "$",
+    "reviews_per_rating": {
+        "1": 147,
+        "2": 71,
+        "3": 188,
+        "4": 190,
+        "5": 290
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJpwSY0i5yhlQRlMe-bWiZwys&q=McDonald%27s&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.2852274,
+        "longitude": -123.13899769999999
+    },
+    "plus_code": "7VP6+3C Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "Central Vancouver",
+        "street": "1610 Davie St",
+        "city": "Vancouver",
+        "postal_code": "V6G 1V9",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "3153532837886347156",
+    "data_id": "0x5486722ed29804a7:0x2bc399686dbec794",
+    "menu": {
+        "link": "https://www.mcdonalds.com/ca/en-ca/full-menu.html%3Fy_source%3D1_MTQ1MjAxMjAtNzE1LWxvY2F0aW9uLm1lbnVfdXJs",
+        "source": "mcdonalds.com"
+    },
+    "reservations": [],
+    "order_online_links": [
+        {
+            "link": "https://www4.mcdonalds.ca/mcdeliverycanada/?y_source=1_MTQ1MjAxMjAtNzE1LWxvY2F0aW9uLm9yZGVyX3VybA%3D%3D",
+            "source": "mcdonalds.ca"
+        },
+        {
+            "link": "https://www.ubereats.com/ca/store/mcdonalds-davie-%26-cardero/B3vjpRf6ScO_UeRiVmWEyQ?utm_campaign=place-action-link&utm_medium=organic&utm_source=google",
+            "source": "ubereats.com"
+        },
+        {
+            "link": "https://www.skipthedishes.com/mcdonalds-davie-street?serviceType=delivery&utm_source=google&utm_medium=organic&utm_campaign=gpav2",
+            "source": "skipthedishes.com"
+        },
+        {
+            "link": "https://www.doordash.com/store/mcdonald%27s-vancouver-1031318/?utm_campaign=gpa",
+            "source": "doordash.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "No-contact delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Takeout",
+                    "enabled": true
+                },
+                {
+                    "name": "Dine-in",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "highlights",
+            "name": "Highlights",
+            "options": [
+                {
+                    "name": "Fast service",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair accessible seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Coffee",
+                    "enabled": true
+                },
+                {
+                    "name": "Late-night food",
+                    "enabled": true
+                },
+                {
+                    "name": "Quick bite",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Dining options",
+            "options": [
+                {
+                    "name": "Breakfast",
+                    "enabled": true
+                },
+                {
+                    "name": "Lunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Dinner",
+                    "enabled": true
+                },
+                {
+                    "name": "Counter service",
+                    "enabled": true
+                },
+                {
+                    "name": "Dessert",
+                    "enabled": true
+                },
+                {
+                    "name": "Seating",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosphere",
+            "options": [
+                {
+                    "name": "Casual",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "crowd",
+            "name": "Crowd",
+            "options": [
+                {
+                    "name": "Family-friendly",
+                    "enabled": true
+                },
+                {
+                    "name": "Groups",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "children",
+            "name": "Children",
+            "options": [
+                {
+                    "name": "Good for kids",
+                    "enabled": true
+                },
+                {
+                    "name": "Good for kids birthday",
+                    "enabled": true
+                },
+                {
+                    "name": "High chairs",
+                    "enabled": true
+                },
+                {
+                    "name": "Kids' menu",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMiihLSYcAnwljUtkvhFWUoeGqjU2CMMVyeYmWC=w397-h298-k-no"
+        },
+        {
+            "about": "Menu",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNH4ZRK2VDwbNbpAL2FqHszznwcXqgkDmLiDrXV=w397-h298-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOwClziwQJ8T_ee0G-mLrlgynob4ypVg8TvhyF-=w397-h298-k-no"
+        },
+        {
+            "about": "Vibe",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNB2Jx84tlQCyau018Fw4SxJzyRvOfD0M1hmW0p=w224-h298-k-no"
+        },
+        {
+            "about": "Comfort food",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipO_9CTcQY3sQmQ2tjy8KY3wcGcCDCXtmCUwuFt9=w224-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOmhPuy7fAicWkk2ANLIrMQo44NbEbyV3DpzO2S=w529-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPsd6qJm1l5zHO6rXwbpnJz6RaoHJ663aBz9rho=w224-h298-k-no-pi0-ya60-ro0-fo100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Sunday",
+            "times": [
+                "Open 24 hours"
+            ]
+        },
+        {
+            "day": "Monday",
+            "times": [
+                "Open 24 hours"
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "Open 24 hours"
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "Open 24 hours"
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "Open 24 hours"
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "Open 24 hours"
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "Open 24 hours"
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "Long time no visit this location! First visiting after their renovation, nice and clean, friendly staffs and it was super fast. Not even waited 3 minutes! I loved it !",
+            "reviewer_name": "Subin N",
+            "rating": 5,
+            "review_text": "Long time no visit this location! First visiting after their renovation, nice and clean, friendly staffs and it was super fast. Not even waited 3 minutes! I loved it !",
+            "published_at": "5 months ago",
+            "published_at_date": "2023-06-22T05:01:57.842000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 9,
+            "total_number_of_photos_by_reviewer": 10,
+            "reviewer_url": "https://www.google.com/maps/contrib/107940400813410981024/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLEet9UV-mdbwoHW4dF40zq7Z9vPH4apsDH9fLl18cBdcE=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipO1q9MhjFCCsPPWedlZiFlnajvBqGg-AbSTp3sN=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "This was a laughably bad experience. Came here at about 5:00 in the morning so it wasn't very busy. I simply ordered six chocolate cookies. I went inside and stood at the counter and waited for my order. There's no lineu, there's only one order on the order screen, which was mine. There's nobody at the till, there's a couple cooks in the back mopping and a lady up front mopping. After a few minutes the lady up front sees me and then tells the cooks that there's an order up. The cooks say something I couldn't understandand and disappear around the corner. I assume that they're going to finish baking my cookies. Fresh baked cookies, yay, I mean why else would I be waiting around this long for six cookies? They were in the oven baking. No doubt.\n\nBut they weren't. They weren't in the oven baking. After about 7 or 8 minutes another young lady comes out from, I guess the break room, and asked if I've been helped. I'm like \"yeah I placed an order a while ago.\" She looks at the till and then reaches under the counter and grabs me six cookies and hands them to me. And, oh yeah, they weren't chocolate cookies either, they ran out. They were the chocolate chip ones. So I wait around for almost 10 minutes for six cookies, and they weren't even the right ones. The complacency at this McDonald's was unreal. I have to laugh honestly it was so bad it was comical. The girl who came in at the end who actually got me the cookies I will say, was doing her job correctly as far as I can tell..\n\nI decided to get cookies here because I was picking up an Uber eats order. Except they told me I had to cancel the order because the customer ordered things from the evening menu and it was now on the breakfast menu. So I had to text the customer and let them know I can't pick up her order because they can't make it and I'll have to cancel. And I canceled. My question is why does this McDonald's have items on their Uber menu that customers can't order? Every McDonald's I've ordered from will have either breakfast items on the menu or their lunch and evening items on the menu. Fix your Uber menu. This is crazy to me also how someone can be on break and literally know other employee in the restaurant looks at orders or prepares orders. Like don't you have a protocol for like, you know, knowing when orders come in? And getting the customers their food?",
+            "reviewer_name": "Dustin Mulligan",
+            "rating": 1,
+            "review_text": "This was a laughably bad experience. Came here at about 5:00 in the morning so it wasn't very busy. I simply ordered six chocolate cookies. I went inside and stood at the counter and waited for my order. There's no lineu, there's only one order on the order screen, which was mine. There's nobody at the till, there's a couple cooks in the back mopping and a lady up front mopping. After a few minutes the lady up front sees me and then tells the cooks that there's an order up. The cooks say something I couldn't understandand and disappear around the corner. I assume that they're going to finish baking my cookies. Fresh baked cookies, yay, I mean why else would I be waiting around this long for six cookies? They were in the oven baking. No doubt.\n\nBut they weren't. They weren't in the oven baking. After about 7 or 8 minutes another young lady comes out from, I guess the break room, and asked if I've been helped. I'm like \"yeah I placed an order a while ago.\" She looks at the till and then reaches under the counter and grabs me six cookies and hands them to me. And, oh yeah, they weren't chocolate cookies either, they ran out. They were the chocolate chip ones. So I wait around for almost 10 minutes for six cookies, and they weren't even the right ones. The complacency at this McDonald's was unreal. I have to laugh honestly it was so bad it was comical. The girl who came in at the end who actually got me the cookies I will say, was doing her job correctly as far as I can tell..\n\nI decided to get cookies here because I was picking up an Uber eats order. Except they told me I had to cancel the order because the customer ordered things from the evening menu and it was now on the breakfast menu. So I had to text the customer and let them know I can't pick up her order because they can't make it and I'll have to cancel. And I canceled. My question is why does this McDonald's have items on their Uber menu that customers can't order? Every McDonald's I've ordered from will have either breakfast items on the menu or their lunch and evening items on the menu. Fix your Uber menu. This is crazy to me also how someone can be on break and literally know other employee in the restaurant looks at orders or prepares orders. Like don't you have a protocol for like, you know, knowing when orders come in? And getting the customers their food?",
+            "published_at": "3 days ago",
+            "published_at_date": "2023-11-21T14:08:06.659000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 71,
+            "total_number_of_photos_by_reviewer": 2,
+            "reviewer_url": "https://www.google.com/maps/contrib/112251037934059859130/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjU4dBr185Q6XqJe5fEFufESuD-5tKt98yjpujLLjl76JQ=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "This is the slowest McDonalds I have ever been to. Anytime I'm here the service is awful, if I make customizations in the app they're ignored. Currently been waiting 15 minutes for a single sandwich with 5 orders still ahead of me. Very disappointing",
+            "reviewer_name": "Ian Ronningen",
+            "rating": 1,
+            "review_text": "This is the slowest McDonalds I have ever been to. Anytime I'm here the service is awful, if I make customizations in the app they're ignored. Currently been waiting 15 minutes for a single sandwich with 5 orders still ahead of me. Very disappointing",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-18T07:56:45.918000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 5,
+            "total_number_of_reviews_by_reviewer": 9,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/112015897848351314312/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUOBbK7B6mThBFFgr1mSd6I9nypbPBn9biNCLIKXEhp924=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMfY2UWCumQvU6EtIGkmzjzOkZMmZpXd4ciVACe=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "After the renovations I have never been to such a bad McDonald's in my life. The service is god awful. Always rude and make it seem like you are inconveniencing them. I waited 18 minutes for a Jr chicken and a smoothie. I went up to the counter to ask how long as people who ordered after me were getting their meals and let's be real 18 minutes for two items at McDonald's is beyond ridiculous. Was ignored by several employees. Finally got the attention of one of them and was treated poorly as if I was lying. 20+ minutes for two items is ridiculous. The food was awful, no lettuce, super soggy. This place needs new management immediately as it clearly shows the staff they have now were not trained properly and cannot handle the work load (wasn't busy at all). You go to McDonald's and don't really expect top notch service etc but this was baffling.",
+            "reviewer_name": "Zoe",
+            "rating": 1,
+            "review_text": "After the renovations I have never been to such a bad McDonald's in my life. The service is god awful. Always rude and make it seem like you are inconveniencing them. I waited 18 minutes for a Jr chicken and a smoothie. I went up to the counter to ask how long as people who ordered after me were getting their meals and let's be real 18 minutes for two items at McDonald's is beyond ridiculous. Was ignored by several employees. Finally got the attention of one of them and was treated poorly as if I was lying. 20+ minutes for two items is ridiculous. The food was awful, no lettuce, super soggy. This place needs new management immediately as it clearly shows the staff they have now were not trained properly and cannot handle the work load (wasn't busy at all). You go to McDonald's and don't really expect top notch service etc but this was baffling.",
+            "published_at": "5 months ago",
+            "published_at_date": "2023-06-22T07:37:00.937000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 4,
+            "total_number_of_photos_by_reviewer": 3,
+            "reviewer_url": "https://www.google.com/maps/contrib/109598652740515972239/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWSEiGOdb2gjjMD80lYPdIsWTZ2cmsIGcM14DGLkdHra8I=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Who knew McDonald's had poutine? It was actually pretty good. The food was good and served hot. The staff was attentive and friendly.",
+            "reviewer_name": "Stephen Long",
+            "rating": 4,
+            "review_text": "Who knew McDonald's had poutine? It was actually pretty good. The food was good and served hot. The staff was attentive and friendly.",
+            "published_at": "7 months ago",
+            "published_at_date": "2023-04-12T01:30:48.982000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 211,
+            "total_number_of_photos_by_reviewer": 1877,
+            "reviewer_url": "https://www.google.com/maps/contrib/100577335454916213762/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXU8O-iYEEKNBpc7Ya6ig6r5HRcRpkhbFwFVEa2EK727GbO=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipO8zlr7hrDY-mO3ulb-qgtGMYlm0182vhw2gvcI=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOwClziwQJ8T_ee0G-mLrlgynob4ypVg8TvhyF-=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "This location is visited after the recent renovation. Waited for the cashier to show up more than five minutes. It is poorly set up with a solid wall with no window between front of the house and kitchen so no one at the back can see if there is a customer at the front, neither they can hear you as the kitchen is playing their own music. Walked out without placing an order on a Friday night.",
+            "reviewer_name": "Chuck Canucks",
+            "rating": 2,
+            "review_text": "This location is visited after the recent renovation. Waited for the cashier to show up more than five minutes. It is poorly set up with a solid wall with no window between front of the house and kitchen so no one at the back can see if there is a customer at the front, neither they can hear you as the kitchen is playing their own music. Walked out without placing an order on a Friday night.",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-15T07:50:45.817000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 24,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/108959720971078756419/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJQUNGFaIjrA4sJr8c8aOB6E43xFSSm-RggYp_aWh3w=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "It sucks that this is my neighborhood McDonald's because it's continuously a miss. Yesterday I waited over 30 mins for breakfast and tonight the lady gave me a tone for asking for my order just to find out it was sitting there for over 20 mins. I also don't understand how a mobile order that says no cheese on the actual sandwich still alwaysss has cheese on it anyway. Not trying to be a Karen just tired of this service but, it's McDonald's... and it's a block away, I just wish it was better.",
+            "reviewer_name": "Jayden Mckenzie",
+            "rating": 2,
+            "review_text": "It sucks that this is my neighborhood McDonald's because it's continuously a miss. Yesterday I waited over 30 mins for breakfast and tonight the lady gave me a tone for asking for my order just to find out it was sitting there for over 20 mins. I also don't understand how a mobile order that says no cheese on the actual sandwich still alwaysss has cheese on it anyway. Not trying to be a Karen just tired of this service but, it's McDonald's... and it's a block away, I just wish it was better.",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-08T07:33:13.447000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 3,
+            "total_number_of_reviews_by_reviewer": 17,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/114860309345926162699/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjV2PMcAoIe7A1uw8Xt-oZ57Ex1ZQkE56y7W3gBsUV0p5FA=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "I went to this Mcdonals around 2pm on a Saturday.  I waited a few mins for anyone to even come to the cash.  This is after the manager told me WAIT! With a hand gesture in a very rude way.  When all I was doing is politely waiting I wasn't even looking around for anyone.  Then I placed my order 1 hamburger and 4 nuggets.  I waited over 10 mins after ordering.  In all it took about 15 mins to get my food when I was the only person in line.  However during that time they put out at least 20 online orders.  Absolutely terrible extremely rude service.  This is the worst service I've received at any McDonald's and by far the longest wait time.  Even when there are 10 people in line I've never waited so long",
+            "reviewer_name": "Anne Cox",
+            "rating": 1,
+            "review_text": "I went to this Mcdonals around 2pm on a Saturday.  I waited a few mins for anyone to even come to the cash.  This is after the manager told me WAIT! With a hand gesture in a very rude way.  When all I was doing is politely waiting I wasn't even looking around for anyone.  Then I placed my order 1 hamburger and 4 nuggets.  I waited over 10 mins after ordering.  In all it took about 15 mins to get my food when I was the only person in line.  However during that time they put out at least 20 online orders.  Absolutely terrible extremely rude service.  This is the worst service I've received at any McDonald's and by far the longest wait time.  Even when there are 10 people in line I've never waited so long",
+            "published_at": "5 months ago",
+            "published_at_date": "2023-06-24T21:16:57.760000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 5,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/103470601536860743704/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKgtss-laKvCE9TFb0uy-1sUBT4IZV8b0eU53GwzcTc=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

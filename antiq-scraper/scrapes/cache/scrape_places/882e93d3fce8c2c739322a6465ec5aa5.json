@@ -1,0 +1,763 @@
+{
+    "query": "\"Gucci in Vancouver\"",
+    "places": [
+        {
+            "place_id": "ChIJPbherXhxhlQRCOCbQEnQGO0",
+            "name": "Holt Vancouver",
+            "description": "Luxury brand known for modern, Italian-crafted leather goods, apparel & accessories for men & women.",
+            "reviews": 48,
+            "website": "https://www.gucci.com/ca/en/store/holt-vancouver?y_source=1_MTI2MDg4Ny03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "owner": {
+                "id": "101790072265092322608",
+                "name": "Holt Vancouver (Owner)",
+                "link": "https://www.google.com/maps/contrib/101790072265092322608"
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOAmoEJSl8NzJlai1Dv0Q8UcgoMSNcyRWJ9oQ7w=w495-h240-k-no",
+            "main_category": "Boutique",
+            "categories": [
+                "Boutique",
+                "Clothing store",
+                "Leather goods store",
+                "Men's clothing store",
+                "Women's clothing store"
+            ],
+            "rating": 3.4,
+            "workday_timing": "10 a.m.-7 p.m.",
+            "closed_on": [],
+            "phone": "(604) 681-3121",
+            "address": "Holt Vancouver, 737 Dunsmuir St, Vancouver, BC V7Y 1E4",
+            "review_keywords": [
+                {
+                    "keyword": "products",
+                    "count": 8
+                },
+                {
+                    "keyword": "price",
+                    "count": 5
+                },
+                {
+                    "keyword": "bag",
+                    "count": 4
+                },
+                {
+                    "keyword": "jewelry",
+                    "count": 3
+                }
+            ],
+            "link": "https://www.google.com/maps/place/Holt+Vancouver/data=!4m7!3m6!1s0x54867178ad5eb83d:0xed18d049409be008!8m2!3d49.2840483!4d-123.1160971!16s%2Fg%2F11bx4556qb!19sChIJPbherXhxhlQRCOCbQEnQGO0?authuser=0&hl=en&rclk=1",
+            "status": "Closes soon  9 p.m.  Opens 10 a.m. Sat",
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 16,
+                "2": 0,
+                "3": 2,
+                "4": 10,
+                "5": 20
+            },
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJPbherXhxhlQRCOCbQEnQGO0&q=Holt+Vancouver&authuser=0&hl=en&gl=CA",
+            "coordinates": {
+                "latitude": 49.284048299999995,
+                "longitude": -123.11609709999999
+            },
+            "plus_code": "7VMM+JH Vancouver, British Columbia",
+            "detailed_address": {
+                "ward": "Downtown Vancouver",
+                "street": "737 Dunsmuir St",
+                "city": "Vancouver",
+                "postal_code": "V7Y 1E4",
+                "state": "British Columbia",
+                "country_code": "CA"
+            },
+            "time_zone": "America/Vancouver",
+            "cid": "17084634199465123848",
+            "data_id": "0x54867178ad5eb83d:0xed18d049409be008",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [
+                {
+                    "id": "service_options",
+                    "name": "Service options",
+                    "options": [
+                        {
+                            "name": "In-store pickup",
+                            "enabled": true
+                        },
+                        {
+                            "name": "In-store shopping",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "accessibility",
+                    "name": "Accessibility",
+                    "options": [
+                        {
+                            "name": "Wheelchair-accessible entrance",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "offerings",
+                    "name": "Offerings",
+                    "options": [
+                        {
+                            "name": "Men's clothing",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Women's clothing",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipOr9qCKmAF6ZGiJwVouwV8a8lXdSZPVrhDW94eU=w516-h298-k-no"
+                },
+                {
+                    "about": "Inside",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipPlufGV8U8hGG4oETFPALoEtpbscmvyRaqbDxwm=w529-h298-k-no"
+                },
+                {
+                    "about": "By owner",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipOTGXsFNmZsxpXWY2O2BYXUEaJC_TPg8TfNUUW-=w529-h298-k-no"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=2Sgfp8fa_6X0yZjiwfBhjA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=294.93594&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [
+                {
+                    "day": "Sunday",
+                    "times": [
+                        "11 a.m.-7 p.m."
+                    ]
+                },
+                {
+                    "day": "Monday",
+                    "times": [
+                        "10 a.m.-7 p.m."
+                    ]
+                },
+                {
+                    "day": "Tuesday",
+                    "times": [
+                        "10 a.m.-7 p.m."
+                    ]
+                },
+                {
+                    "day": "Wednesday",
+                    "times": [
+                        "10 a.m.-7 p.m."
+                    ]
+                },
+                {
+                    "day": "Thursday",
+                    "times": [
+                        "10 a.m.-9 p.m."
+                    ]
+                },
+                {
+                    "day": "Friday",
+                    "times": [
+                        "10 a.m.-9 p.m."
+                    ]
+                },
+                {
+                    "day": "Saturday",
+                    "times": [
+                        "10 a.m.-8 p.m."
+                    ]
+                }
+            ],
+            "featured_reviews": [
+                {
+                    "review_id": "Here's the corrected version of your text:\n\n\"I bought a pair of shoes $$$$ for a wedding, and after wearing them for just 5 hours, I noticed there was pilling on the back of one shoe. I visited the store for a solution, but they didn't take responsibility for it. They quoted me around $150 and said it would take 5 to 6 weeks to fix. I am very disappointed with the product and the customer service. I will never buy another Gucci product again.\"",
+                    "reviewer_name": "mehran mahmodi",
+                    "rating": 1,
+                    "review_text": "Here's the corrected version of your text:\n\n\"I bought a pair of shoes $$$$ for a wedding, and after wearing them for just 5 hours, I noticed there was pilling on the back of one shoe. I visited the store for a solution, but they didn't take responsibility for it. They quoted me around $150 and said it would take 5 to 6 weeks to fix. I am very disappointed with the product and the customer service. I will never buy another Gucci product again.\"",
+                    "published_at": "3 months ago",
+                    "published_at_date": "2023-08-05T00:34:42.073000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 5,
+                    "total_number_of_photos_by_reviewer": 1,
+                    "reviewer_url": "https://www.google.com/maps/contrib/112473892954846029049/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocK1xmWIapeDlaQp7lUXBizYPBJ58F3GwCkch8eD1Qed=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipO7NXfcPBF4w5rE9-kdqmwhpmcKjd75aAssx7oD=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "I bought Gucci Ophidia cross body mens bag 2 months ago and used only 3 times carefully, however quality is so bad that leather just flaked out and when I went to boutique to ask for service and confirm me for price, they took my bag and confirmed to reach me to check service charges confirmation in a week or two and its been a month with no feedback and when I called store they say status on the system shows \"Waiting for customer feedback\" and no one ever reached out to me. So the lady on the call confirmed to write email to the boutique to call me and its been two days no one reached out to me still. So pathetic quality product and above the pathetic customer service. The audacity of this brand I tell you. I recommend Gucci brand to please learn some quality and customer service from \"Coach\" I bought few bags from them and they have amazing customer service and quality. They even remember my name everytime I walkin and makes me feel welcome and above everything quality of product is just amazing. I will go to the boutique and take my bag and never ever buy gucci again.",
+                    "reviewer_name": "Indrajith Agarwal",
+                    "rating": 1,
+                    "review_text": "I bought Gucci Ophidia cross body mens bag 2 months ago and used only 3 times carefully, however quality is so bad that leather just flaked out and when I went to boutique to ask for service and confirm me for price, they took my bag and confirmed to reach me to check service charges confirmation in a week or two and its been a month with no feedback and when I called store they say status on the system shows \"Waiting for customer feedback\" and no one ever reached out to me. So the lady on the call confirmed to write email to the boutique to call me and its been two days no one reached out to me still. So pathetic quality product and above the pathetic customer service. The audacity of this brand I tell you. I recommend Gucci brand to please learn some quality and customer service from \"Coach\" I bought few bags from them and they have amazing customer service and quality. They even remember my name everytime I walkin and makes me feel welcome and above everything quality of product is just amazing. I will go to the boutique and take my bag and never ever buy gucci again.",
+                    "published_at": "2 weeks ago",
+                    "published_at_date": "2023-11-09T08:14:06.707000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 6,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/109799727280080467470/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLjpJuFz1VI4CIH5Da0MLuXfUfSPz86G-b7D5YNXoKZmQ=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "If you visit Gucci women's store at HR, please look for Andy Tran. He will show you what EXCEPTIONAL service means. He is a very caring and genuine person. After shopped there once, I received a handwritten greeting card from Andy. During pandemic, Andy also sent wishing well emails. I could also stay home and buy from him. He was very patiently showing me the products through emails and texts. Andy also checked the products carefully before shipping them to me. You can also buy Gucci men's wear from him too. Strongly recommend!",
+                    "reviewer_name": "Lizzie Cheng",
+                    "rating": 5,
+                    "review_text": "If you visit Gucci women's store at HR, please look for Andy Tran. He will show you what EXCEPTIONAL service means. He is a very caring and genuine person. After shopped there once, I received a handwritten greeting card from Andy. During pandemic, Andy also sent wishing well emails. I could also stay home and buy from him. He was very patiently showing me the products through emails and texts. Andy also checked the products carefully before shipping them to me. You can also buy Gucci men's wear from him too. Strongly recommend!",
+                    "published_at": "3 years ago",
+                    "published_at_date": "2020-06-24T06:33:36.899000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 29,
+                    "total_number_of_photos_by_reviewer": 19,
+                    "reviewer_url": "https://www.google.com/maps/contrib/100440612290868824406/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKC1yWO_fL5xS_0vj-5HbnxyaJclkSMeaEHi7J4ACFJ=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipP-zZR9f7SkLa7is3BuozT66chQRTdf86ueSivS=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipN06lf8qOAkHHe5ysl_A0taBte6WESyGfDn1_C3=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMKovzoFqq8CCuujNMiYHj1gf84lyZz_-5RpPrl=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "I got profiled based on my outfit and skin color. I'm a heavy duty mechanic making 4 times the amount their staff can withhold. Very unfortunate. Please re evaluate who you hire and your loss prevention team.",
+                    "reviewer_name": "a toreno",
+                    "rating": 1,
+                    "review_text": "I got profiled based on my outfit and skin color. I'm a heavy duty mechanic making 4 times the amount their staff can withhold. Very unfortunate. Please re evaluate who you hire and your loss prevention team.",
+                    "published_at": "7 months ago",
+                    "published_at_date": "2023-04-18T21:05:44.405000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 6,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/117979910975476993988/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXOBHoZJXUWnSG6JMwViVcbW2Y9JDn7JHkQ5j5YWAtnF7w=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Great customer service! I gave 3-stars as when we first walked in for about 10min no sales person made an eye contact or acknowledged us. When customer walks into the store one must acknowledge the customer within 30-50 Seconds.",
+                    "reviewer_name": "Gaurav Sharma",
+                    "rating": 3,
+                    "review_text": "Great customer service! I gave 3-stars as when we first walked in for about 10min no sales person made an eye contact or acknowledged us. When customer walks into the store one must acknowledge the customer within 30-50 Seconds.",
+                    "published_at": "10 months ago",
+                    "published_at_date": "2023-01-18T04:33:11.172000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 15,
+                    "total_number_of_photos_by_reviewer": 2,
+                    "reviewer_url": "https://www.google.com/maps/contrib/102621706994589322616/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIzB3gF4FgHxoygHqxyvtKvuHYyMzWGWUv3fjKn_7Wf=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Very nice and friendly sales at the Gucci Jewelry counter.  Thank you Jessica for your service.  Will definitely come back to buy more from you next time!",
+                    "reviewer_name": "Jessica Tam",
+                    "rating": 5,
+                    "review_text": "Very nice and friendly sales at the Gucci Jewelry counter.  Thank you Jessica for your service.  Will definitely come back to buy more from you next time!",
+                    "published_at": "2 years ago",
+                    "published_at_date": "2021-10-06T02:03:13.961000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 44,
+                    "total_number_of_photos_by_reviewer": 9,
+                    "reviewer_url": "https://www.google.com/maps/contrib/106448235470921734704/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjU07Cj-WJkzXyZ35m9XFr8dQ4nhwCtqsYjRAccSwcJbfhc=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipPiXqgpiPLYbBGQvscfZISptgtSCUgSIFaqP1g2=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "Love coming here. Salespeople are extremely kind and helpful unlike other stores",
+                    "reviewer_name": "Matt Wong",
+                    "rating": 5,
+                    "review_text": "Love coming here. Salespeople are extremely kind and helpful unlike other stores",
+                    "published_at": "2 months ago",
+                    "published_at_date": "2023-09-10T09:55:18.344000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 98,
+                    "total_number_of_photos_by_reviewer": 5,
+                    "reviewer_url": "https://www.google.com/maps/contrib/104669275284211392344/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjViU7GkTczNG2gu3_25eG29-AP_9qkzE8px_Vme2TqDUKU=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Terrible experience, purchased a wallet as a gift for Christmas, never used and tried to exchange it for a more expensive product. Was refused as it was over the 14 days policy. Would have been nice if that was mentioned and not just given a card that had the policy. Took my business to the Gucci store at the Fairmont and received amazing customer service.",
+                    "reviewer_name": "Budo Martial Arts Burnaby",
+                    "rating": 1,
+                    "review_text": "Terrible experience, purchased a wallet as a gift for Christmas, never used and tried to exchange it for a more expensive product. Was refused as it was over the 14 days policy. Would have been nice if that was mentioned and not just given a card that had the policy. Took my business to the Gucci store at the Fairmont and received amazing customer service.",
+                    "published_at": "a year ago",
+                    "published_at_date": "2022-02-02T20:00:36.239000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 4,
+                    "total_number_of_photos_by_reviewer": 10,
+                    "reviewer_url": "https://www.google.com/maps/contrib/115556951132900575730/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVV7tyolrPzbkAbIpkeBlhVC5yUIpbovTVQfXxdE4obDJA=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipP8bJNJihQeHFCSNExM5Fy1PlbNrMlNy_NAec1y=w150-h150-k-no-p"
+                    ]
+                }
+            ],
+            "is_spending_on_ads": true
+        },
+        {
+            "place_id": "ChIJHe_Iz4FxhlQR8eseYQrpSWk",
+            "name": "The Fairmont Hotel Vancouver",
+            "description": "Luxury brand known for modern, Italian-crafted leather goods, apparel & accessories for men & women.",
+            "reviews": 303,
+            "website": "https://www.gucci.com/ca/en/store/900-west-georgia-street%3Fy_source%3D1_MTI0NDE2Mi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%253D%253D",
+            "owner": {
+                "id": "106471432614536004548",
+                "name": "The Fairmont Hotel Vancouver (Owner)",
+                "link": "https://www.google.com/maps/contrib/106471432614536004548"
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOKLdpRQIftjBCm1LC76VBjA602gm2mNbUUpEAe=w408-h307-k-no",
+            "main_category": "Boutique",
+            "categories": [
+                "Boutique",
+                "Clothing store",
+                "Leather goods store",
+                "Men's clothing store",
+                "Women's clothing store"
+            ],
+            "rating": 4.1,
+            "workday_timing": "11 a.m.-7 p.m.",
+            "closed_on": [],
+            "phone": "(604) 488-0320",
+            "address": "The Fairmont Hotel Vancouver, 900 W Georgia St, Vancouver, BC V6C 2W6",
+            "review_keywords": [
+                {
+                    "keyword": "products",
+                    "count": 23
+                },
+                {
+                    "keyword": "bag",
+                    "count": 18
+                },
+                {
+                    "keyword": "shoes",
+                    "count": 15
+                },
+                {
+                    "keyword": "brand",
+                    "count": 9
+                },
+                {
+                    "keyword": "belt",
+                    "count": 8
+                },
+                {
+                    "keyword": "conversation",
+                    "count": 6
+                },
+                {
+                    "keyword": "door",
+                    "count": 6
+                },
+                {
+                    "keyword": "prices",
+                    "count": 6
+                },
+                {
+                    "keyword": "phone",
+                    "count": 5
+                },
+                {
+                    "keyword": "knowledge",
+                    "count": 5
+                }
+            ],
+            "link": "https://www.google.com/maps/place/The+Fairmont+Hotel+Vancouver/data=!4m7!3m6!1s0x54867181cfc8ef1d:0x6949e90a611eebf1!8m2!3d49.2837494!4d-123.1207825!16s%2Fg%2F1tf6rh31!19sChIJHe_Iz4FxhlQR8eseYQrpSWk?authuser=0&hl=en&rclk=1",
+            "status": "Closed  Opens 11 a.m. Sat",
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 51,
+                "2": 6,
+                "3": 15,
+                "4": 33,
+                "5": 198
+            },
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJHe_Iz4FxhlQR8eseYQrpSWk&q=The+Fairmont+Hotel+Vancouver&authuser=0&hl=en&gl=CA",
+            "coordinates": {
+                "latitude": 49.2837494,
+                "longitude": -123.12078249999999
+            },
+            "plus_code": "7VMH+FM Vancouver, British Columbia",
+            "detailed_address": {
+                "ward": "Downtown Vancouver",
+                "street": "900 W Georgia St",
+                "city": "Vancouver",
+                "postal_code": "V6C 2W6",
+                "state": "British Columbia",
+                "country_code": "CA"
+            },
+            "time_zone": "America/Vancouver",
+            "cid": "7586851278070672369",
+            "data_id": "0x54867181cfc8ef1d:0x6949e90a611eebf1",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [
+                {
+                    "id": "service_options",
+                    "name": "Service options",
+                    "options": [
+                        {
+                            "name": "In-store shopping",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "accessibility",
+                    "name": "Accessibility",
+                    "options": [
+                        {
+                            "name": "Wheelchair-accessible entrance",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "offerings",
+                    "name": "Offerings",
+                    "options": [
+                        {
+                            "name": "Men's clothing",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Women's clothing",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "payments",
+                    "name": "Payments",
+                    "options": [
+                        {
+                            "name": "Debit cards",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Credit cards",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipOKLdpRQIftjBCm1LC76VBjA602gm2mNbUUpEAe=w395-h298-k-no"
+                },
+                {
+                    "about": "Inside",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipNb9Iv5iCB_3c-F-5Vr18T_YH22I0kN9W5RIE1_=w446-h298-k-no"
+                },
+                {
+                    "about": "Videos",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipOFKE93ycIs6dW6BlW_ZjCe-TaWm0cOrxzN-Dyw=w224-h481-k-no"
+                },
+                {
+                    "about": "By owner",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipMkuqvfm2Aagw3eJTZn1giYXnPNQjiBmu-ED3AU=w446-h298-k-no"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=2kDBpZkQISUFtiWAglAZ2A&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=269.41293&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [
+                {
+                    "day": "Sunday",
+                    "times": [
+                        "12-6 p.m."
+                    ]
+                },
+                {
+                    "day": "Monday",
+                    "times": [
+                        "11 a.m.-7 p.m."
+                    ]
+                },
+                {
+                    "day": "Tuesday",
+                    "times": [
+                        "11 a.m.-7 p.m."
+                    ]
+                },
+                {
+                    "day": "Wednesday",
+                    "times": [
+                        "11 a.m.-7 p.m."
+                    ]
+                },
+                {
+                    "day": "Thursday",
+                    "times": [
+                        "11 a.m.-7 p.m."
+                    ]
+                },
+                {
+                    "day": "Friday",
+                    "times": [
+                        "11 a.m.-7 p.m."
+                    ]
+                },
+                {
+                    "day": "Saturday",
+                    "times": [
+                        "11 a.m.-7 p.m."
+                    ]
+                }
+            ],
+            "featured_reviews": [
+                {
+                    "review_id": "The Gucci store in Vancouver was such a pleasure to visit.  This store is large and spacious with a great selection.  The staff was very friendly, helpful, and extremely knowledgeable about their product.  It was nice to see such a large variety of products went beyond the typical brown Gucci print.  They had a good selection clothing, accessories, and shoes.  I loved the furniture as well!",
+                    "reviewer_name": "Sergio Colon",
+                    "rating": 5,
+                    "review_text": "The Gucci store in Vancouver was such a pleasure to visit.  This store is large and spacious with a great selection.  The staff was very friendly, helpful, and extremely knowledgeable about their product.  It was nice to see such a large variety of products went beyond the typical brown Gucci print.  They had a good selection clothing, accessories, and shoes.  I loved the furniture as well!",
+                    "published_at": "2 months ago",
+                    "published_at_date": "2023-09-23T12:00:50.889000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 2,
+                    "total_number_of_reviews_by_reviewer": 148,
+                    "total_number_of_photos_by_reviewer": 1169,
+                    "reviewer_url": "https://www.google.com/maps/contrib/111526210978684865593/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXQMkOHbAp6adD0tXCgX9vU7wUCoAOvCXHBnM5qP278666T=s120-c-rp-mo-ba5-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipNunDUZeJMsxIZc7AXN-umW_bDEMHHLRYgRIax-=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNnbT7Y-42lKmeqjiHfDkfnnKKzj7YgB6HAhxTS=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMygbv_6DnjMAqBhVcUrF90SHRcP1vr_5njBPzt=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPnutlVqmJnUut0u7-kp8Wb_ct0C7vDJINRoU9K=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMy6bMKfgwuv-oZmRJsnBO-MfAEtCGqdmKzwEI2=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipO13S6w9Hz0RQukxPapD5tpPPOQyRbb4T35PiWj=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOxGk36YwR4OKvJu6Hm4silFk9cDFhTBp6QlmAg=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "I visited the Gucci store on Georgia St and it's the only luxury store that I felt very comfortable, and warmly welcomed!\n\nSpecial thanks to (Riccardo) for assisting me and providing an excellent customer service experience. I feel very excited for my next time shopping there!",
+                    "reviewer_name": "Mesha kay",
+                    "rating": 5,
+                    "review_text": "I visited the Gucci store on Georgia St and it's the only luxury store that I felt very comfortable, and warmly welcomed!\n\nSpecial thanks to (Riccardo) for assisting me and providing an excellent customer service experience. I feel very excited for my next time shopping there!",
+                    "published_at": "3 months ago",
+                    "published_at_date": "2023-08-05T19:25:30.042000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 75,
+                    "total_number_of_photos_by_reviewer": 29,
+                    "reviewer_url": "https://www.google.com/maps/contrib/100973585355364890678/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWUnLTwHR0snP8Ogs32WsA67KBwaW3_gsBSUiwtnegdC8Vk=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipMbL9QU85A_CmRDNRwrt6hd81ydddRkjx0MGmfD=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMvkxgoE0qpeo50FYO2vLmdyF_1o3DyCZUp-vU6=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMgsshLxEA7333rDdZDrj7F8i47j-tSgyxzZHd3=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "Went in on a whim to take a look! Walked out with new shoes! Its not a large store however, big enough with nice inventory. I cannot remember the name of the saleswoman who helped me but she was lovely! She was extremely patient and answered my questions/concerns. The process from start to finish was seamless!",
+                    "reviewer_name": "Sonia kaur",
+                    "rating": 4,
+                    "review_text": "Went in on a whim to take a look! Walked out with new shoes! Its not a large store however, big enough with nice inventory. I cannot remember the name of the saleswoman who helped me but she was lovely! She was extremely patient and answered my questions/concerns. The process from start to finish was seamless!",
+                    "published_at": "5 months ago",
+                    "published_at_date": "2023-05-27T14:14:08.041000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 41,
+                    "total_number_of_photos_by_reviewer": 182,
+                    "reviewer_url": "https://www.google.com/maps/contrib/111200033380885726481/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKhcHyJHqgR-3xn6Pi3KLYrnr2TcfDC2sYzGJIHTajG=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipM0czhiuT6O_teTJz_m7KTYlpv2gHsCRkXx8m__=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "Katerina was helping me find my first pair of Gucci shoes for my Birthday (last year, November) and she was absolutely amazing. Great customer service and she left me a Happy Birthday card in my bag, which I think is a part of great customer service. She definitely has a great products knowledge and helped me choose one of the pairs as I was confused between a couple. My shoes are so comfortable, I can't begin to describe, 100X better than my Yeezys. Fully satisfied with my purchase. Thank you, Katerina! ",
+                    "reviewer_name": "Sim K",
+                    "rating": 5,
+                    "review_text": "Katerina was helping me find my first pair of Gucci shoes for my Birthday (last year, November) and she was absolutely amazing. Great customer service and she left me a Happy Birthday card in my bag, which I think is a part of great customer service. She definitely has a great products knowledge and helped me choose one of the pairs as I was confused between a couple. My shoes are so comfortable, I can't begin to describe, 100X better than my Yeezys. Fully satisfied with my purchase. Thank you, Katerina! ",
+                    "published_at": "a year ago",
+                    "published_at_date": "2021-11-26T22:56:14.228000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 87,
+                    "total_number_of_photos_by_reviewer": 250,
+                    "reviewer_url": "https://www.google.com/maps/contrib/110566248830828653371/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKvsN9JNRwN-6hIRHndjlL2H9B1UjcsCu4aD6xXlI4n6w=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipORPn3GmAL0y5YYZno5yt271kJ9MH2gP2NsqYZr=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPWOZDwvqs8eVZ8QUFHCYYoRtI9oA3W_zilorF7=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipP5vIk-wLdjPwCUy8TfuQyO0JJ1xBUKH8WD04bk=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNNQjS3ewaC4SPSXeo8HQZp3YCA0RnkZSCpuvbY=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "I order some shoes online and i choose the wrong size so i went today to find a way to get them the right size. I was so happy that even with the moving to the other location they had them. Ricardo was really helpful and kind ,the other 2 woman that was there too. I really enjoy it. For myself it was perfect time service... I usually know what i want or like and don't and Ricardo sence me well because of that i had to came out with a little matching purse. Can't wait to go shopping again.. they are moving to bigger place and amazing selection in few days!",
+                    "reviewer_name": "ji yonggweon",
+                    "rating": 5,
+                    "review_text": "I order some shoes online and i choose the wrong size so i went today to find a way to get them the right size. I was so happy that even with the moving to the other location they had them. Ricardo was really helpful and kind ,the other 2 woman that was there too. I really enjoy it. For myself it was perfect time service... I usually know what i want or like and don't and Ricardo sence me well because of that i had to came out with a little matching purse. Can't wait to go shopping again.. they are moving to bigger place and amazing selection in few days!",
+                    "published_at": "a year ago",
+                    "published_at_date": "2022-06-25T20:21:42.785000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 5,
+                    "total_number_of_photos_by_reviewer": 5,
+                    "reviewer_url": "https://www.google.com/maps/contrib/113775751875786520173/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWzKPFbVeVEVpfswpCm8Hw4BSP1251R-ZL-m9hwdnPRGzU=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipME7xeyWlHNjh8cboYYO32FcckLZOgC7NhWzGw9=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "This is a beautiful flagship store with great selection and wonderful staff.  I had a very pleasant experience here with Johnny.  He is knowledgeable and patient and I appreciate his assistance.",
+                    "reviewer_name": "Angela Liao",
+                    "rating": 5,
+                    "review_text": "This is a beautiful flagship store with great selection and wonderful staff.  I had a very pleasant experience here with Johnny.  He is knowledgeable and patient and I appreciate his assistance.",
+                    "published_at": "2 years ago",
+                    "published_at_date": "2021-08-26T03:47:56.584000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 2,
+                    "total_number_of_reviews_by_reviewer": 78,
+                    "total_number_of_photos_by_reviewer": 282,
+                    "reviewer_url": "https://www.google.com/maps/contrib/111033532303487102961/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWA0QYJR084NbQEH1AO5O_63SJXhpXiEVB6lE27tvymRjo=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipO5GF8s8ZH1kQY8eTp4LXUfxq7fptZbIUwA-bj4=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOOHvbyBXsuE6_6ip8jEtIDsjpqSkM9Q3gGGW9j=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "I recently visited this Gucci store and I have to say, it was an amazing experience! The staff was extremely friendly and helpful, offering to assist me with any questions I had about the products. The store itself was beautifully designed with a modern and luxurious feel. The selection of products was vast, ranging from accessories and handbags to clothing and footwear. The prices were surprisingly affordable, making it easy to find something that fits my budget. I was able to find some great pieces that I love wearing. Overall, it was a great shopping experience and I would highly recommend the Gucci store to anyone looking for high quality, luxury products.",
+                    "reviewer_name": "Doon Sidhu DS",
+                    "rating": 5,
+                    "review_text": "I recently visited this Gucci store and I have to say, it was an amazing experience! The staff was extremely friendly and helpful, offering to assist me with any questions I had about the products. The store itself was beautifully designed with a modern and luxurious feel. The selection of products was vast, ranging from accessories and handbags to clothing and footwear. The prices were surprisingly affordable, making it easy to find something that fits my budget. I was able to find some great pieces that I love wearing. Overall, it was a great shopping experience and I would highly recommend the Gucci store to anyone looking for high quality, luxury products.",
+                    "published_at": "11 months ago",
+                    "published_at_date": "2022-12-04T01:25:00.942000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 15,
+                    "total_number_of_photos_by_reviewer": 19,
+                    "reviewer_url": "https://www.google.com/maps/contrib/115787722059534065491/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjU-Ps0aO8QcGNanJaW-4kClBBLoEnk4JLNd0gzWNHu1U18=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Terrible service. All Gucci bags are in TWO year warranty even you got a FAULTY one!!!! I went to the store seeking for help but the manger named Lee is not providing me a satisfying solution and he makes me feel so bad. Here is the situation.\nI bought a BLACK Sylvie leather bag in 2017. I use it no more than half a year.Then I find out the BLACK leather turned RED. First, I thought I dyed the bag red accidentally so I just put it away and never use it again. Until recently, I find out it is a common leather problem for the 2017 black Sylvie bag so I went to the store hoping Gucci can repair it for me since it was a faulty product. The first time I went there, the two sales told me Gucci would probably fixed it or exchange me a new one as it is quite obvious the bag was faulty and it is in great condition which means it is not due to 'old age'.\nTwo months later, they told me I need to pay for repairing the leather since the bag has expired the 2-year warranty. This is my first time to be informed that I have expiry dates for my Gucci bags!!!\nI went to the store again talking to Lee who I believe is the manager of the store. He is not sympathetic or understanding at all. He noticed it was a faulty product and I told him I never know your 2-year warranty policy. (I believe most of the customers didn't notice this policy.)\nWhatever I say, he just quickly replies...Sorry...your bag has exceeded our 2-year warranty...Sorry...your bag has exceeded our 2-year warranty...Sorry....your bag has exceeded our 2-year warranty.......At last, he said the store can only pay half of the repairing fee or we can give back your bag to you......I said I want my bag back and he just disappeared without saying anything!!!!!!! Later another sales associate help get my bag to me.\nThis store manger makes me feel so bbbbaaaaaadd.... he acts like I don't give a sh** to your 'expired' bag.....I am now so frustrated and regret buying this bag!!!!!!!",
+                    "reviewer_name": "Hanna Mo",
+                    "rating": 1,
+                    "review_text": "Terrible service. All Gucci bags are in TWO year warranty even you got a FAULTY one!!!! I went to the store seeking for help but the manger named Lee is not providing me a satisfying solution and he makes me feel so bad. Here is the situation.\nI bought a BLACK Sylvie leather bag in 2017. I use it no more than half a year.Then I find out the BLACK leather turned RED. First, I thought I dyed the bag red accidentally so I just put it away and never use it again. Until recently, I find out it is a common leather problem for the 2017 black Sylvie bag so I went to the store hoping Gucci can repair it for me since it was a faulty product. The first time I went there, the two sales told me Gucci would probably fixed it or exchange me a new one as it is quite obvious the bag was faulty and it is in great condition which means it is not due to 'old age'.\nTwo months later, they told me I need to pay for repairing the leather since the bag has expired the 2-year warranty. This is my first time to be informed that I have expiry dates for my Gucci bags!!!\nI went to the store again talking to Lee who I believe is the manager of the store. He is not sympathetic or understanding at all. He noticed it was a faulty product and I told him I never know your 2-year warranty policy. (I believe most of the customers didn't notice this policy.)\nWhatever I say, he just quickly replies...Sorry...your bag has exceeded our 2-year warranty...Sorry...your bag has exceeded our 2-year warranty...Sorry....your bag has exceeded our 2-year warranty.......At last, he said the store can only pay half of the repairing fee or we can give back your bag to you......I said I want my bag back and he just disappeared without saying anything!!!!!!! Later another sales associate help get my bag to me.\nThis store manger makes me feel so bbbbaaaaaadd.... he acts like I don't give a sh** to your 'expired' bag.....I am now so frustrated and regret buying this bag!!!!!!!",
+                    "published_at": "2 years ago",
+                    "published_at_date": "2020-12-13T20:25:36.798000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 17,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 1,
+                    "reviewer_url": "https://www.google.com/maps/contrib/113183897315679959915/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXoWbi4wk-AEyu2kP65GxwnLEsiJ9zanHliroJypFITMQ=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipNSIm4cMP1IsqZtkB7cdf7FufJ4sIr6mjUxnXlv=w150-h150-k-no-p"
+                    ]
+                }
+            ],
+            "is_spending_on_ads": false
+        }
+    ]
+}

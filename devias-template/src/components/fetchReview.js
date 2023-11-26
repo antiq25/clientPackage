@@ -1,125 +1,116 @@
-import React, { useState } from 'react';
-import { Button, TextField, Alert, Container, Typography } from '@mui/material';
+import React, { useState, useEffect } from 'react';
+import { Button, Typography, Alert } from '@mui/material';
 import { DataGrid } from '@mui/x-data-grid';
-import RatingsGraph from './ratings';
-import { useTheme } from '@mui/material/styles'
 
-
-const ReviewsFetcher = ({ apiHandler }) => {
+const ReviewsFetcher = () => {
   const [reviews, setReviews] = useState([]);
-  const theme = useTheme();
   const [error, setError] = useState('');
-  const [isLoading, setIsLoading] = useState(false); // Added missing state variable
-  
-    const collectReviews = () => {
-      setIsLoading(true);
-      fetch('https://database.aliveai.net/scrape/collect-reviews', {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-        },
-        body: JSON.stringify({
-          companyNames: ['Company A', 'Company B'],
-          companyLocations: ['Location A', 'Location B'],
-        }),
+  const [isLoading, setIsLoading] = useState(false);
+
+  const fetchReviews = () => {
+    setIsLoading(true);
+    const token = localStorage.getItem('token'); // Retrieve the token from local storage
+
+    fetch('http://localhost:3002/scrape/reviews', {
+      method: 'GET',
+      headers: {
+        'Content-Type': 'application/json',
+        Authorization: `Bearer ${token}`, // Include the token in the Authorization header
+      },
+      credentials: 'include', // Needed for CORS requests with credentials
+    })
+      .then((response) => {
+        if (!response.ok) {
+          throw new Error('Failed to fetch reviews');
+        }
+        return response.json();
       })
-        .then((response) => response.json())
-        .then((data) => {
-          setReviews(data);
-        })
-        .catch((error) => {
-          setError(error);
-        })
-        .finally(() => {
-          setIsLoading(false);
-        });
-    };
+      .then((data) => {
+        const transformedReviews = data.map((detailedReview, index) => ({
+          id: `review-${index}`, // Unique ID for the DataGrid
+          name: detailedReview.business.name,
+          reviewCount: detailedReview.business.reviewCount,
+          isSpendingOnAds: detailedReview.business.isSpendingOnAds,
+          averageRating: detailedReview.business.averageRating,
+          reviewerName: detailedReview.reviewerName,
+          reviewText: detailedReview.reviewText,
+          publishedAt: new Date(detailedReview.publishedAt).toISOString(),
+          rating: detailedReview.rating,
+        }));
+
+        setReviews(transformedReviews);
+      })
+      .catch((err) => {
+        setError(err.message || 'Failed to load reviews');
+      })
+      .finally(() => {
+        setIsLoading(false);
+      });
+  };
+
+  useEffect(() => {
+    fetchReviews();
+  }, []);
 
   const importReviews = () => {
-    fetch('https://database.aliveai.net/scrape/import-reviews', {
+    setIsLoading(true);
+    const token = localStorage.getItem('token');
+
+    fetch('http://localhost:3002/scrape/import-reviews', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
+        Authorization: `Bearer ${token}`,
       },
     })
       .then((response) => response.json())
-      .then((data) => {
-        setReviews(data);
-      })
-      .catch((error) => {
-        setError(error);
-      });
+      .then((data) => setReviews(data))
+      .catch((error) => setError(error))
+      .finally(() => setIsLoading(false));
   };
 
-  const getReviews = () => {
-    fetch('https://database.aliveai.net/scrape/reviews')
-      .then((response) => response.json())
-      .then((data) => {
-        setReviews(data);
-      })
-      .catch((error) => {
-        setError(error);
-      });
-  };
+  const columns = [
+    { field: 'name', headerName: 'Business Name', width: 200 },
+    { field: 'reviewerName', headerName: 'Reviewer Name', width: 200 },
+    { field: 'reviewText', headerName: 'Review Text', width: 300 },
+    { field: 'publishedAt', headerName: 'Published At', width: 180 },
+    { field: 'rating', headerName: 'Rating', width: 120 },
+    { field: 'reviewCount', headerName: 'Review Count', width: 120 },
+    { field: 'averageRating', headerName: 'Average Rating', width: 120 },
+    { field: 'isSpendingOnAds', headerName: 'Spending on Ads', width: 120 },
+  ];
 
-  const [currentPage, setCurrentPage] = useState(1);
-  const reviewsPerPage = 25;
-
-  const indexOfLastReview = currentPage * reviewsPerPage;
-  const indexOfFirstReview = indexOfLastReview - reviewsPerPage;
-  
-  const currentReviews = Array.isArray(reviews)
-  ? reviews.slice(indexOfFirstReview, indexOfLastReview)
-  : [];
-  const gridHeight = Math.max(400, 52 * (currentReviews.length + 1)); // 52px per row + header row
-  
   return (
-    <>
-      <div>
-        <Button onClick={importReviews}>Import Reviews</Button>
-        <Button onClick={getReviews}>Get Reviews</Button>
-
-        {error && <Alert severity="error">{error.message}</Alert>}
-
-        <RatingsGraph reviews={reviews} />
+    <div>
+      <Button
+        onClick={importReviews}
+        disabled={isLoading}
+      >
+        Fetch Reviews
+      </Button>
+      <Button
+        onClick={fetchReviews}
+        disabled={isLoading}
+      >
+        Fetch Reviews
+      </Button>
+      {error && <Alert severity="error">{error}</Alert>}
+      <Typography
+        variant="h4"
+        gutterBottom
+      >
+        Reviews
+      </Typography>
+      <div style={{ height: 400, width: '100%' }}>
+        <DataGrid
+          rows={reviews}
+          columns={columns}
+          pageSize={5}
+          checkboxSelection
+          disableSelectionOnClick
+        />
       </div>
-      <div>
-        <Typography
-          variant="h4"
-          gutterBottom
-        >
-          Reviews
-        </Typography>
-        <div
-          style={{
-            height: `${gridHeight}px`,
-            width: '100%',
-            maxWidth: '100%',
-            boxShadow: theme.shadows[3], // Shadow for depth
-            borderRadius: theme.shape.borderRadius, // Consistent border radius
-          }}
-        >
-          <DataGrid
-            rows={currentReviews}
-            columns={[
-              { field: 'review_id', headerName: 'ID', width: 150 },
-              { field: 'reviewer_name', headerName: 'Name', width: 200 },
-              { field: 'rating', headerName: 'Rating', width: 120 },
-              { field: 'review_text', headerName: 'Review Text', width: 300 },
-              { field: 'published_at', headerName: 'Published', width: 180 },
-            ]}
-            getRowId={(row) => row.review_id}
-            autoHeight={false}
-            pageSize={reviewsPerPage}
-            rowCount={reviews.length}
-            paginationMode="server"
-            onPageChange={(params) => {
-              setCurrentPage(params.page);
-            }}
-          />
-        </div>
-      </div>
-    </>
+    </div>
   );
 };
 

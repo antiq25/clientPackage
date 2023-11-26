@@ -20,14 +20,17 @@ const RatingsGraph = ({ reviews }) => {
   useEffect(() => {
     const ratingsByDate = {};
 
-    if (Array.isArray(reviews)) {
-      reviews.forEach((review) => {
+if (Array.isArray(reviews)) {
+    reviews.forEach((review) => {
+      // Check if review.published_at_date is a valid date string
+      if (review.published_at_date && !isNaN(Date.parse(review.published_at_date))) {
         const date = format(parseISO(review.published_at_date), 'yyyy-MM-dd');
         if (!ratingsByDate[date]) {
           ratingsByDate[date] = { date, totalRating: 0, count: 0 };
         }
         ratingsByDate[date].totalRating += review.rating;
         ratingsByDate[date].count += 1;
+      }
       });
     }
 

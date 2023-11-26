@@ -25,7 +25,7 @@ const generateMessage = (messageType, type, message) =>
   `[${messageType.toUpperCase()}] ${type}: ${message}`;
 
 const apiClient = axios.create({
-	baseURL: 'https://smart.aliveai.net/api/v1',
+	baseURL: 'http://localhost:3000/api/v1',
   headers: {
     'Content-Type': 'application/json',
     'Access-Control-Allow-Methods': 'GET, POST, PUT, DELETE',

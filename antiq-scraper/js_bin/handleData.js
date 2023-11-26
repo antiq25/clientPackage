@@ -1,51 +1,81 @@
-// reviewImport.js
 import { readFileSync } from "fs";
 import { PrismaClient } from "@prisma/client";
 
 const prisma = new PrismaClient();
 
-/* *************************** EXTRACT  ***************************************************/
+// The extractRelevantData function as you provided
 export const extractRelevantData = (reviews) =>
-	reviews.map((item) => ({
-		review_id: item.review_id || null,
-		reviewer_name: item.reviewer_name || null,
-		rating: item.rating || null,
-		review_text: item.review_text || "",
-		published_at: item.published_at || null,
-		published_at_date: item.published_at_date || null,
-	}));
+  reviews.map((item) => ({
+    reviewId: item.review_id || null,
+    reviewerName: item.reviewer_name || "",
+    reviewText: item.review_text || "",
+    publishedAt: item.published_at_date
+      ? new Date(item.published_at_date)
+      : new Date(),
+    rating: item.rating || null,
+    responseFromOwnerText: item.response_from_owner_text || "",
+    responseFromOwnerDate: item.response_from_owner_date
+      ? new Date(item.response_from_owner_date)
+      : null,
+    reviewLikesCount: item.review_likes_count || 0,
+    totalNumberOfReviewsByReviewer:
+      item.total_number_of_reviews_by_reviewer || 0,
+    totalNumberOfPhotosByReviewer: item.total_number_of_photos_by_reviewer || 0,
+    reviewerUrl: item.reviewer_url || "",
+    isLocalGuide: item.is_local_guide || false,
+    reviewTranslatedText: item.review_translated_text || "",
+    responseFromOwnerTranslatedText:
+      item.response_from_owner_translated_text || "",
+  }));
 
-	
-/* ***************************  SEND ***************************************************/
-export const importReviews = async (filePath) => {
-	try {
-		const jsonData = JSON.parse(readFileSync(filePath, "utf8"));
-		const allReviews = jsonData.map((place) => place.detailed_reviews).flat();
-		const relevantData = extractRelevantData(allReviews);
+export const importReviews = async (filePath, userId) => {
+  try {
+    const jsonData = JSON.parse(readFileSync(filePath, "utf8"));
 
-		for (const item of relevantData) {
-			if (item.reviewer_name) {
-				const uniqueReviewId =
-					"review_" + Math.random().toString(36).substr(2, 9); // Example ID generation
-				await prisma.review.create({
-					data: {
-						review_id: uniqueReviewId,
-						reviewer_name: item.reviewer_name,
-						rating: item.rating,
-						review_text: item.review_text,
-						published_at: item.published_at,
-						published_at_date: new Date(item.published_at_date),
-					},
-				});
-			} else {
-				console.error("Skipping record without reviewer_name:", item);
-			}
-		}
+    for (const businessData of jsonData) {
+      // Create or update the business record
+      const business = await prisma.business.upsert({
+        where: { placeId: businessData.place_id },
+        update: {},
+        create: {
+          userId, // Reference to the User ID from the other database
+          placeId: businessData.place_id,
+          name: businessData.name,
+          description: businessData.description,
+          isSpendingOnAds: businessData.is_spending_on_ads,
+          reviewCount: businessData.reviews,
+          averageRating: businessData.rating || 0, // Use 0 if rating is undefined
+          website: businessData.website,
+          featuredImage: businessData.featured_image,
+          mainCategory: businessData.main_category,
+          categories: businessData.categories,
+          workdayTiming: businessData.workday_timing,
+          closedOn: businessData.closed_on,
+          phone: businessData.phone,
+          address: businessData.address,
+        },
+      });
 
-		return { message: "Data imported successfully" };
-	} catch (error) {
-		console.error("Error in importReviews:", error);
-		throw error;
-	}
+      // Extract and create/update detailed reviews
+      const extractedReviews = extractRelevantData(
+        businessData.detailed_reviews
+      );
+      for (const reviewData of extractedReviews) {
+        await prisma.detailedReview.upsert({
+          where: { reviewId: reviewData.reviewId },
+          update: {},
+          create: {
+            userId, // Reference to the User ID from the other database
+            businessId: business.id, // Associate the review with the business
+            ...reviewData, // Spread the extracted review data
+          },
+        });
+      }
+    }
+
+    return { message: "Data imported successfully" };
+  } catch (error) {
+    console.error("Error in importReviews:", error);
+    throw error;
+  }
 };
-

@@ -1,0 +1,528 @@
+{
+    "place_id": "ChIJu9EaKyZyhlQRzvgRatA4nf8",
+    "name": "Burger King",
+    "description": "Well-known fast-food chain serving grilled burgers, fries & shakes.",
+    "reviews": 372,
+    "website": "https://www.burgerking.ca/store-locator/store/restaurant_12727",
+    "owner": {
+        "id": "110067106642228126484",
+        "name": "Burger King (Owner)",
+        "link": "https://www.google.com/maps/contrib/110067106642228126484"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOQ7Ux2Jg3q-lZjBAGCj42pQlJjnWxrUqz5OryZ=w408-h271-k-no",
+    "main_category": "Restaurant",
+    "categories": [
+        "Restaurant",
+        "Fast food restaurant"
+    ],
+    "rating": 2.8,
+    "workday_timing": "7:30 a.m.-11 p.m.",
+    "closed_on": [],
+    "phone": "(604) 620-0240",
+    "address": "Burger King, Denman Place Ma, 1030 Denman St, Vancouver, BC V6G 2M6",
+    "review_keywords": [
+        {
+            "keyword": "clean",
+            "count": 23
+        },
+        {
+            "keyword": "fries",
+            "count": 16
+        },
+        {
+            "keyword": "whopper",
+            "count": 10
+        },
+        {
+            "keyword": "floor",
+            "count": 9
+        },
+        {
+            "keyword": "cooking",
+            "count": 8
+        },
+        {
+            "keyword": "nuggets",
+            "count": 7
+        },
+        {
+            "keyword": "lettuce",
+            "count": 6
+        },
+        {
+            "keyword": "health",
+            "count": 5
+        },
+        {
+            "keyword": "girl",
+            "count": 5
+        },
+        {
+            "keyword": "tables",
+            "count": 5
+        }
+    ],
+    "link": "https://www.google.com/maps/place/Burger+King/data=!4m7!3m6!1s0x548672262b1ad1bb:0xff9d38d06a11f8ce!8m2!3d49.2889009!4d-123.1389527!16s%2Fg%2F1hhh_9txz!19sChIJu9EaKyZyhlQRzvgRatA4nf8?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 8:30 a.m. Sat",
+    "price_range": "$",
+    "reviews_per_rating": {
+        "1": 127,
+        "2": 41,
+        "3": 64,
+        "4": 48,
+        "5": 92
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJu9EaKyZyhlQRzvgRatA4nf8&q=Burger+King&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.288900899999994,
+        "longitude": -123.13895269999999
+    },
+    "plus_code": "7VQ6+HC Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "Central Vancouver",
+        "street": "Denman Place Ma, 1030 Denman St",
+        "city": "Vancouver",
+        "postal_code": "V6G 2M6",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "18418940518799112398",
+    "data_id": "0x548672262b1ad1bb:0xff9d38d06a11f8ce",
+    "menu": {
+        "link": "https://burgerking.ca/menu",
+        "source": "burgerking.ca"
+    },
+    "reservations": [],
+    "order_online_links": [
+        {
+            "link": "https://www.burgerking.ca/store-locator/store/restaurant_12727",
+            "source": "burgerking.ca"
+        },
+        {
+            "link": "https://www.ubereats.com/ca/store/burger-king-1030-denman-street-denman-place-ma/n9PrRihaT0WkX9LdGRex9w?utm_campaign=place-action-link&utm_medium=organic&utm_source=google",
+            "source": "ubereats.com"
+        },
+        {
+            "link": "https://www.skipthedishes.com/burger-king-denman-place-mall?serviceType=delivery&utm_source=google&utm_medium=organic&utm_campaign=gpav2",
+            "source": "skipthedishes.com"
+        },
+        {
+            "link": "https://www.doordash.com/store/burger-king-vancouver-31730/?utm_campaign=gpa",
+            "source": "doordash.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Takeout",
+                    "enabled": true
+                },
+                {
+                    "name": "Dine-in",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair accessible seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Coffee",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Dining options",
+            "options": [
+                {
+                    "name": "Breakfast",
+                    "enabled": true
+                },
+                {
+                    "name": "Lunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Dinner",
+                    "enabled": true
+                },
+                {
+                    "name": "Counter service",
+                    "enabled": true
+                },
+                {
+                    "name": "Dessert",
+                    "enabled": true
+                },
+                {
+                    "name": "Seating",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosphere",
+            "options": [
+                {
+                    "name": "Casual",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "crowd",
+            "name": "Crowd",
+            "options": [
+                {
+                    "name": "Family-friendly",
+                    "enabled": true
+                },
+                {
+                    "name": "Groups",
+                    "enabled": true
+                },
+                {
+                    "name": "LGBTQ+ friendly",
+                    "enabled": true
+                },
+                {
+                    "name": "Transgender safe space",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planning",
+            "options": [
+                {
+                    "name": "Accepts reservations",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "children",
+            "name": "Children",
+            "options": [
+                {
+                    "name": "Good for kids",
+                    "enabled": true
+                },
+                {
+                    "name": "High chairs",
+                    "enabled": true
+                },
+                {
+                    "name": "Kids' menu",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOQ7Ux2Jg3q-lZjBAGCj42pQlJjnWxrUqz5OryZ=w448-h298-k-no"
+        },
+        {
+            "about": "Latest",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipON2oyo7jcVDDuyJrCALIFJLLxBwoUEvCdRYyzH=w224-h298-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMg-TC7VrT-FiX85ID4W8_HlKIftc53GJtm0p3d=w397-h298-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipN_yCP82P6-4QxjhYIHLJICpBzyI21YXW-xQUz1=w298-h298-k-no"
+        },
+        {
+            "about": "Vibe",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMuzE9kQioDtbqodvZcH8YwpbxqwbSRycs0JKq1=w224-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMmHcZ5BlbktMOikSnJJLi90z_XXsagBYgmQjTd=w298-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=fUmSnUDgbvVhcvQLIMJOiA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=254.8464&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Sunday",
+            "times": [
+                "8:30 a.m.-11 p.m."
+            ]
+        },
+        {
+            "day": "Monday",
+            "times": [
+                "7:30 a.m.-11 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "7:30 a.m.-11 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "7:30 a.m.-11 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "7:30 a.m.-11 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "7:30 a.m.-11 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "8:30 a.m.-11 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "If you go to buy something there, double check your food, as customer I trust in the quality of the food provided by this kind of restaurant, I never expect when I open my food for enjoy it find this surprise, actually this is pretty dangerous for me or anybody who eat this, I could be poisoned by this sandwich.\n\nOne recommendation also for people who is working there,care your customers and their health, I am really upset to find this, because is pretty obvious that the mold in the pan means that pan is old, how many items did you put in the food of your customers that already were bad and also, because when I went to buy there you weren't busy so you must to check the quality of everything always, even if you are busy you should be ashamed for give that food to your customers.\n\nSo disappointed and upset with you #BurguerKing team .",
+            "reviewer_name": "Abigail Stephanie Yanez Haro",
+            "rating": 1,
+            "review_text": "If you go to buy something there, double check your food, as customer I trust in the quality of the food provided by this kind of restaurant, I never expect when I open my food for enjoy it find this surprise, actually this is pretty dangerous for me or anybody who eat this, I could be poisoned by this sandwich.\n\nOne recommendation also for people who is working there,care your customers and their health, I am really upset to find this, because is pretty obvious that the mold in the pan means that pan is old, how many items did you put in the food of your customers that already were bad and also, because when I went to buy there you weren't busy so you must to check the quality of everything always, even if you are busy you should be ashamed for give that food to your customers.\n\nSo disappointed and upset with you #BurguerKing team .",
+            "published_at": "3 weeks ago",
+            "published_at_date": "2023-10-28T06:29:21.158000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 3,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/106043343988820406615/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIMrwBdWDcoPmyr1GFWSFVyIchIn8mXD7Kled9dp2Hg=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipON2oyo7jcVDDuyJrCALIFJLLxBwoUEvCdRYyzH=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Visited location on Sunday, September 24, 2023, at 9:50 PM.\n\nPlaced order at restaurant and told that the dining room is CLOSED, despite signs showing location closes at 11 PM.\n\nGirl was cleaning and stated that they needed to close one hour early due to cleaning. This would be 70 minutes before the restaurant closes.  Is cleaning while you go, not a concept used here?\n\nAs long as any restaurant is open, their dining area is also open, but not here.  24-hour restaurants in the states are open the full 24 hours and don't close for cleaning.",
+            "reviewer_name": "Unstoppable Attitude",
+            "rating": 1,
+            "review_text": "Visited location on Sunday, September 24, 2023, at 9:50 PM.\n\nPlaced order at restaurant and told that the dining room is CLOSED, despite signs showing location closes at 11 PM.\n\nGirl was cleaning and stated that they needed to close one hour early due to cleaning. This would be 70 minutes before the restaurant closes.  Is cleaning while you go, not a concept used here?\n\nAs long as any restaurant is open, their dining area is also open, but not here.  24-hour restaurants in the states are open the full 24 hours and don't close for cleaning.",
+            "published_at": "a month ago",
+            "published_at_date": "2023-09-28T01:37:15.891000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 55,
+            "total_number_of_photos_by_reviewer": 182,
+            "reviewer_url": "https://www.google.com/maps/contrib/118098959384101144805/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXzv_tpXS0WWjecyjTn-imbVhw2TCxrgstGf3uv73nQD9U=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Got FOOD POISONING here a month back. I went in, not to complain, but to inform them. They flat out told me I was wrong.\n\nI had ONLY eaten there the day before, so it HAD to be them. They denied it and told me it was my own fault. Made me feel so bad. I wasn't even mad. I just wanted to give them a heads up.",
+            "reviewer_name": "Hawk Squadron",
+            "rating": 1,
+            "review_text": "Got FOOD POISONING here a month back. I went in, not to complain, but to inform them. They flat out told me I was wrong.\n\nI had ONLY eaten there the day before, so it HAD to be them. They denied it and told me it was my own fault. Made me feel so bad. I wasn't even mad. I just wanted to give them a heads up.",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-08-27T21:02:34.512000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 7,
+            "total_number_of_reviews_by_reviewer": 16,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/112612084631588395319/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW3K-ttQd8JvoyFvMVWSScHqzEN-JBoSgvnFk57b5ZSww=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "In the dimly lit corner of a forgotten strip mall, there stands a tragically neglected Burger King. The exterior, once vibrant and inviting, is now marred by cracked, peeling paint and a faded, dilapidated sign. Graffiti decorates the windows, concealing the desolation within. The drive-thru intercom, encrusted with grime, emits an eerie hum, as if it's whispering tales of abandonment.\n\nStepping inside, the atmosphere is oppressive with a nauseating odor that combines the stench of rancid cooking oil, moldy carpets, and the faint scent of decay. The tiles on the floor, cracked and stained, crunch beneath your feet as if protesting the indignity they've suffered. Dim, flickering fluorescent lights cast eerie shadows across cracked plastic booths and wobbly, sticky tables. The once-vibrant red and yellow decor has faded into a murky palette of despair.\n\nBehind the counter, the staff's apathy is palpable. They move in slow motion, their uniforms tattered and stained. The kitchen is a horror show of neglect, with greasy surfaces and grimy fryers that haven't seen a cleaning in ages. Forgotten food remnants fester in the corners, and a colony of flies buzzes lazily around discarded wrappers.\n\nAs for the food, the offerings are a grim reminder of the restaurant's decline. Soggy, overcooked burgers and limp, wilted lettuce are served on stale buns, drowning in a sea of congealed cheese and tepid condiments. The fries are a sad heap of cold, withered potato sticks that crumble upon touch.\n\nThis decrepit, neglected Burger King should be shut down not only for its wretched appearance and unsanitary conditions but also for the risk it poses to public health. It's a disheartening testament to the importance of maintaining cleanliness and quality in the foodservice industry, and its continued operation is a disservice to both its employees and customers.",
+            "reviewer_name": "Morry Gaerber",
+            "rating": 1,
+            "review_text": "In the dimly lit corner of a forgotten strip mall, there stands a tragically neglected Burger King. The exterior, once vibrant and inviting, is now marred by cracked, peeling paint and a faded, dilapidated sign. Graffiti decorates the windows, concealing the desolation within. The drive-thru intercom, encrusted with grime, emits an eerie hum, as if it's whispering tales of abandonment.\n\nStepping inside, the atmosphere is oppressive with a nauseating odor that combines the stench of rancid cooking oil, moldy carpets, and the faint scent of decay. The tiles on the floor, cracked and stained, crunch beneath your feet as if protesting the indignity they've suffered. Dim, flickering fluorescent lights cast eerie shadows across cracked plastic booths and wobbly, sticky tables. The once-vibrant red and yellow decor has faded into a murky palette of despair.\n\nBehind the counter, the staff's apathy is palpable. They move in slow motion, their uniforms tattered and stained. The kitchen is a horror show of neglect, with greasy surfaces and grimy fryers that haven't seen a cleaning in ages. Forgotten food remnants fester in the corners, and a colony of flies buzzes lazily around discarded wrappers.\n\nAs for the food, the offerings are a grim reminder of the restaurant's decline. Soggy, overcooked burgers and limp, wilted lettuce are served on stale buns, drowning in a sea of congealed cheese and tepid condiments. The fries are a sad heap of cold, withered potato sticks that crumble upon touch.\n\nThis decrepit, neglected Burger King should be shut down not only for its wretched appearance and unsanitary conditions but also for the risk it poses to public health. It's a disheartening testament to the importance of maintaining cleanliness and quality in the foodservice industry, and its continued operation is a disservice to both its employees and customers.",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-01T18:30:54.358000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 32,
+            "total_number_of_photos_by_reviewer": 5,
+            "reviewer_url": "https://www.google.com/maps/contrib/107157629071660891643/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJY3E1_tQvmRhbfzC1xU4CdJjbhf3WQnT5JdrBekQVf=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Such a bad place ! Only one person works here doing all the job: cleaning, cooking and taking orders (I don't know, maybe it was a weekend day , but in my opinion this is just a slavery). Very dirty inside  (again, the person does not have time to do everything himself). We came there with a big family, ordered Poutine, Meal, Burger, Chicken nuggets, French Fries, Chicken rap and drinks. But in the end, instead of Poutine, they gave French Fries, instead of Meal, they gave one burger. The girl who served us was not friendly and looked very tired. Even for a Fast Food - this is a very bad place!",
+            "reviewer_name": "Valerie Plakhotnyk",
+            "rating": 1,
+            "review_text": "Such a bad place ! Only one person works here doing all the job: cleaning, cooking and taking orders (I don't know, maybe it was a weekend day , but in my opinion this is just a slavery). Very dirty inside  (again, the person does not have time to do everything himself). We came there with a big family, ordered Poutine, Meal, Burger, Chicken nuggets, French Fries, Chicken rap and drinks. But in the end, instead of Poutine, they gave French Fries, instead of Meal, they gave one burger. The girl who served us was not friendly and looked very tired. Even for a Fast Food - this is a very bad place!",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-20T22:45:53.221000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 4,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/101523748101424410191/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKgRh8-1Z1q8SyGt4D6olYByjAyYmPOhgxHv55ey2mS=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "\"I recently visited the Burger King store located at Denman Place Mall and had an unexpected experience with their mobile ordering system. Despite using the Burger King app and paying for my order in advance, my meal was not prepared until I arrived at the restaurant and showed the staff my order confirmation number. The manager explained that this policy is in place to prevent food from getting cold, but as a customer, I believe it should be my decision whether or not I want my order prepared early. This resulted in a longer wait time for my food, which was disappointing given the convenience of using the app. Perhaps there could be an option for customers to choose whether they want their order prepared immediately or upon arrival?\"",
+            "reviewer_name": "Progressive Canadian",
+            "rating": 2,
+            "review_text": "\"I recently visited the Burger King store located at Denman Place Mall and had an unexpected experience with their mobile ordering system. Despite using the Burger King app and paying for my order in advance, my meal was not prepared until I arrived at the restaurant and showed the staff my order confirmation number. The manager explained that this policy is in place to prevent food from getting cold, but as a customer, I believe it should be my decision whether or not I want my order prepared early. This resulted in a longer wait time for my food, which was disappointing given the convenience of using the app. Perhaps there could be an option for customers to choose whether they want their order prepared immediately or upon arrival?\"",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-08-29T20:00:28.578000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 52,
+            "total_number_of_photos_by_reviewer": 11,
+            "reviewer_url": "https://www.google.com/maps/contrib/114378757026348030782/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWSf-1T3xhhN9qLO1xdgYeYuQH3cxjepEhVuHk4QezAWyhq=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Came here for some quick food -- ordered two full meals and asked to use the washroom. I was told there was no public washrooms -- after waiting for my food and sitting down to eat, they proceeded to allow the next customer coming in to use the washroom.\n\nI understand it can be difficult in locations to maintain a washroom -- but I'm not sure why some customers can use the washroom and others cannot?",
+            "reviewer_name": "Curtis MacPhail",
+            "rating": 1,
+            "review_text": "Came here for some quick food -- ordered two full meals and asked to use the washroom. I was told there was no public washrooms -- after waiting for my food and sitting down to eat, they proceeded to allow the next customer coming in to use the washroom.\n\nI understand it can be difficult in locations to maintain a washroom -- but I'm not sure why some customers can use the washroom and others cannot?",
+            "published_at": "6 months ago",
+            "published_at_date": "2023-05-23T00:57:14.193000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 14,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/117659892863184123653/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWzZAdkECNNYsA13X5cNSzSrNd3j_-bsBoNHn8Ah0NU0Sg=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "The owner is sooooo CHEAP. I have never experienced such service and atmosphere: there is only one small girl doing all the job: cleaning, cooking and taking orders. Poor workers.... Literally the worst place for everyone",
+            "reviewer_name": "Arthur Khamitov",
+            "rating": 1,
+            "review_text": "The owner is sooooo CHEAP. I have never experienced such service and atmosphere: there is only one small girl doing all the job: cleaning, cooking and taking orders. Poor workers.... Literally the worst place for everyone",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-20T22:37:00.369000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 5,
+            "total_number_of_reviews_by_reviewer": 5,
+            "total_number_of_photos_by_reviewer": 3,
+            "reviewer_url": "https://www.google.com/maps/contrib/111687891541772693550/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXt1JNjyZVdJWNcnLjFiVk_kKBIQLj6j5VQrqlq4uJtRfk=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

@@ -1,0 +1,499 @@
+{
+    "query": "\"Playland in Vancouver\"",
+    "places": [
+        {
+            "place_id": "ChIJm1iznN5whlQRaE-axeldswo",
+            "name": "Playland Amusement Park",
+            "description": "Amusement park with traditional rides open seasonally, plus haunted/terror rides in October.",
+            "reviews": 8424,
+            "website": "https://www.pne.ca/",
+            "owner": {
+                "id": "112477898964056855974",
+                "name": "Playland Amusement Park (Owner)",
+                "link": "https://www.google.com/maps/contrib/112477898964056855974"
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN6CTsi0ppyjD7O5e3MW_EAY-xtTMMr-rerhi_6=w426-h240-k-no",
+            "main_category": "Amusement park",
+            "categories": [
+                "Amusement park",
+                "Park",
+                "Tourist attraction"
+            ],
+            "rating": 4.1,
+            "workday_timing": null,
+            "closed_on": [],
+            "phone": "(604) 253-2311",
+            "address": "Playland Amusement Park, 2901 E Hastings St, Vancouver, BC V5K 5J1",
+            "review_keywords": [
+                {
+                    "keyword": "haunted houses",
+                    "count": 154
+                },
+                {
+                    "keyword": "wooden roller coaster",
+                    "count": 150
+                },
+                {
+                    "keyword": "donuts",
+                    "count": 91
+                },
+                {
+                    "keyword": "vendors",
+                    "count": 57
+                },
+                {
+                    "keyword": "corkscrew",
+                    "count": 40
+                },
+                {
+                    "keyword": "actors",
+                    "count": 33
+                },
+                {
+                    "keyword": "dog show",
+                    "count": 30
+                },
+                {
+                    "keyword": "fright nights",
+                    "count": 20
+                },
+                {
+                    "keyword": "jousting",
+                    "count": 14
+                },
+                {
+                    "keyword": "barn",
+                    "count": 14
+                }
+            ],
+            "link": "https://www.google.com/maps/place/Playland+Amusement+Park/@49.2816417,-123.0362188,17z/data=!3m1!4b1!4m6!3m5!1s0x548670de9cb3589b:0xab35de9c59a4f68!8m2!3d49.2816417!4d-123.0362188!16zL20vMDRodDcx?authuser=0&entry=ttu",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 619,
+                "2": 381,
+                "3": 1018,
+                "4": 2332,
+                "5": 4074
+            },
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJm1iznN5whlQRaE-axeldswo&q=Playland+Amusement+Park&authuser=0&hl=en&gl=CA",
+            "coordinates": {
+                "latitude": 49.281641699999994,
+                "longitude": -123.0362188
+            },
+            "plus_code": "7XJ7+MG Vancouver, British Columbia",
+            "detailed_address": {
+                "ward": "East Vancouver",
+                "street": "2901 E Hastings St",
+                "city": "Vancouver",
+                "postal_code": "V5K 5J1",
+                "state": "British Columbia",
+                "country_code": "CA"
+            },
+            "time_zone": "America/Vancouver",
+            "cid": "771063219834474344",
+            "data_id": "0x548670de9cb3589b:0xab35de9c59a4f68",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [
+                {
+                    "id": "highlights",
+                    "name": "Highlights",
+                    "options": [
+                        {
+                            "name": "Live performances",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "accessibility",
+                    "name": "Accessibility",
+                    "options": [
+                        {
+                            "name": "Wheelchair-accessible entrance",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Wheelchair-accessible parking lot",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Wheelchair-accessible washroom",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "amenities",
+                    "name": "Amenities",
+                    "options": [
+                        {
+                            "name": "Restaurant",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Washroom",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "crowd",
+                    "name": "Crowd",
+                    "options": [
+                        {
+                            "name": "Family-friendly",
+                            "enabled": true
+                        },
+                        {
+                            "name": "LGBTQ+ friendly",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Transgender safe space",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "planning",
+                    "name": "Planning",
+                    "options": [
+                        {
+                            "name": "Getting tickets in advance recommended",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "children",
+                    "name": "Children",
+                    "options": [
+                        {
+                            "name": "Good for kids",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipN6CTsi0ppyjD7O5e3MW_EAY-xtTMMr-rerhi_6=w530-h298-k-no"
+                },
+                {
+                    "about": "Latest",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipMPVCItrlN2LfiYr6QB824_7oQR_PuEGzSYp0lf=w224-h398-k-no"
+                },
+                {
+                    "about": "Videos",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipOKU4bPEhKnUjynJMZgKkJMMQeQbPhJlDQsF8p3=w529-h298-k-no"
+                },
+                {
+                    "about": "Agrodome",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipN4j9sZ7KrXwq90eGxHv3pzzcgz4ZjMPWNL7MiF=w397-h298-k-no"
+                },
+                {
+                    "about": "Pacific Coliseum",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipMkeoV8uAGz-r0YwNzBXDpL1elSyVJ_uRIDPVGI=w529-h298-k-no"
+                },
+                {
+                    "about": "By owner",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipOu8MmOX9oU59ywyyST0UpxF6GwMJ8o3TZj74iT=w446-h298-k-no"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipPKHXhx3-exCfhgdt3uCPMi-sruTt0lgL4Wxd_R=w224-h298-k-no-pi-0-ya103.99999-ro0-fo100"
+                }
+            ],
+            "hours": [],
+            "featured_reviews": [
+                {
+                    "review_id": "So fun! I highly recommend Fright Nights for Halloween, they add haunted houses and actors to bring the Halloween experience alive! There are rice and haunted house wait times but it's worth the wait. The park is especially beautiful at night when everything is lit up. There is fun theme park food options and rides for a range of ages and comfort levels. It's easy to get to by transit and there is lots of parking across the street. Would definitely recommend if you are looking for thrills and fun!",
+                    "reviewer_name": "Kaley Merritt",
+                    "rating": 5,
+                    "review_text": "So fun! I highly recommend Fright Nights for Halloween, they add haunted houses and actors to bring the Halloween experience alive! There are rice and haunted house wait times but it's worth the wait. The park is especially beautiful at night when everything is lit up. There is fun theme park food options and rides for a range of ages and comfort levels. It's easy to get to by transit and there is lots of parking across the street. Would definitely recommend if you are looking for thrills and fun!",
+                    "published_at": "3 months ago",
+                    "published_at_date": "2023-08-16T20:25:54.687000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 68,
+                    "total_number_of_photos_by_reviewer": 49,
+                    "reviewer_url": "https://www.google.com/maps/contrib/110531387507174557421/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjV7EdxH8ORumRUpZnZF0ED8unI-rwqMAjOple4sSD6Dd3I=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipP6ny9vPcfcChlQI5FYx3g2TVAS-1yvbWadUFaE=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMdGM1Oc8SmsUd3jDp8njMsH0_6vCSCNf3b1RD0=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNI3g7VZWJULQHCpcKzAmlfnQ1bECm-6iDjDyKd=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOVS-iLmc62cT_uYDejIvIROg6jlrNl_P2dVRgz=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipODI6-468rpoL8vjHK5kCVm-wJjfvjtQpcUorp0=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMcr_7V5AM92JV2VcgI6SOENfAkNQsQL54Dk-7h=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPvNT2tMWVkhHWJFVzRoijPZ7SiYxgj_mfWXOGE=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOJDU0Jiy6ihm0FFL3uSZ0d_y1HBb-zaK81ftvk=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNrZcpaCO4HY5eh44IImpfCpkYrfuYRPLef9M6C=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMSYU2BgEdpgQ63MV_39Q1TBDgFzM7U79p__Iv6=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOjjp6E9j4gqkU0nUYIPjBb867ZqSMoPaeFQbJz=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOh-9JDeWBXaScRQ0BNraBEav2cSJRPe8UV3cFA=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipP3z9f17ul9Sy5elU6JMaLglIFyGFSTpC9q7rPJ=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOu6R75H6xs_10sC2wgSYSnJllyF9GVVt6FMUpV=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOHkbtjDOvtXI9ev2sF2VfvMZnpH6ev4NDmgqfg=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipP_Pa4PqM6KApMM5g3TmFpVOxzEQFAnM2wvDUNp=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "First and foremost, the hard working staff of Fright Night do a great job. It's not their fault the event is garbage theater for toddlers that they market to adults.\nI was so disappointed in how long these lines were for the 5 minute experience that a 4 year old would giggle at.\nHad I waited an hour for a 15 minute haunted house experience that left me shaken, I'd be telling everyone about how amazing this place is and it's well worth the $50 ticket. Sadly that's not the case. No Jump Scares. Well lit houses with \"actors\" doing their best to scare you.\n\nHaunted houses are lame. The ride wait times are long and only decent if you're willing to pay an extra $70 for a Rapid Pass.\nWoke up this morning to see if I was the only one that thought this way and read a trip advisor review from 10 yeads ago with the exact same experience.\n\nThis is supposed to be for 13 years of age and up, but its more like 5 to 10 years old.\n\nNot for adults.",
+                    "reviewer_name": "Jer Baum",
+                    "rating": 2,
+                    "review_text": "First and foremost, the hard working staff of Fright Night do a great job. It's not their fault the event is garbage theater for toddlers that they market to adults.\nI was so disappointed in how long these lines were for the 5 minute experience that a 4 year old would giggle at.\nHad I waited an hour for a 15 minute haunted house experience that left me shaken, I'd be telling everyone about how amazing this place is and it's well worth the $50 ticket. Sadly that's not the case. No Jump Scares. Well lit houses with \"actors\" doing their best to scare you.\n\nHaunted houses are lame. The ride wait times are long and only decent if you're willing to pay an extra $70 for a Rapid Pass.\nWoke up this morning to see if I was the only one that thought this way and read a trip advisor review from 10 yeads ago with the exact same experience.\n\nThis is supposed to be for 13 years of age and up, but its more like 5 to 10 years old.\n\nNot for adults.",
+                    "published_at": "a month ago",
+                    "published_at_date": "2023-10-22T20:16:59.878000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 298,
+                    "total_number_of_photos_by_reviewer": 287,
+                    "reviewer_url": "https://www.google.com/maps/contrib/113422321436232442949/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjV-Qp7ZRo1gK3CR2n0qWl8ANZtykyNxjNZ13r79gi6lSsuH=s120-c-rp-mo-ba5-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipOSpFyZ_8g7YrSm0sU4ht1nk56ADEg3aFKt0d-m=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPVfOCydSZyPHhUrzUkLdPZK-poaIC6DZEdBttI=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMxSaO1fABLxWj7xA-5-abq9LcdtwV4yGe9BAYi=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPtif4FJt5lLeFuTDsd8lrFf99Eea4KyKtjrwAD=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPyJmlxPnSx219FhsULWstvTPhSRKEgh8_PTtGM=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPLEuC5TuO8yXRuVoIHqiAqZxDZvtBa2v62rHXJ=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPUbLEwTEiFBmZJAZXBsxvSRT7aVkdiX6LXKcg-=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "I visited to Playland Amusement Park in winter's during Fright Night. It was a thrilling experience. The Halloween theme added an exciting twist to the park. Everywhere you turned, you were immersed in a ghostly atmosphere with lots of haunted houses, making it perfect for the spooky season. It's a unique and fun way to celebrate Halloween with family and friends, providing a memorable and spine-tingling adventure. It was very crowded at this Fright night event, especially during the second week of Halloween-themed festivities. With the popularity of the event, it's important to plan ahead, arrive early, and be prepared for larger crowds.",
+                    "reviewer_name": "Vipin Arora",
+                    "rating": 5,
+                    "review_text": "I visited to Playland Amusement Park in winter's during Fright Night. It was a thrilling experience. The Halloween theme added an exciting twist to the park. Everywhere you turned, you were immersed in a ghostly atmosphere with lots of haunted houses, making it perfect for the spooky season. It's a unique and fun way to celebrate Halloween with family and friends, providing a memorable and spine-tingling adventure. It was very crowded at this Fright night event, especially during the second week of Halloween-themed festivities. With the popularity of the event, it's important to plan ahead, arrive early, and be prepared for larger crowds.",
+                    "published_at": "2 weeks ago",
+                    "published_at_date": "2023-11-06T17:53:25.250000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 17,
+                    "total_number_of_photos_by_reviewer": 30,
+                    "reviewer_url": "https://www.google.com/maps/contrib/110308332841932997277/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW2LxrWNthDIZOxuLtP90plUPCR3OvfofMcc0TwTtnWvck=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipMSCfg7Byj_V-Cl1tzWDQn4wUR2Kytzm5BzX-7e=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipO_7HaHFr7g8fNVFZdtR67bhzFE69t8awBwqQ0h=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPjHSLV6wwmRejV0-sLgOXYZHPLxrw1OI57J0qV=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipN7aZOp95MVtka8k6u_nx-PptL4o_m61Vj8amEi=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOgYLHp8sJltZ1--AwWWq0ErxnS6eK8iKb6QJL2=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMX61pe-yuMlgAqE6bqFYIqhCFp3-oHalJMxjcd=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "Great place for thrill seekers.   Most rides will accommodate all body type but the Beast isn't made for women with chest sizes over 36 inches. The shoulder harness is the problem.\n\nBe prepared for exceptionally long lines at the rides.\n\nOverall great experience and would love to go back again.",
+                    "reviewer_name": "Angela Seguin",
+                    "rating": 4,
+                    "review_text": "Great place for thrill seekers.   Most rides will accommodate all body type but the Beast isn't made for women with chest sizes over 36 inches. The shoulder harness is the problem.\n\nBe prepared for exceptionally long lines at the rides.\n\nOverall great experience and would love to go back again.",
+                    "published_at": "3 months ago",
+                    "published_at_date": "2023-08-18T19:46:53.437000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 178,
+                    "total_number_of_photos_by_reviewer": 532,
+                    "reviewer_url": "https://www.google.com/maps/contrib/114670263129934477071/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUxqxAWRyZrbRiczSQQfwC5UPPSFrVGMtetAhCxinCby-7P=s120-c-rp-mo-ba5-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipPSBho3xCDo-fOU2dDbW1ngeEtwL7YfqRCfRPxR=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipM8g_FaYFVu9fI-ErgVLzCOq5QFfFFQFaiTnCv_=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPfO2DJE_JsepWCIXAsHpqwkfN9CoTr335E-MAV=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOom5VgSMTHOPd6BYReikkfuWB0st_f9jgvqf_k=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPXMZQBCDQpVpzGxWdu47bMfxCl287JXoz2Sh7E=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMibdaxIRAV0Jad9TGHymm9EVjNF8JRUICf99KL=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPfUlLKx-dm1ptap46YLHgL75DuEO81VA-E8WeM=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNpOiaiiXZk-ChcdwPLqpJT_iv-1enkl5Lg04Qb=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNSOdJ0uOUwGlMCLmvlzX9rKGANmF5QCfbrL45c=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPHsGruwT8gtocaSMdsiQeW2_n3udB80l4WkK5t=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "Still a bit pricey for what you are getting... But if you get there early and hustle you can definitely ride pretty much everything, maybe even twice.\n\nHighly recommend that children under 56 inches not go, there are very limited rides for younger children and at this price point you would be better off waiting for the west coast amusement to roll through town.\n\nFood is actually not terribly priced. Most food items are going to cost you about $12.00. Drinks are $5.00. A decent selection of foods.\n\nThe midway has increased from the $5.00 I remember to now being $7.00 per punt. Not aweful, but gets pricey FAST.\n\nPlenty of shady spots to tuck away into and they also put out giant fans with misting water to cool you throughout the park.",
+                    "reviewer_name": "Digital Loop",
+                    "rating": 4,
+                    "review_text": "Still a bit pricey for what you are getting... But if you get there early and hustle you can definitely ride pretty much everything, maybe even twice.\n\nHighly recommend that children under 56 inches not go, there are very limited rides for younger children and at this price point you would be better off waiting for the west coast amusement to roll through town.\n\nFood is actually not terribly priced. Most food items are going to cost you about $12.00. Drinks are $5.00. A decent selection of foods.\n\nThe midway has increased from the $5.00 I remember to now being $7.00 per punt. Not aweful, but gets pricey FAST.\n\nPlenty of shady spots to tuck away into and they also put out giant fans with misting water to cool you throughout the park.",
+                    "published_at": "3 months ago",
+                    "published_at_date": "2023-08-14T01:18:22.419000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 237,
+                    "total_number_of_photos_by_reviewer": 696,
+                    "reviewer_url": "https://www.google.com/maps/contrib/104809088599331412489/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLkA366tSDpuHtMM1yG0uOpRXUMADneYXLI4C0JjvfP=s120-c-rp-mo-ba5-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipNRzO4Te2YWs736u-Pv9hAuriJHU8dNrt2_-iD-=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOnvas-mziaEfbSm2CbDw4gzJeNtEu91JFPN5z2=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOlywNSiltTQQDEIiL8Xc4Q2ZzBFIh9b-_gG2Ee=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNeF8bB582CQJm7VESgCZ00alAg2vOiGxLn4h7N=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNRFkbEbBbYEQW8oEcJutJz4lKdK-2lnIOJCqE_=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipP_8o4yR5haUii3YlXYzyUjaNdK1RTttdXab5hj=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNDsiiZjwQKmMPKvm9RJrXv-SIhmwHkMePJOeRC=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNBBtWlo4mKpnQuYMIyJn2VlnLZWhIDnUarE5n7=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipO2-4kcaztUmAhngjDMvkruhN2pgPtGpzId8Hza=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOKgfcDvoU3X5GnlZ5OmhzTM7K6JZC9Jvk8zVKA=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipP8hF3DztDTzmk8UVoSeMR2XGj5q2qbVX0A_mhu=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPddFibJKc9LIx91FM7MZ42PIVGIbhi4Med5tCY=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPfPRnEudbjtUddONSraws041hVBjuBX-dLvTc1=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipM_G211dxzml8udWGKhQyv6XDFnzoGbZgqQYMAu=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPL3d-SexEig_ROyMWSV9V4DBMsljxPAV_r4Ygy=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOsZVgSkS_N6bNTS0HJL3C8B3islnL3S5DFSN2o=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "last year we got to enjoy most of the rides. but this year, getting in line is the main event. you spend all your time falling in line. and if you go early like 6pm, the most rides that you can enjoy are 5 to 7 tops because there's a lot of people. thumbs down on the management this year.",
+                    "reviewer_name": "Francis \"Frank\" urmaza",
+                    "rating": 2,
+                    "review_text": "last year we got to enjoy most of the rides. but this year, getting in line is the main event. you spend all your time falling in line. and if you go early like 6pm, the most rides that you can enjoy are 5 to 7 tops because there's a lot of people. thumbs down on the management this year.",
+                    "published_at": "a month ago",
+                    "published_at_date": "2023-10-08T06:22:15.725000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 30,
+                    "total_number_of_photos_by_reviewer": 86,
+                    "reviewer_url": "https://www.google.com/maps/contrib/103621515068719174325/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVBHRY5qDZ8bNQTSEUARtCA3LXw96oR4i74SOUdsCQifeBR=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipOpeaq8jFg3kR9Oen0X77pbErDvUEbY85DCPgBN=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMzLn-8hDqYeNK7jzI-_vX495_3MqbgV2R5gTpy=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPs73AJ6cDG2WdLSHtL-sHylH-HmNji34m2EAyo=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "Aug 2023 update!\n\nSooooo many people! They are very overcrowded and the passes are often not worth it for the amount of ride you can get. A lot of food options though and it is fun. I recommend going at a off peak time.\n\nI am not going to compare to Disneyland but it can be underwhelming, amusement park wise, but for the variety of experience, it is fun to go once a year.\n\nExpect to be faced with double triple price for food though! I tried to take some vendors pictures so you can know what to expect before going.\n\nBe aware, there can be concerts or shows not appropriate for kids of any age. There has been drag queen show, and etc.\n\nMy #1 recommendation here is Superdog show! They are so fun!! Video attached!",
+                    "reviewer_name": "YG SES",
+                    "rating": 4,
+                    "review_text": "Aug 2023 update!\n\nSooooo many people! They are very overcrowded and the passes are often not worth it for the amount of ride you can get. A lot of food options though and it is fun. I recommend going at a off peak time.\n\nI am not going to compare to Disneyland but it can be underwhelming, amusement park wise, but for the variety of experience, it is fun to go once a year.\n\nExpect to be faced with double triple price for food though! I tried to take some vendors pictures so you can know what to expect before going.\n\nBe aware, there can be concerts or shows not appropriate for kids of any age. There has been drag queen show, and etc.\n\nMy #1 recommendation here is Superdog show! They are so fun!! Video attached!",
+                    "published_at": "2 months ago",
+                    "published_at_date": "2023-08-29T02:05:36.532000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 4,
+                    "total_number_of_reviews_by_reviewer": 59,
+                    "total_number_of_photos_by_reviewer": 412,
+                    "reviewer_url": "https://www.google.com/maps/contrib/113206211189572964399/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXsz3P1Uf7d7KMOdrwjXR_ttyFQzdj9K_API8he1O7JSJL8=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipPrSHXzadw3c_aKeNDtaJBYa6ZbdM0KtPQOI2--=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPbiW3Ph9udzbVF_ajiMJmzf4viOBE0HHSiKV_Y=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPoWT1Vmt3x_7ozIjHGcuOT669sAjBFpex7J-Ou=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOkYLu3NIX8xy6vvL36DembeOweqJsIC8W62u1d=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipP-lnfUzJ_iqKggNRmc1HbFvcD9ZCPzwOuBaGIm=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNeks-gY_jh8KwHm8xajfCmbCZlY3YcDUo_AP6v=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMLfObPYOmj88kQl9ED-fkz06W6r7EL5yVjO_2l=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOL6g55CQPaoBFdTH1VodEWZrXNpVDJe8lf56sq=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPOnKK1-_BVZIsoSh77ft1L9J-XRbXG4PiBUCO1=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPY_rOO00XGVgkShK_27gXolATxG6beYGUi0_ki=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNbDAOYHFtko4dirhmDO8L8PAz6NZ6FevEtMxvk=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipO_yDL8bGwmXnqY5S9KBxcI7P5ZY8TqZAq_kx_X=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPuJooInGo4mi6vivJ8xRCsyxbVKGcfRkccYvlg=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMoghfiCGlBDIshC47-4UXgzMG2kLdFNEBtmoc2=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPUpSuL0Cru3BcBBTeWu_MbDBOHk4WEdkdIlXW2=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNHYpoCLFFz89CnpmiloWfZyIlyYFEhC-WyAbVa=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPMQZpaAOIPH8QbR3W37MqUNe5SsIdCbphMuNFi=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipO1U36AqS6zZ6s0D3t6hCNcRqkfzg4hxes9sZMg=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOaJK9_zhB4XEJEWrGo23XBAyrjGgl49tiWNh7Y=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMwdnbYP1kfvfFk8GyaLPRGnFeJxy8DYUIpBCAK=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMj5gUTKYDGD7E5NQOzwfLyx4-OVQlb28dFmmlp=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPHPsCwRJPF391-MyQQe_IgtSvR5S7-P6dLKysA=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOMEJKaVlTeuQsfzZ2d_hVBd1hPK9u52rVx0cGP=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNVXQmfezmQ3O3QCBh_57eBcfXTkOeqR-xMSahj=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOoq8Do2CX5gmPN-UinYemcCAcwV7fbJQSxrPLU=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipO0kP_-56d_KzFhL1s5TXa2MWxaL5BFGCVpAnhk=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNinbaHAtGaQ6o5ygbwl5vk9nxCbaB0AcCHlV5T=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPUQ3a0Omvz09ugzrqMzwqO77I668RzmvaFhh1u=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMrF2mp7wfMhmRm68yT2Z97y9lbBdyb3vultobD=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMJvcqSQBYNCbOz_NTEA2DnZsOjmkscpdb4MD25=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMrKRv9h9S4w0etNPSRpyrOIpVsZ5zO2GYFMAU4=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMcukiabh1tqA0F1ywx0iW17XCv5NuIvO3xcLQl=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMfgCg0m2b7m0veTZKxinqwH0nSXmOUBc8nbNBx=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMusCJXNP3yuJUuvtZC_-QS3AGBO7NSyDGB7DLJ=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMAy6r9o3SAUQ5t9lZ520Y5D94q-3t3vegvaDg4=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOzUW6rEboy-r8h60Xv88XAsYUxt4QD4sDUVmz4=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOTzzEGp-1fiTXPbD55FAKe2TsMtB3xo2AdHJtP=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMtGpm95dsoER9U94ZrsyIvArMSvZHvXgyQbvoi=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipP9DGdqQUhXyzzgOPimE7ovz2aFftuE1Nj_7SN_=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPMtw5Ha2HegUocQGMCxjihrImQIfz41QUb4Rbs=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPCP36Ni6Lo0Q505MZOAAB-8oaOo2oZJeLtPUoC=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMVGo26GM7JD9XkEouJFknX5FB-92PkdEZrxSXs=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipN1w_iE8lC5D-7txuPQYZ7qmXBcP1oPmbGGeuz0=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMGOjetZeadLRJ6GBg75H7UnWvEv7MB5hK7p_rF=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOcrrujxnAES1roOwRVceWPT0OJKkTZJCSl1X8D=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPCt_tNQ44iMysGb-eVVFTiIVrN4_ODpIynVzGQ=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNXTY6W--DOzBETvNZ4oHEhV4HUHkxsuf9Ba7h8=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipM3_HwzVYuabCgulX3RDIc5VxOnOp4fE8d6LOFs=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "Its a small but fun place to be. Good for a family outing. Only reason am not giving 5 star is because of weird timings they have. 11-5 and 6-10. Due to the crowd, it doesn't give access to all rides that you can take in a day, especially when you are visiting on weekends.",
+                    "reviewer_name": "Rajasekar TJ",
+                    "rating": 4,
+                    "review_text": "Its a small but fun place to be. Good for a family outing. Only reason am not giving 5 star is because of weird timings they have. 11-5 and 6-10. Due to the crowd, it doesn't give access to all rides that you can take in a day, especially when you are visiting on weekends.",
+                    "published_at": "3 months ago",
+                    "published_at_date": "2023-08-13T21:19:56.691000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 133,
+                    "total_number_of_photos_by_reviewer": 218,
+                    "reviewer_url": "https://www.google.com/maps/contrib/114340541137193281798/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVf6SqVOara8zCPiUejAfVgsK2DjVGtwWH-THpe85z3_f4=s120-c-rp-mo-ba5-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipMQ10YzJs59Ijm0nnI28_544FavI4WkYg6la8wI=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPR1HIQ6-VscE5qOUPrXJVUxyYwCSx5Hgfo4BYI=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOgZaf3j2-Mm1gO3PZWdCYbfg9Qxka8zKC8_wIW=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipN6d7fEbYy0jqUwHUNS9vQpdtJ-PUjBgwrQrkB8=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipO6-hYkcoDLU_M2xcK3nXm_7xxI-Ys08Dx6KnVX=w150-h150-k-no-p"
+                    ]
+                }
+            ],
+            "is_spending_on_ads": false
+        }
+    ]
+}

@@ -1,0 +1,542 @@
+{
+    "place_id": "ChIJ724lCrhyhlQR40w5_LUVBas",
+    "name": "McDonald's",
+    "description": "Classic, long-running fast-food chain known for its burgers & fries.",
+    "reviews": 938,
+    "website": "https://www.mcdonalds.com/ca/en-ca/restaurant-locator.html%3Fy_source%3D1_MTQ1MjA2MzktNzE1LWxvY2F0aW9uLndlYnNpdGU%253D",
+    "owner": {
+        "id": "113155342122305910764",
+        "name": "McDonald's (Owner)",
+        "link": "https://www.google.com/maps/contrib/113155342122305910764"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNMXDdiksDAsauOBQD1sS6nwajXML-2aYU53r4h=w408-h306-k-no",
+    "main_category": "Fast food restaurant",
+    "categories": [
+        "Fast food restaurant",
+        "American restaurant",
+        "Breakfast restaurant",
+        "Cafe",
+        "Hamburger restaurant",
+        "Restaurant"
+    ],
+    "rating": 3.4,
+    "workday_timing": "Open 24 hours",
+    "closed_on": [],
+    "phone": "(604) 221-2570",
+    "address": "McDonald's, 5728 University Blvd #101, Vancouver, BC V6T 1K6",
+    "review_keywords": [
+        {
+            "keyword": "students",
+            "count": 23
+        },
+        {
+            "keyword": "coffee",
+            "count": 19
+        },
+        {
+            "keyword": "management",
+            "count": 12
+        },
+        {
+            "keyword": "morning",
+            "count": 11
+        },
+        {
+            "keyword": "campus",
+            "count": 9
+        },
+        {
+            "keyword": "bathroom",
+            "count": 8
+        },
+        {
+            "keyword": "mcmuffin",
+            "count": 6
+        },
+        {
+            "keyword": "efficient",
+            "count": 5
+        },
+        {
+            "keyword": "convenient",
+            "count": 5
+        },
+        {
+            "keyword": "mcflurry",
+            "count": 5
+        }
+    ],
+    "link": "https://www.google.com/maps/place/McDonald%27s/data=!4m7!3m6!1s0x548672b80a256eef:0xab0515b5fc394ce3!8m2!3d49.2666467!4d-123.2425376!16s%2Fg%2F1wc30yd4!19sChIJ724lCrhyhlQR40w5_LUVBas?authuser=0&hl=en&rclk=1",
+    "status": "Open 24 hours",
+    "price_range": "$",
+    "reviews_per_rating": {
+        "1": 158,
+        "2": 76,
+        "3": 204,
+        "4": 236,
+        "5": 264
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ724lCrhyhlQR40w5_LUVBas&q=McDonald%27s&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.266646699999995,
+        "longitude": -123.24253759999999
+    },
+    "plus_code": "7Q84+MX Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "UBC",
+        "street": "5728 University Blvd #101",
+        "city": "Vancouver",
+        "postal_code": "V6T 1K6",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "12323279826734107875",
+    "data_id": "0x548672b80a256eef:0xab0515b5fc394ce3",
+    "menu": {
+        "link": "https://www.mcdonalds.com/ca/en-ca/full-menu.html%3Fy_source%3D1_MTQ1MjA2MzktNzE1LWxvY2F0aW9uLm1lbnVfdXJs",
+        "source": "mcdonalds.com"
+    },
+    "reservations": [],
+    "order_online_links": [
+        {
+            "link": "https://www4.mcdonalds.ca/mcdeliverycanada/?y_source=1_MTQ1MjA2MzktNzE1LWxvY2F0aW9uLm9yZGVyX3VybA%3D%3D",
+            "source": "mcdonalds.ca"
+        },
+        {
+            "link": "https://www.ubereats.com/ca/store/mcdonalds-ubc/dUYOpPvxQaWB6m0sR0gHcw?utm_campaign=place-action-link&utm_medium=organic&utm_source=google",
+            "source": "ubereats.com"
+        },
+        {
+            "link": "https://www.skipthedishes.com/mcdonalds-university-boulevard?serviceType=delivery&utm_source=google&utm_medium=organic&utm_campaign=gpav2",
+            "source": "skipthedishes.com"
+        },
+        {
+            "link": "https://www.doordash.com/store/mcdonald%27s-vancouver-1058055/?utm_campaign=gpa",
+            "source": "doordash.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Takeout",
+                    "enabled": true
+                },
+                {
+                    "name": "Dine-in",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "highlights",
+            "name": "Highlights",
+            "options": [
+                {
+                    "name": "Fast service",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair accessible seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Coffee",
+                    "enabled": true
+                },
+                {
+                    "name": "Late-night food",
+                    "enabled": true
+                },
+                {
+                    "name": "Quick bite",
+                    "enabled": true
+                },
+                {
+                    "name": "Vegetarian options",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Dining options",
+            "options": [
+                {
+                    "name": "Breakfast",
+                    "enabled": true
+                },
+                {
+                    "name": "Lunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Dinner",
+                    "enabled": true
+                },
+                {
+                    "name": "Counter service",
+                    "enabled": true
+                },
+                {
+                    "name": "Dessert",
+                    "enabled": true
+                },
+                {
+                    "name": "Seating",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosphere",
+            "options": [
+                {
+                    "name": "Casual",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "crowd",
+            "name": "Crowd",
+            "options": [
+                {
+                    "name": "Family-friendly",
+                    "enabled": true
+                },
+                {
+                    "name": "Groups",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "children",
+            "name": "Children",
+            "options": [
+                {
+                    "name": "Good for kids",
+                    "enabled": true
+                },
+                {
+                    "name": "High chairs",
+                    "enabled": true
+                },
+                {
+                    "name": "Kids' menu",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNMXDdiksDAsauOBQD1sS6nwajXML-2aYU53r4h=w397-h298-k-no"
+        },
+        {
+            "about": "Menu",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMxi1b4r4seDIKPg_inmadoRsu6-GHIQgHxFsuV=w529-h298-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPF74tqxm6JBea9uFcLySRC6oFemV-Tbsvey5Hu=w224-h398-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNelx_kGIJRUQl-yd9P1HXOsBDYglZR0Zfysqq_=w224-h298-k-no"
+        },
+        {
+            "about": "Vibe",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPRbxXwhUEx3AAD7Z-b0IUDMlY6ygl6FqjZVjza=w529-h298-k-no"
+        },
+        {
+            "about": "Comfort food",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPbhsYil-XufosNXg8UyhN8OrC_0pmuCyTpERC5=w529-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNcLn32ldkf6oZ7g9RH3DoZBpdJ0Qe5942KljfB=w529-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=z9BbYhvviJv3PnxhGOF0BQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=201.14566&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Sunday",
+            "times": [
+                "Open 24 hours"
+            ]
+        },
+        {
+            "day": "Monday",
+            "times": [
+                "Open 24 hours"
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "Open 24 hours"
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "Open 24 hours"
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "Open 24 hours"
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "Open 24 hours"
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "Open 24 hours"
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "Got a deep fried wasp in my fries, went in to tell the staff and they didn't believe me. Just told me no it's not true until I literally showed the guy working the till. They just offered to get me another set of fries but I don't exactly want to eat more fries out of the same oil that fried a wasp. Staff just kept working as usual. No one really seemed to care so I just left. It also took 15 minutes to make a wrap so I would say there very fast.",
+            "reviewer_name": "Brendan Le",
+            "rating": 1,
+            "review_text": "Got a deep fried wasp in my fries, went in to tell the staff and they didn't believe me. Just told me no it's not true until I literally showed the guy working the till. They just offered to get me another set of fries but I don't exactly want to eat more fries out of the same oil that fried a wasp. Staff just kept working as usual. No one really seemed to care so I just left. It also took 15 minutes to make a wrap so I would say there very fast.",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-08-26T05:40:11.142000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 5,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/102162151710681954185/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWXIThnoTOv3fukjKzQ8oiEnlWsHV7to6x11IL88IjF1A=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNPWLXQOS9uGC-tBvxfqYmg-PNsJACMOpK9HNw8=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "This is the legendary 24 hour McDonald's restaurant at UBC campus. This is just a standard McDonald's with typical service and food quality. It gets pretty busy with the ebbs and flows on campus. Definitely a good place to stop by after a visit to Wreck Beach.",
+            "reviewer_name": "James Borland",
+            "rating": 3,
+            "review_text": "This is the legendary 24 hour McDonald's restaurant at UBC campus. This is just a standard McDonald's with typical service and food quality. It gets pretty busy with the ebbs and flows on campus. Definitely a good place to stop by after a visit to Wreck Beach.",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-01T02:39:39.313000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 127,
+            "total_number_of_photos_by_reviewer": 1936,
+            "reviewer_url": "https://www.google.com/maps/contrib/107402603784226687113/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWk4Tk7Gsob4ZRrMxbBK-0abr1ymg67PA8ci3-sIHuBzz8=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "This place sucks. The staff are rude, they NEVER get my order right and we never actually enjoy the food. I don't recommend this place. They never clean it and there are roaches in the washrooms. These employees don't deserve their job. If you're the owner and you see this, please shut down the whole place, you don't know how to run a restaurant.",
+            "reviewer_name": "your mom",
+            "rating": 1,
+            "review_text": "This place sucks. The staff are rude, they NEVER get my order right and we never actually enjoy the food. I don't recommend this place. They never clean it and there are roaches in the washrooms. These employees don't deserve their job. If you're the owner and you see this, please shut down the whole place, you don't know how to run a restaurant.",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-04T23:24:46.573000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/113790265230869391863/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIVXZHtBfHK5MIALvlia9QHBqZViBJz4Q2blGp9jiQV=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Its a nice place to come here and take a nice break after a nice day of work or school, but this place is always so busy, so its kind of like hard to find a seat because the place is so tiny and  busy, but overall its a good place. oh and because its McDonalds, its open for 24 hour!",
+            "reviewer_name": "Abim Gallendra",
+            "rating": 3,
+            "review_text": "Its a nice place to come here and take a nice break after a nice day of work or school, but this place is always so busy, so its kind of like hard to find a seat because the place is so tiny and  busy, but overall its a good place. oh and because its McDonalds, its open for 24 hour!",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-04T06:33:45.881000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 38,
+            "total_number_of_photos_by_reviewer": 88,
+            "reviewer_url": "https://www.google.com/maps/contrib/116138270841622265499/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUKa4P0vHKz_CBRotkxAs24EEopzn0LHZt1U17KXNuZ9w=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Well, taking into account this is a fast food outlet I would expect the food to be hastily put together. But, I do have a problem when the food looks like it's been sat on. Ketchup all over the outside of the bun - had to use napkins to hold onto them. And 2 of 3 double cheeseburgers only had 1 patty. Spoke to manager who will notify staff how to make a double cheeseburger and said will replace meal tomorrow at no charge. Stand by for update... 20230505: burgers replaced at no charge +1 star.",
+            "reviewer_name": "Mark Meheriuk",
+            "rating": 3,
+            "review_text": "Well, taking into account this is a fast food outlet I would expect the food to be hastily put together. But, I do have a problem when the food looks like it's been sat on. Ketchup all over the outside of the bun - had to use napkins to hold onto them. And 2 of 3 double cheeseburgers only had 1 patty. Spoke to manager who will notify staff how to make a double cheeseburger and said will replace meal tomorrow at no charge. Stand by for update... 20230505: burgers replaced at no charge +1 star.",
+            "published_at": "6 months ago",
+            "published_at_date": "2023-05-08T23:27:55.028000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 7,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/104737510866817607612/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKe_O9IFVgWGJzuYAB6sxoRft8lbOhEYKMQ-Pi1H_no=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Saturday morning, literally 6 staff standing around, more in the kitchen. I ordered on mobile and there had been no move to make my coffee when I came in. A person was actually playing on her phone standing in front of the coffee station. So I guess there was one guy assigned to make the coffee and he was off doing something and needing to get scissors and going back but NO ONE even thought of trying to speed things along by making the coffee. They didn't look like trainees because no one was learning anything. There was a manager on site too! Plus other people in the back and a person sweeping up out front, and yet, no sign of a thought that they could help while there were only a couple of people waiting. Normally it's quite slow to get an order there later in the day but I always figured it was because they were overwhelmed with people and you can see many customers standing around (and at least they are trying and working hard), but in this case, they were not busy. So since no one had started to get the coffee yet, I asked politely if I could get the coffee in my own travel mug please. She answered yes, but with a derisive expression and tone but then didn't take the cup. So found out she was going to pour it in from their disposable cup after and that they don't charge for the cup there (which doesn't matter to me). The other McDonald's I go to has already put up a corporate sign encouraging using your own cup, so I know that while there is a Covid concern, as a company they have already made this change and McDonald's has produced this sign at least a month ago. Anyhow, I said that pouring it in defeats the purpose of trying to reduce waste, so she did bring it over to the area but did not explain it to the ONE GUY that apparently can pour coffee in the place and they still wasted a cup and to really rub it in, he opened up a straw in front of me to stir with completely unnecessarily when they knew I was concerned with waste because I had that conversation with that other woman and she completely couldn't be bothered to pass it on or look after the fact that I had made the request to use my cup directly (no one else was waiting in line). Also, when I told him not to (when I saw him open up the straw package), he continued moving to put it in the coffee even though I was CLEARLY saying no and then I had to really emphasize it, because he just wouldn't stop! SUCH AN UNPLEASANT experience. I am flabbergasted by the lack of any motivation to be competent by this crew. I understand division of labour but this was a huge failure. The other McDonald's that is encouraging travel mugs also gets the entire order done before I even get over to the counter and is friendly and normal, not rude and full of attitude on arrival. At the very least, try to be friendly when you greet someone, especially when they are friendly and happy in the first place, and especially when it was not busy at all! Submitted in the spirit of trying to help because if no one ever said anything, this place would keep having problems.",
+            "reviewer_name": "N",
+            "rating": 1,
+            "review_text": "Saturday morning, literally 6 staff standing around, more in the kitchen. I ordered on mobile and there had been no move to make my coffee when I came in. A person was actually playing on her phone standing in front of the coffee station. So I guess there was one guy assigned to make the coffee and he was off doing something and needing to get scissors and going back but NO ONE even thought of trying to speed things along by making the coffee. They didn't look like trainees because no one was learning anything. There was a manager on site too! Plus other people in the back and a person sweeping up out front, and yet, no sign of a thought that they could help while there were only a couple of people waiting. Normally it's quite slow to get an order there later in the day but I always figured it was because they were overwhelmed with people and you can see many customers standing around (and at least they are trying and working hard), but in this case, they were not busy. So since no one had started to get the coffee yet, I asked politely if I could get the coffee in my own travel mug please. She answered yes, but with a derisive expression and tone but then didn't take the cup. So found out she was going to pour it in from their disposable cup after and that they don't charge for the cup there (which doesn't matter to me). The other McDonald's I go to has already put up a corporate sign encouraging using your own cup, so I know that while there is a Covid concern, as a company they have already made this change and McDonald's has produced this sign at least a month ago. Anyhow, I said that pouring it in defeats the purpose of trying to reduce waste, so she did bring it over to the area but did not explain it to the ONE GUY that apparently can pour coffee in the place and they still wasted a cup and to really rub it in, he opened up a straw in front of me to stir with completely unnecessarily when they knew I was concerned with waste because I had that conversation with that other woman and she completely couldn't be bothered to pass it on or look after the fact that I had made the request to use my cup directly (no one else was waiting in line). Also, when I told him not to (when I saw him open up the straw package), he continued moving to put it in the coffee even though I was CLEARLY saying no and then I had to really emphasize it, because he just wouldn't stop! SUCH AN UNPLEASANT experience. I am flabbergasted by the lack of any motivation to be competent by this crew. I understand division of labour but this was a huge failure. The other McDonald's that is encouraging travel mugs also gets the entire order done before I even get over to the counter and is friendly and normal, not rude and full of attitude on arrival. At the very least, try to be friendly when you greet someone, especially when they are friendly and happy in the first place, and especially when it was not busy at all! Submitted in the spirit of trying to help because if no one ever said anything, this place would keep having problems.",
+            "published_at": "7 months ago",
+            "published_at_date": "2023-03-26T01:14:24.511000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 3,
+            "total_number_of_reviews_by_reviewer": 7,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/103184654804943104205/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJJOxGeEa9Py4WQk8iaRVSgujL7-YbnRm2-PtNRe3c7=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "I normally don't write reviews, but after this Friday night I decided to write one, the store was simply chaos, very poor management, confusion everywhere, no clear plan or instructions to handle or respond to customers, an angry  lady shouting through a speaker with demonic voice makes ppl fearful to go pick up their food, everyone was like let's go to A&W, really awful experience",
+            "reviewer_name": "Andrew",
+            "rating": 1,
+            "review_text": "I normally don't write reviews, but after this Friday night I decided to write one, the store was simply chaos, very poor management, confusion everywhere, no clear plan or instructions to handle or respond to customers, an angry  lady shouting through a speaker with demonic voice makes ppl fearful to go pick up their food, everyone was like let's go to A&W, really awful experience",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-24T05:46:39.313000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/104161088689614051027/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKsOmzWZeO0OTvUqSJrx0uqBhSUxADV3tOEj3y9xZK5=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "All burnt. Worst customer service. (Eg) asked for a paper bag but they refused to give it one saying that it was only for uber eats although I ordered 6 mc muffin meals.",
+            "reviewer_name": "sinung choi",
+            "rating": 1,
+            "review_text": "All burnt. Worst customer service. (Eg) asked for a paper bag but they refused to give it one saying that it was only for uber eats although I ordered 6 mc muffin meals.",
+            "published_at": "a year ago",
+            "published_at_date": "2022-04-25T01:49:43.951000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 6,
+            "total_number_of_reviews_by_reviewer": 17,
+            "total_number_of_photos_by_reviewer": 18,
+            "reviewer_url": "https://www.google.com/maps/contrib/114349483464599834531/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLqYDv3Qe_9HmEElS82vsppibuFwRDVZ0r76GifYOLl=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOUz78yS2gO3ejwzeb1LO-Np3RvS_07snxFBp4W=w150-h150-k-no-p"
+            ]
+        }
+    ],
+    "is_spending_on_ads": false
+}
