@@ -17,4 +17,7 @@ dashboardRouter.get('/get-listing', onlyAuth_middleware_1.default, async (req, r
 dashboardRouter.get('/fetch-reviews', onlyAuth_middleware_1.default, async (req, res) => {
     await dashboardController.fetchReviews(req, res);
 });
+dashboardRouter.delete('/delete-listing', onlyAuth_middleware_1.default, async (req, res) => {
+    await dashboardController.deleteListing(req, res);
+});
 exports.default = dashboardRouter;
