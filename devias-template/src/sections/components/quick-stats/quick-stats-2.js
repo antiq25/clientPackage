@@ -18,7 +18,6 @@ export const QuickStats2 = () => {
   const [clickCount, setClickCount] = useState(0);
   const [conversionRate, setConversionRate] = useState(0);
 
-
   useEffect(() => {
     const fetchCounts = async () => {
       const view = await getViewCount();
@@ -29,17 +28,17 @@ export const QuickStats2 = () => {
       const conversion = view !== 0 ? (click / view) * 100 : 0;
       setConversionRate(conversion);
     };
-    
+
     fetchCounts();
   }, []);
 
   return (
     <Box
       sx={{
-        backgroundColor: (theme) => (theme.palette.mode === 'dark' ? 'neutral.800' : 'neutral.100'),
         justifyContent: 'center',
         alignItems: 'center',
-        p: 3,
+
+        p: 1,
       }}
     >
       <Grid
@@ -168,6 +167,8 @@ export const QuickStats2 = () => {
         </Grid>
       </Grid>
     </Box>
-    
+
   );
 };
+
+

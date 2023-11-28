@@ -2,48 +2,28 @@
 import PlusIcon from '@untitled-ui/icons-react/build/esm/Plus';
 import Box from '@mui/material/Box';
 import Button from '@mui/material/Button';
-import Card from '@mui/material/Card';  
-import CardHeader from '@mui/material/Card';  
-
+import Card from '@mui/material/Card';
+import CardHeader from '@mui/material/Card';
 import Container from '@mui/material/Container';
 import Grid from '@mui/material/Unstable_Grid2';
 import Stack from '@mui/material/Stack';
 import SvgIcon from '@mui/material/SvgIcon';
 import Typography from '@mui/material/Typography';
-import { useEffect, useState } from 'react';
 import useUser from '../hooks/decode';
-import { Seo } from '../components/seo';
-import { Layout as DashboardLayout } from 'src/layouts/dashboard/layout';
-import { chartData } from '../mockData';
-import { usePageView } from 'src/src2/hooks/use-page-view';
-import { useSettings } from 'src/src2/hooks/use-settings';
+import FetchedReviews from '../components/fetchReview';
 import EmailVerificationDialog from '../components/emailverifydialog';
 import CreateListingDialog from '../components/createListingPopUp';
-import FetchedReviews from '../components/fetchReview';
+import { Seo } from '../components/seo';
+import { useEffect, useState } from 'react';
+import { Layout as DashboardLayout } from 'src/layouts/dashboard/layout';
+import { usePageView } from 'src/src2/hooks/use-page-view';
+import { useSettings } from 'src/src2/hooks/use-settings';
+import { QuickStats2 } from 'src/sections/components/quick-stats/quick-stats-2';
 
 const Page = () => {
   const settings = useSettings();
   const user = useUser();
-
-  const [selectedBusiness, setSelectedBusiness] = useState(chartData[0] || null);
-  const [chartSeries, setChartSeries] = useState([]);
   const [isCreateListingDialogOpen, setCreateListingDialogOpen] = useState(false);
-  const [refreshBusinessCard, setRefreshBusinessCard] = useState(false);
-  const [reviewAggregate, setReviewAggregate] = useState([]);
-  const [reviews, setReviews] = useState([]);
-
-  const handleSetReviewAggregate = (newAggregate) => {
-    const formattedData = newAggregate.map((item) => ({
-      x: item.star, // 'x' represents the category on the x-axis.
-      y: item.reviews, // 'y' represents the value for that category.
-    }));
-    setReviewAggregate(formattedData);
-  };
-
-  const handleSetReviews = (newReviews) => {
-    setReviews(newReviews);
-  };
-
   const handleOpenCreateListingDialog = () => {
     setCreateListingDialogOpen(true);
   };
@@ -52,36 +32,18 @@ const Page = () => {
     setCreateListingDialogOpen(false);
   };
 
-  const reviewChartData = reviewAggregate.map((item) => ({
-    name: item.star,
-    data: [item.reviews], // Assuming item.reviews is the count for that star rating
-  }));
 
-  useEffect(() => {
-    if (selectedBusiness && Array.isArray(chartData[selectedBusiness.id])) {
-      const businessChartData = chartData[selectedBusiness.id];
-      const viewsSeries = {
-        name: 'Views',
-        data: businessChartData.map((data) => data.views),
-      };
-      const clicksSeries = {
-        name: 'Clicks',
-        data: businessChartData.map((data) => data.clicks),
-      };
-      setChartSeries([viewsSeries, clicksSeries]);
-    } else {
-      // Handle the case where there is no data for the selected business
-      setChartSeries([]);
-    }
-  }, [selectedBusiness]);
 
   useEffect(() => {}, [user]);
 
   usePageView();
 
   return (
+    
     <>
-      <Seo title="Show My Service: Dashboard" />
+
+    
+<Seo title="Show My Service: Google Trends" />
       <Box
         component="main"
         sx={{
@@ -100,11 +62,11 @@ const Page = () => {
             <Grid xs={12}>
               <Stack
                 direction="row"
-                justifyContent="center"
+                justifyContent="space-between"
                 spacing={4}
               >
                 <Stack spacing={1}>
-                  <Typography variant="h4">Show My Service: Analytics</Typography>
+                  <Typography variant="h4">Show My Service</Typography>
                 </Stack>
                 <Stack
                   alignItems="center"
@@ -126,8 +88,6 @@ const Page = () => {
                     open={isCreateListingDialogOpen}
                     onClose={handleCloseCreateListingDialog}
                     onCreationSuccess={() => {
-                      // This should toggle the state and trigger a re-render of BusinessCard
-                      setRefreshBusinessCard((prev) => !prev);
                     }}
                   />
 
@@ -135,19 +95,27 @@ const Page = () => {
                 </Stack>
               </Stack>
             </Grid>
-
-  
-            <Grid
+            <Grid 
               item
               xs={12}
               md={12}
+              lg={12}
+              >
+            <FetchedReviews />
+
+            <QuickStats2 />
+              </Grid>
+            <Grid
+              item
+              xs={7}
+              md={12}
+
             >
               <Card>
               <CardHeader
                 title="Businesses"
                 subheader="Manage your businesses"
               />
-            <FetchedReviews />
             </Card>
             </Grid>
           </Grid>

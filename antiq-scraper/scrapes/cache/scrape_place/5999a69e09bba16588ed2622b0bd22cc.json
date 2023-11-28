@@ -1,0 +1,408 @@
+{
+    "place_id": "ChIJcdZJ3x11hlQRs4U0nu-g388",
+    "name": "PetSmart",
+    "description": "Chain featuring a range of pets, supplies & food (most offer grooming, boarding & other services).",
+    "reviews": 1274,
+    "website": "https://www.petsmart.ca/stores/ca/bc/richmond-store2239.html%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgoogle-my-business",
+    "owner": {
+        "id": "104144737499227020329",
+        "name": "PetSmart (Owner)",
+        "link": "https://www.google.com/maps/contrib/104144737499227020329"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM1AVlyHAahZgOuN7ZBLBX0n9x1rRZ6SDjK_ijb=w408-h306-k-no",
+    "main_category": "Pet supply store",
+    "categories": [
+        "Pet supply store"
+    ],
+    "rating": 4.2,
+    "workday_timing": "9 a.m.-9 p.m.",
+    "closed_on": [],
+    "phone": "(604) 233-1348",
+    "address": "PetSmart, 9751 Bridgeport Rd #120, Richmond, BC V6X 1S3",
+    "review_keywords": [
+        {
+            "keyword": "fish",
+            "count": 53
+        },
+        {
+            "keyword": "grooming",
+            "count": 35
+        },
+        {
+            "keyword": "adoption",
+            "count": 20
+        },
+        {
+            "keyword": "cashier",
+            "count": 16
+        },
+        {
+            "keyword": "parking",
+            "count": 12
+        },
+        {
+            "keyword": "tank",
+            "count": 11
+        },
+        {
+            "keyword": "training",
+            "count": 10
+        },
+        {
+            "keyword": "hamsters",
+            "count": 8
+        },
+        {
+            "keyword": "stock",
+            "count": 7
+        },
+        {
+            "keyword": "salon",
+            "count": 7
+        }
+    ],
+    "link": "https://www.google.com/maps/place/PetSmart/data=!4m7!3m6!1s0x5486751ddf49d671:0xcfdfa0ef9e3485b3!8m2!3d49.1930018!4d-123.1147847!16s%2Fg%2F1tjdwls1!19sChIJcdZJ3x11hlQRs4U0nu-g388?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 9 a.m.",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 73,
+        "2": 34,
+        "3": 147,
+        "4": 381,
+        "5": 639
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJcdZJ3x11hlQRs4U0nu-g388&q=PetSmart&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.1930018,
+        "longitude": -123.1147847
+    },
+    "plus_code": "5VVP+63 Richmond, British Columbia",
+    "detailed_address": {
+        "ward": null,
+        "street": "9751 Bridgeport Rd #120",
+        "city": "Richmond",
+        "postal_code": "V6X 1S3",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "14978867836669429171",
+    "data_id": "0x5486751ddf49d671:0xcfdfa0ef9e3485b3",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Curbside pickup",
+                    "enabled": true
+                },
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "In-store pickup",
+                    "enabled": true
+                },
+                {
+                    "name": "In-store shopping",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipM1AVlyHAahZgOuN7ZBLBX0n9x1rRZ6SDjK_ijb=w397-h298-k-no"
+        },
+        {
+            "about": "Inside",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPhEib61G5nI9DDGi0c-cLQLgHHVB6tluSRUueE=w224-h298-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOj8ewkJRP9JQs5MyGZY8SpK2zeqHox1fc35ur5=w224-h474-k-no"
+        },
+        {
+            "about": "Aquarium",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipM5cUQZUbayOBGcjlW0_ENw073Aw8UU9Q2dW6Ta=w224-h298-k-no"
+        },
+        {
+            "about": "Dog",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOpnlFz0OA0Kt2u0WONKw_GbZhtx9K7EXtzcO2w=w224-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOEjh7oaKHWAj85wv7oZg_odKFc_imkLzlaRTrl=w446-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=aCJpQnqd_uWtlX8jecNdpg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=20.768509&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "9 a.m.-9 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "9 a.m.-9 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "9 a.m.-9 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "9 a.m.-9 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "9 a.m.-9 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "9 a.m.-9 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "10 a.m.-7 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "Always fun to walk in to look around at other pets or shop for fish here. It's a bit more expensive unless there's a sale going on, having a membership also helps with the price on certain things. Bought all my fish from this store.",
+            "reviewer_name": "Erica Ngan",
+            "rating": 4,
+            "review_text": "Always fun to walk in to look around at other pets or shop for fish here. It's a bit more expensive unless there's a sale going on, having a membership also helps with the price on certain things. Bought all my fish from this store.",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-09T11:06:08.191000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 227,
+            "total_number_of_photos_by_reviewer": 751,
+            "reviewer_url": "https://www.google.com/maps/contrib/112566975246141663019/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUqIhGIcRog_ov9gQRoIavZPxhinmqvc1409aikQhj3V4Qk=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOIxj4uStoVmug6JmikLUc9uHtv1L1nNAaX2Jtz=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMKwCLY6umYqKs5IinZYxzgJahZ6JZTW0lZtlW7=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOdZaTlf0--DXqEg6ZZXv2q4MOtLRyAJ66MSaTE=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipORQv9psk-CKF0bO47CaILIL-SsOlrVrdc0ZtJS=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPN5jTNfLKn-nqRV8qVBP7PrC0oPTTWBgKvO5fk=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "This Chinese lady with glasses told me that my 20gal was too small for 2 Goldfish and because of that I wouldn't be eligible for a refund. 1st of all I didn't even know that there's a refund on fish lol and 2nd they keep their fish in way more worse conditions than my aquarium. Like the audacity of this woman/man they/them it. So next time you guys want to buy fish make sure you tell them you have a 100gal aquarium and claim that 14 days return in case they'll die in that time period. I didn't go with the purchase because the no return got me scared now that I know about it lol\n\nPs: there's a dead fish everytime I go there\n\nHere's my tanks by the way",
+            "reviewer_name": "Throw Away",
+            "rating": 1,
+            "review_text": "This Chinese lady with glasses told me that my 20gal was too small for 2 Goldfish and because of that I wouldn't be eligible for a refund. 1st of all I didn't even know that there's a refund on fish lol and 2nd they keep their fish in way more worse conditions than my aquarium. Like the audacity of this woman/man they/them it. So next time you guys want to buy fish make sure you tell them you have a 100gal aquarium and claim that 14 days return in case they'll die in that time period. I didn't go with the purchase because the no return got me scared now that I know about it lol\n\nPs: there's a dead fish everytime I go there\n\nHere's my tanks by the way",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-27T02:28:20.386000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 3,
+            "total_number_of_photos_by_reviewer": 2,
+            "reviewer_url": "https://www.google.com/maps/contrib/116082386071540795543/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKub08Ez2zePY1aDX0xJGvduHvYpB74o6OuefmEy52K=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMS3bMRWhb7n9P4FUF7aTl4eIwwHVt-TPVV8lum=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOtBbfDmQ9qe23m6twV1HLYcyrkRqZNXzRDWwqG=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Friendly and approachable staff. Curb side pick-up was quick and easy. Also, shout-out to Love who rectified an issue with my order.",
+            "reviewer_name": "Felix C",
+            "rating": 5,
+            "review_text": "Friendly and approachable staff. Curb side pick-up was quick and easy. Also, shout-out to Love who rectified an issue with my order.",
+            "published_at": "2 days ago",
+            "published_at_date": "2023-11-26T02:22:04.297000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 5,
+            "total_number_of_photos_by_reviewer": 2,
+            "reviewer_url": "https://www.google.com/maps/contrib/105894442305445967400/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWaheHxNhZ28XD3AmlGWM5DM50ABvpA3FWVS-LRUU4LLJ8=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "This is a message for all the kind people concerned about the betta fish:\n\nDon't worry. They're okay. These fish have a very long and difficult trip when they are imported from Asia but are gently cared for when they arrive.\nI've spoken with the staff since I had similar concerns and even rescued one of these fish.\n\nBetta will lose color when stressed. It is possible to revive their color within 12 hours (from experience) under suitable conditions.\n\nTheir water is changed daily but the lights cause algae to grow rapidly. I experience the same in my planted tank. It's just a natural process.\n\nYes, some of the fish die and it could be for any reason. They could have been sick prior to capture or perhaps had a rougher trip during import. But I know that the staff do care about them and treat them for disease when and where they can. The fish do not go unnoticed!\n\nI'll post some photos of the fish I saved. The first before/after is only 16 hours apart. You can already see a difference.\n\nNote to staff: please be carefully of moldy food in the betta cups.",
+            "reviewer_name": "E P",
+            "rating": 4,
+            "review_text": "This is a message for all the kind people concerned about the betta fish:\n\nDon't worry. They're okay. These fish have a very long and difficult trip when they are imported from Asia but are gently cared for when they arrive.\nI've spoken with the staff since I had similar concerns and even rescued one of these fish.\n\nBetta will lose color when stressed. It is possible to revive their color within 12 hours (from experience) under suitable conditions.\n\nTheir water is changed daily but the lights cause algae to grow rapidly. I experience the same in my planted tank. It's just a natural process.\n\nYes, some of the fish die and it could be for any reason. They could have been sick prior to capture or perhaps had a rougher trip during import. But I know that the staff do care about them and treat them for disease when and where they can. The fish do not go unnoticed!\n\nI'll post some photos of the fish I saved. The first before/after is only 16 hours apart. You can already see a difference.\n\nNote to staff: please be carefully of moldy food in the betta cups.",
+            "published_at": "8 months ago",
+            "published_at_date": "2023-03-12T23:44:46.162000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 68,
+            "total_number_of_photos_by_reviewer": 16,
+            "reviewer_url": "https://www.google.com/maps/contrib/105111355489322743711/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXGHbM-WtY_V0iTeJRKw2MR0yyttDucNLKcNbnLC5H4pvg=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMPZUSaR2-L1jKiC0LWzea-trlaxXU8LvPciZf6=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNOV-0s1yLhDxG2ghvwTJdWjFHgaXNCpxQeJv-G=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOM_TrXvDJPB6bOAcm8TASZvoBOTah3aKfXtPsT=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipP1rN-QDfB6sgEarEXqieGMYKT6F3j3xQhGzNP-=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNn_Qj272Uszk87y6eNH9hCKaGRmnLqCjXtzjEp=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "PetSmart has a ridiculous policy which requires tetanus shots up to date. While basically all Vets in Canada and especially in BC (including ours), do not recommend them getting tetanus shots. And then PetSmart turns our dog away (1.5 years old) from a grooming session, as his tetanus shot was two weeks out of date. Never getting our business again. What a joke.",
+            "reviewer_name": "Darrell Radom",
+            "rating": 1,
+            "review_text": "PetSmart has a ridiculous policy which requires tetanus shots up to date. While basically all Vets in Canada and especially in BC (including ours), do not recommend them getting tetanus shots. And then PetSmart turns our dog away (1.5 years old) from a grooming session, as his tetanus shot was two weeks out of date. Never getting our business again. What a joke.",
+            "published_at": "6 days ago",
+            "published_at_date": "2023-11-21T21:41:10.909000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 6,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/104169751325278372317/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXKgLVrJa0k0yEi7mDvF1RRp7YE1YgliWmGkhU8CXVrbCw=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "One stop shopping, very exciting to visit when you're in love with your pets. Very spacious, clean and well arranged, a lot of foods, treats, toys, clothes, accessories, and other stuffs for your pets. As far as I noticed, they cover dogs off course, cats, fish, birds, reptiles, and other small pets (like rabbits, hamster, guinea pigs, even rats and mice). Although I never used their service, but hard to miss that they also have grooming and training facilities. For the clothes, I found not too many choices, but for food and treats they have quite a lot options to choose. Installing their phone apps is worth it, where we can find promotion info, check stock availability, online shop, book appointment for services, etc.\n\nFor Petsmart, keep up the good job!",
+            "reviewer_name": "Dewi Trisnawati Tjahjadi",
+            "rating": 5,
+            "review_text": "One stop shopping, very exciting to visit when you're in love with your pets. Very spacious, clean and well arranged, a lot of foods, treats, toys, clothes, accessories, and other stuffs for your pets. As far as I noticed, they cover dogs off course, cats, fish, birds, reptiles, and other small pets (like rabbits, hamster, guinea pigs, even rats and mice). Although I never used their service, but hard to miss that they also have grooming and training facilities. For the clothes, I found not too many choices, but for food and treats they have quite a lot options to choose. Installing their phone apps is worth it, where we can find promotion info, check stock availability, online shop, book appointment for services, etc.\n\nFor Petsmart, keep up the good job!",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-08-29T16:55:34.249000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 82,
+            "total_number_of_photos_by_reviewer": 66,
+            "reviewer_url": "https://www.google.com/maps/contrib/115642396860508225891/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjU0nhtUlX-L9Eb4UoR0EkJXoDPbRVyV_mPR8LLoqZjpt_M=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Being here to get my new fish tank. I ordered a open top fish tank branded as top fin. It costed me $189 before tax. Filters, temperature controller, oxygen bar, and some more equipment. I spent another $200 on that. $4.99 per each fish. Got 30 fiahes but actually give me 28 fishes. Died 5, I have 23 left in a 40 gal tank.\n\nAfter spending so much money and effort on the new tank, we finally got a well-set fish tank.\n\nPerhaps, I have to get another 20 fish next time.",
+            "reviewer_name": "Shijun Lu",
+            "rating": 5,
+            "review_text": "Being here to get my new fish tank. I ordered a open top fish tank branded as top fin. It costed me $189 before tax. Filters, temperature controller, oxygen bar, and some more equipment. I spent another $200 on that. $4.99 per each fish. Got 30 fiahes but actually give me 28 fishes. Died 5, I have 23 left in a 40 gal tank.\n\nAfter spending so much money and effort on the new tank, we finally got a well-set fish tank.\n\nPerhaps, I have to get another 20 fish next time.",
+            "published_at": "9 months ago",
+            "published_at_date": "2023-02-12T22:40:36.494000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 25,
+            "total_number_of_photos_by_reviewer": 102,
+            "reviewer_url": "https://www.google.com/maps/contrib/117410563085675074400/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjV_O-dloJVdLb5hdpAQh6UoeaEtJrFAwQg8JcAq3SUO9Qk=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMLCmlc72KFDii1eBPo6JzVfZPbHGFSDFdb-Znd=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMfwZ37umV9EPUH1xNtWxp9b5ssY-n89qqocrZ-=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "I love this store! Every time I go the staff is so friendly and helpful. I definitely one of my favorite pet stores because of the great customer service and great finds!",
+            "reviewer_name": "MaFer",
+            "rating": 5,
+            "review_text": "I love this store! Every time I go the staff is so friendly and helpful. I definitely one of my favorite pet stores because of the great customer service and great finds!",
+            "published_at": "2 weeks ago",
+            "published_at_date": "2023-11-10T00:07:15.228000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 189,
+            "total_number_of_photos_by_reviewer": 208,
+            "reviewer_url": "https://www.google.com/maps/contrib/104372120102101037927/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLZ20xzpL3GqdKqHJzWL0MO1HNgcXa1lsXSCsntOoHiWBs=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

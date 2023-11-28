@@ -1,3 +1,0 @@
-yarn run v1.22.21
-$ docker compose up -d && prisma migrate dev --preview-feature
-open /Users/a/.docker/buildx/current: permission denied

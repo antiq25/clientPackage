@@ -1,4 +1,3 @@
-import { useCallback } from 'react';
 import PropTypes from 'prop-types';
 import toast from 'react-hot-toast';
 import CreditCard01Icon from '@untitled-ui/icons-react/build/esm/CreditCard01';
@@ -13,56 +12,54 @@ import ListItemText from '@mui/material/ListItemText';
 import Popover from '@mui/material/Popover';
 import SvgIcon from '@mui/material/SvgIcon';
 import Typography from '@mui/material/Typography';
-
-import { RouterLink } from 'src/components/router-link';
-import { useMockedUser } from 'src/hooks/use-mocked-user';
-import { useRouter } from 'src/hooks/use-router';
-import { paths } from 'src/paths';
-import { Issuer } from 'src/utils/auth';
+import { RouterLink } from '../../../components/router-link';
+import { useRouter } from '../../../hooks/use-router';
+import { paths } from '../../../paths';
+import useLogout from '../../../hooks/logout';
+import useUser from '../../../hooks/decode';
+import { apiHandler } from '../../../api/bundle';
+import { useState, useEffect, useCallback } from 'react';
+import React from 'react';
 
 export const AccountPopover = (props) => {
-  const { anchorEl, onClose, open, ...other } = props;
+  const { anchorEl, onClose, open, ...other } = props; 
   const router = useRouter();
-  const user = useMockedUser();
+  const logout = useLogout(); // This hook should encapsulate the logout logic
+  const user = useUser();
+  const [userInfo, setUserInfo] = useState({ firstName: '', lastName: '', email: '' });
+  const getUserInfo = async () => {
+    try {
+      const response = await apiHandler.handleGetProfile();
+      if (response.success) {
+        // Notice how we are now accessing the profile property of the response data
+        setUserInfo(response.data.profile);
+      } else {
+        toast.error('Failed to fetch profile information.');
+      }
+    } catch (error) {
+      console.error('Error fetching profile information:', error);
+      toast.error('An error occurred while fetching profile information.');
+    }
+  };
 
   const handleLogout = useCallback(async () => {
     try {
       onClose?.();
-
-      switch (auth.issuer) {
-        case Issuer.Amplify: {
-          await auth.signOut();
-          break;
-        }
-
-        case Issuer.Auth0: {
-          await auth.logout();
-          break;
-        }
-
-        case Issuer.Firebase: {
-          await auth.signOut();
-          break;
-        }
-
-        case Issuer.JWT: {
-          await auth.signOut();
-          break;
-        }
-
-        default: {
-          console.warn('Using an unknown Auth Issuer, did not log out');
-        }
-      }
-
-      router.push(paths.index);
+      await logout(); // Call the logout function provided by the useLogout hook
+      toast.success('Logout successful!');
+      router.push(paths.login); // Redirect to login page after logout
     } catch (err) {
       console.error(err);
       toast.error('Something went wrong!');
     }
-  }, [router, onClose]);
+  }, [router, onClose, logout]);
+
+  useEffect(() => {
+    getUserInfo();
+  }, []);
 
   return (
+    <>
     <Popover
       anchorEl={anchorEl}
       anchorOrigin={{
@@ -72,17 +69,21 @@ export const AccountPopover = (props) => {
       disableScrollLock
       onClose={onClose}
       open={!!open}
-      PaperProps={{ sx: { width: 200 } }}
+      PaperProps={{ sx: { width: 250 } }}
       {...other}
     >
       <Box sx={{ p: 2 }}>
-        <Typography variant="body1">{user.name}</Typography>
-        <Typography
-          color="text.secondary"
-          variant="body2"
-        >
-          demo@devias.io
-        </Typography>
+        {userInfo && (
+          <>
+            <Typography variant="body1">{`${userInfo.firstName} ${userInfo.lastName}`}</Typography>
+            <Typography
+              color="text.secondary"
+              variant="body2"
+            >
+              {userInfo.email}
+            </Typography>
+          </>
+        )}
       </Box>
       <Divider />
       <Box sx={{ p: 1 }}>
@@ -105,7 +106,7 @@ export const AccountPopover = (props) => {
         </ListItemButton>
         <ListItemButton
           component={RouterLink}
-          href={paths.dashboard.account}
+          href={paths.pixel}
           onClick={onClose}
           sx={{
             borderRadius: 1,
@@ -122,7 +123,7 @@ export const AccountPopover = (props) => {
         </ListItemButton>
         <ListItemButton
           component={RouterLink}
-          href={paths.dashboard.index}
+          href={paths.widget}
           onClick={onClose}
           sx={{
             borderRadius: 1,
@@ -155,6 +156,7 @@ export const AccountPopover = (props) => {
         </Button>
       </Box>
     </Popover>
+  </> 
   );
 };
 

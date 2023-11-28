@@ -1,0 +1,2935 @@
+{
+    "query": "\"Petsmart in Vancouver\"",
+    "places": [
+        {
+            "place_id": "ChIJP0Od0dF2hlQRC2mZ-WyX5vw",
+            "name": "PetSmart",
+            "description": "Chain featuring a range of pets, supplies & food (most offer grooming, boarding & other services).",
+            "reviews": 1289,
+            "website": "https://www.petsmart.ca/stores/ca/bc/vancouver-store1621.html%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgoogle-my-business",
+            "owner": {
+                "id": "113331262618125292001",
+                "name": "PetSmart (Owner)",
+                "link": "https://www.google.com/maps/contrib/113331262618125292001"
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMUcqjhckIULo28IC6Q-xgv4A82wdcfnB-1UCwZ=w408-h306-k-no",
+            "main_category": "Pet supply store",
+            "categories": [
+                "Pet supply store"
+            ],
+            "rating": 4.1,
+            "workday_timing": "9 a.m.-9 p.m.",
+            "closed_on": [],
+            "phone": "(604) 434-1522",
+            "address": "PetSmart, 2860 Bentall St, Vancouver, BC V5M 4H4",
+            "review_keywords": [
+                {
+                    "keyword": "fish",
+                    "count": 45
+                },
+                {
+                    "keyword": "grooming",
+                    "count": 39
+                },
+                {
+                    "keyword": "parking",
+                    "count": 30
+                },
+                {
+                    "keyword": "adoption",
+                    "count": 21
+                },
+                {
+                    "keyword": "nails",
+                    "count": 12
+                },
+                {
+                    "keyword": "dog trainer",
+                    "count": 10
+                },
+                {
+                    "keyword": "employee",
+                    "count": 8
+                },
+                {
+                    "keyword": "rats",
+                    "count": 6
+                },
+                {
+                    "keyword": "chain",
+                    "count": 6
+                },
+                {
+                    "keyword": "hamster",
+                    "count": 5
+                }
+            ],
+            "link": "https://www.google.com/maps/place/PetSmart/data=!4m7!3m6!1s0x548676d1d19d433f:0xfce6976cf999690b!8m2!3d49.2584849!4d-123.0314781!16s%2Fg%2F1tk9qgdc!19sChIJP0Od0dF2hlQRC2mZ-WyX5vw?authuser=0&hl=en&rclk=1",
+            "status": "Closed  Opens 9 a.m.",
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 84,
+                "2": 54,
+                "3": 145,
+                "4": 409,
+                "5": 597
+            },
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJP0Od0dF2hlQRC2mZ-WyX5vw&q=PetSmart&authuser=0&hl=en&gl=CA",
+            "coordinates": {
+                "latitude": 49.2584849,
+                "longitude": -123.0314781
+            },
+            "plus_code": "7X59+9C Vancouver, British Columbia",
+            "detailed_address": {
+                "ward": "South Vancouver",
+                "street": "2860 Bentall St",
+                "city": "Vancouver",
+                "postal_code": "V5M 4H4",
+                "state": "British Columbia",
+                "country_code": "CA"
+            },
+            "time_zone": "America/Vancouver",
+            "cid": "18223419436501133579",
+            "data_id": "0x548676d1d19d433f:0xfce6976cf999690b",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [
+                {
+                    "id": "service_options",
+                    "name": "Service options",
+                    "options": [
+                        {
+                            "name": "Curbside pickup",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Delivery",
+                            "enabled": true
+                        },
+                        {
+                            "name": "In-store pickup",
+                            "enabled": true
+                        },
+                        {
+                            "name": "In-store shopping",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "accessibility",
+                    "name": "Accessibility",
+                    "options": [
+                        {
+                            "name": "Wheelchair-accessible entrance",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Wheelchair-accessible parking lot",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "payments",
+                    "name": "Payments",
+                    "options": [
+                        {
+                            "name": "Debit cards",
+                            "enabled": true
+                        },
+                        {
+                            "name": "NFC mobile payments",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Credit cards",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipMUcqjhckIULo28IC6Q-xgv4A82wdcfnB-1UCwZ=w397-h298-k-no"
+                },
+                {
+                    "about": "Inside",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipOYMCsrPGJK7eCGMvlDouEXlN_VnTJ_Kr49H5V8=w358-h298-k-no"
+                },
+                {
+                    "about": "Videos",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipNW-uRpkyL7FuT9nxN3H25NqyCTdJGW9PUzJBvC=w529-h298-k-no"
+                },
+                {
+                    "about": "Cat",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipPiMzAQhpdd9ar6VqyOVqSSv5wanDGepMFbNl84=w446-h298-k-no"
+                },
+                {
+                    "about": "By owner",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipM6d2v2k_Oa0Bn6n0adn4boKXcsrEmp09fpsEd_=w446-h298-k-no"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=EV_6-71e0EZUoSDC5j8n3g&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=325.02423&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [
+                {
+                    "day": "Monday",
+                    "times": [
+                        "9 a.m.-9 p.m."
+                    ]
+                },
+                {
+                    "day": "Tuesday",
+                    "times": [
+                        "9 a.m.-9 p.m."
+                    ]
+                },
+                {
+                    "day": "Wednesday",
+                    "times": [
+                        "9 a.m.-9 p.m."
+                    ]
+                },
+                {
+                    "day": "Thursday",
+                    "times": [
+                        "9 a.m.-9 p.m."
+                    ]
+                },
+                {
+                    "day": "Friday",
+                    "times": [
+                        "9 a.m.-9 p.m."
+                    ]
+                },
+                {
+                    "day": "Saturday",
+                    "times": [
+                        "9 a.m.-9 p.m."
+                    ]
+                },
+                {
+                    "day": "Sunday",
+                    "times": [
+                        "10 a.m.-7 p.m."
+                    ]
+                }
+            ],
+            "featured_reviews": [
+                {
+                    "review_id": "I love shopping at Petsmart for all my cat needs! This pet shop has everything you could possibly need in one place, making it super convenient. The staff is always helpful and friendly, which adds to the overall positive experience. It's my go-to pet store, and I'm always happy with my visits.",
+                    "reviewer_name": "mostafa akbari",
+                    "rating": 5,
+                    "review_text": "I love shopping at Petsmart for all my cat needs! This pet shop has everything you could possibly need in one place, making it super convenient. The staff is always helpful and friendly, which adds to the overall positive experience. It's my go-to pet store, and I'm always happy with my visits.",
+                    "published_at": "2 months ago",
+                    "published_at_date": "2023-09-06T15:12:43.758000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 34,
+                    "total_number_of_photos_by_reviewer": 74,
+                    "reviewer_url": "https://www.google.com/maps/contrib/115027753585157628960/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUjhrZxkVNg7C-adrWI1I8hbvsDXSafSPa5vkDB15Kkt18=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipM4mdVyhna0lSlVVIRqjX_J_IUDibwA7fMXhlSl=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipN0jK9J5edAsa9d2xxnHWoq-wDP3G14RC75fR-U=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPtGg6z--c15o1NhaKZGgjxjm62KGY51gtF2DSj=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOL9vxXUE-hyDwGzR-8wfweasn1JU1qs6CwZdys=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "I booked online for a full grooming. My dog is a mini aussie 23poud\nShe doesn't need hair cut just hair between her toes and bum\nThe hair wasn't cut at all she still scratching and bothered by extreme dry skin and she had dry blood on hair forehead. They didn't say anything about any accident and we noticed it after we came home.\nI will never go there again",
+                    "reviewer_name": "Fahimeh Hansen",
+                    "rating": 1,
+                    "review_text": "I booked online for a full grooming. My dog is a mini aussie 23poud\nShe doesn't need hair cut just hair between her toes and bum\nThe hair wasn't cut at all she still scratching and bothered by extreme dry skin and she had dry blood on hair forehead. They didn't say anything about any accident and we noticed it after we came home.\nI will never go there again",
+                    "published_at": "a week ago",
+                    "published_at_date": "2023-11-17T05:34:25.286000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 4,
+                    "total_number_of_photos_by_reviewer": 1,
+                    "reviewer_url": "https://www.google.com/maps/contrib/101676692541363235225/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUpg0aB8mnUAZh4lxjwXfKRSFckPQhl3T0gU360vnqtSrU=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipMskgYXL2n-s-9eR820HaM7qe69ikduXkSPt1ku=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "Our pup Cali gets her haircut every couple months here.  5 Stars! Pet Smart Team communicates well and treats her great and haircuts looks awesome. Marcelle E cut Cali today 5/5 recommend!!!!",
+                    "reviewer_name": "Scott Morrison",
+                    "rating": 5,
+                    "review_text": "Our pup Cali gets her haircut every couple months here.  5 Stars! Pet Smart Team communicates well and treats her great and haircuts looks awesome. Marcelle E cut Cali today 5/5 recommend!!!!",
+                    "published_at": "6 months ago",
+                    "published_at_date": "2023-05-18T21:39:17.249000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 7,
+                    "total_number_of_photos_by_reviewer": 2,
+                    "reviewer_url": "https://www.google.com/maps/contrib/105532031296904062383/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXcydn32JYWVZijqBp5aRVO-Ld5_39Q-ZI5Te_mZ20CDYI=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipPOF2LDTgFi-Gjn9W7onFRZqb5NptIqlpLXdw01=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "Have you ever tried to move a family of 4 to Vancouver island? It's extremely stressful. I booked an appointment for our dog to be groomed so she would be out of the house when the movers arrived and the friends she would stay at for 3 days while we moved asked that she be groomed to prevent shedding on their furniture. I woke up on moving day at 6:30 to walk the dog and brush her before her appointment. I showed up on time only to be told the appointment was cancelled because staff called in sick. I wasn't offered any alternative and they wouldn't even let me buy any products in the store because \"it was too early\" even though I saw a bunch of staff in there. I called all the other grooming shops in the area and they are all full for today. Now I have movers showing up and nowhere to put my dog for the day. It's too hot to leave her in the car. And I can't take her to my friend's house for the next couple of days Because she hasn't been groomed as was asked. I work in the service industry and I understand people call in sick. But sometimes you have to buckle down and make it work. A manager might need to step in and pick up some grooming, shears, or else you need to take five minutes off every appointment in the day in order to squeeze in an extra client or else work a little bit later. I'm very disappointed with the lack of sympathy, lack of effort to rectify their own issue. From now on I'll stick to the little guys. They're cheaper anyway.\n\n** update  I couldn't help but call in and talk to the manager. He was kind and offered another appointment on another day as well as a credit. It didn't help us out the day of and would've been nice if they had offered this during the initial visit.\n\n5 stars for the quality of the care/grooming of my pet",
+                    "reviewer_name": "Chris S",
+                    "rating": 3,
+                    "review_text": "Have you ever tried to move a family of 4 to Vancouver island? It's extremely stressful. I booked an appointment for our dog to be groomed so she would be out of the house when the movers arrived and the friends she would stay at for 3 days while we moved asked that she be groomed to prevent shedding on their furniture. I woke up on moving day at 6:30 to walk the dog and brush her before her appointment. I showed up on time only to be told the appointment was cancelled because staff called in sick. I wasn't offered any alternative and they wouldn't even let me buy any products in the store because \"it was too early\" even though I saw a bunch of staff in there. I called all the other grooming shops in the area and they are all full for today. Now I have movers showing up and nowhere to put my dog for the day. It's too hot to leave her in the car. And I can't take her to my friend's house for the next couple of days Because she hasn't been groomed as was asked. I work in the service industry and I understand people call in sick. But sometimes you have to buckle down and make it work. A manager might need to step in and pick up some grooming, shears, or else you need to take five minutes off every appointment in the day in order to squeeze in an extra client or else work a little bit later. I'm very disappointed with the lack of sympathy, lack of effort to rectify their own issue. From now on I'll stick to the little guys. They're cheaper anyway.\n\n** update  I couldn't help but call in and talk to the manager. He was kind and offered another appointment on another day as well as a credit. It didn't help us out the day of and would've been nice if they had offered this during the initial visit.\n\n5 stars for the quality of the care/grooming of my pet",
+                    "published_at": "4 months ago",
+                    "published_at_date": "2023-06-29T04:13:35.082000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 16,
+                    "total_number_of_photos_by_reviewer": 2,
+                    "reviewer_url": "https://www.google.com/maps/contrib/111058691719761969671/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjViJltuMXcEUU0BeLLSRSahJGkwHgnLonOgvLS6TwWcU7w=s120-c-rp-mo-ba2-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "It's always a pleasure to stop at this Petsmart location. As soon you walk in, the cashier is happily greeting you and welcoming you.",
+                    "reviewer_name": "Dogus Karatas",
+                    "rating": 5,
+                    "review_text": "It's always a pleasure to stop at this Petsmart location. As soon you walk in, the cashier is happily greeting you and welcoming you.",
+                    "published_at": "11 months ago",
+                    "published_at_date": "2022-12-16T05:24:14.420000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 74,
+                    "total_number_of_photos_by_reviewer": 363,
+                    "reviewer_url": "https://www.google.com/maps/contrib/115180019794002645285/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVbAeK0Ck4kFe_ZXYmiSrXHHkmxcYNkXA_dDlKKlrg0jagI=s120-c-rp-mo-ba5-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipPv-aKDIlJDWxVgr7hkr0PNJ2vz-g88KgYNcnEg=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipM-G1Nx-iKUsZ9VWCiT4ZWl8FkfZQ0pp2q4gT5r=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPQm_mJRk7IO0amuHfuhLVSJLFNUilZi0IBxBOG=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMCfhRyXweun8YiqWROcpJaUPAq3tEK-FQlEOXO=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPzxasgAN_x-2gHTVKSIp9BAHkNELeYIT20Ywxt=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPxTGqwJut66peSuPzIjoOvvanSPZy90ouvA_ka=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOr1Y3qR-Zrovw24SNK_alF67GUZXaIxs99pZ92=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipP0YefOFlk2PNjUpXAAjSRIziQgkud1-Dt3lqrn=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMzXZmxlKCAMQfn2hQ_JzzgorgxLHBmDOJ7HuUG=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPSInBhLtbfVNO0lRES0rawp_RlbY9geKS6WbIm=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOXouIwzGKrjoym5m_s-hiYdbtKO0ELLQPksgU7=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPXEONoQwxAPXhQMVtchd8dgpxITF1WaUOhl8SI=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPlnLGy9n1LTpy2Kd0DaBCDb0WLcQtyB-XyuI1G=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "Super polite staff, amazing with animals (big surprise), always a friendly face awaiting you.\n\nI can't speak highly enough of this team.\n\nAverage prices, great and amazing selection. Generally go here for all my pet needs!",
+                    "reviewer_name": "Al Deane",
+                    "rating": 5,
+                    "review_text": "Super polite staff, amazing with animals (big surprise), always a friendly face awaiting you.\n\nI can't speak highly enough of this team.\n\nAverage prices, great and amazing selection. Generally go here for all my pet needs!",
+                    "published_at": "2 months ago",
+                    "published_at_date": "2023-09-18T06:51:01.734000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 88,
+                    "total_number_of_photos_by_reviewer": 725,
+                    "reviewer_url": "https://www.google.com/maps/contrib/108637605397494823420/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWu1oaaHgUcw4mZNjrOEdauvhWSgUb36o_LifElwkTvQVDB=s120-c-rp-mo-ba5-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "This store have a vast array of things for every pets needs. I love just looking through their inventory. The staff that was there on my visit was not very friendly or helpful.  That shouldn't discourage anyone from exploring this great store.",
+                    "reviewer_name": "S S",
+                    "rating": 4,
+                    "review_text": "This store have a vast array of things for every pets needs. I love just looking through their inventory. The staff that was there on my visit was not very friendly or helpful.  That shouldn't discourage anyone from exploring this great store.",
+                    "published_at": "4 months ago",
+                    "published_at_date": "2023-07-06T07:19:39.552000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 287,
+                    "total_number_of_photos_by_reviewer": 418,
+                    "reviewer_url": "https://www.google.com/maps/contrib/116462167628176410826/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKgA61TGW3JPLobE21_6khaUyb-EQvDHst-dCOFfYUZ=s120-c-rp-mo-ba5-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Friendly staff and a very clean store! The displays of the store are well thought out and the staff were very courteous and helpful! They also accept manufacture coupons here which is a great way to save a few dollars! Nice to see a wide variety of foods for your cats and dogs!",
+                    "reviewer_name": "Anthony Plax",
+                    "rating": 5,
+                    "review_text": "Friendly staff and a very clean store! The displays of the store are well thought out and the staff were very courteous and helpful! They also accept manufacture coupons here which is a great way to save a few dollars! Nice to see a wide variety of foods for your cats and dogs!",
+                    "published_at": "a year ago",
+                    "published_at_date": "2022-11-23T02:24:26.510000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 183,
+                    "total_number_of_photos_by_reviewer": 299,
+                    "reviewer_url": "https://www.google.com/maps/contrib/111362514123275964401/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVuJ6iEO8JgdOI8_wJ2e6WmP3a1c1ssIqr0NLdEXWBicXM=s120-c-rp-mo-ba5-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipNek6xpRiuPpEgWk36QbgAnKWs4YPmFmAi_OXnp=w150-h150-k-no-p"
+                    ]
+                }
+            ],
+            "is_spending_on_ads": true
+        },
+        {
+            "place_id": "ChIJFYgtv95zhlQRe0bIbHlmEyc",
+            "name": "PetSmart",
+            "description": "Chain featuring a range of pets, supplies & food (most offer grooming, boarding & other services).",
+            "reviews": 1389,
+            "website": "https://www.petsmart.ca/stores/ca/bc/vancouver-store2362.html%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgoogle-my-business",
+            "owner": {
+                "id": "112775375282689044523",
+                "name": "PetSmart (Owner)",
+                "link": "https://www.google.com/maps/contrib/112775375282689044523"
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM4NWsaSTdnQass7DHUTN2KsUIIJH1KK8q1fKcM=w408-h306-k-no",
+            "main_category": "Pet supply store",
+            "categories": [
+                "Pet supply store"
+            ],
+            "rating": 4.2,
+            "workday_timing": "9 a.m.-9 p.m.",
+            "closed_on": [],
+            "phone": "(604) 879-2602",
+            "address": "PetSmart, 409 W 2nd Ave, Vancouver, BC V5Y 3N7",
+            "review_keywords": [
+                {
+                    "keyword": "grooming",
+                    "count": 46
+                },
+                {
+                    "keyword": "fish",
+                    "count": 44
+                },
+                {
+                    "keyword": "parking",
+                    "count": 39
+                },
+                {
+                    "keyword": "training",
+                    "count": 16
+                },
+                {
+                    "keyword": "adoption",
+                    "count": 15
+                },
+                {
+                    "keyword": "tank",
+                    "count": 13
+                },
+                {
+                    "keyword": "cashier",
+                    "count": 13
+                },
+                {
+                    "keyword": "job",
+                    "count": 11
+                },
+                {
+                    "keyword": "employee",
+                    "count": 8
+                },
+                {
+                    "keyword": "check",
+                    "count": 6
+                }
+            ],
+            "link": "https://www.google.com/maps/place/PetSmart/data=!4m7!3m6!1s0x548673debf2d8815:0x271366796cc8467b!8m2!3d49.2675458!4d-123.1134143!16s%2Fg%2F11b6nql9qk!19sChIJFYgtv95zhlQRe0bIbHlmEyc?authuser=0&hl=en&rclk=1",
+            "status": "Closed  Opens 9 a.m.",
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 61,
+                "2": 40,
+                "3": 173,
+                "4": 408,
+                "5": 707
+            },
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJFYgtv95zhlQRe0bIbHlmEyc&q=PetSmart&authuser=0&hl=en&gl=CA",
+            "coordinates": {
+                "latitude": 49.2675458,
+                "longitude": -123.11341429999999
+            },
+            "plus_code": "7V9P+2J Vancouver, British Columbia",
+            "detailed_address": {
+                "ward": "East Vancouver",
+                "street": "409 W 2nd Ave",
+                "city": "Vancouver",
+                "postal_code": "V5Y 3N7",
+                "state": "British Columbia",
+                "country_code": "CA"
+            },
+            "time_zone": "America/Vancouver",
+            "cid": "2815706863738832507",
+            "data_id": "0x548673debf2d8815:0x271366796cc8467b",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [
+                {
+                    "id": "service_options",
+                    "name": "Service options",
+                    "options": [
+                        {
+                            "name": "Curbside pickup",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Delivery",
+                            "enabled": true
+                        },
+                        {
+                            "name": "In-store pickup",
+                            "enabled": true
+                        },
+                        {
+                            "name": "In-store shopping",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "accessibility",
+                    "name": "Accessibility",
+                    "options": [
+                        {
+                            "name": "Wheelchair-accessible entrance",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Wheelchair-accessible parking lot",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "payments",
+                    "name": "Payments",
+                    "options": [
+                        {
+                            "name": "Credit cards",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Debit cards",
+                            "enabled": true
+                        },
+                        {
+                            "name": "NFC mobile payments",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Credit cards",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipM4NWsaSTdnQass7DHUTN2KsUIIJH1KK8q1fKcM=w397-h298-k-no"
+                },
+                {
+                    "about": "Latest",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipMQnKG4gzbyrATt3lwDCEBu2mS_mmG9ndzA8u4L=w395-h298-k-no"
+                },
+                {
+                    "about": "Videos",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipM-9GJbz-Spp_2TB94UpD2UDfPYfp91ztQSg1Cs=w224-h398-k-no"
+                },
+                {
+                    "about": "Inside",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipMW0PV792wCCI5J04g-1NgHoJ60-75JWVBiQ9hF=w224-h298-k-no"
+                },
+                {
+                    "about": "Dog",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipMFuLDFDIw2zq7fBA0x7UFt24zH_Qn0PxyNCdW-=w529-h298-k-no"
+                },
+                {
+                    "about": "Cat",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipObk5lidgr_4Rv01ERfnkERdMIm6OM3BlvZOJxX=w238-h298-k-no"
+                },
+                {
+                    "about": "Aquarium",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipOrTJpWlKK79I3UzPKZyigyYPb1K1nue9kO0FG5=w224-h298-k-no"
+                },
+                {
+                    "about": "Cage",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipO-bm-7BhB_N4aDJFTcmoIjhDtQ68QUcl8wRNUa=w224-h298-k-no"
+                },
+                {
+                    "about": "By owner",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipOz6iicsRmmkjWu0_qA3_yCX3IT0UDuK5zHvpHf=w446-h298-k-no"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipN5uDQi3DsQ2YNnarvEFz5Ml4I7_37AqT2-3TCR=w224-h298-k-no-pi-10-ya340-ro0-fo100"
+                }
+            ],
+            "hours": [
+                {
+                    "day": "Monday",
+                    "times": [
+                        "9 a.m.-9 p.m."
+                    ]
+                },
+                {
+                    "day": "Tuesday",
+                    "times": [
+                        "9 a.m.-9 p.m."
+                    ]
+                },
+                {
+                    "day": "Wednesday",
+                    "times": [
+                        "9 a.m.-9 p.m."
+                    ]
+                },
+                {
+                    "day": "Thursday",
+                    "times": [
+                        "9 a.m.-9 p.m."
+                    ]
+                },
+                {
+                    "day": "Friday",
+                    "times": [
+                        "9 a.m.-9 p.m."
+                    ]
+                },
+                {
+                    "day": "Saturday",
+                    "times": [
+                        "9 a.m.-9 p.m."
+                    ]
+                },
+                {
+                    "day": "Sunday",
+                    "times": [
+                        "10 a.m.-7 p.m."
+                    ]
+                }
+            ],
+            "featured_reviews": [
+                {
+                    "review_id": "I would not trust them with grooming my dog ever again. We took our schnauzer for a regular cut and bath , which we've never had issues with,  and came back to find a completely different looking dog. When dropping her off they mentioned a few knots, and instead of spending some time brushing them out, they just shaved her off completely. At the very least they could've called to ask if we were okay with this.",
+                    "reviewer_name": "Renata Molinar",
+                    "rating": 1,
+                    "review_text": "I would not trust them with grooming my dog ever again. We took our schnauzer for a regular cut and bath , which we've never had issues with,  and came back to find a completely different looking dog. When dropping her off they mentioned a few knots, and instead of spending some time brushing them out, they just shaved her off completely. At the very least they could've called to ask if we were okay with this.",
+                    "published_at": "a month ago",
+                    "published_at_date": "2023-10-15T01:29:35.065000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 4,
+                    "total_number_of_reviews_by_reviewer": 5,
+                    "total_number_of_photos_by_reviewer": 2,
+                    "reviewer_url": "https://www.google.com/maps/contrib/111082816031795917751/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJyP2_snehfEjNbJrSMg9zV9GOP2oYjyaO8K9nRBu6f=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipPLRcFEbS1GuiT-MeclfOTSDtXmpdXqhccW3VX3=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMh5WMW5b4evSPEBaiuw5ca8DMnTqxsDqwYTYWS=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "It really sucks seeing small single fish put in tiny cups where they can barely move. I really hope PetSmart can grant these fish some dignity and let them roam in a bigger tank with other fish-mates. They do not deserve to suffer in small cups just for the convenience of customers. They are living creatures.",
+                    "reviewer_name": "M",
+                    "rating": 1,
+                    "review_text": "It really sucks seeing small single fish put in tiny cups where they can barely move. I really hope PetSmart can grant these fish some dignity and let them roam in a bigger tank with other fish-mates. They do not deserve to suffer in small cups just for the convenience of customers. They are living creatures.",
+                    "published_at": "a month ago",
+                    "published_at_date": "2023-10-19T21:04:00.524000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 2,
+                    "total_number_of_reviews_by_reviewer": 31,
+                    "total_number_of_photos_by_reviewer": 6,
+                    "reviewer_url": "https://www.google.com/maps/contrib/110531385897697139443/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLr4SEiKUIQNHVTFU4lD4ypzBIXNz62d9HfJ-DaGqJo=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "I would leave a better review if not for the heartbreaking state of the fishies. All crowded in a cup with no room to swim. I was highly disturbed. As it stands now, this place has little to no regard for the animals it houses. Please do better.",
+                    "reviewer_name": "Wade Briggs",
+                    "rating": 1,
+                    "review_text": "I would leave a better review if not for the heartbreaking state of the fishies. All crowded in a cup with no room to swim. I was highly disturbed. As it stands now, this place has little to no regard for the animals it houses. Please do better.",
+                    "published_at": "a month ago",
+                    "published_at_date": "2023-10-19T22:40:01.928000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/100962751897155031000/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjV1cUBbaRETdwpR7ql6C_Tu8J3ivL4tmQm3enrtdFDbog=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "I had in the past not being happy with the service at the dog grooming, never got really rectified.  However yesterday I went and request.ed help went into groomer at PetSmart that was late when they were no longer taking dogs. She however direct me to what blade shave number to do my furry girl, then manager and Peggy help me out.   Great price great service.  My Suzie is happy now with a shave down.  PetSmart you gain my respect again but thank you for the staff last nite",
+                    "reviewer_name": "Mario Bessette",
+                    "rating": 4,
+                    "review_text": "I had in the past not being happy with the service at the dog grooming, never got really rectified.  However yesterday I went and request.ed help went into groomer at PetSmart that was late when they were no longer taking dogs. She however direct me to what blade shave number to do my furry girl, then manager and Peggy help me out.   Great price great service.  My Suzie is happy now with a shave down.  PetSmart you gain my respect again but thank you for the staff last nite",
+                    "published_at": "4 months ago",
+                    "published_at_date": "2023-07-22T05:58:00.975000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 47,
+                    "total_number_of_photos_by_reviewer": 1,
+                    "reviewer_url": "https://www.google.com/maps/contrib/107345896274152623839/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLzGuJHKNo1XLZQ2Iw7LG5fF9OjQw-LxAKXCUfAhkGf=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Pet smart gave me crabs lol",
+                    "reviewer_name": "Dane Renaud",
+                    "rating": 5,
+                    "review_text": "Pet smart gave me crabs lol",
+                    "published_at": "6 days ago",
+                    "published_at_date": "2023-11-22T07:00:51.136000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 3,
+                    "total_number_of_photos_by_reviewer": 23,
+                    "reviewer_url": "https://www.google.com/maps/contrib/102627792607535402166/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUfUAx9BQHJH1slukKrOeQjmpAR2Pa17m1R9t-mK2cypoO4=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipPgb2r4LlXqlY3zMEKMKloapKDB8l-7k4B0Qn_Y=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMQnKG4gzbyrATt3lwDCEBu2mS_mmG9ndzA8u4L=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "It's a good pet shop in comparison to other stores. Most of the products are well organized and you won't have hard time finding what you want.\nThey provide a buzzer to ask for assistance which is quite satisfying, because I always struggle with finding a store associate to help me out.\nThe store associate at Vancouver's west 2nd Ave are so helpful and kind.",
+                    "reviewer_name": "Sara Rostami",
+                    "rating": 5,
+                    "review_text": "It's a good pet shop in comparison to other stores. Most of the products are well organized and you won't have hard time finding what you want.\nThey provide a buzzer to ask for assistance which is quite satisfying, because I always struggle with finding a store associate to help me out.\nThe store associate at Vancouver's west 2nd Ave are so helpful and kind.",
+                    "published_at": "2 years ago",
+                    "published_at_date": "2021-09-16T01:29:54.029000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 4,
+                    "total_number_of_reviews_by_reviewer": 8,
+                    "total_number_of_photos_by_reviewer": 17,
+                    "reviewer_url": "https://www.google.com/maps/contrib/111972968534240106502/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVgfMdtq97Unl0KnOEsqNtNwKBUSKjOuDp7u-_FDa-kimE=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipObH29I2E8NAZD-53Xp_v07q8zwEqimb37Xwpo1=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMfmOR65Bm2bfbaPzdq_GeAq6v2YxPSJmOLX2PD=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPJSU8POo52vyiaeSSrl8AnYZUb0nxZ--y_Nu0m=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNl1perUncH-1P1Ip63jdhr9fqav-y0_deC0THb=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOP7pt7ptD0hqVkN7rc1BqKjsX1zXr9jaUp-JNG=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "Staff is always friendly and helpful. Seems like people that work their really enjoy their jobs. We took our dog here from her training. The trainer, Donna, is great. Very patient and always happy to see us.\nWe take our dog here for a walk sometimes and always find new things to buy. They have pumpkin cookies for Halloween.",
+                    "reviewer_name": "Emily Lu",
+                    "rating": 5,
+                    "review_text": "Staff is always friendly and helpful. Seems like people that work their really enjoy their jobs. We took our dog here from her training. The trainer, Donna, is great. Very patient and always happy to see us.\nWe take our dog here for a walk sometimes and always find new things to buy. They have pumpkin cookies for Halloween.",
+                    "published_at": "a year ago",
+                    "published_at_date": "2022-10-01T05:31:32.585000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 516,
+                    "total_number_of_photos_by_reviewer": 2119,
+                    "reviewer_url": "https://www.google.com/maps/contrib/118073942771702519217/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKS7OJWGdV4KkfqlPHEoLTKa6q9cJd_3WvuPZDe5Ci2PcE=s120-c-rp-mo-ba6-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipPHlZyLorCJStpkf85tiCI_YIXtIn8mSmI-7Vb1=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "I've been getting my Bernedoodle groomed by Michelle since she was a puppy and Michelle is FANTASTIC. The cut always looks good and she's very patient (my girl hates getting her face trimmed) Highly recommend the groomers, make sure you leave a tip. They're always busy and do a great job. Also very friendly staff.",
+                    "reviewer_name": "S",
+                    "rating": 5,
+                    "review_text": "I've been getting my Bernedoodle groomed by Michelle since she was a puppy and Michelle is FANTASTIC. The cut always looks good and she's very patient (my girl hates getting her face trimmed) Highly recommend the groomers, make sure you leave a tip. They're always busy and do a great job. Also very friendly staff.",
+                    "published_at": "4 months ago",
+                    "published_at_date": "2023-06-29T03:07:44.255000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 34,
+                    "total_number_of_photos_by_reviewer": 9,
+                    "reviewer_url": "https://www.google.com/maps/contrib/106808711433749851108/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocL5uUGm_7Kqbv7l2yMb6WV0kPtlIA8GhTkmyR7m77Fc=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJ__qsomIJdVQRLFSEDW_9fzM",
+            "name": "PetSmart",
+            "description": "Chain featuring a range of pets, supplies & food (most offer grooming, boarding & other services).",
+            "reviews": 869,
+            "website": "https://www.petsmart.ca/stores/ca/bc/north-vancouver-store1684.html%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgoogle-my-business",
+            "owner": {
+                "id": "115799794771295763081",
+                "name": "PetSmart (Owner)",
+                "link": "https://www.google.com/maps/contrib/115799794771295763081"
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPSiZ3hD1NMc3HyRhsdZKg9PawCghTeZldX4kZX=w408-h306-k-no",
+            "main_category": "Pet supply store",
+            "categories": [
+                "Pet supply store"
+            ],
+            "rating": 4,
+            "workday_timing": "9 a.m.-9 p.m.",
+            "closed_on": [],
+            "phone": "(604) 924-9889",
+            "address": "PetSmart, 1325 Main St, North Vancouver, BC V7J 1C5",
+            "review_keywords": [
+                {
+                    "keyword": "fish",
+                    "count": 45
+                },
+                {
+                    "keyword": "grooming",
+                    "count": 34
+                },
+                {
+                    "keyword": "sell",
+                    "count": 20
+                },
+                {
+                    "keyword": "adoption",
+                    "count": 15
+                },
+                {
+                    "keyword": "cashier",
+                    "count": 14
+                },
+                {
+                    "keyword": "pet food",
+                    "count": 9
+                },
+                {
+                    "keyword": "shelves",
+                    "count": 8
+                },
+                {
+                    "keyword": "hamsters",
+                    "count": 7
+                },
+                {
+                    "keyword": "salon",
+                    "count": 7
+                },
+                {
+                    "keyword": "big box",
+                    "count": 5
+                }
+            ],
+            "link": "https://www.google.com/maps/place/PetSmart/data=!4m7!3m6!1s0x54750962a2acfaff:0x337ffd6f0d84542c!8m2!3d49.305925!4d-123.0377829!16s%2Fg%2F1tm8k8bq!19sChIJ__qsomIJdVQRLFSEDW_9fzM?authuser=0&hl=en&rclk=1",
+            "status": "Closed  Opens 9 a.m.",
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 70,
+                "2": 39,
+                "3": 99,
+                "4": 248,
+                "5": 413
+            },
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ__qsomIJdVQRLFSEDW_9fzM&q=PetSmart&authuser=0&hl=en&gl=CA",
+            "coordinates": {
+                "latitude": 49.305924999999995,
+                "longitude": -123.0377829
+            },
+            "plus_code": "8X46+9V North Vancouver, British Columbia",
+            "detailed_address": {
+                "ward": null,
+                "street": "1325 Main St",
+                "city": "North Vancouver",
+                "postal_code": "V7J 1C5",
+                "state": "British Columbia",
+                "country_code": "CA"
+            },
+            "time_zone": "America/Vancouver",
+            "cid": "3710963271386551340",
+            "data_id": "0x54750962a2acfaff:0x337ffd6f0d84542c",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [
+                {
+                    "id": "service_options",
+                    "name": "Service options",
+                    "options": [
+                        {
+                            "name": "Curbside pickup",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Delivery",
+                            "enabled": true
+                        },
+                        {
+                            "name": "In-store pickup",
+                            "enabled": true
+                        },
+                        {
+                            "name": "In-store shopping",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "accessibility",
+                    "name": "Accessibility",
+                    "options": [
+                        {
+                            "name": "Wheelchair-accessible entrance",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Wheelchair-accessible parking lot",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "payments",
+                    "name": "Payments",
+                    "options": [
+                        {
+                            "name": "Credit cards",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Debit cards",
+                            "enabled": true
+                        },
+                        {
+                            "name": "NFC mobile payments",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Credit cards",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipORkCqKhCORPAGXw4e_ceVqHqWQStf_0mq87JBi=w397-h298-k-no"
+                },
+                {
+                    "about": "Latest",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipMi6tcoqIYMp_-opTU0oJN9AkNGzNaAJiQhAFtj=w224-h398-k-no"
+                },
+                {
+                    "about": "Videos",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipO38Jsdu-pvQd1cqshGdn_NGWBwKsylvODPLuWe=w529-h298-k-no"
+                },
+                {
+                    "about": "Inside",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipMK0QLyqux45Uwcq4Vc2K-EJ2tiUnYUKepngqPM=w529-h298-k-no"
+                },
+                {
+                    "about": "Dog",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipPCgoCli1WOhPcKGPgtjiWujcCT74I2WCDm3mqI=w397-h298-k-no"
+                },
+                {
+                    "about": "Cat",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipNLpVdkF3tU3Cp_Q3skBAl72l3p0fs6i-buJ1Qy=w224-h298-k-no"
+                },
+                {
+                    "about": "By owner",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipNSmJ0ofnjnofpCwFraL9EhLXcJXFDsZhc2ACME=w446-h298-k-no"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=itOXQbs98efpVaQqEEkPeQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=212.40625&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [
+                {
+                    "day": "Monday",
+                    "times": [
+                        "9 a.m.-9 p.m."
+                    ]
+                },
+                {
+                    "day": "Tuesday",
+                    "times": [
+                        "9 a.m.-9 p.m."
+                    ]
+                },
+                {
+                    "day": "Wednesday",
+                    "times": [
+                        "9 a.m.-9 p.m."
+                    ]
+                },
+                {
+                    "day": "Thursday",
+                    "times": [
+                        "9 a.m.-9 p.m."
+                    ]
+                },
+                {
+                    "day": "Friday",
+                    "times": [
+                        "9 a.m.-9 p.m."
+                    ]
+                },
+                {
+                    "day": "Saturday",
+                    "times": [
+                        "9 a.m.-9 p.m."
+                    ]
+                },
+                {
+                    "day": "Sunday",
+                    "times": [
+                        "10 a.m.-7 p.m."
+                    ]
+                }
+            ],
+            "featured_reviews": [
+                {
+                    "review_id": "We just bought a Top Fin Dazzle 3 gallon tank for our betta, it was supposed to include a 12v power adapter and a filter, but they were not in the box.",
+                    "reviewer_name": "Marshal",
+                    "rating": 1,
+                    "review_text": "We just bought a Top Fin Dazzle 3 gallon tank for our betta, it was supposed to include a 12v power adapter and a filter, but they were not in the box.",
+                    "published_at": "5 months ago",
+                    "published_at_date": "2023-06-23T04:51:45.087000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 3,
+                    "total_number_of_reviews_by_reviewer": 4,
+                    "total_number_of_photos_by_reviewer": 2,
+                    "reviewer_url": "https://www.google.com/maps/contrib/114530973496761472768/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUc3jFNgCfgRrOBUSPUImc5YCTxbqEPSGND8UtoG1jEJQ=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipMyRpP57trFXJU-HayKuZoHG0aDfJ_BlbCcA0Xr=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMOocltFx7IvWOfNvwP57GN8h8XMEBRJ-RnJ6j5=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "Absolutely unacceptable, inhumane, and abusive treatment of their animals for sale.\n\nAbsolutely heartbreaking to see animals that were barely moving, many of which appeared very sick.\n\nI hope they take appropriate steps to educate their staff how to properly house and maintain the animals they sell.\n\nNot to mention that they have a very low quality selection of pet items in general, with extremely high prices. I was in a pinch to buy some items for my pet, but could not bring myself to spend a dime here in good conscience.",
+                    "reviewer_name": "ADorkNamedSteph",
+                    "rating": 1,
+                    "review_text": "Absolutely unacceptable, inhumane, and abusive treatment of their animals for sale.\n\nAbsolutely heartbreaking to see animals that were barely moving, many of which appeared very sick.\n\nI hope they take appropriate steps to educate their staff how to properly house and maintain the animals they sell.\n\nNot to mention that they have a very low quality selection of pet items in general, with extremely high prices. I was in a pinch to buy some items for my pet, but could not bring myself to spend a dime here in good conscience.",
+                    "published_at": "6 months ago",
+                    "published_at_date": "2023-05-01T01:56:09.427000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 6,
+                    "total_number_of_reviews_by_reviewer": 46,
+                    "total_number_of_photos_by_reviewer": 3,
+                    "reviewer_url": "https://www.google.com/maps/contrib/102230796311292389520/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXObNELhf0Tyqo5S0fJVe3YjHB0Heqhe2JW0RxeZ0S-YXk=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipN-zaRe6tRtEeDP-RTN21tFMsr8HmAmkP0NVgL1=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOnNErQMlPgVjzkgSfjb5bA4F_N7BOVL4BpmI3D=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOjE9QHKJl0thWH62nU0e9bYSjss2DGrv2pPtIW=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "I feel very grateful for this Petsmart location for the way they take care of their little critters. I have visited most Petsmarts in the lower mainland and I often saw little hamsters and mice running on wheels that are not only dirty but also way too small for them (it would hurt their spines). And they often lived in smelly cages (pee soaked bedding) and having only pellets (no nutrients) for food. But this Petsmart in North Vancouver provide their rodents with proper size(bigger) and clean wheels to run on, their beddings are clean, and they even give them a variety of fresh vegetables for snacks alongside pellets! I saw happy and healthy  mice exercising on the wheels and comfortably cuddling with each other today. They were so comfortable with humans(thanks to the kind people who take good care of them) they would come out and curiously sniff us. I'm so happy for the animals to be taken such good care of. Thank you guys so much NV Petsmart! ",
+                    "reviewer_name": "HW T",
+                    "rating": 5,
+                    "review_text": "I feel very grateful for this Petsmart location for the way they take care of their little critters. I have visited most Petsmarts in the lower mainland and I often saw little hamsters and mice running on wheels that are not only dirty but also way too small for them (it would hurt their spines). And they often lived in smelly cages (pee soaked bedding) and having only pellets (no nutrients) for food. But this Petsmart in North Vancouver provide their rodents with proper size(bigger) and clean wheels to run on, their beddings are clean, and they even give them a variety of fresh vegetables for snacks alongside pellets! I saw happy and healthy  mice exercising on the wheels and comfortably cuddling with each other today. They were so comfortable with humans(thanks to the kind people who take good care of them) they would come out and curiously sniff us. I'm so happy for the animals to be taken such good care of. Thank you guys so much NV Petsmart! ",
+                    "published_at": "4 months ago",
+                    "published_at_date": "2023-07-23T02:39:08.240000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 4,
+                    "total_number_of_photos_by_reviewer": 2,
+                    "reviewer_url": "https://www.google.com/maps/contrib/108461205328304225124/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocId9805lsVNVwq6rRccActCRs56mouY38yuwgTntggd=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipMcb9gTE0kBkYbx4yz-Ryi8_stqOFoVE7E_F6OO=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "We do our Yorkie grooming at PetSmart. We tried several groomers and we have settled on PetSmart for good service and value.",
+                    "reviewer_name": "Tobias Jesso (Goppy)",
+                    "rating": 5,
+                    "review_text": "We do our Yorkie grooming at PetSmart. We tried several groomers and we have settled on PetSmart for good service and value.",
+                    "published_at": "2 months ago",
+                    "published_at_date": "2023-09-16T17:11:11.298000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 223,
+                    "total_number_of_photos_by_reviewer": 99,
+                    "reviewer_url": "https://www.google.com/maps/contrib/103501904084475647290/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVA0lYf19p-9eijtujdrGBNR3O_OD_D-2DPDXBGXyoDpGk=s120-c-rp-mo-ba5-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipMYyCBGgzyzdyArKkeNyYd7yyq7nlxXigmpvkz-=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "This is the location from which we adopted our beloved cat: Manitoba. The staff were very helpful throughout the adoption process, and the manager (I believe his name was Alex?) went above and beyond. He helped us fill out the paperwork, which because of his help did not feel like a hassle, and he stayed in constant contact throughout the approval and \"take home\" process. He also waited for us to drive back with our lease agreement documents very close to closing time on a Sunday, and for that we are very grateful. They were working with Action for Animals at the time, and their whole adoption process was very straightforward. Although the profile posted for the public did not go into depth regarding the cats' personalities, they did have folders full of information, advice and recommendations for each of the kitties.\nAside from this, we found the store to be clean and organized, but there were dogs inside barking which made the kittens quite jumpy and scared at times. Also, the cat enclosure did not have a climbing or scratching tower (which most PetSmarts do), so we believe that would be a great addition for the kitties enrichment.",
+                    "reviewer_name": "Emilia Muirragui",
+                    "rating": 4,
+                    "review_text": "This is the location from which we adopted our beloved cat: Manitoba. The staff were very helpful throughout the adoption process, and the manager (I believe his name was Alex?) went above and beyond. He helped us fill out the paperwork, which because of his help did not feel like a hassle, and he stayed in constant contact throughout the approval and \"take home\" process. He also waited for us to drive back with our lease agreement documents very close to closing time on a Sunday, and for that we are very grateful. They were working with Action for Animals at the time, and their whole adoption process was very straightforward. Although the profile posted for the public did not go into depth regarding the cats' personalities, they did have folders full of information, advice and recommendations for each of the kitties.\nAside from this, we found the store to be clean and organized, but there were dogs inside barking which made the kittens quite jumpy and scared at times. Also, the cat enclosure did not have a climbing or scratching tower (which most PetSmarts do), so we believe that would be a great addition for the kitties enrichment.",
+                    "published_at": "7 months ago",
+                    "published_at_date": "2023-03-31T21:51:12.693000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 50,
+                    "total_number_of_photos_by_reviewer": 74,
+                    "reviewer_url": "https://www.google.com/maps/contrib/100266877980855215604/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUstHq5GIVC0dt6uHt2O7rTse-Fafq5jnvelrbvYKLm5ko=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipNOMFYghIL8z80nsnUrKWXrv9VcR115N5Xl6-_J=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOwuWrThtgd4OrZZib63ro5DbnfvAfpsWR3uIr7=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "Please check the receipt to make sure the price and discount were right before leaving the store. I am an frequent customer. I have been shopping at this store for quite a long time. Last week, I found out a problem at the Main Street  store in North Vancouver. I bought over 20 feeding fishes with my wife and they were on sale. When I paid, a young cashier seems didn't know what kind of fish I bought.  So I told him they were Rosy Red Minnow which was $0.40 each. I also showed him their discount label on my phone.  The discount label said buy 5 save 25% on all fish. The cashier ignored what the label said.  He charged me $0.45 per fish instead of $0.40 per fish.  Then gave me 15% discount but not 25% discount.  Both the charges and discount were not right. My wife told the cashier about the problem and he told us the price he input was correct.  He didn't want to look at my wife and he looked unhappy on what we said from his behavior. Not sure if we are not caucasian. I told my wife to solve the problem later with the Manager. I found the manager and told her about the issue. She made the correction on the charges and gave me the refund. But I forgot to tell her this was not the first time I was charged for the wrong price. I will keep an eye on the receipts as I don't want to overpay if I shouldn't be. Nobody want to lose money on the high value items. Good Luck!",
+                    "reviewer_name": "Tommy tommy",
+                    "rating": 1,
+                    "review_text": "Please check the receipt to make sure the price and discount were right before leaving the store. I am an frequent customer. I have been shopping at this store for quite a long time. Last week, I found out a problem at the Main Street  store in North Vancouver. I bought over 20 feeding fishes with my wife and they were on sale. When I paid, a young cashier seems didn't know what kind of fish I bought.  So I told him they were Rosy Red Minnow which was $0.40 each. I also showed him their discount label on my phone.  The discount label said buy 5 save 25% on all fish. The cashier ignored what the label said.  He charged me $0.45 per fish instead of $0.40 per fish.  Then gave me 15% discount but not 25% discount.  Both the charges and discount were not right. My wife told the cashier about the problem and he told us the price he input was correct.  He didn't want to look at my wife and he looked unhappy on what we said from his behavior. Not sure if we are not caucasian. I told my wife to solve the problem later with the Manager. I found the manager and told her about the issue. She made the correction on the charges and gave me the refund. But I forgot to tell her this was not the first time I was charged for the wrong price. I will keep an eye on the receipts as I don't want to overpay if I shouldn't be. Nobody want to lose money on the high value items. Good Luck!",
+                    "published_at": "9 months ago",
+                    "published_at_date": "2023-02-01T06:21:48.673000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 5,
+                    "total_number_of_reviews_by_reviewer": 3,
+                    "total_number_of_photos_by_reviewer": 2,
+                    "reviewer_url": "https://www.google.com/maps/contrib/108819075792569676905/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKJE5UXBxfHUbcafoFI92vQKs0uX_7NeBa9qQM-hPLM=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipOGbHplD_enBYRclPBe4ALh6yeeviUWiovzsG_W=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "Took our dog to be bathed and groomed.  The whole front area of the groom section was filled with dog hair cuttings in every shape and color - we checked in with the desk person and the groomer took our pup and we left. We came back 2 hours later to pick him up and the place was still a total mess - disgusting and stinky and there was only one person there and she was busy bathing another dog - I went to the front to ask for help and they had the groomer come out with our pup and she kept saying she was busy...the harness we were hoping they would have fitted our dog with was covered in long white dog hairs, our dog is a short hair black Doberman.  Our pup was clean but our experience was horrible and the place was not sanitary.",
+                    "reviewer_name": "Elizabeth Thomas Quee",
+                    "rating": 2,
+                    "review_text": "Took our dog to be bathed and groomed.  The whole front area of the groom section was filled with dog hair cuttings in every shape and color - we checked in with the desk person and the groomer took our pup and we left. We came back 2 hours later to pick him up and the place was still a total mess - disgusting and stinky and there was only one person there and she was busy bathing another dog - I went to the front to ask for help and they had the groomer come out with our pup and she kept saying she was busy...the harness we were hoping they would have fitted our dog with was covered in long white dog hairs, our dog is a short hair black Doberman.  Our pup was clean but our experience was horrible and the place was not sanitary.",
+                    "published_at": "2 weeks ago",
+                    "published_at_date": "2023-11-08T20:44:00.763000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 5,
+                    "total_number_of_photos_by_reviewer": 4,
+                    "reviewer_url": "https://www.google.com/maps/contrib/108993044076255980519/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJi73R_pWqeRdWRjTPRAQuyglXkk6pjqLKpHnzOPySq=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Great service and always make my dog feel special. Staff always helpful friendly and obviously love animals.",
+                    "reviewer_name": "Paul Romhany",
+                    "rating": 5,
+                    "review_text": "Great service and always make my dog feel special. Staff always helpful friendly and obviously love animals.",
+                    "published_at": "6 days ago",
+                    "published_at_date": "2023-11-22T01:01:04.470000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 6,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/100560352634201659312/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUJ7DU3uaDBkLRQAD683wxtHCWXmMMtaWvxVqjaESZ1CEU=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJcdZJ3x11hlQRs4U0nu-g388",
+            "name": "PetSmart",
+            "description": "Chain featuring a range of pets, supplies & food (most offer grooming, boarding & other services).",
+            "reviews": 1274,
+            "website": "https://www.petsmart.ca/stores/ca/bc/richmond-store2239.html%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgoogle-my-business",
+            "owner": {
+                "id": "104144737499227020329",
+                "name": "PetSmart (Owner)",
+                "link": "https://www.google.com/maps/contrib/104144737499227020329"
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM1AVlyHAahZgOuN7ZBLBX0n9x1rRZ6SDjK_ijb=w408-h306-k-no",
+            "main_category": "Pet supply store",
+            "categories": [
+                "Pet supply store"
+            ],
+            "rating": 4.2,
+            "workday_timing": "9 a.m.-9 p.m.",
+            "closed_on": [],
+            "phone": "(604) 233-1348",
+            "address": "PetSmart, 9751 Bridgeport Rd #120, Richmond, BC V6X 1S3",
+            "review_keywords": [
+                {
+                    "keyword": "fish",
+                    "count": 53
+                },
+                {
+                    "keyword": "grooming",
+                    "count": 35
+                },
+                {
+                    "keyword": "adoption",
+                    "count": 20
+                },
+                {
+                    "keyword": "cashier",
+                    "count": 16
+                },
+                {
+                    "keyword": "parking",
+                    "count": 12
+                },
+                {
+                    "keyword": "tank",
+                    "count": 11
+                },
+                {
+                    "keyword": "training",
+                    "count": 10
+                },
+                {
+                    "keyword": "hamsters",
+                    "count": 8
+                },
+                {
+                    "keyword": "stock",
+                    "count": 7
+                },
+                {
+                    "keyword": "salon",
+                    "count": 7
+                }
+            ],
+            "link": "https://www.google.com/maps/place/PetSmart/data=!4m7!3m6!1s0x5486751ddf49d671:0xcfdfa0ef9e3485b3!8m2!3d49.1930018!4d-123.1147847!16s%2Fg%2F1tjdwls1!19sChIJcdZJ3x11hlQRs4U0nu-g388?authuser=0&hl=en&rclk=1",
+            "status": "Closed  Opens 9 a.m.",
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 73,
+                "2": 34,
+                "3": 147,
+                "4": 381,
+                "5": 639
+            },
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJcdZJ3x11hlQRs4U0nu-g388&q=PetSmart&authuser=0&hl=en&gl=CA",
+            "coordinates": {
+                "latitude": 49.1930018,
+                "longitude": -123.1147847
+            },
+            "plus_code": "5VVP+63 Richmond, British Columbia",
+            "detailed_address": {
+                "ward": null,
+                "street": "9751 Bridgeport Rd #120",
+                "city": "Richmond",
+                "postal_code": "V6X 1S3",
+                "state": "British Columbia",
+                "country_code": "CA"
+            },
+            "time_zone": "America/Vancouver",
+            "cid": "14978867836669429171",
+            "data_id": "0x5486751ddf49d671:0xcfdfa0ef9e3485b3",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [
+                {
+                    "id": "service_options",
+                    "name": "Service options",
+                    "options": [
+                        {
+                            "name": "Curbside pickup",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Delivery",
+                            "enabled": true
+                        },
+                        {
+                            "name": "In-store pickup",
+                            "enabled": true
+                        },
+                        {
+                            "name": "In-store shopping",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "accessibility",
+                    "name": "Accessibility",
+                    "options": [
+                        {
+                            "name": "Wheelchair-accessible entrance",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Wheelchair-accessible parking lot",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "payments",
+                    "name": "Payments",
+                    "options": [
+                        {
+                            "name": "Debit cards",
+                            "enabled": true
+                        },
+                        {
+                            "name": "NFC mobile payments",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Credit cards",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipM1AVlyHAahZgOuN7ZBLBX0n9x1rRZ6SDjK_ijb=w397-h298-k-no"
+                },
+                {
+                    "about": "Inside",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipPhEib61G5nI9DDGi0c-cLQLgHHVB6tluSRUueE=w224-h298-k-no"
+                },
+                {
+                    "about": "Videos",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipOj8ewkJRP9JQs5MyGZY8SpK2zeqHox1fc35ur5=w224-h474-k-no"
+                },
+                {
+                    "about": "Aquarium",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipM5cUQZUbayOBGcjlW0_ENw073Aw8UU9Q2dW6Ta=w224-h298-k-no"
+                },
+                {
+                    "about": "Dog",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipOpnlFz0OA0Kt2u0WONKw_GbZhtx9K7EXtzcO2w=w224-h298-k-no"
+                },
+                {
+                    "about": "By owner",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipOEjh7oaKHWAj85wv7oZg_odKFc_imkLzlaRTrl=w446-h298-k-no"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=aCJpQnqd_uWtlX8jecNdpg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=20.768509&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [
+                {
+                    "day": "Monday",
+                    "times": [
+                        "9 a.m.-9 p.m."
+                    ]
+                },
+                {
+                    "day": "Tuesday",
+                    "times": [
+                        "9 a.m.-9 p.m."
+                    ]
+                },
+                {
+                    "day": "Wednesday",
+                    "times": [
+                        "9 a.m.-9 p.m."
+                    ]
+                },
+                {
+                    "day": "Thursday",
+                    "times": [
+                        "9 a.m.-9 p.m."
+                    ]
+                },
+                {
+                    "day": "Friday",
+                    "times": [
+                        "9 a.m.-9 p.m."
+                    ]
+                },
+                {
+                    "day": "Saturday",
+                    "times": [
+                        "9 a.m.-9 p.m."
+                    ]
+                },
+                {
+                    "day": "Sunday",
+                    "times": [
+                        "10 a.m.-7 p.m."
+                    ]
+                }
+            ],
+            "featured_reviews": [
+                {
+                    "review_id": "Always fun to walk in to look around at other pets or shop for fish here. It's a bit more expensive unless there's a sale going on, having a membership also helps with the price on certain things. Bought all my fish from this store.",
+                    "reviewer_name": "Erica Ngan",
+                    "rating": 4,
+                    "review_text": "Always fun to walk in to look around at other pets or shop for fish here. It's a bit more expensive unless there's a sale going on, having a membership also helps with the price on certain things. Bought all my fish from this store.",
+                    "published_at": "4 months ago",
+                    "published_at_date": "2023-07-09T11:06:08.191000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 227,
+                    "total_number_of_photos_by_reviewer": 751,
+                    "reviewer_url": "https://www.google.com/maps/contrib/112566975246141663019/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUqIhGIcRog_ov9gQRoIavZPxhinmqvc1409aikQhj3V4Qk=s120-c-rp-mo-ba5-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipOIxj4uStoVmug6JmikLUc9uHtv1L1nNAaX2Jtz=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMKwCLY6umYqKs5IinZYxzgJahZ6JZTW0lZtlW7=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOdZaTlf0--DXqEg6ZZXv2q4MOtLRyAJ66MSaTE=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipORQv9psk-CKF0bO47CaILIL-SsOlrVrdc0ZtJS=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPN5jTNfLKn-nqRV8qVBP7PrC0oPTTWBgKvO5fk=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "This Chinese lady with glasses told me that my 20gal was too small for 2 Goldfish and because of that I wouldn't be eligible for a refund. 1st of all I didn't even know that there's a refund on fish lol and 2nd they keep their fish in way more worse conditions than my aquarium. Like the audacity of this woman/man they/them it. So next time you guys want to buy fish make sure you tell them you have a 100gal aquarium and claim that 14 days return in case they'll die in that time period. I didn't go with the purchase because the no return got me scared now that I know about it lol\n\nPs: there's a dead fish everytime I go there\n\nHere's my tanks by the way",
+                    "reviewer_name": "Throw Away",
+                    "rating": 1,
+                    "review_text": "This Chinese lady with glasses told me that my 20gal was too small for 2 Goldfish and because of that I wouldn't be eligible for a refund. 1st of all I didn't even know that there's a refund on fish lol and 2nd they keep their fish in way more worse conditions than my aquarium. Like the audacity of this woman/man they/them it. So next time you guys want to buy fish make sure you tell them you have a 100gal aquarium and claim that 14 days return in case they'll die in that time period. I didn't go with the purchase because the no return got me scared now that I know about it lol\n\nPs: there's a dead fish everytime I go there\n\nHere's my tanks by the way",
+                    "published_at": "3 months ago",
+                    "published_at_date": "2023-08-27T02:28:20.386000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 3,
+                    "total_number_of_photos_by_reviewer": 2,
+                    "reviewer_url": "https://www.google.com/maps/contrib/116082386071540795543/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKub08Ez2zePY1aDX0xJGvduHvYpB74o6OuefmEy52K=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipMS3bMRWhb7n9P4FUF7aTl4eIwwHVt-TPVV8lum=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOtBbfDmQ9qe23m6twV1HLYcyrkRqZNXzRDWwqG=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "Friendly and approachable staff. Curb side pick-up was quick and easy. Also, shout-out to Love who rectified an issue with my order.",
+                    "reviewer_name": "Felix C",
+                    "rating": 5,
+                    "review_text": "Friendly and approachable staff. Curb side pick-up was quick and easy. Also, shout-out to Love who rectified an issue with my order.",
+                    "published_at": "2 days ago",
+                    "published_at_date": "2023-11-26T02:22:04.297000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 5,
+                    "total_number_of_photos_by_reviewer": 2,
+                    "reviewer_url": "https://www.google.com/maps/contrib/105894442305445967400/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWaheHxNhZ28XD3AmlGWM5DM50ABvpA3FWVS-LRUU4LLJ8=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "This is a message for all the kind people concerned about the betta fish:\n\nDon't worry. They're okay. These fish have a very long and difficult trip when they are imported from Asia but are gently cared for when they arrive.\nI've spoken with the staff since I had similar concerns and even rescued one of these fish.\n\nBetta will lose color when stressed. It is possible to revive their color within 12 hours (from experience) under suitable conditions.\n\nTheir water is changed daily but the lights cause algae to grow rapidly. I experience the same in my planted tank. It's just a natural process.\n\nYes, some of the fish die and it could be for any reason. They could have been sick prior to capture or perhaps had a rougher trip during import. But I know that the staff do care about them and treat them for disease when and where they can. The fish do not go unnoticed!\n\nI'll post some photos of the fish I saved. The first before/after is only 16 hours apart. You can already see a difference.\n\nNote to staff: please be carefully of moldy food in the betta cups.",
+                    "reviewer_name": "E P",
+                    "rating": 4,
+                    "review_text": "This is a message for all the kind people concerned about the betta fish:\n\nDon't worry. They're okay. These fish have a very long and difficult trip when they are imported from Asia but are gently cared for when they arrive.\nI've spoken with the staff since I had similar concerns and even rescued one of these fish.\n\nBetta will lose color when stressed. It is possible to revive their color within 12 hours (from experience) under suitable conditions.\n\nTheir water is changed daily but the lights cause algae to grow rapidly. I experience the same in my planted tank. It's just a natural process.\n\nYes, some of the fish die and it could be for any reason. They could have been sick prior to capture or perhaps had a rougher trip during import. But I know that the staff do care about them and treat them for disease when and where they can. The fish do not go unnoticed!\n\nI'll post some photos of the fish I saved. The first before/after is only 16 hours apart. You can already see a difference.\n\nNote to staff: please be carefully of moldy food in the betta cups.",
+                    "published_at": "8 months ago",
+                    "published_at_date": "2023-03-12T23:44:46.162000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 2,
+                    "total_number_of_reviews_by_reviewer": 68,
+                    "total_number_of_photos_by_reviewer": 16,
+                    "reviewer_url": "https://www.google.com/maps/contrib/105111355489322743711/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXGHbM-WtY_V0iTeJRKw2MR0yyttDucNLKcNbnLC5H4pvg=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipMPZUSaR2-L1jKiC0LWzea-trlaxXU8LvPciZf6=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNOV-0s1yLhDxG2ghvwTJdWjFHgaXNCpxQeJv-G=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOM_TrXvDJPB6bOAcm8TASZvoBOTah3aKfXtPsT=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipP1rN-QDfB6sgEarEXqieGMYKT6F3j3xQhGzNP-=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNn_Qj272Uszk87y6eNH9hCKaGRmnLqCjXtzjEp=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "PetSmart has a ridiculous policy which requires tetanus shots up to date. While basically all Vets in Canada and especially in BC (including ours), do not recommend them getting tetanus shots. And then PetSmart turns our dog away (1.5 years old) from a grooming session, as his tetanus shot was two weeks out of date. Never getting our business again. What a joke.",
+                    "reviewer_name": "Darrell Radom",
+                    "rating": 1,
+                    "review_text": "PetSmart has a ridiculous policy which requires tetanus shots up to date. While basically all Vets in Canada and especially in BC (including ours), do not recommend them getting tetanus shots. And then PetSmart turns our dog away (1.5 years old) from a grooming session, as his tetanus shot was two weeks out of date. Never getting our business again. What a joke.",
+                    "published_at": "6 days ago",
+                    "published_at_date": "2023-11-21T21:41:10.909000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 6,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/104169751325278372317/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXKgLVrJa0k0yEi7mDvF1RRp7YE1YgliWmGkhU8CXVrbCw=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "One stop shopping, very exciting to visit when you're in love with your pets. Very spacious, clean and well arranged, a lot of foods, treats, toys, clothes, accessories, and other stuffs for your pets. As far as I noticed, they cover dogs off course, cats, fish, birds, reptiles, and other small pets (like rabbits, hamster, guinea pigs, even rats and mice). Although I never used their service, but hard to miss that they also have grooming and training facilities. For the clothes, I found not too many choices, but for food and treats they have quite a lot options to choose. Installing their phone apps is worth it, where we can find promotion info, check stock availability, online shop, book appointment for services, etc.\n\nFor Petsmart, keep up the good job!",
+                    "reviewer_name": "Dewi Trisnawati Tjahjadi",
+                    "rating": 5,
+                    "review_text": "One stop shopping, very exciting to visit when you're in love with your pets. Very spacious, clean and well arranged, a lot of foods, treats, toys, clothes, accessories, and other stuffs for your pets. As far as I noticed, they cover dogs off course, cats, fish, birds, reptiles, and other small pets (like rabbits, hamster, guinea pigs, even rats and mice). Although I never used their service, but hard to miss that they also have grooming and training facilities. For the clothes, I found not too many choices, but for food and treats they have quite a lot options to choose. Installing their phone apps is worth it, where we can find promotion info, check stock availability, online shop, book appointment for services, etc.\n\nFor Petsmart, keep up the good job!",
+                    "published_at": "2 months ago",
+                    "published_at_date": "2023-08-29T16:55:34.249000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 82,
+                    "total_number_of_photos_by_reviewer": 66,
+                    "reviewer_url": "https://www.google.com/maps/contrib/115642396860508225891/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjU0nhtUlX-L9Eb4UoR0EkJXoDPbRVyV_mPR8LLoqZjpt_M=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Being here to get my new fish tank. I ordered a open top fish tank branded as top fin. It costed me $189 before tax. Filters, temperature controller, oxygen bar, and some more equipment. I spent another $200 on that. $4.99 per each fish. Got 30 fiahes but actually give me 28 fishes. Died 5, I have 23 left in a 40 gal tank.\n\nAfter spending so much money and effort on the new tank, we finally got a well-set fish tank.\n\nPerhaps, I have to get another 20 fish next time.",
+                    "reviewer_name": "Shijun Lu",
+                    "rating": 5,
+                    "review_text": "Being here to get my new fish tank. I ordered a open top fish tank branded as top fin. It costed me $189 before tax. Filters, temperature controller, oxygen bar, and some more equipment. I spent another $200 on that. $4.99 per each fish. Got 30 fiahes but actually give me 28 fishes. Died 5, I have 23 left in a 40 gal tank.\n\nAfter spending so much money and effort on the new tank, we finally got a well-set fish tank.\n\nPerhaps, I have to get another 20 fish next time.",
+                    "published_at": "9 months ago",
+                    "published_at_date": "2023-02-12T22:40:36.494000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 25,
+                    "total_number_of_photos_by_reviewer": 102,
+                    "reviewer_url": "https://www.google.com/maps/contrib/117410563085675074400/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjV_O-dloJVdLb5hdpAQh6UoeaEtJrFAwQg8JcAq3SUO9Qk=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipMLCmlc72KFDii1eBPo6JzVfZPbHGFSDFdb-Znd=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMfwZ37umV9EPUH1xNtWxp9b5ssY-n89qqocrZ-=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "I love this store! Every time I go the staff is so friendly and helpful. I definitely one of my favorite pet stores because of the great customer service and great finds!",
+                    "reviewer_name": "MaFer",
+                    "rating": 5,
+                    "review_text": "I love this store! Every time I go the staff is so friendly and helpful. I definitely one of my favorite pet stores because of the great customer service and great finds!",
+                    "published_at": "2 weeks ago",
+                    "published_at_date": "2023-11-10T00:07:15.228000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 189,
+                    "total_number_of_photos_by_reviewer": 208,
+                    "reviewer_url": "https://www.google.com/maps/contrib/104372120102101037927/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLZ20xzpL3GqdKqHJzWL0MO1HNgcXa1lsXSCsntOoHiWBs=s120-c-rp-mo-ba5-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJMfBkIadvhlQROWsTynLtg44",
+            "name": "PetSmart",
+            "description": "Chain featuring a range of pets, supplies & food (most offer grooming, boarding & other services).",
+            "reviews": 230,
+            "website": "https://www.petsmart.ca/stores/ca/bc/west-vancouver-store3188.html%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgoogle-my-business",
+            "owner": {
+                "id": "103978296838249448862",
+                "name": "PetSmart (Owner)",
+                "link": "https://www.google.com/maps/contrib/103978296838249448862"
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMppru4ttZcAIn5qWfW4hu_-5zOkMjcyAam7DQX=w408-h725-k-no",
+            "main_category": "Pet supply store",
+            "categories": [
+                "Pet supply store"
+            ],
+            "rating": 4.1,
+            "workday_timing": "9 a.m.-9 p.m.",
+            "closed_on": [],
+            "phone": "(604) 925-0236",
+            "address": "PetSmart, 895 Park Royal N, West Vancouver, BC V7T 1J2",
+            "review_keywords": [
+                {
+                    "keyword": "fish",
+                    "count": 12
+                },
+                {
+                    "keyword": "food",
+                    "count": 12
+                },
+                {
+                    "keyword": "price",
+                    "count": 9
+                },
+                {
+                    "keyword": "grooming",
+                    "count": 7
+                },
+                {
+                    "keyword": "sell",
+                    "count": 6
+                },
+                {
+                    "keyword": "toys",
+                    "count": 5
+                },
+                {
+                    "keyword": "tank",
+                    "count": 4
+                },
+                {
+                    "keyword": "training",
+                    "count": 4
+                },
+                {
+                    "keyword": "cents",
+                    "count": 3
+                },
+                {
+                    "keyword": "behaviour",
+                    "count": 3
+                }
+            ],
+            "link": "https://www.google.com/maps/place/PetSmart/data=!4m7!3m6!1s0x54866fa72164f031:0x8e83ed72ca136b39!8m2!3d49.3278976!4d-123.1400487!16s%2Fg%2F11fflxl8_d!19sChIJMfBkIadvhlQROWsTynLtg44?authuser=0&hl=en&rclk=1",
+            "status": "Closed  Opens 9 a.m.",
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 29,
+                "2": 5,
+                "3": 11,
+                "4": 54,
+                "5": 131
+            },
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJMfBkIadvhlQROWsTynLtg44&q=PetSmart&authuser=0&hl=en&gl=CA",
+            "coordinates": {
+                "latitude": 49.3278976,
+                "longitude": -123.1400487
+            },
+            "plus_code": "8VH5+5X West Vancouver, British Columbia",
+            "detailed_address": {
+                "ward": null,
+                "street": "895 Park Royal N",
+                "city": "West Vancouver",
+                "postal_code": "V7T 1J2",
+                "state": "British Columbia",
+                "country_code": "CA"
+            },
+            "time_zone": "America/Vancouver",
+            "cid": "10269312652607187769",
+            "data_id": "0x54866fa72164f031:0x8e83ed72ca136b39",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [
+                {
+                    "id": "service_options",
+                    "name": "Service options",
+                    "options": [
+                        {
+                            "name": "Curbside pickup",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Delivery",
+                            "enabled": true
+                        },
+                        {
+                            "name": "In-store pickup",
+                            "enabled": true
+                        },
+                        {
+                            "name": "In-store shopping",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "accessibility",
+                    "name": "Accessibility",
+                    "options": [
+                        {
+                            "name": "Wheelchair-accessible entrance",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Wheelchair-accessible parking lot",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "payments",
+                    "name": "Payments",
+                    "options": [
+                        {
+                            "name": "Credit cards",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Debit cards",
+                            "enabled": true
+                        },
+                        {
+                            "name": "NFC mobile payments",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Credit cards",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipMppru4ttZcAIn5qWfW4hu_-5zOkMjcyAam7DQX=w224-h398-k-no"
+                },
+                {
+                    "about": "Inside",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipNqR6c8nPWfXDc6Ww_Na5aVYTrmyG5lW-e6CM2s=w397-h298-k-no"
+                },
+                {
+                    "about": "Videos",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipNfzUCwML9S7d7m-MRyfDiDWQ3lmA2q8GmPEi2u=w224-h398-k-no"
+                },
+                {
+                    "about": "Dog",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipNNBvq-V4uw1BPh2xDLqcz94uv8FajOwaAkq7E8=w446-h298-k-no"
+                },
+                {
+                    "about": "Aquarium",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipPnpsXbeBp8CYozxCpvJcBVacf2yWNCiuQkV4TP=w529-h298-k-no"
+                },
+                {
+                    "about": "Cage",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipM6WWXBV25yequDsJ7bgzJmZUZHCXw5t3iuAg6t=w529-h298-k-no"
+                },
+                {
+                    "about": "By owner",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipNn7mwD7E8bOpbaK-HE5koD7yMoFXUFxd5M0Ix8=w446-h298-k-no"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=VR8hw6fT17_-pQs8HoCE7g&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=0.34402403&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [
+                {
+                    "day": "Monday",
+                    "times": [
+                        "9 a.m.-9 p.m."
+                    ]
+                },
+                {
+                    "day": "Tuesday",
+                    "times": [
+                        "9 a.m.-9 p.m."
+                    ]
+                },
+                {
+                    "day": "Wednesday",
+                    "times": [
+                        "9 a.m.-9 p.m."
+                    ]
+                },
+                {
+                    "day": "Thursday",
+                    "times": [
+                        "9 a.m.-9 p.m."
+                    ]
+                },
+                {
+                    "day": "Friday",
+                    "times": [
+                        "9 a.m.-9 p.m."
+                    ]
+                },
+                {
+                    "day": "Saturday",
+                    "times": [
+                        "9 a.m.-9 p.m."
+                    ]
+                },
+                {
+                    "day": "Sunday",
+                    "times": [
+                        "10 a.m.-7 p.m."
+                    ]
+                }
+            ],
+            "featured_reviews": [
+                {
+                    "review_id": "Worst customer service in a long time...picking up an online order in my wife's name I was questioned and then reprimanded despite having the email receipt. I will do my utmost to avoid returning to this location. In contrast to the employee who decided to reprimand me, another associate Yada was very kind and embarrassed (in my opinion) by her colleague's behaviours.",
+                    "reviewer_name": "Tony Valente",
+                    "rating": 1,
+                    "review_text": "Worst customer service in a long time...picking up an online order in my wife's name I was questioned and then reprimanded despite having the email receipt. I will do my utmost to avoid returning to this location. In contrast to the employee who decided to reprimand me, another associate Yada was very kind and embarrassed (in my opinion) by her colleague's behaviours.",
+                    "published_at": "2 months ago",
+                    "published_at_date": "2023-09-21T02:52:59.159000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 29,
+                    "total_number_of_photos_by_reviewer": 15,
+                    "reviewer_url": "https://www.google.com/maps/contrib/112027409752731456755/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUggdAjlM_kHh1VqmIV_Ki-hyjodMWQ46GmG6x9gGiyIQk=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "I was browsing up front. There was no one else but me and the older Asian guy behind the counter. He was literally standing there letting the phone go off for what must've been minutes blatantly ignoring it.\n\nThe pet grooming is fine though",
+                    "reviewer_name": "C M",
+                    "rating": 2,
+                    "review_text": "I was browsing up front. There was no one else but me and the older Asian guy behind the counter. He was literally standing there letting the phone go off for what must've been minutes blatantly ignoring it.\n\nThe pet grooming is fine though",
+                    "published_at": "a month ago",
+                    "published_at_date": "2023-10-14T20:33:34.634000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 4,
+                    "total_number_of_photos_by_reviewer": 1,
+                    "reviewer_url": "https://www.google.com/maps/contrib/107399101902031193148/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLXd059a9zIb4R_W2lS0lugFj74Z1yyhYpjsV-ZNbjm=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "my experience was absolutely terrible. i am new to the store so i asked an employee where the bird section was. he blatantly ignored me several times before sighing rudely and saying \"what do you want\". i then asked the question AGAIN and he said where it's always been. so then i had to find it myself without any directions. i then went to the fish section and so i wanted to purchase a 90 cent goldfish. i asked the same guy to take out the fish for me so i could take it home. he then gave a whole speech about how the fish is a living thing as if i didnt know that. therefore he accused me of not having the right equipment and the experience to take care of a goldfish, even though i have taken care of several before. he asked me how big my tank was which he had no right to do. This happened yesterday, at around 8 on August 19th. the employee was quite old and was a male with not much hair. if the manager or any worker is seeing this, please it would be very appreciated if you could talk to him or give him a warning as this type of behaviour is unacceptable as his job is to help customers, not accuse and shame.",
+                    "reviewer_name": "Michaelwang656",
+                    "rating": 1,
+                    "review_text": "my experience was absolutely terrible. i am new to the store so i asked an employee where the bird section was. he blatantly ignored me several times before sighing rudely and saying \"what do you want\". i then asked the question AGAIN and he said where it's always been. so then i had to find it myself without any directions. i then went to the fish section and so i wanted to purchase a 90 cent goldfish. i asked the same guy to take out the fish for me so i could take it home. he then gave a whole speech about how the fish is a living thing as if i didnt know that. therefore he accused me of not having the right equipment and the experience to take care of a goldfish, even though i have taken care of several before. he asked me how big my tank was which he had no right to do. This happened yesterday, at around 8 on August 19th. the employee was quite old and was a male with not much hair. if the manager or any worker is seeing this, please it would be very appreciated if you could talk to him or give him a warning as this type of behaviour is unacceptable as his job is to help customers, not accuse and shame.",
+                    "published_at": "3 months ago",
+                    "published_at_date": "2023-08-20T19:12:10.367000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 2,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/105863567336731818113/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUTKL1NPoWNlp34-dVKyiOlHRu0O0-umAExHmN1unT2Pw=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Does anyone work here? Several attempts at services with zero result. Finally got a person on our second visit, knew nothing.  Was told one thing, returned for that thing a week later, was told by someone else, another thing, contrary to the first advice/information and denied the kid her fish. I suppose if all you need is an item and not service,  this place is fine. If you need service or consistency between employees amd informationprovided,  this is not the place for you.",
+                    "reviewer_name": "S R",
+                    "rating": 2,
+                    "review_text": "Does anyone work here? Several attempts at services with zero result. Finally got a person on our second visit, knew nothing.  Was told one thing, returned for that thing a week later, was told by someone else, another thing, contrary to the first advice/information and denied the kid her fish. I suppose if all you need is an item and not service,  this place is fine. If you need service or consistency between employees amd informationprovided,  this is not the place for you.",
+                    "published_at": "2 months ago",
+                    "published_at_date": "2023-09-06T20:11:22.938000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 74,
+                    "total_number_of_photos_by_reviewer": 394,
+                    "reviewer_url": "https://www.google.com/maps/contrib/112911812068795824828/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWHQ3Ya2qO-1aJ0TKEa6DRDxAA1oqD9Hu9kaqjfSodE=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Just all awful people, don't come to this store, shop somewhere else wish I could give half a star.\nTheir customer service is bad just like the cashiers attitude who laughed at me when I told her something and pointed to a direction which wasn't helpful at all.",
+                    "reviewer_name": "Auggie Crossing",
+                    "rating": 1,
+                    "review_text": "Just all awful people, don't come to this store, shop somewhere else wish I could give half a star.\nTheir customer service is bad just like the cashiers attitude who laughed at me when I told her something and pointed to a direction which wasn't helpful at all.",
+                    "published_at": "a month ago",
+                    "published_at_date": "2023-10-03T23:55:51.604000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 7,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/112088155747892828904/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVRPEbXfeGgVGePdUUDd-wBb3Z8HWwzOZamY1VecW-jHA=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "This review is for the groomers. Our dog went to a someone named Emma and she was terrible. The whole process was terrible from check in to check out. Our dog didn't look like he was groomed at al and we were told he barked too much. I won't be going back as there are many other quality groomers in west van.",
+                    "reviewer_name": "Chris K",
+                    "rating": 1,
+                    "review_text": "This review is for the groomers. Our dog went to a someone named Emma and she was terrible. The whole process was terrible from check in to check out. Our dog didn't look like he was groomed at al and we were told he barked too much. I won't be going back as there are many other quality groomers in west van.",
+                    "published_at": "4 months ago",
+                    "published_at_date": "2023-07-18T01:07:16.314000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 2,
+                    "total_number_of_reviews_by_reviewer": 39,
+                    "total_number_of_photos_by_reviewer": 2,
+                    "reviewer_url": "https://www.google.com/maps/contrib/105273562045244033900/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLlQ90183UsY_gC9D4Ji21vUHx6iGb0IFHfK6H3wLDn=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "We were looking for goldfish and there were good variety of them.",
+                    "reviewer_name": "Sassan Rakhshani",
+                    "rating": 5,
+                    "review_text": "We were looking for goldfish and there were good variety of them.",
+                    "published_at": "8 months ago",
+                    "published_at_date": "2023-03-15T02:29:17.881000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 6,
+                    "total_number_of_reviews_by_reviewer": 269,
+                    "total_number_of_photos_by_reviewer": 7063,
+                    "reviewer_url": "https://www.google.com/maps/contrib/117652649310988373905/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXef2eP7mvYOqU9RTt3EAHeFoHS0Ieo65u_2g8HtgBndl8=s120-c-rp-mo-ba7-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipNn7RB6puYVpomzlynjUXLyK6S6r6SOOz8WEItr=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipM6WWXBV25yequDsJ7bgzJmZUZHCXw5t3iuAg6t=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPsUyYrCElSZwFDUwRfObbdGMCXqwksKpi3NfTe=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNuDq1eBUy5bPUcaS6BebnraAUbw9OmgQOyPmPX=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipN76INLLb0mO4OlsH81K11ZHEKXIbV0CAL2h1pi=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOkarg4yyAR1lqQQHny2QfjisBtPulKC8enknAQ=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipP5r0FU4BXftzP6PWOciuEiGqKkA_fUzrrHlxaE=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipM_zye7wz-T55a--hmizNZtEGJkRSpVy9Amq7Su=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipP3yAZF7ouIykzh8oMvnO33QLz_5aSC971ziv82=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipN6Dv9M1ohV34qEUFNV1cP3nKayPFbrgjW3prrL=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipO2Wizh0-ud7tCLBSXAZe71Qv6UVgUSo1wKwT_g=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPnpsXbeBp8CYozxCpvJcBVacf2yWNCiuQkV4TP=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPEQRlSkFaWeNb9A_N0oT9Jl89WSkppFCEmmFFJ=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPi1fbUgPfXEQ_haaiMo6hm4Xkh6kVawujrZZwg=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMppru4ttZcAIn5qWfW4hu_-5zOkMjcyAam7DQX=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNwIYiSoPdhnYhnq2Rp49yKibQUtHLvGgHhnvLY=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOf4PG0WcmYYiB4Ei8zNRDk7ZZ3Arx70xvsSTsO=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipM5KGblIYI2Z8lKDo9_TDOkJaGrSIem2RP-bxov=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipO73AGDyLftbTS4lMFrIQ_D43Of-dllmNu5ONJo=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "Person in charge very rude her name is Mariah or or Matijah very bad customer service my dog had an allergic reaction to a food you guys recommended me even tho i wanted chicken and barley you guys said should be the same chicken and potato and bring the item back if my dog didn't like it. I  returned the item and she said I can only refund 80 percent and she ended up giving me a gift card been a customer since 2018 but will not be purchasing anything from you guys till you guys hire proper staff with training. Very sad",
+                    "reviewer_name": "MrParham619",
+                    "rating": 1,
+                    "review_text": "Person in charge very rude her name is Mariah or or Matijah very bad customer service my dog had an allergic reaction to a food you guys recommended me even tho i wanted chicken and barley you guys said should be the same chicken and potato and bring the item back if my dog didn't like it. I  returned the item and she said I can only refund 80 percent and she ended up giving me a gift card been a customer since 2018 but will not be purchasing anything from you guys till you guys hire proper staff with training. Very sad",
+                    "published_at": "5 months ago",
+                    "published_at_date": "2023-06-10T22:05:31.814000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 6,
+                    "total_number_of_photos_by_reviewer": 1,
+                    "reviewer_url": "https://www.google.com/maps/contrib/109971283384858418075/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjU8ef_8y8Hdk7Sy7QJaz8lm4yIoyG3ggmBnIQU4UzPz=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJORZTphh2hlQRJdNCSeubfsI",
+            "name": "PetSmart",
+            "description": "Chain featuring a range of pets, supplies & food (most offer grooming, boarding & other services).",
+            "reviews": 995,
+            "website": "https://www.petsmart.ca/stores/ca/bc/burnaby-store1477.html%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgoogle-my-business",
+            "owner": {
+                "id": "105301834301848760028",
+                "name": "PetSmart (Owner)",
+                "link": "https://www.google.com/maps/contrib/105301834301848760028"
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOn0hwrO_bW87itYtpYGrCpWsnI7oE7IVyBuljO=w426-h240-k-no",
+            "main_category": "Pet supply store",
+            "categories": [
+                "Pet supply store"
+            ],
+            "rating": 4.3,
+            "workday_timing": "9 a.m.-9 p.m.",
+            "closed_on": [],
+            "phone": "(604) 435-7742",
+            "address": "PetSmart, 5771 Marine Wy, Burnaby, BC V5J 0A6",
+            "review_keywords": [
+                {
+                    "keyword": "grooming",
+                    "count": 36
+                },
+                {
+                    "keyword": "fish",
+                    "count": 25
+                },
+                {
+                    "keyword": "deals",
+                    "count": 14
+                },
+                {
+                    "keyword": "nail",
+                    "count": 13
+                },
+                {
+                    "keyword": "salon",
+                    "count": 11
+                },
+                {
+                    "keyword": "parking",
+                    "count": 10
+                },
+                {
+                    "keyword": "cashier",
+                    "count": 9
+                },
+                {
+                    "keyword": "shelves",
+                    "count": 7
+                },
+                {
+                    "keyword": "aisle",
+                    "count": 5
+                },
+                {
+                    "keyword": "checkout",
+                    "count": 5
+                }
+            ],
+            "link": "https://www.google.com/maps/place/PetSmart/data=!4m7!3m6!1s0x54867618a6531639:0xc27e9beb4942d325!8m2!3d49.200192!4d-122.9769926!16s%2Fg%2F1tkp4nzd!19sChIJORZTphh2hlQRJdNCSeubfsI?authuser=0&hl=en&rclk=1",
+            "status": "Closed  Opens 9 a.m.",
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 44,
+                "2": 26,
+                "3": 85,
+                "4": 317,
+                "5": 523
+            },
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJORZTphh2hlQRJdNCSeubfsI&q=PetSmart&authuser=0&hl=en&gl=CA",
+            "coordinates": {
+                "latitude": 49.200192,
+                "longitude": -122.97699259999999
+            },
+            "plus_code": "622F+36 Burnaby, British Columbia",
+            "detailed_address": {
+                "ward": null,
+                "street": "5771 Marine Wy",
+                "city": "Burnaby",
+                "postal_code": "V5J 0A6",
+                "state": "British Columbia",
+                "country_code": "CA"
+            },
+            "time_zone": "America/Vancouver",
+            "cid": "14014810525272298277",
+            "data_id": "0x54867618a6531639:0xc27e9beb4942d325",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [
+                {
+                    "id": "service_options",
+                    "name": "Service options",
+                    "options": [
+                        {
+                            "name": "Curbside pickup",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Delivery",
+                            "enabled": true
+                        },
+                        {
+                            "name": "In-store pickup",
+                            "enabled": true
+                        },
+                        {
+                            "name": "In-store shopping",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "accessibility",
+                    "name": "Accessibility",
+                    "options": [
+                        {
+                            "name": "Wheelchair-accessible entrance",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Wheelchair-accessible parking lot",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "payments",
+                    "name": "Payments",
+                    "options": [
+                        {
+                            "name": "Credit cards",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Debit cards",
+                            "enabled": true
+                        },
+                        {
+                            "name": "NFC mobile payments",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Credit cards",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipOn0hwrO_bW87itYtpYGrCpWsnI7oE7IVyBuljO=w529-h298-k-no"
+                },
+                {
+                    "about": "Latest",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipMXyZU8qmrS9BzwoYjck0IjfvPeI-7GrxsJPiFB=w238-h298-k-no"
+                },
+                {
+                    "about": "Videos",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipOAkcCYjBXgQVVjO627juyuazTXFuqKtkzXAZxM=w224-h398-k-no"
+                },
+                {
+                    "about": "Inside",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipNnVS3CWzUhYY5CpYD__6qsyvKPs2Iu3X3uqzW2=w224-h298-k-no"
+                },
+                {
+                    "about": "Dog",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipPrt9ysvCfpq8_hsqLh8ANuSf_JVEbXw0HJIFgo=w224-h298-k-no"
+                },
+                {
+                    "about": "Cat",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipOFOgMnHnSI-GV8RR_fbzqdlZt5dDVngy6hDX4t=w224-h336-k-no"
+                },
+                {
+                    "about": "Aquarium",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipPpKI7O7IHw2dt02NbRK_TSfQm9pMDC7vGsBZf3=w529-h298-k-no"
+                },
+                {
+                    "about": "By owner",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipNLBrt3v_5xAqwhX5ojRsTkkTv6k60DQoyzS_TM=w446-h298-k-no"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=dIQSbKREGzXbZonNeMqtwQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=42.674232&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [
+                {
+                    "day": "Monday",
+                    "times": [
+                        "9 a.m.-9 p.m."
+                    ]
+                },
+                {
+                    "day": "Tuesday",
+                    "times": [
+                        "9 a.m.-9 p.m."
+                    ]
+                },
+                {
+                    "day": "Wednesday",
+                    "times": [
+                        "9 a.m.-9 p.m."
+                    ]
+                },
+                {
+                    "day": "Thursday",
+                    "times": [
+                        "9 a.m.-9 p.m."
+                    ]
+                },
+                {
+                    "day": "Friday",
+                    "times": [
+                        "9 a.m.-9 p.m."
+                    ]
+                },
+                {
+                    "day": "Saturday",
+                    "times": [
+                        "9 a.m.-9 p.m."
+                    ]
+                },
+                {
+                    "day": "Sunday",
+                    "times": [
+                        "10 a.m.-7 p.m."
+                    ]
+                }
+            ],
+            "featured_reviews": [
+                {
+                    "review_id": "Our favourite pet smart to go to the grooming team is awesome, Andreanne did an amazing job. Thanks!",
+                    "reviewer_name": "Ravi Khanna",
+                    "rating": 5,
+                    "review_text": "Our favourite pet smart to go to the grooming team is awesome, Andreanne did an amazing job. Thanks!",
+                    "published_at": "a week ago",
+                    "published_at_date": "2023-11-19T00:47:58.948000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 53,
+                    "total_number_of_photos_by_reviewer": 20,
+                    "reviewer_url": "https://www.google.com/maps/contrib/100461258666410653798/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVmHGqLkhaDOPKvzjktsfIOJ0_NunV6QU7lZg9JE4tIjX8r=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipMXyZU8qmrS9BzwoYjck0IjfvPeI-7GrxsJPiFB=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "As with any business, some employees are great and some not so great, but the salon staff here are amazing. Ever since Stephanie took over as salon manager, the salon has become SO MUCH BETTER. My dog is reactive and Stephanie is the ONLY one she let's groom her - which she always does an amazing job!\n\nIt's obvious that PetSmart as a corporation cares more about money and their customers than it does it's employees, but I can tell that the salon's priority is taking care of the pets and making them feel comfortable. I can't imagine having to deal with reactive dogs and rude customers everyday, but they do an amazing job.",
+                    "reviewer_name": "Sarah Emily M",
+                    "rating": 5,
+                    "review_text": "As with any business, some employees are great and some not so great, but the salon staff here are amazing. Ever since Stephanie took over as salon manager, the salon has become SO MUCH BETTER. My dog is reactive and Stephanie is the ONLY one she let's groom her - which she always does an amazing job!\n\nIt's obvious that PetSmart as a corporation cares more about money and their customers than it does it's employees, but I can tell that the salon's priority is taking care of the pets and making them feel comfortable. I can't imagine having to deal with reactive dogs and rude customers everyday, but they do an amazing job.",
+                    "published_at": "2 weeks ago",
+                    "published_at_date": "2023-11-08T23:17:35.906000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 3,
+                    "total_number_of_reviews_by_reviewer": 4,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/109702329833426075854/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUn23CuwcOzi9I_kdizyylMBICR5RMyq53Y1E9IC5iArIE=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Harley, Megan, Emily & Stephanie. Are awesome! My little guy always looks cute. Here's a pic, new hairdo, new bed, new food. The only thing, he is camera shy. Haha.\nJust a thought. Rbc is gone from the New Westminister Skytrain Station.  Lotsa room for PETSMART to take over. Would be great! So many of us, would find it more convenient.",
+                    "reviewer_name": "Melanie Campbell",
+                    "rating": 5,
+                    "review_text": "Harley, Megan, Emily & Stephanie. Are awesome! My little guy always looks cute. Here's a pic, new hairdo, new bed, new food. The only thing, he is camera shy. Haha.\nJust a thought. Rbc is gone from the New Westminister Skytrain Station.  Lotsa room for PETSMART to take over. Would be great! So many of us, would find it more convenient.",
+                    "published_at": "3 months ago",
+                    "published_at_date": "2023-08-06T21:18:12.898000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 9,
+                    "total_number_of_photos_by_reviewer": 1,
+                    "reviewer_url": "https://www.google.com/maps/contrib/108777299942561345958/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVSD_4qccYSCzfNKwNI72vIjYSZY4wUf1oyGvF-SM3aNlo=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipNXFaSZkeVb_2QR_k21VEWX82a6lPEfjT1DxsMh=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "The staff were all wonderful and so helpful. It was a treat to meet so many happy dogs shopping with their owners too!",
+                    "reviewer_name": "Jessica Roberts-Farina",
+                    "rating": 5,
+                    "review_text": "The staff were all wonderful and so helpful. It was a treat to meet so many happy dogs shopping with their owners too!",
+                    "published_at": "a week ago",
+                    "published_at_date": "2023-11-15T00:18:23.080000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 14,
+                    "total_number_of_photos_by_reviewer": 1,
+                    "reviewer_url": "https://www.google.com/maps/contrib/117267306550350773782/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocK9meeaAKFSgt3RkkckGybTI6k3cm86ItbbbrPgUnWJ=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Petsmart...yeah right! More like pet dumb and dumber.  I am NEVER coming back to have my dogs groomed here and I wished I had read the reviews before handing my 4 legged babies over and spending over $880. My dogs and I have been both dramatized, abused and then made wronged for patronizing their business and asking for the services we paid for.   I should of just gone somewhere else as I feel so stupid for being taken as a fool for they basically stole money from us for services they never rendered. When I asked them to do a redo or give me store credit, the staff gang up on you, surround you and then threaten to call the police and escort you out. These staff and Especially that passive aggressive grooming Manager Stephanie to deliver very little for what you pay for and then aggressively verbally attack you to keep the money.\n\nI had to come in with friends in a following visit and video record to recapture Stephanies behaviour and get her name. If this platform allowed video I would just post it and let Stephanie behaviour do all the describing for you.  In conclusion, this business will be going out of business soon if this is how this business operator conducts herself...as a desperate, desperate ghetto trashy individual that is willing to tarnish the reputation of petsmart for the money. Run! Away Do not trust her! As This is an absolutely horrible bully that has to resort to This outright criminal behaviour.\n\nThis store is not very busy and pretty quiet, so there should be no reason for the long waits for service or the terrible service. Maybe because they are so horrible, people do not come back and the store is mostly empty of business traffic. Moreover, their inventory is stale and overpriced by 15% to 35%, and their inventory can easily be found on Amazon but a lot cheaper and in better condition. One would also get treated far better down the hill at Bosleys or Tisols.",
+                    "reviewer_name": "Sam Passini",
+                    "rating": 1,
+                    "review_text": "Petsmart...yeah right! More like pet dumb and dumber.  I am NEVER coming back to have my dogs groomed here and I wished I had read the reviews before handing my 4 legged babies over and spending over $880. My dogs and I have been both dramatized, abused and then made wronged for patronizing their business and asking for the services we paid for.   I should of just gone somewhere else as I feel so stupid for being taken as a fool for they basically stole money from us for services they never rendered. When I asked them to do a redo or give me store credit, the staff gang up on you, surround you and then threaten to call the police and escort you out. These staff and Especially that passive aggressive grooming Manager Stephanie to deliver very little for what you pay for and then aggressively verbally attack you to keep the money.\n\nI had to come in with friends in a following visit and video record to recapture Stephanies behaviour and get her name. If this platform allowed video I would just post it and let Stephanie behaviour do all the describing for you.  In conclusion, this business will be going out of business soon if this is how this business operator conducts herself...as a desperate, desperate ghetto trashy individual that is willing to tarnish the reputation of petsmart for the money. Run! Away Do not trust her! As This is an absolutely horrible bully that has to resort to This outright criminal behaviour.\n\nThis store is not very busy and pretty quiet, so there should be no reason for the long waits for service or the terrible service. Maybe because they are so horrible, people do not come back and the store is mostly empty of business traffic. Moreover, their inventory is stale and overpriced by 15% to 35%, and their inventory can easily be found on Amazon but a lot cheaper and in better condition. One would also get treated far better down the hill at Bosleys or Tisols.",
+                    "published_at": "a week ago",
+                    "published_at_date": "2023-11-18T09:03:33.893000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 2,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/105933096857826504062/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKZ0cdqMD2ZZHNHpOAHGU8afVtm-affJEjisT31wqPT=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "I usually come in to get to know all the pets before i commit.  These last few visits i noticed that this store is slipping on some very key issues that they really need to improve.\n\nI would rate my last 3 visits as:  Horrible customer service!, rude, and UNsupportive staff members more interested in carrying on in very heated arguments  between themselves or customers with valid complaints. That Groomer named Stephanie is very rude to customers and her co-workers. Staff around her seemed very tired of her abusive & toxic ways. I feel sorry for co-workers. STEPHANIE ONLY CARES ABOUT MONEY, and not how she treats people.  I think this Stephanie brings on the drama with her bad business practices.\n\nI did not enjoy my last 3 visits and just left each time. I do not think i will be buying my next family pet from this store even though I live& work 5 minutes away.  I really felt a review had to be written to prevent any future escalations as it seem it was about to turn violent with all the hostility between dogs and people. I would stay away from this chaotic store.",
+                    "reviewer_name": "TRADING HAPPI",
+                    "rating": 1,
+                    "review_text": "I usually come in to get to know all the pets before i commit.  These last few visits i noticed that this store is slipping on some very key issues that they really need to improve.\n\nI would rate my last 3 visits as:  Horrible customer service!, rude, and UNsupportive staff members more interested in carrying on in very heated arguments  between themselves or customers with valid complaints. That Groomer named Stephanie is very rude to customers and her co-workers. Staff around her seemed very tired of her abusive & toxic ways. I feel sorry for co-workers. STEPHANIE ONLY CARES ABOUT MONEY, and not how she treats people.  I think this Stephanie brings on the drama with her bad business practices.\n\nI did not enjoy my last 3 visits and just left each time. I do not think i will be buying my next family pet from this store even though I live& work 5 minutes away.  I really felt a review had to be written to prevent any future escalations as it seem it was about to turn violent with all the hostility between dogs and people. I would stay away from this chaotic store.",
+                    "published_at": "3 weeks ago",
+                    "published_at_date": "2023-11-04T10:48:18.520000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 3,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/115727231192794340451/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocI2GgD6TglW0O0zmv-_IUgG1jN0dvUtzDHTecq_BJXr=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "I recently took my furry companion to PetSmart for a grooming session, and I'm delighted to share my positive experience. The dog grooming service provided by PetSmart was exceptional in every way, from the care given to my pet to the professionalism of the groomers.\n\nUpon arrival, the staff welcomed us with a warm and friendly demeanor, immediately putting my dog at ease. The groomers demonstrated a genuine love for animals and a deep understanding of different breeds and their specific grooming needs.",
+                    "reviewer_name": "AMRIT DHILLON",
+                    "rating": 5,
+                    "review_text": "I recently took my furry companion to PetSmart for a grooming session, and I'm delighted to share my positive experience. The dog grooming service provided by PetSmart was exceptional in every way, from the care given to my pet to the professionalism of the groomers.\n\nUpon arrival, the staff welcomed us with a warm and friendly demeanor, immediately putting my dog at ease. The groomers demonstrated a genuine love for animals and a deep understanding of different breeds and their specific grooming needs.",
+                    "published_at": "3 months ago",
+                    "published_at_date": "2023-08-12T21:56:56.246000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 2,
+                    "total_number_of_reviews_by_reviewer": 54,
+                    "total_number_of_photos_by_reviewer": 10,
+                    "reviewer_url": "https://www.google.com/maps/contrib/110474113584394172088/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVRJSgS8mUemsLi13owCqJp0qsz6nsdVAsmrTW3Ry-3wJVc=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Very friendly knowledgeable staff.  Bought a dwarf hamster into our family and did not realize it's an escape artist.  Upgraded the cage and the staff was very friendly and helpful in exchanging the cage.  Went back to get more goods and staff have been very helpful",
+                    "reviewer_name": "James Yang",
+                    "rating": 5,
+                    "review_text": "Very friendly knowledgeable staff.  Bought a dwarf hamster into our family and did not realize it's an escape artist.  Upgraded the cage and the staff was very friendly and helpful in exchanging the cage.  Went back to get more goods and staff have been very helpful",
+                    "published_at": "2 weeks ago",
+                    "published_at_date": "2023-11-14T00:20:19.733000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 2,
+                    "total_number_of_reviews_by_reviewer": 114,
+                    "total_number_of_photos_by_reviewer": 80,
+                    "reviewer_url": "https://www.google.com/maps/contrib/113543262943291757051/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUJeWLzGKD3OPPUiWOpzAQaXGZ46QJCQ5_1V912uPiMhdA=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJtz6M1152hlQRMwTq-OZmp1E",
+            "name": "PetSmart",
+            "description": "Chain featuring a range of pets, supplies & food (most offer grooming, boarding & other services).",
+            "reviews": 1026,
+            "website": "https://www.petsmart.ca/stores/ca/bc/burnaby-store2411.html%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dgoogle-my-business",
+            "owner": {
+                "id": "102770322055480010564",
+                "name": "PetSmart (Owner)",
+                "link": "https://www.google.com/maps/contrib/102770322055480010564"
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNtzUrwdnN7mLBDbOpOzI8ooBflee7vmEqt-cBe=w426-h240-k-no",
+            "main_category": "Pet supply store",
+            "categories": [
+                "Pet supply store"
+            ],
+            "rating": 4.1,
+            "workday_timing": "9 a.m.-9 p.m.",
+            "closed_on": [],
+            "phone": "(604) 454-1360",
+            "address": "PetSmart, 6200 McKay Ave #100, Burnaby, BC V5H 4L8",
+            "review_keywords": [
+                {
+                    "keyword": "hamsters",
+                    "count": 15
+                },
+                {
+                    "keyword": "grooming",
+                    "count": 14
+                },
+                {
+                    "keyword": "cashier",
+                    "count": 12
+                },
+                {
+                    "keyword": "training",
+                    "count": 11
+                },
+                {
+                    "keyword": "job",
+                    "count": 11
+                },
+                {
+                    "keyword": "betta",
+                    "count": 10
+                },
+                {
+                    "keyword": "adoption",
+                    "count": 10
+                },
+                {
+                    "keyword": "salon",
+                    "count": 9
+                },
+                {
+                    "keyword": "trim",
+                    "count": 6
+                },
+                {
+                    "keyword": "stocked",
+                    "count": 5
+                }
+            ],
+            "link": "https://www.google.com/maps/place/PetSmart/data=!4m7!3m6!1s0x5486765ed78c3eb7:0x51a766e6f8ea0433!8m2!3d49.226975!4d-123.0035399!16s%2Fg%2F11bwqbm7fc!19sChIJtz6M1152hlQRMwTq-OZmp1E?authuser=0&hl=en&rclk=1",
+            "status": "Closed  Opens 9 a.m.",
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 68,
+                "2": 43,
+                "3": 119,
+                "4": 292,
+                "5": 504
+            },
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJtz6M1152hlQRMwTq-OZmp1E&q=PetSmart&authuser=0&hl=en&gl=CA",
+            "coordinates": {
+                "latitude": 49.226974999999996,
+                "longitude": -123.00353989999999
+            },
+            "plus_code": "6XGW+QH Burnaby, British Columbia",
+            "detailed_address": {
+                "ward": "Metrotown",
+                "street": "6200 McKay Ave #100",
+                "city": "Burnaby",
+                "postal_code": "V5H 4L8",
+                "state": "British Columbia",
+                "country_code": "CA"
+            },
+            "time_zone": "America/Vancouver",
+            "cid": "5883784580387439667",
+            "data_id": "0x5486765ed78c3eb7:0x51a766e6f8ea0433",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [
+                {
+                    "id": "service_options",
+                    "name": "Service options",
+                    "options": [
+                        {
+                            "name": "Curbside pickup",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Delivery",
+                            "enabled": true
+                        },
+                        {
+                            "name": "In-store pickup",
+                            "enabled": true
+                        },
+                        {
+                            "name": "In-store shopping",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "accessibility",
+                    "name": "Accessibility",
+                    "options": [
+                        {
+                            "name": "Wheelchair-accessible elevator",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Wheelchair-accessible entrance",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Wheelchair-accessible parking lot",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "payments",
+                    "name": "Payments",
+                    "options": [
+                        {
+                            "name": "Credit cards",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Debit cards",
+                            "enabled": true
+                        },
+                        {
+                            "name": "NFC mobile payments",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Credit cards",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipNtzUrwdnN7mLBDbOpOzI8ooBflee7vmEqt-cBe=w529-h298-k-no"
+                },
+                {
+                    "about": "Latest",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipNDOreM6UwvpemPBqDaFqaEGX4lq0mVvs4aY5ir=w224-h298-k-no"
+                },
+                {
+                    "about": "Videos",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipPSskWwi0WjXtpCC4Uejz5HzqyepmrjDuHenmyA=w224-h398-k-no"
+                },
+                {
+                    "about": "Inside",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipO0ttA3VQoC2lg5aJPN2eh04osGNRSiR9xwJ_-G=w224-h398-k-no"
+                },
+                {
+                    "about": "Dog",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipN3ab56n7v4SoFOTdd7r2zwyRDbZtA45S6jFqjS=w224-h298-k-no"
+                },
+                {
+                    "about": "Aquarium",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipMJN31ESiGvh-FnlYxWhRmRrJXjUm7dCl_-Sc09=w224-h298-k-no"
+                },
+                {
+                    "about": "Pet Supply",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipO7oG5cG3t93NKm9ExLfdHe9bKOMPKr3laMkJSQ=w529-h298-k-no"
+                },
+                {
+                    "about": "By owner",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipMwSEdyS_C278nB92ZwwHCSgE_R7urDnFnwp0sB=w446-h298-k-no"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=RGP1N7FuUzKfTGRspaL6Dw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=145.79277&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [
+                {
+                    "day": "Monday",
+                    "times": [
+                        "9 a.m.-9 p.m."
+                    ]
+                },
+                {
+                    "day": "Tuesday",
+                    "times": [
+                        "9 a.m.-9 p.m."
+                    ]
+                },
+                {
+                    "day": "Wednesday",
+                    "times": [
+                        "9 a.m.-9 p.m."
+                    ]
+                },
+                {
+                    "day": "Thursday",
+                    "times": [
+                        "9 a.m.-9 p.m."
+                    ]
+                },
+                {
+                    "day": "Friday",
+                    "times": [
+                        "9 a.m.-9 p.m."
+                    ]
+                },
+                {
+                    "day": "Saturday",
+                    "times": [
+                        "9 a.m.-9 p.m."
+                    ]
+                },
+                {
+                    "day": "Sunday",
+                    "times": [
+                        "10 a.m.-7 p.m."
+                    ]
+                }
+            ],
+            "featured_reviews": [
+                {
+                    "review_id": "This is the best pet smart location in the lower mainland, because of the staff! They know their stuff and always have time to exchange their wisdom and information. There's a few staff there that I'm so grateful for because pet smart as a whole doesn't take super good care of their small animals , fish/reptiles, but the staff care!  Shout out to one, Sophie and Tess! Thanks for taking good care of them babies!\nEdit: pic is my beardie that I didn't get from PetSmart, wouldn't recommend getting dragons from there.",
+                    "reviewer_name": "Shannon",
+                    "rating": 4,
+                    "review_text": "This is the best pet smart location in the lower mainland, because of the staff! They know their stuff and always have time to exchange their wisdom and information. There's a few staff there that I'm so grateful for because pet smart as a whole doesn't take super good care of their small animals , fish/reptiles, but the staff care!  Shout out to one, Sophie and Tess! Thanks for taking good care of them babies!\nEdit: pic is my beardie that I didn't get from PetSmart, wouldn't recommend getting dragons from there.",
+                    "published_at": "a week ago",
+                    "published_at_date": "2023-11-14T15:40:56.818000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 2,
+                    "total_number_of_reviews_by_reviewer": 52,
+                    "total_number_of_photos_by_reviewer": 16,
+                    "reviewer_url": "https://www.google.com/maps/contrib/103145139867487598086/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLOrcCmeZjpXsnWN-f-ZGSHoHaUO3lPcR9v0wgGGi61=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipMiCxEdYFyJkrfaF_gHZdPtiV2TWBaLqPrO2kXb=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPGzgK5vmUUdf-aGH6eKGA9VG9_ss42fNX_NHqe=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMtd0uHsbrUOYD6pIvSjdCIzCtEEsayqHJU_7AX=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "Awesome pet supply store!\nGot things that our pet needed and things we wanted to give it (it probably wouldn't care)\n\nSpacious and have various choices\n\nTheir betta fish are so beautiful!",
+                    "reviewer_name": "HJ Marshall",
+                    "rating": 4,
+                    "review_text": "Awesome pet supply store!\nGot things that our pet needed and things we wanted to give it (it probably wouldn't care)\n\nSpacious and have various choices\n\nTheir betta fish are so beautiful!",
+                    "published_at": "a month ago",
+                    "published_at_date": "2023-10-08T02:02:37.324000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 211,
+                    "total_number_of_photos_by_reviewer": 2318,
+                    "reviewer_url": "https://www.google.com/maps/contrib/113860020668252317398/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUsSqCXh27gnS32w6q-txmq8c6hbW2gnXr4F65ScOcScNt4=s120-c-rp-mo-ba6-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipNFY9JpvSD1SjxuYRGEb0Y1PbroyTzOGP_R8M01=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOeqWg7dyYCehPkBtSGcJAiNhDyeAraOBNKOgnF=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipO5FL76EgxtDwHEHdYSA5HWjVj7kKP8Rxj4yFqh=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMAZF9e3SiQ4OiJsT5YPlrWp1WybP8AJtn6V7iE=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOnpn0czflDWFE3lwQKCn9RtTENUMx8-CjObtPl=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPik9dIRLClgxdQ_rnanuagKHH33WXPLz7Af-y7=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOuhN5ExzWaa4xjnLMZf-9MZzOwziG3Z1R_Bbv7=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipO99IXPHX6pAk5tkMGKbDA6b4mYd5MDDgsNOyH1=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOkCMKitu9yv_06gkKo3rhgBy1DSzLFxGT0yx-c=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNqdVlYaz47J8VpB4VkY_ymV6M_Q9dP-QZ_sBdz=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipO2WpCZlgNwJQ3QJ7x_-uUxWQ4vdokyOXKMps7b=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPNMDpTqKW4L9XjKG4A-uhBw5xauyCkVcFgzH0w=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNxvhuj8EC4BlEeGuOZLVg-jbjhyruez6Q0cejq=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOH0Ow5X73TnJPqdVn91HTbXI1q5GL6WcwtBdaJ=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPYb-nUgWpx6YizQyOKsBYV-zpK_-0weLK-Fltk=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMCg7wYcfRGK9lwh2Co87p7IxEMbPSwxLFscIBT=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPeQ3Wg5Zczyic6F2T0ebi2ALfGkwKyr8FY-Qdf=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPXDyGnWQZCPQFfPff1RDLre7IU4dqXBEqw7gGN=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOScdCv17lFYNN-hcqgbP2CqeAayiI43PA5FHs9=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNGy5FheBM5XWW0ii98530k-IzjQurgKK-ynRJf=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPbiccW-bzQ-CWc1uP-_SthcCEuuKf6wliM8diw=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMTIsXVqBZUAKWxU6WTQo-B4ftF-K7-MhC-undr=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "Great customer service, Sophie was an amazing help with advice and suggestions on what kind of a terrarium to purchase, how to decorate it and keep the eco system habitable.\nSophie was very busy running the store while short staffed although they still found the time to go through everything with me in detail and help me pick out the best items.\nWhatever you are paying them, it's not enough, give them a raise.",
+                    "reviewer_name": "Nixie Andriel",
+                    "rating": 5,
+                    "review_text": "Great customer service, Sophie was an amazing help with advice and suggestions on what kind of a terrarium to purchase, how to decorate it and keep the eco system habitable.\nSophie was very busy running the store while short staffed although they still found the time to go through everything with me in detail and help me pick out the best items.\nWhatever you are paying them, it's not enough, give them a raise.",
+                    "published_at": "2 weeks ago",
+                    "published_at_date": "2023-11-13T02:45:22.781000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/103229751169149953011/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWSrbuteorRqhsZQxVjTsNFEYV2PLUa3IH5Ny8d4pcIHA=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Amazing and a friendly bunch of  grooming staff. Brought in my 15 month old Samoyed for a full grooming the 1st time and he looked and smelled fabulous! I've been back a 2nd time already. Great job! Thank you",
+                    "reviewer_name": "Raymond J",
+                    "rating": 5,
+                    "review_text": "Amazing and a friendly bunch of  grooming staff. Brought in my 15 month old Samoyed for a full grooming the 1st time and he looked and smelled fabulous! I've been back a 2nd time already. Great job! Thank you",
+                    "published_at": "a year ago",
+                    "published_at_date": "2022-11-16T16:17:58.408000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 3,
+                    "total_number_of_reviews_by_reviewer": 92,
+                    "total_number_of_photos_by_reviewer": 110,
+                    "reviewer_url": "https://www.google.com/maps/contrib/110119046115705009908/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLCvZTWksuDpD2JO-mEGbXcmB8G-z45JLEUPE06DPA=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipPBF80hId6I2C-da3b-QW5S39GZ3cLo-15xpYA=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipM_edNPB1iR3FFmll4_w-f2UZnUoNPhuBQRJ_A=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPVWuIBtR_Ip02aKERWK5SxCIe-VIna1Kpd9SU=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMZEBF7y5LfDnaDkECgqH56O-6YxLIfAAk5rZw=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "I can responsibly say I've had many pleasant experiences at this store but definitely not today. When I took my dog in for grooming I showed proof of vaccines as I did last time and then two of the staff actually said that my vaccine certificate was invalid. The funny thing is that with this certificate I was able to book my dog in for a training session as well as all the previous grooming services. It's hard not to suspect that they are reducing their workload in this way. The staff have always been friendly and caring perhaps this store is starting to lower their standards. Maybe they shouldn't be called petsmart but staff smart because it's obvious they are missing some smart staff.",
+                    "reviewer_name": "Warren Helmer",
+                    "rating": 1,
+                    "review_text": "I can responsibly say I've had many pleasant experiences at this store but definitely not today. When I took my dog in for grooming I showed proof of vaccines as I did last time and then two of the staff actually said that my vaccine certificate was invalid. The funny thing is that with this certificate I was able to book my dog in for a training session as well as all the previous grooming services. It's hard not to suspect that they are reducing their workload in this way. The staff have always been friendly and caring perhaps this store is starting to lower their standards. Maybe they shouldn't be called petsmart but staff smart because it's obvious they are missing some smart staff.",
+                    "published_at": "a month ago",
+                    "published_at_date": "2023-10-15T22:16:08.077000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 3,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/114104329233925532278/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLWJy_wW4LDByEYQq_qAQ-1Ncj3Clq0FZo3rzjE-8Lq=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Under normal conditions, I would not leave a review. However, the circumstances at Petsmart were so abhorrent that I feel the need to warn consumers. The treatment of the fish is very simply, inexcusable, and the standard of care fails to meet any humane criteria. In many of the tanks, particularly the smaller species such as guppies and tetras, bodies were littering the gravel floor, decorating the waters surface. They were in there for so long, a milky surface had formed on the surface, and white mold surrounded them. Some bodies simply decomposed, the skeleton visible.\nIn the aquatic fauna section, the leaves that remained either were yellowed and melting away. Some had tiny white dots, a possible sign of disease? There was only one row that was healthy.\n\nI am both horrified and disappointed by Petsmart's treatment of their animals and encourage other buyers to think twice before supporting a business which does not prioritize the wellbeing of animals.",
+                    "reviewer_name": "Selina Zhou",
+                    "rating": 1,
+                    "review_text": "Under normal conditions, I would not leave a review. However, the circumstances at Petsmart were so abhorrent that I feel the need to warn consumers. The treatment of the fish is very simply, inexcusable, and the standard of care fails to meet any humane criteria. In many of the tanks, particularly the smaller species such as guppies and tetras, bodies were littering the gravel floor, decorating the waters surface. They were in there for so long, a milky surface had formed on the surface, and white mold surrounded them. Some bodies simply decomposed, the skeleton visible.\nIn the aquatic fauna section, the leaves that remained either were yellowed and melting away. Some had tiny white dots, a possible sign of disease? There was only one row that was healthy.\n\nI am both horrified and disappointed by Petsmart's treatment of their animals and encourage other buyers to think twice before supporting a business which does not prioritize the wellbeing of animals.",
+                    "published_at": "10 months ago",
+                    "published_at_date": "2023-01-16T08:20:37.676000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 9,
+                    "total_number_of_reviews_by_reviewer": 5,
+                    "total_number_of_photos_by_reviewer": 6,
+                    "reviewer_url": "https://www.google.com/maps/contrib/109298342199967866535/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUKYiRYOzZGJU3ISQ5T51gicYt6Ex3y7HPl29nnbqLdE1E=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipPuWFPMXd_hgg4mj1wooI_IwgZy-NFvtLSgpWIA=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOOYKl24lbrB5RbPrTermd05mfkPMDnK3gJApar=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipP_SD-CM43E1_NQVttoUR5BRt6G5ePKMoeW9NJE=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMJN31ESiGvh-FnlYxWhRmRrJXjUm7dCl_-Sc09=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPLWu132nZXGEzH4W2ThVCYu2UGZrkbvriXkciq=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "Thanks Sarah! LARRY loves his new cut!",
+                    "reviewer_name": "Ravi Khanna",
+                    "rating": 5,
+                    "review_text": "Thanks Sarah! LARRY loves his new cut!",
+                    "published_at": "2 months ago",
+                    "published_at_date": "2023-09-06T00:07:58.679000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 53,
+                    "total_number_of_photos_by_reviewer": 20,
+                    "reviewer_url": "https://www.google.com/maps/contrib/100461258666410653798/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVmHGqLkhaDOPKvzjktsfIOJ0_NunV6QU7lZg9JE4tIjX8r=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipNpNCI-0JxFmq-xf55JHthj1FW01Ff2jSUAFURp=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOyeH_SCEK-0xDWQ_XLDBnhILTfL5N7lIlOyyvW=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMPGkSTa-8JCmLo6bHDMKK8kehshNEUqTkdBAHj=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPREOgxKokp1aDDbzalHb272EZa3m4DZ1rl0V7w=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "After one hour with the groomer, I received a phone call telling me that they did not have the right equipment to finish the job and did not feel comfortable going forward with my dogs haircut. I understand that he was quite matted and that it wasn't going to be an easy cut. We discussed this beforehand and I asked if he was going to be ok. The groomer checked him out and seemed confident enough. I would have preferred for her to tell me maybe look elsewhere before I handed him over. Instead I was told to book an appointment with a vet or another groomer so they could safely finish my poor boys half trimmed body. I was a little bit in shock as I carried him out to my car with big patches of hair falling off of him. There was no clean up or anything. They just stopped shaving halfway through and essentially gave up. The hard part now is finding a last minute place to take him in fix the mess I was left with.\n\nI did enjoy coming here in the past to get my dogs nails trimmed. But after todays grooming experience, I will not be heading back.",
+                    "reviewer_name": "Harvin Boparan",
+                    "rating": 1,
+                    "review_text": "After one hour with the groomer, I received a phone call telling me that they did not have the right equipment to finish the job and did not feel comfortable going forward with my dogs haircut. I understand that he was quite matted and that it wasn't going to be an easy cut. We discussed this beforehand and I asked if he was going to be ok. The groomer checked him out and seemed confident enough. I would have preferred for her to tell me maybe look elsewhere before I handed him over. Instead I was told to book an appointment with a vet or another groomer so they could safely finish my poor boys half trimmed body. I was a little bit in shock as I carried him out to my car with big patches of hair falling off of him. There was no clean up or anything. They just stopped shaving halfway through and essentially gave up. The hard part now is finding a last minute place to take him in fix the mess I was left with.\n\nI did enjoy coming here in the past to get my dogs nails trimmed. But after todays grooming experience, I will not be heading back.",
+                    "published_at": "a year ago",
+                    "published_at_date": "2022-03-31T23:10:00.357000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 6,
+                    "total_number_of_reviews_by_reviewer": 5,
+                    "total_number_of_photos_by_reviewer": 3,
+                    "reviewer_url": "https://www.google.com/maps/contrib/108935389128926696794/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKS1HZtwLZjqXV2c6o_M2ZLelf4ODo1GfWcxM7rSDCy=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipN3ab56n7v4SoFOTdd7r2zwyRDbZtA45S6jFqjS=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipN4xWqm1PBGlCbxtfSY5zpdeg_Df2fvnk8k7vIE=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMyX_N3YwKJLLXW1v1TkLqk3O8gvi-VphbEiKDA=w150-h150-k-no-p"
+                    ]
+                }
+            ],
+            "is_spending_on_ads": false
+        }
+    ]
+}

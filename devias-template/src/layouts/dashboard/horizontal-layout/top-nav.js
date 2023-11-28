@@ -7,7 +7,6 @@ import Stack from '@mui/material/Stack';
 import SvgIcon from '@mui/material/SvgIcon';
 import useMediaQuery from '@mui/material/useMediaQuery';
 import { useTheme } from '@mui/material/styles';
-
 import { Logo } from 'src/components/logo';
 import { RouterLink } from 'src/components/router-link';
 import { Scrollbar } from 'src/components/scrollbar';
@@ -17,7 +16,6 @@ import { paths } from 'src/paths';
 import { AccountButton } from '../account-button';
 import { ContactsButton } from '../contacts-button';
 import { LanguageSwitch } from '../language-switch';
-import { NotificationsButton } from '../notifications-button';
 import { TenantSwitch } from '../tenant-switch';
 import { TopNavSection } from './top-nav-section';
 
@@ -219,7 +217,6 @@ export const TopNav = (props) => {
           spacing={2}
         >
           <LanguageSwitch />
-          <NotificationsButton />
           <ContactsButton />
           <AccountButton />
         </Stack>

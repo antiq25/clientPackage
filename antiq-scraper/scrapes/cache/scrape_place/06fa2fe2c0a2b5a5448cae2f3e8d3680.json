@@ -1,0 +1,455 @@
+{
+    "place_id": "ChIJ732Z4AV0kVQRJPWlOtEuN5c",
+    "name": "Walmart Supercenter",
+    "description": null,
+    "reviews": 5309,
+    "website": "https://www.walmart.com/store/3850-tumwater-wa",
+    "owner": {
+        "id": "113724880340889440019",
+        "name": "Walmart Supercenter (Owner)",
+        "link": "https://www.google.com/maps/contrib/113724880340889440019"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMFI2Bqe3k9ChjGsjXSECHjduwK32HdTdBpkFeh=w426-h240-k-no",
+    "main_category": "Department store",
+    "categories": [
+        "Department store",
+        "Bakery",
+        "Clothing store",
+        "Electronics store",
+        "Furniture store",
+        "Grocery store",
+        "Hardware store",
+        "Home goods store",
+        "Sporting goods store",
+        "Toy store"
+    ],
+    "rating": 3.7,
+    "workday_timing": "6 a.m.-11 p.m.",
+    "closed_on": [],
+    "phone": "+1 360-350-6019",
+    "address": "Walmart Supercenter, 5900 Littlerock Rd SW, Tumwater, WA 98512, United States",
+    "review_keywords": [
+        {
+            "keyword": "groceries",
+            "count": 72
+        },
+        {
+            "keyword": "self checkout",
+            "count": 62
+        },
+        {
+            "keyword": "receipt",
+            "count": 55
+        },
+        {
+            "keyword": "employee",
+            "count": 35
+        },
+        {
+            "keyword": "masks",
+            "count": 34
+        },
+        {
+            "keyword": "job",
+            "count": 22
+        },
+        {
+            "keyword": "produce",
+            "count": 18
+        },
+        {
+            "keyword": "stocking",
+            "count": 15
+        },
+        {
+            "keyword": "loss prevention",
+            "count": 9
+        },
+        {
+            "keyword": "coffee creamer",
+            "count": 5
+        }
+    ],
+    "link": "https://www.google.com/maps/place/Walmart+Supercenter/@46.9946403,-122.9192962,17z/data=!3m1!4b1!4m6!3m5!1s0x54917405e0997def:0x97372ed13aa5f524!8m2!3d46.9946403!4d-122.9192962!16s%2Fg%2F1tgdsvk5?authuser=0&entry=ttu",
+    "status": "Closes soon  11 p.m.  Opens 6 a.m. Tue",
+    "price_range": "$",
+    "reviews_per_rating": {
+        "1": 544,
+        "2": 337,
+        "3": 1060,
+        "4": 1393,
+        "5": 1975
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ732Z4AV0kVQRJPWlOtEuN5c&q=Walmart+Supercenter&authuser=0&hl=en&gl=US",
+    "coordinates": {
+        "latitude": 46.9946403,
+        "longitude": -122.91929619999999
+    },
+    "plus_code": "X3VJ+V7 Tumwater, Washington, USA",
+    "detailed_address": {
+        "ward": null,
+        "street": "5900 Littlerock Rd SW",
+        "city": "Tumwater",
+        "postal_code": "98512",
+        "state": "Washington",
+        "country_code": "US"
+    },
+    "time_zone": "America/Los_Angeles",
+    "cid": "10896229299613201700",
+    "data_id": "0x54917405e0997def:0x97372ed13aa5f524",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Curbside pickup",
+                    "enabled": true
+                },
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "In-store pickup",
+                    "enabled": true
+                },
+                {
+                    "name": "In-store shopping",
+                    "enabled": true
+                },
+                {
+                    "name": "Same-day delivery",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planning",
+            "options": [
+                {
+                    "name": "Quick visit",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "recycling",
+            "name": "Recycling",
+            "options": [
+                {
+                    "name": "Plastic bags",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "SNAP/EBT",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMtEaJWKMRnQooc5ip8TQjLWXfljAGL26HBYdxH=w224-h398-k-no"
+        },
+        {
+            "about": "Latest",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOqtI2MK8zHlpVOgGeg_PHMnko5zDaCmCQKRQg8=w397-h298-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOEnrxkZs0ZLDGoSGC6MjJ-BypD8OoP2nzybPNc=w224-h398-k-no"
+        },
+        {
+            "about": "Inside",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNWzL9eUYOePcOt3pVDo9cjUhO11Y0ghWHpb2vG=w224-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMFI2Bqe3k9ChjGsjXSECHjduwK32HdTdBpkFeh=w529-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QNJNJQAm0Zn0UD5_aWLBfA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=152.96767&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "6 a.m.-11 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "6 a.m.-11 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "6 a.m.-11 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "6 a.m.-11 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "6 a.m.-11 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "6 a.m.-11 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "6 a.m.-11 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "It's so delicious  if you've never been, you gotta go. Food is fresh.",
+            "reviewer_name": "coachlunk Rubio",
+            "rating": 4,
+            "review_text": "It's so delicious  if you've never been, you gotta go. Food is fresh.",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-17T23:45:22.132000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 795,
+            "total_number_of_photos_by_reviewer": 5288,
+            "reviewer_url": "https://www.google.com/maps/contrib/114169745599071163067/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWL4XcUvwSoFcB_eaZP73pcz3U-F2p9w-VGAEjthz2areD9=s120-c-rp-mo-ba6-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMqd0oU0QWRKVNS7IUts1_0yO2yMvtKvLGRQp0M=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOptJd4GHCpfPWUTE32LBQEDvzUoUHmMNLS9s1u=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMrpz3vgNz5sbenC4_eFBdT-73NW-Ux5BkqH2uS=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOzoXYClhsZhzvOqsDy9h5ZSS7VDmOyMCONTJx0=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPJsKZqb3y0Sqm0JwMMhmPNPIX6HdHzYfZ-5qaR=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOyGgtqy7KBAi319O4pXwdctTXCV4WlNRF8uKWi=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNNwrCvzD1co2IkG-fhjIJU6LPn2LkpfGN2pHhf=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNGgRkuPK9MtHfPCzz712NRQ_6T9LxLn3an7Id_=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOx8Cr7LFhc1cOMyVc3nEJQwElGXLFxqALPctxJ=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMsVpFYN96W2zQIss5PyJ1iZ7nFIpGnRoPM0GR4=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNWT4cAp8xmRXmdTHz8-zexODinCbb-7awei-rk=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMlMdBERuWV1aDdIq-DHvMl3rcUgUT4I-m0Ct-g=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOfogfLNnuPcQiSu_PAew5F52R-i458GYvzsqc2=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNm4Ru1KC2N3dLDJqLj84EHZ24MQNOMtoaZJ9NX=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipM1QwRLKfAT9u_Jhub5I27Yvv7vI7N5EFpy5up7=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPHEZIIIHRp0TiY9PXGNGs9cWDdgndalUC1KuSZ=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNddWRiWSLe2K7yyTbXdWPrh6rHQSFwG7LlMObF=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipN3cpeIUTRhgr5IVGtoX4_o21hEDfST5eFf0naD=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Friendly staff and clean restrooms..Almost always have what I need . Also they price match..Roll back dem prices fellas$$. $$",
+            "reviewer_name": "Matthew Hagen",
+            "rating": 5,
+            "review_text": "Friendly staff and clean restrooms..Almost always have what I need . Also they price match..Roll back dem prices fellas$$. $$",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-23T20:17:30.683000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 5,
+            "total_number_of_photos_by_reviewer": 6,
+            "reviewer_url": "https://www.google.com/maps/contrib/115381721583322988671/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVm-38Pq7C9FuL0OF_MURyyulG8WEucIYOd9seJsUVzNp-X=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipN2qowIVgr7HXkNvPzDnIPDY6LSWor9aS9d53K0=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMYGhqqroWHiI5Z1FV4elLubSgowwGPEgk14Lwh=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Went to pick up my freezer, and it wouldn't fit in my car.  This was my fault and i asked if they could allow me to get my SUV and come back.  Keep in mind, when you do that, the ticket says you picked your stuff up.\n\nI came back and called the number to let them know i was there.  No answer.  I happened to see a young lady who was doing the curside delivery, and asked if she could help me (i waited until she was done with her delivery).  She first ignored me and the pointed to a sign and said, \"call the number or use the app.\"\n\nI ended up walking into the store, finding a manager and asking her for help.  She then went to the back, found my freezer, with a note, and told them I was there.  Then the same girl came out and brought it to me!  Of course, with an attitude.  This was completely unprofessional, and I will never use curbside pickup at this store again.",
+            "reviewer_name": "Bayou Billy",
+            "rating": 1,
+            "review_text": "Went to pick up my freezer, and it wouldn't fit in my car.  This was my fault and i asked if they could allow me to get my SUV and come back.  Keep in mind, when you do that, the ticket says you picked your stuff up.\n\nI came back and called the number to let them know i was there.  No answer.  I happened to see a young lady who was doing the curside delivery, and asked if she could help me (i waited until she was done with her delivery).  She first ignored me and the pointed to a sign and said, \"call the number or use the app.\"\n\nI ended up walking into the store, finding a manager and asking her for help.  She then went to the back, found my freezer, with a note, and told them I was there.  Then the same girl came out and brought it to me!  Of course, with an attitude.  This was completely unprofessional, and I will never use curbside pickup at this store again.",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-16T15:56:46.350000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 70,
+            "total_number_of_photos_by_reviewer": 87,
+            "reviewer_url": "https://www.google.com/maps/contrib/104630721560302201550/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXyZhKrEfRK4fcys9TogOrOXe-Au8uT2dk6QfoRr2BcN0ji=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Very good service with home grocery delivery. Makes it easier for me to shop online and have groceries delivered to my front door. I am elderly and have physical impairments. Very handy for me not to have to go to store to do my shopping.",
+            "reviewer_name": "Mary Mickelsen",
+            "rating": 5,
+            "review_text": "Very good service with home grocery delivery. Makes it easier for me to shop online and have groceries delivered to my front door. I am elderly and have physical impairments. Very handy for me not to have to go to store to do my shopping.",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-02T05:18:33.059000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/118380700310854207538/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJ4SIpIvN-rCfO9nL03prwUg8wg324QQfXxfo5uJN5dqA=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Everything is good with Walmart except their frozen dairy department isn't kept fresh - especially noticeable by stale cheese that gets hard or goes bad very quickly after purchasing.\n\nJust FYI, the milk and meats are usually okay because they get stocked directly from inside the dairy or meat refrigeration rooms, but the rest of the dairy department is particularly at risk because of the way it is stocked overnight without enough man-hours allowed by management to control and improve the efficiency of the cold-chain, stocking, and binning procedures.\n\nIf corporate Walmart sees this, I recommend diverting triple the number of employees of the usual overnight frozen dairy staff in order to maintain a complete 100% completion of stocking and binning every night within the first 4 hours before lunch and then sending all the staff from frozen dairy to other departments for the second half of the shift wherever it is needed.\n\nThat way, the cold chain is much more reliably followed and the perishable dairy products will be kept pristine and fresh for costumers. Not to mention avoiding items remaining shrink-wrapped on pallets night after night without being stocked or binned, causing the system product counts to be off or double ordered.",
+            "reviewer_name": "Andrew Wallace",
+            "rating": 4,
+            "review_text": "Everything is good with Walmart except their frozen dairy department isn't kept fresh - especially noticeable by stale cheese that gets hard or goes bad very quickly after purchasing.\n\nJust FYI, the milk and meats are usually okay because they get stocked directly from inside the dairy or meat refrigeration rooms, but the rest of the dairy department is particularly at risk because of the way it is stocked overnight without enough man-hours allowed by management to control and improve the efficiency of the cold-chain, stocking, and binning procedures.\n\nIf corporate Walmart sees this, I recommend diverting triple the number of employees of the usual overnight frozen dairy staff in order to maintain a complete 100% completion of stocking and binning every night within the first 4 hours before lunch and then sending all the staff from frozen dairy to other departments for the second half of the shift wherever it is needed.\n\nThat way, the cold chain is much more reliably followed and the perishable dairy products will be kept pristine and fresh for costumers. Not to mention avoiding items remaining shrink-wrapped on pallets night after night without being stocked or binned, causing the system product counts to be off or double ordered.",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-17T01:45:25.446000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 38,
+            "total_number_of_photos_by_reviewer": 81,
+            "reviewer_url": "https://www.google.com/maps/contrib/105710412235431802959/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocK0st-KweHjwM-cCea8Tla0cIVArZzHcUvzn7YjRlex=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Staff is rude and not helpful at all everyone ignores you if you have a question and if you do get to ask someone they never seem to know the answer... I know it's just Walmart I didn't have super high expectations but seriously worst customer service possible.",
+            "reviewer_name": "Ryan Moulder",
+            "rating": 2,
+            "review_text": "Staff is rude and not helpful at all everyone ignores you if you have a question and if you do get to ask someone they never seem to know the answer... I know it's just Walmart I didn't have super high expectations but seriously worst customer service possible.",
+            "published_at": "a week ago",
+            "published_at_date": "2023-11-14T07:04:26.073000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 9,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/113094993978162565309/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJoEp206jN6H6J3_glAUPRIr5prleSIRKj_6vAFuGzA=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Stupid! I have to ring my stuff up, buy a bag, bag it and do what a cashier does usually. Then they want to make sure I paid by looking at my receipt? Your smoked! I should be getting a discount not being accused of stealing.",
+            "reviewer_name": "Lisa Weeks",
+            "rating": 2,
+            "review_text": "Stupid! I have to ring my stuff up, buy a bag, bag it and do what a cashier does usually. Then they want to make sure I paid by looking at my receipt? Your smoked! I should be getting a discount not being accused of stealing.",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-10T06:40:40.580000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 5,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/113068586970717961589/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjU5ue-cAnEZ3OSk9ybRsJ5zvI44gWswPTedNYL6B13eHQ=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Wish I could give this store a 0.\nThe self check staff are always beyond rude, and just to get any sort of help is about as easy as getting water out of a rock.\nThe store was a mess, aisle full of racks and pallets.\nI have not shopped there in months and after my last trip there, I  remembered why.",
+            "reviewer_name": "Daina Shea",
+            "rating": 1,
+            "review_text": "Wish I could give this store a 0.\nThe self check staff are always beyond rude, and just to get any sort of help is about as easy as getting water out of a rock.\nThe store was a mess, aisle full of racks and pallets.\nI have not shopped there in months and after my last trip there, I  remembered why.",
+            "published_at": "2 weeks ago",
+            "published_at_date": "2023-11-11T01:50:04.751000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 131,
+            "total_number_of_photos_by_reviewer": 27,
+            "reviewer_url": "https://www.google.com/maps/contrib/101107214985654082073/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWrfHb6RuRglOJqRDB22wlfsvQ_ON6WueMHIsD3-VNTUFg=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

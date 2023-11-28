@@ -126,7 +126,7 @@ alignItems="center">
         <Grid item
 xs={12}
 sm={8}>
-          <Typography variant="h4"
+          <Typography variant="h5"
 component="h1"
 gutterBottom>
             Reviews Analytics

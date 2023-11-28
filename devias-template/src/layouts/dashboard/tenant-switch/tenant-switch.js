@@ -10,7 +10,7 @@ import { usePopover } from 'src/hooks/use-popover';
 
 import { TenantPopover } from './tenant-popover';
 
-const tenants = ['Devias', 'Acme Corp'];
+const tenants = ['Dashboard', 'Projects'];
 
 export const TenantSwitch = (props) => {
   const popover = usePopover();
@@ -28,13 +28,14 @@ export const TenantSwitch = (props) => {
             color="inherit"
             variant="h6"
           >
-            Devias
+            Show My Service
           </Typography>
           <Typography
             color="neutral.400"
             variant="body2"
           >
-            Production
+            
+
           </Typography>
         </Box>
         <IconButton

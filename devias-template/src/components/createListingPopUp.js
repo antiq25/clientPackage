@@ -42,17 +42,20 @@ const CreateListingDialog = ({ open, onClose, onCreationSuccess }) => {
           companyLocations: form.companyLocations.split(',').map((s) => s.trim()),
         }),
       });
-
+  
       if (!response.ok) {
-        throw new Error('Network response was not ok');
+        throw new Error(`Network response was not ok, status: ${response.status}`);
       }
-
+  
       const data = await response.json();
-      if (data.success) {
+  
+      // Check if the message property indicates success
+      if (data.message && data.message === "Python script executed successfully") {
         setStatus('SUCCESS!');
         onCreationSuccess(data);
       } else {
         setStatus('FAIL');
+        console.error('Operation failed:', data); // Log the data in case of failure
       }
     } catch (error) {
       setStatus('FAIL');
@@ -61,6 +64,7 @@ const CreateListingDialog = ({ open, onClose, onCreationSuccess }) => {
       setIsLoading(false);
     }
   };
+  
 
   const handleSubmit = async () => {
     await collectReviews();
