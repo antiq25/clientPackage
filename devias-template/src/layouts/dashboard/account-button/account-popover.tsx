@@ -94,7 +94,7 @@ export const AccountPopover: FC<AccountPopoverProps> = (props) => {
       <Box sx={{ p: 1 }}>
         <ListItemButton
           component={RouterLink}
-          href={paths.profile}
+          href={paths.index}
           onClick={onClose}
           sx={{
             borderRadius: 1,
@@ -111,7 +111,28 @@ export const AccountPopover: FC<AccountPopoverProps> = (props) => {
         </ListItemButton>
         <ListItemButton
           component={RouterLink}
+<<<<<<< HEAD:devias-template/src/layouts/dashboard/account-button/account-popover.js
+          href={paths.dashboard.account}
+          onClick={onClose}
+          sx={{
+            borderRadius: 1,
+            px: 1,
+            py: 0.5,
+          }}
+        >
+          <ListItemIcon>
+            <SvgIcon fontSize="small">
+              <Settings04Icon />
+            </SvgIcon>
+          </ListItemIcon>
+          <ListItemText primary={<Typography variant="body1">Settings</Typography>} />
+        </ListItemButton>
+        <ListItemButton
+          component={RouterLink}
+          href={paths.dashboard.index}
+=======
           href={paths.billing}
+>>>>>>> Mustafa:devias-template/src/layouts/dashboard/account-button/account-popover.tsx
           onClick={onClose}
           sx={{
             borderRadius: 1,

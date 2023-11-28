@@ -13,8 +13,13 @@ class DashboardService {
     async _createListing(userId, name, reviews_url, description) {
         const listingExists = await this.prisma.listing.findFirst({
             where: {
+<<<<<<< HEAD
+                id: userId, // <-- Assuming 'id' should be mapped from 'userId'
+                name: reviews_url // <-- Assuming 'name' should be mapped from 'place_url'
+=======
                 userId: userId,
                 place_url: reviews_url
+>>>>>>> Mustafa
             }
         });
         if (listingExists) {

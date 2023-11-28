@@ -16,6 +16,40 @@ const CreateListingDialog = ({ open, onClose, onCreationSuccess }) => {
   });
 
   const handleChange = (event) => {
+<<<<<<< HEAD
+    setForm({ ...form, [event.target.name]: event.target.value });
+  };
+
+  const handleSubmit = async () => {
+    // Call API to create a new listing
+    try {
+      const userId = useUser; 
+      let value = formData.reviews_url;
+      if (value.includes("'")) {
+        value = value.replace("'", '%E2%80%99'); 
+      }
+      formData.reviews_url = value;
+      const response = await apiHandler.handleCreateListing(
+        userId,
+        formData.name,
+        formData.reviews_url,
+        formData.description
+      );
+      if (response.success) {
+        console.log('Listing created successfully:', response.data);
+        onCreationSuccess(); // Invoke the callback here
+        onClose();
+      } else {
+        console.error('Failed to create listing:', response.error);
+      }
+    } catch (error) {
+      console.error('Error creating listing:', error);
+    }
+  };
+
+  const handleSubmit = async () => {
+    await collectReviews();
+=======
     setFormData({
       ...formData,
       [event.target.name]: event.target.value,
@@ -47,6 +81,7 @@ const CreateListingDialog = ({ open, onClose, onCreationSuccess }) => {
     } catch (error) {
       console.error('Error creating listing:', error);
     }
+>>>>>>> Mustafa
   };
 
   return (

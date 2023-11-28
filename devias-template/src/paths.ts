@@ -10,7 +10,10 @@ export const paths = {
   profile: 'profile',
   notFound: '/404',
   serverError: '/500',
+<<<<<<< HEAD:devias-template/src/paths.js
+=======
   // business: '/business',
+>>>>>>> Mustafa:devias-template/src/paths.ts
   trends: 'trends',
   billing: '/billing',
   // map: '/map',

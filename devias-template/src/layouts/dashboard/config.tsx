@@ -43,6 +43,18 @@ export const useSections = () => {
               </SvgIcon>
             ),
           },
+<<<<<<< HEAD:devias-template/src/layouts/dashboard/config.js
+          {
+            title: t(tokens.nav.map),
+            path: paths.map,
+            icon: (
+              <SvgIcon fontSize="small">
+                <TrendingUpIcon />
+              </SvgIcon>
+            ),
+          },
+         
+=======
           // {
           //   title: t(tokens.nav.business),
           //   path: paths.business,
@@ -70,6 +82,7 @@ export const useSections = () => {
               </SvgIcon>
             ),
           },
+>>>>>>> Mustafa:devias-template/src/layouts/dashboard/config.tsx
           {
             title: t(tokens.nav.pixel),
             path: paths.pixel,
