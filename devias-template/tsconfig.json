@@ -31,9 +31,10 @@
   "include": [
     "**/*.ts",
     "**/*.tsx",
+    "**/*.js",
     "next.d.ts",
     "next-env.d.ts"
-, "src/sections/dashboard/overview/overview-done-tasks.js", "src/pages/login.js", "src/pages/index.js"  ],
+, "src/sections/dashboard/overview/overview-done-tasks.js", "src/pages/login.js", "src/pages/index.js", "src/layouts/dashboard/index.js", "src/layouts/dashboard/index.js", "src/layouts/dashboard/config.js", "src/layouts/dashboard/layout.js", "src/layouts/dashboard/layout.js"  ],
   "exclude": [
     "node_modules"
   ]

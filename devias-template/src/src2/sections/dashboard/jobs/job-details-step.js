@@ -43,14 +43,14 @@ export const JobDetailsStep = (props) => {
       {...other}
     >
       <div>
-        <Typography variant="h6">Widget Details</Typography>
+        <Typography variant="h6">What is the job about?</Typography>
       </div>
       <Stack spacing={3}>
         <TextField
           fullWidth
-          label="Widget Name"
+          label="Job Title"
           name="jobTitle"
-          placeholder="e.g Bob's Trucking Widget"
+          placeholder="e.g Salesforce Analyst"
         />
         <TextField
           fullWidth
@@ -96,7 +96,7 @@ export const JobDetailsStep = (props) => {
         </Stack>
       </Stack>
       <div>
-        <Typography variant="h6">Reviews From:</Typography>
+        <Typography variant="h6">When is the project starting?</Typography>
       </div>
       <Stack
         alignItems="center"

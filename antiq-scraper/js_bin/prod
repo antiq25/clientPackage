@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+
+
+export CDIR="$HOME/clientPackage"
+
+
+
+echo "starting production build .. "
+
+
+cd $CDIR/sms-backend/

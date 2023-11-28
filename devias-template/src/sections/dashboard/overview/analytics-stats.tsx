@@ -9,7 +9,7 @@ import Stack from '@mui/material/Stack';
 import Typography from '@mui/material/Typography';
 import { useTheme } from '@mui/material/styles';
 
-import { Chart } from '../../../components/chart';
+import { Chart } from 'src/src2/components/chart';
 
 const useChartOptions = (): ApexOptions => {
   const theme = useTheme();

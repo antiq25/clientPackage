@@ -10,18 +10,18 @@ import Typography from '@mui/material/Typography';
 
 const categoryOptions = [
   {
-    description: 'Showcase Your Business',
-    title: 'Recent Reviews & Comments',
-    value: '',
+    description: 'Best for small, friendly-pocket projects',
+    title: 'Freelancers',
+    value: 'freelancers',
   },
   {
-    description: 'Track your clicks',
-    title: 'Basic Info',
+    description: 'Limited-time projects with highly experienced individuals',
+    title: 'Contractor',
     value: 'contractor',
   },
   {
-    description: 'Show Reviews and Business Info',
-    title: 'Business Info & Reviews',
+    description: 'Unlimited term contracts',
+    title: 'Employees',
     value: 'employees',
   },
 ];
@@ -40,7 +40,7 @@ export const JobCategoryStep = (props) => {
       {...other}
     >
       <div>
-        <Typography variant="h6">Create Show My Service Widget</Typography>
+        <Typography variant="h6">I’m looking for...</Typography>
       </div>
       <Stack spacing={2}>
         {categoryOptions.map((option) => (

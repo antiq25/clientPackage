@@ -7,15 +7,15 @@ import Stack from '@mui/material/Stack';
 import SvgIcon from '@mui/material/SvgIcon';
 import Typography from '@mui/material/Typography';
 
-import { Seo } from '../src2/components/seo';
-import { usePageView } from '../src2/hooks/use-page-view';
-import { useSettings } from '../src2/hooks/use-settings';
-import { Layout as DashboardLayout } from '../src2/layouts/dashboard';
-import { EcommerceCostBreakdown } from '../src2/sections/dashboard/ecommerce/ecommerce-cost-breakdown';
-import { EcommerceSalesByCountry } from '../src2/sections/dashboard/ecommerce/ecommerce-sales-by-country';
-import { EcommerceSalesRevenue } from '../src2/sections/dashboard/ecommerce/ecommerce-sales-revenue';
-import { EcommerceProducts } from '../src2/sections/dashboard/ecommerce/ecommerce-products';
-import { EcommerceStats } from '../src2/sections/dashboard/ecommerce/ecommerce-stats';
+import { Seo } from 'src/src2/components/seo';
+import { usePageView } from 'src/src2/hooks/use-page-view';
+import { useSettings } from 'src/src2/hooks/use-settings';
+import { Layout as DashboardLayout } from 'src/layouts/dashboard/layout';
+import { EcommerceCostBreakdown } from 'src/src2/sections/dashboard/ecommerce/ecommerce-cost-breakdown';
+import { EcommerceSalesByCountry } from 'src/src2/sections/dashboard/ecommerce/ecommerce-sales-by-country';
+import { EcommerceSalesRevenue } from 'src/src2/sections/dashboard/ecommerce/ecommerce-sales-revenue';
+import { EcommerceProducts } from 'src/src2/sections/dashboard/ecommerce/ecommerce-products';
+import { EcommerceStats } from 'src/src2/sections/dashboard/ecommerce/ecommerce-stats';
 
 const Page = () => {
   const settings = useSettings();

@@ -13,7 +13,7 @@ import Tooltip from '@mui/material/Tooltip';
 import Typography from '@mui/material/Typography';
 import { useTheme } from '@mui/material/styles';
 
-import { Chart } from '../../../components/chart';
+import { Chart } from 'src/src2/components/chart';
 import React from 'react';
 
 const useChartOptions = (labels: string[]): ApexOptions => {

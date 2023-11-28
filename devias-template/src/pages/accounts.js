@@ -10,7 +10,7 @@ import Typography from '@mui/material/Typography';
 import { Seo } from 'src/src2/components/seo';
 import { usePageView } from 'src/src2/hooks/use-page-view';
 import { useSettings } from 'src/src2/hooks/use-settings';
-import { Layout as DashboardLayout } from 'src/src2/layouts/dashboard';
+import { Layout as DashboardLayout } from 'src/layouts/dashboard/layout';
 import { EcommerceCostBreakdown } from 'src/src2/sections/dashboard/ecommerce/ecommerce-cost-breakdown';
 import { EcommerceSalesByCountry } from 'src/src2/sections/dashboard/ecommerce/ecommerce-sales-by-country';
 import { EcommerceSalesRevenue } from 'src/src2/sections/dashboard/ecommerce/ecommerce-sales-revenue';

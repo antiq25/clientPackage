@@ -46,7 +46,7 @@ export const JobPreview = () => (
         }}
       >
         <div>
-          <Typography variant="subtitle1">Newly Created Data Goes here then we post to db</Typography>
+          <Typography variant="subtitle1">Senior Backend Engineer</Typography>
           <Typography
             color="text.secondary"
             variant="caption"

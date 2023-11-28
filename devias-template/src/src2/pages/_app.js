@@ -14,7 +14,7 @@ import { ThemeProvider } from '@mui/material/styles';
 import { AdapterDateFns } from '@mui/x-date-pickers/AdapterDateFns';
 import { LocalizationProvider } from '@mui/x-date-pickers/LocalizationProvider';
 
-import 'src/global.css';
+import 'src/src2/global.css';
 // Remove if locales are not used
 import 'src/src2/locales/i18n';
 

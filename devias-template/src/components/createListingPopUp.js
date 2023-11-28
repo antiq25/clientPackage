@@ -5,53 +5,32 @@ import DialogContent from '@mui/material/DialogContent';
 import TextField from '@mui/material/TextField';
 import DialogActions from '@mui/material/DialogActions';
 import Button from '@mui/material/Button';
-import Tooltip from '@mui/material/Tooltip';
 import CircularProgress from '@mui/material/CircularProgress';
+import Alert from '@mui/material/Alert';
 
-const CreateListingDialog = ({
-  open,
-  onClose,
-  onCreationSuccess,
-  formData,
-  selectedBusiness,
-  userId,
-}) => {
+const CreateListingDialog = ({ open, onClose, onCreationSuccess }) => {
   const [form, setForm] = useState({
     companyNames: '',
     companyLocations: '',
   });
-
   const [isLoading, setIsLoading] = useState(false);
+  const [status, setStatus] = useState('');
 
   useEffect(() => {
-    if (open && formData) {
-      setForm({
-        ...form,
-        companyNames: formData.companyNames || '',
-        companyLocations: formData.companyLocations || '',
-      });
+    if (!open) {
+      setForm({ companyNames: '', companyLocations: '' });
+      setIsLoading(false);
+      setStatus('');
     }
-  }, [formData, open]);
-
-  useEffect(() => {
-    if (open && selectedBusiness) {
-      setForm({
-        ...form,
-        companyNames: selectedBusiness.companyNames || '',
-        companyLocations: selectedBusiness.companyLocations || '',
-      });
-    }
-  }, [selectedBusiness, open]);
+  }, [open]);
 
   const handleChange = (event) => {
-    setForm({
-      ...form,
-      [event.target.name]: event.target.value,
-    });
+    setForm({ ...form, [event.target.name]: event.target.value });
   };
 
   const collectReviews = async () => {
     setIsLoading(true);
+    setStatus('Scraping...');
     try {
       const response = await fetch('http://localhost:3002/scrape/collect-reviews', {
         method: 'POST',
@@ -63,29 +42,28 @@ const CreateListingDialog = ({
           companyLocations: form.companyLocations.split(',').map((s) => s.trim()),
         }),
       });
+
+      if (!response.ok) {
+        throw new Error('Network response was not ok');
+      }
+
       const data = await response.json();
-      return data;
+      if (data.success) {
+        setStatus('SUCCESS!');
+        onCreationSuccess(data);
+      } else {
+        setStatus('FAIL');
+      }
     } catch (error) {
+      setStatus('FAIL');
       console.error('Error:', error);
-      throw error;
     } finally {
       setIsLoading(false);
     }
   };
 
   const handleSubmit = async () => {
-    try {
-      const reviewsData = await collectReviews();
-      if (reviewsData.success) {
-        console.log('Reviews collected successfully:', reviewsData.data);
-        onCreationSuccess(reviewsData.data);
-        onClose();
-      } else {
-        console.error('Failed to collect reviews:', reviewsData.error);
-      }
-    } catch (error) {
-      console.error('Error in collecting reviews:', error);
-    }
+    await collectReviews();
   };
 
   return (
@@ -119,17 +97,14 @@ const CreateListingDialog = ({
       </DialogContent>
       <DialogActions>
         <Button onClick={onClose}>Cancel</Button>
-        <Tooltip title={isLoading ? 'Loading...' : 'Collect Reviews'}>
-          <div>
-            <Button
-              onClick={handleSubmit}
-              disabled={isLoading}
-            >
-              {isLoading ? <CircularProgress size={24} /> : 'Collect Reviews'}
-            </Button>
-          </div>
-        </Tooltip>
+        <Button
+          onClick={handleSubmit}
+          disabled={isLoading}
+        >
+          {isLoading ? <CircularProgress size={24} /> : 'Collect Reviews'}
+        </Button>
       </DialogActions>
+      {status && <Alert severity={status === 'SUCCESS!' ? 'success' : 'error'}>{status}</Alert>}
     </Dialog>
   );
 };

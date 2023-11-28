@@ -19,7 +19,7 @@ import { Previewer } from 'src/src2/sections/components/previewer';
 import { useEffect, useState } from 'react';
 import { Seo } from 'src/src2/components/seo'; // Corrected import statement
 import { useSettings } from '../hooks/use-settings'; // Corrected import statement
-import { Layout as DashboardLayout } from '../layouts/dashboard'; // Corrected import statement
+import { Layout as DashboardLayout } from 'src/layouts/dashboard/layout';
 import { usePageView } from '../hooks/use-page-view';
 
 const components = [

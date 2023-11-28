@@ -16,7 +16,7 @@ import { LocalizationProvider } from '@mui/x-date-pickers/LocalizationProvider';
 
 import 'src/global.css';
 // Remove if locales are not used
-import 'src/src2/locales/i18n';
+import 'src/locales/i18n';
 
 import { RTL } from 'src/src2/components/rtl';
 import { SplashScreen } from 'src/src2/components/splash-screen';

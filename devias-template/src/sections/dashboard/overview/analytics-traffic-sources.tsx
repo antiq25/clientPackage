@@ -6,7 +6,7 @@ import CardContent from '@mui/material/CardContent';
 import CardHeader from '@mui/material/CardHeader';
 import { useTheme } from '@mui/material/styles';
 
-import { Chart } from '../../../components/chart';
+import { Chart } from 'src/src2/components/chart';
 import React from 'react';
 
 const useChartOptions = (): ApexOptions => {
