@@ -10,7 +10,7 @@ import ListItemText from '@mui/material/ListItemText';
 import Popover from '@mui/material/Popover';
 import Typography from '@mui/material/Typography';
 
-import { Presence } from 'src/components/presence';
+import { Presence } from 'src/src2/components/presence';
 import { customLocale } from 'src/utils/date-locale';
 
 export const ContactsPopover = (props) => {

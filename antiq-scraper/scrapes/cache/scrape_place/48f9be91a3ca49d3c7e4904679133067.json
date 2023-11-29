@@ -1,0 +1,362 @@
+{
+    "place_id": "ChIJFX1opyp0hlQRRkMaKSXIBQw",
+    "name": "Champlain Square",
+    "description": null,
+    "reviews": 1027,
+    "website": "http://champlainsquare.com/",
+    "owner": {
+        "id": null,
+        "name": "Champlain Square (Owner)",
+        "link": null
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM9Ng8tQQ7kaJgMi_lTwIOwcvHyAGd5GX-UbjMf=w408-h306-k-no",
+    "main_category": "Shopping mall",
+    "categories": [
+        "Shopping mall"
+    ],
+    "rating": 4.1,
+    "workday_timing": "7 a.m.-10 p.m.",
+    "closed_on": [],
+    "phone": "(604) 451-0130",
+    "address": "Champlain Square, 7132 Kerr St, Vancouver, BC V5S 2A6",
+    "review_keywords": [
+        {
+            "keyword": "groceries",
+            "count": 55
+        },
+        {
+            "keyword": "parking lot",
+            "count": 55
+        },
+        {
+            "keyword": "bakery",
+            "count": 24
+        },
+        {
+            "keyword": "library",
+            "count": 21
+        },
+        {
+            "keyword": "liquor store",
+            "count": 21
+        },
+        {
+            "keyword": "dollar store",
+            "count": 16
+        },
+        {
+            "keyword": "strip mall",
+            "count": 14
+        },
+        {
+            "keyword": "fast food",
+            "count": 14
+        },
+        {
+            "keyword": "produce",
+            "count": 12
+        },
+        {
+            "keyword": "dentist",
+            "count": 6
+        }
+    ],
+    "link": "https://www.google.com/maps/place/Champlain+Square/data=!4m7!3m6!1s0x5486742aa7687d15:0xc05c825291a4346!8m2!3d49.2190856!4d-123.0403801!16s%2Fg%2F1tvm2g3t!19sChIJFX1opyp0hlQRRkMaKSXIBQw?authuser=0&hl=en&rclk=1",
+    "status": "Open  Closes 10 p.m.",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 17,
+        "2": 29,
+        "3": 186,
+        "4": 373,
+        "5": 422
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJFX1opyp0hlQRRkMaKSXIBQw&q=Champlain+Square&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.2190856,
+        "longitude": -123.0403801
+    },
+    "plus_code": "6X95+JR Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "South Vancouver",
+        "street": "7132 Kerr St",
+        "city": "Vancouver",
+        "postal_code": "V5S 2A6",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "866318565267620678",
+    "data_id": "0x5486742aa7687d15:0xc05c825291a4346",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "In-store shopping",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipM9Ng8tQQ7kaJgMi_lTwIOwcvHyAGd5GX-UbjMf=w397-h298-k-no"
+        },
+        {
+            "about": "Latest",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNBjTZRHNbDGlaqqhMEc6MT1j2X5Eanb1bjpiZL=w224-h298-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOmM5MlAZR9a5wX2y97lU1WTgTEOrk-uIsVZNxD=w224-h398-k-no"
+        },
+        {
+            "about": "Inside",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPLfcp1mIG8bSMYhvHlmay4VSkDcSJHbVlfsZAD=w224-h298-k-no"
+        },
+        {
+            "about": "Food",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPLfcp1mIG8bSMYhvHlmay4VSkDcSJHbVlfsZAD=w224-h298-k-no"
+        },
+        {
+            "about": "Restaurant",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipP3RegHQzYRqmrFyZb88PyQaqgRnzPP0gb2yu0=w397-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=2aInp2i76--KXUU0_2sIsg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=92.63043&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "7 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "7 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "7 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "7 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "7 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "7 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "7 a.m.-10 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "I had a fantastic experience at \"TEC-HUT\" . The staff here are not only experts in their field but also extremely friendly and helpful. They were able to quickly diagnose and repair my mobile phone as well as laptop, saving me from a lot of inconvenience.",
+            "reviewer_name": "Patel Aamena",
+            "rating": 5,
+            "review_text": "I had a fantastic experience at \"TEC-HUT\" . The staff here are not only experts in their field but also extremely friendly and helpful. They were able to quickly diagnose and repair my mobile phone as well as laptop, saving me from a lot of inconvenience.",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-08T22:05:09.201000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/116220043122315040661/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJ6XKBhI8VVezpsnFYxs3hAWV0NEvdquFE4xN2RB-Cs=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMFiiLtUCNfLESFr3kFghRgkX5n40KQXlloJYew=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Barry is always so helpful to just go out his way to help me evertime I'm there and have seen him do the same for others you have a great employees in barry",
+            "reviewer_name": "rick larsen",
+            "rating": 5,
+            "review_text": "Barry is always so helpful to just go out his way to help me evertime I'm there and have seen him do the same for others you have a great employees in barry",
+            "published_at": "a week ago",
+            "published_at_date": "2023-11-16T01:57:51.918000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 157,
+            "total_number_of_photos_by_reviewer": 211,
+            "reviewer_url": "https://www.google.com/maps/contrib/116310045210439722404/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjV3FyxaEJnNDd87ORGvI92Z0TJQCs6ibwltAL4LDKDN88k=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Quench your thirst at Liquor store and get the snacks for independent store and other food offerings around. For these coming days is time to stay cool. Pantry check!",
+            "reviewer_name": "Der \"oyamel5.0\" meister",
+            "rating": 4,
+            "review_text": "Quench your thirst at Liquor store and get the snacks for independent store and other food offerings around. For these coming days is time to stay cool. Pantry check!",
+            "published_at": "4 days ago",
+            "published_at_date": "2023-11-24T02:54:42.440000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 173,
+            "total_number_of_photos_by_reviewer": 401,
+            "reviewer_url": "https://www.google.com/maps/contrib/106772204685422795783/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVxX5YBJXFnj8_YYxcMWJlDdDWkJed0T9jgVGXMn2mlWHo=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Has the necessities...but very poorly designed parking lot. One must remember to keep patient while parking here",
+            "reviewer_name": "Mark Flaming",
+            "rating": 3,
+            "review_text": "Has the necessities...but very poorly designed parking lot. One must remember to keep patient while parking here",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-23T15:48:56.777000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 94,
+            "total_number_of_photos_by_reviewer": 206,
+            "reviewer_url": "https://www.google.com/maps/contrib/104727225627075100054/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUFDkxtveRsV5dPsseKm1vNtDDiHHnBAbsOF_6xANDnYEU=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "A nice little neighborhood outdoor mall with Independent Grocer, a BC Liquor Store, a Starbucks, Kin's Market, and an A&W as the larger outlets.  I like how it serves mostly the residential areas around it so it never gets crazy busy but is lively and busy enough to support a variety of stores.  There's also a public library and professional (health care) office in the same plaza.",
+            "reviewer_name": "Howard Poon",
+            "rating": 5,
+            "review_text": "A nice little neighborhood outdoor mall with Independent Grocer, a BC Liquor Store, a Starbucks, Kin's Market, and an A&W as the larger outlets.  I like how it serves mostly the residential areas around it so it never gets crazy busy but is lively and busy enough to support a variety of stores.  There's also a public library and professional (health care) office in the same plaza.",
+            "published_at": "9 months ago",
+            "published_at_date": "2023-02-05T23:08:55.253000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 192,
+            "total_number_of_photos_by_reviewer": 122,
+            "reviewer_url": "https://www.google.com/maps/contrib/113004925205209319995/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXBVy5-4aKE2OjmShLkHziqIO2ArH0ftTYFk2mCC3TBZQ=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Nice place to sit down if you're getting your shopping done. Has a bakery and best priced chinese takeout .",
+            "reviewer_name": "Nimai Bonnardel",
+            "rating": 5,
+            "review_text": "Nice place to sit down if you're getting your shopping done. Has a bakery and best priced chinese takeout .",
+            "published_at": "5 months ago",
+            "published_at_date": "2023-06-22T13:13:05.798000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 8,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/115594502344640977824/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIwdn8yqa3EZKKYbqX1DTl-WzlDmdU1XCGEnGjrcXxH=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Love this spot for the Independent Market and Kins Produce store. Both have great selection and Kins has the best produce prices.\n\nThere's also a couple of fast food restaurants, a liquor store, Starbucks, pharmacy, and more.",
+            "reviewer_name": "Katherine",
+            "rating": 5,
+            "review_text": "Love this spot for the Independent Market and Kins Produce store. Both have great selection and Kins has the best produce prices.\n\nThere's also a couple of fast food restaurants, a liquor store, Starbucks, pharmacy, and more.",
+            "published_at": "9 months ago",
+            "published_at_date": "2023-02-26T14:50:14.831000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 33,
+            "total_number_of_photos_by_reviewer": 21,
+            "reviewer_url": "https://www.google.com/maps/contrib/110093927096597790520/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW6Hnrqi1_ULWeqRGq9bHaim34JVQocjpLZUKtE_9R9BlQ=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Pitiful mall. Freedom Mobile kiosk remains empty for over a year now. Google won't remove the listing. I wouldn't be surprised if the mall is imploded and a highrise built in its place.",
+            "reviewer_name": "Google User (M. B.)",
+            "rating": 2,
+            "review_text": "Pitiful mall. Freedom Mobile kiosk remains empty for over a year now. Google won't remove the listing. I wouldn't be surprised if the mall is imploded and a highrise built in its place.",
+            "published_at": "6 months ago",
+            "published_at_date": "2023-05-10T08:34:00.812000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 307,
+            "total_number_of_photos_by_reviewer": 67,
+            "reviewer_url": "https://www.google.com/maps/contrib/112458136285370525794/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVGoHWa0rXzFeAxXBhUbXtTNYGbY2hV03rvC04SxL0D0e-1=s120-c-rp-mo-ba6-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

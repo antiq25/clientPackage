@@ -9,15 +9,16 @@ import Grid from '@mui/material/Unstable_Grid2';
 import Stack from '@mui/material/Stack';
 import SvgIcon from '@mui/material/SvgIcon';
 import Typography from '@mui/material/Typography';
-import useUser from '../hooks/decode';
-import FetchedReviews from '../components/fetchReview';
-import EmailVerificationDialog from '../components/emailverifydialog';
-import CreateListingDialog from '../components/createListingPopUp';
-import { Seo } from '../components/seo';
+import useUser from 'src/hooks/decode';
+import FetchedReviews from 'src/components/fetchReview';
+import EmailVerificationDialog from 'src/components/emailverifydialog';
+import CreateListingDialog from 'src/components/createListingPopUp';
+import { useTheme } from '@mui/material/styles';
+import { Seo } from 'src/components/seo';
 import { useEffect, useState } from 'react';
-import { Layout as DashboardLayout } from 'src/layouts/dashboard/layout';
 import { usePageView } from 'src/src2/hooks/use-page-view';
 import { useSettings } from 'src/src2/hooks/use-settings';
+import { Layout as DashboardLayout } from 'src/layouts/dashboard';
 import { QuickStats2 } from 'src/sections/components/quick-stats/quick-stats-2';
 
 const Page = () => {
@@ -32,17 +33,16 @@ const Page = () => {
     setCreateListingDialogOpen(false);
   };
 
-
-
   useEffect(() => {}, [user]);
 
   usePageView();
+  useTheme();
 
   return (
-    
+
     <>
 
-    
+
 <Seo title="Show My Service: Google Trends" />
       <Box
         component="main"
@@ -95,7 +95,7 @@ const Page = () => {
                 </Stack>
               </Stack>
             </Grid>
-            <Grid 
+            <Grid
               item
               xs={12}
               md={12}

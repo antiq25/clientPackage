@@ -13,13 +13,12 @@ import { RouterLink } from 'src/src2/components/router-link';
 import { Scrollbar } from 'src/src2/components/scrollbar';
 import { usePathname } from 'src/src2/hooks/use-pathname';
 import { paths } from 'src/src2/paths';
-
-import { AccountButton } from '../account-button';
-import { ContactsButton } from '../contacts-button';
-import { LanguageSwitch } from '../language-switch';
-import { NotificationsButton } from '../notifications-button';
-import { TenantSwitch } from '../tenant-switch';
-import { TopNavSection } from './top-nav-section';
+import { AccountButton } from 'src/src2/layouts/dashboard/account-button';
+import { ContactsButton } from 'src/src2/layouts/dashboard/contacts-button';
+import { LanguageSwitch } from 'src/src2/layouts/dashboard/language-switch';
+import { NotificationsButton } from 'src/src2/layouts/dashboard/notifications-button';
+import { TenantSwitch } from 'src/src2/layouts/dashboard/tenant-switch';
+import { TopNavSection } from 'src/src2/layouts/dashboard/top-nav-section';
 
 const useCssVars = (color) => {
   const theme = useTheme();

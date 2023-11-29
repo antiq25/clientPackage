@@ -13,20 +13,17 @@ import Link from '@mui/material/Link';
 import Stack from '@mui/material/Stack';
 import TextField from '@mui/material/TextField';
 import Typography from '@mui/material/Typography';
-
+import { AuthIssuer } from 'src/src2/sections/auth/auth-issuer';
 import { RouterLink } from 'src/src2/components/router-link';
 import { Seo } from 'src/src2/components/seo';
 import { GuestGuard } from 'src/src2/guards/guest-guard';
 import { IssuerGuard } from 'src/src2/guards/issuer-guard';
-import { useAuth } from 'src/src2/hooks/use-auth';
 import { useMounted } from 'src/src2/hooks/use-mounted';
 import { usePageView } from 'src/src2/hooks/use-page-view';
 import { useRouter } from 'src/src2/hooks/use-router';
 import { useSearchParams } from 'src/src2/hooks/use-search-params';
 import { Layout as AuthLayout } from 'src/src2/layouts/auth/classic-layout';
 import { paths } from 'src/src2/paths';
-import { AuthIssuer } from 'src/src2/sections/auth/auth-issuer';
-import { Issuer } from 'src/src2/utils/auth';
 
 const initialValues = {
   email: '',
@@ -46,7 +43,6 @@ const Page = () => {
   const router = useRouter();
   const searchParams = useSearchParams();
   const returnTo = searchParams.get('returnTo');
-  const { issuer, createUserWithEmailAndPassword, signInWithGoogle } = useAuth();
   const formik = useFormik({
     initialValues,
     validationSchema,

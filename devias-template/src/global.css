@@ -20,22 +20,11 @@
 @import '~slick-carousel/slick/slick.css';
 @import '~slick-carousel/slick/slick-theme.css';
 
-::-webkit-scrollbar {
-    width: 20px;
-  }
-  
-  ::-webkit-scrollbar-track {
-    background-color: transparent;
-  }
-  
-  ::-webkit-scrollbar-thumb {
-    background-color: #d6dee1;
-    border-radius: 20px;
-    border: 6px solid transparent;
-    background-clip: content-box;
-  }
-  
-  ::-webkit-scrollbar-thumb:hover {
-    background-color: #a8bbbf;
-  }
-  
+/* Remove if react-quill is not used */
+@import '~react-quill/dist/quill.snow.css';
+
+/* Remove if react-draft-wysiwyg is not used */
+@import '~react-draft-wysiwyg/dist/react-draft-wysiwyg.css';
+
+/* Remove if mapbox is not used */
+@import '~mapbox-gl/dist/mapbox-gl.css';

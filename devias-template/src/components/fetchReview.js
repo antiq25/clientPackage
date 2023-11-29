@@ -25,11 +25,14 @@ import {
   Typography,
   useMediaQuery,
   useTheme
+
 } from '@mui/material';
 import { useEffect, useState } from 'react';
+import { useSettings } from 'src/hooks/use-settings';
 
 const ReviewsFetcher = () => {
   const theme = useTheme();
+  const settings = useSettings();
   const fullScreen = useMediaQuery(theme.breakpoints.down('md'));
   const [reviews, setReviews] = useState([]);
   const [error, setError] = useState('');
@@ -190,7 +193,7 @@ value={businessName}>
         fullScreen={fullScreen}
         open={openDialog}
         onClose={handleCloseDialog}
-        maxWidth="md"
+        maxWidth="mdz"
         fullWidth
       >
         <DialogTitle>{selectedBusiness}</DialogTitle>

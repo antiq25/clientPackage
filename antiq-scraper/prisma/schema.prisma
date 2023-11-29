@@ -23,7 +23,7 @@ model Business {
   workdayTiming       String?
   closedOn            String[]
   phone               String?
-  address             String
+  address             String?
   detailedReviews     DetailedReview[]
   // ... other fields you might have for the Business model
 }

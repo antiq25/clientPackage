@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+ #!/usr/bin/env bash
 
 export SMSDIR="${HOME}/clientPackage/sms-backend"
 export SMSFRONT="${HOME}/clientPackage/devias-template"
@@ -6,12 +6,20 @@ export SCRAPER="${HOME}/clientPackage/antiq-scraper"
 
 ## ----- BACKEND ------- #
 start_project() {
-    command yarn && command docker-compose up -d && command yarn prisma generate && command yarn prisma migrate dev
+    echo "*** INITIALIZING PROJECT ***"
+    cd "${SMSDIR}" && command yarn dev:db || {
+        echo 'dev:db command failed.' ; exit 1;
+    }
     sleep 1
-    echo "*** SCRAPER INITILIZED ***"
+    cd "${SCRAPER}" && command docker-compose up -d && command yarn prisma migrate dev && yarn prisma generate || {
+        echo 'docker-compose up failed.' ; exit 1
+    }
+    sleep 1
+    echo "*** SCRAPER INITIALIZED ***"
 }
 
 start_server() {
+    echo "*** STARTING SERVER ***"
     pkill node
     cd "${SCRAPER}" && command node js_bin/dataApi.js &
     cd "${SMSFRONT}" && command yarn run dev -p 3001  &
@@ -19,30 +27,34 @@ start_server() {
 }
 
 start_env() {
-    echo "Installing Fresh CHromeDriver.."
+    echo "*** STARTING ENVIRONMENT ***"
+    echo "Installing Fresh ChromeDriver.."
     rm -rf "${SCRAPER}/build/*"
     sleep 1
     echo "ChromeDriver Installed."
     echo "Creating Virtualenv.."
     cd "${SCRAPER}" && command virtualenv env && cd "${SCRAPER}" && source env/bin/activate
-    command pip install -r "${SCRAPER}/requirements.txt"
+    command pip install -r "${SCRAPER}/requirements.txt" || {
+        echo 'pip install failed.' ; exit 1;
+    }
     sleep 1
     echo " *** FINISHED VIRTUAL ENV ***"
     echo "starting servers.."
 }
 
 start_install() {
+    echo "*** STARTING INSTALLATION ***"
     cd "${SMSDIR}" && command package-updater
     sleep 1
-    command yarn && yarn dev:db
+      command yarn
     sleep 1
-    echo "*** BACKEND INITILIAZED *** "
+    echo "*** BACKEND INITIALIZED *** "
     ## ------ FRONT END ------ ##
     cd "${SMSFRONT}" && command package-updater
     sleep 1
     command yarn
     sleep 1
-    echo "*** FRONTEND INITILIAZED ***"
+    echo "*** FRONTEND INITIALIZED ***"
     ## ------- SCRAPER --------- ##
     cd "${SCRAPER}" && command package-updater && command yarn
 }

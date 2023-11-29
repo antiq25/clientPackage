@@ -12,17 +12,17 @@ import ListItemText from '@mui/material/ListItemText';
 import Popover from '@mui/material/Popover';
 import SvgIcon from '@mui/material/SvgIcon';
 import Typography from '@mui/material/Typography';
-import { RouterLink } from '../../../components/router-link';
-import { useRouter } from '../../../hooks/use-router';
-import { paths } from '../../../paths';
-import useLogout from '../../../hooks/logout';
-import useUser from '../../../hooks/decode';
-import { apiHandler } from '../../../api/bundle';
+import { RouterLink } from 'src/src2/components/router-link';
+import { useRouter } from 'src/hooks/use-router';
+import { paths } from 'src/paths';
+import useLogout from 'src/hooks/logout';
+import useUser from 'src/hooks/decode';
+import { apiHandler } from 'src/api/bundle';
 import { useState, useEffect, useCallback } from 'react';
 import React from 'react';
 
 export const AccountPopover = (props) => {
-  const { anchorEl, onClose, open, ...other } = props; 
+  const { anchorEl, onClose, open, ...other } = props;
   const router = useRouter();
   const logout = useLogout(); // This hook should encapsulate the logout logic
   const user = useUser();
@@ -156,7 +156,7 @@ export const AccountPopover = (props) => {
         </Button>
       </Box>
     </Popover>
-  </> 
+  </>
   );
 };
 

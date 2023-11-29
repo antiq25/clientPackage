@@ -8,16 +8,16 @@ import SvgIcon from '@mui/material/SvgIcon';
 import useMediaQuery from '@mui/material/useMediaQuery';
 import { useTheme } from '@mui/material/styles';
 import { Logo } from 'src/components/logo';
-import { RouterLink } from 'src/components/router-link';
-import { Scrollbar } from 'src/components/scrollbar';
-import { usePathname } from 'src/hooks/use-pathname';
-import { paths } from 'src/paths';
+import { RouterLink } from 'src/src2/components/router-link';
+import { Scrollbar } from 'src/src2/components/scrollbar';
+import { usePathname } from 'src/src2/hooks/use-pathname';
+import { paths } from 'src/src2/paths';
 
-import { AccountButton } from '../account-button';
-import { ContactsButton } from '../contacts-button';
-import { LanguageSwitch } from '../language-switch';
-import { TenantSwitch } from '../tenant-switch';
-import { TopNavSection } from './top-nav-section';
+import { AccountButton } from 'src/layouts/dashboard/account-button';
+import { ContactsButton } from 'src/src2/layouts/dashboard/contacts-button';
+import { LanguageSwitch } from 'src/src2/layouts/dashboard/language-switch';
+import { TenantSwitch } from 'src/src2/layouts/dashboard/tenant-switch';
+import { TopNavSection } from 'src/src2/layouts/dashboard/horizontal-layout/top-nav-section';
 
 const useCssVars = (color) => {
   const theme = useTheme();

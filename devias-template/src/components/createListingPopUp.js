@@ -42,13 +42,13 @@ const CreateListingDialog = ({ open, onClose, onCreationSuccess }) => {
           companyLocations: form.companyLocations.split(',').map((s) => s.trim()),
         }),
       });
-  
+
       if (!response.ok) {
         throw new Error(`Network response was not ok, status: ${response.status}`);
       }
-  
+
       const data = await response.json();
-  
+
       // Check if the message property indicates success
       if (data.message && data.message === "Python script executed successfully") {
         setStatus('SUCCESS!');
@@ -64,7 +64,7 @@ const CreateListingDialog = ({ open, onClose, onCreationSuccess }) => {
       setIsLoading(false);
     }
   };
-  
+
 
   const handleSubmit = async () => {
     await collectReviews();

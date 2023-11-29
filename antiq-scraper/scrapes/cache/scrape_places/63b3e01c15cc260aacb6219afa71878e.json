@@ -1,0 +1,1462 @@
+{
+    "query": "\"Extra Foods in Champlain Mall\"",
+    "places": [
+        {
+            "place_id": "ChIJl5n8BoB2hlQRpu5IKq6St0E",
+            "name": "Miller's Your Independent Grocer Vancouver",
+            "description": null,
+            "reviews": 822,
+            "website": "https://www.yourindependentgrocer.ca/store-locator/details/1697%3Futm_source%3DG%26utm_medium%3DLPM%26utm_campaign%3DLoblaws",
+            "owner": {
+                "id": "108644311574603957476",
+                "name": "Miller's Your Independent Grocer Vancouver (Owner)",
+                "link": "https://www.google.com/maps/contrib/108644311574603957476"
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPQaw4ClConbHUqCkMIaZ6HEvOAYNARhtIV6qB9=w408-h306-k-no",
+            "main_category": "Grocery store",
+            "categories": [
+                "Grocery store",
+                "Bakery",
+                "Deli",
+                "Fruit and vegetable store",
+                "Pharmacy"
+            ],
+            "rating": 3.9,
+            "workday_timing": "7 a.m.-10 p.m.",
+            "closed_on": [],
+            "phone": "(604) 433-0434",
+            "address": "Miller's Your Independent Grocer Vancouver, 7190 Kerr St, Vancouver, BC V5S 4W2",
+            "review_keywords": [
+                {
+                    "keyword": "sale",
+                    "count": 24
+                },
+                {
+                    "keyword": "convenient",
+                    "count": 17
+                },
+                {
+                    "keyword": "produce",
+                    "count": 17
+                },
+                {
+                    "keyword": "meat",
+                    "count": 16
+                },
+                {
+                    "keyword": "parking",
+                    "count": 11
+                },
+                {
+                    "keyword": "check",
+                    "count": 10
+                },
+                {
+                    "keyword": "shelves",
+                    "count": 10
+                },
+                {
+                    "keyword": "pharmacy",
+                    "count": 9
+                },
+                {
+                    "keyword": "aisles",
+                    "count": 8
+                },
+                {
+                    "keyword": "superstore",
+                    "count": 6
+                }
+            ],
+            "link": "https://www.google.com/maps/place/Miller%27s+Your+Independent+Grocer+Vancouver/data=!4m7!3m6!1s0x5486768006fc9997:0x41b792ae2a48eea6!8m2!3d49.218728!4d-123.040195!16s%2Fg%2F11b8_h0yrn!19sChIJl5n8BoB2hlQRpu5IKq6St0E?authuser=0&hl=en&rclk=1",
+            "status": "Open  Closes 10 p.m.",
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 45,
+                "2": 36,
+                "3": 154,
+                "4": 286,
+                "5": 301
+            },
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJl5n8BoB2hlQRpu5IKq6St0E&q=Miller%27s+Your+Independent+Grocer+Vancouver&authuser=0&hl=en&gl=CA",
+            "coordinates": {
+                "latitude": 49.218728,
+                "longitude": -123.040195
+            },
+            "plus_code": "6X95+FW Vancouver, British Columbia",
+            "detailed_address": {
+                "ward": "South Vancouver",
+                "street": "7190 Kerr St",
+                "city": "Vancouver",
+                "postal_code": "V5S 4W2",
+                "state": "British Columbia",
+                "country_code": "CA"
+            },
+            "time_zone": "America/Vancouver",
+            "cid": "4735414809934753446",
+            "data_id": "0x5486768006fc9997:0x41b792ae2a48eea6",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [
+                {
+                    "id": "service_options",
+                    "name": "Service options",
+                    "options": [
+                        {
+                            "name": "Curbside pickup",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Delivery",
+                            "enabled": true
+                        },
+                        {
+                            "name": "In-store pickup",
+                            "enabled": true
+                        },
+                        {
+                            "name": "In-store shopping",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "accessibility",
+                    "name": "Accessibility",
+                    "options": [
+                        {
+                            "name": "Wheelchair-accessible entrance",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Wheelchair-accessible parking lot",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "payments",
+                    "name": "Payments",
+                    "options": [
+                        {
+                            "name": "Credit cards",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Debit cards",
+                            "enabled": true
+                        },
+                        {
+                            "name": "NFC mobile payments",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Credit cards",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipPQaw4ClConbHUqCkMIaZ6HEvOAYNARhtIV6qB9=w397-h298-k-no"
+                },
+                {
+                    "about": "Inside",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipNItCIU7UUBfTXZ9ZzlW1EsD9AsPK_sIFnnyY8Z=w397-h298-k-no"
+                },
+                {
+                    "about": "Videos",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipPf0Is_MJYcw3HtYy_D24zK6c8Avnz_wJGMlyd4=w224-h398-k-no"
+                },
+                {
+                    "about": "Food",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipO7vItF-MTE5XJgcyCeEVcGkKnPvk82vpME65FM=w397-h298-k-no"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipNIh8Cb3qh16wxZPce5CZ9Fu4UvJQBlV3FKOt4=w224-h298-k-no-pi-0-ya220-ro0-fo100"
+                }
+            ],
+            "hours": [
+                {
+                    "day": "Monday",
+                    "times": [
+                        "7 a.m.-10 p.m."
+                    ]
+                },
+                {
+                    "day": "Tuesday",
+                    "times": [
+                        "7 a.m.-10 p.m."
+                    ]
+                },
+                {
+                    "day": "Wednesday",
+                    "times": [
+                        "7 a.m.-10 p.m."
+                    ]
+                },
+                {
+                    "day": "Thursday",
+                    "times": [
+                        "7 a.m.-10 p.m."
+                    ]
+                },
+                {
+                    "day": "Friday",
+                    "times": [
+                        "7 a.m.-10 p.m."
+                    ]
+                },
+                {
+                    "day": "Saturday",
+                    "times": [
+                        "7 a.m.-10 p.m."
+                    ]
+                },
+                {
+                    "day": "Sunday",
+                    "times": [
+                        "7 a.m.-10 p.m."
+                    ]
+                }
+            ],
+            "featured_reviews": [
+                {
+                    "review_id": "WARNING: If you want weevils infesting a box of your cereal, then step right up folks, because Miller's Independent will be at your service....for bugs!\n\nBought a box of Weetabix on Sunday, noticed a few bugs in the kitchen area later that evening (cereal is in a cupboard in the kitchen) and I honestly just thought they were fruit flies...but then noticed, \"hey, they don't fly around!\".\n\nCome Monday morning, noticed a whole bunch more - then we found the culprit - the NEW box of Weetabix had weevils all over the outside...so I opened it up (box was sealed/closed at this point) and the 2 individual packets were full of weevils. Infested. Dead weevils. Not only that, but somewhere along the line, someone had actually taped up the packet from being opened (don't even ask me who would've done this...I have no idea. Factory worker? Someone in the store and then they just sealed the cereal box back up?).\n\nI don't find weevils to be that gross, I was more concerned at the disgusting fact that someone had the audacity to seal up an opened packet of Weetabix and think placing it back in the box to seal and sell would be a good idea.\n\nAnyways, this sorta thing leaves a bad taste in your mouth. We live in the River District and don't mind coming here for a few \"here and there\" items, but Jesus Christ. A Monday morning shouldn't entail in you having to pull everything out of your cupboards to kill weevils when you have to start work right after dropping your kid off at daycare.\n\nSo we went back Monday afternoon and got a refund - I should've pushed them in refunding us our entire grocery bill from the previous day. But my wife didn't want me to get too harsh with them. I understand that it's possibly not THEIR fault... but some dolt along the line felt it was okay to tape back up an opened individual packet in a cereal box. And when I say the packet was infested...it was infested. Dead weevils. Dried up dead weevil corpses that reminded me of Egyptian mummies.\n\nAnd that's not all folks, we have spent the last 2+ days just finding one here and one there. Vinegar spray and soapy water has helped (vinegar I'm thinking is the better choice) and bay leaves/garlic cloves (though they are just a deterrent and not a permanent solution).\n\nIn the end, I should've just asked for a complete bill refund (not just on the cereal) and asked for them to pitch in a packet of bay leaves, some garlic, sani wipes/spray and a bottle of vinegar. Because I tell ya, it's a long process in clearing out every shelf/cupboard when this happens...especially when you have work to do, dinner to cook, and a baby to care for.\n\nWhat an absolute joke of a store.\n\nI would say at this point, we've probably killed around 50 live weevils in our kitchen area. Those suckers get in anything containing paper/cardboard so check all of our paper products surrounding the area.",
+                    "reviewer_name": "Liam Hannaford",
+                    "rating": 1,
+                    "review_text": "WARNING: If you want weevils infesting a box of your cereal, then step right up folks, because Miller's Independent will be at your service....for bugs!\n\nBought a box of Weetabix on Sunday, noticed a few bugs in the kitchen area later that evening (cereal is in a cupboard in the kitchen) and I honestly just thought they were fruit flies...but then noticed, \"hey, they don't fly around!\".\n\nCome Monday morning, noticed a whole bunch more - then we found the culprit - the NEW box of Weetabix had weevils all over the outside...so I opened it up (box was sealed/closed at this point) and the 2 individual packets were full of weevils. Infested. Dead weevils. Not only that, but somewhere along the line, someone had actually taped up the packet from being opened (don't even ask me who would've done this...I have no idea. Factory worker? Someone in the store and then they just sealed the cereal box back up?).\n\nI don't find weevils to be that gross, I was more concerned at the disgusting fact that someone had the audacity to seal up an opened packet of Weetabix and think placing it back in the box to seal and sell would be a good idea.\n\nAnyways, this sorta thing leaves a bad taste in your mouth. We live in the River District and don't mind coming here for a few \"here and there\" items, but Jesus Christ. A Monday morning shouldn't entail in you having to pull everything out of your cupboards to kill weevils when you have to start work right after dropping your kid off at daycare.\n\nSo we went back Monday afternoon and got a refund - I should've pushed them in refunding us our entire grocery bill from the previous day. But my wife didn't want me to get too harsh with them. I understand that it's possibly not THEIR fault... but some dolt along the line felt it was okay to tape back up an opened individual packet in a cereal box. And when I say the packet was infested...it was infested. Dead weevils. Dried up dead weevil corpses that reminded me of Egyptian mummies.\n\nAnd that's not all folks, we have spent the last 2+ days just finding one here and one there. Vinegar spray and soapy water has helped (vinegar I'm thinking is the better choice) and bay leaves/garlic cloves (though they are just a deterrent and not a permanent solution).\n\nIn the end, I should've just asked for a complete bill refund (not just on the cereal) and asked for them to pitch in a packet of bay leaves, some garlic, sani wipes/spray and a bottle of vinegar. Because I tell ya, it's a long process in clearing out every shelf/cupboard when this happens...especially when you have work to do, dinner to cook, and a baby to care for.\n\nWhat an absolute joke of a store.\n\nI would say at this point, we've probably killed around 50 live weevils in our kitchen area. Those suckers get in anything containing paper/cardboard so check all of our paper products surrounding the area.",
+                    "published_at": "2 months ago",
+                    "published_at_date": "2023-09-13T16:15:43.274000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 2,
+                    "total_number_of_reviews_by_reviewer": 3,
+                    "total_number_of_photos_by_reviewer": 4,
+                    "reviewer_url": "https://www.google.com/maps/contrib/113607115590150036970/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXqL6RXCpjHlxf3jdISDoh2V_MNmBVqJdKAsg5cPxPRdeM=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipMAxqSwYTnKtL_CQfWvOjreOMt-pven69pMaj1A=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOxxONATOpe6ZCN6IvNGs41uGtocMA3wJyJa2nN=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipM3iU2kfOQ38PR839IMmyAaTya87tgSqkhBBWo-=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipP-_A0r94DYJUPYCTvN8jKDveJv8HTAjEYCTyey=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "I'm generally underwhelmed by this store's selection and prices. The produce section in particular is a lot more expensive than other stores in the area, and it's often out of stock on items I buy frequently.\n\nMost egregious, though, is the spice section. When I first moved to the neighborhood, it was okay, but it seems like they stopped restocking all but the most basic bulk spice. You can only get things like paprika and cayenne here in bottles, and for 10x the price/weight ratio of the refill bags.\n\nI only ever come here to buy dairy items anymore, because it's slightly cheaper than 88 Supermarket and slightly closer than Save On. If I need more than dairy or a good selection of western items, I'll drive a bit further to avoid this place, and if I just need meat and produce I'll go to 88.",
+                    "reviewer_name": "Chris A",
+                    "rating": 2,
+                    "review_text": "I'm generally underwhelmed by this store's selection and prices. The produce section in particular is a lot more expensive than other stores in the area, and it's often out of stock on items I buy frequently.\n\nMost egregious, though, is the spice section. When I first moved to the neighborhood, it was okay, but it seems like they stopped restocking all but the most basic bulk spice. You can only get things like paprika and cayenne here in bottles, and for 10x the price/weight ratio of the refill bags.\n\nI only ever come here to buy dairy items anymore, because it's slightly cheaper than 88 Supermarket and slightly closer than Save On. If I need more than dairy or a good selection of western items, I'll drive a bit further to avoid this place, and if I just need meat and produce I'll go to 88.",
+                    "published_at": "a week ago",
+                    "published_at_date": "2023-11-19T23:54:40.009000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/113677027753672366911/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLXCUY8GPkz5fV1iDHjqCKFkk3_UI3613O_jz9q2N72=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "The best grocery store around our home!",
+                    "reviewer_name": "Dona Jindo",
+                    "rating": 5,
+                    "review_text": "The best grocery store around our home!",
+                    "published_at": "a month ago",
+                    "published_at_date": "2023-10-08T03:38:34.039000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 284,
+                    "total_number_of_photos_by_reviewer": 3288,
+                    "reviewer_url": "https://www.google.com/maps/contrib/114683250751991455838/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWX-Ntxa-U4rBAILrZEr2bTsdqA8EyFpRb0VMLpNVp_7A=s120-c-rp-mo-ba6-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipOEOItEe8eH-5BR3y7FFbXVu4svWcSppkEMQi7J=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOTajacABQKibj_fSeU-b9o7_PM5nZvG2COPmPi=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNSR91FtJKheNs0hK8cwjAdebsUgRmWKfI2p-99=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMxkF5VcYkqZh7-KZBxKiYntIq97FLsCnQwXxHD=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPn8uf0XqPPbpHZhaSPtv1GA9JBd7sBOTMzuoom=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOpj-_rUrLFisL1nyVGSDAsTe_X4Bl5fxEJxcq5=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNPUjj8I-5mYCPHxXMUCgHvgEqlNmGbjNyVi5n0=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPHLtS_r78KK9ztLJQiG00qUu-WHNjeVaDdfZft=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipO5D-Vpwq0OECGwiy81sjvx0AMxpbAP0feqzzZ7=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOBVe7frzA-adQdmyqKs3KCBxe2tJbrfqfxi-Bo=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipN0woapwBB7QNodXYI3mW_czLaQUh2_D3R0p274=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPsI59W9zOSkucMkBfaUlzSOF4_f_2MHvedKrK2=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMyCy38ysDJs7OGVGYaVmIvpp7WKKvXl8NDzNAo=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipP2Dra705ff-0vwxkavXnGOJeiHUbP-RqpcGwqB=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMrx8aO5t71FpvSan1Db4ZpyAqc88Vdq2kIvCoG=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipO8RQ9c_Ah5t2EdQfzZWFgjZjSnGAUsPEIZhaX-=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPID_ZSznHXSkpF76dg1faBcGd_EbklBtg8ppVo=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNJ3logCCuG4LmYLtemaR_RyQBqCi_pUsur8yrW=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNA3aXuucPIqTnYyH2p20YlZXRiA3Wv8pIn2BpA=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNGu44gr07vWhRZAcMf1HW8KZ6pjQ-lENKGRq-q=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPqrc97DzUOyc92FaQTbE2YBse5_pWwqSilJVOc=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOguDWWYv8xZMWIRyKk4MCxFyXKyouWPtdPK8qa=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNOfkpngPd4Z-Z2FWqx49-tirp6qjtYxmqflecv=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMQiX2Sspzi-MyX93OlGylfh_Ybhvx9BwwUagKp=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMv1DRbnsSRcstIf5rshJKkGtuHRLAlhS6fgRXi=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNhHihcf11GURYfqwCl1_CK1WcE1WHdbq3Baysu=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMEmcWFHsTWhh9QAD1yawrgo7UBAqQIJ3QNMRrg=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMimDgtcvHozBiWbfJCOZaqEQb7fNNMAkxNNAqQ=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipP23f1WRTH8-gzFwhC-4BlkXtVO6aW5FGggjpE9=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPLmLu51UNnnzk29fYWtvQWDjU1mbYFrzcHlfIt=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipP3CkJH2AKNP8hJ-S6XUy41ZEARQr-5YJiV6jDv=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNksl40zozSxrHZvb9kw65SAsSyeyZRZuhtbbWg=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipN08XkIpM2fUqftg9RnFIqJGD4q0JGT3Qnh4v9H=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNkhUtZwOkw0Mk4WSqmaicgkuMUq4BVNW3wNZt9=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMgwKT1T_yfbN-_78hTvggaJ5gRFc5spy2yAkzt=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPC5Es0fmbPOkqi6CWXNEXxPg5t7aZxfeCtsqSO=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNECDA56G1M02mu9INbrJ5SL_bnFvHHyCgH7qA6=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOyjORClSdLSBzTCcmvnq_2Hs6mvO-_s4nZWI_9=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOHHf7OcdiX1bxMYexCyH_ww6PF5j-3gI0KXk07=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMs9jhiqFfc2DQRfK-fUR7w6y-c9vEHfLDNpqZ3=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNlqTUlbd5fF6WC4WgyhwmeYXyzOBEc0eoc2Hn-=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPesxIRRW5CyxcPmVKMUy5vQZQdIT5OVS9WGfUZ=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipM6EdPjL6jCIAgWr3s3vf5wD3Sl2F6J2vv26T6b=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOOLwnqmpsyPUfahjq9FqcMCs0HDVIRBYVmUJXn=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOWuuiu2RJBaIKkjXKrzWFpWrsfWEdUCLcoLTHT=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNWTtMR7PwmvfPbjTCRYo4k_TOZZ-t6wxYY75-M=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOECweFUB1Dwmq3fHK8DNKTQMzDpsmOpeDQLh4j=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOjEw4dr7f6Jo0GLJNXq2WFk3VeCsAmiOW2c160=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNDa9fQ0gKMPeZyp9raw_c00FcHUkY4FAZq4Lrf=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOOVHoYvov-vicNIrEcDbW5R2FKUFPNSA5G_yTa=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "As a grocery store Miller's Independent Grocer is reasonable - probably closer to a 4 star rating. The prices are a bit more expensive than superstore, but the selection of goods is decent for the size of the store.\n\nThe pharmacy is what deserves this 2 star rating...maybe worse. It's really terrible. I had to pick up medication for my 2.5 year old last year and my GP called the pharmacy several times and no one picked up (the site clearly indicated the pharmacy was still open for another hour). We had to call into a different pharmacy to have the prescription filled. Then we dropped off a medication for her several months later (because this location is convenient for us). At time of pickup the next day we discovered they hadn't even mixed the medication for her so we had to wait. Then they gave us a syringe so we could give her the proper dosage, but the syringe didn't fit the bottle of medication! A month ago we needed an ointment for my daughter so I asked my husband to go to a different pharmacy to have it compounded. He forgot and dropped it off here again for convenience. And AGAIN it was not ready for pickup and we had to wait for them to compound it (2 days after they said it would be ready!). In fact I'm not convinced the medication was properly mixed into the ointment because the consistency is uneven. It's really the worst pharmacy experience I've ever had. I guess at least we eventually get the correct medication, but I would strongly recommend going to a different pharmacy whenever possible.",
+                    "reviewer_name": "Karen Lo",
+                    "rating": 2,
+                    "review_text": "As a grocery store Miller's Independent Grocer is reasonable - probably closer to a 4 star rating. The prices are a bit more expensive than superstore, but the selection of goods is decent for the size of the store.\n\nThe pharmacy is what deserves this 2 star rating...maybe worse. It's really terrible. I had to pick up medication for my 2.5 year old last year and my GP called the pharmacy several times and no one picked up (the site clearly indicated the pharmacy was still open for another hour). We had to call into a different pharmacy to have the prescription filled. Then we dropped off a medication for her several months later (because this location is convenient for us). At time of pickup the next day we discovered they hadn't even mixed the medication for her so we had to wait. Then they gave us a syringe so we could give her the proper dosage, but the syringe didn't fit the bottle of medication! A month ago we needed an ointment for my daughter so I asked my husband to go to a different pharmacy to have it compounded. He forgot and dropped it off here again for convenience. And AGAIN it was not ready for pickup and we had to wait for them to compound it (2 days after they said it would be ready!). In fact I'm not convinced the medication was properly mixed into the ointment because the consistency is uneven. It's really the worst pharmacy experience I've ever had. I guess at least we eventually get the correct medication, but I would strongly recommend going to a different pharmacy whenever possible.",
+                    "published_at": "2 months ago",
+                    "published_at_date": "2023-09-09T22:03:37.836000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 2,
+                    "total_number_of_reviews_by_reviewer": 4,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/112185081410233650741/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLEPhni7rFT0AXOcqsWktW8YYMnEuYrCTjkUG4V3_SE=s120-c-rp-mo-ba2-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Has everything anyone needs and the parking is extremely convenient. Also thr Tasty wok restaurant right outside is always so tempting.\n\nThe prices they offer there are amazing. This is some superstore discount pricing. You can see some similar items from my superstore review and compare with this place.",
+                    "reviewer_name": "Francis Kisin",
+                    "rating": 4,
+                    "review_text": "Has everything anyone needs and the parking is extremely convenient. Also thr Tasty wok restaurant right outside is always so tempting.\n\nThe prices they offer there are amazing. This is some superstore discount pricing. You can see some similar items from my superstore review and compare with this place.",
+                    "published_at": "a year ago",
+                    "published_at_date": "2022-01-23T00:52:50.215000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 4,
+                    "total_number_of_reviews_by_reviewer": 10,
+                    "total_number_of_photos_by_reviewer": 167,
+                    "reviewer_url": "https://www.google.com/maps/contrib/116441774227684066450/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjU59gtJZaVOGjqV-xnf5JWe7OD-b3t5EG8HhgWHjhH_Fg=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipMj_zHDx_eTALT0CYDy4vioU20FJ11hExKLJVd1=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMvLnNJTpsLncfyv0Lo9pRQrLz0E0d_YXM5dt5f=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPVw7Hu83wFItiI14MRAdnURMB7C-7UUpOrj4YF=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipP8uqgfH9IBdK2KRLrhkF-CTbqsKq_2O9GzIJcK=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNVACZll9RnNqaPF7fYlvqU5o7bH1jBONhzL_Fz=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOno-JM7CBVicoaD79yJpw4btl0g4MrMOeZHMau=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPtwxmHFmcrHXE_QbQkVXAoMZV_H5WYVfyZkEtX=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMW8tnpvjiLUYkInU7p0RdXPxNrJaF56sqyW8qf=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipO9uODZyNpVId4ViUvLTReHCynnx3LLAiQs4gSX=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPj5RT5f2PimCIXn2UjGqN1-Lq1srxcfm3eKoA4=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMSWV8vpp8gnEAKkSQ1Tl_pkfDdYhmUpq8s42Lb=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOoUc_BtCFtpEel1IlkLLTYMuZC9zQRHRPXiexK=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMqqXZGnN5b0E-HYfUgTzfcV5MfpC9fizEURywW=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNg6Dvtx536QQp8RIOolNREZaiy5_tVDxRVsw5K=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOWPMkAeSZCO31UQNQcT3C1Bof55Kq114rIa7UD=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPHXLRXQdSk1Y40jBVOxdW_9C7wu0bElQVko5MI=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNWEB81IopkxMLCKOMuTrooxjXoKx09papTeatZ=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipML_tlDDzCsfgwZP7Ue8vve3GkOioFhfQf9-kA_=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNr66VrRLWM1b2SdrlD5dRF95lV9lvFNAmLqll2=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOH0ltoPsA6pFhDAnyJKawPeCKAa69X0h6ClmC1=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNDmDx65lVHHUbfTT0ExKkLgdQuXyFTl9UzdXQm=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipP60LhvfiyjszSUmqop4Aa40a5G2M4IQxZV8mH2=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNpmivQhrzBCa5417BC-_p3HNe2i8yHstJUWYyV=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPYtRE3CTvy8sO8KtqJuejetOwJ1_-fTDnI8Sri=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipM_M-TG9ac6P2GNkE6ADWUzs75qulItbfOPr0U_=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipP7brtj-fqZ1o1fXGv2c45LvbvKYzZRv00_uJq0=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNbASr0cwGU0ZRJVmxz_7V7WpPihzHjSD4LO0n3=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPJYOgxdNS6X6O-8qbHGMSD8uM5wky8w7PLczkH=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNafJH91xVjzU4dstp3qWUVbuF78Me1nHQsSLCB=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipM6NJQkoU97pS8EmE-tzlFHFwL12nKlD36Xg5B4=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOYEAvpDQPaUUi4Rn2JsPxZbeTquEwP2Z-YsW_C=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNKJvs7d2pGgmGnDOGuwUG_UofbWYV3GaNf2---=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPV3y-l_m_DeGO0Q1ZlWPV_QPZpOh-D8CmoLjyW=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMkR2Rbd4swyzC0XTVOqXJaOL0VgKPiB_zdLzhs=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "It's my local place and I'm glad for it. Sure the prices are sometimes beat by bigger stores but they make up for that with lovely staff, well stocked shelves and a comfortable experience. Very happy with Miller's YIG as my go to grocer.",
+                    "reviewer_name": "Dylan Bruun",
+                    "rating": 5,
+                    "review_text": "It's my local place and I'm glad for it. Sure the prices are sometimes beat by bigger stores but they make up for that with lovely staff, well stocked shelves and a comfortable experience. Very happy with Miller's YIG as my go to grocer.",
+                    "published_at": "a month ago",
+                    "published_at_date": "2023-10-06T20:33:28.089000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 19,
+                    "total_number_of_photos_by_reviewer": 2,
+                    "reviewer_url": "https://www.google.com/maps/contrib/111504715903183930559/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXAINIrFgqlevOjIYiOQxOryIZXvCwXiFDr0ta7GPmySOWm=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Went to this store for the first time last week and was very impressed. The store is bright and clean and the shelves are better stocked than any other store I have shopped in in the last year. Prices are competitive",
+                    "reviewer_name": "Michael Robert",
+                    "rating": 4,
+                    "review_text": "Went to this store for the first time last week and was very impressed. The store is bright and clean and the shelves are better stocked than any other store I have shopped in in the last year. Prices are competitive",
+                    "published_at": "a month ago",
+                    "published_at_date": "2023-10-17T14:17:41.412000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 34,
+                    "total_number_of_photos_by_reviewer": 77,
+                    "reviewer_url": "https://www.google.com/maps/contrib/116556853899633758145/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWhA0J1slSwXg0gFMgr6TeSMD3W6hd27RqhKBspBRv6XPM=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "As I strolled through the store, I decided to grab some paper towels. However, as luck would have it, I suddenly remembered that I had forgotten an item. The cashier, who had long hair, seemed to get the wrong impression that I hadn't paid for the paper towels. I assured him that I had indeed paid , I said it twice but he remained skeptical and gave me an odd look and keep asking me in a nasty manner. To settle the matter, he left his station and consulted with another cashier in front of all the customers, leaving me feeling extremely embarrassed.\nI think it's illegal to accuse someone without having proof.\n\nAdding to my discomfort, the previous day, while I was shopping, I noticed someone keeping an eye on me, likely the store's security personnel(?) . He was not wearing anything showing his position in the store.First i thought that he is a weird guy as he was following me the whole time.I understood that it was part of their job, and I didn't say anything about it at the time. However, it made me uneasy, as I believe customers should feel at ease while shopping. It's essential to be vigilant without making patrons feel accused or uncomfortable.\n\nWhat made matters worse was that my daughter was with me during the incident with the cashier. She was shocked and upset to see someone accusing her mother, and I can't help but feel sorry for putting her through that situation.",
+                    "reviewer_name": "Hela jelali",
+                    "rating": 1,
+                    "review_text": "As I strolled through the store, I decided to grab some paper towels. However, as luck would have it, I suddenly remembered that I had forgotten an item. The cashier, who had long hair, seemed to get the wrong impression that I hadn't paid for the paper towels. I assured him that I had indeed paid , I said it twice but he remained skeptical and gave me an odd look and keep asking me in a nasty manner. To settle the matter, he left his station and consulted with another cashier in front of all the customers, leaving me feeling extremely embarrassed.\nI think it's illegal to accuse someone without having proof.\n\nAdding to my discomfort, the previous day, while I was shopping, I noticed someone keeping an eye on me, likely the store's security personnel(?) . He was not wearing anything showing his position in the store.First i thought that he is a weird guy as he was following me the whole time.I understood that it was part of their job, and I didn't say anything about it at the time. However, it made me uneasy, as I believe customers should feel at ease while shopping. It's essential to be vigilant without making patrons feel accused or uncomfortable.\n\nWhat made matters worse was that my daughter was with me during the incident with the cashier. She was shocked and upset to see someone accusing her mother, and I can't help but feel sorry for putting her through that situation.",
+                    "published_at": "4 months ago",
+                    "published_at_date": "2023-07-25T18:52:54.087000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 3,
+                    "total_number_of_photos_by_reviewer": 2,
+                    "reviewer_url": "https://www.google.com/maps/contrib/114525826420055191628/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVqs5ixp2gl7QXZ81z4RuSuEdlFaBOKB4ANNP1Q8h7RwYE=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJFX1opyp0hlQRRkMaKSXIBQw",
+            "name": "Champlain Square",
+            "description": null,
+            "reviews": 1027,
+            "website": "http://champlainsquare.com/",
+            "owner": {
+                "id": null,
+                "name": "Champlain Square (Owner)",
+                "link": null
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM9Ng8tQQ7kaJgMi_lTwIOwcvHyAGd5GX-UbjMf=w408-h306-k-no",
+            "main_category": "Shopping mall",
+            "categories": [
+                "Shopping mall"
+            ],
+            "rating": 4.1,
+            "workday_timing": "7 a.m.-10 p.m.",
+            "closed_on": [],
+            "phone": "(604) 451-0130",
+            "address": "Champlain Square, 7132 Kerr St, Vancouver, BC V5S 2A6",
+            "review_keywords": [
+                {
+                    "keyword": "groceries",
+                    "count": 55
+                },
+                {
+                    "keyword": "parking lot",
+                    "count": 55
+                },
+                {
+                    "keyword": "bakery",
+                    "count": 24
+                },
+                {
+                    "keyword": "library",
+                    "count": 21
+                },
+                {
+                    "keyword": "liquor store",
+                    "count": 21
+                },
+                {
+                    "keyword": "dollar store",
+                    "count": 16
+                },
+                {
+                    "keyword": "strip mall",
+                    "count": 14
+                },
+                {
+                    "keyword": "fast food",
+                    "count": 14
+                },
+                {
+                    "keyword": "produce",
+                    "count": 12
+                },
+                {
+                    "keyword": "dentist",
+                    "count": 6
+                }
+            ],
+            "link": "https://www.google.com/maps/place/Champlain+Square/data=!4m7!3m6!1s0x5486742aa7687d15:0xc05c825291a4346!8m2!3d49.2190856!4d-123.0403801!16s%2Fg%2F1tvm2g3t!19sChIJFX1opyp0hlQRRkMaKSXIBQw?authuser=0&hl=en&rclk=1",
+            "status": "Open  Closes 10 p.m.",
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 17,
+                "2": 29,
+                "3": 186,
+                "4": 373,
+                "5": 422
+            },
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJFX1opyp0hlQRRkMaKSXIBQw&q=Champlain+Square&authuser=0&hl=en&gl=CA",
+            "coordinates": {
+                "latitude": 49.2190856,
+                "longitude": -123.0403801
+            },
+            "plus_code": "6X95+JR Vancouver, British Columbia",
+            "detailed_address": {
+                "ward": "South Vancouver",
+                "street": "7132 Kerr St",
+                "city": "Vancouver",
+                "postal_code": "V5S 2A6",
+                "state": "British Columbia",
+                "country_code": "CA"
+            },
+            "time_zone": "America/Vancouver",
+            "cid": "866318565267620678",
+            "data_id": "0x5486742aa7687d15:0xc05c825291a4346",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [
+                {
+                    "id": "service_options",
+                    "name": "Service options",
+                    "options": [
+                        {
+                            "name": "In-store shopping",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "accessibility",
+                    "name": "Accessibility",
+                    "options": [
+                        {
+                            "name": "Wheelchair-accessible entrance",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Wheelchair-accessible parking lot",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipM9Ng8tQQ7kaJgMi_lTwIOwcvHyAGd5GX-UbjMf=w397-h298-k-no"
+                },
+                {
+                    "about": "Latest",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipNBjTZRHNbDGlaqqhMEc6MT1j2X5Eanb1bjpiZL=w224-h298-k-no"
+                },
+                {
+                    "about": "Videos",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipOmM5MlAZR9a5wX2y97lU1WTgTEOrk-uIsVZNxD=w224-h398-k-no"
+                },
+                {
+                    "about": "Inside",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipPLfcp1mIG8bSMYhvHlmay4VSkDcSJHbVlfsZAD=w224-h298-k-no"
+                },
+                {
+                    "about": "Food",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipPLfcp1mIG8bSMYhvHlmay4VSkDcSJHbVlfsZAD=w224-h298-k-no"
+                },
+                {
+                    "about": "Restaurant",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipP3RegHQzYRqmrFyZb88PyQaqgRnzPP0gb2yu0=w397-h298-k-no"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=2aInp2i76--KXUU0_2sIsg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=92.63043&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [
+                {
+                    "day": "Monday",
+                    "times": [
+                        "7 a.m.-10 p.m."
+                    ]
+                },
+                {
+                    "day": "Tuesday",
+                    "times": [
+                        "7 a.m.-10 p.m."
+                    ]
+                },
+                {
+                    "day": "Wednesday",
+                    "times": [
+                        "7 a.m.-10 p.m."
+                    ]
+                },
+                {
+                    "day": "Thursday",
+                    "times": [
+                        "7 a.m.-10 p.m."
+                    ]
+                },
+                {
+                    "day": "Friday",
+                    "times": [
+                        "7 a.m.-10 p.m."
+                    ]
+                },
+                {
+                    "day": "Saturday",
+                    "times": [
+                        "7 a.m.-10 p.m."
+                    ]
+                },
+                {
+                    "day": "Sunday",
+                    "times": [
+                        "7 a.m.-10 p.m."
+                    ]
+                }
+            ],
+            "featured_reviews": [
+                {
+                    "review_id": "I had a fantastic experience at \"TEC-HUT\" . The staff here are not only experts in their field but also extremely friendly and helpful. They were able to quickly diagnose and repair my mobile phone as well as laptop, saving me from a lot of inconvenience.",
+                    "reviewer_name": "Patel Aamena",
+                    "rating": 5,
+                    "review_text": "I had a fantastic experience at \"TEC-HUT\" . The staff here are not only experts in their field but also extremely friendly and helpful. They were able to quickly diagnose and repair my mobile phone as well as laptop, saving me from a lot of inconvenience.",
+                    "published_at": "a month ago",
+                    "published_at_date": "2023-10-08T22:05:09.201000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 1,
+                    "reviewer_url": "https://www.google.com/maps/contrib/116220043122315040661/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJ6XKBhI8VVezpsnFYxs3hAWV0NEvdquFE4xN2RB-Cs=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipMFiiLtUCNfLESFr3kFghRgkX5n40KQXlloJYew=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "Barry is always so helpful to just go out his way to help me evertime I'm there and have seen him do the same for others you have a great employees in barry",
+                    "reviewer_name": "rick larsen",
+                    "rating": 5,
+                    "review_text": "Barry is always so helpful to just go out his way to help me evertime I'm there and have seen him do the same for others you have a great employees in barry",
+                    "published_at": "a week ago",
+                    "published_at_date": "2023-11-16T01:57:51.918000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 157,
+                    "total_number_of_photos_by_reviewer": 211,
+                    "reviewer_url": "https://www.google.com/maps/contrib/116310045210439722404/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjV3FyxaEJnNDd87ORGvI92Z0TJQCs6ibwltAL4LDKDN88k=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Quench your thirst at Liquor store and get the snacks for independent store and other food offerings around. For these coming days is time to stay cool. Pantry check!",
+                    "reviewer_name": "Der \"oyamel5.0\" meister",
+                    "rating": 4,
+                    "review_text": "Quench your thirst at Liquor store and get the snacks for independent store and other food offerings around. For these coming days is time to stay cool. Pantry check!",
+                    "published_at": "4 days ago",
+                    "published_at_date": "2023-11-24T02:54:42.440000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 173,
+                    "total_number_of_photos_by_reviewer": 401,
+                    "reviewer_url": "https://www.google.com/maps/contrib/106772204685422795783/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVxX5YBJXFnj8_YYxcMWJlDdDWkJed0T9jgVGXMn2mlWHo=s120-c-rp-mo-ba5-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Has the necessities...but very poorly designed parking lot. One must remember to keep patient while parking here",
+                    "reviewer_name": "Mark Flaming",
+                    "rating": 3,
+                    "review_text": "Has the necessities...but very poorly designed parking lot. One must remember to keep patient while parking here",
+                    "published_at": "2 months ago",
+                    "published_at_date": "2023-09-23T15:48:56.777000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 94,
+                    "total_number_of_photos_by_reviewer": 206,
+                    "reviewer_url": "https://www.google.com/maps/contrib/104727225627075100054/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUFDkxtveRsV5dPsseKm1vNtDDiHHnBAbsOF_6xANDnYEU=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "A nice little neighborhood outdoor mall with Independent Grocer, a BC Liquor Store, a Starbucks, Kin's Market, and an A&W as the larger outlets.  I like how it serves mostly the residential areas around it so it never gets crazy busy but is lively and busy enough to support a variety of stores.  There's also a public library and professional (health care) office in the same plaza.",
+                    "reviewer_name": "Howard Poon",
+                    "rating": 5,
+                    "review_text": "A nice little neighborhood outdoor mall with Independent Grocer, a BC Liquor Store, a Starbucks, Kin's Market, and an A&W as the larger outlets.  I like how it serves mostly the residential areas around it so it never gets crazy busy but is lively and busy enough to support a variety of stores.  There's also a public library and professional (health care) office in the same plaza.",
+                    "published_at": "9 months ago",
+                    "published_at_date": "2023-02-05T23:08:55.253000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 192,
+                    "total_number_of_photos_by_reviewer": 122,
+                    "reviewer_url": "https://www.google.com/maps/contrib/113004925205209319995/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXBVy5-4aKE2OjmShLkHziqIO2ArH0ftTYFk2mCC3TBZQ=s120-c-rp-mo-ba5-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Nice place to sit down if you're getting your shopping done. Has a bakery and best priced chinese takeout .",
+                    "reviewer_name": "Nimai Bonnardel",
+                    "rating": 5,
+                    "review_text": "Nice place to sit down if you're getting your shopping done. Has a bakery and best priced chinese takeout .",
+                    "published_at": "5 months ago",
+                    "published_at_date": "2023-06-22T13:13:05.798000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 8,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/115594502344640977824/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIwdn8yqa3EZKKYbqX1DTl-WzlDmdU1XCGEnGjrcXxH=s120-c-rp-mo-ba2-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Love this spot for the Independent Market and Kins Produce store. Both have great selection and Kins has the best produce prices.\n\nThere's also a couple of fast food restaurants, a liquor store, Starbucks, pharmacy, and more.",
+                    "reviewer_name": "Katherine",
+                    "rating": 5,
+                    "review_text": "Love this spot for the Independent Market and Kins Produce store. Both have great selection and Kins has the best produce prices.\n\nThere's also a couple of fast food restaurants, a liquor store, Starbucks, pharmacy, and more.",
+                    "published_at": "9 months ago",
+                    "published_at_date": "2023-02-26T14:50:14.831000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 33,
+                    "total_number_of_photos_by_reviewer": 21,
+                    "reviewer_url": "https://www.google.com/maps/contrib/110093927096597790520/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW6Hnrqi1_ULWeqRGq9bHaim34JVQocjpLZUKtE_9R9BlQ=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Pitiful mall. Freedom Mobile kiosk remains empty for over a year now. Google won't remove the listing. I wouldn't be surprised if the mall is imploded and a highrise built in its place.",
+                    "reviewer_name": "Google User (M. B.)",
+                    "rating": 2,
+                    "review_text": "Pitiful mall. Freedom Mobile kiosk remains empty for over a year now. Google won't remove the listing. I wouldn't be surprised if the mall is imploded and a highrise built in its place.",
+                    "published_at": "6 months ago",
+                    "published_at_date": "2023-05-10T08:34:00.812000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 307,
+                    "total_number_of_photos_by_reviewer": 67,
+                    "reviewer_url": "https://www.google.com/maps/contrib/112458136285370525794/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVGoHWa0rXzFeAxXBhUbXtTNYGbY2hV03rvC04SxL0D0e-1=s120-c-rp-mo-ba6-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJ74lAD4B2hlQRJ0soQF8ohv8",
+            "name": "Loblaw Pharmacy",
+            "description": null,
+            "reviews": 17,
+            "website": "https://www.yourindependentgrocer.ca/pharmacy%3FstoreId%3D1697%26utm_source%3DG%26utm_medium%3DLPM%26utm_campaign%3DLoblaws",
+            "owner": {
+                "id": "109704479498561312887",
+                "name": "Loblaw Pharmacy (Owner)",
+                "link": "https://www.google.com/maps/contrib/109704479498561312887"
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM5EV398dM0HLzT0yLbJuU2KgpBmB3H7drh7EJn=w408-h306-k-no",
+            "main_category": "Pharmacy",
+            "categories": [
+                "Pharmacy",
+                "Drug store"
+            ],
+            "rating": 3.6,
+            "workday_timing": "9 a.m.-9 p.m.",
+            "closed_on": [],
+            "phone": "(604) 430-3381",
+            "address": "Loblaw Pharmacy, 7190 Kerr St, Vancouver, BC V5S 4W2",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Loblaw+Pharmacy/data=!4m7!3m6!1s0x548676800f4089ef:0xff86285f40284b27!8m2!3d49.218827!4d-123.039827!16s%2Fg%2F11ggqdg_ld!19sChIJ74lAD4B2hlQRJ0soQF8ohv8?authuser=0&hl=en&rclk=1",
+            "status": "Closed  Opens 9 a.m.",
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 4,
+                "2": 1,
+                "3": 0,
+                "4": 5,
+                "5": 7
+            },
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ74lAD4B2hlQRJ0soQF8ohv8&q=Loblaw+Pharmacy&authuser=0&hl=en&gl=CA",
+            "coordinates": {
+                "latitude": 49.218827,
+                "longitude": -123.03982699999999
+            },
+            "plus_code": "6X96+G3 Vancouver, British Columbia",
+            "detailed_address": {
+                "ward": "South Vancouver",
+                "street": "7190 Kerr St",
+                "city": "Vancouver",
+                "postal_code": "V5S 4W2",
+                "state": "British Columbia",
+                "country_code": "CA"
+            },
+            "time_zone": "America/Vancouver",
+            "cid": "18412448516114238247",
+            "data_id": "0x548676800f4089ef:0xff86285f40284b27",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [
+                {
+                    "id": "service_options",
+                    "name": "Service options",
+                    "options": [
+                        {
+                            "name": "Delivery",
+                            "enabled": true
+                        },
+                        {
+                            "name": "In-store pickup",
+                            "enabled": true
+                        },
+                        {
+                            "name": "In-store shopping",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "accessibility",
+                    "name": "Accessibility",
+                    "options": [
+                        {
+                            "name": "Wheelchair-accessible entrance",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Wheelchair-accessible parking lot",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "payments",
+                    "name": "Payments",
+                    "options": [
+                        {
+                            "name": "Credit cards",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipM5EV398dM0HLzT0yLbJuU2KgpBmB3H7drh7EJn=w397-h298-k-no"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=VSfJLITvIJAMMB7sIiDvfw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=76.780846&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [
+                {
+                    "day": "Monday",
+                    "times": [
+                        "9 a.m.-9 p.m."
+                    ]
+                },
+                {
+                    "day": "Tuesday",
+                    "times": [
+                        "9 a.m.-9 p.m."
+                    ]
+                },
+                {
+                    "day": "Wednesday",
+                    "times": [
+                        "9 a.m.-9 p.m."
+                    ]
+                },
+                {
+                    "day": "Thursday",
+                    "times": [
+                        "9 a.m.-9 p.m."
+                    ]
+                },
+                {
+                    "day": "Friday",
+                    "times": [
+                        "9 a.m.-9 p.m."
+                    ]
+                },
+                {
+                    "day": "Saturday",
+                    "times": [
+                        "9 a.m.-6 p.m."
+                    ]
+                },
+                {
+                    "day": "Sunday",
+                    "times": [
+                        "10 a.m.-6 p.m."
+                    ]
+                }
+            ],
+            "featured_reviews": [
+                {
+                    "review_id": "Like this place! You can find all things hereI absolutely love Loblaw pharmacy! The staff are always so friendly and helpful, and they go above and beyond to make sure I have everything I need. They have a great selection of products, and their prices are always very competitive. I never have to wait long for my prescriptions to be filled, and they are always ready when I need them. Overall, I am extremely satisfied with the service and care I receive at Loblaw pharmacy.",
+                    "reviewer_name": "Elina Kuznetsova",
+                    "rating": 5,
+                    "review_text": "Like this place! You can find all things hereI absolutely love Loblaw pharmacy! The staff are always so friendly and helpful, and they go above and beyond to make sure I have everything I need. They have a great selection of products, and their prices are always very competitive. I never have to wait long for my prescriptions to be filled, and they are always ready when I need them. Overall, I am extremely satisfied with the service and care I receive at Loblaw pharmacy.",
+                    "published_at": "10 months ago",
+                    "published_at_date": "2023-01-10T05:10:05.808000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 128,
+                    "total_number_of_photos_by_reviewer": 3632,
+                    "reviewer_url": "https://www.google.com/maps/contrib/113974821122219209623/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUWFGkTqhxowNBqSWfOEngmq8b_o8UEwtk8ZQB2zBl4Wwpi=s120-c-rp-mo-ba6-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "They used to be a lot more accommodating and helpful, but these days they have this attitude of \"you're too inconvenient to us, we don't want to help you.\"\n\nThe exact same requests to order medication that's low on stock got denied here - Shoppers next door immediately took the time to order a batch for me. All I got from here was \"no, no, no - go somewhere else.\" Same issue with getting medical supplies, even when I offered to buy a full box of the item, they refused to provide any alternatives.",
+                    "reviewer_name": "Alex Y",
+                    "rating": 1,
+                    "review_text": "They used to be a lot more accommodating and helpful, but these days they have this attitude of \"you're too inconvenient to us, we don't want to help you.\"\n\nThe exact same requests to order medication that's low on stock got denied here - Shoppers next door immediately took the time to order a batch for me. All I got from here was \"no, no, no - go somewhere else.\" Same issue with getting medical supplies, even when I offered to buy a full box of the item, they refused to provide any alternatives.",
+                    "published_at": "10 months ago",
+                    "published_at_date": "2023-01-12T02:58:48.153000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 151,
+                    "total_number_of_photos_by_reviewer": 116,
+                    "reviewer_url": "https://www.google.com/maps/contrib/107668524983029227238/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIJoOVwYjiql8bNx5Ugya1JrbSt1sS9BnrzxZw7Qp7FQVg=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "I am a regular customer.  I was very satisfied with the pharmacy's services here.  But yesterday, I feel the pharmacy need some improvement on the services.  During the Covid,  lot of Doctors won't see their patients in person anymore.  Like me, I see my family doctor by phone.  The doctor would fax the prescription to the pharmacy.  However the fax machine is down.  The on duty pharmacist refuse accept the e-mail prescription as an alternative option.  What is the difference between the fax and email?  Why the on duty pharmacist only accept the fax one.  I think this is stupid.  Hope the pharmacy can be more flexible (or at least has an alternative option for the prescription), especially now-a-day most younger people don't even know what Is a fax.  Just want the pharmacy have a better services.  I will give you a better review next time.",
+                    "reviewer_name": "wei yang",
+                    "rating": 1,
+                    "review_text": "I am a regular customer.  I was very satisfied with the pharmacy's services here.  But yesterday, I feel the pharmacy need some improvement on the services.  During the Covid,  lot of Doctors won't see their patients in person anymore.  Like me, I see my family doctor by phone.  The doctor would fax the prescription to the pharmacy.  However the fax machine is down.  The on duty pharmacist refuse accept the e-mail prescription as an alternative option.  What is the difference between the fax and email?  Why the on duty pharmacist only accept the fax one.  I think this is stupid.  Hope the pharmacy can be more flexible (or at least has an alternative option for the prescription), especially now-a-day most younger people don't even know what Is a fax.  Just want the pharmacy have a better services.  I will give you a better review next time.",
+                    "published_at": "a year ago",
+                    "published_at_date": "2022-04-10T10:18:20.908000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 3,
+                    "total_number_of_reviews_by_reviewer": 17,
+                    "total_number_of_photos_by_reviewer": 5,
+                    "reviewer_url": "https://www.google.com/maps/contrib/105048490697556426261/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLSLn-0M_NpzzAk7RvTerRFXT7rM-43DQCC71dKj8f2=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Suffering from understaffing like all places but doing their best. I checked with their customer service desk 3x for a bag that was droppedin their store and was told it was not there, started the steps of cancelling my bank cards, getting new ID, and towing my car to be rekeyed - only to be phoned 12 hours after it had been dropped off and told it was there the whole time. If you leave something with customer service or hope to find a lost item there, godspeed, it might as well be gone.",
+                    "reviewer_name": "Ginny",
+                    "rating": 4,
+                    "review_text": "Suffering from understaffing like all places but doing their best. I checked with their customer service desk 3x for a bag that was droppedin their store and was told it was not there, started the steps of cancelling my bank cards, getting new ID, and towing my car to be rekeyed - only to be phoned 12 hours after it had been dropped off and told it was there the whole time. If you leave something with customer service or hope to find a lost item there, godspeed, it might as well be gone.",
+                    "published_at": "a year ago",
+                    "published_at_date": "2022-08-21T22:15:38.348000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 7,
+                    "total_number_of_photos_by_reviewer": 1,
+                    "reviewer_url": "https://www.google.com/maps/contrib/106694672959473643698/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXBaNQ3C4ZhTep1oxbPIKR-MbSwXOJnYodnjothVunP-ss=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Just had my Covid booster here and found the staff fast, friendly and professional. They are lacking space to house everything they sell but they always have enough stock to give you what you need.",
+                    "reviewer_name": "Jeff Summers",
+                    "rating": 4,
+                    "review_text": "Just had my Covid booster here and found the staff fast, friendly and professional. They are lacking space to house everything they sell but they always have enough stock to give you what you need.",
+                    "published_at": "a year ago",
+                    "published_at_date": "2022-01-08T21:50:48.234000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 215,
+                    "total_number_of_photos_by_reviewer": 37,
+                    "reviewer_url": "https://www.google.com/maps/contrib/115521961202941241257/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWTMoxcmnHaJMbELqyhO6nWcTvvzDG5MlQKC17hWUUJJe0=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "I have been coming to this Pharmacy for many years and have never had a problem.  The staff are always friendly and helpful.",
+                    "reviewer_name": "Victor Wong",
+                    "rating": 5,
+                    "review_text": "I have been coming to this Pharmacy for many years and have never had a problem.  The staff are always friendly and helpful.",
+                    "published_at": "a year ago",
+                    "published_at_date": "2022-02-10T22:00:46.449000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 16,
+                    "total_number_of_photos_by_reviewer": 34,
+                    "reviewer_url": "https://www.google.com/maps/contrib/117516055690222241756/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXOVuecWctCgE3Rx03061nEfnuvkWt4LaY4Y5TkA6bL1c0=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Just had flu shot here, Pharmacist Grace was so professional , kind and nice.",
+                    "reviewer_name": "Tiffany Nguyen",
+                    "rating": 5,
+                    "review_text": "Just had flu shot here, Pharmacist Grace was so professional , kind and nice.",
+                    "published_at": "a year ago",
+                    "published_at_date": "2022-11-10T02:25:07.363000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 70,
+                    "total_number_of_photos_by_reviewer": 73,
+                    "reviewer_url": "https://www.google.com/maps/contrib/107317855447731017342/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVZjeS7KHRKVkMdj1FX5aZYBr9PHVjrc_O-SkMJi9tgtTwd=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "I've been going to this location for years and have found it to be among the friendliest and most helpful pharmacists.",
+                    "reviewer_name": "K L",
+                    "rating": 5,
+                    "review_text": "I've been going to this location for years and have found it to be among the friendliest and most helpful pharmacists.",
+                    "published_at": "3 years ago",
+                    "published_at_date": "2020-11-01T19:07:21.368000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 74,
+                    "total_number_of_photos_by_reviewer": 10,
+                    "reviewer_url": "https://www.google.com/maps/contrib/117891070262448904338/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIY3ROnjGDx_HVzUZ7S4AcJQM5Mhj-eq-QpbgYgCFtv=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJxbxREIB2hlQRcZ6_z-TKvRE",
+            "name": "Canada Post",
+            "description": null,
+            "reviews": 27,
+            "website": "https://www.canadapost.ca/",
+            "owner": {
+                "id": "102960681969365815681",
+                "name": "Canada Post (Owner)",
+                "link": "https://www.google.com/maps/contrib/102960681969365815681"
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO1mXHzp6ypKF_bL7Oa1VabKyTF5QhEh5Cv9m0J=w408-h544-k-no",
+            "main_category": "Post office",
+            "categories": [
+                "Post office"
+            ],
+            "rating": 2.4,
+            "workday_timing": "9 a.m.-7 p.m.",
+            "closed_on": [],
+            "phone": null,
+            "address": "Canada Post, 7160 Kerr St, Vancouver, BC V5S 3T0",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Canada+Post/data=!4m7!3m6!1s0x548676801051bcc5:0x11bdcae4cfbf9e71!8m2!3d49.2191228!4d-123.0402123!16s%2Fg%2F11c0xqppwt!19sChIJxbxREIB2hlQRcZ6_z-TKvRE?authuser=0&hl=en&rclk=1",
+            "status": "Closed  Opens 9 a.m.",
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 14,
+                "2": 2,
+                "3": 2,
+                "4": 3,
+                "5": 6
+            },
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJxbxREIB2hlQRcZ6_z-TKvRE&q=Canada+Post&authuser=0&hl=en&gl=CA",
+            "coordinates": {
+                "latitude": 49.2191228,
+                "longitude": -123.0402123
+            },
+            "plus_code": "6X95+JW Vancouver, British Columbia",
+            "detailed_address": {
+                "ward": "South Vancouver",
+                "street": "7160 Kerr St",
+                "city": "Vancouver",
+                "postal_code": "V5S 3T0",
+                "state": "British Columbia",
+                "country_code": "CA"
+            },
+            "time_zone": "America/Vancouver",
+            "cid": "1278400953329884785",
+            "data_id": "0x548676801051bcc5:0x11bdcae4cfbf9e71",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [
+                {
+                    "id": "accessibility",
+                    "name": "Accessibility",
+                    "options": [
+                        {
+                            "name": "Wheelchair-accessible entrance",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Wheelchair-accessible parking lot",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipO1mXHzp6ypKF_bL7Oa1VabKyTF5QhEh5Cv9m0J=w224-h298-k-no"
+                },
+                {
+                    "about": "Inside",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipPF-y227HkFig5nzk7P8z70WwiX8gO-SsS2z_IS=w224-h298-k-no"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vXV_liyTC6QGG-KmQIe3kA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=91.47194&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [
+                {
+                    "day": "Monday",
+                    "times": [
+                        "9 a.m.-7 p.m."
+                    ]
+                },
+                {
+                    "day": "Tuesday",
+                    "times": [
+                        "9 a.m.-7 p.m."
+                    ]
+                },
+                {
+                    "day": "Wednesday",
+                    "times": [
+                        "9 a.m.-7 p.m."
+                    ]
+                },
+                {
+                    "day": "Thursday",
+                    "times": [
+                        "9 a.m.-7 p.m."
+                    ]
+                },
+                {
+                    "day": "Friday",
+                    "times": [
+                        "9 a.m.-7 p.m."
+                    ]
+                },
+                {
+                    "day": "Saturday",
+                    "times": [
+                        "9 a.m.-5 p.m."
+                    ]
+                },
+                {
+                    "day": "Sunday",
+                    "times": [
+                        "10 a.m.-4 p.m."
+                    ]
+                }
+            ],
+            "featured_reviews": [
+                {
+                    "review_id": "The staff is professional. I usually just drop off package there, so they process it really fast. However there is always a long line and the customers before me always take extremely long time. Since there is social distance measures and people have mask required so I don't mind that much wait inline :)",
+                    "reviewer_name": "Cindy Tang",
+                    "rating": 4,
+                    "review_text": "The staff is professional. I usually just drop off package there, so they process it really fast. However there is always a long line and the customers before me always take extremely long time. Since there is social distance measures and people have mask required so I don't mind that much wait inline :)",
+                    "published_at": "3 years ago",
+                    "published_at_date": "2020-10-17T18:08:03.657000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 182,
+                    "total_number_of_photos_by_reviewer": 997,
+                    "reviewer_url": "https://www.google.com/maps/contrib/105673729437178634565/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW1uTkOTvNBS-mW6CyHz415qxVbS71K0VC5sBQgIqBF8S8=s120-c-rp-mo-ba5-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipO1mXHzp6ypKF_bL7Oa1VabKyTF5QhEh5Cv9m0J=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPF-y227HkFig5nzk7P8z70WwiX8gO-SsS2z_IS=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "I've been going here for like a decade and it's been pretty mediocre in service. There was a short older Asian lady at the counter working mornings who always seemed to be in a bad mood and whenever I asked her anything she would basically shout back the answer at me like I was stupid. The older Asian man hasn't been that rude to me, but he's just really slow and seems kind of miserable. Haven't had any trouble with any of the other staff, but the evening people seem to sometimes take their lunch without someone to cover for them, and leave a sign up \"will be back in 30 minutes\". Not sure if she still works there but there was one young lady who was excellent with customers. White lady with brown hair. Super nice and super helpful when you had a problem. There were a couple times that I went in the next business day after 1 pm to get my package and it wasn't at the post office yet. I would recommend going 2 or 3 business days after receiving your door knocker, just to be sure.",
+                    "reviewer_name": "Maria W",
+                    "rating": 3,
+                    "review_text": "I've been going here for like a decade and it's been pretty mediocre in service. There was a short older Asian lady at the counter working mornings who always seemed to be in a bad mood and whenever I asked her anything she would basically shout back the answer at me like I was stupid. The older Asian man hasn't been that rude to me, but he's just really slow and seems kind of miserable. Haven't had any trouble with any of the other staff, but the evening people seem to sometimes take their lunch without someone to cover for them, and leave a sign up \"will be back in 30 minutes\". Not sure if she still works there but there was one young lady who was excellent with customers. White lady with brown hair. Super nice and super helpful when you had a problem. There were a couple times that I went in the next business day after 1 pm to get my package and it wasn't at the post office yet. I would recommend going 2 or 3 business days after receiving your door knocker, just to be sure.",
+                    "published_at": "9 months ago",
+                    "published_at_date": "2023-02-05T22:30:30.021000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 16,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/103019074598975673886/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXaUThqwPVJMNEs2Ri9dkNzyyap4elnDQCg6QahPUsgQLQ=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Worst location.\nEmployees could take a course in customer service.\nStaff is condescending and rude.\nThey outright blame Canada Post about their notification showing that packages are ready for pick up being fake and should wait a day or until you get a reminder.\n\nHow lazy is that when you see them have no customers and a pile of packages to scan in, they're instead standing around gossiping.\n\nDo a full circle of Shoppers to not interrupt them and nope, they're still gossiping and get mad at you for interrupting.\n\nThe senior Asian lady with the long wavy hair is the worst.",
+                    "reviewer_name": "re-re-vui",
+                    "rating": 1,
+                    "review_text": "Worst location.\nEmployees could take a course in customer service.\nStaff is condescending and rude.\nThey outright blame Canada Post about their notification showing that packages are ready for pick up being fake and should wait a day or until you get a reminder.\n\nHow lazy is that when you see them have no customers and a pile of packages to scan in, they're instead standing around gossiping.\n\nDo a full circle of Shoppers to not interrupt them and nope, they're still gossiping and get mad at you for interrupting.\n\nThe senior Asian lady with the long wavy hair is the worst.",
+                    "published_at": "10 months ago",
+                    "published_at_date": "2023-01-24T02:45:34.916000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 304,
+                    "total_number_of_photos_by_reviewer": 145,
+                    "reviewer_url": "https://www.google.com/maps/contrib/116867597648253649234/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKB-5Vo8CpMtQnkdrW3ae5qKi5yVeaLmD1N85E6jOY2Yw=s120-c-rp-mo-ba5-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "A lot of people say this location is really bad. Just went here today, the lady working, Padma, was great! Quick, friendly, and professional.",
+                    "reviewer_name": "Randy MacPhee",
+                    "rating": 5,
+                    "review_text": "A lot of people say this location is really bad. Just went here today, the lady working, Padma, was great! Quick, friendly, and professional.",
+                    "published_at": "5 months ago",
+                    "published_at_date": "2023-06-14T03:36:07.448000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 8,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/100149973922508688652/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKr3yaS87gYrqMWW1Kz-qLx505B0UA7ywzbseFmIyW9=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "I attended this RPO yesterday to do a Telus return...no return label or instructions from Telus!  Clerk took the parcel, printed a label, gave me a receipt with the tracking number (which he explained) and told me to have a good day!",
+                    "reviewer_name": "Julia Penwarden",
+                    "rating": 5,
+                    "review_text": "I attended this RPO yesterday to do a Telus return...no return label or instructions from Telus!  Clerk took the parcel, printed a label, gave me a receipt with the tracking number (which he explained) and told me to have a good day!",
+                    "published_at": "a year ago",
+                    "published_at_date": "2022-08-17T02:35:51.866000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/104848795691684034037/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLIXhqaDfB8gdWhUPq5hr8jut1HcQKBJuyBQtR7vuAn=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Good service, not as quick as I expected it to be but.. there's that bald man with glasses that handles stuff very quickly and sorta rushes, I wanted stamps and he thought I was a stamp collector so he found the most expensive stamps possible until I told him all I need to do is mail. It is ok though, I came here for flexdelivery and their service is good. All I need to say is they need some more space and they need to have more cashiers.",
+                    "reviewer_name": "Patrick Huynh",
+                    "rating": 4,
+                    "review_text": "Good service, not as quick as I expected it to be but.. there's that bald man with glasses that handles stuff very quickly and sorta rushes, I wanted stamps and he thought I was a stamp collector so he found the most expensive stamps possible until I told him all I need to do is mail. It is ok though, I came here for flexdelivery and their service is good. All I need to say is they need some more space and they need to have more cashiers.",
+                    "published_at": "3 years ago",
+                    "published_at_date": "2020-10-21T00:43:17.989000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 2,
+                    "total_number_of_reviews_by_reviewer": 21,
+                    "total_number_of_photos_by_reviewer": 2,
+                    "reviewer_url": "https://www.google.com/maps/contrib/116738680930890084910/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXJ9PzxIHb4y9piCHcah7BKlTBBu_uQC1PHA5wTgW9_AkKD=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "The old guy there (I am not young either) would not let me use their hand cart to bring in my big heavy box which a friend helped to put in my car. I had to carry it in and was not easy. So if you need to do the same invest in a hand cart of your own. Was it a racial issue? I don't know.",
+                    "reviewer_name": "Luke Reardon",
+                    "rating": 2,
+                    "review_text": "The old guy there (I am not young either) would not let me use their hand cart to bring in my big heavy box which a friend helped to put in my car. I had to carry it in and was not easy. So if you need to do the same invest in a hand cart of your own. Was it a racial issue? I don't know.",
+                    "published_at": "3 years ago",
+                    "published_at_date": "2020-09-26T00:55:33.445000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 8,
+                    "total_number_of_reviews_by_reviewer": 13,
+                    "total_number_of_photos_by_reviewer": 1,
+                    "reviewer_url": "https://www.google.com/maps/contrib/114147426836361461751/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVqJL567E9TDz2O3wrNimSgbF9GumQrAcybdhdFnLsAHZo=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Attempted to cash my Canada Post money order here. First the worker told me he was new so he'd need to call his boss to figure out how. After they spoke in a foreign language for a few minutes right in front of me he said they don't cash cheques here. I tried to explain that it's not a regular cheque, it's a Canada Post money order he still said no and told me to go to a bank.",
+                    "reviewer_name": "Aleja",
+                    "rating": 2,
+                    "review_text": "Attempted to cash my Canada Post money order here. First the worker told me he was new so he'd need to call his boss to figure out how. After they spoke in a foreign language for a few minutes right in front of me he said they don't cash cheques here. I tried to explain that it's not a regular cheque, it's a Canada Post money order he still said no and told me to go to a bank.",
+                    "published_at": "5 years ago",
+                    "published_at_date": "2018-05-05T16:58:41.487000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 3,
+                    "total_number_of_reviews_by_reviewer": 108,
+                    "total_number_of_photos_by_reviewer": 12,
+                    "reviewer_url": "https://www.google.com/maps/contrib/106324327227908577138/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjV8Tli0jmqtfZT_EwbhhalfJ7HCQ3of52Wklmt35-512F4=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        }
+    ]
+}

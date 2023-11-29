@@ -15,5 +15,6 @@ export const paths = {
   pixel: '/pixel',
   docs: 'docs',
   widget: '/widget',
-  accounts: '/accounts'
+  accounts: '/accounts',
+  test: '/test'
 }

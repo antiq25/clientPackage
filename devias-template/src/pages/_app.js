@@ -14,9 +14,9 @@ import { ThemeProvider } from '@mui/material/styles';
 import { AdapterDateFns } from '@mui/x-date-pickers/AdapterDateFns';
 import { LocalizationProvider } from '@mui/x-date-pickers/LocalizationProvider';
 
-import 'src/global.css';
+import 'src/src2/global.css';
 // Remove if locales are not used
-import 'src/locales/i18n';
+import 'src/src2/locales/i18n';
 
 import { RTL } from 'src/src2/components/rtl';
 import { SplashScreen } from 'src/src2/components/splash-screen';
@@ -45,7 +45,7 @@ const CustomApp = (props) => {
   return (
     <CacheProvider value={emotionCache}>
       <Head>
-        <title>Devias Kit PRO</title>
+        <title>Show My Service</title>
         <meta
           name="viewport"
           content="initial-scale=1, width=device-width"

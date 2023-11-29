@@ -1,96 +1,112 @@
-import React, { useEffect, useState, forwardRef } from 'react';
-import { useRouter } from 'next/router';
-import {
-  Card,
-  CardHeader,
-  CardContent,
-  TextField,
-  FormHelperText,
-  Link,
-  Button,
-  Snackbar,
-  Container,
-  Stack,
-  Typography,
-  Alert as MuiAlert,
-} from '@mui/material';
-import { Seo } from '../components/seo';
-import { useSettings } from '../hooks/use-settings';
-import { apiHandler } from '../api/bundle';
 
-const Alert = forwardRef((props, ref) => (
-  <MuiAlert
-    elevation={6}
-    ref={ref}
-    variant="filled"
-    {...props}
-  />
-));
-Alert.displayName = 'Alert';
+import * as Yup from 'yup';
+import { useFormik } from 'formik';
+import Alert from '@mui/material/Alert';
+import Button from '@mui/material/Button';
+import Card from '@mui/material/Card';
+import CardContent from '@mui/material/CardContent';
+import CardHeader from '@mui/material/CardHeader';
+import FormHelperText from '@mui/material/FormHelperText';
+import Link from '@mui/material/Link';
+import Stack from '@mui/material/Stack';
+import TextField from '@mui/material/TextField';
+import Typography from '@mui/material/Typography';
+import { useState } from 'react';
+import { RouterLink } from 'src/src2/components/router-link';
+import { Seo } from 'src/src2/components/seo';
+import { GuestGuard } from 'src/src2/guards/guest-guard';
+import { IssuerGuard } from 'src/src2/guards/issuer-guard';
+import { useAuth } from 'src/src2/hooks/use-auth';
+import { useMounted } from 'src/src2/hooks/use-mounted';
+import { usePageView } from 'src/src2/hooks/use-page-view';
+import { useRouter } from 'src/src2/hooks/use-router';
+import { useSearchParams } from 'src/src2/hooks/use-search-params';
+import { Layout as AuthLayout } from 'src/pages/test';
+import { paths } from 'src/paths';
+import { AuthIssuer } from 'src/src2/sections/auth/auth-issuer';
+import { Issuer } from 'src/src2/utils/auth';
+// Import the API handler functions from bundle.js
+import { apiHandler } from 'src/api/bundle'; // Replace with the correct relative path to bundle.js
+import CustomSnackbar  from '../components/snack';
+import { useTheme } from '@mui/material/styles';
+import { toast } from 'react-hot-toast';
 
-const LoginPage = () => {
+
+
+
+const initialValues = {
+  email: '',
+  password: '',
+  submit: null,
+};
+
+const validationSchema = Yup.object({
+  email: Yup.string().email('Must be a valid email').max(255).required('Email is required'),
+  password: Yup.string().max(255).required('Password is required'),
+});
+
+const Page = () => {
+  const theme = useTheme();
+  const [snackbarOpen, setSnackbarOpen] = useState(false);
+  const [snackbarMessage, setSnackbarMessage] = useState('');
+  const [snackbarSeverity, setSnackbarSeverity] = useState('info');
   const router = useRouter();
-  const [isClient, setIsClient] = useState(false);
+  const searchParams = useSearchParams();
+  const returnTo = searchParams.get('returnTo');
+  const { issuer } = useAuth(); // Assuming useAuth provides a login method
+  const isMounted = useMounted();
+  const formik = useFormik({
 
-  useEffect(() => {
-    setIsClient(true);
-  }, [router]);
+    initialValues,
+    validationSchema,
+    onSubmit: async (values, helpers) => {
+      try {
+        const response = await apiHandler.handleLogin(values.email, values.password);
+        if (response.success && isMounted()) {
+          setSnackbarMessage(response.message || 'Success!');
+          toast.success('Success!')
+          setSnackbarSeverity(``);
+          setSnackbarOpen(true);
+          setTimeout(() => {
+            setSnackbarOpen(false);
+            router.push(returnTo || paths.index);
+          }, 3000);
+        } else {
 
-  const settings = useSettings();
-
-  const [email, setEmail] = useState('');
-  const [password, setPassword] = useState('');
-  const [isSubmitting, setIsSubmitting] = useState(false);
-  const [error, setError] = useState('');
-  const [openSnackbar, setOpenSnackbar] = useState(false);
-
-  if (!isClient) {
-    return null;
-  }
-
-  const handleLogin = async (e) => {
-    e.preventDefault();
-    setIsSubmitting(true);
-    setError('');
-
-    try {
-      const response = await apiHandler.handleLogin(email, password);
-      if (response.success) {
-        localStorage.setItem('token', response.data.token.token);
-        console.log('Login successful:', response);
-        setOpenSnackbar(true);
-        setTimeout(() => {
-          router.push('/');
-        }, 2000);
-      } else {
-        setError(response.error || 'Login failed: Please try again.');
+          setSnackbarMessage(response.error || 'Login failed');
+          setSnackbarSeverity('error');
+          setSnackbarOpen(true);
+          helpers.setStatus({ success: false });
+          helpers.setErrors({ submit: response.error });
+        }
+      } catch (err) {
+        console.error(err);
+        setSnackbarMessage(err.message || 'An error occurred');
+        setSnackbarSeverity('error');
+        setSnackbarOpen(true);
+        helpers.setStatus({ success: false });
+        helpers.setErrors({ submit: err.message });
+      } finally {
+        helpers.setSubmitting(false);
       }
-    } catch (errorInstance) {
-      setError('Login failed: Invalid credentials or server error');
-      console.error('Login error:', errorInstance);
-    }
-
-    setIsSubmitting(false);
-  };
+    },
+  });
 
   const handleCloseSnackbar = (event, reason) => {
     if (reason === 'clickaway') {
       return;
     }
-    setOpenSnackbar(false);
+    setSnackbarOpen(false);
   };
+
+
+  usePageView();
 
   return (
     <>
       <Seo title="Login" />
-      <Container
-        maxWidth={settings.stretch ? false : 'sm'}
-        sx={{ paddingTop: '200px' }}
-      >
-        <Card
-          elevation={14}
-          sx={{ margin: '25px' }}
-        >
+      <div>
+        <Card elevation={16}>
           <CardHeader
             subheader={
               <Typography
@@ -99,51 +115,66 @@ const LoginPage = () => {
               >
                 Don&apos;t have an account? &nbsp;
                 <Link
-                  href="/register"
-                  variant="body2"
+                  component={RouterLink}
+                  href={paths.register}
+                  underline="hover"
+                  variant="subtitle2"
                 >
                   Register
                 </Link>
               </Typography>
             }
+            sx={{ pb: 0 }}
             title="Log in"
           />
           <CardContent>
             <form
-              onSubmit={handleLogin}
               noValidate
+              onSubmit={formik.handleSubmit}
             >
               <Stack spacing={3}>
+              <CustomSnackbar
+        open={snackbarOpen}
+autoHideDuration={2000}
+onClose={() => setSnackbarOpen(false)}
+        handleClose={handleCloseSnackbar}
+        message={snackbarMessage}
+        severity={snackbarSeverity}
+      />
                 <TextField
                   autoFocus
-                  error={Boolean(error)}
+                  error={!!(formik.touched.email && formik.errors.email)}
                   fullWidth
+                  helperText={formik.touched.email && formik.errors.email}
                   label="Email Address"
                   name="email"
-                  onChange={(e) => setEmail(e.target.value)}
+                  onBlur={formik.handleBlur}
+                  onChange={formik.handleChange}
                   type="email"
-                  value={email}
+                  value={formik.values.email}
                 />
                 <TextField
-                  error={Boolean(error)}
+                  error={!!(formik.touched.password && formik.errors.password)}
                   fullWidth
+                  helperText={formik.touched.password && formik.errors.password}
                   label="Password"
                   name="password"
-                  onChange={(e) => setPassword(e.target.value)}
+                  onBlur={formik.handleBlur}
+                  onChange={formik.handleChange}
                   type="password"
-                  value={password}
+                  value={formik.values.password}
                 />
               </Stack>
-              {error && (
+              {formik.errors.submit && (
                 <FormHelperText
                   error
                   sx={{ mt: 3 }}
                 >
-                  {error}
+                  {formik.errors.submit}
                 </FormHelperText>
               )}
               <Button
-                disabled={isSubmitting}
+                disabled={formik.isSubmitting}
                 fullWidth
                 size="large"
                 sx={{ mt: 2 }}
@@ -155,22 +186,24 @@ const LoginPage = () => {
             </form>
           </CardContent>
         </Card>
-      </Container>
-      <Snackbar
-        open={openSnackbar}
-        autoHideDuration={6000}
-        onClose={handleCloseSnackbar}
-      >
-        <Alert
-          onClose={handleCloseSnackbar}
-          severity="success"
-          sx={{ width: '100%' }}
+        <Stack
+          spacing={3}
+          sx={{ mt: 3 }}
         >
-          Login successful! Redirecting...
-        </Alert>
-      </Snackbar>
+
+          <AuthIssuer issuer={issuer} />
+        </Stack>
+      </div>
     </>
   );
 };
 
-export default LoginPage;
+Page.getLayout = (page) => (
+  <IssuerGuard issuer={Issuer.JWT}>
+    <GuestGuard>
+      <AuthLayout>{page}</AuthLayout>
+    </GuestGuard>
+  </IssuerGuard>
+);
+
+export default Page;
