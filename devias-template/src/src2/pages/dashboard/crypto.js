@@ -7,7 +7,7 @@ import Grid from '@mui/material/Unstable_Grid2';
 import Stack from '@mui/material/Stack';
 import SvgIcon from '@mui/material/SvgIcon';
 import Typography from '@mui/material/Typography';
-import { useTheme } from '@mui/material/styles';
+import { useTheme } from '@mui/system';
 
 import { Seo } from 'src/src2/components/seo';
 import { usePageView } from 'src/src2/hooks/use-page-view';

@@ -10,7 +10,7 @@ import Head from 'next/head';
 import { Provider as ReduxProvider } from 'react-redux';
 import { CacheProvider } from '@emotion/react';
 import CssBaseline from '@mui/material/CssBaseline';
-import { ThemeProvider } from '@mui/material/styles';
+import { ThemeProvider } from '@mui/system';
 import { AdapterDateFns } from '@mui/x-date-pickers/AdapterDateFns';
 import { LocalizationProvider } from '@mui/x-date-pickers/LocalizationProvider';
 

@@ -11,7 +11,7 @@ import Divider from '@mui/material/Divider';
 import Stack from '@mui/material/Stack';
 import SvgIcon from '@mui/material/SvgIcon';
 import Typography from '@mui/material/Typography';
-import { useTheme } from '@mui/material/styles';
+import { useTheme } from '@mui/system';
 
 import { Chart } from 'src/src2/components/chart';
 

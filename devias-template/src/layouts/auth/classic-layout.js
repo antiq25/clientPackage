@@ -2,7 +2,7 @@ import PropTypes from 'prop-types';
 import Box from '@mui/material/Box';
 import Container from '@mui/material/Container';
 import Stack from '@mui/material/Stack';
-import { styled } from '@mui/material/styles';
+import { styled } from '@mui/system';
 
 import { Logo } from 'src/components/logo';
 import { RouterLink } from 'src/components/router-link';

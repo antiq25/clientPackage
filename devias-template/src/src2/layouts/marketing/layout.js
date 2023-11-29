@@ -1,6 +1,6 @@
 import PropTypes from 'prop-types';
 import useMediaQuery from '@mui/material/useMediaQuery';
-import { styled } from '@mui/material/styles';
+import { styled } from '@mui/system';
 
 import { Footer } from './footer';
 import { SideNav } from './side-nav';

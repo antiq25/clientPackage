@@ -1,43 +1,24 @@
-'use client';
-import { useEffect, useState } from 'react';
+import PlusIcon from '@untitled-ui/icons-react/build/esm/Plus';
 import Box from '@mui/material/Box';
+import Button from '@mui/material/Button';
 import Container from '@mui/material/Container';
-import Grid from '@mui/material/Unstable_Grid2';
 import Stack from '@mui/material/Stack';
+import SvgIcon from '@mui/material/SvgIcon';
 import Typography from '@mui/material/Typography';
-import { Seo } from 'src/components/seo';
-import { useSettings } from 'src/hooks/use-settings';
-import { Layout as DashboardLayout } from 'src//layouts/dashboard';
-import BusinessMap from 'src/components/MapReviews';
-import { usePageView } from 'src/hooks/use-page-view';
-import { OverviewReviewIssues } from 'src/sections/dashboard/overview/overview-review-issues';
-import { OverviewRatingIssues } from 'src/sections/dashboard/overview/overview-rating-issues';
-import { OverviewBusinessIssues } from 'src/sections/dashboard/overview/overview-business-issues';
-import { OverviewTips } from 'src/src2/sections/dashboard/overview/overview-tips';
+
+import { Seo } from 'src/src2/components/seo';
+import { usePageView } from 'src/src2/hooks/use-page-view';
+import { useSettings } from 'src/src2/hooks/use-settings';
+import { Layout as DashboardLayout } from 'src/layouts/dashboard';
 
 const Page = () => {
   const settings = useSettings();
+
   usePageView();
-
-  const [reviewsCount, setReviewsCount] = useState('');
-  const [rating, setRating] = useState('');
-  const [business, setBusiness] = useState('');
-
-  const handleSetReviewsCount = (newReviewsCount) => {
-    setReviewsCount(newReviewsCount);
-  };
-
-  const handleSetRating = (rate) => {
-    setRating(rate);
-  };
-
-  const handleSetBusiness = (name) => {
-    setBusiness(name);
-  };
 
   return (
     <>
-      <Seo title="Dashboard: Analytics" />
+      <Seo title="Dashboard: Blank" />
       <Box
         component="main"
         sx={{
@@ -46,85 +27,48 @@ const Page = () => {
         }}
       >
         <Container maxWidth={settings.stretch ? false : 'xl'}>
-          <Grid
-            container
+          <Stack
             spacing={{
               xs: 3,
               lg: 4,
             }}
           >
-            <Grid xs={12}>
-              <Stack
-                direction="row"
-                justifyContent="space-between"
-                spacing={4}
-              >
-                <Stack spacing={1}>
-                  <Typography variant="h4">Business Map</Typography>
+            <Stack
+              direction="row"
+              justifyContent="space-between"
+              spacing={4}
+            >
+              <div>
+                <Typography variant="h4">Blank</Typography>
+              </div>
+              <div>
+                <Stack
+                  direction="row"
+                  spacing={4}
+                >
+                  <Button
+                    startIcon={
+                      <SvgIcon>
+                        <PlusIcon />
+                      </SvgIcon>
+                    }
+                    variant="contained"
+                  >
+                    Action
+                  </Button>
                 </Stack>
-              </Stack>
-            </Grid>
-
-            <Grid
-              xs={12}
-              md={12}
-            >
-              <OverviewTips
-                sx={{ height: '100%' }}
-                tips={[
-                  {
-                    title: 'Explore the Map',
-                    content:
-                      'Use your mouse or touchpad to navigate around the map. Scroll to zoom in and out to find businesses in your area of interest.',
-                  },
-                  {
-                    title: 'Business Information at a Glance',
-                    content:
-                      'Click on any business pin to see a brief overview including the business name, total number of reviews, and average rating.',
-                  },
-                  {
-                    title: 'Detailed Business Insights',
-                    content:
-                      'After selecting a business, check the overview components on the dashboard for detailed insights and metrics.',
-                  },
-                  {
-                    title: 'Refresh Data',
-                    content:
-                      'If you navigate to a new area of the map, click on a business to refresh the data displayed in the overview components.',
-                  },
-                  {
-                    title: 'Full Screen View',
-                    content:
-                      'For an immersive experience, you can use the full screen option provided by your browser when viewing the map.',
-                  },
-                ]}
-              />
-            </Grid>
-            <Grid
-              xs={12}
-              md={4}
-            >
-              <OverviewBusinessIssues name={business} />
-            </Grid>
-            <Grid
-              xs={12}
-              md={4}
-            >
-              <OverviewReviewIssues amount={reviewsCount} />
-            </Grid>
-            <Grid
-              xs={12}
-              md={4}
-            >
-              <OverviewRatingIssues amount={rating} />
-            </Grid>
-            <Grid
-              xs={12}
-              lg={12}
-            >
-              <BusinessMap />
-            </Grid>
-          </Grid>
+              </div>
+            </Stack>
+            <Box
+              sx={{
+                borderColor: 'neutral.300',
+                borderStyle: 'dashed',
+                borderWidth: 1,
+                height: 300,
+                p: '4px',
+              }}
+            />
+          </Stack>
         </Container>
       </Box>
     </>

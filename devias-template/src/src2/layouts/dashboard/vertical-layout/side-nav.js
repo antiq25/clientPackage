@@ -7,7 +7,7 @@ import Drawer from '@mui/material/Drawer';
 import Stack from '@mui/material/Stack';
 import SvgIcon from '@mui/material/SvgIcon';
 import Typography from '@mui/material/Typography';
-import { useTheme } from '@mui/material/styles';
+import { useTheme } from '@mui/system';
 
 import { Logo } from 'src/src2/components/logo';
 import { RouterLink } from 'src/src2/components/router-link';

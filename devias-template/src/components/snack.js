@@ -1,7 +1,7 @@
 import React from 'react';
 import Snackbar from '@mui/material/Snackbar';
 import MuiAlert from '@mui/material/Alert';
-import { useTheme } from '@mui/material/styles';
+import { useTheme } from '@mui/system';
 
 // Create an Alert component based on MuiAlert
 const Alert = React.forwardRef(function Alert(props, ref) {
@@ -26,14 +26,14 @@ const CustomSnackbar = ({ open, handleClose, message, severity }) => {
         '& .MuiSnackbarContent-root': {
           backgroundColor: theme.palette.background.paper,
           colorRendering: theme.shadows[11],
-          margin: theme.spacing(1), 
+          margin: theme.spacing(1),
           color: theme.palette.text.primary,
           border: `1px solid ${theme.palette.primary.main}`,
           boxShadow: theme.shadows[11],
           borderRadius: theme.spacing(1),
-          opacity: 0.9, 
-          padding: theme.spacing(1),  
-          
+          opacity: 0.9,
+          padding: theme.spacing(1),
+
         },
       }}
     >

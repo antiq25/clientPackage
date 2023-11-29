@@ -1,5 +1,5 @@
 import dynamic from 'next/dynamic';
-import { styled } from '@mui/material/styles';
+import { styled } from '@mui/system';
 
 const Draft = dynamic(() => import('react-draft-wysiwyg').then((m) => m.Editor), {
   ssr: false,

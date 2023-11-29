@@ -13,7 +13,7 @@ import useUser from 'src/hooks/decode';
 import FetchedReviews from 'src/components/fetchReview';
 import EmailVerificationDialog from 'src/components/emailverifydialog';
 import CreateListingDialog from 'src/components/createListingPopUp';
-import { useTheme } from '@mui/material/styles';
+import { useTheme } from '@mui/system';
 import { Seo } from 'src/components/seo';
 import { useEffect, useState } from 'react';
 import { usePageView } from 'src/src2/hooks/use-page-view';

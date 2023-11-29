@@ -8,7 +8,7 @@ import Link from '@mui/material/Link';
 import Stack from '@mui/material/Stack';
 import SvgIcon from '@mui/material/SvgIcon';
 import Typography from '@mui/material/Typography';
-import { styled } from '@mui/material/styles';
+import { styled } from '@mui/system';
 
 import { BreadcrumbsSeparator } from 'src/components/breadcrumbs-separator';
 import { RouterLink } from 'src/components/router-link';

@@ -6,7 +6,7 @@ import IconButton from '@mui/material/IconButton';
 import Stack from '@mui/material/Stack';
 import SvgIcon from '@mui/material/SvgIcon';
 import useMediaQuery from '@mui/material/useMediaQuery';
-import { useTheme } from '@mui/material/styles';
+import { useTheme } from '@mui/system';
 import { Logo } from 'src/components/logo';
 import { RouterLink } from 'src/src2/components/router-link';
 import { Scrollbar } from 'src/src2/components/scrollbar';

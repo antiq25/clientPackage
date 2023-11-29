@@ -1,6 +1,6 @@
 import { Toaster as HotToaster } from 'react-hot-toast';
 import { alpha } from '@mui/system/colorManipulator';
-import { useTheme } from '@mui/material/styles';
+import { useTheme } from '@mui/system';
 
 export const Toaster = () => {
   const theme = useTheme();

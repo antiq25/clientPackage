@@ -6,7 +6,7 @@ import Divider from '@mui/material/Divider';
 import IconButton from '@mui/material/IconButton';
 import SvgIcon from '@mui/material/SvgIcon';
 import Typography from '@mui/material/Typography';
-import { useTheme } from '@mui/material/styles';
+import { useTheme } from '@mui/system';
 
 import { Chart } from 'src/src2/components/chart';
 

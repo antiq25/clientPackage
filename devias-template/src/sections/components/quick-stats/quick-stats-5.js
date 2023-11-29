@@ -3,7 +3,7 @@ import Card from '@mui/material/Card';
 import Grid from '@mui/material/Unstable_Grid2';
 import Stack from '@mui/material/Stack';
 import Typography from '@mui/material/Typography';
-import { useTheme } from '@mui/material/styles';
+import { useTheme } from '@mui/system';
 
 import { Chart } from 'src/src2/components/chart';
 

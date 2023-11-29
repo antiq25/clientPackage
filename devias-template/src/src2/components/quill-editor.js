@@ -1,5 +1,5 @@
 import dynamic from 'next/dynamic';
-import { styled } from '@mui/material/styles';
+import { styled } from '@mui/system';
 
 const Editor = dynamic(() => import('react-quill'), {
   ssr: false,

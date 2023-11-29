@@ -21,14 +21,14 @@ import { useMounted } from 'src/src2/hooks/use-mounted';
 import { usePageView } from 'src/src2/hooks/use-page-view';
 import { useRouter } from 'src/src2/hooks/use-router';
 import { useSearchParams } from 'src/src2/hooks/use-search-params';
-import { Layout as AuthLayout } from 'src/pages/test';
+import AuthStyleLayout  from 'src/pages/authStyle';
 import { paths } from 'src/paths';
 import { AuthIssuer } from 'src/src2/sections/auth/auth-issuer';
 import { Issuer } from 'src/src2/utils/auth';
 // Import the API handler functions from bundle.js
 import { apiHandler } from 'src/api/bundle'; // Replace with the correct relative path to bundle.js
 import CustomSnackbar  from '../components/snack';
-import { useTheme } from '@mui/material/styles';
+import { useTheme } from '@mui/system';
 import { toast } from 'react-hot-toast';
 
 
@@ -201,7 +201,7 @@ onClose={() => setSnackbarOpen(false)}
 Page.getLayout = (page) => (
   <IssuerGuard issuer={Issuer.JWT}>
     <GuestGuard>
-      <AuthLayout>{page}</AuthLayout>
+      <AuthStyleLayout>{page}</AuthStyleLayout>
     </GuestGuard>
   </IssuerGuard>
 );

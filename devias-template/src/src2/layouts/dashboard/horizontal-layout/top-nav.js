@@ -6,7 +6,7 @@ import IconButton from '@mui/material/IconButton';
 import Stack from '@mui/material/Stack';
 import SvgIcon from '@mui/material/SvgIcon';
 import useMediaQuery from '@mui/material/useMediaQuery';
-import { useTheme } from '@mui/material/styles';
+import { useTheme } from '@mui/system';
 
 import { Logo } from 'src/src2/components/logo';
 import { RouterLink } from 'src/src2/components/router-link';
@@ -18,7 +18,7 @@ import { ContactsButton } from 'src/src2/layouts/dashboard/contacts-button';
 import { LanguageSwitch } from 'src/src2/layouts/dashboard/language-switch';
 import { NotificationsButton } from 'src/src2/layouts/dashboard/notifications-button';
 import { TenantSwitch } from 'src/src2/layouts/dashboard/tenant-switch';
-import { TopNavSection } from 'src/src2/layouts/dashboard/top-nav-section';
+import { TopNavSection } from 'src/src2/layouts/dashboard/horizontal-layout/top-nav-section';
 
 const useCssVars = (color) => {
   const theme = useTheme();

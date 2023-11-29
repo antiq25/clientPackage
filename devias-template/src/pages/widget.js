@@ -3,8 +3,8 @@ import Grid from '@mui/material/Unstable_Grid2';
 import Stack from '@mui/material/Stack';
 import Typography from '@mui/material/Typography';
 
-import { Seo } from '../components/seo';
-import { usePageView } from '../hooks/use-page-view';
+import { Seo } from 'src/components/seo';
+import { usePageView } from 'src/hooks/use-page-view';
 import { Layout as DashboardLayout } from '../layouts/dashboard';
 import { JobCreateForm } from 'src/src2/sections/dashboard/jobs/job-create-form';
 

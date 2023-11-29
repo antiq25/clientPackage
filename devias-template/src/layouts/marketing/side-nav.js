@@ -288,7 +288,7 @@ export const SideNav = (props) => {
               },
             }}
           >
-            Devias Kit <span>PRO</span>
+            Show My<span>Service</span>
           </Box>
         </Stack>
       </Box>

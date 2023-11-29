@@ -2,7 +2,7 @@ import PropTypes from 'prop-types';
 import Lightbulb04Icon from '@untitled-ui/icons-react/build/esm/Lightbulb04';
 import SvgIcon from '@mui/material/SvgIcon';
 import Typography from '@mui/material/Typography';
-import { styled } from '@mui/material/styles';
+import { styled } from '@mui/system';
 
 const TipRoot = styled('div')(({ theme }) => ({
   backgroundColor:
