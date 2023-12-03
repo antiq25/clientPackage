@@ -6,7 +6,7 @@ const ApiContext = createContext();
 
 // Base URLs
 const baseURL = 'https://smart.aliveai.net/api/v1/pixel';
-const SatURL = 'http://localhost:3002/scrape';
+const SatURL = 'https://smart.aliveai.net/scrape';
 
 // Provider component that wraps your app and makes an API object available to any child component that calls `useApi()`.
 export const ApiProvider = ({ children }) => {

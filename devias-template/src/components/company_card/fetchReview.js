@@ -2,7 +2,7 @@
 const fetchReviews  = async () => {
   const token = localStorage.getItem('token');  
   
-  const response = await fetch('http://localhost:3002/scrape/business-names',  {
+  const response = await fetch('https://smart.aliveai.net/scrape/business-names',  {
     headers: {
       'Content-Type': 'application/json',
       'Authorization': `Bearer ${token}`
