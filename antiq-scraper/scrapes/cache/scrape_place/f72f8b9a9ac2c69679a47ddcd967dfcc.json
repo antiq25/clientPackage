@@ -1,0 +1,592 @@
+{
+    "place_id": "ChIJ1S8S8tdzhlQRrGQRKDN6P5E",
+    "name": "Chit Chat Burger Bar",
+    "description": "Spacious, sleek operation furnishing handcrafted burgers, plus cocktails, wine & shakes.",
+    "reviews": 466,
+    "website": "http://www.chitchatburgerbar.com/",
+    "owner": {
+        "id": "104773498406289282178",
+        "name": "Chit Chat Burger Bar (Owner)",
+        "link": "https://www.google.com/maps/contrib/104773498406289282178"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOQJV06T3QgJEvMNc2TxWxM9NU5VyYFzXMxIeGI=w408-h272-k-no",
+    "main_category": "Restaurant",
+    "categories": [
+        "Restaurant",
+        "Bar",
+        "Cocktail bar",
+        "Hamburger restaurant"
+    ],
+    "rating": 4.3,
+    "workday_timing": "4 p.m.-1 a.m.",
+    "closed_on": [],
+    "phone": "(604) 688-8887",
+    "address": "Chit Chat Burger Bar, 955 Granville St, Vancouver, BC V6Z 1L3",
+    "review_keywords": [
+        {
+            "keyword": "music",
+            "count": 28
+        },
+        {
+            "keyword": "happy hour",
+            "count": 19
+        },
+        {
+            "keyword": "drinks",
+            "count": 17
+        },
+        {
+            "keyword": "milkshake",
+            "count": 15
+        },
+        {
+            "keyword": "bun",
+            "count": 13
+        },
+        {
+            "keyword": "patty",
+            "count": 12
+        },
+        {
+            "keyword": "poutine",
+            "count": 9
+        },
+        {
+            "keyword": "bacon cheeseburger",
+            "count": 7
+        },
+        {
+            "keyword": "garlic fries",
+            "count": 6
+        },
+        {
+            "keyword": "churro",
+            "count": 5
+        }
+    ],
+    "link": "https://www.google.com/maps/place/Chit+Chat+Burger+Bar/data=!4m7!3m6!1s0x548673d7f2122fd5:0x913f7a33281164ac!8m2!3d49.2798579!4d-123.1224815!16s%2Fg%2F11fwqf9db6!19sChIJ1S8S8tdzhlQRrGQRKDN6P5E?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 4 p.m.",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 44,
+        "2": 16,
+        "3": 25,
+        "4": 61,
+        "5": 320
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ1S8S8tdzhlQRrGQRKDN6P5E&q=Chit+Chat+Burger+Bar&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.279857899999996,
+        "longitude": -123.12248149999999
+    },
+    "plus_code": "7VHH+W2 Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "Downtown Vancouver",
+        "street": "955 Granville St",
+        "city": "Vancouver",
+        "postal_code": "V6Z 1L3",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "10466218419166471340",
+    "data_id": "0x548673d7f2122fd5:0x913f7a33281164ac",
+    "menu": {
+        "link": "https://www.clover.com/online-ordering/chit-chat-burger-bar-vancouver",
+        "source": "clover.com"
+    },
+    "reservations": [],
+    "order_online_links": [
+        {
+            "link": "https://www.clover.com/online-ordering/chit-chat-burger-bar-vancouver",
+            "source": "clover.com"
+        },
+        {
+            "link": "https://www.doordash.com/store/chit-chat-burger-bar-vancouver-1097280/?utm_campaign=gpa",
+            "source": "doordash.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Outdoor seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Takeout",
+                    "enabled": true
+                },
+                {
+                    "name": "Dine-in",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "highlights",
+            "name": "Highlights",
+            "options": [
+                {
+                    "name": "Fireplace",
+                    "enabled": true
+                },
+                {
+                    "name": "Great cocktails",
+                    "enabled": true
+                },
+                {
+                    "name": "Sports",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair accessible seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Alcohol",
+                    "enabled": true
+                },
+                {
+                    "name": "Beer",
+                    "enabled": true
+                },
+                {
+                    "name": "Cocktails",
+                    "enabled": true
+                },
+                {
+                    "name": "Coffee",
+                    "enabled": true
+                },
+                {
+                    "name": "Happy hour food",
+                    "enabled": true
+                },
+                {
+                    "name": "Hard liquor",
+                    "enabled": true
+                },
+                {
+                    "name": "Late-night food",
+                    "enabled": true
+                },
+                {
+                    "name": "Small plates",
+                    "enabled": true
+                },
+                {
+                    "name": "Vegetarian options",
+                    "enabled": true
+                },
+                {
+                    "name": "Wine",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Dining options",
+            "options": [
+                {
+                    "name": "Lunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Dinner",
+                    "enabled": true
+                },
+                {
+                    "name": "Dessert",
+                    "enabled": true
+                },
+                {
+                    "name": "Seating",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Bar on-site",
+                    "enabled": true
+                },
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosphere",
+            "options": [
+                {
+                    "name": "Casual",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "crowd",
+            "name": "Crowd",
+            "options": [
+                {
+                    "name": "Groups",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "children",
+            "name": "Children",
+            "options": [
+                {
+                    "name": "High chairs",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOQJV06T3QgJEvMNc2TxWxM9NU5VyYFzXMxIeGI=w446-h298-k-no"
+        },
+        {
+            "about": "Latest",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPRXeIPYLyXlEM_-6TP7xB9j45KxbkvImk55Vcf=w224-h298-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOrdNz0T6oJonNaDsmR1exYxDnak3TU7iUqaWKK=w224-h398-k-no"
+        },
+        {
+            "about": "Menu",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNOO5-21xL55YrqsHUiNizTNFqa5-dGQNdqOT2M=w224-h298-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPjyUkX6ivuREDP-9S8VXDUtvu44RuM-k_vnKaG=w446-h298-k-no"
+        },
+        {
+            "about": "Vibe",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipM3Mwt2K4C_8XR3cu4wi15ZpcK4E15NTi1v51aR=w446-h298-k-no"
+        },
+        {
+            "about": "Take-out",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOc_zODUujTvQpFTB5HdRBRpDeXUUkMpwkRS3nz=w529-h298-k-no"
+        },
+        {
+            "about": "Milkshake",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipM6RRn7f-eYkC0DtwbI3utYwApZhzClLKp8UnnO=w224-h298-k-no"
+        },
+        {
+            "about": "Chicken sandwich",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipP9cqCULJb8qaoiKtNXemx43hjWMDJZY5-w3CXN=w224-h298-k-no"
+        },
+        {
+            "about": "Cocktail",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPLqxC0IP8Do1rkBO7V0Ee1yKqUYogUB2B2Wi6u=w446-h298-k-no"
+        },
+        {
+            "about": "French fries",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNzLnUs_3P9si9XLAsjh4iUwCXysXKOu6w0m3m3=w224-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOsS8dnwy85QnX8rTIFZaOHKJTd2cD2-s30X55R=w529-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=fztEGCpvjpUCcT4MgxN-lw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=344.18277&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "4 p.m.-1 a.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "4 p.m.-1 a.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "4 p.m.-1 a.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "4 p.m.-1 a.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "4 p.m.-2 a.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "4 p.m.-2 a.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "4 p.m.-1 a.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "We came on Sunday after a hard work day.\nThe service was great, but not the food.\nThe burgers were extremely dry, despite we asked the patty to be medium rare. It wasn't.\nThe buns weren't fresh.\nThere was enormous amount of onions. I love onions in burger but it was WAY TOO MUCH.\nI couldn't find pickles in burger. And the salad leaf was soggy.\nAs a result I didn't even finish my burger.\n\nThe fries were extremely salty and I had to shake off the salt.\nThat's probably the idea of this bar on how to make customers order more drinks.\n\nIt's definitely not a place to eat. The food may be ok if you come for a couple drinks.",
+            "reviewer_name": "julia ave",
+            "rating": 1,
+            "review_text": "We came on Sunday after a hard work day.\nThe service was great, but not the food.\nThe burgers were extremely dry, despite we asked the patty to be medium rare. It wasn't.\nThe buns weren't fresh.\nThere was enormous amount of onions. I love onions in burger but it was WAY TOO MUCH.\nI couldn't find pickles in burger. And the salad leaf was soggy.\nAs a result I didn't even finish my burger.\n\nThe fries were extremely salty and I had to shake off the salt.\nThat's probably the idea of this bar on how to make customers order more drinks.\n\nIt's definitely not a place to eat. The food may be ok if you come for a couple drinks.",
+            "published_at": "a week ago",
+            "published_at_date": "2023-11-23T18:17:55.982000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 13,
+            "total_number_of_photos_by_reviewer": 10,
+            "reviewer_url": "https://www.google.com/maps/contrib/113297858461999601703/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLdZyYfo8bjoyifKeh-DaRuy1ZDmvgYfrhR27nTqmRN=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMo5iOwpnSByYf9JYC3owlv6lDQ22OQebfA3LDX=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "My favorite burger place in Vancouver with generous price. The zucchini hits the spotThe mushrooms are juicy. Their fries also taste great, very big portion. I would recommend to share the fries.",
+            "reviewer_name": "Ting-Yu Cheng",
+            "rating": 5,
+            "review_text": "My favorite burger place in Vancouver with generous price. The zucchini hits the spotThe mushrooms are juicy. Their fries also taste great, very big portion. I would recommend to share the fries.",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-06T03:36:54.387000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 35,
+            "total_number_of_photos_by_reviewer": 40,
+            "reviewer_url": "https://www.google.com/maps/contrib/104209486416534135825/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXQvfDrxY5VBum0iJTb5P7UxJqm9TPoR1QVUL3WqEZZO64=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNKAmeB6a6xX_P_nCThifcbhhpYwRbeX6QklrgZ=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOoDkWVOy53O3HTYLaZTm9jZ3BIY97qfEhDSrt6=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "I loved the atmosphere, great for a late afternoon. Good location and service, affordable prices. The burgers are simple, not very tasty, but the poutine is very good.  I recommend!",
+            "reviewer_name": "planejasil",
+            "rating": 5,
+            "review_text": "I loved the atmosphere, great for a late afternoon. Good location and service, affordable prices. The burgers are simple, not very tasty, but the poutine is very good.  I recommend!",
+            "published_at": "5 months ago",
+            "published_at_date": "2023-06-19T20:40:06.420000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 10,
+            "total_number_of_photos_by_reviewer": 38,
+            "reviewer_url": "https://www.google.com/maps/contrib/112295577055415403886/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW8j5xxZRtPuQLy_j0s1djVzH3OSCTSe8MoC03dulgLXg=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMDbOF24DzoB2aziSwVznl-Qav2-LLri9-4t8WM=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOP-ulJbvRLGnOkKWWlcEXjMTA9pdAH5kGcsSmI=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMcFF1P6U-cNOtRHBvtKTt0Gsu6SCworH2jsyvO=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipME1kSoSsCnozckVVP1X2r-MtAdkSOsIq1UeaSX=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "It was a nice space with young and amiable staff. The pricing was really good! We tried the classic burgers and I even asked for lettuce wrap instead of buns. I definitely recommend it if you want to have an economical experience while being in downtown.",
+            "reviewer_name": "Golnaz J N",
+            "rating": 5,
+            "review_text": "It was a nice space with young and amiable staff. The pricing was really good! We tried the classic burgers and I even asked for lettuce wrap instead of buns. I definitely recommend it if you want to have an economical experience while being in downtown.",
+            "published_at": "6 months ago",
+            "published_at_date": "2023-05-16T16:35:55.844000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 43,
+            "total_number_of_photos_by_reviewer": 160,
+            "reviewer_url": "https://www.google.com/maps/contrib/110397238194356286600/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUM-DTJjdmli4gxPWWh04uDbvf5hj-JlX9kE2OjNAjzgd4=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPD4rRyIWUUxwKoysWZLIT3XlHyEMJ-jC2DR7Zm=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPxkQryWZ-5DC0-vB3OdQOgA2YFNnSgP2jJT7Ii=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPPrDeb8N2Pr2mz2aN9J2qafyWwX5nHHxQ9vFyF=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipO4dElNulgVV30Z3dogx_TMTbNqD3YNjooAQviY=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMpdOukXyMaH9iWSY4J7-tcHiPFh6cHofv8Bzbl=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "We walked in here to grab a bite to eat, and were not disappointed with the burgers.\nI got the Viva La Grandville and garlic fries. Enjoyed the burger but for fries would recommend the regular fries.",
+            "reviewer_name": "Adeeb Arif",
+            "rating": 4,
+            "review_text": "We walked in here to grab a bite to eat, and were not disappointed with the burgers.\nI got the Viva La Grandville and garlic fries. Enjoyed the burger but for fries would recommend the regular fries.",
+            "published_at": "2 weeks ago",
+            "published_at_date": "2023-11-13T08:06:17.894000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 138,
+            "total_number_of_photos_by_reviewer": 332,
+            "reviewer_url": "https://www.google.com/maps/contrib/118439707366045419857/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWEoG3Lx5v9PKpdTaqP2DTauVM2FSZOSNadNAAjn--dSH8=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNVqMVe-6nVq9tuLidnJevTCm0XeyHAd0wnEcmo=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipORtXb15DeWbNuOEBcm9hrOIvco1uESV0bE8IEj=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNfEWC9QQZQVt4dCJqDXiZaiReZ8Ejnd-TGAYVX=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "We ordered garlic fries, we expected something else than what was served. Although description in the menu was all right garlic, parmesan cheese, cilantro/parsley, and feta dip and it was all there in the plate but somehow it didn't feel okay. The fries were too oily and some of them were soggy. We expected melted cheese and herb like how we get in poutine but it was different.  We were not provided with any paper napkins my friend had to go get them from the counter. In the end their electronic payment machine was not working hence we paid cash and we didn't want to give any tip because we were not happy but the waitress deducted it anyway. I felt it was imposed.",
+            "reviewer_name": "mridula malav",
+            "rating": 2,
+            "review_text": "We ordered garlic fries, we expected something else than what was served. Although description in the menu was all right garlic, parmesan cheese, cilantro/parsley, and feta dip and it was all there in the plate but somehow it didn't feel okay. The fries were too oily and some of them were soggy. We expected melted cheese and herb like how we get in poutine but it was different.  We were not provided with any paper napkins my friend had to go get them from the counter. In the end their electronic payment machine was not working hence we paid cash and we didn't want to give any tip because we were not happy but the waitress deducted it anyway. I felt it was imposed.",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-11T16:55:23.927000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 3,
+            "total_number_of_reviews_by_reviewer": 60,
+            "total_number_of_photos_by_reviewer": 83,
+            "reviewer_url": "https://www.google.com/maps/contrib/112843902977728139770/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUiZ5g3VkiMMR3FUhH9FOJ7gL0KhUhT2QWrhphkfdMpfEs=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPjXwSTOejKQI6W4UO1LKCgTnGCN4mNmVVPF6di=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Good vibes, the bacon cheese burger for $12.75 is tasty and good value. A lot of burger for the price. Meat is a bit salty though.",
+            "reviewer_name": "William Ting",
+            "rating": 5,
+            "review_text": "Good vibes, the bacon cheese burger for $12.75 is tasty and good value. A lot of burger for the price. Meat is a bit salty though.",
+            "published_at": "5 days ago",
+            "published_at_date": "2023-11-26T01:53:27.194000Z",
+            "response_from_owner_text": "Hi William. Thank you so much for the lovely comments \nI will ask the kitchen staff to keep an eye on the salt. \n",
+            "response_from_owner_ago": "5 days ago",
+            "response_from_owner_date": "2023-11-26T02:05:49.802000Z",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 40,
+            "total_number_of_photos_by_reviewer": 41,
+            "reviewer_url": "https://www.google.com/maps/contrib/116736990594344625830/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUrINWTwoccCj-44pKSrzxId7EkhGLHhMpHV-Gc_KiBS_Gc=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMM5dOToTBTlF12RIQVTA44XGWpT3cGI-Otzvl-=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "3/5 Experience\n\n2.5/5 Food. 6 chicken wings with a bad taste of orange BBQ taste cost me $13.5 The sauce was dumped on the wings not even fully coated.\nThe burgers were fine, patty was dry and my burger was drenched in mustard. I'm sure if they cooked the patty 30 less seconds and not add as much mustard the burger would have been a solid 8/10.\n\n?/5 Drinks. I ordered a Shirley Temple and it tasted ok but it was so sweet it was like drinking on a melted jolly rancher with 5tbs of sugar. The server asked if I wanted something else I said no and she kept the drink on the bill.\n\n3/5 Service was pretty good overall part from the drink. Wished someone had checked on us to see how the meal was.\n\n5/5 Restaurant facility. The establishment was super nice and had a great atmosphere. This is a place to drink and have a good time, not really to dine in yet.",
+            "reviewer_name": "Jacqueline Parra (Jacky)",
+            "rating": 3,
+            "review_text": "3/5 Experience\n\n2.5/5 Food. 6 chicken wings with a bad taste of orange BBQ taste cost me $13.5 The sauce was dumped on the wings not even fully coated.\nThe burgers were fine, patty was dry and my burger was drenched in mustard. I'm sure if they cooked the patty 30 less seconds and not add as much mustard the burger would have been a solid 8/10.\n\n?/5 Drinks. I ordered a Shirley Temple and it tasted ok but it was so sweet it was like drinking on a melted jolly rancher with 5tbs of sugar. The server asked if I wanted something else I said no and she kept the drink on the bill.\n\n3/5 Service was pretty good overall part from the drink. Wished someone had checked on us to see how the meal was.\n\n5/5 Restaurant facility. The establishment was super nice and had a great atmosphere. This is a place to drink and have a good time, not really to dine in yet.",
+            "published_at": "8 months ago",
+            "published_at_date": "2023-03-09T20:24:06.333000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 102,
+            "total_number_of_photos_by_reviewer": 14,
+            "reviewer_url": "https://www.google.com/maps/contrib/107747089253471770355/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjX8sffSLnUAqpgEnPVBqzdQTAXJ4haLDETsQGL9Y4qOP-0=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipO6h6ykDbnoakrfGPtOz03Bt5F0AQRqlsBBEn4w=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOR55iMmInmR964nTMXUNokf8YxYaTRAMzzGYzw=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipM0RK9hZhtwgomiAS1H2cygRYvRllcpwvk_onJC=w150-h150-k-no-p"
+            ]
+        }
+    ],
+    "is_spending_on_ads": false
+}

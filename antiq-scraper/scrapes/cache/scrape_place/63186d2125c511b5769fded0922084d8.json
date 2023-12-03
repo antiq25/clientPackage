@@ -2,7 +2,7 @@
     "place_id": "ChIJ16tNNPZzhlQRfFQd7blHDuc",
     "name": "McDonald's",
     "description": "Classic, long-running fast-food chain known for its burgers & fries.",
-    "reviews": 790,
+    "reviews": 791,
     "website": "https://www.mcdonalds.com/ca/en-ca/restaurant-locator.html%3Fy_source%3D1_MTQ1MjAxNDEtNzE1LWxvY2F0aW9uLndlYnNpdGU%253D",
     "owner": {
         "id": "109805745508328649650",
@@ -67,13 +67,13 @@
         }
     ],
     "link": "https://www.google.com/maps/place/McDonald%27s/data=!4m7!3m6!1s0x548673f6344dabd7:0xe70e47b9ed1d547c!8m2!3d49.2452368!4d-123.1015565!16s%2Fg%2F1v2kx3rz!19sChIJ16tNNPZzhlQRfFQd7blHDuc?authuser=0&hl=en&rclk=1",
-    "status": "Open  Closes 2 a.m.",
+    "status": "Closed  Opens 6 a.m.",
     "price_range": "$",
     "reviews_per_rating": {
         "1": 87,
         "2": 57,
         "3": 210,
-        "4": 217,
+        "4": 218,
         "5": 219
     },
     "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ16tNNPZzhlQRfFQd7blHDuc&q=McDonald%27s&authuser=0&hl=en&gl=CA",
@@ -301,7 +301,7 @@
         },
         {
             "about": "Videos",
-            "link": "https://lh5.googleusercontent.com/p/AF1QipN5hfcEOLv5-QN28VTsnrDdRDNV-LdF29E2ofbD=w224-h315-k-no"
+            "link": "https://lh5.googleusercontent.com/p/AF1QipM4telBTSeXziAFJV-c8XHTq6uzRed3zRu8B3Tr=w529-h298-k-no"
         },
         {
             "about": "Food & drink",
@@ -312,12 +312,8 @@
             "link": "https://lh5.googleusercontent.com/p/AF1QipMDwbTgI_sT6pZV1ZhMtLmOcpvGHU_9kctqeaAa=w397-h298-k-no"
         },
         {
-            "about": "Take-out",
-            "link": "https://lh5.googleusercontent.com/p/AF1QipOpq6eMTJocy6yulAykONShzAZFZKazsCDCMbcU=w298-h298-k-no"
-        },
-        {
             "about": "Cheeseburger",
-            "link": "https://lh5.googleusercontent.com/p/AF1QipM4telBTSeXziAFJV-c8XHTq6uzRed3zRu8B3Tr=w529-h298-k-no"
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOpq6eMTJocy6yulAykONShzAZFZKazsCDCMbcU=w298-h298-k-no"
         },
         {
             "about": "McMuffin",
@@ -345,12 +341,6 @@
         }
     ],
     "hours": [
-        {
-            "day": "Sunday",
-            "times": [
-                "6 a.m.-12 a.m."
-            ]
-        },
         {
             "day": "Monday",
             "times": [
@@ -386,6 +376,12 @@
             "times": [
                 "6 a.m.-2 a.m."
             ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "6 a.m.-12 a.m."
+            ]
         }
     ],
     "featured_reviews": [
@@ -400,7 +396,7 @@
             "response_from_owner_ago": null,
             "response_from_owner_date": null,
             "review_likes_count": 0,
-            "total_number_of_reviews_by_reviewer": 102,
+            "total_number_of_reviews_by_reviewer": 104,
             "total_number_of_photos_by_reviewer": 56,
             "reviewer_url": "https://www.google.com/maps/contrib/115810886196937476797/reviews?entry=ttu",
             "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocL-wrbZaUQz5DxiAOVg242cBhVStaEfOk0A974Z1Jd3=s120-c-rp-mo-ba4-br100",
@@ -468,8 +464,8 @@
             "response_from_owner_ago": null,
             "response_from_owner_date": null,
             "review_likes_count": 0,
-            "total_number_of_reviews_by_reviewer": 138,
-            "total_number_of_photos_by_reviewer": 188,
+            "total_number_of_reviews_by_reviewer": 140,
+            "total_number_of_photos_by_reviewer": 191,
             "reviewer_url": "https://www.google.com/maps/contrib/117665522434943048226/reviews?entry=ttu",
             "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJekysIbYucv-B47_qwyMDKSD9Q40WUBrA7SHrbHWti=s120-c-rp-mo-ba4-br100",
             "is_local_guide": true,

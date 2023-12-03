@@ -1,0 +1,344 @@
+{
+    "place_id": "ChIJa7CHjJRxhlQR0fORNBl08c4",
+    "name": "VanKoshary Eats",
+    "description": null,
+    "reviews": 40,
+    "website": "http://www.vankoshary.com/",
+    "owner": {
+        "id": "106791202347076436360",
+        "name": "VanKoshary Eats (Owner)",
+        "link": "https://www.google.com/maps/contrib/106791202347076436360"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOyx9PD9ineVqEUv75wHTUyDo_QfeuHrIK-r3UD=w426-h240-k-no",
+    "main_category": "Takeout Restaurant",
+    "categories": [
+        "Takeout Restaurant"
+    ],
+    "rating": 4.8,
+    "workday_timing": null,
+    "closed_on": [],
+    "phone": "(604) 404-0215",
+    "address": "VanKoshary Eats, 1205 E Hastings St, Vancouver, BC V6A 1S4",
+    "review_keywords": [
+        {
+            "keyword": "bowl",
+            "count": 5
+        },
+        {
+            "keyword": "price",
+            "count": 5
+        },
+        {
+            "keyword": "egyptian food",
+            "count": 4
+        },
+        {
+            "keyword": "falafel",
+            "count": 4
+        },
+        {
+            "keyword": "koshari",
+            "count": 3
+        }
+    ],
+    "link": "https://www.google.com/maps/place/VanKoshary+Eats/data=!4m7!3m6!1s0x548671948c87b06b:0xcef174193491f3d1!8m2!3d49.2814913!4d-123.0790258!16s%2Fg%2F11lkhft9w7!19sChIJa7CHjJRxhlQR0fORNBl08c4?authuser=0&hl=en&rclk=1",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 2,
+        "2": 0,
+        "3": 0,
+        "4": 2,
+        "5": 36
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJa7CHjJRxhlQR0fORNBl08c4&q=VanKoshary+Eats&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.2814913,
+        "longitude": -123.0790258
+    },
+    "plus_code": "7WJC+H9 Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "Central Vancouver",
+        "street": "1205 E Hastings St",
+        "city": "Vancouver",
+        "postal_code": "V6A 1S4",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "14911827492805407697",
+    "data_id": "0x548671948c87b06b:0xcef174193491f3d1",
+    "menu": {
+        "link": "http://www.vankoshary.com/menu/",
+        "source": "vankoshary.com"
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Curbside pickup",
+                    "enabled": true
+                },
+                {
+                    "name": "No-contact delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Takeout",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Halal food",
+                    "enabled": true
+                },
+                {
+                    "name": "Late-night food",
+                    "enabled": true
+                },
+                {
+                    "name": "Organic dishes",
+                    "enabled": true
+                },
+                {
+                    "name": "Salad bar",
+                    "enabled": true
+                },
+                {
+                    "name": "Small plates",
+                    "enabled": true
+                },
+                {
+                    "name": "Vegetarian options",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOyx9PD9ineVqEUv75wHTUyDo_QfeuHrIK-r3UD=w529-h298-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipM5MaMBPIIFJps9J1PHtQshGR2CXGuCBstScaft=w447-h298-k-no"
+        },
+        {
+            "about": "Take-out",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNyzUl1xhiaAnVGNaU6LF8QS43l0ox5GIWh7oWa=w447-h298-k-no"
+        },
+        {
+            "about": "Koshary",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPSgTIenv-AhC3l74moqM4-Xbb7tvgUQiIHepio=w372-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOJOsvGk0k60x7oDRGjGPsyfaC9noq3h1H9bAbg=w447-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=eLmQT22RqzqfDwUUr9LuHQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=35.37526&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "featured_reviews": [
+        {
+            "review_id": "Someone recommended VanKoshary. I ordered \"Mansaf\", it's rice with meat, and it was perfect! Very delicious and authentic food! With authentic food portions  that portion was for two!\n\nThank you!",
+            "reviewer_name": "omar alsamman",
+            "rating": 5,
+            "review_text": "Someone recommended VanKoshary. I ordered \"Mansaf\", it's rice with meat, and it was perfect! Very delicious and authentic food! With authentic food portions  that portion was for two!\n\nThank you!",
+            "published_at": "a year ago",
+            "published_at_date": "2022-05-08T21:20:18.333000Z",
+            "response_from_owner_text": "Thank you Omar",
+            "response_from_owner_ago": "a year ago",
+            "response_from_owner_date": "2022-06-15T06:05:45.381000Z",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 6,
+            "total_number_of_photos_by_reviewer": 4,
+            "reviewer_url": "https://www.google.com/maps/contrib/110065545113368445966/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXuSAmirz65Xw1ZnVqQaXdy4ukn2MGyuE-6M3BnuVTbCeM=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOf8pNzc8mVQNoDTmTBdWuVeY0Xh_ITE8ePotcT=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPPmyuU5rWi5sVhEUBgI4Vx2-_6scVibvhBs-Q3=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "I ordered 2 party trays for my wife's birthday, and they were actually bigger than i thought. My biggest mistake is ordering extra snacks and eateries during the birthday because the trays are super enough, and we couldnt even finish them (we were 8 persons). Very tasty and delightful, well cooked, and extremely various. Moreover, they customized me the trays to be a 100% vegeterian without extra cost. One day I will try their kushary",
+            "reviewer_name": "Sherif Tarek",
+            "rating": 5,
+            "review_text": "I ordered 2 party trays for my wife's birthday, and they were actually bigger than i thought. My biggest mistake is ordering extra snacks and eateries during the birthday because the trays are super enough, and we couldnt even finish them (we were 8 persons). Very tasty and delightful, well cooked, and extremely various. Moreover, they customized me the trays to be a 100% vegeterian without extra cost. One day I will try their kushary",
+            "published_at": "a year ago",
+            "published_at_date": "2022-01-14T20:23:32.046000Z",
+            "response_from_owner_text": "Thank you  it's our pleasure, hope we cater your next events.",
+            "response_from_owner_ago": "a year ago",
+            "response_from_owner_date": "2022-01-15T13:26:53.252000Z",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 324,
+            "total_number_of_photos_by_reviewer": 56,
+            "reviewer_url": "https://www.google.com/maps/contrib/105433880496009740867/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWIOG9sfRYNN7yI1LNHjJBl7t9XwWxARLPV61gmWFGsuSs=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "My first time trying the food at VanKoshary, and it would never be the last time. We got 2 Classic Koshari and a falafel sandwich. The food was really tasty and I highly recommend it to you guys. It is a 10/10",
+            "reviewer_name": "Mosa Ali",
+            "rating": 5,
+            "review_text": "My first time trying the food at VanKoshary, and it would never be the last time. We got 2 Classic Koshari and a falafel sandwich. The food was really tasty and I highly recommend it to you guys. It is a 10/10",
+            "published_at": "a year ago",
+            "published_at_date": "2022-02-02T04:07:50.497000Z",
+            "response_from_owner_text": "Thank you, it is our pleasure that you liked our food. Hope to see you again.",
+            "response_from_owner_ago": "a year ago",
+            "response_from_owner_date": "2022-02-02T18:02:19.396000Z",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 15,
+            "total_number_of_photos_by_reviewer": 12,
+            "reviewer_url": "https://www.google.com/maps/contrib/113977993743303507021/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWwy90NuzzyD8SiI-vl-lrqsdswQWrJlQzltcFmjZoas0I=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "The food served from Vankoshary has exquisite and unique taste! Nothing like i've ever tried before. Definitely recommend to others to try out this traditional Egyptian food. I would give 5 stars but I provided 4 due to the fact that this place should have a dine in restaurant rather than just delivery service. Other than that, perfect service and amazing food!",
+            "reviewer_name": "Malak",
+            "rating": 4,
+            "review_text": "The food served from Vankoshary has exquisite and unique taste! Nothing like i've ever tried before. Definitely recommend to others to try out this traditional Egyptian food. I would give 5 stars but I provided 4 due to the fact that this place should have a dine in restaurant rather than just delivery service. Other than that, perfect service and amazing food!",
+            "published_at": "2 years ago",
+            "published_at_date": "2021-05-31T01:01:59.548000Z",
+            "response_from_owner_text": "Thank you",
+            "response_from_owner_ago": "a year ago",
+            "response_from_owner_date": "2021-12-21T09:20:38.807000Z",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 11,
+            "total_number_of_photos_by_reviewer": 2,
+            "reviewer_url": "https://www.google.com/maps/contrib/115889784813814590009/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXxSKX1evDBJGYPV_9LdVaBSvHLJrisONfcwRLowbSL47Ef=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "My first Koshary experience and it didn't disappoint! I tried the Athens bowl with eggplant and cauliflower and will be returning for more! Happy to support this new business and hope to see a food cart or store front in the future!",
+            "reviewer_name": "Sara Kozicky",
+            "rating": 5,
+            "review_text": "My first Koshary experience and it didn't disappoint! I tried the Athens bowl with eggplant and cauliflower and will be returning for more! Happy to support this new business and hope to see a food cart or store front in the future!",
+            "published_at": "2 years ago",
+            "published_at_date": "2021-02-27T03:27:41.751000Z",
+            "response_from_owner_text": "Thank you",
+            "response_from_owner_ago": "a year ago",
+            "response_from_owner_date": "2021-12-21T09:23:30.728000Z",
+            "review_likes_count": 3,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/104322266787476516814/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLpgLafXfMj4q1woZPldzwpf5WPc1lEIR8kBtc88Z_Q=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Surprisingly, their Falafel is a whole lot better than the Koshary. I found it a little bit bland. Unfortunately, there are no other Koshary competitors in the vicinity, so I'm still gonna be ordering from this joint again if I ever crave Koshary.",
+            "reviewer_name": "Sam",
+            "rating": 4,
+            "review_text": "Surprisingly, their Falafel is a whole lot better than the Koshary. I found it a little bit bland. Unfortunately, there are no other Koshary competitors in the vicinity, so I'm still gonna be ordering from this joint again if I ever crave Koshary.",
+            "published_at": "a year ago",
+            "published_at_date": "2022-05-10T08:56:02.335000Z",
+            "response_from_owner_text": "Thank you. We hope you like the Koshary as well.",
+            "response_from_owner_ago": "a year ago",
+            "response_from_owner_date": "2021-12-21T09:18:32.775000Z",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 206,
+            "total_number_of_photos_by_reviewer": 3,
+            "reviewer_url": "https://www.google.com/maps/contrib/108230159997883194731/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLrjzc7KiQsl6-mRVCG7MGX-xzMPbr3M-7QpS37tE3pBw=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "I was soooo excited to see koshary being offered here in Vancouver! It was so perfect, reminded me of home. Very delicious. And a really good price for a dish that lasted me TWO meals. I will definitely be ordering again and again and again!",
+            "reviewer_name": "Dina Yacoub",
+            "rating": 5,
+            "review_text": "I was soooo excited to see koshary being offered here in Vancouver! It was so perfect, reminded me of home. Very delicious. And a really good price for a dish that lasted me TWO meals. I will definitely be ordering again and again and again!",
+            "published_at": "2 years ago",
+            "published_at_date": "2021-03-01T01:44:56.429000Z",
+            "response_from_owner_text": "Thank you",
+            "response_from_owner_ago": "a year ago",
+            "response_from_owner_date": "2021-12-21T09:23:20.491000Z",
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 6,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/118091050577307054017/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUS-gI-JUZkDsqk1B1hBiCXKTBVaSxjn5VTwoGI6CBEKmI=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Best koshary I've ever had! Such rich flavours and spices, it really felt I was in the Middle East again! Definitely would eat from here again, 10/10 would recommend!!",
+            "reviewer_name": "Diana El-Baraqouni",
+            "rating": 5,
+            "review_text": "Best koshary I've ever had! Such rich flavours and spices, it really felt I was in the Middle East again! Definitely would eat from here again, 10/10 would recommend!!",
+            "published_at": "2 years ago",
+            "published_at_date": "2021-05-31T02:10:40.137000Z",
+            "response_from_owner_text": "Thank you",
+            "response_from_owner_ago": "a year ago",
+            "response_from_owner_date": "2021-12-21T09:20:29.697000Z",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 3,
+            "total_number_of_photos_by_reviewer": 2,
+            "reviewer_url": "https://www.google.com/maps/contrib/117574564552264108174/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocL1WCst2hwlGrtIA8Lsknt_mAaoUYt-wFGcYw-2LAiL=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

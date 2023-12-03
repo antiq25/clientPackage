@@ -1,0 +1,665 @@
+{
+    "place_id": "ChIJu6VAq8ZzhlQR04WRjQzdZ_A",
+    "name": "Salmon n' Bannock",
+    "description": "Intimate eatery featuring Native Canadian fare such as wild fish, game meat & bannock.",
+    "reviews": 916,
+    "website": "http://salmonandbannock.net/",
+    "owner": {
+        "id": "118148292161579064265",
+        "name": "Salmon n' Bannock (Owner)",
+        "link": "https://www.google.com/maps/contrib/118148292161579064265"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNuKLK5sZA1t45q3d9EOtVmZ18xLYVPMjDLfbeu=w426-h240-k-no",
+    "main_category": "Pacific Northwest restaurant (Canada)",
+    "categories": [
+        "Pacific Northwest restaurant (Canada)",
+        "Restaurant"
+    ],
+    "rating": 4.7,
+    "workday_timing": "3-9 p.m.",
+    "closed_on": [],
+    "phone": "(604) 568-8971",
+    "address": "Salmon n' Bannock, 1128 W Broadway #7, Vancouver, BC V6H 1G5",
+    "review_keywords": [
+        {
+            "keyword": "bison pot roast",
+            "count": 37
+        },
+        {
+            "keyword": "elk",
+            "count": 34
+        },
+        {
+            "keyword": "wild rice",
+            "count": 21
+        },
+        {
+            "keyword": "sockeye salmon",
+            "count": 15
+        },
+        {
+            "keyword": "indigenous cuisine",
+            "count": 14
+        },
+        {
+            "keyword": "pemmican",
+            "count": 13
+        },
+        {
+            "keyword": "candied salmon",
+            "count": 12
+        },
+        {
+            "keyword": "kelp",
+            "count": 11
+        },
+        {
+            "keyword": "sablefish",
+            "count": 9
+        },
+        {
+            "keyword": "sweetgrass",
+            "count": 6
+        }
+    ],
+    "link": "https://www.google.com/maps/place/Salmon+n%27+Bannock/data=!4m7!3m6!1s0x548673c6ab40a5bb:0xf067dd0c8d9185d3!8m2!3d49.263303!4d-123.1297697!16s%2Fg%2F1vg4jh69!19sChIJu6VAq8ZzhlQR04WRjQzdZ_A?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 3 p.m.",
+    "price_range": "$$",
+    "reviews_per_rating": {
+        "1": 20,
+        "2": 14,
+        "3": 25,
+        "4": 92,
+        "5": 765
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJu6VAq8ZzhlQR04WRjQzdZ_A&q=Salmon+n%27+Bannock&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.263303,
+        "longitude": -123.1297697
+    },
+    "plus_code": "7V7C+83 Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "West Side",
+        "street": "1128 W Broadway #7",
+        "city": "Vancouver",
+        "postal_code": "V6H 1G5",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "17323057537688372691",
+    "data_id": "0x548673c6ab40a5bb:0xf067dd0c8d9185d3",
+    "menu": {
+        "link": "https://www.salmonandbannock.net/menu",
+        "source": "salmonandbannock.net"
+    },
+    "reservations": [
+        {
+            "link": "https://www.exploretock.com/salmon-nbannock-bistro-vancouver/%3Futm_source%3Dsearch%26utm_medium%3Dplace-actions%26utm_content%3Dreservations",
+            "source": "exploretock.com"
+        },
+        {
+            "link": "https://www.google.com/maps/reserve/v/dine/c/9UuHcwHY8PY?source=pa",
+            "source": "google.com"
+        }
+    ],
+    "order_online_links": [
+        {
+            "link": "https://www.ubereats.com/ca/store/salmon-n-bannock-bistro/BNS4BUh7UfyDIcwqO5_7hQ?utm_campaign=place-action-link&utm_medium=organic&utm_source=google",
+            "source": "ubereats.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "from_the_business",
+            "name": "From the business",
+            "options": [
+                {
+                    "name": "Identifies as women-owned",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Takeout",
+                    "enabled": true
+                },
+                {
+                    "name": "Dine-in",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "highlights",
+            "name": "Highlights",
+            "options": [
+                {
+                    "name": "Fireplace",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair accessible seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Alcohol",
+                    "enabled": true
+                },
+                {
+                    "name": "Beer",
+                    "enabled": true
+                },
+                {
+                    "name": "Cocktails",
+                    "enabled": true
+                },
+                {
+                    "name": "Coffee",
+                    "enabled": true
+                },
+                {
+                    "name": "Hard liquor",
+                    "enabled": true
+                },
+                {
+                    "name": "Healthy options",
+                    "enabled": true
+                },
+                {
+                    "name": "Organic dishes",
+                    "enabled": true
+                },
+                {
+                    "name": "Small plates",
+                    "enabled": true
+                },
+                {
+                    "name": "Vegetarian options",
+                    "enabled": true
+                },
+                {
+                    "name": "Wine",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Dining options",
+            "options": [
+                {
+                    "name": "Dinner",
+                    "enabled": true
+                },
+                {
+                    "name": "Catering",
+                    "enabled": true
+                },
+                {
+                    "name": "Dessert",
+                    "enabled": true
+                },
+                {
+                    "name": "Seating",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Gender-neutral washroom",
+                    "enabled": true
+                },
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                },
+                {
+                    "name": "Wi-Fi",
+                    "enabled": true
+                },
+                {
+                    "name": "Wi-Fi",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosphere",
+            "options": [
+                {
+                    "name": "Casual",
+                    "enabled": true
+                },
+                {
+                    "name": "Cozy",
+                    "enabled": true
+                },
+                {
+                    "name": "Romantic",
+                    "enabled": true
+                },
+                {
+                    "name": "Upscale",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "crowd",
+            "name": "Crowd",
+            "options": [
+                {
+                    "name": "Family-friendly",
+                    "enabled": true
+                },
+                {
+                    "name": "Groups",
+                    "enabled": true
+                },
+                {
+                    "name": "LGBTQ+ friendly",
+                    "enabled": true
+                },
+                {
+                    "name": "Transgender safe space",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planning",
+            "options": [
+                {
+                    "name": "Accepts reservations",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "children",
+            "name": "Children",
+            "options": [
+                {
+                    "name": "High chairs",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNuKLK5sZA1t45q3d9EOtVmZ18xLYVPMjDLfbeu=w529-h298-k-no"
+        },
+        {
+            "about": "Latest",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNVO3Wp_O3YaWdLwYao8OZ86zn3C_lZgCVjN9yF=w224-h305-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPYAgscgrnfG3-9SQ9R8ntkh8Z4ZXBj5Nub3e39=w224-h398-k-no"
+        },
+        {
+            "about": "Menu",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNpTPbHPSXqDoOCIffYPtdmNjAV6Bpk3vI1vw-A=w224-h298-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNssaQaPRZwBbkJu_Dkldu-7oRUH5nbqwV1Uin-=w447-h298-k-no"
+        },
+        {
+            "about": "Vibe",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipODd91ZnPgkXpvXT_pIofovH7wJLQUPeaG-7Sy5=w398-h298-k-no"
+        },
+        {
+            "about": "Chicken sandwich",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOzpXtspFclIiYAbkNFzI1znumz6Ct_TufQ3QYu=w397-h298-k-no"
+        },
+        {
+            "about": "Charcuterie",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPV-E-_7i3CAf8ruwuq42NY-DL_UEL2eKHqBSDS=w446-h298-k-no"
+        },
+        {
+            "about": "Sangria",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPUsX-F-NgeO2AGxd4J8bcF6jzJGFJ4o_bfRLLu=w397-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPSKcs9UBY04_55DKJaASOjOc7MFyP_i26v0VCQ=w446-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=JwC0V41mvqddzDGMaJA2jg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=3.9529932&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "3-9 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "3-9 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "3-9 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "3-9 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "3-9 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "3-9 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "3-9 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "This is an indigenous owned restaurant with traditional indigenous inspired food. It is Michelin listed. The service is wonderful they accommodated us just at closing time and they're really friendly and share books about the tragic history of Canadian First Nations. It's poignant reading about the owner's personal experience while reading through the menu. We ordered the upgrade to turn a main course into a 3 course meal. The first thing that hits you, literally in the gut, is how heavy the bannock is. It's so heavy and filling it could be a meal on its own. About the size of a large dinner roll with the weight of 7 of them. But it was surprisingly soft, natural tasting and great with butter. There was a beef and celery soup with so much shredded meat and celery it could have been a stew. Dipping bannock in it was great. We also had mushrooms and gravy on another large bannock. This was so good. The highlight was rubbed grilled salmon on wild rice. This was exceptional and we didn't finish it so we could share it with our daughter. Ice cream with berries was an excellent close. Let me not forget to mention 2 indigenous beers a vanilla porter that reminds you of a dark English beer and a Saskatoon berry that reminds you of a sour lager.",
+            "reviewer_name": "toffy concepcion",
+            "rating": 5,
+            "review_text": "This is an indigenous owned restaurant with traditional indigenous inspired food. It is Michelin listed. The service is wonderful they accommodated us just at closing time and they're really friendly and share books about the tragic history of Canadian First Nations. It's poignant reading about the owner's personal experience while reading through the menu. We ordered the upgrade to turn a main course into a 3 course meal. The first thing that hits you, literally in the gut, is how heavy the bannock is. It's so heavy and filling it could be a meal on its own. About the size of a large dinner roll with the weight of 7 of them. But it was surprisingly soft, natural tasting and great with butter. There was a beef and celery soup with so much shredded meat and celery it could have been a stew. Dipping bannock in it was great. We also had mushrooms and gravy on another large bannock. This was so good. The highlight was rubbed grilled salmon on wild rice. This was exceptional and we didn't finish it so we could share it with our daughter. Ice cream with berries was an excellent close. Let me not forget to mention 2 indigenous beers a vanilla porter that reminds you of a dark English beer and a Saskatoon berry that reminds you of a sour lager.",
+            "published_at": "5 days ago",
+            "published_at_date": "2023-11-25T16:40:17.839000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 412,
+            "total_number_of_photos_by_reviewer": 2433,
+            "reviewer_url": "https://www.google.com/maps/contrib/114933547240385128551/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVXCzSCW7dPf8HBqnV9ByaFzLY54nOa-nyH4EHQ06I_cRs-=s120-c-rp-mo-ba6-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipN3KuC2pT62mOXWRUZd8KFUeXvzOW2KbzCtJ3wQ=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNVO3Wp_O3YaWdLwYao8OZ86zn3C_lZgCVjN9yF=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPykiB_Tqj_tS_qS9quigQMB9x0qYBFD1BvwJXy=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMMrZjev80LBT0HaXC6J4SBhzjaInrrmVjxerah=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMmt5Yu9l7mvfvp4ITnjJxz8e7GcmTtzckX2IOl=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMzLGheYW_pMAz1jrLyiYOW9Qyps558W5eKtVhQ=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOjdw4THEC5r5MsroRxWYTXAbjpgMW9yj_GYYG6=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOHDcFLIO5TUUJy8Kgk-3IEPYKpR7lAhpeoc4uG=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipP3iVBbtBRU1IVFD5ge7eo5P_eg2jztLzSt6e0O=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipN4a3WwzWU96bwx2iOLoil1YNg5Da9RibGSrJud=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipM0EbCogMMr8WRa9F3PSoLYWkUHSPYPtc0xxals=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "We were curious to experience this west coast restaurant and it turned out to be a feast for the senses from the warm welcome, the smells of cedar, the sound of indigenous music, the decorative touches, to the flavours of the food and drink. The menu was proudly described to us which helped us make our selections and this enhanced our dining experience. We were invited to take our leftover bannock home. Extra points for reducing food waste. The service was wonderful. Reservations recommended as the restaurant has limited seating. Several groups of walk-ins were turned away while we were there.\nThere's paid parking at the back but it's difficult to access the restaurant from the upper lot if you have mobility issues as the elevator is not in service. If you drive around to the lower lot there are stairs.",
+            "reviewer_name": "35RedBackpack",
+            "rating": 4,
+            "review_text": "We were curious to experience this west coast restaurant and it turned out to be a feast for the senses from the warm welcome, the smells of cedar, the sound of indigenous music, the decorative touches, to the flavours of the food and drink. The menu was proudly described to us which helped us make our selections and this enhanced our dining experience. We were invited to take our leftover bannock home. Extra points for reducing food waste. The service was wonderful. Reservations recommended as the restaurant has limited seating. Several groups of walk-ins were turned away while we were there.\nThere's paid parking at the back but it's difficult to access the restaurant from the upper lot if you have mobility issues as the elevator is not in service. If you drive around to the lower lot there are stairs.",
+            "published_at": "2 weeks ago",
+            "published_at_date": "2023-11-11T23:36:09.493000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 219,
+            "total_number_of_photos_by_reviewer": 387,
+            "reviewer_url": "https://www.google.com/maps/contrib/106409157546383433660/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUvwr3AZSHi1je2OqkHnUqWX3vAiM74G7JX7cijNlak7UA=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOnD1d4l56fVU-n2LELochqfR4vDW7zkfflkeE5=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipN43L3VInQolAm0k_Idxw0NXVRJfLBs0chJxxRH=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNCz637PQgeZwBqNRzFvjIcyAPdczVGqcZRV-Vn=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMgEIirvFbT7UbFkPNMy3pSyAraCYhiBa0hP4p_=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "I had high expectations on the food because of the good reviews. However, among all the food we ordered ( for 6 persons), I only liked the game sausage and plain bannock with butter. Others especially the main courses are just so so and tastes not very distinctive. All the side dishes are the same - not much a variety to share. Drinks (Berries gone wild, Elderflower refresher) are not that impressive too.\nI suggest not to order bannocks as starter as all main courses include a bannock with butter.  We ordered two toasted bannocks with sage-blueberries as starter and ended up eating a lot of bannocks!!\nIt's kind of disappointing for what we paid ($70+ per person). However, service and atmosphere is good.",
+            "reviewer_name": "Charlotte Yuk Yung LI",
+            "rating": 3,
+            "review_text": "I had high expectations on the food because of the good reviews. However, among all the food we ordered ( for 6 persons), I only liked the game sausage and plain bannock with butter. Others especially the main courses are just so so and tastes not very distinctive. All the side dishes are the same - not much a variety to share. Drinks (Berries gone wild, Elderflower refresher) are not that impressive too.\nI suggest not to order bannocks as starter as all main courses include a bannock with butter.  We ordered two toasted bannocks with sage-blueberries as starter and ended up eating a lot of bannocks!!\nIt's kind of disappointing for what we paid ($70+ per person). However, service and atmosphere is good.",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-18T08:08:34.260000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 5,
+            "total_number_of_reviews_by_reviewer": 363,
+            "total_number_of_photos_by_reviewer": 3168,
+            "reviewer_url": "https://www.google.com/maps/contrib/117484749802418993177/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjU167xF-frObbe3KhItuEVkVYNWOVSxkJVnrUGhgMWVcUA=s120-c-rp-mo-ba6-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOWM00S6LeAgmoUkZJX2vklPejbe6dn7PGDFZ0a=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipORuKy_3T5pXEIRjSQTr5XkO55SfF1HPyNpPKB8=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipN7Kc3CtnLT5M1fQhcUgxXDgCTBDVNJNKLMH3IP=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOJGYkzKeqfifSpoOgZbSW3tMUC7sc2X8y-TmBv=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipN4SX1k1u2vtPOOwK8RRrDMHnJUHEKyjuvQNgwL=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOolCZrAj8vBmCIaM28NBTwWOg0ZgLvHZbSjmbv=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMCiga_OFakJ7OQV0A7zBeYmKB7nX_pQqqLpz3k=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOgxZGQ2oP5KjjiMOzNsvjS8me321eqk4p2SmWA=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPuCUdMMEda5JlkkrQGTI1p59ghjtNLiRjLs_AT=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNY0OV8o_yWhxhIiv-hCMWhQzU9IooXH5tbucFM=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPxchATFyRFaoNNXQzvoxJY-P8JU2IKvbN9Dfwj=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMxF_yfPc24YoBGzpgQXZaxjngb7LywjE9ELdzY=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMt5EgSGKsLMHEzFkBE1euvmLrVTumfHDfSkTot=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "The service we experienced was genuinely warm and hospitable, creating a positive atmosphere throughout our dining experience. The waitress who attended to us went above and beyond by offering comprehensive explanations of the menu items, which added a layer of understanding and appreciation to our choices.\n\nAmong the various dishes we sampled, the preparation of both the salmon and the meat options showcased a commendable level of skill and attention to detail. The salmon was expertly cooked to retain its moisture and flavor, while the meat dishes displayed a balance of tenderness and succulence, indicating a dedication to culinary craftsmanship.\n\nA noteworthy mention goes to the cedar jelly, an item that piqued our curiosity. Upon tasting it, we were pleasantly surprised by its distinctive and unparalleled flavor profile. The novelty of the cedar jelly adds a sense of adventure to the dining experience, making it a must-try for those open to exploring unique tastes.\n\nIn summary, the warm and informative service, coupled with the skillful preparation of dishes like salmon and meat, provided a satisfying dining experience. For those seeking an intriguing and distinctive flavor encounter, the cedar jelly stands as a testament to the innovative offerings of the establishment.",
+            "reviewer_name": "Foodie Vancouver",
+            "rating": 5,
+            "review_text": "The service we experienced was genuinely warm and hospitable, creating a positive atmosphere throughout our dining experience. The waitress who attended to us went above and beyond by offering comprehensive explanations of the menu items, which added a layer of understanding and appreciation to our choices.\n\nAmong the various dishes we sampled, the preparation of both the salmon and the meat options showcased a commendable level of skill and attention to detail. The salmon was expertly cooked to retain its moisture and flavor, while the meat dishes displayed a balance of tenderness and succulence, indicating a dedication to culinary craftsmanship.\n\nA noteworthy mention goes to the cedar jelly, an item that piqued our curiosity. Upon tasting it, we were pleasantly surprised by its distinctive and unparalleled flavor profile. The novelty of the cedar jelly adds a sense of adventure to the dining experience, making it a must-try for those open to exploring unique tastes.\n\nIn summary, the warm and informative service, coupled with the skillful preparation of dishes like salmon and meat, provided a satisfying dining experience. For those seeking an intriguing and distinctive flavor encounter, the cedar jelly stands as a testament to the innovative offerings of the establishment.",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-13T20:29:11.904000Z",
+            "response_from_owner_text": "Thank you for the review!",
+            "response_from_owner_ago": "3 months ago",
+            "response_from_owner_date": "2023-08-25T21:26:50.647000Z",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 146,
+            "total_number_of_photos_by_reviewer": 619,
+            "reviewer_url": "https://www.google.com/maps/contrib/106886474788291212647/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjV5pvd-5uRG1C5MBN5E6Z2k-cscRimOfMxAdJtPbDp9M7vU=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPXU4lAygHeowo11BZ4jHYzViBZ9lprdtIJV5tI=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipP1IIms9dV10Vm8VPJ6nK0ZHjfr055psOBPYu6v=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPMP9ioAPNXS9mbqQi948C86VOIhsFRd2yWFjwN=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipO1oe1QSaJmDdk7m1zxYi-o-mDqfl288-pYal7U=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipP8TgdzcCboxpZAb1xFnLTBoSvHjf4tl4nQ1f50=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "If you Google 'Salmon Restaurant Vancouver' you will surely be recommended to come here. I love the storytelling about the indigenous background, as well as the dining experience. Small Restaurant, so booking online is a must. The waitress recommended the Salmon Sampler and we also ordered the Fish & Rice Wild Sockeye and also the Mushroom Risotto. The kids really loved the Game Sausage Dinner - Elk. The flavours are so unique, it was amazing.",
+            "reviewer_name": "William Lin",
+            "rating": 5,
+            "review_text": "If you Google 'Salmon Restaurant Vancouver' you will surely be recommended to come here. I love the storytelling about the indigenous background, as well as the dining experience. Small Restaurant, so booking online is a must. The waitress recommended the Salmon Sampler and we also ordered the Fish & Rice Wild Sockeye and also the Mushroom Risotto. The kids really loved the Game Sausage Dinner - Elk. The flavours are so unique, it was amazing.",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-09T06:14:54.109000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 519,
+            "total_number_of_photos_by_reviewer": 3311,
+            "reviewer_url": "https://www.google.com/maps/contrib/100537437524494981031/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIHlt2XMckHffYlPWdtMlLjCG6TYEGHX6p3KyI31n48=s120-c-rp-mo-ba6-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipM_2v-LNA1y37Dh87IAQ5t7g0nbvF5_eA3C7cib=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMuN1IYmnhmzr0dn2PHPg_ds6LGKWWICXJNOmRG=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipORiZfLVt_O0cf2cvXABB6oBB3CC2AZDdUC6LPE=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipO3q-O_OPSg3OAkZTeFwx9tYdy-jJch0S1kFa3R=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNvznba6gnj-sYjAby1-BEKp6dpnRufodOGA1ie=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOO6TgRSlcrBIYBH79TH6oAAb98wIB_9t2WeII0=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipODd91ZnPgkXpvXT_pIofovH7wJLQUPeaG-7Sy5=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNGQU5xj3WViwv9IcxY15QuWU4Ed2tCvMCfr5gp=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPklUIDvWkaegL2MVEKmUAx7L0EylLpv8eJOjak=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMctTkVqXXwG2M2U6NP1dWGB3n4AdbwzdibmrzW=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "I'm not the first to say this, but I definitely recommend making a reservation because the place is so small. A friend and I wanted to try but weren't sure on the timing of when we'd be ready and so didn't make a reservation for Sunday, and we got really lucky - we called ahead and first they said they had room on the patio only, but then shortly after we arrived they'd had a cancellation so we did get a table inside. During the few minutes we were on the patio, though, they wanted to make sure we were comfortable and brought me a blanket since I was cold. But it was nice to sit inside to see all the art they have up.\nTo warm up, I got a wild rice tea (which is a caffeine-free infusion, not technically a tea), which was surprisingly rich-tasting. If you like genmaicha, this was a similar idea without the tea. For my meal, I had their vegetarian risotto, which rotates and was butternut squash on that day. My meal included a piece of bannock which they brought out first, which was like a cross between a dinner roll and rich biscuit and very good. Sometimes I find risotto boring, but this one was fantastic, with the rich earthy flavours of the risotto complimented by the seasoned roasted vegetables it was topped with. My friend was a fan of her salmon burger too, and said the bannock as a bun made it interesting and different. I tried one of her sweet potato fries and really liked it - more interesting than regular fries for sure. To finish, we ordered a blueberry bread pudding. I really like bread pudding but my friend had never tried it, but we both enjoyed it! The texture of the bannock in bread pudding was a little different but worked well!\nMy meal came to $57 after tip and tax, but it was well worth it for the nice experience I had (and I left full), and I would definitely recommend this restaurant to both foodies and people looking to get a taste of Indigenous culture.",
+            "reviewer_name": "Dana Sullivan",
+            "rating": 5,
+            "review_text": "I'm not the first to say this, but I definitely recommend making a reservation because the place is so small. A friend and I wanted to try but weren't sure on the timing of when we'd be ready and so didn't make a reservation for Sunday, and we got really lucky - we called ahead and first they said they had room on the patio only, but then shortly after we arrived they'd had a cancellation so we did get a table inside. During the few minutes we were on the patio, though, they wanted to make sure we were comfortable and brought me a blanket since I was cold. But it was nice to sit inside to see all the art they have up.\nTo warm up, I got a wild rice tea (which is a caffeine-free infusion, not technically a tea), which was surprisingly rich-tasting. If you like genmaicha, this was a similar idea without the tea. For my meal, I had their vegetarian risotto, which rotates and was butternut squash on that day. My meal included a piece of bannock which they brought out first, which was like a cross between a dinner roll and rich biscuit and very good. Sometimes I find risotto boring, but this one was fantastic, with the rich earthy flavours of the risotto complimented by the seasoned roasted vegetables it was topped with. My friend was a fan of her salmon burger too, and said the bannock as a bun made it interesting and different. I tried one of her sweet potato fries and really liked it - more interesting than regular fries for sure. To finish, we ordered a blueberry bread pudding. I really like bread pudding but my friend had never tried it, but we both enjoyed it! The texture of the bannock in bread pudding was a little different but worked well!\nMy meal came to $57 after tip and tax, but it was well worth it for the nice experience I had (and I left full), and I would definitely recommend this restaurant to both foodies and people looking to get a taste of Indigenous culture.",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-12T02:44:19.540000Z",
+            "response_from_owner_text": "Thanks for the detailed review!",
+            "response_from_owner_ago": "a month ago",
+            "response_from_owner_date": "2023-10-03T23:26:28.843000Z",
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 463,
+            "total_number_of_photos_by_reviewer": 878,
+            "reviewer_url": "https://www.google.com/maps/contrib/100301382381587630782/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWgN1OTwEPZ2LLjqVsbdYC4AtMeyuihrMZsNQ4wkbWmjYk=s120-c-rp-mo-ba6-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPITFKzmOOIzh2kvLqiN8TbKfSgPKmj0JtzvVNA=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOFB6nZmI1mBWh7oU4ft01PP8j9OO_ZcquCaLhL=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNFlztUpPySpRIwwZXzNgZB0aYmQ1gftHQb5H8q=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Our first meal in Vancouver BC was memorable and delicious. We started with salmon 3 ways and fell in love with all of the various flavors. Next up was the Bison Pot Roast and Sockeye Fish & Rice entrees . Both were delightful and tasty. Bannock and the jelly were so good!  Service was pleasant and cheerful. Highly recommend this restaurant.",
+            "reviewer_name": "Cindy Shelberg",
+            "rating": 5,
+            "review_text": "Our first meal in Vancouver BC was memorable and delicious. We started with salmon 3 ways and fell in love with all of the various flavors. Next up was the Bison Pot Roast and Sockeye Fish & Rice entrees . Both were delightful and tasty. Bannock and the jelly were so good!  Service was pleasant and cheerful. Highly recommend this restaurant.",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-19T03:34:48.239000Z",
+            "response_from_owner_text": "Thanks!",
+            "response_from_owner_ago": "3 months ago",
+            "response_from_owner_date": "2023-08-25T21:31:27.174000Z",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 36,
+            "total_number_of_photos_by_reviewer": 69,
+            "reviewer_url": "https://www.google.com/maps/contrib/111505530762779629826/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXmVR-SADSzS7JZ0__o7wsQioMsfLxXjhc_gUf0W6qdeDkT=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOlXKErl37iXV-5o-KnJpfShY1bvAijxUlPLMIx=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOyRGcHd3zTvTaMU_OT9kFV70876PTXxrulJLtU=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Wow! This place is truly a gem!!\n\nWe loved everything about the Bistro! The atmosphere was beautiful, the service was great considering how busy the restaurant was.\n\nThe food! Honestly speechless of the presentation and of course the taste! Each plate was mesmerizing and beautifully done!\n\n10/10!",
+            "reviewer_name": "K2 Holiday",
+            "rating": 5,
+            "review_text": "Wow! This place is truly a gem!!\n\nWe loved everything about the Bistro! The atmosphere was beautiful, the service was great considering how busy the restaurant was.\n\nThe food! Honestly speechless of the presentation and of course the taste! Each plate was mesmerizing and beautifully done!\n\n10/10!",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-11T06:50:02.801000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 9,
+            "total_number_of_photos_by_reviewer": 22,
+            "reviewer_url": "https://www.google.com/maps/contrib/113811484033653321690/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWqZHHLpVoZMtd8hx_aaG_jE98UErIfT39ca4Ci-gJsRQ=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPIZ5-Afin_3jjnLjGFedQzdR2DBl5Qag3gOPRD=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPwFxaj0oMUdvF0z-Wt-HUqrwNdbCO9SrZHyMjv=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPRRbo-FzsYo9e8MblctiR0hScDSSNlVKJwvwaK=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNZ-GRAoqY5_w3UMNmNWaKHcZxM3KMK_Kq6dPgy=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOMseDhlUkHqboPH9-9RIJclFPnTOSw8YZJ8QMX=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPCq0pimKbisbkP7LHQRarXn4D77tyWzDGD8DNB=w150-h150-k-no-p"
+            ]
+        }
+    ],
+    "is_spending_on_ads": false
+}

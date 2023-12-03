@@ -1,4 +1,6 @@
 import * as domHandlers from './locateElement.js';
+import { getReviewsFromDB } from './reviews.js';
+
 document
     .getElementById('signupForm')
     .addEventListener('submit', async (event) => {
@@ -47,3 +49,10 @@ document
     event.preventDefault();
     await domHandlers.handleResetPassword();
 });
+
+document
+.getElementById('getReviewsForm')   
+.addEventListener('submit', async (event) => {
+    event.preventDefault();
+    await getReviewsFromDB();   
+}); 

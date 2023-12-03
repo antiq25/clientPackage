@@ -45,16 +45,16 @@
             "count": 8
         },
         {
-            "keyword": "light",
-            "count": 8
-        },
-        {
             "keyword": "presentation",
             "count": 7
         },
         {
-            "keyword": "peach",
-            "count": 7
+            "keyword": "mango",
+            "count": 6
+        },
+        {
+            "keyword": "coconut",
+            "count": 6
         },
         {
             "keyword": "passion fruit",
@@ -62,7 +62,7 @@
         }
     ],
     "link": "https://www.google.com/maps/place/Minus+Cake+Boutique+%28Pre+Order+Only,+No+Walk-In%29/data=!4m7!3m6!1s0x5486773a13c85725:0x356a8ee7717eaaa8!8m2!3d49.2324158!4d-123.0256006!16s%2Fg%2F11gjtyszts!19sChIJJVfIEzp3hlQRqKp-ceeOajU?authuser=0&hl=en&rclk=1",
-    "status": "Closed  Opens 9:30 a.m.",
+    "status": "Closed  Opens 12 p.m.",
     "price_range": null,
     "reviews_per_rating": {
         "1": 14,
@@ -71,7 +71,7 @@
         "4": 42,
         "5": 132
     },
-    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJJVfIEzp3hlQRqKp-ceeOajU&q=Minus+Cake+Boutique+(Pre+Order+Only,+No+Walk-In)&authuser=0&hl=en&gl=CA",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJJVfIEzp3hlQRqKp-ceeOajU&q=Minus+Cake+Boutique+%28Pre+Order+Only,+No+Walk-In%29&authuser=0&hl=en&gl=CA",
     "coordinates": {
         "latitude": 49.2324158,
         "longitude": -123.02560059999999
@@ -99,7 +99,7 @@
             "source": "minuscake.com"
         },
         {
-            "link": "https://www.fantuanorder.com/store/minus-cake-boutique/ca-6951?rwg_token=AOZt1jXymsqSuGOGWGYLwQ77JxZA494uHTBriFJnFxuP9e-JXiiIqllcoxM2XbCjxPYBPXp4sIbkjBLcXIAtLUSu_EKBvbFjavK2Ac3cB5ddWuuEOwXJ774%3D",
+            "link": "https://www.fantuanorder.com/store/minus-cake-boutique/ca-6951?rwg_token=AOZt1jUVTczwRVQ6F_fr41SVGCtjBPz9qiHMEYZ9bKJqG5x9lTm0W0wBGfKv92waSe6T3G_vwOuqTYQA5yZD9G0YNRn_UbnSNkFogEz4cCpApmsTyDx0ewI%3D",
             "source": "fantuanorder.com"
         },
         {
@@ -229,12 +229,8 @@
             "link": "https://lh5.googleusercontent.com/p/AF1QipNH9C1wQMjBrNZeeiHjbrA4Xudoa3SL3U28XmaL=w224-h298-k-no"
         },
         {
-            "about": "Ice cream",
-            "link": "https://lh5.googleusercontent.com/p/AF1QipOcZ_IA5hdnNb-ZrFbr6tUy4asx15S9zLokTSDm=w224-h298-k-no"
-        },
-        {
             "about": "Cake",
-            "link": "https://lh5.googleusercontent.com/p/AF1QipP_zWrPEZhPBeHtY6g8OPTlb5OVEZ3hSa6HDULD=w224-h298-k-no"
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMSoZjt9Iz7AQ8S0x19yv9z60ex4-K5crK27tQB=w224-h298-k-no"
         },
         {
             "about": "By owner",
@@ -291,30 +287,6 @@
     ],
     "featured_reviews": [
         {
-            "review_id": "Totally recommended. Last year they prepared my baby's 1 year old cake.\nThey are very helpful and accommodating.",
-            "reviewer_name": "Sandra Rivera Rojas",
-            "rating": 5,
-            "review_text": "Totally recommended. Last year they prepared my baby's 1 year old cake.\nThey are very helpful and accommodating.",
-            "published_at": "a week ago",
-            "published_at_date": "2023-11-12T23:10:28.922000Z",
-            "response_from_owner_text": null,
-            "response_from_owner_ago": null,
-            "response_from_owner_date": null,
-            "review_likes_count": 0,
-            "total_number_of_reviews_by_reviewer": 100,
-            "total_number_of_photos_by_reviewer": 295,
-            "reviewer_url": "https://www.google.com/maps/contrib/114247123954497427447/reviews?entry=ttu",
-            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXzSnuF-mnIZEJLZx7u5HJmGbOQDIlD4EkjtrUdo6hFo7k=s120-c-rp-mo-ba4-br100",
-            "is_local_guide": true,
-            "review_translated_text": null,
-            "response_from_owner_translated_text": null,
-            "review_photos": [
-                "https://lh5.googleusercontent.com/p/AF1QipMhlo7lmlMqKUgE6qMm7BkylDpeI5r-k89VUb9M=w150-h150-k-no-p",
-                "https://lh5.googleusercontent.com/p/AF1QipOySOc4hFbecQa2duFQVe6I82p9WXeAIJpL8nS0=w150-h150-k-no-p",
-                "https://lh5.googleusercontent.com/p/AF1QipPcSBaCXzueYlff7MAiPcAOoIey1JHxfrJqbjPA=w150-h150-k-no-p"
-            ]
-        },
-        {
             "review_id": "Recommended to try this place! The dessert tastes amazing. I'm not a big fan of sugary sweets, and Minus Cake got the sweetness right!  The cake is fluffy with a creamy mousse texture that melts in the mouth.",
             "reviewer_name": "Sylvia Lan",
             "rating": 5,
@@ -334,6 +306,30 @@
             "response_from_owner_translated_text": null,
             "review_photos": [
                 "https://lh5.googleusercontent.com/p/AF1QipMM3XDHKXYnv5jbBirw2IKgH2CjMZKBXz6IqmII=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Totally recommended. Last year they prepared my baby's 1 year old cake.\nThey are very helpful and accommodating.",
+            "reviewer_name": "Sandra Rivera Rojas",
+            "rating": 5,
+            "review_text": "Totally recommended. Last year they prepared my baby's 1 year old cake.\nThey are very helpful and accommodating.",
+            "published_at": "2 weeks ago",
+            "published_at_date": "2023-11-12T23:10:28.922000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 102,
+            "total_number_of_photos_by_reviewer": 295,
+            "reviewer_url": "https://www.google.com/maps/contrib/114247123954497427447/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXzSnuF-mnIZEJLZx7u5HJmGbOQDIlD4EkjtrUdo6hFo7k=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMhlo7lmlMqKUgE6qMm7BkylDpeI5r-k89VUb9M=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOySOc4hFbecQa2duFQVe6I82p9WXeAIJpL8nS0=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPcSBaCXzueYlff7MAiPcAOoIey1JHxfrJqbjPA=w150-h150-k-no-p"
             ]
         },
         {
@@ -397,8 +393,8 @@
             "response_from_owner_ago": null,
             "response_from_owner_date": null,
             "review_likes_count": 1,
-            "total_number_of_reviews_by_reviewer": 368,
-            "total_number_of_photos_by_reviewer": 1244,
+            "total_number_of_reviews_by_reviewer": 371,
+            "total_number_of_photos_by_reviewer": 1266,
             "reviewer_url": "https://www.google.com/maps/contrib/112797509866700892010/reviews?entry=ttu",
             "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjU--AWytbNl0SZWfne6LXFwT4FF92fMSii7kblXPv-nGm4=s120-c-rp-mo-ba6-br100",
             "is_local_guide": true,
@@ -446,7 +442,7 @@
             "response_from_owner_ago": null,
             "response_from_owner_date": null,
             "review_likes_count": 1,
-            "total_number_of_reviews_by_reviewer": 15,
+            "total_number_of_reviews_by_reviewer": 16,
             "total_number_of_photos_by_reviewer": 15,
             "reviewer_url": "https://www.google.com/maps/contrib/109227266277028490398/reviews?entry=ttu",
             "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUJn6SNk4GCup0Mczvsob0Tk89HSAkd8VtYrrYmu9FN0N0=s120-c-rp-mo-ba2-br100",

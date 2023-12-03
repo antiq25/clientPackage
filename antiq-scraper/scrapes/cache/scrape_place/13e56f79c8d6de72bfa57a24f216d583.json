@@ -1,0 +1,615 @@
+{
+    "place_id": "ChIJg2CDD-hzhlQR6RfTpau_YYw",
+    "name": "Folke",
+    "description": null,
+    "reviews": 189,
+    "website": "https://www.folkerestaurant.com/",
+    "owner": {
+        "id": "104979055193441113951",
+        "name": "Folke (Owner)",
+        "link": "https://www.google.com/maps/contrib/104979055193441113951"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPICn1QKUeIqQgVZwQ4Ed48kAMRdYUEoQfril8N=w408-h271-k-no",
+    "main_category": "Restaurant",
+    "categories": [
+        "Restaurant"
+    ],
+    "rating": 4.8,
+    "workday_timing": "5-10:30 p.m.",
+    "closed_on": [
+        "Tuesday",
+        "Wednesday",
+        "Friday"
+    ],
+    "phone": "(236) 455-6556",
+    "address": "Folke, 2585 W Broadway, Vancouver, BC V6K 2E9",
+    "review_keywords": [
+        {
+            "keyword": "vegan",
+            "count": 57
+        },
+        {
+            "keyword": "tasting menu",
+            "count": 44
+        },
+        {
+            "keyword": "tipping",
+            "count": 29
+        },
+        {
+            "keyword": "creative",
+            "count": 15
+        },
+        {
+            "keyword": "dumplings",
+            "count": 11
+        },
+        {
+            "keyword": "chickpea tofu",
+            "count": 10
+        },
+        {
+            "keyword": "wages",
+            "count": 8
+        },
+        {
+            "keyword": "wine pairing",
+            "count": 6
+        },
+        {
+            "keyword": "plant based",
+            "count": 6
+        },
+        {
+            "keyword": "beets",
+            "count": 6
+        }
+    ],
+    "link": "https://www.google.com/maps/place/Folke/data=!4m7!3m6!1s0x548673e80f836083:0x8c61bfaba5d317e9!8m2!3d49.2641886!4d-123.1644676!16s%2Fg%2F11rv8044nn!19sChIJg2CDD-hzhlQR6RfTpau_YYw?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 5 p.m. Sat",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 3,
+        "2": 6,
+        "3": 4,
+        "4": 6,
+        "5": 170
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJg2CDD-hzhlQR6RfTpau_YYw&q=Folke&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.2641886,
+        "longitude": -123.1644676
+    },
+    "plus_code": "7R7P+M6 Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "West Side",
+        "street": "2585 W Broadway",
+        "city": "Vancouver",
+        "postal_code": "V6K 2E9",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "10115576981993232361",
+    "data_id": "0x548673e80f836083:0x8c61bfaba5d317e9",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [
+        {
+            "link": "http://www.folkerestaurant.com/reservations",
+            "source": "folkerestaurant.com"
+        },
+        {
+            "link": "https://www.exploretock.com/folke-vancouver/?utm_source=search&utm_medium=place-actions&utm_content=reservations",
+            "source": "exploretock.com"
+        }
+    ],
+    "order_online_links": [
+        {
+            "link": "http://www.folkerestaurant.com/reservations",
+            "source": "folkerestaurant.com"
+        },
+        {
+            "link": "https://www.exploretock.com/folke-vancouver/?utm_source=search&utm_medium=place-actions&utm_content=reservations",
+            "source": "exploretock.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Outdoor seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Dine-in",
+                    "enabled": true
+                },
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "highlights",
+            "name": "Highlights",
+            "options": [
+                {
+                    "name": "Great cocktails",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair accessible seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Alcohol",
+                    "enabled": true
+                },
+                {
+                    "name": "Beer",
+                    "enabled": true
+                },
+                {
+                    "name": "Cocktails",
+                    "enabled": true
+                },
+                {
+                    "name": "Coffee",
+                    "enabled": true
+                },
+                {
+                    "name": "Hard liquor",
+                    "enabled": true
+                },
+                {
+                    "name": "Healthy options",
+                    "enabled": true
+                },
+                {
+                    "name": "Small plates",
+                    "enabled": true
+                },
+                {
+                    "name": "Vegan options",
+                    "enabled": true
+                },
+                {
+                    "name": "Vegetarian options",
+                    "enabled": true
+                },
+                {
+                    "name": "Wine",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Dining options",
+            "options": [
+                {
+                    "name": "Dinner",
+                    "enabled": true
+                },
+                {
+                    "name": "Catering",
+                    "enabled": true
+                },
+                {
+                    "name": "Dessert",
+                    "enabled": true
+                },
+                {
+                    "name": "Seating",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Bar on-site",
+                    "enabled": true
+                },
+                {
+                    "name": "Dogs allowed",
+                    "enabled": true
+                },
+                {
+                    "name": "Gender-neutral washroom",
+                    "enabled": true
+                },
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosphere",
+            "options": [
+                {
+                    "name": "Cozy",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planning",
+            "options": [
+                {
+                    "name": "Accepts reservations",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "children",
+            "name": "Children",
+            "options": [
+                {
+                    "name": "High chairs",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "parking",
+            "name": "Parking",
+            "options": [
+                {
+                    "name": "Free street parking",
+                    "enabled": true
+                },
+                {
+                    "name": "Paid street parking",
+                    "enabled": true
+                },
+                {
+                    "name": "Parking",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPICn1QKUeIqQgVZwQ4Ed48kAMRdYUEoQfril8N=w447-h298-k-no"
+        },
+        {
+            "about": "Latest",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNzeK8Z1rzwoGX7AE_AKKxRErzevyJ5lQtKtIem=w224-h298-k-no"
+        },
+        {
+            "about": "Menu",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOcdc4gtOrTBvoOFxTQlv6I8dlDz2wLpxgyO5Gs=w224-h298-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOeAPdgTKK7EjlYLrN8-8QclScuqeXXExIKZWtK=w224-h298-k-no"
+        },
+        {
+            "about": "Vibe",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNSVPHvtMlFoteNF_kbKGfNKZzyYajeegqnlEkR=w447-h298-k-no"
+        },
+        {
+            "about": "Spaghetti",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOO2Afed82R-tP6Di7PkE_ARf2v7dw4mbsysVoj=w224-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipO58BrX-VKi0Wqkv_aiaOdeCGaWZ_BrtDZGMJbf=w224-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=fw_716Tl_y-PiGevCyrr6g&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=349.71698&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "5-9 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "Closed"
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "Closed"
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "5-10:30 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "Closed"
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "5-10:30 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "5-10:30 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "We shared a chef's tasting menu and sat at the Chef's bar. The entire experience was perfect. As we were being seated we were asked where we are from and they confirmed that it was a special occasion. The exceptional service continued throughout the evening. The food was exquisite. Vegan fare rarely rises to such heights. Attention was paid to presentation, flavor combinations, and textures. The Beet tartar and the chickpea tofu stood out to my mind, but nothing was wanting. The desserts were luscious. The chocolate layer cake with crunchy bottom, orange gelee, and a sprinkle of salt to heighten the senses was, like the rest of the meal a delight for the eyes and senses on multiple levels. The pear tart was perfectly cooked with the fruit holding it's shape and texture, not too sweet, with a touch of cinnamon. I enjoyed a non-alcoholic beer and an NA gin and tonic that were recommended and I would gladly order again. My partner really enjoyed her whiskey cocktail (with alcohol) and her recommended glass of white wine. We will happily be back.",
+            "reviewer_name": "Richard Stringfellow",
+            "rating": 5,
+            "review_text": "We shared a chef's tasting menu and sat at the Chef's bar. The entire experience was perfect. As we were being seated we were asked where we are from and they confirmed that it was a special occasion. The exceptional service continued throughout the evening. The food was exquisite. Vegan fare rarely rises to such heights. Attention was paid to presentation, flavor combinations, and textures. The Beet tartar and the chickpea tofu stood out to my mind, but nothing was wanting. The desserts were luscious. The chocolate layer cake with crunchy bottom, orange gelee, and a sprinkle of salt to heighten the senses was, like the rest of the meal a delight for the eyes and senses on multiple levels. The pear tart was perfectly cooked with the fruit holding it's shape and texture, not too sweet, with a touch of cinnamon. I enjoyed a non-alcoholic beer and an NA gin and tonic that were recommended and I would gladly order again. My partner really enjoyed her whiskey cocktail (with alcohol) and her recommended glass of white wine. We will happily be back.",
+            "published_at": "2 weeks ago",
+            "published_at_date": "2023-11-14T12:27:37.926000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 5,
+            "total_number_of_photos_by_reviewer": 5,
+            "reviewer_url": "https://www.google.com/maps/contrib/103894466206909870139/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjV4DcIY_RuwcfUgXWOFNJ80mTGj8ziOp00rxrLeRmbyVtM=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMxQj2KonrMzqGztmYQgUt7zTemHsPYrV6OAq5o=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOE9tzB59zxIp3dZCDeBElUzEn5KA1yltOlttme=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOhgBd5VGrdhTNcg5X-pwvdxvHTPhmwDRFDZ9p4=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPHWO1Rm5merE5bFQdHyM1U6ebfQ0TaQSd5b_bB=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNzeK8Z1rzwoGX7AE_AKKxRErzevyJ5lQtKtIem=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Everything is AMAZING, cannot recommend Folke enough! My friends and I visited thinking we're just going to have another regular dinner but we were thoroughly blown away. Every dish was full of flavour, texture, and tastiness! The only dish we thought was okay was their dessert, but to top that off they had the best rhubarb caramel (which we would love to purchase, except they said that wasn't possible ughhh). Would definitely revisit Folke again. Their service was also exceptional and the food came out really fast as well!",
+            "reviewer_name": "Debbie",
+            "rating": 5,
+            "review_text": "Everything is AMAZING, cannot recommend Folke enough! My friends and I visited thinking we're just going to have another regular dinner but we were thoroughly blown away. Every dish was full of flavour, texture, and tastiness! The only dish we thought was okay was their dessert, but to top that off they had the best rhubarb caramel (which we would love to purchase, except they said that wasn't possible ughhh). Would definitely revisit Folke again. Their service was also exceptional and the food came out really fast as well!",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-06T23:11:57.732000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 116,
+            "total_number_of_photos_by_reviewer": 326,
+            "reviewer_url": "https://www.google.com/maps/contrib/101207530654178942180/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXDweMMQNIZwA_2tpEfH2i_fcrMXKEJKDb1KXAN2vVBUEc4=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipO6DUU6_NnNIbov3cqu4V1SSYF5wODDexgSvXb1=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOnbXi2ZUoE1bFPrT-PiZXbr-gsDmdI_myUYjh2=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPjex-ioI5-NaQoqwn9kZbleRzR0r0tUm4NKND0=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOtySb2D-McIJdt16yVEpMIFEzGA3_eOs9pPZhd=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOWKLJPJg9POAt-fGeEhHHJdEudKlqjahOeH81R=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPVGiEtdsv6jKTDw3sYomiIrdN5Eno0ZNpKJE4e=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "This is my first time here and I was thoroughly impressed. They prioritize fair and equal wages for their staff, eliminating the need for gratuity, which undoubtedly contributes to the excellent service.\n\nThe culinary experience was exceptional, with each dish showcasing the creativity of the chefs, proving that plant-based cuisine can be delicious and satisfying. The restaurant's serene atmosphere, with its calming decor and lighting, made for a perfect setting for a tranquil meal. In summary, this all-vegan restaurant offers both a delightful dining experience and a commendable commitment to fair wages, making it a highly recommended choice for those seeking exceptional vegan cuisine.",
+            "reviewer_name": "Pamela J Pes",
+            "rating": 5,
+            "review_text": "This is my first time here and I was thoroughly impressed. They prioritize fair and equal wages for their staff, eliminating the need for gratuity, which undoubtedly contributes to the excellent service.\n\nThe culinary experience was exceptional, with each dish showcasing the creativity of the chefs, proving that plant-based cuisine can be delicious and satisfying. The restaurant's serene atmosphere, with its calming decor and lighting, made for a perfect setting for a tranquil meal. In summary, this all-vegan restaurant offers both a delightful dining experience and a commendable commitment to fair wages, making it a highly recommended choice for those seeking exceptional vegan cuisine.",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-16T17:01:04.002000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 246,
+            "total_number_of_photos_by_reviewer": 164,
+            "reviewer_url": "https://www.google.com/maps/contrib/109178942503240488815/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJTxegV-IVwTr5hUGuKDrn8xxf6VSW8vqqrofzU3zdr=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMXTDSjnlQIHQ2Pr20eKuXQ_8kAN6bT9ABRp2Fa=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPlBkXJa15Z4xlFAkJ_rl1z80PmVwU8UFzqnAiW=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipP7Mz6Id9kzEDN-YwzkJrWDOpCVpxKMkHomimnP=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOmBe_XEd5BeEgAg0BIuyoSz2mJ55vN-j5LW153=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "My husband and I heard about Folke through a friend. We requested the sharing / wine pairing menu. It was absolutely fabulous! There were so many complex and nuanced flavours with each dish. We will be back!",
+            "reviewer_name": "Judy",
+            "rating": 5,
+            "review_text": "My husband and I heard about Folke through a friend. We requested the sharing / wine pairing menu. It was absolutely fabulous! There were so many complex and nuanced flavours with each dish. We will be back!",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-13T06:04:44.463000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 13,
+            "total_number_of_photos_by_reviewer": 18,
+            "reviewer_url": "https://www.google.com/maps/contrib/113520739792185206704/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXg2RfJEh7Jjjliv9eVzEQeiq74H6F5UJ3cA5BdCRlCVg=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipP51hRqj2KzTgP13JiZzA_QYJEkxWmcQL60e9sH=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNy4IwVTvp8OuFNyUwd9J2ccF0148aCadxWmFSb=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNeAp87VR8Zpt9ah8sljlIx3ZBU7-tqjsDKH0k1=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMasoVPzjqp_qrCaWc5WFsOsFd3acMhCESWfMlO=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPGRAYncWbjovPXQ3FvCR7kMkVSp41rSQIlzV-e=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOEfglKFJVRSH3Aw4M1pUHKssWHVgRT_1oBXhVY=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNB2WUg58R5uoB2qUm3a0BtBn61dWR4qGvLkCEg=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPMzQnImzO5ZCs6OP5kRC81M8XvRZ_mSgUke-sy=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNf6wThWs1vHjh9euRLLY5ET3ToWz7vM3zHJJ9-=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Super unique and amazing vegan food with complex, unique flavors that really feature the vegetables and their flavors in unique and unexpected ways. So many vegan dishes and restaurants focus on the seasonings and sauces only but Folke chefs (magicians) really pull forward the natural flavors putting veggies herbs and legumes on center stage. If I wasn't already vegan, this dining experience would have surely turned me. Also, next level gourmet tater tots; tapioca mushroom dumpling were insane; fried chickpea tofu... so fantastic. We got the tasting menu which was incredible at only $85 CAD and little morsels of a bunch of different dishes so you get to try a lot of variety but plenty of food left us satisfied and full by the time dessert came. The best Michelin restaurant I've been to yet!",
+            "reviewer_name": "Melissa Longfellow",
+            "rating": 5,
+            "review_text": "Super unique and amazing vegan food with complex, unique flavors that really feature the vegetables and their flavors in unique and unexpected ways. So many vegan dishes and restaurants focus on the seasonings and sauces only but Folke chefs (magicians) really pull forward the natural flavors putting veggies herbs and legumes on center stage. If I wasn't already vegan, this dining experience would have surely turned me. Also, next level gourmet tater tots; tapioca mushroom dumpling were insane; fried chickpea tofu... so fantastic. We got the tasting menu which was incredible at only $85 CAD and little morsels of a bunch of different dishes so you get to try a lot of variety but plenty of food left us satisfied and full by the time dessert came. The best Michelin restaurant I've been to yet!",
+            "published_at": "2 weeks ago",
+            "published_at_date": "2023-11-11T05:56:10.022000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 43,
+            "total_number_of_photos_by_reviewer": 11,
+            "reviewer_url": "https://www.google.com/maps/contrib/105313729507379818847/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXItswPSb4OJjxj1k_oZomZDWycXCa-Me4hB92UZYS3p9o=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMuMgYm7mSm9tPNvGrMDJDDWXGB_Ta8au2hw2QU=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOgnLnAck3CPUVTwm3SszL0w3wUqfLY-L6124Gw=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipN29UcIFDYEvZ_J7u9Z40tP0Wm7sFSRJULxp1B2=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "10/10 experience - true vegan fine dining! All of the food was absolutely mind-blowing, and every staff member we interacted with was kind, attentive, helpful, genuine, and knowledgeable!!! A MUST go for anyone curious!!",
+            "reviewer_name": "Hillary Jubilee",
+            "rating": 5,
+            "review_text": "10/10 experience - true vegan fine dining! All of the food was absolutely mind-blowing, and every staff member we interacted with was kind, attentive, helpful, genuine, and knowledgeable!!! A MUST go for anyone curious!!",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-24T19:49:30.540000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 15,
+            "total_number_of_photos_by_reviewer": 10,
+            "reviewer_url": "https://www.google.com/maps/contrib/105931060083780362395/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVBwOBaA6W5EUaee5-Qo3GJMvy_5mg6KTQFcd5IcngtLvoa=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMDc_5H_mqKjX9E_S1Q0SFwjgM7759Vf9B6I_Ci=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMWhR6AOw0vNAPS5GnEHbuEt0BW1njZzcnRNtYi=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPEnfX_jSAKjk4YIBRmljh5n5jfAo6y6jfPvIXp=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipM-uAoXKMIVaIqFfGpr8IZB4kruM59NgAL66Yk0=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Went early and got a table inside. They have approximately 6-7 tables set up outside to allow you to enjoy the great summer weather.\n\nI've been on a health binge so was excited to try a vegan restaurant.\n\nOverall impression was positive. The portions were right for two people. We ordered 3 appies (beets, tomatoes, and chickpea tofu) and one main (yellow curry zucchini). The bill came out to about $90/ person. We were pleasantly surprised to find that there is no tipping required. Either that or we missed it, in which case, soooo sorry.\n\nThe taste of the appetizers were light and delicate. Fits my impression of what vegan dishes ought to be like. The curry zucchini had a stronger flavor but even that felt rather light.\n\nMy favorite dish was the chickpea tofu. I just like chickpeas and I like tofu. What can I say. My least favorite was the heirloom tomatoes but it wasn't because it didn't taste good, it just wasn't very memorable.\n\nIf you're a vegan or want to try to clean the bilges so to speak this is definitely worth a try. We paired it with a bottle of the Kutatas Viz (recommended by the server because they were out of the rose we wanted). It paired well with all the dishes but I'd try the reisling next time, and there will be a next time.",
+            "reviewer_name": "william s",
+            "rating": 4,
+            "review_text": "Went early and got a table inside. They have approximately 6-7 tables set up outside to allow you to enjoy the great summer weather.\n\nI've been on a health binge so was excited to try a vegan restaurant.\n\nOverall impression was positive. The portions were right for two people. We ordered 3 appies (beets, tomatoes, and chickpea tofu) and one main (yellow curry zucchini). The bill came out to about $90/ person. We were pleasantly surprised to find that there is no tipping required. Either that or we missed it, in which case, soooo sorry.\n\nThe taste of the appetizers were light and delicate. Fits my impression of what vegan dishes ought to be like. The curry zucchini had a stronger flavor but even that felt rather light.\n\nMy favorite dish was the chickpea tofu. I just like chickpeas and I like tofu. What can I say. My least favorite was the heirloom tomatoes but it wasn't because it didn't taste good, it just wasn't very memorable.\n\nIf you're a vegan or want to try to clean the bilges so to speak this is definitely worth a try. We paired it with a bottle of the Kutatas Viz (recommended by the server because they were out of the rose we wanted). It paired well with all the dishes but I'd try the reisling next time, and there will be a next time.",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-08-01T00:28:06.203000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 22,
+            "total_number_of_photos_by_reviewer": 64,
+            "reviewer_url": "https://www.google.com/maps/contrib/116955678582325240160/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXlodlxwHImARQwPVs1QdYZ9XftxINFy7-ryaSBrAyko1k=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMciGzgF9a7rFbgXvh3xQxKG9k0uNW3hLDrRQip=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPv1GDwUnfviorqr6KX71G0GbkLvVpqEib3Tdok=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNMjafmoD3rjje4eokz12dD-r92Gqy3HtKFrjcr=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPKugkYiclY5LK8d9NcpmlmxSOOsGfyLK5cwtbl=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Find yourself tasting and musing this meal while catching up with friends over a selection of tremendously well thought through and inspiring dishes of vegetarian fare. Small sharing items you intimately enjoy in a casual and calm environment paired with wine or finely crafted mocktails.",
+            "reviewer_name": "James Maxwell",
+            "rating": 5,
+            "review_text": "Find yourself tasting and musing this meal while catching up with friends over a selection of tremendously well thought through and inspiring dishes of vegetarian fare. Small sharing items you intimately enjoy in a casual and calm environment paired with wine or finely crafted mocktails.",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-18T04:32:35.481000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 6,
+            "total_number_of_photos_by_reviewer": 5,
+            "reviewer_url": "https://www.google.com/maps/contrib/117083101413456171942/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjURILUNXk3KAX1U_B9nr1PBp2hDKybTTptvm92dfzst8Dvo=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipO049r-4ICd6PIhFB8d2bAKa_aDV495G1IuauxE=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMsnHGurLzVOajtWlrDah18lon9qMSN6mwYufzM=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPyUCqJwDglJoM8rr9d1QSvJmQRPK8vk7UHy3qA=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPX7uiJYTvIaShAYwdpV9XKGhxrHg9IBbbJ79q4=w150-h150-k-no-p"
+            ]
+        }
+    ],
+    "is_spending_on_ads": false
+}

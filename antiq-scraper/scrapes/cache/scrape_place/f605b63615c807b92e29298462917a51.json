@@ -1,0 +1,383 @@
+{
+    "place_id": "ChIJUQ9TE0BxhlQRqZ1IDF2C2uo",
+    "name": "VanSuya Vancouver- Takeout/Online",
+    "description": null,
+    "reviews": 84,
+    "website": "http://www.vansuya.com/",
+    "owner": {
+        "id": "113604578900043046220",
+        "name": "VanSuya Vancouver- Takeout/Online (Owner)",
+        "link": "https://www.google.com/maps/contrib/113604578900043046220"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMW3NTuQJXJ9XXLZL9sWdvi-iTRfqeoixBxcgcE=w426-h240-k-no",
+    "main_category": "Restaurant",
+    "categories": [
+        "Restaurant"
+    ],
+    "rating": 4,
+    "workday_timing": null,
+    "closed_on": [],
+    "phone": "(236) 866-6121",
+    "address": "VanSuya Vancouver- Takeout/Online, 1370 E Georgia St, Vancouver, BC V5L 2A8",
+    "review_keywords": [
+        {
+            "keyword": "jollof rice",
+            "count": 17
+        },
+        {
+            "keyword": "chicken",
+            "count": 14
+        },
+        {
+            "keyword": "price",
+            "count": 11
+        },
+        {
+            "keyword": "shawarma",
+            "count": 10
+        },
+        {
+            "keyword": "spicy",
+            "count": 10
+        },
+        {
+            "keyword": "nigerian",
+            "count": 7
+        },
+        {
+            "keyword": "african food",
+            "count": 6
+        },
+        {
+            "keyword": "delivery",
+            "count": 6
+        },
+        {
+            "keyword": "egusi",
+            "count": 4
+        },
+        {
+            "keyword": "pickup",
+            "count": 3
+        }
+    ],
+    "link": "https://www.google.com/maps/place/VanSuya+Vancouver-+Takeout%2FOnline/data=!4m7!3m6!1s0x5486714013530f51:0xeada825d0c489da9!8m2!3d49.2783076!4d-123.0756018!16s%2Fg%2F11k60t42qh!19sChIJUQ9TE0BxhlQRqZ1IDF2C2uo?authuser=0&hl=en&rclk=1",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 14,
+        "2": 4,
+        "3": 3,
+        "4": 8,
+        "5": 55
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJUQ9TE0BxhlQRqZ1IDF2C2uo&q=VanSuya+Vancouver-+Takeout%2FOnline&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.2783076,
+        "longitude": -123.0756018
+    },
+    "plus_code": "7WHF+8Q Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "East Vancouver",
+        "street": "1370 E Georgia St",
+        "city": "Vancouver",
+        "postal_code": "V5L 2A8",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "16922981885947714985",
+    "data_id": "0x5486714013530f51:0xeada825d0c489da9",
+    "menu": {
+        "link": "https://www.ubereats.com/vancouver/food-delivery/vansuya/2O4olh-PSgyF8mIgAjXpzA%3Fpl%3DJTdCJTIyYWRkcmVzcyUyMiUzQSUyMjYyMjclMjBTdCUyMENhdGhlcmluZXMlMjBTdCUyMiUyQyUyMnJlZmVyZW5jZSUyMiUzQSUyMkNoSUpOVzVQdWhWMGhsUVJoeGJFOVpOX0JVdyUyMiUyQyUyMnJlZmVyZW5jZVR5cGUlMjIlM0ElMjJnb29nbGVfcGxhY2VzJTIyJTJDJTIybGF0aXR1ZGUlMjIlM0E0OS4yMjgwMzA4JTJDJTIybG9uZ2l0dWRlJTIyJTNBLTEyMy4wODY1NzEzJTdE",
+        "source": "ubereats.com"
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Takeout",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Small plates",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Dining options",
+            "options": [
+                {
+                    "name": "Lunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Dinner",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosphere",
+            "options": [
+                {
+                    "name": "Casual",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMW3NTuQJXJ9XXLZL9sWdvi-iTRfqeoixBxcgcE=w529-h298-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNGrrIGBd4lQ_8Fqt_CZ65g-yCAk9BJiuHJ-dF0=w529-h298-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMyWXdEuwDlAujfKiz1mOGjXYiYVVi8fyF-FdtH=w224-h398-k-no"
+        },
+        {
+            "about": "Take-out",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOr3yDcsXWf1e1ZUn2OgzIvTkBlsmfJNXbfghMZ=w298-h298-k-no"
+        },
+        {
+            "about": "French fries",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipP7U2p35-B5wbKJ6kC-8Y45QwJQOYxQ_p-z6e_z=w529-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOqGdpUKmxP2tesUsTJl8MW7oK_226wmIk2F-_Z=w224-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=RStuqbntXYclw-jXO7y_HQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=166.14594&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "featured_reviews": [
+        {
+            "review_id": "Ordered the \"party tray\" jollof for a party...supposed to be 6L...not even 2L of rice they gave us. couldn't even feed 3 people if we wanted to, terrible portion size and a straight up scam. nearly 180 dollars for rice that can't even feed 3 people? chai. Taking advantage of the fact that they are the only nigerian restaurant and have become very stingy i do NOT recommend. the chicken they gave us was still clucking...undercooked and bloody. i never see nonsense like this one in my life o. my fellow nigerians, AVOID!! this isn't the first time o, fame don get into they head abeg too overpriced!! Can you believe nonsense. i'm calling health and safety to come and inspect this place before someone gets really sick.",
+            "reviewer_name": "Aliyah Ezeh",
+            "rating": 1,
+            "review_text": "Ordered the \"party tray\" jollof for a party...supposed to be 6L...not even 2L of rice they gave us. couldn't even feed 3 people if we wanted to, terrible portion size and a straight up scam. nearly 180 dollars for rice that can't even feed 3 people? chai. Taking advantage of the fact that they are the only nigerian restaurant and have become very stingy i do NOT recommend. the chicken they gave us was still clucking...undercooked and bloody. i never see nonsense like this one in my life o. my fellow nigerians, AVOID!! this isn't the first time o, fame don get into they head abeg too overpriced!! Can you believe nonsense. i'm calling health and safety to come and inspect this place before someone gets really sick.",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-30T08:57:00.628000Z",
+            "response_from_owner_text": "So sorry about this, we take full responsibility, although we do carry out temp check for every protein grilled or fried, this must have been an oversight on one of the pieces of chicken gotten. About the servings we do have a measurement for each meals and will never give a customer less, we are known for our portions and will continue to serve customers the best meals.\n\nThanks for your feedback, as we are learning everyday to serve our customers better",
+            "response_from_owner_ago": "3 weeks ago",
+            "response_from_owner_date": "2023-11-04T09:46:10.473000Z",
+            "review_likes_count": 6,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 2,
+            "reviewer_url": "https://www.google.com/maps/contrib/104517985034096255483/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXk_3lKY_Q4wmXq2woh89IRP_rxf2smVixk85I3zi0PrQ=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOrORTyy8xLrJJ9GbkyC2mfPbdh465lAwK4bG5G=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPIeJxrp1UKntoIRvwkiSOnazA0MEDmYvi6rStn=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPLjgP9LLajKQqvkxBgBIFh03tAR9qBef35j0TN=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "I had the chance to try an amazing Nigerian dish that left a lasting impression. The rice and beans were cooked to perfection, with a delightful smoky and spicy flavor. The oxtail stew, slow-cooked with a variety of vegetables, added a wonderful texture and taste. The oxtail itself was incredibly tender, practically melting in my mouth. The meal was rounded out with a refreshing cabbage salad and a warm, sweet cornbread. It was a truly satisfying and hearty meal that I would highly recommend to anyone curious about Nigerian cuisine.",
+            "reviewer_name": "Fabricio Borges",
+            "rating": 5,
+            "review_text": "I had the chance to try an amazing Nigerian dish that left a lasting impression. The rice and beans were cooked to perfection, with a delightful smoky and spicy flavor. The oxtail stew, slow-cooked with a variety of vegetables, added a wonderful texture and taste. The oxtail itself was incredibly tender, practically melting in my mouth. The meal was rounded out with a refreshing cabbage salad and a warm, sweet cornbread. It was a truly satisfying and hearty meal that I would highly recommend to anyone curious about Nigerian cuisine.",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-30T01:05:54.298000Z",
+            "response_from_owner_text": "Hi Fabricio,\n\nThank you for taking the time to give us such great ratings about your food, means a lot and we appreciate your business.\n\nHope to see you again soon!",
+            "response_from_owner_ago": "3 weeks ago",
+            "response_from_owner_date": "2023-11-04T09:48:15.239000Z",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/104517721483358906687/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVtAxdtSUmOTzVkYJfoTDBhXaGpSsqS90CMo4Th_Xj_wnQ=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Service used to be consistent, you no longer know what you will get. Prices have doubled up within the past one year, promos on Uber eat are fraudulent. Like today , I saw a jollof + turkey order for 23dollar with a promo to add chicken for 9 dollar. The food came with chicken and no turkey displayed in the picture. I will be sending Uber eat an official complaint the next time this occur.",
+            "reviewer_name": "Effective Change",
+            "rating": 1,
+            "review_text": "Service used to be consistent, you no longer know what you will get. Prices have doubled up within the past one year, promos on Uber eat are fraudulent. Like today , I saw a jollof + turkey order for 23dollar with a promo to add chicken for 9 dollar. The food came with chicken and no turkey displayed in the picture. I will be sending Uber eat an official complaint the next time this occur.",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-28T01:36:13.239000Z",
+            "response_from_owner_text": "Thanks for your feedback, we are all aware of the inflation and how cost of food supplies have gone up more than 100%, to survive as a business we have to increase prices too. We also get charged 30% for every order that comes through ubereats, we are sure you are not aware of that and we have to factor that into our prices.\n\nAs regards to the promo on the app but we don't control the Ubereats app, we are just a platform there- you might want to pass that feedback to them.\n\nWe can see from the image you posted that you ordered BBQ Chicken and we can see thats what you got, we do not understand what the problem is? Giving a business 1 star review when we clearly didnt do anything wrong is not fair!\n\nFeel free to share your feedback with uber, but as a company we are very transparent and pride ourselves in delivering great services to our customers.",
+            "response_from_owner_ago": "4 months ago",
+            "response_from_owner_date": "2023-07-28T16:04:35.189000Z",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/117589629680973213716/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJ8kngr1Vv2I7hbp9W86vNFhvzD7J6NxQuVQ_0rR6mB=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipM-nJ12_w0zF3QGJSe1gVIZIH2yAUHG06PPO24m=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "This is my first time trying this place and also at a shared takeout location. This building is shared by 9 different take out only restaurants and you have to call them to bring out your order. There is free parking all along the street.\n\nI ordered the chicken shawarma through UberEats. The restaurant tried to reach me to tell me they ran out of chicken so some of it will be beef. I did receive a call but the caller ID automatically said \"suspected spam\" so I didn't answer. They were nice to write me a note with my order to let me know some things were changed. I did get to try both chicken and beef tough. The chicken was soft but the beef to me was a lot tougher. I prefer the chicken so I will try the chicken only again next time. I am a very big fan of sauce and if you like it too, this is a great place for you. The wrap is smothered in sauce and filled with meet and cabbage. If you cannot tolerate spice, the mild would still have a little spice as well. The large version was bigger than a shawarma wrap at other places. However, I found the original price very expensive as it was around $18 for a large wrap. The UberEats BOGO was a very good deal though.",
+            "reviewer_name": "Kate Choi",
+            "rating": 4,
+            "review_text": "This is my first time trying this place and also at a shared takeout location. This building is shared by 9 different take out only restaurants and you have to call them to bring out your order. There is free parking all along the street.\n\nI ordered the chicken shawarma through UberEats. The restaurant tried to reach me to tell me they ran out of chicken so some of it will be beef. I did receive a call but the caller ID automatically said \"suspected spam\" so I didn't answer. They were nice to write me a note with my order to let me know some things were changed. I did get to try both chicken and beef tough. The chicken was soft but the beef to me was a lot tougher. I prefer the chicken so I will try the chicken only again next time. I am a very big fan of sauce and if you like it too, this is a great place for you. The wrap is smothered in sauce and filled with meet and cabbage. If you cannot tolerate spice, the mild would still have a little spice as well. The large version was bigger than a shawarma wrap at other places. However, I found the original price very expensive as it was around $18 for a large wrap. The UberEats BOGO was a very good deal though.",
+            "published_at": "a year ago",
+            "published_at_date": "2022-08-03T00:12:58.002000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 171,
+            "total_number_of_photos_by_reviewer": 302,
+            "reviewer_url": "https://www.google.com/maps/contrib/100153545699478232597/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLi__naKq9Z3XEgR57LM_jojS1dSmiTQQURpmy5oXzD=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipP7BzKQSiyKjEATvcKLZWoibfSWtqh74TnK0pvs=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOr3yDcsXWf1e1ZUn2OgzIvTkBlsmfJNXbfghMZ=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPgc9si_AcITJTCkFUhDLBZnu9HvIIP4sQmUeaa=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Pre-ordered the Christmas package via Uber Eats on the 23rd to arrive at my apartment at 24th at 8. Received the order promptly on the 24th. I couldn't even help myself, I just started eating because the food smelled so good. It tastes amazing 20/10 on presentation and taste. And the \"Christmas present\" was a nice touch as well. The candle smells divine. Will definitely be ordering in the future as well as recommending to everyone I know. Good Job Vansuya, keep up the good work.",
+            "reviewer_name": "Nanya Nwokobia",
+            "rating": 5,
+            "review_text": "Pre-ordered the Christmas package via Uber Eats on the 23rd to arrive at my apartment at 24th at 8. Received the order promptly on the 24th. I couldn't even help myself, I just started eating because the food smelled so good. It tastes amazing 20/10 on presentation and taste. And the \"Christmas present\" was a nice touch as well. The candle smells divine. Will definitely be ordering in the future as well as recommending to everyone I know. Good Job Vansuya, keep up the good work.",
+            "published_at": "a year ago",
+            "published_at_date": "2021-12-25T04:10:17.636000Z",
+            "response_from_owner_text": "Thanks for your review, we are glad to hear you loved our food. Thanks for your business means a lot to us, we hope to see you soon again.",
+            "response_from_owner_ago": "a year ago",
+            "response_from_owner_date": "2021-12-29T06:42:33.136000Z",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 3,
+            "reviewer_url": "https://www.google.com/maps/contrib/104679615445169692613/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXfQAdj1GQpR1D1Xg7NLA3KfeR0UHdrg5NtNnQ3YwMMyw=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMQaw1h5IAXOawhQIwn5eam2VMa1mNkoOAXQy-Y=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNCZG2d2ogC37DxbCNCrYVOV82kzm5klPPqMrws=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPH0PP9BFtAGSYNChkbZmArjF--IpNRJ1jlc3Bf=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "I REALLY love the food but the portion sizes for Egusi are incredibly small and it's close to 40$ to order some on Uber. 40$ for a bowl 1/3 full is really upsetting. If the portion was a bit bigger, or if the value was better, I'd eat here maybe once a week! Deserves a 5 star for flavour but not cost,",
+            "reviewer_name": "Sina A",
+            "rating": 4,
+            "review_text": "I REALLY love the food but the portion sizes for Egusi are incredibly small and it's close to 40$ to order some on Uber. 40$ for a bowl 1/3 full is really upsetting. If the portion was a bit bigger, or if the value was better, I'd eat here maybe once a week! Deserves a 5 star for flavour but not cost,",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-21T12:52:10.308000Z",
+            "response_from_owner_text": "Hi Sina,\n\nThank you for taking the time to give us such great ratings about your food, ubereats takes over 30% fee on all orders why our prices are high, because we have to factor that in, but your feedback means a lot and we appreciate your business.\n\nHope to see you again soon!",
+            "response_from_owner_ago": "3 weeks ago",
+            "response_from_owner_date": "2023-11-04T09:52:05.763000Z",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 30,
+            "total_number_of_photos_by_reviewer": 7,
+            "reviewer_url": "https://www.google.com/maps/contrib/105531246372187183626/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLehTJZvC6B0zkHNuOEESXjVlIDAiITs1_pV-cv5GAX=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "I love the dark bits in paella, and I have had amazing Jollof rices before. Having said that the Jollof rice here was disappointing. It looked great but the taste was nothing but burnt. I could not taste anything else. I imagine they over-burnt the rice and saved the bits on top hoping it would be okay, it was not. Hopefully I was just an extremely unlucky case.",
+            "reviewer_name": "Q?",
+            "rating": 1,
+            "review_text": "I love the dark bits in paella, and I have had amazing Jollof rices before. Having said that the Jollof rice here was disappointing. It looked great but the taste was nothing but burnt. I could not taste anything else. I imagine they over-burnt the rice and saved the bits on top hoping it would be okay, it was not. Hopefully I was just an extremely unlucky case.",
+            "published_at": "6 months ago",
+            "published_at_date": "2023-05-23T21:15:19.815000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 14,
+            "total_number_of_photos_by_reviewer": 6,
+            "reviewer_url": "https://www.google.com/maps/contrib/103874253879080524552/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjU-KvqEwKc5Rdbsrdo8a6sAZASWIIFiom8GclMJ1lLMehc=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Ordered three times here when I was in Vancouver, literally the best jellof rice and peppered meat. Soo good, sharwama was huge",
+            "reviewer_name": "vixen roxie",
+            "rating": 5,
+            "review_text": "Ordered three times here when I was in Vancouver, literally the best jellof rice and peppered meat. Soo good, sharwama was huge",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-19T08:46:41.165000Z",
+            "response_from_owner_text": "Hi Vixen,\n\nThank you for taking the time to give us such great ratings about your food, means a lot and we appreciate your business.\n\nHope to see you again soon!",
+            "response_from_owner_ago": "3 weeks ago",
+            "response_from_owner_date": "2023-11-04T09:48:29.395000Z",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 125,
+            "total_number_of_photos_by_reviewer": 48,
+            "reviewer_url": "https://www.google.com/maps/contrib/107409737659482672175/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjU61iqYjPoOPSUvuGHMjJb8EL-ce9GQUvNuaLzg8ssVoqA=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

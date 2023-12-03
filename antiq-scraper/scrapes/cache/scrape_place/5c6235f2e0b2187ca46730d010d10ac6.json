@@ -1,0 +1,679 @@
+{
+    "place_id": "ChIJA4KAIr9zhlQRiJTB-fSnrbg",
+    "name": "Bin 4 Burger Lounge",
+    "description": "Busy, modern grill offering inventive, locally sourced burgers, handcut fries & draft brews.",
+    "reviews": 2293,
+    "website": "http://www.bin4burgerlounge.com/",
+    "owner": {
+        "id": "100718098801885822812",
+        "name": "Bin 4 Burger Lounge (Owner)",
+        "link": "https://www.google.com/maps/contrib/100718098801885822812"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMoXwAYNgN5dkzB1kFEdZByMfy6w9d8It5hPRBE=w408-h306-k-no",
+    "main_category": "Hamburger restaurant",
+    "categories": [
+        "Hamburger restaurant"
+    ],
+    "rating": 4.5,
+    "workday_timing": "11 a.m.-10 p.m.",
+    "closed_on": [],
+    "phone": "(604) 428-7649",
+    "address": "Bin 4 Burger Lounge, 2996 Granville St, Vancouver, BC V6H 3J7",
+    "review_keywords": [
+        {
+            "keyword": "happy hour",
+            "count": 65
+        },
+        {
+            "keyword": "drink",
+            "count": 56
+        },
+        {
+            "keyword": "aioli",
+            "count": 46
+        },
+        {
+            "keyword": "patio",
+            "count": 36
+        },
+        {
+            "keyword": "big dipper",
+            "count": 21
+        },
+        {
+            "keyword": "tuna",
+            "count": 20
+        },
+        {
+            "keyword": "mushroom burger",
+            "count": 18
+        },
+        {
+            "keyword": "bison burger",
+            "count": 18
+        },
+        {
+            "keyword": "wagyu",
+            "count": 16
+        },
+        {
+            "keyword": "sweet corn",
+            "count": 5
+        }
+    ],
+    "link": "https://www.google.com/maps/place/Bin+4+Burger+Lounge/data=!4m7!3m6!1s0x548673bf22808203:0xb8ada7f4f9c19488!8m2!3d49.2590677!4d-123.1384472!16s%2Fg%2F11gbhfy2yn!19sChIJA4KAIr9zhlQRiJTB-fSnrbg?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 11 a.m.",
+    "price_range": "$$",
+    "reviews_per_rating": {
+        "1": 68,
+        "2": 50,
+        "3": 136,
+        "4": 545,
+        "5": 1494
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJA4KAIr9zhlQRiJTB-fSnrbg&q=Bin+4+Burger+Lounge&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.259067699999996,
+        "longitude": -123.13844719999999
+    },
+    "plus_code": "7V56+JJ Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "South Granville",
+        "street": "2996 Granville St",
+        "city": "Vancouver",
+        "postal_code": "V6H 3J7",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "13307477144553755784",
+    "data_id": "0x548673bf22808203:0xb8ada7f4f9c19488",
+    "menu": {
+        "link": "https://bin4burgerlounge.com/south-granville-menu-2/",
+        "source": "bin4burgerlounge.com"
+    },
+    "reservations": [
+        {
+            "link": "https://www.opentable.ca/restaurant/profile/1144441%3Fref%3D16423",
+            "source": "opentable.ca"
+        }
+    ],
+    "order_online_links": [
+        {
+            "link": "https://www.skipthedishes.com/bin-4-burger-granville?serviceType=delivery&utm_source=google&utm_medium=organic&utm_campaign=gpav2",
+            "source": "skipthedishes.com"
+        },
+        {
+            "link": "https://www.doordash.com/store/bin-4-burger-lounge-vancouver-25738329/?utm_campaign=gpa",
+            "source": "doordash.com"
+        },
+        {
+            "link": "https://www.ubereats.com/ca/store/bin-4-burger-lounge-south-granville/RvV6NjGcVR2ZwoPVUAufeQ?utm_campaign=place-action-link&utm_medium=organic&utm_source=google",
+            "source": "ubereats.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Outdoor seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Takeout",
+                    "enabled": true
+                },
+                {
+                    "name": "Dine-in",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair accessible seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Alcohol",
+                    "enabled": true
+                },
+                {
+                    "name": "Beer",
+                    "enabled": true
+                },
+                {
+                    "name": "Cocktails",
+                    "enabled": true
+                },
+                {
+                    "name": "Coffee",
+                    "enabled": true
+                },
+                {
+                    "name": "Halal food",
+                    "enabled": true
+                },
+                {
+                    "name": "Happy hour food",
+                    "enabled": true
+                },
+                {
+                    "name": "Hard liquor",
+                    "enabled": true
+                },
+                {
+                    "name": "Late-night food",
+                    "enabled": true
+                },
+                {
+                    "name": "Small plates",
+                    "enabled": true
+                },
+                {
+                    "name": "Vegetarian options",
+                    "enabled": true
+                },
+                {
+                    "name": "Wine",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Dining options",
+            "options": [
+                {
+                    "name": "Breakfast",
+                    "enabled": true
+                },
+                {
+                    "name": "Brunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Lunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Dinner",
+                    "enabled": true
+                },
+                {
+                    "name": "Dessert",
+                    "enabled": true
+                },
+                {
+                    "name": "Seating",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Bar on-site",
+                    "enabled": true
+                },
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                },
+                {
+                    "name": "Wi-Fi",
+                    "enabled": true
+                },
+                {
+                    "name": "Wi-Fi",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosphere",
+            "options": [
+                {
+                    "name": "Casual",
+                    "enabled": true
+                },
+                {
+                    "name": "Cozy",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "crowd",
+            "name": "Crowd",
+            "options": [
+                {
+                    "name": "Family-friendly",
+                    "enabled": true
+                },
+                {
+                    "name": "Groups",
+                    "enabled": true
+                },
+                {
+                    "name": "LGBTQ+ friendly",
+                    "enabled": true
+                },
+                {
+                    "name": "Transgender safe space",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planning",
+            "options": [
+                {
+                    "name": "Accepts reservations",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "children",
+            "name": "Children",
+            "options": [
+                {
+                    "name": "Good for kids",
+                    "enabled": true
+                },
+                {
+                    "name": "High chairs",
+                    "enabled": true
+                },
+                {
+                    "name": "Kids' menu",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "parking",
+            "name": "Parking",
+            "options": [
+                {
+                    "name": "Free street parking",
+                    "enabled": true
+                },
+                {
+                    "name": "Paid street parking",
+                    "enabled": true
+                },
+                {
+                    "name": "Parking",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMoXwAYNgN5dkzB1kFEdZByMfy6w9d8It5hPRBE=w397-h298-k-no"
+        },
+        {
+            "about": "Latest",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPEbrBvVXu-uvh2LiTiJeI1rjLvWmvn52Xl-gdQ=w224-h298-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPopOp9c--amKHdFyt2DcdL8uWHTn9NetSeocTb=w224-h398-k-no"
+        },
+        {
+            "about": "Menu",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOTxoSYJKNOXQX7bNCS5C39ii7GVg8dlr1NrLu0=w224-h298-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipP4fKJocJiVPr_GYgtUt1PZ-5y3WYqLbvtdgjXA=w529-h298-k-no"
+        },
+        {
+            "about": "Vibe",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipP7U4JQB-V7J8t36V3d69oMcpYXtkloyENf62Ec=w397-h298-k-no"
+        },
+        {
+            "about": "Take-out",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMSfWxeear29P1fX2OkGTLO2MWXSiGqymbybJLQ=w224-h497-k-no"
+        },
+        {
+            "about": "Chicken sandwich",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMfuG5PgFfSIggOF3w9SZ3XcFP-FPEwVxJujut4=w529-h298-k-no"
+        },
+        {
+            "about": "Veggie burger",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNpa5sSLJWAAy6zNcCdzrLoVizEcc2NBUsXwS85=w529-h298-k-no"
+        },
+        {
+            "about": "Fried pickle",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOAe9WMplqeQ0w3h-wiC_M8-dulRSb94adCFer9=w224-h298-k-no"
+        },
+        {
+            "about": "Onion",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPoO6sNPfYJyh3yhWbNyGLm0VO93TyEpby1buH7=w397-h298-k-no"
+        },
+        {
+            "about": "Sangria",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOA0FElZmjpOrKfpN2ViOh93DRsy5OhZz8Jz0no=w224-h460-k-no"
+        },
+        {
+            "about": "Potato chip",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMvIEgAcqyQkxgsUIyxJCom6nTmCUW42zuhR5sh=w224-h298-k-no"
+        },
+        {
+            "about": "French fries",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOUpfgJYL-AZyOmVGXQWsQOP-9G6SlqEO2W1sSr=w397-h298-k-no"
+        },
+        {
+            "about": "Hamburger",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOiBcdxLggpD3qyHgnMeeYSztfCLvJggp6xwOpF=w395-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=EvaJ5XHyPhQjM9IqLhFG8A&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=74.2873&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "11 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "11 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "11 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "11 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "11 a.m.-11 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "11 a.m.-11 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "11 a.m.-10 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "Bin 4 Burger Lounge (2996 Granville St., Vancouver)\n\nI recently had the pleasure of dining at Bin 4 Burger Lounge located on Granville Street in Vancouver, and I must say that it was a delightful experience. This trendy and cozy restaurant specializes in crafting gourmet burgers with a unique twist, and it certainly lived up to its reputation.\n\nFirst and foremost, the ambiance of Bin 4 Burger Lounge was inviting and contemporary. The interior was tastefully decorated with a combination of rustic and modern elements, creating a warm and welcoming atmosphere. The seating arrangements were comfortable, and the staff was attentive and friendly, providing prompt service throughout my visit.\n\nNow let's talk about the star of the show--the burgers. Bin 4 Burger Lounge offers an extensive selection of burgers, each with its own distinct flavor profile. From classic beef burgers to inventive vegetarian options, there is something to satisfy every palate. I opted for their signature \"Bin 4 Burger,\" and it did not disappoint. The patty was juicy, perfectly cooked, and seasoned to perfection. The toppings were fresh, and the brioche bun was soft and complemented the burger beautifully. The portion sizes were generous, ensuring that I left feeling completely satisfied.\n\nIn addition to their impressive burger menu, Bin 4 Burger Lounge also offers a variety of tasty sides and appetizers. Their truffle Parmesan fries were a standout, with a delightful combination of flavors that elevated the dining experience. The restaurant also boasts a selection of craft beers and cocktails to complement the meal, adding another layer of enjoyment.\n\nWhile the overall dining experience at Bin 4 Burger Lounge was excellent, there were a few minor areas where improvements could be made. Firstly, the wait times during peak hours can be a bit long, so it's advisable to make a reservation or plan your visit accordingly. Secondly, the pricing is slightly on the higher side, especially when considering the add-ons and sides. However, the quality of the ingredients and the exceptional flavors justify the price to a large extent.\n\nIn conclusion, Bin 4 Burger Lounge is a must-visit spot for burger enthusiasts in Vancouver. With its inviting atmosphere, flavorful burgers, and attentive service, it delivers a memorable dining experience. While it may be a bit pricey, the quality and taste of the food make it worth the investment. I will definitely be returning to Bin 4 Burger Lounge for another mouthwatering burger adventure in the future.\n\nOur server was Jessi, and he is very friendly and his service was superb.",
+            "reviewer_name": "Wajahat Faiz",
+            "rating": 5,
+            "review_text": "Bin 4 Burger Lounge (2996 Granville St., Vancouver)\n\nI recently had the pleasure of dining at Bin 4 Burger Lounge located on Granville Street in Vancouver, and I must say that it was a delightful experience. This trendy and cozy restaurant specializes in crafting gourmet burgers with a unique twist, and it certainly lived up to its reputation.\n\nFirst and foremost, the ambiance of Bin 4 Burger Lounge was inviting and contemporary. The interior was tastefully decorated with a combination of rustic and modern elements, creating a warm and welcoming atmosphere. The seating arrangements were comfortable, and the staff was attentive and friendly, providing prompt service throughout my visit.\n\nNow let's talk about the star of the show--the burgers. Bin 4 Burger Lounge offers an extensive selection of burgers, each with its own distinct flavor profile. From classic beef burgers to inventive vegetarian options, there is something to satisfy every palate. I opted for their signature \"Bin 4 Burger,\" and it did not disappoint. The patty was juicy, perfectly cooked, and seasoned to perfection. The toppings were fresh, and the brioche bun was soft and complemented the burger beautifully. The portion sizes were generous, ensuring that I left feeling completely satisfied.\n\nIn addition to their impressive burger menu, Bin 4 Burger Lounge also offers a variety of tasty sides and appetizers. Their truffle Parmesan fries were a standout, with a delightful combination of flavors that elevated the dining experience. The restaurant also boasts a selection of craft beers and cocktails to complement the meal, adding another layer of enjoyment.\n\nWhile the overall dining experience at Bin 4 Burger Lounge was excellent, there were a few minor areas where improvements could be made. Firstly, the wait times during peak hours can be a bit long, so it's advisable to make a reservation or plan your visit accordingly. Secondly, the pricing is slightly on the higher side, especially when considering the add-ons and sides. However, the quality of the ingredients and the exceptional flavors justify the price to a large extent.\n\nIn conclusion, Bin 4 Burger Lounge is a must-visit spot for burger enthusiasts in Vancouver. With its inviting atmosphere, flavorful burgers, and attentive service, it delivers a memorable dining experience. While it may be a bit pricey, the quality and taste of the food make it worth the investment. I will definitely be returning to Bin 4 Burger Lounge for another mouthwatering burger adventure in the future.\n\nOur server was Jessi, and he is very friendly and his service was superb.",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-13T18:17:06.512000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 62,
+            "total_number_of_photos_by_reviewer": 183,
+            "reviewer_url": "https://www.google.com/maps/contrib/101298638012855997319/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUiEbokmYiWSb1yD_FJU7iykvx-o3PNK6Cockh3yBUeNEx5=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNzYUKPwFRW9zvKOYvsFYSHvftP-bcyrQck2LPx=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMyZ0n06-vl4_G8WI09pScqGBQacmB1DPaUvtEB=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOmiMEUUcUKvRA9s7KM4KkckB9daKEywipe_NwF=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNUbn9QRYzd5stESrlz3hwJ-VeDddXM15E3e27d=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMbTY0DzCEUDmgvf9WaIJv0LmhBio0l2Rr6T0N0=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOkvsoBLqxJIG_f7OUudsjIwxBxcuSVA0t0DCUg=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "We enjoyed our visit here and likely return at some point.\nStarted with the lettuce wraps which were unique and tasty!\nI had the Bin 9 - \"Big Spenny\"\n$22.25\nBrant Lake Wagyu, aged orange cheddar, smoked bacon, pickles, Bin 4 burger sauce, shredded lettuce, tomato, and I added blue cheese. I had fries and wild  mushroom gravy on the side. The fries were good except 1/2 of them are about 2 cms long and overcooked. I definitely didn't enjoy that, but the rest was top-notch.  To the chef, your burger holds together perfectly and isn't at all sloppy! Right up there with my 5 star rated burgers   Thank you!! \nThe glutenberg blonde ale went very well with this on a hot day!\nFinished with the strawberry / rhubarb cheesecake to go, which was good but very small when you ask for it to go and crammed into a coleslaw sized container.\nThe service was adequate, could've been a bit more attentive and genuine.\nAtmosphere was good, spacious and clean.\n\nOverall, I was happy with my visit here!\n\nMs Fancy\nGoogle Reviewer\nLevel 7\n6 million + picture views",
+            "reviewer_name": "Ms. Fancy",
+            "rating": 4,
+            "review_text": "We enjoyed our visit here and likely return at some point.\nStarted with the lettuce wraps which were unique and tasty!\nI had the Bin 9 - \"Big Spenny\"\n$22.25\nBrant Lake Wagyu, aged orange cheddar, smoked bacon, pickles, Bin 4 burger sauce, shredded lettuce, tomato, and I added blue cheese. I had fries and wild  mushroom gravy on the side. The fries were good except 1/2 of them are about 2 cms long and overcooked. I definitely didn't enjoy that, but the rest was top-notch.  To the chef, your burger holds together perfectly and isn't at all sloppy! Right up there with my 5 star rated burgers   Thank you!! \nThe glutenberg blonde ale went very well with this on a hot day!\nFinished with the strawberry / rhubarb cheesecake to go, which was good but very small when you ask for it to go and crammed into a coleslaw sized container.\nThe service was adequate, could've been a bit more attentive and genuine.\nAtmosphere was good, spacious and clean.\n\nOverall, I was happy with my visit here!\n\nMs Fancy\nGoogle Reviewer\nLevel 7\n6 million + picture views",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-16T22:18:14.601000Z",
+            "response_from_owner_text": "Thank you!",
+            "response_from_owner_ago": "3 months ago",
+            "response_from_owner_date": "2023-08-10T20:39:22.421000Z",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 344,
+            "total_number_of_photos_by_reviewer": 641,
+            "reviewer_url": "https://www.google.com/maps/contrib/105853694280308373046/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVH66T3guGBeGvQ02eYJT_yxtss5Za-XBPInDP_cneLxgQ=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNZHDGtyJuobu2NXfAdn5I-bmcjsQhY-SRmhP4E=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNN7jUKioBPpohMniw_Ds80M80F_BmIIKP__lzY=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPH8boQD3EVhOrDX2jxogwoDK37DGcq2odjIDYg=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMHHXw8b2HbDOkV8_gmb_znTXeiGvGbgM77_fel=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPQtP8_8wevyq3ck-3sAJTJ6XehGAs1-sDJcwF4=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Great tasting burger (Mushroom burger & Big dipper) & friendly staff (Taylor was a great server!) You can choose either fries or salad, but I preferred salad over fries.\n\nA bit difficult to find parking, even paid ones.",
+            "reviewer_name": "Youngsung Byun",
+            "rating": 4,
+            "review_text": "Great tasting burger (Mushroom burger & Big dipper) & friendly staff (Taylor was a great server!) You can choose either fries or salad, but I preferred salad over fries.\n\nA bit difficult to find parking, even paid ones.",
+            "published_at": "2 weeks ago",
+            "published_at_date": "2023-11-11T06:42:54.424000Z",
+            "response_from_owner_text": "Thank you so much for the support & feedback!",
+            "response_from_owner_ago": "2 weeks ago",
+            "response_from_owner_date": "2023-11-15T19:36:51.542000Z",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 397,
+            "total_number_of_photos_by_reviewer": 991,
+            "reviewer_url": "https://www.google.com/maps/contrib/101775194237250179981/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUCiOUEGZM9hg16RCCYfDHH6qRX-40sOl2J9gCw-3XWdRs=s120-c-rp-mo-ba6-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOtLjCiWXzifsszYQaKO-YnITLqJdN32KPbK5_j=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMw3eVq-bFridLf02dGc3EVWJyRXI1SoYDRXYrP=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "My friend told me about Bin 4 Burger Lounge a while back but I didn't get the chance to go until today.\nThe service and cocktails are great. The burger I ordered was amazing. I love how it looked exactly how it did in the picture. It was also a huge burger that I was able to eat only half of it and had to take the rest home. I ordered the Lob It To Me Burger which had lobster, goat cheese and truffle aioli. It was delicious.\nI'm definitely bringing my family here next time.",
+            "reviewer_name": "al may",
+            "rating": 5,
+            "review_text": "My friend told me about Bin 4 Burger Lounge a while back but I didn't get the chance to go until today.\nThe service and cocktails are great. The burger I ordered was amazing. I love how it looked exactly how it did in the picture. It was also a huge burger that I was able to eat only half of it and had to take the rest home. I ordered the Lob It To Me Burger which had lobster, goat cheese and truffle aioli. It was delicious.\nI'm definitely bringing my family here next time.",
+            "published_at": "7 months ago",
+            "published_at_date": "2023-04-23T06:30:04.577000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 166,
+            "total_number_of_photos_by_reviewer": 1155,
+            "reviewer_url": "https://www.google.com/maps/contrib/106040853204567642278/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjU9S8Sv16BfY99g7U1tI6RR0OqziDyCtm-8SeOZ3DK_ume4=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNlcHwieVdpxPiWwlPGtch0sjdjel6N3nLALpKy=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPQ61zEJkPq_X3ZvG5mqjRI24aboD6-Q2-em-ek=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOOnFiAEjNB0AtVEIXWejdptMT20UvmDcEV8URk=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNiDZp80oqYA9tE3_NufrhxOXzi93t1OtR8RrIC=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMmrEHCc7HHqhcr-M8t0T7in09qKAqVgEhXJ3df=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMVbPsuadW9r2VF6pCKyp1uadggx5ZsF9HyaXpo=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Wow burgers are great\nLove the options for sides...\nDipping sauce is mmmmmgood\n\nZero alcohol drinks tasted great too\nQuick customer service and food was well presented",
+            "reviewer_name": "Kaylee Simpkin",
+            "rating": 5,
+            "review_text": "Wow burgers are great\nLove the options for sides...\nDipping sauce is mmmmmgood\n\nZero alcohol drinks tasted great too\nQuick customer service and food was well presented",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-20T00:33:42.162000Z",
+            "response_from_owner_text": "Thank you!",
+            "response_from_owner_ago": "a month ago",
+            "response_from_owner_date": "2023-10-02T18:18:16.292000Z",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 64,
+            "total_number_of_photos_by_reviewer": 66,
+            "reviewer_url": "https://www.google.com/maps/contrib/102726486940679918725/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLHOfhrR9LJOTW0dmCjlOeuJuwyFMDSaMfkxxHgP7Hh=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNzddcOY4YNy50R_C7_CaEM-qlMLctvtFJ6Sf0r=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNC-Ar8PKOYBq0DXJaTipjozwGlxjcquYAud5BB=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNz_1u7YSMUF7NrDh0ooPgFi7sKM7rTDRkI52OE=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipONncY7-PVYDnGddnuX6wH7jj_sDVhb7K56zQF8=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "I tried the Bison Burner burger, and it was absolutely delicious. The burger was juicy, full of flavor, and accompanied by a sweet and spicy jalapeno salsa/jam. However, the fries were not crispy and were a bit too soft and soggy for my taste. They offer a variety of burgers made from chicken, vegan, beef, fish, and bison, with numerous flavors to choose from, and the overall quality of the food was excellent. The seating was comfortable, making it a great place to hang out. They offer a fantastic late-night special after 9 pm, where you can order any burger with fries or salad for only $11, along with a non-alcoholic drink. Excellent servive by the servers.",
+            "reviewer_name": "Karan Verma",
+            "rating": 5,
+            "review_text": "I tried the Bison Burner burger, and it was absolutely delicious. The burger was juicy, full of flavor, and accompanied by a sweet and spicy jalapeno salsa/jam. However, the fries were not crispy and were a bit too soft and soggy for my taste. They offer a variety of burgers made from chicken, vegan, beef, fish, and bison, with numerous flavors to choose from, and the overall quality of the food was excellent. The seating was comfortable, making it a great place to hang out. They offer a fantastic late-night special after 9 pm, where you can order any burger with fries or salad for only $11, along with a non-alcoholic drink. Excellent servive by the servers.",
+            "published_at": "7 months ago",
+            "published_at_date": "2023-04-04T18:31:51.597000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 144,
+            "total_number_of_photos_by_reviewer": 147,
+            "reviewer_url": "https://www.google.com/maps/contrib/111302972497777314224/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUvRjmxrSB3qMov__h4CqvdL3TsLTJY8r7PANXqXTd2NrIa=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNO3c8zT_FVJ858ud0RgF7EE060MaqbS3E0s8w1=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipP3Cvyy604v8c0zor4kh9CyNSk0u7PiJzzhsKRV=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPRH51Ngtas1WolYUuZmlElgMQZtdfLF7Q68YGl=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Wonderful place to grab a burger. The burgers are delicious, juicy and very well seasoned. There is an incredible selection of different combinations to customize your burger. Fries are excellent, crispy and tasty. Service is good. The restaurant is modern and inviting. A small patio outdoor is available.",
+            "reviewer_name": "Andrea Spallanzani",
+            "rating": 5,
+            "review_text": "Wonderful place to grab a burger. The burgers are delicious, juicy and very well seasoned. There is an incredible selection of different combinations to customize your burger. Fries are excellent, crispy and tasty. Service is good. The restaurant is modern and inviting. A small patio outdoor is available.",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-24T16:24:10.030000Z",
+            "response_from_owner_text": "Thank you!",
+            "response_from_owner_ago": "3 months ago",
+            "response_from_owner_date": "2023-08-10T20:17:32.813000Z",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 657,
+            "total_number_of_photos_by_reviewer": 1582,
+            "reviewer_url": "https://www.google.com/maps/contrib/110618640574288040708/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVPwCpEJ6e2fE8qAvemdzoJgW6w9PRuHGVwVtLDRCxa3OA=s120-c-rp-mo-ba6-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipP7U4JQB-V7J8t36V3d69oMcpYXtkloyENf62Ec=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "A new find.  The burgers were very outstanding for me.  I have tried a few burger places and this one is one tops it off for me.  A little pricey, but well worth it.   Service was great!  Atmosphere was a little loud for me, but overall good place to try again.",
+            "reviewer_name": "Fuzzy Nemo",
+            "rating": 4,
+            "review_text": "A new find.  The burgers were very outstanding for me.  I have tried a few burger places and this one is one tops it off for me.  A little pricey, but well worth it.   Service was great!  Atmosphere was a little loud for me, but overall good place to try again.",
+            "published_at": "6 months ago",
+            "published_at_date": "2023-05-20T01:29:17.580000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 122,
+            "total_number_of_photos_by_reviewer": 144,
+            "reviewer_url": "https://www.google.com/maps/contrib/106320859516815432613/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjV85I7pNByX-7nccqTXMdsmts3qTDNHg3dje9WwkyboEb8=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipN-mDNK5nGEg8Kfjk9kDnp1IXj0veqNCg6dPU3I=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipM-_mHwNg9mMI03zo3qi4hMKZmjQ0ioUNSgTr-q=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPZoV6i2s2_l-eL7yPyutQC6lhBaiOjiftXsib7=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPuWrfSl4numauZeeZzON_CCahEWfSazR9VmQaC=w150-h150-k-no-p"
+            ]
+        }
+    ],
+    "is_spending_on_ads": false
+}

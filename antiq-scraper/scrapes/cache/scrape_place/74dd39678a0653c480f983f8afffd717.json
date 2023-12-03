@@ -2,7 +2,7 @@
     "place_id": "ChIJtRJImhlxhlQRPexwQf8v5kM",
     "name": "La Playita Seafood",
     "description": null,
-    "reviews": 228,
+    "reviews": 230,
     "website": null,
     "owner": {
         "id": "117149468661045608732",
@@ -47,12 +47,12 @@
             "count": 9
         },
         {
-            "keyword": "server",
+            "keyword": "taste",
             "count": 8
         },
         {
-            "keyword": "taste",
-            "count": 7
+            "keyword": "server",
+            "count": 8
         },
         {
             "keyword": "horchata",
@@ -71,7 +71,7 @@
         "2": 5,
         "3": 12,
         "4": 20,
-        "5": 181
+        "5": 183
     },
     "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJtRJImhlxhlQRPexwQf8v5kM&q=La+Playita+Seafood&authuser=0&hl=en&gl=CA",
     "coordinates": {
@@ -380,30 +380,6 @@
             ]
         },
         {
-            "review_id": "Great food, high price, average service.\n\nIngredients are fresh. Flavours are good.\n\nThis is a super busy business, even it's not the peak hours. Food needs time to be served and super busy staff. If you're in a rush, besides waiting to be seated, extra time waiting for the food should be expected.",
-            "reviewer_name": "A Z (futyh_ag)",
-            "rating": 5,
-            "review_text": "Great food, high price, average service.\n\nIngredients are fresh. Flavours are good.\n\nThis is a super busy business, even it's not the peak hours. Food needs time to be served and super busy staff. If you're in a rush, besides waiting to be seated, extra time waiting for the food should be expected.",
-            "published_at": "a year ago",
-            "published_at_date": "2022-08-15T16:15:37.653000Z",
-            "response_from_owner_text": null,
-            "response_from_owner_ago": null,
-            "response_from_owner_date": null,
-            "review_likes_count": 1,
-            "total_number_of_reviews_by_reviewer": 41,
-            "total_number_of_photos_by_reviewer": 55,
-            "reviewer_url": "https://www.google.com/maps/contrib/108831056811478152090/reviews?entry=ttu",
-            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXLMM_G1_AdhcVvjFiqxomfoLMEafPLH0LfsOK7gi4xvwOb=s120-c-rp-mo-ba3-br100",
-            "is_local_guide": true,
-            "review_translated_text": null,
-            "response_from_owner_translated_text": null,
-            "review_photos": [
-                "https://lh5.googleusercontent.com/p/AF1QipMy_ZEVnYTgQXRtFfeYa_ZyjA0_VA_oafIZWWzb=w150-h150-k-no-p",
-                "https://lh5.googleusercontent.com/p/AF1QipOUFgxn6QuSrzM_-QBbGlzDyq4cUCXasi4WRaaL=w150-h150-k-no-p",
-                "https://lh5.googleusercontent.com/p/AF1QipPPW1GloAAVDcy-W3sEjL8sjS_rayPO4Rsgv1Dc=w150-h150-k-no-p"
-            ]
-        },
-        {
             "review_id": "A visit to La Playita adds a little bit of fiesta sunshine to even the greyest, rainiest Vancouver days. Quality of the seafood is exceptionally high, portions are generous and every dish we've tried has been an explosion of flavour. Staff always have a big smile and warm welcome for you no matter how busy it is. Every dish we've tried here has been great but I particularly recommend the Aguachile Chiltepin if you like spice, and the Torre Hangover to share.",
             "reviewer_name": "Kay C",
             "rating": 5,
@@ -448,6 +424,30 @@
             "review_photos": [
                 "https://lh5.googleusercontent.com/p/AF1QipP_7l8RZxMifvLw3I8bJxr6ijOxbsWMLNfQXnWM=w150-h150-k-no-p",
                 "https://lh5.googleusercontent.com/p/AF1QipN7EWfJRI41SVjzs0r_agbLA-S8VHBVMwk0mE5K=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Great food, high price, average service.\n\nIngredients are fresh. Flavours are good.\n\nThis is a super busy business, even it's not the peak hours. Food needs time to be served and super busy staff. If you're in a rush, besides waiting to be seated, extra time waiting for the food should be expected.",
+            "reviewer_name": "A Z (futyh_ag)",
+            "rating": 5,
+            "review_text": "Great food, high price, average service.\n\nIngredients are fresh. Flavours are good.\n\nThis is a super busy business, even it's not the peak hours. Food needs time to be served and super busy staff. If you're in a rush, besides waiting to be seated, extra time waiting for the food should be expected.",
+            "published_at": "a year ago",
+            "published_at_date": "2022-08-15T16:15:37.653000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 41,
+            "total_number_of_photos_by_reviewer": 55,
+            "reviewer_url": "https://www.google.com/maps/contrib/108831056811478152090/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXLMM_G1_AdhcVvjFiqxomfoLMEafPLH0LfsOK7gi4xvwOb=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMy_ZEVnYTgQXRtFfeYa_ZyjA0_VA_oafIZWWzb=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOUFgxn6QuSrzM_-QBbGlzDyq4cUCXasi4WRaaL=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPPW1GloAAVDcy-W3sEjL8sjS_rayPO4Rsgv1Dc=w150-h150-k-no-p"
             ]
         },
         {
@@ -534,24 +534,28 @@
             ]
         },
         {
-            "review_id": "Their Ceviche was pretty good, Mostly Mexican style and they have plenty of sauce to choose from. Also here you can order a Michelada",
-            "reviewer_name": "Zung Hoang",
-            "rating": 5,
-            "review_text": "Their Ceviche was pretty good, Mostly Mexican style and they have plenty of sauce to choose from. Also here you can order a Michelada",
-            "published_at": "a week ago",
-            "published_at_date": "2023-11-11T07:13:13.798000Z",
+            "review_id": "Delicious spot in vancouver. It reminds me of a Mexican restaurant called Fishers back in Mexico City. They serve huge portions with delicious flavours and sauces. The michelada it's overpriced and in general it's pricey, but if you have a hangover this is the best place.\n\nYou have to order the taquiquesos and the agua de horchata. A MUST",
+            "reviewer_name": "Alejandro Fernandez",
+            "rating": 4,
+            "review_text": "Delicious spot in vancouver. It reminds me of a Mexican restaurant called Fishers back in Mexico City. They serve huge portions with delicious flavours and sauces. The michelada it's overpriced and in general it's pricey, but if you have a hangover this is the best place.\n\nYou have to order the taquiquesos and the agua de horchata. A MUST",
+            "published_at": "a year ago",
+            "published_at_date": "2022-07-28T09:56:05.307000Z",
             "response_from_owner_text": null,
             "response_from_owner_ago": null,
             "response_from_owner_date": null,
             "review_likes_count": 0,
-            "total_number_of_reviews_by_reviewer": 155,
-            "total_number_of_photos_by_reviewer": 152,
-            "reviewer_url": "https://www.google.com/maps/contrib/116880535908156611966/reviews?entry=ttu",
-            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVp6-jtP5Zv20VJK_jlB3hPJKsjbMWPz8nFF12F0j5wXtEs=s120-c-rp-mo-ba4-br100",
+            "total_number_of_reviews_by_reviewer": 133,
+            "total_number_of_photos_by_reviewer": 332,
+            "reviewer_url": "https://www.google.com/maps/contrib/101491186764549455147/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVnVgqLpHbsb1YkNWRTv4-hH_06d1lxrQWEatfyV-LsbrDc=s120-c-rp-mo-ba4-br100",
             "is_local_guide": true,
             "review_translated_text": null,
             "response_from_owner_translated_text": null,
-            "review_photos": []
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMQifrGQzC7ayZ5HvJ6s4t95mbXfb6CntcMYuyU=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNsfCqc8ej5FCMomRTW_8Vatlsiju8Ngv6q45gB=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPjfvM2SKb0fEF4BFztbT7Osk-LQLzznkYgi3Tq=w150-h150-k-no-p"
+            ]
         }
     ],
     "is_spending_on_ads": false

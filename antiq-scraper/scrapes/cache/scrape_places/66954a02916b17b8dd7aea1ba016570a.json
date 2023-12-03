@@ -1,0 +1,567 @@
+{
+    "query": "\"6196 Fraser St in Taco\"",
+    "places": [
+        {
+            "place_id": "ChIJIVobZsNxhlQRH6dKoZiZ_Cw",
+            "name": "Taco 'N Todo Mexican Taqueria",
+            "description": null,
+            "reviews": 119,
+            "website": "https://www.tacontodo.ca/",
+            "owner": {
+                "id": "105007641685468690071",
+                "name": "Taco 'N Todo Mexican Taqueria (Owner)",
+                "link": "https://www.google.com/maps/contrib/105007641685468690071"
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO1FPJZuehBTXS7CZQjgoe0huyQtjFVeViy06Sb=w408-h307-k-no",
+            "main_category": "Mexican restaurant",
+            "categories": [
+                "Mexican restaurant"
+            ],
+            "rating": 4,
+            "workday_timing": "11 a.m.-9 p.m.",
+            "closed_on": [
+                "Monday"
+            ],
+            "phone": "(778) 317-9609",
+            "address": "Taco 'N Todo Mexican Taqueria, 6196 Fraser St, Vancouver, BC V5W 3A1",
+            "review_keywords": [
+                {
+                    "keyword": "price",
+                    "count": 18
+                },
+                {
+                    "keyword": "burrito",
+                    "count": 12
+                },
+                {
+                    "keyword": "tortillas",
+                    "count": 9
+                },
+                {
+                    "keyword": "beef",
+                    "count": 8
+                },
+                {
+                    "keyword": "review",
+                    "count": 6
+                },
+                {
+                    "keyword": "quesadillas",
+                    "count": 6
+                },
+                {
+                    "keyword": "selection",
+                    "count": 5
+                },
+                {
+                    "keyword": "al pastor",
+                    "count": 5
+                },
+                {
+                    "keyword": "salsas",
+                    "count": 5
+                },
+                {
+                    "keyword": "chorizo tacos",
+                    "count": 3
+                }
+            ],
+            "link": "https://www.google.com/maps/place/Taco+'N+Todo+Mexican+Taqueria/@49.228313,-123.0904919,17z/data=!3m1!4b1!4m6!3m5!1s0x548671c3661b5a21:0x2cfc9998a14aa71f!8m2!3d49.228313!4d-123.0904919!16s%2Fg%2F11q43282sx?authuser=0&entry=ttu",
+            "status": "Open  Closes 2 a.m.",
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 19,
+                "2": 5,
+                "3": 11,
+                "4": 9,
+                "5": 75
+            },
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJIVobZsNxhlQRH6dKoZiZ_Cw&q=Taco+'N+Todo+Mexican+Taqueria&authuser=0&hl=en&gl=CA",
+            "coordinates": {
+                "latitude": 49.228313,
+                "longitude": -123.09049189999999
+            },
+            "plus_code": "6WH5+8R Vancouver, British Columbia",
+            "detailed_address": {
+                "ward": "South Vancouver",
+                "street": "6196 Fraser St",
+                "city": "Vancouver",
+                "postal_code": "V5W 3A1",
+                "state": "British Columbia",
+                "country_code": "CA"
+            },
+            "time_zone": "America/Vancouver",
+            "cid": "3241634712620017439",
+            "data_id": "0x548671c3661b5a21:0x2cfc9998a14aa71f",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [
+                {
+                    "link": "https://www.doordash.com/store/taco-%27n-todo-vancouver-2478549/?utm_campaign=gpa",
+                    "source": "doordash.com"
+                },
+                {
+                    "link": "https://www.ubereats.com/ca/store/taco-n-todo/Heije2X6Vjypjdu3rHf6AQ?utm_campaign=place-action-link&utm_medium=organic&utm_source=google",
+                    "source": "ubereats.com"
+                }
+            ],
+            "about": [
+                {
+                    "id": "service_options",
+                    "name": "Service options",
+                    "options": [
+                        {
+                            "name": "Delivery",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Takeout",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Dine-in",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "accessibility",
+                    "name": "Accessibility",
+                    "options": [
+                        {
+                            "name": "Wheelchair accessible seating",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Wheelchair-accessible entrance",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Wheelchair-accessible parking lot",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Assistive hearing loop",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Wheelchair-accessible washroom",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "offerings",
+                    "name": "Offerings",
+                    "options": [
+                        {
+                            "name": "Late-night food",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Organic dishes",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Small plates",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Vegan options",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Vegetarian options",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "dining_options",
+                    "name": "Dining options",
+                    "options": [
+                        {
+                            "name": "Brunch",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Lunch",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Dinner",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Catering",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Counter service",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Dessert",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Seating",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "amenities",
+                    "name": "Amenities",
+                    "options": [
+                        {
+                            "name": "Washroom",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "atmosphere",
+                    "name": "Atmosphere",
+                    "options": [
+                        {
+                            "name": "Casual",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "crowd",
+                    "name": "Crowd",
+                    "options": [
+                        {
+                            "name": "Family-friendly",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "planning",
+                    "name": "Planning",
+                    "options": [
+                        {
+                            "name": "Accepts reservations",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "payments",
+                    "name": "Payments",
+                    "options": [
+                        {
+                            "name": "Credit cards",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Debit cards",
+                            "enabled": true
+                        },
+                        {
+                            "name": "NFC mobile payments",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Credit cards",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "children",
+                    "name": "Children",
+                    "options": [
+                        {
+                            "name": "Good for kids",
+                            "enabled": true
+                        },
+                        {
+                            "name": "High chairs",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Kids' menu",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipO1FPJZuehBTXS7CZQjgoe0huyQtjFVeViy06Sb=w395-h298-k-no"
+                },
+                {
+                    "about": "Latest",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipOFzOgUsgE_IS0QKuIFKjIe8hLSs1VETnxOH1s=w529-h298-k-no"
+                },
+                {
+                    "about": "Menu",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipNSq8GAS8Osm3EjC_m6kUDy_8vm7jpZn6KLD0Ag=w224-h298-k-no"
+                },
+                {
+                    "about": "Food & drink",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipMKJRZwW3CZctFJbF7RjU471wBgQgkVstUxrHSe=w499-h298-k-no"
+                },
+                {
+                    "about": "Vibe",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipPnfAD5Ius6xSLzj359vNilwiQGlrRrK6clKxBe=w224-h298-k-no"
+                },
+                {
+                    "about": "Take-out",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipMY63bw3q0YcX_utt5U9sxB5v3nIjc42MN60nfW=w397-h298-k-no"
+                },
+                {
+                    "about": "By owner",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipMMI6qEhoT9Qoo4Dpm_CAbU-Go4cotqV02yXkJl=w298-h298-k-no"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=t1TQSB39esCq20f_eB-0CQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=54.867615&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [
+                {
+                    "day": "Monday",
+                    "times": [
+                        "Closed"
+                    ]
+                },
+                {
+                    "day": "Tuesday",
+                    "times": [
+                        "11 a.m.-9 p.m."
+                    ]
+                },
+                {
+                    "day": "Wednesday",
+                    "times": [
+                        "11 a.m.-9 p.m."
+                    ]
+                },
+                {
+                    "day": "Thursday",
+                    "times": [
+                        "11 a.m.-9 p.m."
+                    ]
+                },
+                {
+                    "day": "Friday",
+                    "times": [
+                        "11 a.m.-2 a.m."
+                    ]
+                },
+                {
+                    "day": "Saturday",
+                    "times": [
+                        "11 a.m.-2 a.m."
+                    ]
+                },
+                {
+                    "day": "Sunday",
+                    "times": [
+                        "9 a.m.-2 p.m."
+                    ]
+                }
+            ],
+            "featured_reviews": [
+                {
+                    "review_id": "$18 for only these tacos? I'd say no. This is insane.\nUpdate:\nAlright. Let me clarify my integrity review:\n\nTo start, the portion of cilantro provided was the smallest I've ever encountered, even though I did request cilantro.\n\nAdditionally, I took pictures of my order, but I couldn't find the lime that should have been included. Shouldn't I expect it?\n\nI usually receive some radish with my order, even in a small quantity, as a complimentary addition. I wasn't seeking a large amount, just its presence, which was absent.\n\nRegarding the tacos, they were mediocre at best. The tortilla wasn't freshly made, and the quality of the beef was subpar. Considering the price, I don't believe it's a fair deal. Despite trying many taco restaurants, I might not recommend Taco 'N Todo.\n\nI'm not seeking a refund; my aim is to provide an integrity review for the owner's benefit. I thought the owner could understand the issues from the pictures, but it seems that wasn't the case, which is a bit disappointing.\n\nLast but not least: Is it typical to use just one layer of tortilla in a taco? I usually have two in other taco restaurants.",
+                    "reviewer_name": "Violet",
+                    "rating": 1,
+                    "review_text": "$18 for only these tacos? I'd say no. This is insane.\nUpdate:\nAlright. Let me clarify my integrity review:\n\nTo start, the portion of cilantro provided was the smallest I've ever encountered, even though I did request cilantro.\n\nAdditionally, I took pictures of my order, but I couldn't find the lime that should have been included. Shouldn't I expect it?\n\nI usually receive some radish with my order, even in a small quantity, as a complimentary addition. I wasn't seeking a large amount, just its presence, which was absent.\n\nRegarding the tacos, they were mediocre at best. The tortilla wasn't freshly made, and the quality of the beef was subpar. Considering the price, I don't believe it's a fair deal. Despite trying many taco restaurants, I might not recommend Taco 'N Todo.\n\nI'm not seeking a refund; my aim is to provide an integrity review for the owner's benefit. I thought the owner could understand the issues from the pictures, but it seems that wasn't the case, which is a bit disappointing.\n\nLast but not least: Is it typical to use just one layer of tortilla in a taco? I usually have two in other taco restaurants.",
+                    "published_at": "3 weeks ago",
+                    "published_at_date": "2023-11-06T07:07:14.620000Z",
+                    "response_from_owner_text": "Hola Violet. The price of our Meal (4 tacos) Beef and chicken those that you have chosen is $15.00 (which is even cheaper than other stores) however if you consider this price expensive, sorry about that, we offer great quality and fresh food...I wont sacrificed quality for quantity. Btw Thank you for your tip, that's why you paid $18.00. If you would like a refund of your tip, please just go for it. Thank you.  Have a great day. Gracias. Monica Owner",
+                    "response_from_owner_ago": "4 weeks ago",
+                    "response_from_owner_date": "2023-11-04T03:00:44.588000Z",
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 30,
+                    "total_number_of_photos_by_reviewer": 240,
+                    "reviewer_url": "https://www.google.com/maps/contrib/110116535399966751337/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUYxFDRkhjgJeuBo85laEvddFPBBLYoGCnqqTowsSJlzbfD=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipOAvQ7bNVvfaY-uiGy4k-3bkPxuFWLMhmFA7cGN=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "I got hungry and put \"tacos\" into my google maps and I THANKFULLY was brought here.\n\nThe menu has pictures and descriptions of everything but I knew I wanted tacos. I was thrilled to be charged only $20 for 4 tacos and a Jarrito.\n\nThe tacos were beautiful and delicious - exactly what I wanted.\n\nI read through other reviews and I'm confused how someone could complain! I am definitely coming back here again.",
+                    "reviewer_name": "Kar Ma",
+                    "rating": 5,
+                    "review_text": "I got hungry and put \"tacos\" into my google maps and I THANKFULLY was brought here.\n\nThe menu has pictures and descriptions of everything but I knew I wanted tacos. I was thrilled to be charged only $20 for 4 tacos and a Jarrito.\n\nThe tacos were beautiful and delicious - exactly what I wanted.\n\nI read through other reviews and I'm confused how someone could complain! I am definitely coming back here again.",
+                    "published_at": "4 months ago",
+                    "published_at_date": "2023-07-27T20:22:55.903000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 7,
+                    "total_number_of_photos_by_reviewer": 1,
+                    "reviewer_url": "https://www.google.com/maps/contrib/108547310441522293954/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocL5H_X1TuTYQSv5e_DVjr3-S0b6te__xdaB2vChlkFJ=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipPCtwzid-RmhmXMhE8rqEKGT9P3WuzTmOsRbNih=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "Found them on Instagram and were super excited to have an authentic Mexican restaurant close to our place. We also love the idea of supporting a small, local business.\n\nTo start, the service was wonderful. We were helped in good time, assisted with menu options, and had a nice little chat at the end of our visit.\n\nThe restaurant itself is super cute! Bar style seating with lots of beautiful decorations.\n\nNow, to the best part, the food !\nI ordered the enchiladas papas, which is their Mexican enchiladas with grilled potatoes that are cooked with onions as the filling. As a vegetarian I was stoked to see that they had 4 different options for fillings that could replace meat. The portions were great as were the flavors. I topped it with a little bit of Pico de Gallo and one of the (many!) sauces they have available. I also really liked that they had the sauces on ice for freshness!\nMy boyfriend ordered 4 asada tacos with a side of Pico de Gallo.\nHe commented that the meat was cooked perfectly, Pico was on point and everything tasted fresh. Portions were also perfect.\n\nWe both would consider Mexican food as our favorite cuisine and while we aren't experts in the authenticity (maybe a trip to Mexico is finally in order!) we have eaten at ALOT of Mexican restaurants in Vancouver and can confidently say that Taco 'N Todo is one of the best by far.",
+                    "reviewer_name": "Katherine",
+                    "rating": 5,
+                    "review_text": "Found them on Instagram and were super excited to have an authentic Mexican restaurant close to our place. We also love the idea of supporting a small, local business.\n\nTo start, the service was wonderful. We were helped in good time, assisted with menu options, and had a nice little chat at the end of our visit.\n\nThe restaurant itself is super cute! Bar style seating with lots of beautiful decorations.\n\nNow, to the best part, the food !\nI ordered the enchiladas papas, which is their Mexican enchiladas with grilled potatoes that are cooked with onions as the filling. As a vegetarian I was stoked to see that they had 4 different options for fillings that could replace meat. The portions were great as were the flavors. I topped it with a little bit of Pico de Gallo and one of the (many!) sauces they have available. I also really liked that they had the sauces on ice for freshness!\nMy boyfriend ordered 4 asada tacos with a side of Pico de Gallo.\nHe commented that the meat was cooked perfectly, Pico was on point and everything tasted fresh. Portions were also perfect.\n\nWe both would consider Mexican food as our favorite cuisine and while we aren't experts in the authenticity (maybe a trip to Mexico is finally in order!) we have eaten at ALOT of Mexican restaurants in Vancouver and can confidently say that Taco 'N Todo is one of the best by far.",
+                    "published_at": "9 months ago",
+                    "published_at_date": "2023-02-27T01:17:12.598000Z",
+                    "response_from_owner_text": "Thank you so much for your comments. It is always nice to hear about happy costumers. Thank you for your comments, that allow us to improve our next service. Gracias! ",
+                    "response_from_owner_ago": "9 months ago",
+                    "response_from_owner_date": "2023-02-28T01:50:39.429000Z",
+                    "review_likes_count": 4,
+                    "total_number_of_reviews_by_reviewer": 33,
+                    "total_number_of_photos_by_reviewer": 21,
+                    "reviewer_url": "https://www.google.com/maps/contrib/110093927096597790520/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW6Hnrqi1_ULWeqRGq9bHaim34JVQocjpLZUKtE_9R9BlQ=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipNPAJi2HOq2H9GSgh9l92U9MBAzac8MzKp-kfXn=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipO4Fn31wDB3XmQTXhNTzw5RQpZsbOxiKzG2vyIM=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipM2FAXPs2tUN4xVEZDjl9E1hXUKActMGiBHZlag=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMyXRqLoznlLJL7o-wCA5odQpgahyf8I29dnME6=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "Today I tried Mexican food for the first time.  we chose this restaurant for our first lunch.  I made a mistake and did not say that we would like spicy food and then a very attentive woman said that she wanted us to try the real taste of Mexican food!  and treated us to another dish for free.  very nice such attention and attitude!  will definitely come again for real mexican food thanks, very good service!",
+                    "reviewer_name": "Julia N",
+                    "rating": 5,
+                    "review_text": "Today I tried Mexican food for the first time.  we chose this restaurant for our first lunch.  I made a mistake and did not say that we would like spicy food and then a very attentive woman said that she wanted us to try the real taste of Mexican food!  and treated us to another dish for free.  very nice such attention and attitude!  will definitely come again for real mexican food thanks, very good service!",
+                    "published_at": "8 months ago",
+                    "published_at_date": "2023-03-23T00:47:46.274000Z",
+                    "response_from_owner_text": "Heh Julia. Nice to hear from you! Thank you so much I am very glad and happy we accomplished the goal! That you really taste what you really wanted! It such a great feeling I got a new happy customer. Thank you to come close to the counter and being honest about your thoughts in the right moment. I think is the best time to really know what our customers are thinking and serve you better! Muchas gracias. Pleasure to meet you. Monica/Owner",
+                    "response_from_owner_ago": "8 months ago",
+                    "response_from_owner_date": "2023-03-23T20:26:34.185000Z",
+                    "review_likes_count": 4,
+                    "total_number_of_reviews_by_reviewer": 8,
+                    "total_number_of_photos_by_reviewer": 8,
+                    "reviewer_url": "https://www.google.com/maps/contrib/109473800718396857243/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUjxpkpov6oyx4Vfda952D7ufz3VgsBpgb7jho8sVkhpD0=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipOzDj3P4-sZ83jItdMwCkIkY7tOcoBzXHNVHezY=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMD951lT0QsModtZ5L44rtDF7oTieKk9Q5-XSKn=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "Pretty good chicken burrito, fresh but not too flavourful, Lots of green onions, not even a bit spicy. Prices was very affordable 13$ after tax\nService was good and fast",
+                    "reviewer_name": "E J",
+                    "rating": 4,
+                    "review_text": "Pretty good chicken burrito, fresh but not too flavourful, Lots of green onions, not even a bit spicy. Prices was very affordable 13$ after tax\nService was good and fast",
+                    "published_at": "2 months ago",
+                    "published_at_date": "2023-09-27T19:57:58.350000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 41,
+                    "total_number_of_photos_by_reviewer": 19,
+                    "reviewer_url": "https://www.google.com/maps/contrib/118127834985979185235/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUttMlYQgusrgXUnNu1HeciqdfAmuTqGzEIVuM1TJ7TWQs=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipPxVnicTk2zcebjPwl3AL-ErMOHKO47ALVBcrTH=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "Yesssss finally found a restaurant with proper Mexican food I felt like i was still in Los Cabos. The service was good. Food came fast. Definitely will come here again and again.",
+                    "reviewer_name": "Ag13 g",
+                    "rating": 5,
+                    "review_text": "Yesssss finally found a restaurant with proper Mexican food I felt like i was still in Los Cabos. The service was good. Food came fast. Definitely will come here again and again.",
+                    "published_at": "4 months ago",
+                    "published_at_date": "2023-07-13T21:17:02.556000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 26,
+                    "total_number_of_photos_by_reviewer": 2,
+                    "reviewer_url": "https://www.google.com/maps/contrib/111470926419420006712/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocI3Xbmo11z0mFG3tz3_jhxQ-c5SfwK6tgkyDr0JbWp3=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipMuIxBp3opC7FfZfeOvC0vxyZnGjp416ZYg-0ff=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipM_AutLB_c_EXT3C0o5WEY42doYjWZhhPIW6YrN=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "This place is awesome! Ordered  a burrito wrap and coffee. The coffee is sooo good I had to order a second cup! The burrito was delicious!! Definitley want to go back!",
+                    "reviewer_name": "1HunnieB",
+                    "rating": 5,
+                    "review_text": "This place is awesome! Ordered  a burrito wrap and coffee. The coffee is sooo good I had to order a second cup! The burrito was delicious!! Definitley want to go back!",
+                    "published_at": "5 months ago",
+                    "published_at_date": "2023-06-26T01:04:43.174000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 75,
+                    "total_number_of_photos_by_reviewer": 24,
+                    "reviewer_url": "https://www.google.com/maps/contrib/109671164842156145697/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWj91VhOe-PlkemzZpcjbiBZhOJ47UKi-UxxkYhkhPKAg=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipNVWeF0Obc37ALs_PbsOOLejRpJeczN9gJu1bxC=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMkYlIfBxqSC1l3VH-ORRBxFGtktehGcFiJ0M4Z=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOE7j4HX-BR2Hu_vYcHGbi3-u1OOFj1jrcsCHt7=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "Food was hood and played were generous!\n\nI believe it is a bit pricy, but they have good ingredients.\n\nKeep in mind it is fresh food so it would take a bit of time to have your food, but it is understandable.\n\nThey unfortunately do not have washrooms.\n\nOur favorite for the day were the fried quesadillas they were huge and very good!\n\nOne of the very few places I have seen with pambazos.\n\nThey have a great variety of food options, and everything could be Vegetarian!",
+                    "reviewer_name": "Ana Lorenzo",
+                    "rating": 4,
+                    "review_text": "Food was hood and played were generous!\n\nI believe it is a bit pricy, but they have good ingredients.\n\nKeep in mind it is fresh food so it would take a bit of time to have your food, but it is understandable.\n\nThey unfortunately do not have washrooms.\n\nOur favorite for the day were the fried quesadillas they were huge and very good!\n\nOne of the very few places I have seen with pambazos.\n\nThey have a great variety of food options, and everything could be Vegetarian!",
+                    "published_at": "8 months ago",
+                    "published_at_date": "2023-03-19T19:26:57.502000Z",
+                    "response_from_owner_text": "Hello Ana. Thank you so much. Your comments help us to improve our service. Gracias ",
+                    "response_from_owner_ago": "8 months ago",
+                    "response_from_owner_date": "2023-03-26T20:39:49.600000Z",
+                    "review_likes_count": 3,
+                    "total_number_of_reviews_by_reviewer": 453,
+                    "total_number_of_photos_by_reviewer": 3418,
+                    "reviewer_url": "https://www.google.com/maps/contrib/117127391999072965368/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUoulHQyINum27QpvvNJQQiS_KP0vFRzFUxbQkEUmLhxdOM=s120-c-rp-mo-ba6-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipMC9EtzglWuMPbvOOL2DcvVvC15wX-T9pGPyrt0=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNBapcdXO88btYbeUSFCltAk36NHs7GWpbIyyMH=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMCbXsYRuL44Nz8ZXjxoov44DFNKiC5B7cV4kwW=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipO21adwvdAiCvL6tCPiJ4qtngt72GLuhHBZ1v4n=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipM574XS0aeGHPK2yD9TWdA5vnRFV3pDz8REt55-=w150-h150-k-no-p"
+                    ]
+                }
+            ],
+            "is_spending_on_ads": false
+        }
+    ]
+}

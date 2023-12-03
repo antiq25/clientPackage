@@ -1,0 +1,669 @@
+{
+    "place_id": "ChIJl97JCH5xhlQRCMTZHG7N-Sg",
+    "name": "per se Social Corner",
+    "description": "Innovative Italian cuisine & Spanish tapas, plus gelato & craft cocktails in a contemporary setting.",
+    "reviews": 2579,
+    "website": "http://www.persesocialcorner.com/",
+    "owner": {
+        "id": "106200775850915517072",
+        "name": "per se Social Corner (Owner)",
+        "link": "https://www.google.com/maps/contrib/106200775850915517072"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNSuti0M8PBhLvMq3FlPvSEsODB4K0KZFwAfRo=w426-h240-k-no",
+    "main_category": "Italian restaurant",
+    "categories": [
+        "Italian restaurant",
+        "American restaurant",
+        "Brunch restaurant",
+        "Coffee shop",
+        "Delivery Service",
+        "Hamburger restaurant",
+        "Spanish restaurant"
+    ],
+    "rating": 4.3,
+    "workday_timing": "11 a.m.-11 p.m.",
+    "closed_on": [],
+    "phone": "(604) 428-6111",
+    "address": "per se Social Corner, 891 Homer St, Vancouver, BC V6B 2W2",
+    "review_keywords": [
+        {
+            "keyword": "patio",
+            "count": 90
+        },
+        {
+            "keyword": "tapas",
+            "count": 40
+        },
+        {
+            "keyword": "ceilings",
+            "count": 33
+        },
+        {
+            "keyword": "seafood paella",
+            "count": 19
+        },
+        {
+            "keyword": "goat cheese salad",
+            "count": 15
+        },
+        {
+            "keyword": "hummus",
+            "count": 15
+        },
+        {
+            "keyword": "eggs benedict",
+            "count": 13
+        },
+        {
+            "keyword": "crime",
+            "count": 10
+        },
+        {
+            "keyword": "brunch burger",
+            "count": 8
+        },
+        {
+            "keyword": "free fall",
+            "count": 5
+        }
+    ],
+    "link": "https://www.google.com/maps/place/per+se+Social+Corner/data=!4m7!3m6!1s0x5486717e08c9de97:0x28f9cd6e1cd9c408!8m2!3d49.2787253!4d-123.118532!16s%2Fg%2F11cjkp_vw3!19sChIJl97JCH5xhlQRCMTZHG7N-Sg?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 11 a.m.",
+    "price_range": "$$",
+    "reviews_per_rating": {
+        "1": 154,
+        "2": 78,
+        "3": 215,
+        "4": 594,
+        "5": 1538
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJl97JCH5xhlQRCMTZHG7N-Sg&q=per+se+Social+Corner&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.2787253,
+        "longitude": -123.11853199999999
+    },
+    "plus_code": "7VHJ+FH Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "Downtown Vancouver",
+        "street": "891 Homer St",
+        "city": "Vancouver",
+        "postal_code": "V6B 2W2",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "2952616903532200968",
+    "data_id": "0x5486717e08c9de97:0x28f9cd6e1cd9c408",
+    "menu": {
+        "link": "http://persesocialcorner.com/",
+        "source": "persesocialcorner.com"
+    },
+    "reservations": [
+        {
+            "link": "https://www.exploretock.com/persesocialcorner/%3Futm_source%3Dsearch%26utm_medium%3Dplace-actions%26utm_content%3Dreservations",
+            "source": "exploretock.com"
+        },
+        {
+            "link": "https://www.google.com/maps/reserve/v/dine/c/rRVpUGYTDfE?source=pa",
+            "source": "google.com"
+        }
+    ],
+    "order_online_links": [
+        {
+            "link": "https://www.doordash.com/store/per-se-social-corner-vancouver-101779/?utm_campaign=gpa",
+            "source": "doordash.com"
+        },
+        {
+            "link": "https://www.exploretock.com/persesocialcorner/?utm_source=search&utm_medium=place-actions&utm_content=ordering#pickup",
+            "source": "exploretock.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Outdoor seating",
+                    "enabled": true
+                },
+                {
+                    "name": "No-contact delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Takeout",
+                    "enabled": true
+                },
+                {
+                    "name": "Dine-in",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair accessible seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Alcohol",
+                    "enabled": true
+                },
+                {
+                    "name": "Beer",
+                    "enabled": true
+                },
+                {
+                    "name": "Cocktails",
+                    "enabled": true
+                },
+                {
+                    "name": "Coffee",
+                    "enabled": true
+                },
+                {
+                    "name": "Hard liquor",
+                    "enabled": true
+                },
+                {
+                    "name": "Late-night food",
+                    "enabled": true
+                },
+                {
+                    "name": "Organic dishes",
+                    "enabled": true
+                },
+                {
+                    "name": "Salad bar",
+                    "enabled": true
+                },
+                {
+                    "name": "Small plates",
+                    "enabled": true
+                },
+                {
+                    "name": "Vegetarian options",
+                    "enabled": true
+                },
+                {
+                    "name": "Wine",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Dining options",
+            "options": [
+                {
+                    "name": "Breakfast",
+                    "enabled": true
+                },
+                {
+                    "name": "Brunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Lunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Dinner",
+                    "enabled": true
+                },
+                {
+                    "name": "Dessert",
+                    "enabled": true
+                },
+                {
+                    "name": "Seating",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Bar on-site",
+                    "enabled": true
+                },
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                },
+                {
+                    "name": "Wi-Fi",
+                    "enabled": true
+                },
+                {
+                    "name": "Wi-Fi",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosphere",
+            "options": [
+                {
+                    "name": "Casual",
+                    "enabled": true
+                },
+                {
+                    "name": "Cozy",
+                    "enabled": true
+                },
+                {
+                    "name": "Upscale",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "crowd",
+            "name": "Crowd",
+            "options": [
+                {
+                    "name": "Family-friendly",
+                    "enabled": true
+                },
+                {
+                    "name": "Groups",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planning",
+            "options": [
+                {
+                    "name": "Accepts reservations",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "children",
+            "name": "Children",
+            "options": [
+                {
+                    "name": "High chairs",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNSuti0M8PBhLvMq3FlPvSEsODB4K0KZFwAfRo=w529-h298-k-no"
+        },
+        {
+            "about": "Latest",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipONWpvmtO8AdZoEhQTP-4qC_zcvvatIfcoMr2Cn=w529-h298-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipM4gTr__UopEmwTShXSxxMX7TP1QY023Ia9JGal=w224-h398-k-no"
+        },
+        {
+            "about": "Menu",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPSNUIvxFsxWqTIRP9UghszuUbxAX9WrmYIGHHO=w224-h298-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMOMq3A9l-qeff2h5JzaNUsuVE40UWOEiTDf90=w446-h298-k-no"
+        },
+        {
+            "about": "Vibe",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPOaYTAeJOlYxNQpL3eMgiCO1hUkG1NQgTZfFIh=w397-h298-k-no"
+        },
+        {
+            "about": "Take-out",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPu0SGMbM_1D1YBnLEoHNCrbrmjwTWxFMIW4576=w397-h298-k-no"
+        },
+        {
+            "about": "Pizza",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNvvZOTeX6QgmiklV7UrBTTwfxaaVLRe1-ZJTE_=w395-h298-k-no"
+        },
+        {
+            "about": "Paella",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipM3BFKK5Nd9wBX__4fnsJCHyHwUcET6V4Nq6UlA=w397-h298-k-no"
+        },
+        {
+            "about": "Ravioli",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipM-cYznJ0evOm4BC2vgfn66igcc-0omuowudxDk=w397-h298-k-no"
+        },
+        {
+            "about": "Carpaccio",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPsu_B8ttTWPOafAT0zzuWLmr3opKfjwlMylGtt=w397-h298-k-no"
+        },
+        {
+            "about": "Martini",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOd6wQgqqMpXIO59Z2usQKD1waARDahzdEhNdDD=w298-h298-k-no"
+        },
+        {
+            "about": "Eggs Benedict",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipO6lwYrsmXMf3AufdTY_qop7CuXiw191xhOIp0d=w298-h298-k-no"
+        },
+        {
+            "about": "Cappuccino",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipP_HY73ovc9K3F9hLEZ_WWWmMAaPgIkYPO6vkU=w397-h298-k-no"
+        },
+        {
+            "about": "Bar",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOHy9Uj3Lih9kTWX4JkUXaVBN2wwyflMUm0-BSc=w224-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNq4eLPZ4ToM4ibAcRCVk8-ZEYqrYA0dsAwY9Q=w447-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMTU2-WR16me78cZ-a7dM7JN4v7zwojVUkYkmWJ=w224-h298-k-no-pi-0-ya4.601003-ro-0-fo100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "11 a.m.-11 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "11 a.m.-11 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "11 a.m.-11 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "11 a.m.-11 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "11 a.m.-11 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "11 a.m.-11 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "11 a.m.-11 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "Really loved the aesthetic inside. Our server was very kind and came every now and then to ask if we have everything we need and came to fill our waters. The food was alright. The chicken paella was okay - the chicken was dry and the bottom of the paella wasn't crunchy. I really enjoyed the beef carpaccio though & the steak. Those were perfect!",
+            "reviewer_name": "Anita Lam",
+            "rating": 4,
+            "review_text": "Really loved the aesthetic inside. Our server was very kind and came every now and then to ask if we have everything we need and came to fill our waters. The food was alright. The chicken paella was okay - the chicken was dry and the bottom of the paella wasn't crunchy. I really enjoyed the beef carpaccio though & the steak. Those were perfect!",
+            "published_at": "a week ago",
+            "published_at_date": "2023-11-21T19:09:09.733000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 11,
+            "total_number_of_photos_by_reviewer": 15,
+            "reviewer_url": "https://www.google.com/maps/contrib/112791780823544059070/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVUg7eX0gBqlYbvBO0yzwoysUP0N__HNIc9JT0ouhBqIyc=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOlTSm_bi0eGpYAtcAsmMOVFdEZFhyKM02DR5id=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMfxZHD2zBXrKCPs-KaCXzI69rhVWUYh4pGGcjV=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOtkqpCjFNqldV5iiqvccJNEHYhIk9gmgsTFLv4=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOhlCMvf0YqNK2L90RGl7ixg4uXzdmqCirnJ-8C=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMC_7pZvoNAE2WTEjiciLNOwCSkvcn1evJVJ5e6=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipM8QjGUqU-H-TN-2y3HuiI-yd3UoQzqi43Q_o4P=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Nice atmosphere, I like the high ceilings and it's a buzzing place.\n\nFood was decent. I got the eggs benedict with smoked salmon and we didn't have to wait too long.\n\nOur waitress was friendly enough, but a little too fake and seemed stressed running around trying to get to every table.\n\nWashrooms are ok - equally as dark as the main room and not that tidy/modern.\n\nThey had some nice outdoor seating but it was raining so we sat inside.\n\nOverall, I'd recommend going there for a casual brunch.",
+            "reviewer_name": "Pamela Tsang",
+            "rating": 4,
+            "review_text": "Nice atmosphere, I like the high ceilings and it's a buzzing place.\n\nFood was decent. I got the eggs benedict with smoked salmon and we didn't have to wait too long.\n\nOur waitress was friendly enough, but a little too fake and seemed stressed running around trying to get to every table.\n\nWashrooms are ok - equally as dark as the main room and not that tidy/modern.\n\nThey had some nice outdoor seating but it was raining so we sat inside.\n\nOverall, I'd recommend going there for a casual brunch.",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-03T14:50:43.605000Z",
+            "response_from_owner_text": "Hello Pamela,\nThank you for the great review.\nWe look forward to welcoming you back.\nRegards \nper se Social Corner Team",
+            "response_from_owner_ago": "a month ago",
+            "response_from_owner_date": "2023-10-03T12:17:05.971000Z",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 50,
+            "total_number_of_photos_by_reviewer": 122,
+            "reviewer_url": "https://www.google.com/maps/contrib/117811553951317096729/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIbdHdEIDR7rO4lfcdHn2Yw74xBitTUmB4qVR_s7FIDdg=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPuXFko_TtMcAU_5w35ro0ZSTrcJ8yblsapXGGe=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPYwXwpZo8Opu0qIQGR2jRR1omGq0rFQBEOCRbS=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMU0JN1NW4L54chnH_Pnwy5Dwh1yzInGJoPH6la=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Recently, I had the opportunity to dine at a popular Italian restaurant. To my surprise, the menu featured pizza topped with pineapple, a choice that some might consider a departure from traditional Italian fare.\n\nI ordered a Capricciosa pizza, which came topped with a flavorful cheese. While the meal was satisfactory, it didn't quite live up to the high expectations set by the restaurant's fancy ambiance and price point.\n\nA word of advice for potential visitors: reservations are a must due to the restaurant's bustling crowd, and be prepared to vacate your table promptly after dining as lingering is discouraged.",
+            "reviewer_name": "Mohammad Moridi",
+            "rating": 4,
+            "review_text": "Recently, I had the opportunity to dine at a popular Italian restaurant. To my surprise, the menu featured pizza topped with pineapple, a choice that some might consider a departure from traditional Italian fare.\n\nI ordered a Capricciosa pizza, which came topped with a flavorful cheese. While the meal was satisfactory, it didn't quite live up to the high expectations set by the restaurant's fancy ambiance and price point.\n\nA word of advice for potential visitors: reservations are a must due to the restaurant's bustling crowd, and be prepared to vacate your table promptly after dining as lingering is discouraged.",
+            "published_at": "4 weeks ago",
+            "published_at_date": "2023-11-02T20:49:06.650000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 37,
+            "total_number_of_photos_by_reviewer": 541,
+            "reviewer_url": "https://www.google.com/maps/contrib/103770703414504147917/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVYidlnUXnNDXHTIC6EjeD7RmWV4NUdzCKYCGqnT7QPdbg=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipP1X4GGGp5CNEtstkq929FDqh002bK_s1zgULYW=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPo7dO4LEwyY2vws11LVhV88hVM_sN2nBxZB5N5=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOzgxC1wJB-WgULn3bZDFtzqpJctjV1rXduGNN7=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "The food was nice. The ambiance is fancy.\nThe service was pleasant and professional; and they communicated well with each other. The restaurant has good training and floor team is a well oiled machine. Just that the space is big, our server just passed by from time to time, it prevented us from asking about the menu and ordering more. We had to ask a busser and another server to help us after not successfully getting attention from our server. We were impressed that our server got the message perfectly and followed through with it, we didn't have to repeat ourselves or things got messed up.\n\nWe were disappointed on the drinks though. Our beer and cocktail were close to room temperature when brought to us, and they got \"warm\" very soon after that. Seemed like glasses were not chilled in advance,  and/or our drinks had been waiting on the bar for a while.",
+            "reviewer_name": "Kira N",
+            "rating": 4,
+            "review_text": "The food was nice. The ambiance is fancy.\nThe service was pleasant and professional; and they communicated well with each other. The restaurant has good training and floor team is a well oiled machine. Just that the space is big, our server just passed by from time to time, it prevented us from asking about the menu and ordering more. We had to ask a busser and another server to help us after not successfully getting attention from our server. We were impressed that our server got the message perfectly and followed through with it, we didn't have to repeat ourselves or things got messed up.\n\nWe were disappointed on the drinks though. Our beer and cocktail were close to room temperature when brought to us, and they got \"warm\" very soon after that. Seemed like glasses were not chilled in advance,  and/or our drinks had been waiting on the bar for a while.",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-28T07:38:36.749000Z",
+            "response_from_owner_text": "Ciao Kira,\n\nThank you for taking the time to leave us a review. We are glad you had a great time & your feedback will help us improve for future visits!",
+            "response_from_owner_ago": "3 months ago",
+            "response_from_owner_date": "2023-08-29T06:22:33.434000Z",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 65,
+            "total_number_of_photos_by_reviewer": 89,
+            "reviewer_url": "https://www.google.com/maps/contrib/115598093594879801377/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocK3RZEiA55-tmbUfElY3qzPyMd-HJo-4ssfpEXMIKjt=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNL3hgq81Vi9aKViDo22zRaMOFdmpH3x_mdngSY=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPKpjELmL_8qcFAdNOVhim-FcZ43m4rfeVokVrV=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNLy9o8--oad_5W3amObFpcIT0N3IWfx_l2S4Ag=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipO5G7bTXqUf_1oRZwxPqIZBW0ZnOxBPG3uwLsfs=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Cozy, classic ambiance with high ceilings and with little dark lights. We ordered truffle pizza(?), seafood paella, one appet that thinly-sliced meet comes with arugula.\n\nAll were flavoured and delicious but one downside was the bottom part of Paella was totally blacken. Thought the chefs would be pretty skilled but turned out not really.",
+            "reviewer_name": "Layla Kim",
+            "rating": 4,
+            "review_text": "Cozy, classic ambiance with high ceilings and with little dark lights. We ordered truffle pizza(?), seafood paella, one appet that thinly-sliced meet comes with arugula.\n\nAll were flavoured and delicious but one downside was the bottom part of Paella was totally blacken. Thought the chefs would be pretty skilled but turned out not really.",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-12T14:55:34.896000Z",
+            "response_from_owner_text": "Hello,\nThank you for the great feedback.\nWe look forward to welcoming you back soon.\nRegards\nper se Social Corner team\n",
+            "response_from_owner_ago": "a month ago",
+            "response_from_owner_date": "2023-10-12T18:52:48.041000Z",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 95,
+            "total_number_of_photos_by_reviewer": 180,
+            "reviewer_url": "https://www.google.com/maps/contrib/101610535722779025981/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocL0jdcyUYb9TcedhcINafpPmn0P5GpDTI7pR9Yj9oCg=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMiCgeRPhkeX31UpjrcYKLEtG6CMc9_aejUTIwf=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOgXjU-zUWZWfZebBtRXDbTvVaVUvWTduiinD66=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOqnMDH6EPxRiRYOKh7NMv-kae0FrAZzos2gowA=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Excellent food all around. The waiter had incredible recommendations. Some special drinks were their rum with sweet chili and their sangria slush. Also their specialty dessert was a nougat \"ice cream\" cake with an almond sauce reduction (similar to a caramel). Their main dishes (The Burger, Lobster Ravioli and Seafood Paella) were all spectacular.",
+            "reviewer_name": "David Low",
+            "rating": 5,
+            "review_text": "Excellent food all around. The waiter had incredible recommendations. Some special drinks were their rum with sweet chili and their sangria slush. Also their specialty dessert was a nougat \"ice cream\" cake with an almond sauce reduction (similar to a caramel). Their main dishes (The Burger, Lobster Ravioli and Seafood Paella) were all spectacular.",
+            "published_at": "5 months ago",
+            "published_at_date": "2023-06-24T04:41:25.974000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 3,
+            "total_number_of_reviews_by_reviewer": 268,
+            "total_number_of_photos_by_reviewer": 1753,
+            "reviewer_url": "https://www.google.com/maps/contrib/111864098117601702098/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXTmvcj4TWQgoBn4T8AbDh5TMEA748Q8R_YbmODfwUkzxM=s120-c-rp-mo-ba6-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPMvT3merl-Cd5a5cLnTahe2S-qAgxRa5vu48sq=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipP6sLtm9q-8MOW_x_LuJAh2ZWWchBAd4n_buN0G=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNK3j2mDTMggihpJ5nU-U62io9APFLi8omjcMKo=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipP6MD6kpye4K_T6qmEv2v01V_2aRjOvOSACdsaD=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMa81GruXYNsvnb3SMQPVY6BHfPBWsCb_0m8hd-=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMRZ-Evmi_xZ8VOLMaMiasPh2OUr8Qt-hKal2f2=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNbIX3XnZzUJs9VfgEqhyoudJzeTilYAUbSt9m5=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOqclA0khn58SuulIBXUiYwkLppxFry4WdBouaB=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "\"This is one of the best pizzas I've ever had\" was a sentence we said probably 3 times as we were eating there. We ordered the Tartufina pizza and it was DELICIOUS! It is such an interesting flavor between the honey roasted walnuts and the Gorgonzola cheese. The sweetness of the honey wasn't overpowering it just gave it a unique flavor at the end of the bite. I would 100% go back just for this pizza.\n\nThe ambiance is so cozy and elegant yet funky inside. If it wasn't too hot, the patio would be a great option too, full of plants and it seemed like a spacious comfortable space.",
+            "reviewer_name": "Katia",
+            "rating": 5,
+            "review_text": "\"This is one of the best pizzas I've ever had\" was a sentence we said probably 3 times as we were eating there. We ordered the Tartufina pizza and it was DELICIOUS! It is such an interesting flavor between the honey roasted walnuts and the Gorgonzola cheese. The sweetness of the honey wasn't overpowering it just gave it a unique flavor at the end of the bite. I would 100% go back just for this pizza.\n\nThe ambiance is so cozy and elegant yet funky inside. If it wasn't too hot, the patio would be a great option too, full of plants and it seemed like a spacious comfortable space.",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-16T02:17:50.858000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 3,
+            "total_number_of_reviews_by_reviewer": 76,
+            "total_number_of_photos_by_reviewer": 424,
+            "reviewer_url": "https://www.google.com/maps/contrib/118217688182822619141/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocL2SZVnIBHYlf0WThe29qGz5nM6EUgKkCJ5W5MitpwUCEg=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNDcf9R9u0OovqS6Q_jW54wc13-6hRQc3M4FptJ=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNO0ynlU5ZlT2BseF-gBuOhpgFRBKAaR7yUDesV=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNXw-wvSTU72Hybq1GpZo7DSjOpS7WqPxhDflzW=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipObluo_pfHqfRDAUb6Rq8jm6xM_CJIOSc_kUY1W=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipP3O0fF0jMWnI5fMkZPYtlWthvGn58ReY9keSeN=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipN3yTFRTeqImw7HqV__NJZqi7k7Om8haGN-NOVI=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Everything we order was so good! Especially the tomato sauce in the lobster ravioli! Skinless red pepper cube with rose tomato sauce. Give it a try! Paella is good portion! We were sitting outside on the patio. I would definitely go back for sure! 2 people including cocktails, after tips is around $200.",
+            "reviewer_name": "Vanessa Yang",
+            "rating": 5,
+            "review_text": "Everything we order was so good! Especially the tomato sauce in the lobster ravioli! Skinless red pepper cube with rose tomato sauce. Give it a try! Paella is good portion! We were sitting outside on the patio. I would definitely go back for sure! 2 people including cocktails, after tips is around $200.",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-09T04:27:35.334000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 9,
+            "reviewer_url": "https://www.google.com/maps/contrib/102224901865107384922/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWrhDnaPROtpz6939Nf_35159VjRtF4DVGzXPzL1HRKNNnz=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMJ0EM6WXK-r2Fb4EYY3w40fs7M8nTOa-CzVMQ7=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNHV-9Xlj3B0Tub5QC5RWHx929JAmP22ca3eysV=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMdJYcWcOdagQHdZsL7eeCVLi5DRf02pEXyZmyC=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPoCPfba2t5KuKgnQVkuqBPbIRNV5VTv7PCyut7=w150-h150-k-no-p"
+            ]
+        }
+    ],
+    "is_spending_on_ads": false
+}

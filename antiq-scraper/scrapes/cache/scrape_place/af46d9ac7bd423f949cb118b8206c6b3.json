@@ -1,0 +1,575 @@
+{
+    "place_id": "ChIJf-jSlfFzhlQRTOfOah418is",
+    "name": "Burger Crush",
+    "description": null,
+    "reviews": 514,
+    "website": "https://burgercrush.ca/",
+    "owner": {
+        "id": "104293152347113557276",
+        "name": "Burger Crush (Owner)",
+        "link": "https://www.google.com/maps/contrib/104293152347113557276"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP1DfYAiLMaCcNI3sIalER0gE64jGwv2mfNvlGo=w408-h544-k-no",
+    "main_category": "Hamburger restaurant",
+    "categories": [
+        "Hamburger restaurant"
+    ],
+    "rating": 4.4,
+    "workday_timing": "11 a.m.-10 p.m.",
+    "closed_on": [],
+    "phone": "(604) 416-5169",
+    "address": "Burger Crush, 755 Nelson St, Vancouver, BC V6Z 1V3",
+    "review_keywords": [
+        {
+            "keyword": "milkshake",
+            "count": 81
+        },
+        {
+            "keyword": "cheeseburger",
+            "count": 57
+        },
+        {
+            "keyword": "vegan",
+            "count": 45
+        },
+        {
+            "keyword": "burger and fries",
+            "count": 15
+        },
+        {
+            "keyword": "nuggets",
+            "count": 10
+        },
+        {
+            "keyword": "strawberry shake",
+            "count": 8
+        },
+        {
+            "keyword": "root beer",
+            "count": 8
+        },
+        {
+            "keyword": "the menu",
+            "count": 6
+        },
+        {
+            "keyword": "tofu",
+            "count": 5
+        },
+        {
+            "keyword": "gluten free bun",
+            "count": 5
+        }
+    ],
+    "link": "https://www.google.com/maps/place/Burger+Crush/data=!4m7!3m6!1s0x548673f195d2e87f:0x2bf2351e6acee74c!8m2!3d49.2797631!4d-123.1234938!16s%2Fg%2F11jzh7f17l!19sChIJf-jSlfFzhlQRTOfOah418is?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 11 a.m.",
+    "price_range": "$$",
+    "reviews_per_rating": {
+        "1": 14,
+        "2": 19,
+        "3": 43,
+        "4": 90,
+        "5": 348
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJf-jSlfFzhlQRTOfOah418is&q=Burger+Crush&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.2797631,
+        "longitude": -123.12349379999999
+    },
+    "plus_code": "7VHG+WJ Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "Downtown Vancouver",
+        "street": "755 Nelson St",
+        "city": "Vancouver",
+        "postal_code": "V6Z 1V3",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "3166651892752115532",
+    "data_id": "0x548673f195d2e87f:0x2bf2351e6acee74c",
+    "menu": {
+        "link": "https://order.tbdine.com/pickup/44770",
+        "source": "order.tbdine.com"
+    },
+    "reservations": [],
+    "order_online_links": [
+        {
+            "link": "https://www.skipthedishes.com/burger-crush-nelson?serviceType=delivery&utm_source=google&utm_medium=organic&utm_campaign=gpav2",
+            "source": "skipthedishes.com"
+        },
+        {
+            "link": "https://www.doordash.com/store/burger-crush-vancouver-24878359/?utm_campaign=gpa",
+            "source": "doordash.com"
+        },
+        {
+            "link": "https://www.ubereats.com/ca/store/burger-crush/WXuQm1TSWk-D0uDiB7ji_w?utm_campaign=place-action-link&utm_medium=organic&utm_source=google",
+            "source": "ubereats.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Takeout",
+                    "enabled": true
+                },
+                {
+                    "name": "Dine-in",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair accessible seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Alcohol",
+                    "enabled": true
+                },
+                {
+                    "name": "Beer",
+                    "enabled": true
+                },
+                {
+                    "name": "Late-night food",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Dining options",
+            "options": [
+                {
+                    "name": "Lunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Dinner",
+                    "enabled": true
+                },
+                {
+                    "name": "Dessert",
+                    "enabled": true
+                },
+                {
+                    "name": "Seating",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosphere",
+            "options": [
+                {
+                    "name": "Casual",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "crowd",
+            "name": "Crowd",
+            "options": [
+                {
+                    "name": "Groups",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planning",
+            "options": [
+                {
+                    "name": "Accepts reservations",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "children",
+            "name": "Children",
+            "options": [
+                {
+                    "name": "Good for kids",
+                    "enabled": true
+                },
+                {
+                    "name": "High chairs",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "parking",
+            "name": "Parking",
+            "options": [
+                {
+                    "name": "Paid street parking",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipP1DfYAiLMaCcNI3sIalER0gE64jGwv2mfNvlGo=w224-h298-k-no"
+        },
+        {
+            "about": "Latest",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOMkvOxgld2ztBb6rpxY5KR7hW6CGlA_6mwly_X=w224-h298-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNrR8ZDEBlDLMXQca-mhBKgfkZgd_kH2o0pUnM6=w224-h398-k-no"
+        },
+        {
+            "about": "Menu",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipP9zdoflcZV1yfLO4FLDN9hojtmNq4E4u9PQU1L=w397-h298-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMVPjYpbwXKFcjbzf8F3-Bwwx7xgUOLe1ze0Kvm=w397-h298-k-no"
+        },
+        {
+            "about": "Vibe",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPs27YNYykhcFnqTzrPD1Fd1VsCwEEx-3ZOk5DA=w224-h298-k-no"
+        },
+        {
+            "about": "Take-out",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipM1SiU6ORkBEeywDDJTwl5zfDZ_n3FnQOZSnU1i=w529-h298-k-no"
+        },
+        {
+            "about": "Cheeseburger",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPSWLUrdbxih39U2Z5U6BimRTOgbi3VnDZm9EFO=w387-h298-k-no"
+        },
+        {
+            "about": "Poutine",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOnTWCUx94Pi847inKg000QC5tynTOEWA-U2Q6z=w397-h298-k-no"
+        },
+        {
+            "about": "Milk tea",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPCPEHcrLkcpWRRI3cDs_mSn4bVIvdVo-L1FGtB=w224-h298-k-no"
+        },
+        {
+            "about": "Hamburger",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPB3pTQu4VdkXQOQDvgleMetdROjLjvM6mgjpeX=w224-h298-k-no"
+        },
+        {
+            "about": "French fries",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOktV31ADZKE1ZIg2MHlCNjE9YwvYp06GMQajmF=w224-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMM8Ev6kMZ0PPF4JyEy31ie0PRNkcLY-u9WCQM-=w397-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=xrnXejt3J539wI_VlhRf_Q&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=3.714371&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "11 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "11 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "11 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "11 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "11 a.m.-11 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "11 a.m.-11 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "11 a.m.-10 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "I recently found this place by a friend, and I am so glad. I've been there two times already, and I've been loving it. So happy that they have thought about dietary restrictions. From how good their plant based patty is, it really shows that they cared. My burger had everything I'd like to have on my burger. I really enjoyed the crush fries and tofu nuggets too! Will go back for sure. It'd be lovely if they bring some sour beers too!!",
+            "reviewer_name": "Parm Poustchi",
+            "rating": 5,
+            "review_text": "I recently found this place by a friend, and I am so glad. I've been there two times already, and I've been loving it. So happy that they have thought about dietary restrictions. From how good their plant based patty is, it really shows that they cared. My burger had everything I'd like to have on my burger. I really enjoyed the crush fries and tofu nuggets too! Will go back for sure. It'd be lovely if they bring some sour beers too!!",
+            "published_at": "3 weeks ago",
+            "published_at_date": "2023-11-08T08:27:07.861000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 51,
+            "total_number_of_photos_by_reviewer": 167,
+            "reviewer_url": "https://www.google.com/maps/contrib/107638010082931363838/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXlFt0pnAHMo05cRbOebnX5WlkfccL6DvvtgcGDSoNym6Px=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMVfxmedrOoPHwlpdTDvtmwUN0i4yb1Bhx6ZVH-=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNqs2byaoptIJEHCKhn6Ypded2KlYZsnJE73uE4=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipO5oSs4izr9qFjnHz3Bi5uxYkYSQaq3BNr2eUgc=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNGyj9pd-_dAiOKCkCp3nWiDVlyhpo9ALS-NAwj=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOG6hz3L0rUrb7vnQeVhbw48B2JCZGCGsdboOez=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipODqH7D_Ay-9YHa2KQEwReYZC4a22mRvMcQ_qzQ=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Very enjoyable burger, reminds me a lot of in n out. Smash patty style with soft brioche bun. Patty and sauce could use more flavour. Also got the crush fries which were quite good and similar to animal style fries. Would recommend.",
+            "reviewer_name": "Feeds For Three",
+            "rating": 4,
+            "review_text": "Very enjoyable burger, reminds me a lot of in n out. Smash patty style with soft brioche bun. Patty and sauce could use more flavour. Also got the crush fries which were quite good and similar to animal style fries. Would recommend.",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-22T02:55:24.401000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 179,
+            "total_number_of_photos_by_reviewer": 393,
+            "reviewer_url": "https://www.google.com/maps/contrib/102911814034515425250/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW48HLHvYwpD1MepvmMH-5CuUI8OPs4p_87mBO4tdEEoA=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPH-VQ-A8DTSEcHqwRFvFFME7drpkXCGXSXI8hs=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPSTk4qQN7r0RGw18kSbkAaG9ykZgMoKF-0qIfM=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Quality veggie burger joint in downtown! Walking into the restaurant, it's an order and pay before eating like a fast food joint. Very clean inside, ambiance is very comforting and the staff was friendly. The person at the till was super helpful with recommendations and I went with all his recommendations.\n\nWhat I ordered:\n* Veggie style Cheese Burger, Single patty (Recommend) $11.50\n* Combo: Fries and a Orange Milkshake (Recommend) $11\n\nThis veggie burger hit all the spots for flavour, their in house sauce laying under fresh tasty veggies and the veggie patty was satisfying, slightly crispy but not greasy in a brioche bun. Highly recommend, the burger was super filling so warning the fries were very tasty as well but it was quite a lot! They fresh cut their fries thin like McDonald's but tastes so much better, crispy, thin and not as greasy. To top off my order I wanted to try their milkshakes. Staff had reco the orange milkshake and what a pleasant surprised that turned out to be! Reminds me of a cream soda orange pop but in a creamy milkshake version! Overall everything was super tasty, I'd recommend taking your order to go if you're making it a combo but the burger itself was good enough. I'd come back to try their vegan burger with the vegan bun. A little pricey here but tastes like fresh ingredients and quality ingredients, so worth the $27 bill with tip.",
+            "reviewer_name": "aliz arandela",
+            "rating": 5,
+            "review_text": "Quality veggie burger joint in downtown! Walking into the restaurant, it's an order and pay before eating like a fast food joint. Very clean inside, ambiance is very comforting and the staff was friendly. The person at the till was super helpful with recommendations and I went with all his recommendations.\n\nWhat I ordered:\n* Veggie style Cheese Burger, Single patty (Recommend) $11.50\n* Combo: Fries and a Orange Milkshake (Recommend) $11\n\nThis veggie burger hit all the spots for flavour, their in house sauce laying under fresh tasty veggies and the veggie patty was satisfying, slightly crispy but not greasy in a brioche bun. Highly recommend, the burger was super filling so warning the fries were very tasty as well but it was quite a lot! They fresh cut their fries thin like McDonald's but tastes so much better, crispy, thin and not as greasy. To top off my order I wanted to try their milkshakes. Staff had reco the orange milkshake and what a pleasant surprised that turned out to be! Reminds me of a cream soda orange pop but in a creamy milkshake version! Overall everything was super tasty, I'd recommend taking your order to go if you're making it a combo but the burger itself was good enough. I'd come back to try their vegan burger with the vegan bun. A little pricey here but tastes like fresh ingredients and quality ingredients, so worth the $27 bill with tip.",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-18T20:14:11.402000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 28,
+            "total_number_of_photos_by_reviewer": 51,
+            "reviewer_url": "https://www.google.com/maps/contrib/112861323381385488999/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjU3kcZsudj25LSClYaNpudod96hDfhoCz5UUFpdlZfMjy1Z=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOOCe4B0ULya9fvstphbv6u463yF9IfbB1QkmUX=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Loved our messy, flavorful burgers and shakes. Skip the crush fries (they look better than they taste) they were a messy side with too much sauteed onion.\n\nI'd recommend one order of fries for two people with a side of the crush sauce to dip. The milkshakes were good. Loved the rootbeer flavor.",
+            "reviewer_name": "Julie Mellick",
+            "rating": 5,
+            "review_text": "Loved our messy, flavorful burgers and shakes. Skip the crush fries (they look better than they taste) they were a messy side with too much sauteed onion.\n\nI'd recommend one order of fries for two people with a side of the crush sauce to dip. The milkshakes were good. Loved the rootbeer flavor.",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-04T15:21:17.159000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 17,
+            "total_number_of_photos_by_reviewer": 5,
+            "reviewer_url": "https://www.google.com/maps/contrib/103277142290829465790/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocL19PqnMhTtzG8-poZOQTUexePBnkIjvIKqLkBGHRoy=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNXOWrGjTsp9kXubS2dajeG4kTodiLoX9z5uDl7=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNEo7puPHS2CJVj8fvRBDwGVWpXijG-fFu4dBTu=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Don't want to overhype this place but I left perfectly satisfied.  It had everything I look for in a burger - and I really enjoyed their crush sauce.  It was nice to have something familiar done in a way that felt unique.  I'll definitely come again!",
+            "reviewer_name": "Jumpbrick (A Lupu)",
+            "rating": 5,
+            "review_text": "Don't want to overhype this place but I left perfectly satisfied.  It had everything I look for in a burger - and I really enjoyed their crush sauce.  It was nice to have something familiar done in a way that felt unique.  I'll definitely come again!",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-13T03:07:20.125000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 3,
+            "total_number_of_reviews_by_reviewer": 9,
+            "total_number_of_photos_by_reviewer": 3,
+            "reviewer_url": "https://www.google.com/maps/contrib/112077500977749313681/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWJ78Mwr8CaCjvoIGyJJOlftCUyZsVF05grjI2VF6m-k3g=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipN3m6oQO83BAam9TDnhik1C-6Lgb3enIeEDAjXJ=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "I like to try new places for burgers, smash burgers are my new fave. Keep hearing of this place. So decided to check it out. Overall a pretty decent burger. I did like the fries. Maybe i should have got a milk shake. Although the burger was decent, it didn't reach a standard such as a in and out or shake Shack! Just saying. But I i did love the fries. Crispy and thinly sliced. Good with your burger.",
+            "reviewer_name": "John S. Mai",
+            "rating": 4,
+            "review_text": "I like to try new places for burgers, smash burgers are my new fave. Keep hearing of this place. So decided to check it out. Overall a pretty decent burger. I did like the fries. Maybe i should have got a milk shake. Although the burger was decent, it didn't reach a standard such as a in and out or shake Shack! Just saying. But I i did love the fries. Crispy and thinly sliced. Good with your burger.",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-05T05:01:34.517000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 152,
+            "total_number_of_photos_by_reviewer": 496,
+            "reviewer_url": "https://www.google.com/maps/contrib/108531033833555845198/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXQzydox3zycqb-mDe_6ypBn2LinLq_SBC7BSOd4zk1JUmT=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNfsrHQ14mAtTsU6IIbLJCCkwUbYFwPJ63FuDz5=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMKwYjBAyF-Hi6-x4kKfmAKaZMgKbE2KN9NT9Cp=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOLtnJxNVU4mOlBIp48OyPDkcDB0SL91s69ISQB=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOaq4BgyAdsL3x83uaoI3juc_LL3sDt0z5dY9p2=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "*June 2023* this is us truly a finger licking good mess in and around your mouth. Tried the vegan cheese burger and the beef cheeseburger. I was surprised at just how amazing they both were. The vegan one is easily the best vegan burger in town. The cheesy fries were also really good. Won't be long till I come back again.",
+            "reviewer_name": "Steven Theodore Windsor",
+            "rating": 5,
+            "review_text": "*June 2023* this is us truly a finger licking good mess in and around your mouth. Tried the vegan cheese burger and the beef cheeseburger. I was surprised at just how amazing they both were. The vegan one is easily the best vegan burger in town. The cheesy fries were also really good. Won't be long till I come back again.",
+            "published_at": "5 months ago",
+            "published_at_date": "2023-06-07T00:13:24.852000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 100,
+            "total_number_of_photos_by_reviewer": 587,
+            "reviewer_url": "https://www.google.com/maps/contrib/112014079360094087798/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVtsXUo71PnnfjHEV3N2HS_jwUAXCLlJbRxWIl6lhTi1qk=s120-c-rp-mo-ba6-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOftafpsz32eVak0wMPiIT8Zanm6Bzkwc93RDFs=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNgzCPQFhV1NlJC21lO3PxJH2sOaR1Nrz4IIYDo=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipML_KzBmnhYbeoAW9XfvjH2BQwIUC390cRt0_Ck=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOHPqbUsDaaEILG8Yn9Ea9JMto67hzzKXohPanm=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOMn1o8Ufxao1ZnZHv-_MFsSQOQ4ETx1brEk6sV=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOYzjb4Hix4Kb_VLZ68DLhgVyS4aJOnjGBDBxPv=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMTYo1R8exTzrHj3nakUlcBhE-wi57no4ZWOSdW=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMWbdqSGB0NwnrS81zDxBUnuJ4L9fUaC2QX9pHm=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMCnukDUBWCkgYwmRQh5L2CafxBfl1vdaJODOXV=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOnTWCUx94Pi847inKg000QC5tynTOEWA-U2Q6z=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMA07uSKZ9hoXEiwgDiWDPMK2e9WUTa05qSy_e_=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Super pricey for something that is just covered in a cheap cheese sauce. The first few bites of the burger and poutine are great, and then the cheese sauce just gets to be too much. For the price I paid, it's not worth it. I would suggest going to Juicy Joe's over Burger Crush.",
+            "reviewer_name": "Gurv",
+            "rating": 3,
+            "review_text": "Super pricey for something that is just covered in a cheap cheese sauce. The first few bites of the burger and poutine are great, and then the cheese sauce just gets to be too much. For the price I paid, it's not worth it. I would suggest going to Juicy Joe's over Burger Crush.",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-09T20:57:01.744000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 450,
+            "total_number_of_photos_by_reviewer": 2933,
+            "reviewer_url": "https://www.google.com/maps/contrib/115037908330074251508/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUtrq2SY-CnVixKkqwStkNiee3ynKqc4Jn3lMTGiZZE9no=s120-c-rp-mo-ba6-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMSsm_P65JPsuiq9ykgbrFIXywJpsWOR75ONRR_=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOYgKYfWRB8KRaJvWbTC2AWnm3wD5pjARr5AcrU=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMQhRMUwKP9K61YksAGEFiQGujRTXvdoZf2dwoM=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOdCdYCOS9FedAdZjteU9kRJVIUhgHXoFbiad34=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPLVXIo-GI8NXp3C5tMoPeSsHnyhtvferIXkMjP=w150-h150-k-no-p"
+            ]
+        }
+    ],
+    "is_spending_on_ads": false
+}

@@ -14,7 +14,6 @@ import Typography from '@mui/material/Typography';
 import { RouterLink } from 'src/src2/components/router-link';
 import { paths } from 'src/src2/paths';
 import { getInitials } from 'src/src2/utils/get-initials';
-
 import { CompanyJobs } from './company-jobs';
 
 export const CompanyCard = (props) => {
@@ -34,7 +33,7 @@ export const CompanyCard = (props) => {
           <Avatar
             component={RouterLink}
             href={paths.dashboard.jobs.companies.details}
-            src={company.logo}
+            // src={company.logo}
             variant="rounded"
           >
             {getInitials(company.name)}

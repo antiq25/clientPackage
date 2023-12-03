@@ -2,7 +2,7 @@
     "place_id": "ChIJQ13qC4hxhlQR1fbnIdZ41WE",
     "name": "McDonald's",
     "description": "Classic, long-running fast-food chain known for its burgers & fries.",
-    "reviews": 807,
+    "reviews": 809,
     "website": "https://www.mcdonalds.com/ca/en-ca/restaurant-locator.html%3Fy_source%3D1_MTQ1MjAzMTctNzE1LWxvY2F0aW9uLndlYnNpdGU%253D",
     "owner": {
         "id": "114759455871579506157",
@@ -70,10 +70,10 @@
     "status": "Open 24 hours",
     "price_range": "$",
     "reviews_per_rating": {
-        "1": 134,
+        "1": 135,
         "2": 67,
         "3": 182,
-        "4": 167,
+        "4": 168,
         "5": 257
     },
     "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJQ13qC4hxhlQR1fbnIdZ41WE&q=McDonald%27s&authuser=0&hl=en&gl=CA",
@@ -338,12 +338,6 @@
     ],
     "hours": [
         {
-            "day": "Sunday",
-            "times": [
-                "Open 24 hours"
-            ]
-        },
-        {
             "day": "Monday",
             "times": [
                 "Open 24 hours"
@@ -378,6 +372,12 @@
             "times": [
                 "Open 24 hours"
             ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "Open 24 hours"
+            ]
         }
     ],
     "featured_reviews": [
@@ -386,7 +386,7 @@
             "reviewer_name": "Avishek Dutta",
             "rating": 3,
             "review_text": "The food and drinks are as per standard but the atmosphere is not up to the mark - not clean. The positive point is you can sit as long as you want.",
-            "published_at": "a month ago",
+            "published_at": "2 months ago",
             "published_at_date": "2023-09-28T19:12:47.120000Z",
             "response_from_owner_text": null,
             "response_from_owner_ago": null,
@@ -412,8 +412,8 @@
             "response_from_owner_ago": null,
             "response_from_owner_date": null,
             "review_likes_count": 0,
-            "total_number_of_reviews_by_reviewer": 59,
-            "total_number_of_photos_by_reviewer": 231,
+            "total_number_of_reviews_by_reviewer": 61,
+            "total_number_of_photos_by_reviewer": 235,
             "reviewer_url": "https://www.google.com/maps/contrib/112071287960598183867/reviews?entry=ttu",
             "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKdw0UjzYNsLvxLDgnH-65VnMHJQEQVTUIRjfmErpEe=s120-c-rp-mo-ba4-br100",
             "is_local_guide": true,
@@ -457,8 +457,8 @@
             "response_from_owner_ago": null,
             "response_from_owner_date": null,
             "review_likes_count": 4,
-            "total_number_of_reviews_by_reviewer": 38,
-            "total_number_of_photos_by_reviewer": 27,
+            "total_number_of_reviews_by_reviewer": 39,
+            "total_number_of_photos_by_reviewer": 28,
             "reviewer_url": "https://www.google.com/maps/contrib/108507852193989444697/reviews?entry=ttu",
             "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocL6Bt1icofHV8T1xUKskap_LpSUY01X26sMRLYnhH13=s120-c-rp-mo-br100",
             "is_local_guide": false,
@@ -504,7 +504,7 @@
             "response_from_owner_ago": null,
             "response_from_owner_date": null,
             "review_likes_count": 0,
-            "total_number_of_reviews_by_reviewer": 90,
+            "total_number_of_reviews_by_reviewer": 91,
             "total_number_of_photos_by_reviewer": 15,
             "reviewer_url": "https://www.google.com/maps/contrib/110522377628187026566/reviews?entry=ttu",
             "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXXPsp4PcEKTe9DNXSnpSEvtmDt4oP7p7ftQY5nqdHz_ZU=s120-c-rp-mo-ba4-br100",
@@ -518,7 +518,7 @@
             "reviewer_name": "Abs Yusuf",
             "rating": 5,
             "review_text": "Had a good experience here. Visited here with my family and Leoni was super helpful and kind, the kind of service one takes time from a busy vacation trip to Vancouver to give a Google review. Cheers,",
-            "published_at": "3 months ago",
+            "published_at": "4 months ago",
             "published_at_date": "2023-07-27T15:46:20.106000Z",
             "response_from_owner_text": null,
             "response_from_owner_ago": null,

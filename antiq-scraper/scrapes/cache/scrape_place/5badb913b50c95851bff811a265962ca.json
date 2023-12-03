@@ -1,0 +1,632 @@
+{
+    "place_id": "ChIJ_8nOLhdxhlQRGl8tonRkLPY",
+    "name": "The Greek Gastown",
+    "description": null,
+    "reviews": 597,
+    "website": "https://thegreekbyanatoli.com/location-gastown/",
+    "owner": {
+        "id": "106163180143181590065",
+        "name": "The Greek Gastown (Owner)",
+        "link": "https://www.google.com/maps/contrib/106163180143181590065"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOiiw-Vhoy5dP3aNB7Gv4VlzRxMezJqcsqSQymk=w408-h270-k-no",
+    "main_category": "Greek restaurant",
+    "categories": [
+        "Greek restaurant"
+    ],
+    "rating": 4.3,
+    "workday_timing": "11:30 a.m.-10 p.m.",
+    "closed_on": [],
+    "phone": "(604) 423-3360",
+    "address": "The Greek Gastown, 221 Carrall St, Vancouver, BC V6B 2J2",
+    "review_keywords": [
+        {
+            "keyword": "happy hour",
+            "count": 32
+        },
+        {
+            "keyword": "server",
+            "count": 15
+        },
+        {
+            "keyword": "skewers",
+            "count": 13
+        },
+        {
+            "keyword": "patio",
+            "count": 11
+        },
+        {
+            "keyword": "birthday",
+            "count": 11
+        },
+        {
+            "keyword": "spanakopita",
+            "count": 10
+        },
+        {
+            "keyword": "bartender",
+            "count": 7
+        },
+        {
+            "keyword": "dj",
+            "count": 6
+        },
+        {
+            "keyword": "souvlaki platter",
+            "count": 6
+        },
+        {
+            "keyword": "sangria",
+            "count": 6
+        }
+    ],
+    "link": "https://www.google.com/maps/place/The+Greek+Gastown/data=!4m7!3m6!1s0x548671172ecec9ff:0xf62c6474a22d5f1a!8m2!3d49.283054!4d-123.1044495!16s%2Fg%2F11fjt_1d51!19sChIJ_8nOLhdxhlQRGl8tonRkLPY?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 11:30 a.m.",
+    "price_range": "$$",
+    "reviews_per_rating": {
+        "1": 35,
+        "2": 29,
+        "3": 48,
+        "4": 93,
+        "5": 392
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ_8nOLhdxhlQRGl8tonRkLPY&q=The+Greek+Gastown&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.283054,
+        "longitude": -123.1044495
+    },
+    "plus_code": "7VMW+66 Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "Downtown Vancouver",
+        "street": "221 Carrall St",
+        "city": "Vancouver",
+        "postal_code": "V6B 2J2",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "17738663484405407514",
+    "data_id": "0x548671172ecec9ff:0xf62c6474a22d5f1a",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [
+        {
+            "link": "https://www.opentable.ca/restaurant/profile/1036498%3Fref%3D16423",
+            "source": "opentable.ca"
+        }
+    ],
+    "order_online_links": [
+        {
+            "link": "https://www.foodora.ca/zh/restaurant/t0rp/the-greek-gastown?utm_source=google&utm_medium=organic&utm_campaign=google_place_order_action",
+            "source": "foodora.ca"
+        },
+        {
+            "link": "https://www.doordash.com/store/the-greek-by-anatoli-vancouver-529994/?utm_campaign=gpa",
+            "source": "doordash.com"
+        },
+        {
+            "link": "https://www.ubereats.com/ca/store/the-greek-gastown/PTHziqgDTVWobs228Hfuww?utm_campaign=place-action-link&utm_medium=organic&utm_source=google",
+            "source": "ubereats.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Outdoor seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Takeout",
+                    "enabled": true
+                },
+                {
+                    "name": "Dine-in",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair accessible seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Alcohol",
+                    "enabled": true
+                },
+                {
+                    "name": "Beer",
+                    "enabled": true
+                },
+                {
+                    "name": "Cocktails",
+                    "enabled": true
+                },
+                {
+                    "name": "Coffee",
+                    "enabled": true
+                },
+                {
+                    "name": "Hard liquor",
+                    "enabled": true
+                },
+                {
+                    "name": "Healthy options",
+                    "enabled": true
+                },
+                {
+                    "name": "Late-night food",
+                    "enabled": true
+                },
+                {
+                    "name": "Small plates",
+                    "enabled": true
+                },
+                {
+                    "name": "Vegetarian options",
+                    "enabled": true
+                },
+                {
+                    "name": "Wine",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Dining options",
+            "options": [
+                {
+                    "name": "Lunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Dinner",
+                    "enabled": true
+                },
+                {
+                    "name": "Dessert",
+                    "enabled": true
+                },
+                {
+                    "name": "Seating",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Bar on-site",
+                    "enabled": true
+                },
+                {
+                    "name": "Dogs allowed",
+                    "enabled": true
+                },
+                {
+                    "name": "Gender-neutral washroom",
+                    "enabled": true
+                },
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                },
+                {
+                    "name": "Wi-Fi",
+                    "enabled": true
+                },
+                {
+                    "name": "Wi-Fi",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosphere",
+            "options": [
+                {
+                    "name": "Casual",
+                    "enabled": true
+                },
+                {
+                    "name": "Cozy",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "crowd",
+            "name": "Crowd",
+            "options": [
+                {
+                    "name": "Family-friendly",
+                    "enabled": true
+                },
+                {
+                    "name": "Groups",
+                    "enabled": true
+                },
+                {
+                    "name": "LGBTQ+ friendly",
+                    "enabled": true
+                },
+                {
+                    "name": "Transgender safe space",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planning",
+            "options": [
+                {
+                    "name": "Accepts reservations",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "children",
+            "name": "Children",
+            "options": [
+                {
+                    "name": "Good for kids",
+                    "enabled": true
+                },
+                {
+                    "name": "High chairs",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOiiw-Vhoy5dP3aNB7Gv4VlzRxMezJqcsqSQymk=w449-h298-k-no"
+        },
+        {
+            "about": "Latest",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMsurY8WVEu-QnHdfBNg8ADOejgzbC5h_BSndOo=w397-h298-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMesqIKnT6YZb_otUbrwC-NlFP97y-ncjDzOhm2=w224-h398-k-no"
+        },
+        {
+            "about": "Menu",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMCPtAwYOHjg7PNCuo4DSnJWyNxA1TKHod86rM=w224-h298-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOQe-Aq104GMPbP01kGksZbPp_ncm_1DKIRM2oG=w529-h298-k-no"
+        },
+        {
+            "about": "Vibe",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipO_bD574KG7IXJs5gQ9jjVEkMGu51IkUKAM3YDH=w397-h298-k-no"
+        },
+        {
+            "about": "Souvlaki",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMk5pH72_7Uqka914m4b4NCRfUyUR3T7FEpu1de=w224-h298-k-no"
+        },
+        {
+            "about": "Greek salad",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMszrSLHIKqaYxJJMVb-4ZywqVeK-luXUXlaFHG=w224-h398-k-no"
+        },
+        {
+            "about": "Sangria",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNkcQGAtTDVK-f1gnwhtj42rWPRY1rJmMzJK2US=w224-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNIUCziIfdGnICdNkR8DjxTaa1HqmJ4pXNw9V4V=w447-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=UV3OWLwoOoqnJvzpu1ddpw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=291.87277&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "11:30 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "11:30 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "11:30 a.m.-11 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "11:30 a.m.-11 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "11:30 a.m.-12 a.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "1 p.m.-12 a.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "1-10 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "So nearly 5 stars! My friend recommended The Greek for excellent Greek food and it did not disappoint. Flavours were impeccable, everything was done really nicely. We had the souvlaki platter, dip taster and moussaka.\n\nI took half a star away for the music being slightly too loud for good conversation (especially beneath the speakers), and another half star for our server (tall, brunette lady with tattoos) not being the best. Don't get me wrong, she did not do anything wrong per se but also did not make us feel particularly welcomed or treated warmly. Not sure if it was because we weren't drinking. She was... just doing her job and it was clear from the way she came across.\n\nI would come again for the food!",
+            "reviewer_name": "Alicia W.",
+            "rating": 4,
+            "review_text": "So nearly 5 stars! My friend recommended The Greek for excellent Greek food and it did not disappoint. Flavours were impeccable, everything was done really nicely. We had the souvlaki platter, dip taster and moussaka.\n\nI took half a star away for the music being slightly too loud for good conversation (especially beneath the speakers), and another half star for our server (tall, brunette lady with tattoos) not being the best. Don't get me wrong, she did not do anything wrong per se but also did not make us feel particularly welcomed or treated warmly. Not sure if it was because we weren't drinking. She was... just doing her job and it was clear from the way she came across.\n\nI would come again for the food!",
+            "published_at": "2 weeks ago",
+            "published_at_date": "2023-11-16T07:04:07.084000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 31,
+            "total_number_of_photos_by_reviewer": 25,
+            "reviewer_url": "https://www.google.com/maps/contrib/111027355565021604726/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocL9wVru_mWecn0J0beuUm40sSn1td5DV-BtliD-kGlCsg=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMsurY8WVEu-QnHdfBNg8ADOejgzbC5h_BSndOo=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipM34Vn1Pk2dwuxQvFz7X6S572RE611pVfwwX6-z=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPRP2r1cjyB4BHtsmT-TU8sCi1u04DW0--tlGyh=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "The Greek gas town was amazing!! We had excellent service by Adam. The happy hour is from 2pm - 5pm everyday with lots of drinks and food options. We ordered a Greek feta salad, pork souvlaki, lamb souvlaki skewers and the platter for 2 in which we got chicken skewers, pork skewers and tiger shrimp. I highly recommend checking this place out as it has many options and it's located in a great area. Will surely be back to try the other options.",
+            "reviewer_name": "Jeremiah Dias",
+            "rating": 5,
+            "review_text": "The Greek gas town was amazing!! We had excellent service by Adam. The happy hour is from 2pm - 5pm everyday with lots of drinks and food options. We ordered a Greek feta salad, pork souvlaki, lamb souvlaki skewers and the platter for 2 in which we got chicken skewers, pork skewers and tiger shrimp. I highly recommend checking this place out as it has many options and it's located in a great area. Will surely be back to try the other options.",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-18T23:31:25.353000Z",
+            "response_from_owner_text": "Hi Jeremiah,\n\nThank you so much for this incredible review. We are so happy to hear that you enjoyed our Happy Hour and that Adam made sure you had such a great time! We hope you come back soon!\n\n- The Greek Gastown Team",
+            "response_from_owner_ago": "2 months ago",
+            "response_from_owner_date": "2023-09-04T23:43:15.764000Z",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 60,
+            "total_number_of_photos_by_reviewer": 524,
+            "reviewer_url": "https://www.google.com/maps/contrib/103502121564220497454/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJtN88Rz27oQg8oQErnoHMn_GEFLEGdkgD7ONnXB6LV=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOuWsL8Yq3zoNX-_rx87iVBRMijzqGn-FaB14Jd=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNLTsEMskJJdyZkVVKxX7XGe-tWhJcEuNzLwzaD=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPW7-W0Pckn1IQjHO7YlTYJ70xE6qOMsvXQIUvO=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMu4J1B2nUuF2H62ny6wdhhkoohenQd6H-XiPVV=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMszrSLHIKqaYxJJMVb-4ZywqVeK-luXUXlaFHG=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOnAClL6Zswfx8b6k-O8dT6w8gMnHo7GCXuDm_W=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipP0KTBTnHAU0vQ1sf_QU2OHMSn2aaNIXMp2jMsC=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOQe-Aq104GMPbP01kGksZbPp_ncm_1DKIRM2oG=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "The food was delicious, the server was attentive and did make some nice suggestions but didn't check on us again after dropping off our food until we were ready for the bill. It was overall a very nice experience with very good food.",
+            "reviewer_name": "Gail H",
+            "rating": 5,
+            "review_text": "The food was delicious, the server was attentive and did make some nice suggestions but didn't check on us again after dropping off our food until we were ready for the bill. It was overall a very nice experience with very good food.",
+            "published_at": "3 weeks ago",
+            "published_at_date": "2023-11-07T07:06:12.027000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 41,
+            "total_number_of_photos_by_reviewer": 3,
+            "reviewer_url": "https://www.google.com/maps/contrib/118255239679810224328/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXOFy3cPQxiNBGYEoE9v499LVoe7OmzGnfre7r1wVGpRA=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipO7dr1Hn-1zJyXLh1QLiJjxfmCHow918a4VIdEC=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "There were a couple of seats available on Saturday early evening and we were seated quickly. It took a long time for the server to come get our orders. Though the service was a bit slow, everyone was very friendly and welcoming.\n\nI loved that you can mix and max different souvlaki. I've never seen this option before. Though I was a bit disappointed with the salmon (a bit bland tasting) and wished I went with my original choice of two prawns. Those were very flavourful and cooked perfectly! The rice was a bit watery. I loved the veggies on the side. The souvlaki meal didn't come with pita, which was a first at a Greek place!\n\nThe ambiance was good. Decor was nice. The music was a bit too loud. Good experience overall, but not quite 5 stars.",
+            "reviewer_name": "Jen S",
+            "rating": 4,
+            "review_text": "There were a couple of seats available on Saturday early evening and we were seated quickly. It took a long time for the server to come get our orders. Though the service was a bit slow, everyone was very friendly and welcoming.\n\nI loved that you can mix and max different souvlaki. I've never seen this option before. Though I was a bit disappointed with the salmon (a bit bland tasting) and wished I went with my original choice of two prawns. Those were very flavourful and cooked perfectly! The rice was a bit watery. I loved the veggies on the side. The souvlaki meal didn't come with pita, which was a first at a Greek place!\n\nThe ambiance was good. Decor was nice. The music was a bit too loud. Good experience overall, but not quite 5 stars.",
+            "published_at": "5 months ago",
+            "published_at_date": "2023-06-14T05:32:02.714000Z",
+            "response_from_owner_text": "Hi Jen!\n\nThank you so much for taking the time to leave us this detailed review. While I am happy to hear that you enjoyed your food and time with us and I am sorry that the pace of service was slow. We will talk to the management team about ensuring this does not continue and will also chat about proper music levels. \n\nWe hope that you will come to visit us again soon!\n\n- The Greek Gastown Team",
+            "response_from_owner_ago": "5 months ago",
+            "response_from_owner_date": "2023-06-20T21:16:31.907000Z",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 760,
+            "total_number_of_photos_by_reviewer": 1696,
+            "reviewer_url": "https://www.google.com/maps/contrib/108844256702165533242/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXkSMj9GDiAqLaSssIcbxyAfIDERBNuQhNSg45vnRmMQD0m=s120-c-rp-mo-ba6-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPoFuwOaS7H1rcIhs-UlrdcXxul4B87hvEfR3j-=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOxwNMTxhQjw7qXIZ-wZqPj0AXaqfr57fCEwcJF=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "My experience at the Greek restaurant was a mix of hits and misses. The watermelon mint mojito was a refreshing and unique twist, a definite highlight. The lemon potato was flavorful and satisfying. However, the beef skewer and rice left much to be desired, lacking in taste. The service, although friendly, was disappointingly slow. While I appreciate the staff's warmth, the overall experience fell short. I'm uncertain if I'll return to this restaurant in the future.",
+            "reviewer_name": "Elaheh Mahraban",
+            "rating": 3,
+            "review_text": "My experience at the Greek restaurant was a mix of hits and misses. The watermelon mint mojito was a refreshing and unique twist, a definite highlight. The lemon potato was flavorful and satisfying. However, the beef skewer and rice left much to be desired, lacking in taste. The service, although friendly, was disappointingly slow. While I appreciate the staff's warmth, the overall experience fell short. I'm uncertain if I'll return to this restaurant in the future.",
+            "published_at": "6 months ago",
+            "published_at_date": "2023-05-21T06:19:02.002000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 135,
+            "total_number_of_photos_by_reviewer": 831,
+            "reviewer_url": "https://www.google.com/maps/contrib/116272186424380428439/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWsy1GWDe26PCzCk9M7MNfgnj-afwVgLDWLoSIEKH-UEA=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOMr1j0nLVM_QLTpwTnYLj0-FjXNTZd9a92yvld=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMZlLxGOGCYbtGTHCAB2x4SbNAHPBJS5sMs0bk6=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOJI7SA9r5R6xsLvSlC4JVrVqMLHIdACJbedZnG=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOLI4UDp0DpEthHUjqoyqcDrJ6pqB-js9beJaPM=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMYbFq0Iwny_3mqXEVcDP3NOUNysdbvYbcua3BL=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPe_0ZJanltvlZu8fqIqBAo-jctmjoa_rsMqFQ1=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMlUefDyt72XE5NlRshyZN2DRUnzbcHWzEyyGso=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOZTOPN58LjNeC26KiTCax3nv4VCfvtNrnAn5r_=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMFt52EkI58-1ZQgvA8mgbxJSyjV5syAn5IuEyT=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipO_bD574KG7IXJs5gQ9jjVEkMGu51IkUKAM3YDH=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Everything was good.\nBut I had a stomachache badly afterward. I think the way they cooked Musaka caused me to feel so much pain till the day after. Their foods are delicious but be careful of your choice.",
+            "reviewer_name": "Maliheh x",
+            "rating": 4,
+            "review_text": "Everything was good.\nBut I had a stomachache badly afterward. I think the way they cooked Musaka caused me to feel so much pain till the day after. Their foods are delicious but be careful of your choice.",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-30T20:02:42.779000Z",
+            "response_from_owner_text": "Hi Meliheh,\n\nI am sorry to hear that you are not feeling well. I would love to talk to you personally to hear about what happened so that I can check in with you and the team. Please reach out to me at the email address below so that we can discuss in greater detail.\n\nSincerely,\n\nKaity Allen\nRegional Manager\nkaity@thegreekbyanatoli.com",
+            "response_from_owner_ago": "4 months ago",
+            "response_from_owner_date": "2023-07-31T16:19:01.777000Z",
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 82,
+            "total_number_of_photos_by_reviewer": 283,
+            "reviewer_url": "https://www.google.com/maps/contrib/105565435775300392677/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXKzQZiSrJiDpLCusTrGDii2CtI7Qb4nL-4YkQJ8dKtKnY=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMIhaDNX7nibJQCj9-xMmhtr_z-fUpxjUpzOG-C=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNb1JOqVGHSwfxtGtW-uNuQCemDhIWvk6p63m2b=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipM7hYT68IJoWL2PXI2sBq2nUbZyPbmM1UIM2Rmp=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOtCNnSABG1bBBD20JOAiJ1U7HhQWrjlguPdEwm=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipN2VcTzkEQvTGlAVy1OU1iCIFNCQzvLWFjP7xus=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "20/10 Experience! I cannot express my appreciated enough to Skerdi (the Manager) and ALL the staff who made our night absolutely amazing. We had an intimate wedding ceremony and dinner here and the experience was absolutely perfect. The food and service were remarkable. All my guests were raving about it! Highly recommend The Greek Gastown to anyone looking to plan a fun event or even just a dinner. AMAZING!",
+            "reviewer_name": "Natalie Holloway",
+            "rating": 5,
+            "review_text": "20/10 Experience! I cannot express my appreciated enough to Skerdi (the Manager) and ALL the staff who made our night absolutely amazing. We had an intimate wedding ceremony and dinner here and the experience was absolutely perfect. The food and service were remarkable. All my guests were raving about it! Highly recommend The Greek Gastown to anyone looking to plan a fun event or even just a dinner. AMAZING!",
+            "published_at": "5 months ago",
+            "published_at_date": "2023-06-12T21:06:15.578000Z",
+            "response_from_owner_text": "Wow, Natalie!\n\nThank you so much for your incredibly kind words! We were so happy to host you, your family, and your friends for such a beautiful occasion! We look forward to having you and Daniel in again to visit soon! Enjoy married life!\n\n- The Greek Gastown Team",
+            "response_from_owner_ago": "6 months ago",
+            "response_from_owner_date": "2023-05-10T16:12:11.545000Z",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 11,
+            "total_number_of_photos_by_reviewer": 19,
+            "reviewer_url": "https://www.google.com/maps/contrib/113991611804050318058/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUb-TtM8wOi8ODSPWh2B7H7oGnyOPd1ccEZKFhvzmlXxQ8=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPCdYrXJhw_EU-99-UXB2R8Mr23QFJ14dgMpt-E=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOqFG6xE1kWRR6bDQcUG_2CCzm8SoRys4dqj2Zd=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOseWoibhRUlhSL_a9h1B_IljQL2dIoMYHcwy4F=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "I was in two minds about coming here for dinner and I decided to give it a try despite my better judgement. I'm not sure what vibe this restaurant is going for but it's not fine dining. The music is loud and so you can't hear yourself think. It's a cross between a bar and a club only there's no dance floor and they serve food.\n\nThe food itself is disappointing, either charge less or increase your portions. I ordered the spanakopita and my boyfriend ordered the moussaka. These would pass for an appetiser at best.\n\nI don't recommend this place and won't be coming back.",
+            "reviewer_name": "Lee Van",
+            "rating": 2,
+            "review_text": "I was in two minds about coming here for dinner and I decided to give it a try despite my better judgement. I'm not sure what vibe this restaurant is going for but it's not fine dining. The music is loud and so you can't hear yourself think. It's a cross between a bar and a club only there's no dance floor and they serve food.\n\nThe food itself is disappointing, either charge less or increase your portions. I ordered the spanakopita and my boyfriend ordered the moussaka. These would pass for an appetiser at best.\n\nI don't recommend this place and won't be coming back.",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-15T04:44:48.643000Z",
+            "response_from_owner_text": "Hi Lee,\n\nI am so sorry to hear that your time with us was not excellent. I would love to hear more about your experience and try to find a way to make it up to you in terms of food and ambiance. Can you please send me an email to the address listed below so that we can find some time to talk personally. \n\nMy sincerest apologies,\n\nKaity Allen\nRegional Manager\nkaity@thegreekbyanatoli.com",
+            "response_from_owner_ago": "4 months ago",
+            "response_from_owner_date": "2023-07-18T18:41:20.904000Z",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 47,
+            "total_number_of_photos_by_reviewer": 108,
+            "reviewer_url": "https://www.google.com/maps/contrib/103250966255731816739/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjViSygXOKqyB7p0ODMStcml5db9tFqE6n_OKY8PgUtwiPo=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNAcb-cow5rO2NybsQrWgurS3jDb4qNhLpW7Btr=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOy9xgHFKgCzVFoDHHpC-JXKPBgjVRe8rrFLx3x=w150-h150-k-no-p"
+            ]
+        }
+    ],
+    "is_spending_on_ads": false
+}

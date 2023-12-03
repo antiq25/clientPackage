@@ -1,0 +1,556 @@
+{
+    "place_id": "ChIJ23c_nslwhlQR1ktZmg0Uvt4",
+    "name": "Kazu Japanese Restaurant",
+    "description": null,
+    "reviews": 477,
+    "website": "https://instagram.com/kazusushionhastings%3Figshid%3Dw3fvrzkzm9sp",
+    "owner": {
+        "id": null,
+        "name": "Kazu Japanese Restaurant (Owner)",
+        "link": null
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP0pms3mbRy4DDzR1VnMtJOO3F5lDQ1KJf8e3lT=w408-h306-k-no",
+    "main_category": "Sushi restaurant",
+    "categories": [
+        "Sushi restaurant",
+        "Japanese restaurant",
+        "Restaurant"
+    ],
+    "rating": 4.6,
+    "workday_timing": "5-8 p.m.",
+    "closed_on": [
+        "Monday",
+        "Tuesday"
+    ],
+    "phone": "(604) 428-8533",
+    "address": "Kazu Japanese Restaurant, 4332 Hastings St, Burnaby, BC V5C 2J9",
+    "review_keywords": [
+        {
+            "keyword": "wasabi",
+            "count": 49
+        },
+        {
+            "keyword": "chef",
+            "count": 31
+        },
+        {
+            "keyword": "japanese food",
+            "count": 26
+        },
+        {
+            "keyword": "tuna",
+            "count": 15
+        },
+        {
+            "keyword": "salmon",
+            "count": 12
+        },
+        {
+            "keyword": "scallop",
+            "count": 7
+        },
+        {
+            "keyword": "chicken karaage",
+            "count": 7
+        },
+        {
+            "keyword": "donburi",
+            "count": 6
+        },
+        {
+            "keyword": "joints",
+            "count": 5
+        },
+        {
+            "keyword": "tonkatsu",
+            "count": 5
+        }
+    ],
+    "link": "https://www.google.com/maps/place/Kazu+Japanese+Restaurant/data=!4m7!3m6!1s0x548670c99e3f77db:0xdebe140d9a594bd6!8m2!3d49.2808271!4d-123.0076235!16s%2Fg%2F11b6hh6_7d!19sChIJ23c_nslwhlQR1ktZmg0Uvt4?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 5 p.m.",
+    "price_range": "$$",
+    "reviews_per_rating": {
+        "1": 12,
+        "2": 3,
+        "3": 28,
+        "4": 94,
+        "5": 340
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ23c_nslwhlQR1ktZmg0Uvt4&q=Kazu+Japanese+Restaurant&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.280827099999996,
+        "longitude": -123.0076235
+    },
+    "plus_code": "7XJR+8X Burnaby, British Columbia",
+    "detailed_address": {
+        "ward": null,
+        "street": "4332 Hastings St",
+        "city": "Burnaby",
+        "postal_code": "V5C 2J9",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "16050288170651700182",
+    "data_id": "0x548670c99e3f77db:0xdebe140d9a594bd6",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Takeout",
+                    "enabled": true
+                },
+                {
+                    "name": "Dine-in",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair accessible seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Alcohol",
+                    "enabled": true
+                },
+                {
+                    "name": "Beer",
+                    "enabled": true
+                },
+                {
+                    "name": "Healthy options",
+                    "enabled": true
+                },
+                {
+                    "name": "Small plates",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Dining options",
+            "options": [
+                {
+                    "name": "Lunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Dinner",
+                    "enabled": true
+                },
+                {
+                    "name": "Dessert",
+                    "enabled": true
+                },
+                {
+                    "name": "Seating",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosphere",
+            "options": [
+                {
+                    "name": "Casual",
+                    "enabled": true
+                },
+                {
+                    "name": "Cozy",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planning",
+            "options": [
+                {
+                    "name": "Accepts reservations",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "children",
+            "name": "Children",
+            "options": [
+                {
+                    "name": "High chairs",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "parking",
+            "name": "Parking",
+            "options": [
+                {
+                    "name": "Parking",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNO00rChAiJPmOME97AeHf5xrYyCUS90GLtJjPS=w397-h298-k-no"
+        },
+        {
+            "about": "Latest",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPjvDymz88VOgXFte4iVV82wQwK-7cucLKMxC6y=w224-h298-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMoprLRhr4g1BOKxBvKFSWlvoWeTXU1Y-pXfkWF=w224-h398-k-no"
+        },
+        {
+            "about": "Menu",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPVn3hGHYdOdzYShOiVwh-_789Q-U3A43MrFlG6=w224-h398-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOijuuOV-60xi2pjfSAzLSsayjUNKPX3gcpG5Qp=w530-h298-k-no"
+        },
+        {
+            "about": "Vibe",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNOUbVIfplDRui1kRpgnp0qy0JtpUpSy9_4zWM7=w397-h298-k-no"
+        },
+        {
+            "about": "Take-out",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipO3IsmTbAdp2W0k0wRmiLZkRARrI4Qd9qNMKW1-=w596-h298-k-no"
+        },
+        {
+            "about": "Sushi",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPPYH12y5f70COqf80NEzqcvK9TC6zPs6jbiZDq=w224-h298-k-no"
+        },
+        {
+            "about": "Tempura",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNvQf0146q7q8S1kBUCRybCS8EBaUHFRezR3G5c=w395-h298-k-no"
+        },
+        {
+            "about": "California roll",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipP77_Bej5WHJ3zWz84UJNw3hJASQ2fb3118dDAp=w395-h298-k-no"
+        },
+        {
+            "about": "Sashimi",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipP_2g48xiatWH5TG8GhkOsYtxEQAp03bCu44oSb=w224-h298-k-no"
+        },
+        {
+            "about": "Bento",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPuwKkUylldb5gVLV2zXtYoJVxm-u8G9DprEEsc=w397-h298-k-no"
+        },
+        {
+            "about": "Karaage",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipP13ejtrEwhTmz0dN7uE1URd4tDi1JgdfN64mbb=w447-h298-k-no"
+        },
+        {
+            "about": "Udon",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMKMIVidqIykxcK6XpzHXBfg-Gweo_cGvJT5X37=w529-h298-k-no"
+        },
+        {
+            "about": "Tonkatsu",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOMF38bcD0Dfn5OpoFdVbqFA1LefWal5EKT4lX9=w397-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=SM6UELtDKil-ewemI6Llxw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=195.51393&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "Closed"
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "Closed"
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "5-8 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "5-8 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "5-8 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "5-8 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "5-8 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "We waited for an hour to get a table on Saturday night. It seems like authentic Japanese sushi restaurant. The seafood was fresh.\nIt was very busy cause they only open 3 hours a day. I would like to come back to try again.",
+            "reviewer_name": "Emma Cho",
+            "rating": 4,
+            "review_text": "We waited for an hour to get a table on Saturday night. It seems like authentic Japanese sushi restaurant. The seafood was fresh.\nIt was very busy cause they only open 3 hours a day. I would like to come back to try again.",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-18T07:37:48.226000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 78,
+            "total_number_of_photos_by_reviewer": 104,
+            "reviewer_url": "https://www.google.com/maps/contrib/114409388626480626476/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJepgVCS8_95o609vbt4e_p009oED_tYpJWRDzs2Qpc=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOY2El8Xx_uOhTDh-dVuOIpy0a08LbVVnNxbHGY=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipON7KZSkPN99TtBUDvb5hU-emwPpCkNyQiAbYeL=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipP76F5KCvWXrDzv4ZECnqPj1EP0PY51WIdjnIvg=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "This place is everything about how sushi should be like! They make their own Wasabi in traditional style, use fresh, and choose not to over do the flavor. They cook their Tamago, the egg omelet sushi themselves, unlike some sushi places buy from market. Their Tamayo is very uniquely flavored with strong fragrance. Their Toro tastes buttery, and their octopus is actually soft. Unlike some octopus from other sushi restaurants that taste like chewy rubber. They proudly showcase the fresh, raw taste and texture of each ingredient with delicate seasonings. Service is great, and you get your food served fast. If there's a reason why they only open for 3 hours a day, it would probably be that they want to offer a high quality of restaurant experience. Definitely recommend.",
+            "reviewer_name": "Jin Zhang",
+            "rating": 5,
+            "review_text": "This place is everything about how sushi should be like! They make their own Wasabi in traditional style, use fresh, and choose not to over do the flavor. They cook their Tamago, the egg omelet sushi themselves, unlike some sushi places buy from market. Their Tamayo is very uniquely flavored with strong fragrance. Their Toro tastes buttery, and their octopus is actually soft. Unlike some octopus from other sushi restaurants that taste like chewy rubber. They proudly showcase the fresh, raw taste and texture of each ingredient with delicate seasonings. Service is great, and you get your food served fast. If there's a reason why they only open for 3 hours a day, it would probably be that they want to offer a high quality of restaurant experience. Definitely recommend.",
+            "published_at": "5 months ago",
+            "published_at_date": "2023-06-02T02:56:59.738000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 28,
+            "total_number_of_photos_by_reviewer": 29,
+            "reviewer_url": "https://www.google.com/maps/contrib/100084238067881695753/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKSi1seJWYRNYD6UzurNIlZERU7b6k7tIBw28vM9B4W=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOoPXLHjG8G88LJaCS7wHd4pviigoXYxlNyvD1j=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMsv-EK7HPBQHfjloAk0wkFJp25Qn0UyXOyKchc=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPwTvF4w3WSUeO3OYjZXOXY4J1-6EiM6i28WlYy=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Superb sushi. I ordered wild sockeye salmon don. They put lots of quality sashimi. Wasabi was strong and real. Definitely coming back here. 20.50$.",
+            "reviewer_name": "Vasiliy Baryshnikov",
+            "rating": 5,
+            "review_text": "Superb sushi. I ordered wild sockeye salmon don. They put lots of quality sashimi. Wasabi was strong and real. Definitely coming back here. 20.50$.",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-11T03:09:17.322000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 35,
+            "total_number_of_photos_by_reviewer": 19,
+            "reviewer_url": "https://www.google.com/maps/contrib/109061436674606129682/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVaxrUWwV20z2xltzOY3k2UQ3_UMPNjMrF5yzN1N-rOwwk=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPdjQAF3BbsoRClTPmixbLkFPsS8Hz0oG6AaTyO=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMs9aoKjY7mpOhnKjm07pl8EO--CxzthoeHn22f=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Great quality sushi! A little bit more pricey than other places but the quality of the sushi and sashimi more than makes up for the differences. Service is a little slow especially when they are busy but would recommend them, especially for take out!",
+            "reviewer_name": "Yoichiro Watanabe",
+            "rating": 5,
+            "review_text": "Great quality sushi! A little bit more pricey than other places but the quality of the sushi and sashimi more than makes up for the differences. Service is a little slow especially when they are busy but would recommend them, especially for take out!",
+            "published_at": "5 months ago",
+            "published_at_date": "2023-06-15T18:14:09.034000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 32,
+            "total_number_of_photos_by_reviewer": 28,
+            "reviewer_url": "https://www.google.com/maps/contrib/115084628323029361412/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjU93I_-400oH386_47oO6eHmZMXHNbodn-hvwHnqXFkKuk=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMktucoZwFIuFctOB1Hst2RSljlvo3QH1rgGHtu=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "best Teriyaki so far in Vancouver\nvery good service and atmosphere\nI tried the California roll and it was good\nI had the best in Malaysia",
+            "reviewer_name": "HesamAdin",
+            "rating": 5,
+            "review_text": "best Teriyaki so far in Vancouver\nvery good service and atmosphere\nI tried the California roll and it was good\nI had the best in Malaysia",
+            "published_at": "a week ago",
+            "published_at_date": "2023-11-18T03:59:02.297000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 49,
+            "total_number_of_photos_by_reviewer": 10,
+            "reviewer_url": "https://www.google.com/maps/contrib/102549957987333049104/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW7LXUz_wYY_zCPpWMjiT5doqM9Dt5qmkUfrHSMM8sguVg=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPjvDymz88VOgXFte4iVV82wQwK-7cucLKMxC6y=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMfvOJNH3vy3gpfFVk2bkOPjkWPgWiEPxCCwRKV=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "I can't believe we've lived so close for so long, and this was the first time we actually went! What a wonderful, small, traditional sushi restaurant. The prices were so reasonable for the quality of food - the salmon, roe, prawns, and tuna were incredibly fresh. I had been looking for a restaurant nearby with sashimi, and Kazu delivered. We already know what to order next (the squid must be good since it was sold out) - we can't wait to come back and try more, soon!",
+            "reviewer_name": "Jaci \"JB\" Benson",
+            "rating": 5,
+            "review_text": "I can't believe we've lived so close for so long, and this was the first time we actually went! What a wonderful, small, traditional sushi restaurant. The prices were so reasonable for the quality of food - the salmon, roe, prawns, and tuna were incredibly fresh. I had been looking for a restaurant nearby with sashimi, and Kazu delivered. We already know what to order next (the squid must be good since it was sold out) - we can't wait to come back and try more, soon!",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-23T15:50:58.704000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 81,
+            "total_number_of_photos_by_reviewer": 123,
+            "reviewer_url": "https://www.google.com/maps/contrib/109451750014851596152/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLC0bYFH_Rv6MjGWwWN8pKyLrts-CbnLQooWUku0ojpxw=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Good quality Japanese food in an understated setting. They even use real wasabi! Price is reasonable when compared to other restaurants offering this quality of food. Service is excellent and we are always made to feel welcome.",
+            "reviewer_name": "Tracie Tan",
+            "rating": 5,
+            "review_text": "Good quality Japanese food in an understated setting. They even use real wasabi! Price is reasonable when compared to other restaurants offering this quality of food. Service is excellent and we are always made to feel welcome.",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-18T01:08:20.434000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 59,
+            "total_number_of_photos_by_reviewer": 53,
+            "reviewer_url": "https://www.google.com/maps/contrib/108878971343529729188/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocK_kzEG4Q93ul7bshpI2xfvFGtMxpunM1-2G76y8sEE=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Very good sushi with fresh prawn, salmon. Portion of Seaweed salad is quite small, and nothing is special.",
+            "reviewer_name": "Phuong Nguyen Van",
+            "rating": 5,
+            "review_text": "Very good sushi with fresh prawn, salmon. Portion of Seaweed salad is quite small, and nothing is special.",
+            "published_at": "5 months ago",
+            "published_at_date": "2023-06-11T20:32:03.649000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 30,
+            "total_number_of_photos_by_reviewer": 24,
+            "reviewer_url": "https://www.google.com/maps/contrib/107014515045523922141/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUao0lPMzwuht4wZaeH_-NQMBtSa9uMZ8WOUv1iEcuMAP0=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMD68YApV4XtMXtJTlV2k9JkInMXYKxo22fTanP=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipN5IX-kYlSq0Ix-Ua3km9obGxpx9TYV8zJ-xaew=w150-h150-k-no-p"
+            ]
+        }
+    ],
+    "is_spending_on_ads": false
+}

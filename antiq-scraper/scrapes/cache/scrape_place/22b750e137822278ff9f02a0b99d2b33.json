@@ -1,0 +1,554 @@
+{
+    "place_id": "ChIJmXWK2CVwhlQRMiR-Lf6pLQo",
+    "name": "McDonald's",
+    "description": "Classic, long-running fast-food chain known for its burgers & fries.",
+    "reviews": 681,
+    "website": "https://www.mcdonalds.com/ca/en-ca/restaurant-locator.html%3Fy_source%3D1_MTQ1MTk3NzctNzE1LWxvY2F0aW9uLndlYnNpdGU%253D",
+    "owner": {
+        "id": "106124810788087650364",
+        "name": "McDonald's (Owner)",
+        "link": "https://www.google.com/maps/contrib/106124810788087650364"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPbOUkyfoohPnSO_rT3GJayYkSeWPtzgth95TDE=w408-h306-k-no",
+    "main_category": "Fast food restaurant",
+    "categories": [
+        "Fast food restaurant",
+        "American restaurant",
+        "Breakfast restaurant",
+        "Cafe",
+        "Hamburger restaurant",
+        "Restaurant"
+    ],
+    "rating": 3.4,
+    "workday_timing": "5 a.m.-2 a.m.",
+    "closed_on": [],
+    "phone": "(604) 985-0203",
+    "address": "McDonald's, 2601 Westview Dr C600, North Vancouver, BC V7N 3X3",
+    "review_keywords": [
+        {
+            "keyword": "coffee",
+            "count": 25
+        },
+        {
+            "keyword": "parking",
+            "count": 16
+        },
+        {
+            "keyword": "drive thru",
+            "count": 15
+        },
+        {
+            "keyword": "big mac",
+            "count": 7
+        },
+        {
+            "keyword": "door",
+            "count": 7
+        },
+        {
+            "keyword": "table",
+            "count": 7
+        },
+        {
+            "keyword": "cashier",
+            "count": 6
+        },
+        {
+            "keyword": "morning",
+            "count": 6
+        },
+        {
+            "keyword": "manager",
+            "count": 4
+        },
+        {
+            "keyword": "average",
+            "count": 3
+        }
+    ],
+    "link": "https://www.google.com/maps/place/McDonald%27s/data=!4m7!3m6!1s0x54867025d88a7599:0xa2da9fe2d7e2432!8m2!3d49.3329454!4d-123.0884823!16s%2Fg%2F1v_smy89!19sChIJmXWK2CVwhlQRMiR-Lf6pLQo?authuser=0&hl=en&rclk=1",
+    "status": "Closes soon  2 a.m.  Reopens 5 a.m.",
+    "price_range": "$",
+    "reviews_per_rating": {
+        "1": 102,
+        "2": 62,
+        "3": 160,
+        "4": 159,
+        "5": 198
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJmXWK2CVwhlQRMiR-Lf6pLQo&q=McDonald%27s&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.3329454,
+        "longitude": -123.0884823
+    },
+    "plus_code": "8WM6+5J North Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": null,
+        "street": "2601 Westview Dr C600",
+        "city": "North Vancouver",
+        "postal_code": "V7N 3X3",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "733429223481287730",
+    "data_id": "0x54867025d88a7599:0xa2da9fe2d7e2432",
+    "menu": {
+        "link": "https://www.mcdonalds.com/ca/en-ca/full-menu.html%3Fy_source%3D1_MTQ1MTk3NzctNzE1LWxvY2F0aW9uLm1lbnVfdXJs",
+        "source": "mcdonalds.com"
+    },
+    "reservations": [],
+    "order_online_links": [
+        {
+            "link": "https://www4.mcdonalds.ca/mcdeliverycanada/?y_source=1_MTQ1MTk3NzctNzE1LWxvY2F0aW9uLm9yZGVyX3VybA%3D%3D",
+            "source": "mcdonalds.ca"
+        },
+        {
+            "link": "https://www.ubereats.com/ca/store/mcdonalds-westview-drive/nZXcYXTBQzCDphux93VK4A?utm_campaign=place-action-link&utm_medium=organic&utm_source=google",
+            "source": "ubereats.com"
+        },
+        {
+            "link": "https://www.doordash.com/store/mcdonald%27s-north-vancouver-25238941/?utm_campaign=gpa",
+            "source": "doordash.com"
+        },
+        {
+            "link": "https://www.skipthedishes.com/mcdonalds-westview-dr?serviceType=delivery&utm_source=google&utm_medium=organic&utm_campaign=gpav2",
+            "source": "skipthedishes.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "No-contact delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Takeout",
+                    "enabled": true
+                },
+                {
+                    "name": "Dine-in",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "highlights",
+            "name": "Highlights",
+            "options": [
+                {
+                    "name": "Fast service",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair accessible seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Coffee",
+                    "enabled": true
+                },
+                {
+                    "name": "Late-night food",
+                    "enabled": true
+                },
+                {
+                    "name": "Quick bite",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Dining options",
+            "options": [
+                {
+                    "name": "Breakfast",
+                    "enabled": true
+                },
+                {
+                    "name": "Lunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Dinner",
+                    "enabled": true
+                },
+                {
+                    "name": "Counter service",
+                    "enabled": true
+                },
+                {
+                    "name": "Dessert",
+                    "enabled": true
+                },
+                {
+                    "name": "Seating",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosphere",
+            "options": [
+                {
+                    "name": "Casual",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "crowd",
+            "name": "Crowd",
+            "options": [
+                {
+                    "name": "Family-friendly",
+                    "enabled": true
+                },
+                {
+                    "name": "Groups",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "children",
+            "name": "Children",
+            "options": [
+                {
+                    "name": "Good for kids",
+                    "enabled": true
+                },
+                {
+                    "name": "High chairs",
+                    "enabled": true
+                },
+                {
+                    "name": "Kids' menu",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "parking",
+            "name": "Parking",
+            "options": [
+                {
+                    "name": "Free parking lot",
+                    "enabled": true
+                },
+                {
+                    "name": "Parking",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPbOUkyfoohPnSO_rT3GJayYkSeWPtzgth95TDE=w397-h298-k-no"
+        },
+        {
+            "about": "Latest",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMsN6Vw4NlTNfAhFVt6D0pK4yOQebC92t58A-fc=w397-h298-k-no"
+        },
+        {
+            "about": "Menu",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMZkmeuBcF-HhIv2xYftnZ8HbfgDAevkBHEJI8y=w224-h497-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPRS_tefHx2UKyrNe9oRdZ7EatVAzj0iWk6cr1n=w224-h298-k-no"
+        },
+        {
+            "about": "Vibe",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOpeFZqQZgo8sjBszIXDM1qSqtGfhzfbCHomng=w397-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNXnNhxS0btFkUz9Dh6v4E2roCoQdU-IHTox5zS=w529-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=znH1-lK-XxCbDzmVQppd6g&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=41.01145&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Sunday",
+            "times": [
+                "5 a.m.-2 a.m."
+            ]
+        },
+        {
+            "day": "Monday",
+            "times": [
+                "5 a.m.-2 a.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "5 a.m.-2 a.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "5 a.m.-2 a.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "5 a.m.-2 a.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "5 a.m.-2 a.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "5 a.m.-2 a.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "Staff does not help each other out. I got my coffee, and my food was ready, but no one helped the cashier to serve me the food. I had to ask her and tell her that my food was ready and that she could pass me the food. Is wasn't really busy at that time .",
+            "reviewer_name": "Steven L.",
+            "rating": 2,
+            "review_text": "Staff does not help each other out. I got my coffee, and my food was ready, but no one helped the cashier to serve me the food. I had to ask her and tell her that my food was ready and that she could pass me the food. Is wasn't really busy at that time .",
+            "published_at": "a week ago",
+            "published_at_date": "2023-11-21T03:53:07.133000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 42,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/114130451125517102517/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXJ0kTT6CQl9SubJWkvf769hzl4ZN8e4q53BXtu13UjXw=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Flawless service from Harpreet. She is very kind and considerate. I gave her a very complicated order that no other McDonald's was able to get right. It was perfect exactly like I wanted! Thank you very much",
+            "reviewer_name": "Ali Yekta",
+            "rating": 5,
+            "review_text": "Flawless service from Harpreet. She is very kind and considerate. I gave her a very complicated order that no other McDonald's was able to get right. It was perfect exactly like I wanted! Thank you very much",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-08T02:17:22.449000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 17,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/111948165804503748887/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVGOU2AH7_TDoFOw7-xcrdUqiGv1yxPhiJjWw7TteOwOys=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "On a beautiful Saturday morning, the staff at this store left me speechless. I queued for five minutes. She saw me but skipped over me, continuously calling the people behind me to order. I found it strange, so I asked her why she didn't call me to order? She disdainfully said that I should be queuing here. I was stunned and didn't know what to say. I said: You saw me in line early on, shouldn't you tell me where I should queue? Instead of treating me with such extreme rudeness and disdain. She did not answer me and continued to call the customers behind me to order. I really have nothing to say. This happened on Sep 30th at 10:30 a.m. If the manager of McDonald's sees this message, please check your schedule and see who served me, and then please give her a complete training, or even teach her how to treat others politely. Thank you.",
+            "reviewer_name": "Nion auto",
+            "rating": 1,
+            "review_text": "On a beautiful Saturday morning, the staff at this store left me speechless. I queued for five minutes. She saw me but skipped over me, continuously calling the people behind me to order. I found it strange, so I asked her why she didn't call me to order? She disdainfully said that I should be queuing here. I was stunned and didn't know what to say. I said: You saw me in line early on, shouldn't you tell me where I should queue? Instead of treating me with such extreme rudeness and disdain. She did not answer me and continued to call the customers behind me to order. I really have nothing to say. This happened on Sep 30th at 10:30 a.m. If the manager of McDonald's sees this message, please check your schedule and see who served me, and then please give her a complete training, or even teach her how to treat others politely. Thank you.",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-30T17:34:14.398000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 4,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/115306696080207948009/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKQBC0BMuoVP1_5uet2T2Pvw1mGrRySD-AP56wgWh50=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "This is a small neighborhood McDonald's. Usual McDonald's fare sometimes with limited choices. Many families go here but be careful the parking has a strict time limit. You should park a bit farther in the supermarket parking lot if you want to stay longer. Staff are nice.",
+            "reviewer_name": "toffy concepcion",
+            "rating": 4,
+            "review_text": "This is a small neighborhood McDonald's. Usual McDonald's fare sometimes with limited choices. Many families go here but be careful the parking has a strict time limit. You should park a bit farther in the supermarket parking lot if you want to stay longer. Staff are nice.",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-27T16:27:01.818000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 412,
+            "total_number_of_photos_by_reviewer": 2433,
+            "reviewer_url": "https://www.google.com/maps/contrib/114933547240385128551/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVXCzSCW7dPf8HBqnV9ByaFzLY54nOa-nyH4EHQ06I_cRs-=s120-c-rp-mo-ba6-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Went on Thursday around 1 pm for take out. All food was good tasting, but they didn't put a kids toy in a happy meal and gave only 5 doughnuts out of 6. Took advantage of people in the hurry. Not cool. The kid was very sad not to get his toy.",
+            "reviewer_name": "Anna Iantchenko",
+            "rating": 3,
+            "review_text": "Went on Thursday around 1 pm for take out. All food was good tasting, but they didn't put a kids toy in a happy meal and gave only 5 doughnuts out of 6. Took advantage of people in the hurry. Not cool. The kid was very sad not to get his toy.",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-06T20:34:08.476000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 18,
+            "total_number_of_photos_by_reviewer": 4,
+            "reviewer_url": "https://www.google.com/maps/contrib/113359344983179132681/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVpqWamP2y_pHaNXn-Mt4tpmXaZHgL7-VmB15_WLI0X0TcD=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Horrible manager/ general manager as a customer I am disgusted by the attitude Connor(general manager) gave me he was so rude and told me to \"Go away\" in a very rude and aggressive manner. Food was cold and I would never tell anyone to order or go there disgusting customer service.",
+            "reviewer_name": "Katie Janine",
+            "rating": 1,
+            "review_text": "Horrible manager/ general manager as a customer I am disgusted by the attitude Connor(general manager) gave me he was so rude and told me to \"Go away\" in a very rude and aggressive manner. Food was cold and I would never tell anyone to order or go there disgusting customer service.",
+            "published_at": "a week ago",
+            "published_at_date": "2023-11-18T03:40:42.544000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/103237109721861276985/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocL5rSfY4dffTICCAvi2zWyis6kJ82DLdclCDEcrmR69=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "A manager just took an employee to a table very near us and proceeded to castigate her for her attitude today, among other things.  All employees should be treated politely and IN PRIVATE.  Friday, July 28, 12:55 pm.  Hopefully the owner has a chat with the manager.",
+            "reviewer_name": "Gloria Le Gal",
+            "rating": 1,
+            "review_text": "A manager just took an employee to a table very near us and proceeded to castigate her for her attitude today, among other things.  All employees should be treated politely and IN PRIVATE.  Friday, July 28, 12:55 pm.  Hopefully the owner has a chat with the manager.",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-28T19:58:41.425000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/111906319525394049269/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLPOQkGhwi_UX2U9jY-0LWRRljgvPL1VxJqbdE6fGh4=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "This McDonald's opens at 4a.m. I've been in the store since open, as the front doors were unlocked. No one has come out despite yelling hello..... MULTIPLE times to grab someone's attention there is a customer. Absolutely outrageous. Any job I've ever worked at I would have been fired. At 4:17 I heard music playing from a phone and asked again if anyone was here, the music shut off immediately. My family and I will never buy from McDonald's AGAIN.",
+            "reviewer_name": "Courtney",
+            "rating": 1,
+            "review_text": "This McDonald's opens at 4a.m. I've been in the store since open, as the front doors were unlocked. No one has come out despite yelling hello..... MULTIPLE times to grab someone's attention there is a customer. Absolutely outrageous. Any job I've ever worked at I would have been fired. At 4:17 I heard music playing from a phone and asked again if anyone was here, the music shut off immediately. My family and I will never buy from McDonald's AGAIN.",
+            "published_at": "3 years ago",
+            "published_at_date": "2020-11-30T12:19:43.762000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 4,
+            "total_number_of_photos_by_reviewer": 5,
+            "reviewer_url": "https://www.google.com/maps/contrib/108210750421489130281/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKlGI4MnCqIiRXzrO17a9-eJd7CJMR-sTG5I9Mem415=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOR4O9VsXXlfNxRO3aOf7GFZcOHLy5HkaStXqj5=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNL5MSr47YxUcBt7PCzWflXV1J_tOidGBdZgUqL=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipN84rebQwnzYsv2C0rblCllE4OVapuq1Iesr2j8=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipP14Hk6zEAkn8e9rBULvw5dlVsNafMjMlMRZcmv=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPjfW4P5Y87pYesiy1Xz7FqX1BybE4J73Q2BX6v=w150-h150-k-no-p"
+            ]
+        }
+    ],
+    "is_spending_on_ads": false
+}

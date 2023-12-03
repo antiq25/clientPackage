@@ -145,7 +145,7 @@ export const Layout = (props) => {
                   },
                 }}
               >
-                Devias Kit <span>PRO</span>
+                Show MY Service <span>PRO</span>
               </Box>
             </Stack>
           </Box>

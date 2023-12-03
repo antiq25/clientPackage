@@ -2,14 +2,14 @@
     "place_id": "ChIJpUFRRMF2hlQRjDF0yKSy61A",
     "name": "Jai Plumbing and Heating LTD - Best Plumbing and Heating Services in North Vancouver, Surrey, Richmond, Burnaby",
     "description": null,
-    "reviews": 7,
+    "reviews": 8,
     "website": "https://www.jaiplumbing.com/",
     "owner": {
         "id": "111815153554733478393",
         "name": "Jai Plumbing and Heating LTD - Best Plumbing and Heating Services in North Vancouver, Surrey, Richmond, Burnaby (Owner)",
         "link": "https://www.google.com/maps/contrib/111815153554733478393"
     },
-    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNW3VTx5q3MfNjBboGHSKFmUBNUylebxljd4idK=w408-h272-k-no",
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOhFD4iJt6vbbnJ25u2-5nqWmerN5ywJGy3nuRF=w408-h510-k-no",
     "main_category": "Repair Service",
     "categories": [
         "Repair Service",
@@ -29,7 +29,7 @@
         "2": 0,
         "3": 0,
         "4": 0,
-        "5": 7
+        "5": 8
     },
     "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJpUFRRMF2hlQRjDF0yKSy61A&q=Jai+Plumbing+and+Heating+LTD+-+Best+Plumbing+and+Heating+Services+in+North+Vancouver,+Surrey,+Richmond,+Burnaby&authuser=0&hl=en&gl=CA",
     "coordinates": {
@@ -58,11 +58,11 @@
     "images": [
         {
             "about": "All",
-            "link": "https://lh5.googleusercontent.com/p/AF1QipNW3VTx5q3MfNjBboGHSKFmUBNUylebxljd4idK=w446-h298-k-no"
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOhFD4iJt6vbbnJ25u2-5nqWmerN5ywJGy3nuRF=w238-h298-k-no"
         },
         {
             "about": "Latest",
-            "link": "https://lh5.googleusercontent.com/p/AF1QipMgxkFvj_NbFTpZsnC2wuaE64TJcCPZ4puBeumb=w447-h298-k-no"
+            "link": "https://lh5.googleusercontent.com/p/AF1QipO5ajY7SD8EaK21qhM9JpV0EkOWh2qO-xbAkLUe=w238-h298-k-no"
         },
         {
             "about": "Videos",
@@ -247,6 +247,26 @@
             "review_photos": []
         },
         {
+            "review_id": "Good service. Very experienced technician . Provided answers to my questions.",
+            "reviewer_name": "Vivek Dhindsa",
+            "rating": 5,
+            "review_text": "Good service. Very experienced technician . Provided answers to my questions.",
+            "published_at": "2 hours ago",
+            "published_at_date": "2023-12-01T07:21:40.842000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/113006489586312279549/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWuJSCH-uaoAJpWSBUzs_ryhnmXv5ebPNn1J4aRntJT-w=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
             "review_id": null,
             "reviewer_name": "Eric Salvador",
             "rating": 5,
@@ -254,7 +274,7 @@
             "published_at": "a year ago",
             "published_at_date": "2022-11-10T06:06:50.897000Z",
             "response_from_owner_text": "Thank you for your valuable feedback.",
-            "response_from_owner_ago": "10 months ago",
+            "response_from_owner_ago": "11 months ago",
             "response_from_owner_date": "2022-12-29T08:32:43.479000Z",
             "review_likes_count": 0,
             "total_number_of_reviews_by_reviewer": 2,

@@ -3,9 +3,9 @@ import PlusIcon from '@untitled-ui/icons-react/build/esm/Plus';
 import Box from '@mui/material/Box';
 import Button from '@mui/material/Button';
 import Card from '@mui/material/Card';
-import CardHeader from '@mui/material/Card';
+import CardHeader from '@mui/material/CardHeader'; // Corrected import
 import Container from '@mui/material/Container';
-import Grid from '@mui/material/Unstable_Grid2';
+import Grid from '@mui/material/Grid';
 import Stack from '@mui/material/Stack';
 import SvgIcon from '@mui/material/SvgIcon';
 import Typography from '@mui/material/Typography';
@@ -39,11 +39,8 @@ const Page = () => {
   useTheme();
 
   return (
-
     <>
-
-
-<Seo title="Show My Service: Google Trends" />
+      <Seo title="Show My Service: Google Trends" />
       <Box
         component="main"
         sx={{
@@ -59,7 +56,12 @@ const Page = () => {
               lg: 4,
             }}
           >
-            <Grid xs={12}>
+            <Grid
+              item
+              xs={12}
+            >
+              {' '}
+              {/* Corrected by adding item prop */}
               <Stack
                 direction="row"
                 justifyContent="space-between"
@@ -87,8 +89,7 @@ const Page = () => {
                   <CreateListingDialog
                     open={isCreateListingDialogOpen}
                     onClose={handleCloseCreateListingDialog}
-                    onCreationSuccess={() => {
-                    }}
+                    onCreationSuccess={() => {}}
                   />
 
                   <EmailVerificationDialog />
@@ -96,27 +97,24 @@ const Page = () => {
               </Stack>
             </Grid>
             <Grid
-              item
+              item // Corrected by adding item prop
               xs={12}
               md={12}
               lg={12}
-              >
-            <FetchedReviews />
+            >
+              <FetchedReviews />
 
-            <QuickStats2 />
-              </Grid>
+              <QuickStats2 />
+            </Grid>
             <Grid
-              item
-              xs={7}
+              item // Corrected by adding item prop
+              xs={12} // Changed from 7 to 12 for consistency
               md={12}
-
             >
               <Card>
-              <CardHeader
-                title="Businesses"
-                subheader="Manage your businesses"
-              />
-            </Card>
+                <CardHeader title="Businesses" />
+                <QuickStats2 />
+              </Card>
             </Grid>
           </Grid>
         </Container>

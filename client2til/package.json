@@ -42,6 +42,7 @@
     "dotenv": "latest",
     "esbuild": "latest",
     "esm": "latest",
+    "global": "^4.4.0",
     "ioredis": "latest",
     "joi": "latest",
     "jsonwebtoken": "latest",

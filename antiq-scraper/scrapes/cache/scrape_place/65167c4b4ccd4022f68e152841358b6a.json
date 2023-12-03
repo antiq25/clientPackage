@@ -2,7 +2,7 @@
     "place_id": "ChIJO1V_sWZxhlQR69RUQ1rHcb0",
     "name": "McDonald's",
     "description": "Classic, long-running fast-food chain known for its burgers & fries.",
-    "reviews": 4484,
+    "reviews": 4490,
     "website": "https://www.mcdonalds.com/ca/en-ca/restaurant-locator.html%3Fy_source%3D1_MTQ1MTkyNjUtNzE1LWxvY2F0aW9uLndlYnNpdGU%253D",
     "owner": {
         "id": "110085201115745742407",
@@ -27,15 +27,15 @@
     "review_keywords": [
         {
             "keyword": "drive thru",
-            "count": 159
+            "count": 160
         },
         {
             "keyword": "homeless",
-            "count": 66
+            "count": 68
         },
         {
             "keyword": "bathroom",
-            "count": 55
+            "count": 56
         },
         {
             "keyword": "play area",
@@ -70,11 +70,11 @@
     "status": "Open 24 hours",
     "price_range": "$",
     "reviews_per_rating": {
-        "1": 675,
-        "2": 395,
+        "1": 679,
+        "2": 394,
         "3": 1106,
-        "4": 1080,
-        "5": 1228
+        "4": 1081,
+        "5": 1230
     },
     "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJO1V_sWZxhlQR69RUQ1rHcb0&q=McDonald%27s&authuser=0&hl=en&gl=CA",
     "coordinates": {
@@ -335,7 +335,7 @@
         },
         {
             "about": "Latest",
-            "link": "https://lh5.googleusercontent.com/p/AF1QipMbotLaBibFB1ri8dFPFl08IfrtyQZkyvCheDoE=w298-h298-k-no"
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNrxI3p38No3mExe_lu6_uFsPbcWbA9jN653sS7=w224-h298-k-no"
         },
         {
             "about": "Videos",
@@ -372,12 +372,6 @@
     ],
     "hours": [
         {
-            "day": "Sunday",
-            "times": [
-                "Open 24 hours"
-            ]
-        },
-        {
             "day": "Monday",
             "times": [
                 "Open 24 hours"
@@ -412,6 +406,12 @@
             "times": [
                 "Open 24 hours"
             ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "Open 24 hours"
+            ]
         }
     ],
     "featured_reviews": [
@@ -440,26 +440,6 @@
             ]
         },
         {
-            "review_id": "Food is standard McDonald's, sometimes you get lucky and it's fresh which means it's great, usually it's lukewarm but still edible. The service is okay in the drive through but curbside or dining in is extremely slow. The washrooms are utterly disgusting. None of the doors lock, there's only one hand dryer and it doesn't work half the time. Last time I was there one of the toilets didn't have a toilet seat! Oh and this place is definitely not 24/7, they close for about 20 minutes early in the morning so if you're running late for work you're going to be SOL if you stop here.",
-            "reviewer_name": "Casey Byrne",
-            "rating": 1,
-            "review_text": "Food is standard McDonald's, sometimes you get lucky and it's fresh which means it's great, usually it's lukewarm but still edible. The service is okay in the drive through but curbside or dining in is extremely slow. The washrooms are utterly disgusting. None of the doors lock, there's only one hand dryer and it doesn't work half the time. Last time I was there one of the toilets didn't have a toilet seat! Oh and this place is definitely not 24/7, they close for about 20 minutes early in the morning so if you're running late for work you're going to be SOL if you stop here.",
-            "published_at": "2 weeks ago",
-            "published_at_date": "2023-11-09T12:30:57.287000Z",
-            "response_from_owner_text": null,
-            "response_from_owner_ago": null,
-            "response_from_owner_date": null,
-            "review_likes_count": 0,
-            "total_number_of_reviews_by_reviewer": 43,
-            "total_number_of_photos_by_reviewer": 14,
-            "reviewer_url": "https://www.google.com/maps/contrib/100226519144482762081/reviews?entry=ttu",
-            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUDXbCQszyEUs0pEQ9n30HD0F5a6IjYSuUYhqHwLyunvw=s120-c-rp-mo-ba3-br100",
-            "is_local_guide": true,
-            "review_translated_text": null,
-            "response_from_owner_translated_text": null,
-            "review_photos": []
-        },
-        {
             "review_id": "The workers are nice and hard working. However, I'm a bit disappointed they don't fill their drinks fully. I'm kinda sad as I was expecting a full large drink on a sunny hot day.",
             "reviewer_name": "Kia Ferrer",
             "rating": 2,
@@ -483,18 +463,38 @@
             ]
         },
         {
+            "review_id": "There was no communication between counter staff. Staff were not removing ticket numbers as the orders had been fulfilled, thus constantly shouting out the same number for 5 minutes when it had already been fulfilled and picked up. I waited 15 minutes for two teas. One tea was meant to be a peppermint tea and they gave us a green tea instead.",
+            "reviewer_name": "Laura",
+            "rating": 1,
+            "review_text": "There was no communication between counter staff. Staff were not removing ticket numbers as the orders had been fulfilled, thus constantly shouting out the same number for 5 minutes when it had already been fulfilled and picked up. I waited 15 minutes for two teas. One tea was meant to be a peppermint tea and they gave us a green tea instead.",
+            "published_at": "3 days ago",
+            "published_at_date": "2023-11-28T06:08:23.292000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 26,
+            "total_number_of_photos_by_reviewer": 95,
+            "reviewer_url": "https://www.google.com/maps/contrib/105537447264336527922/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXdxsbx_nj7ESFcCsFYPudy_ygQMjPL6VkXPIkFVoNetiQT=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
             "review_id": "Extreme amount of drug affected, homeless and drunk individuals.\nSome of them are trying to get your food or take it away from you.\nNot safe environment.",
             "reviewer_name": "Max M",
             "rating": 3,
             "review_text": "Extreme amount of drug affected, homeless and drunk individuals.\nSome of them are trying to get your food or take it away from you.\nNot safe environment.",
-            "published_at": "2 weeks ago",
+            "published_at": "3 weeks ago",
             "published_at_date": "2023-11-06T06:13:57.903000Z",
             "response_from_owner_text": null,
             "response_from_owner_ago": null,
             "response_from_owner_date": null,
             "review_likes_count": 1,
-            "total_number_of_reviews_by_reviewer": 158,
-            "total_number_of_photos_by_reviewer": 761,
+            "total_number_of_reviews_by_reviewer": 159,
+            "total_number_of_photos_by_reviewer": 763,
             "reviewer_url": "https://www.google.com/maps/contrib/109210106553769211722/reviews?entry=ttu",
             "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXBAHntFhNw_MLL38CMDEofbGauZM2Jqgrvyw4jOTgY7DE=s120-c-rp-mo-ba5-br100",
             "is_local_guide": true,
@@ -510,36 +510,24 @@
             ]
         },
         {
-            "review_id": "Went here with my  work group and The atmosphere is the only reason i give most stars  its huge with lots of tables and places to sit and kids playground  . The so called medium fries   are tiny lol   . My friends burger was cold she said  .    My  fish double burger wasn't bad  ,my drink size was ok ,but the so called medium fries size like com on McDonald's   thats pathetic its so tiny in my hand lol  .  its  accuracy is of a small sizs not medium like i ordered",
-            "reviewer_name": "Louise Boilevin",
-            "rating": 2,
-            "review_text": "Went here with my  work group and The atmosphere is the only reason i give most stars  its huge with lots of tables and places to sit and kids playground  . The so called medium fries   are tiny lol   . My friends burger was cold she said  .    My  fish double burger wasn't bad  ,my drink size was ok ,but the so called medium fries size like com on McDonald's   thats pathetic its so tiny in my hand lol  .  its  accuracy is of a small sizs not medium like i ordered",
-            "published_at": "10 months ago",
-            "published_at_date": "2023-01-23T20:43:12.658000Z",
+            "review_id": "Me and my friend we went to pick coffee from this location. The staff was having an argument inside the store. But in frustration they gave us a wrong order. Later when we told her that the order is wrong. She gave us a weird look and was so aggressive. Maybe if there would be a white guy she might have treated them with respect. She was a brown girl and we both were also brown. I think that you need to talk to customers with respect. Because your one argument can spoil the whole mood of the customer. Her name was Gurpreet kaur.",
+            "reviewer_name": "Manpreet Sandhu",
+            "rating": 1,
+            "review_text": "Me and my friend we went to pick coffee from this location. The staff was having an argument inside the store. But in frustration they gave us a wrong order. Later when we told her that the order is wrong. She gave us a weird look and was so aggressive. Maybe if there would be a white guy she might have treated them with respect. She was a brown girl and we both were also brown. I think that you need to talk to customers with respect. Because your one argument can spoil the whole mood of the customer. Her name was Gurpreet kaur.",
+            "published_at": "a week ago",
+            "published_at_date": "2023-11-22T22:59:57.992000Z",
             "response_from_owner_text": null,
             "response_from_owner_ago": null,
             "response_from_owner_date": null,
-            "review_likes_count": 2,
-            "total_number_of_reviews_by_reviewer": 326,
-            "total_number_of_photos_by_reviewer": 8754,
-            "reviewer_url": "https://www.google.com/maps/contrib/104650636984508813034/reviews?entry=ttu",
-            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW2jh6CVYIRq8899pnf1dbk06l64IBI3O_uNIKLfbi6Qg=s120-c-rp-mo-ba7-br100",
-            "is_local_guide": true,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 10,
+            "total_number_of_photos_by_reviewer": 3,
+            "reviewer_url": "https://www.google.com/maps/contrib/116118434015339224988/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLCPn0d0wPzJNX72RJBWkSj1iFD2yoTJCFVV5SEWW1dlQ=s120-c-rp-mo-br100",
+            "is_local_guide": false,
             "review_translated_text": null,
             "response_from_owner_translated_text": null,
-            "review_photos": [
-                "https://lh5.googleusercontent.com/p/AF1QipPLBjnmqSQryQek_hEJWHS0c63q3D3QTUKEu9KF=w150-h150-k-no-p",
-                "https://lh5.googleusercontent.com/p/AF1QipP6SiK4iLYfptCaVB7d-mU916DHSiTMJlSJbYFr=w150-h150-k-no-p",
-                "https://lh5.googleusercontent.com/p/AF1QipP9nG2XppGdWhC82cBdqspzLOJ01JxVcp4DMGtM=w150-h150-k-no-p",
-                "https://lh5.googleusercontent.com/p/AF1QipN2iEOX7tHidXALbJAwa1NUQW-HuGMlSf09NWeV=w150-h150-k-no-p",
-                "https://lh5.googleusercontent.com/p/AF1QipPtVoPcbzGk8lK4VCT1boN1XPwxy9rdcb8Ru4hZ=w150-h150-k-no-p",
-                "https://lh5.googleusercontent.com/p/AF1QipPjghqZgXLvGZch4tPalpPmLdoiTgaf9jxvXJBh=w150-h150-k-no-p",
-                "https://lh5.googleusercontent.com/p/AF1QipNkk24rau1O5WHqtkUB0k471ZsA2GYK0DS1_oPP=w150-h150-k-no-p",
-                "https://lh5.googleusercontent.com/p/AF1QipOzCi_UTWlBGp0DBg0Vjqqih8ITiFoinuwJW9s4=w150-h150-k-no-p",
-                "https://lh5.googleusercontent.com/p/AF1QipMgOAqsrAJ33OGUXh7ClMedLaon5LPeQC406f8S=w150-h150-k-no-p",
-                "https://lh5.googleusercontent.com/p/AF1QipOAWRyBCYuNtxgtEjFYpSTCfHEi9Zj71CkcBiXV=w150-h150-k-no-p",
-                "https://lh5.googleusercontent.com/p/AF1QipOYqe2k2Px4DpMDq1DQRjc0Iin_sPyIf0HIlVyG=w150-h150-k-no-p"
-            ]
+            "review_photos": []
         },
         {
             "review_id": "Extremely rude here Elisha the specific employee\nAnd the food is always stale.\nNot up to McDonald's standards of freshness and definitely not food",
@@ -573,7 +561,7 @@
             "response_from_owner_text": null,
             "response_from_owner_ago": null,
             "response_from_owner_date": null,
-            "review_likes_count": 7,
+            "review_likes_count": 8,
             "total_number_of_reviews_by_reviewer": 8,
             "total_number_of_photos_by_reviewer": 6,
             "reviewer_url": "https://www.google.com/maps/contrib/112356660488732904331/reviews?entry=ttu",
@@ -592,7 +580,7 @@
             "reviewer_name": "Jeff",
             "rating": 3,
             "review_text": "Standard costumer service and food quality. The environment is not too comfortable but has sufficient seats.",
-            "published_at": "5 months ago",
+            "published_at": "6 months ago",
             "published_at_date": "2023-05-26T19:10:38.677000Z",
             "response_from_owner_text": null,
             "response_from_owner_ago": null,

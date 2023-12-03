@@ -1,0 +1,186 @@
+{
+    "place_id": "ChIJN6XdPORxhlQRDKz-qFv8iSo",
+    "name": "KAIBA BAR & GRILL INC",
+    "description": null,
+    "reviews": null,
+    "website": null,
+    "owner": {
+        "id": "118010591935964807415",
+        "name": "KAIBA BAR & GRILL INC (Owner)",
+        "link": "https://www.google.com/maps/contrib/118010591935964807415"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOoz5u0W3oXDfzVNJMvrl27OXFsPDIbVH4hlnT3=w408-h725-k-no",
+    "main_category": "Restaurant",
+    "categories": [
+        "Restaurant"
+    ],
+    "rating": null,
+    "workday_timing": "11 a.m.-7 p.m.",
+    "closed_on": [
+        "Sunday"
+    ],
+    "phone": "(604) 568-0054",
+    "address": "KAIBA BAR & GRILL INC, 609 W Hastings St #900, Vancouver, BC V6B 4W4",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/KAIBA+BAR+%26+GRILL+INC/data=!4m7!3m6!1s0x548671e43cdda537:0x2a89fc5ba8feac0c!8m2!3d49.2852022!4d-123.1129049!16s%2Fg%2F11sg_lfz3g!19sChIJN6XdPORxhlQRDKz-qFv8iSo?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 11 a.m.",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJN6XdPORxhlQRDKz-qFv8iSo&q=KAIBA+BAR+%26+GRILL+INC&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.2852022,
+        "longitude": -123.11290489999999
+    },
+    "plus_code": "7VPP+3R Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "Downtown Vancouver",
+        "street": "609 W Hastings St #900",
+        "city": "Vancouver",
+        "postal_code": "V6B 4W4",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "3065258492009819148",
+    "data_id": "0x548671e43cdda537:0x2a89fc5ba8feac0c",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Takeout",
+                    "enabled": true
+                },
+                {
+                    "name": "Dine-in",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Alcohol",
+                    "enabled": true
+                },
+                {
+                    "name": "Beer",
+                    "enabled": true
+                },
+                {
+                    "name": "Hard liquor",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Dining options",
+            "options": [
+                {
+                    "name": "Lunch",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Bar on-site",
+                    "enabled": true
+                },
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosphere",
+            "options": [
+                {
+                    "name": "Casual",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOoz5u0W3oXDfzVNJMvrl27OXFsPDIbVH4hlnT3=w224-h398-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNNY-neItCBBOELznGSMKehlqwPG91lG0ypYOlA=w224-h398-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=xK99f70-3a0bLsIpl2797A&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=31.540575&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "11 a.m.-7 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "11 a.m.-7 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "11 a.m.-7 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "11 a.m.-7 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "11 a.m.-7 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "11 a.m.-4 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "Closed"
+            ]
+        }
+    ],
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

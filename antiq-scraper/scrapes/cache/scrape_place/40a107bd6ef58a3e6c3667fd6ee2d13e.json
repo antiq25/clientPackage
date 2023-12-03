@@ -1,0 +1,588 @@
+{
+    "place_id": "ChIJoWPKIj5xhlQR2vCsGMqW3FM",
+    "name": "Zawa Restaurant on Commercial Drive Vancouver",
+    "description": "Lively standby with sidewalk tables & a full bar, plus burgers, Mediterranean dishes, steak & pasta.",
+    "reviews": 308,
+    "website": "http://zawarestaurant.com/",
+    "owner": {
+        "id": "110430118143073947009",
+        "name": "Zawa Restaurant on Commercial Drive Vancouver (Owner)",
+        "link": "https://www.google.com/maps/contrib/110430118143073947009"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPNE1RPml6roLDMu9Zr9Q92GZWyuxDm-6qyh1Cb=w408-h544-k-no",
+    "main_category": "Restaurant",
+    "categories": [
+        "Restaurant"
+    ],
+    "rating": 3.6,
+    "workday_timing": "10 a.m.-12:30 a.m.",
+    "closed_on": [],
+    "phone": "(604) 255-0470",
+    "address": "Zawa Restaurant on Commercial Drive Vancouver, 920 Commercial Dr, Vancouver, BC V5L 3W7",
+    "review_keywords": [
+        {
+            "keyword": "drinks",
+            "count": 27
+        },
+        {
+            "keyword": "burger",
+            "count": 20
+        },
+        {
+            "keyword": "patio",
+            "count": 14
+        },
+        {
+            "keyword": "breakfast",
+            "count": 14
+        },
+        {
+            "keyword": "table",
+            "count": 14
+        },
+        {
+            "keyword": "dinner",
+            "count": 9
+        },
+        {
+            "keyword": "brunch",
+            "count": 7
+        },
+        {
+            "keyword": "server",
+            "count": 6
+        },
+        {
+            "keyword": "party",
+            "count": 5
+        },
+        {
+            "keyword": "walking",
+            "count": 5
+        }
+    ],
+    "link": "https://www.google.com/maps/place/Zawa+Restaurant+on+Commercial+Drive+Vancouver/data=!4m7!3m6!1s0x5486713e22ca63a1:0x53dc96ca18acf0da!8m2!3d49.276367!4d-123.0693362!16s%2Fg%2F1vl9r5cj!19sChIJoWPKIj5xhlQR2vCsGMqW3FM?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 10 a.m.",
+    "price_range": "$$",
+    "reviews_per_rating": {
+        "1": 58,
+        "2": 18,
+        "3": 42,
+        "4": 66,
+        "5": 124
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJoWPKIj5xhlQR2vCsGMqW3FM&q=Zawa+Restaurant+on+Commercial+Drive+Vancouver&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.276367,
+        "longitude": -123.0693362
+    },
+    "plus_code": "7WGJ+G7 Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "East Vancouver",
+        "street": "920 Commercial Dr",
+        "city": "Vancouver",
+        "postal_code": "V5L 3W7",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "6042870594765910234",
+    "data_id": "0x5486713e22ca63a1:0x53dc96ca18acf0da",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [
+        {
+            "link": "https://zawarestaurant.com/index.php/reservation/",
+            "source": "zawarestaurant.com"
+        }
+    ],
+    "order_online_links": [
+        {
+            "link": "https://www.skipthedishes.com/zawa-restaurant?serviceType=delivery&utm_source=google&utm_medium=organic&utm_campaign=gpav2",
+            "source": "skipthedishes.com"
+        },
+        {
+            "link": "https://www.ubereats.com/ca/store/zawa/xnTani-nQYS3O697qh79bA?utm_campaign=place-action-link&utm_medium=organic&utm_source=google",
+            "source": "ubereats.com"
+        },
+        {
+            "link": "https://www.doordash.com/store/zawa-vancouver-58787/?utm_campaign=gpa",
+            "source": "doordash.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Outdoor seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Takeout",
+                    "enabled": true
+                },
+                {
+                    "name": "Dine-in",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "highlights",
+            "name": "Highlights",
+            "options": [
+                {
+                    "name": "Fireplace",
+                    "enabled": true
+                },
+                {
+                    "name": "Great cocktails",
+                    "enabled": true
+                },
+                {
+                    "name": "Sports",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair accessible seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible washroom",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Alcohol",
+                    "enabled": true
+                },
+                {
+                    "name": "Beer",
+                    "enabled": true
+                },
+                {
+                    "name": "Cocktails",
+                    "enabled": true
+                },
+                {
+                    "name": "Coffee",
+                    "enabled": true
+                },
+                {
+                    "name": "Happy hour food",
+                    "enabled": true
+                },
+                {
+                    "name": "Hard liquor",
+                    "enabled": true
+                },
+                {
+                    "name": "Late-night food",
+                    "enabled": true
+                },
+                {
+                    "name": "Small plates",
+                    "enabled": true
+                },
+                {
+                    "name": "Vegetarian options",
+                    "enabled": true
+                },
+                {
+                    "name": "Wine",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Dining options",
+            "options": [
+                {
+                    "name": "Breakfast",
+                    "enabled": true
+                },
+                {
+                    "name": "Brunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Lunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Dinner",
+                    "enabled": true
+                },
+                {
+                    "name": "Catering",
+                    "enabled": true
+                },
+                {
+                    "name": "Dessert",
+                    "enabled": true
+                },
+                {
+                    "name": "Seating",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Bar on-site",
+                    "enabled": true
+                },
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                },
+                {
+                    "name": "Wi-Fi",
+                    "enabled": true
+                },
+                {
+                    "name": "Wi-Fi",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosphere",
+            "options": [
+                {
+                    "name": "Casual",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "crowd",
+            "name": "Crowd",
+            "options": [
+                {
+                    "name": "Groups",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planning",
+            "options": [
+                {
+                    "name": "Reservations required",
+                    "enabled": true
+                },
+                {
+                    "name": "Accepts reservations",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "children",
+            "name": "Children",
+            "options": [
+                {
+                    "name": "Good for kids",
+                    "enabled": true
+                },
+                {
+                    "name": "High chairs",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPNE1RPml6roLDMu9Zr9Q92GZWyuxDm-6qyh1Cb=w224-h298-k-no"
+        },
+        {
+            "about": "Menu",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPVBlBPp2C6yMToy3xgJsFZnRZyLVkHHdI4CPDx=w224-h298-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipP-IksBTQQjbwSTGOzmgX_WJtQvUxsW8ptTp75d=w224-h298-k-no"
+        },
+        {
+            "about": "Vibe",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMbUTsUBBajxSAdUO6ZTX7GRVHEat0xKWwbcCHK=w397-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Z28-Y2qGEjAGcBIxwyTKhw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=66.66972&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "10 a.m.-12:30 a.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "10 a.m.-12:30 a.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "10 a.m.-12:30 a.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "10 a.m.-1 a.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "10 a.m.-2 a.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "10 a.m.-2 a.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "10 a.m.-2 a.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "Their lamb souvlaki was great!!! So delicious! Good service and sever is so friendly. They have a lot of types of beer on the tap and cans. You can find your favorite flavor. And they have a nice patio, I love it! I'd like to go there again for sure.",
+            "reviewer_name": "Reina Koh",
+            "rating": 5,
+            "review_text": "Their lamb souvlaki was great!!! So delicious! Good service and sever is so friendly. They have a lot of types of beer on the tap and cans. You can find your favorite flavor. And they have a nice patio, I love it! I'd like to go there again for sure.",
+            "published_at": "5 months ago",
+            "published_at_date": "2023-06-22T05:57:58.154000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 4,
+            "reviewer_url": "https://www.google.com/maps/contrib/103063570935448228631/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocI8vgx2ckErZyy6PZW3bXUheQjyp6jyB6b3ITxy0hlQ=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPITrJ0Lva2rlkOdZO2vAyWCcd_5w_SB-wz2wsT=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPVBlBPp2C6yMToy3xgJsFZnRZyLVkHHdI4CPDx=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipN2OJ3pQb9kysEkql-41DvbwqCrIjDZdu1EhgtZ=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMxxXSTIOIe8VSOhmmYuFBDjY1PUlqKoiPVOmrk=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "I had the opportunity to attend the Taylor Swift event at Zawa on August 27, during the 12-2pm timeframe. Having paid $60 in tickets per person, I was genuinely looking forward to an enjoyable experience. Unfortunately, my expectations were not met. The event suffered from evident understaffing, leading to a noticeable decline in service quality and notable delays in food service. Despite the event being scheduled to conclude at 2pm, my group and I were still waiting for our food at 1:50pm. Both the event and restaurant staff exhibited an unhelpful and dismissive demeanor when we voiced our concerns.\n\nAdditionally, I observed a lack of attention to cleanliness at the venue, which further compounded the disappointment. A regrettable incident involved the restaurant staff placing all utensils in the middle of the table for communal use, raising significant sanitation issues.\n\nOf particular concern was the inconsistency in food service, where some attendees had already finished their meals while others were left without food even as the event neared its scheduled end at 2pm. This uneven distribution greatly overshadowed the overall experience.",
+            "reviewer_name": "M C",
+            "rating": 1,
+            "review_text": "I had the opportunity to attend the Taylor Swift event at Zawa on August 27, during the 12-2pm timeframe. Having paid $60 in tickets per person, I was genuinely looking forward to an enjoyable experience. Unfortunately, my expectations were not met. The event suffered from evident understaffing, leading to a noticeable decline in service quality and notable delays in food service. Despite the event being scheduled to conclude at 2pm, my group and I were still waiting for our food at 1:50pm. Both the event and restaurant staff exhibited an unhelpful and dismissive demeanor when we voiced our concerns.\n\nAdditionally, I observed a lack of attention to cleanliness at the venue, which further compounded the disappointment. A regrettable incident involved the restaurant staff placing all utensils in the middle of the table for communal use, raising significant sanitation issues.\n\nOf particular concern was the inconsistency in food service, where some attendees had already finished their meals while others were left without food even as the event neared its scheduled end at 2pm. This uneven distribution greatly overshadowed the overall experience.",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-28T01:57:20.975000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 5,
+            "total_number_of_photos_by_reviewer": 2,
+            "reviewer_url": "https://www.google.com/maps/contrib/108662747160625658916/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJPrmPerasvIhVhA5EkStKtqWKWBeipQ6MMzol5ITIz=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOsCTeb2Ibxt_UC42Y8ny7ias0EFgcpjhfIQPWT=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMo8ZFLxKnsOgQ26NsZaf8KdOYOuwKR5MCXpFb8=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "We came here for the Harry Styles themed brunch. At $55 each, I think it would be fair to expect a bit more than watered-down sparkling orange juice, and a breakfast bowl of packaged sausage, wedge fries, fried eggs, and wonder bread toast. Seeing another review talking about a similar experience, and the fact this is just part of their regular menu, please don't make the same mistake we did.",
+            "reviewer_name": "Patrick Poon",
+            "rating": 1,
+            "review_text": "We came here for the Harry Styles themed brunch. At $55 each, I think it would be fair to expect a bit more than watered-down sparkling orange juice, and a breakfast bowl of packaged sausage, wedge fries, fried eggs, and wonder bread toast. Seeing another review talking about a similar experience, and the fact this is just part of their regular menu, please don't make the same mistake we did.",
+            "published_at": "a week ago",
+            "published_at_date": "2023-11-19T05:40:40.049000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 25,
+            "total_number_of_photos_by_reviewer": 4,
+            "reviewer_url": "https://www.google.com/maps/contrib/100679183158631947057/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjV1mNTfTGSf_Bz8qLPQNaqUFJgiGPqmuFTIsAz_UbvLRQ=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Went for the Broadway on Tour show. Performance was enjoyable. Food experience was atrocious. Took over 30 minutes to be served and my burger came out ice cold. I sent it back and they put my burger with 2 bites out of it back on the grill and brought it out again on the same plate with the same cold fries. Unhygienic and disgusting. No one ever offered us additional water or anything in addition to what came with the ticket. A complete waste of money, a bad experience and an embarrassment for the people who were there to put on a good performance. I'll never go back.",
+            "reviewer_name": "Jessica Oman",
+            "rating": 1,
+            "review_text": "Went for the Broadway on Tour show. Performance was enjoyable. Food experience was atrocious. Took over 30 minutes to be served and my burger came out ice cold. I sent it back and they put my burger with 2 bites out of it back on the grill and brought it out again on the same plate with the same cold fries. Unhygienic and disgusting. No one ever offered us additional water or anything in addition to what came with the ticket. A complete waste of money, a bad experience and an embarrassment for the people who were there to put on a good performance. I'll never go back.",
+            "published_at": "4 days ago",
+            "published_at_date": "2023-11-27T01:42:02.447000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 32,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/116667705814811594421/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjV5zNLtBLYObNYj9KZ-yV8e561kQySaENzH-aGsh8Gb6Hc=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "This is now the second experience I have at this location\n\nI did the abba experience it also took me 30 minutes to get my food but when the show is completely sold out and it look like 100 plus people I can see why and I liked the food, Entertainment and staff\nThe singers did do a great job at making sure everyone was included in the experience\n\nToday I did the broadway experience and once again it was a packed house. Again it took some time to get my meal but I have been to many restaurants and when busy this is the case so I was prepared. My burger was yummy and crispy fries\n\nThe 3 singers did such amazing job big energy and once again the experience was amazing\nTold the show manager Kim how impressed I was and looking forward to more of these shows",
+            "reviewer_name": "vip kuro",
+            "rating": 5,
+            "review_text": "This is now the second experience I have at this location\n\nI did the abba experience it also took me 30 minutes to get my food but when the show is completely sold out and it look like 100 plus people I can see why and I liked the food, Entertainment and staff\nThe singers did do a great job at making sure everyone was included in the experience\n\nToday I did the broadway experience and once again it was a packed house. Again it took some time to get my meal but I have been to many restaurants and when busy this is the case so I was prepared. My burger was yummy and crispy fries\n\nThe 3 singers did such amazing job big energy and once again the experience was amazing\nTold the show manager Kim how impressed I was and looking forward to more of these shows",
+            "published_at": "4 days ago",
+            "published_at_date": "2023-11-27T03:32:14.160000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 33,
+            "reviewer_url": "https://www.google.com/maps/contrib/113356961772920921763/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjV0Q-IkQLqvrGPTduewXUSdBAaEBghFYwDBTe5h4CkYhj4=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "I forgot I told myself not to come back. I'm writing it down now so I can remember for next time.\n\nI came for brunch with my sister at 11am today (Aug 20, 2023). There were no other customers on arrival. We were told we could sit anywhere, but all the seats had decorations from a previous party (picnic tablecloths and an open pack of crayons). The waitress came over with the menus and helped pick off leftover crumbs off the table. She left the tablecloth and crayons (like they were supposed to be there).\n\nThe soup of the day was strangely already sold out. My sister ordered steak and eggs, and I ordered the lumberjack breakfast. It took about 30 minutes to be done. There was new-pan residue on my sister's over-easy eggs and her steak was cooked poorly (refrigerated steak put on a max heat grill for 1 minute each side; causes grill marks, but the inside is completely raw). We asked to get it fixed. Food was mediocre after fixing.\n\nNo compensation, but we didn't bother asking. We weren't planning coming back again anyways.\n\nAlso note, there's a story of all the staff leaving in 2022.",
+            "reviewer_name": "Thomas Huang",
+            "rating": 1,
+            "review_text": "I forgot I told myself not to come back. I'm writing it down now so I can remember for next time.\n\nI came for brunch with my sister at 11am today (Aug 20, 2023). There were no other customers on arrival. We were told we could sit anywhere, but all the seats had decorations from a previous party (picnic tablecloths and an open pack of crayons). The waitress came over with the menus and helped pick off leftover crumbs off the table. She left the tablecloth and crayons (like they were supposed to be there).\n\nThe soup of the day was strangely already sold out. My sister ordered steak and eggs, and I ordered the lumberjack breakfast. It took about 30 minutes to be done. There was new-pan residue on my sister's over-easy eggs and her steak was cooked poorly (refrigerated steak put on a max heat grill for 1 minute each side; causes grill marks, but the inside is completely raw). We asked to get it fixed. Food was mediocre after fixing.\n\nNo compensation, but we didn't bother asking. We weren't planning coming back again anyways.\n\nAlso note, there's a story of all the staff leaving in 2022.",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-20T22:56:25.848000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 9,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/105609346907521519982/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLY_-r2W0mazrpnFjIAkW9Th0qbN2ceqGUszgQZxK3FMg=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Zawa is a great spot for a casual bite to eat and a drink. Loads of food options, the Zaatar and Lahma Bajeen are so tasty and great for sharing. The servers are really friendly and they also have Murphy's on draught which is a big plus!",
+            "reviewer_name": "Adrienne Allan",
+            "rating": 5,
+            "review_text": "Zawa is a great spot for a casual bite to eat and a drink. Loads of food options, the Zaatar and Lahma Bajeen are so tasty and great for sharing. The servers are really friendly and they also have Murphy's on draught which is a big plus!",
+            "published_at": "a week ago",
+            "published_at_date": "2023-11-23T20:15:42.860000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 3,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/110787897320767120560/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocL6fuvAj_Uy7TF4AE84jMQ63eCSlgLwj23XF8JjzI2Y=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "We had a great evening!  The food was good and our server Emily was wonderful and made our night -- she even played Pink Martini for us when we were rained out of their concert!  We'll definitely be back!",
+            "reviewer_name": "dwsh001",
+            "rating": 5,
+            "review_text": "We had a great evening!  The food was good and our server Emily was wonderful and made our night -- she even played Pink Martini for us when we were rained out of their concert!  We'll definitely be back!",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-30T17:56:13.284000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/116935500114511970848/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKGgJ0bkfXU8zzYlJWBCydefl0FoTbJ6KhHVYaBuWYA=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

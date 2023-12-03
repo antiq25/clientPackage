@@ -2,7 +2,7 @@
     "place_id": "ChIJfViWMXpxhlQR6op4X183_dY",
     "name": "McDonald's",
     "description": "Classic, long-running fast-food chain known for its burgers & fries.",
-    "reviews": 1054,
+    "reviews": 1058,
     "website": "https://www.mcdonalds.com/ca/en-ca/restaurant-locator.html%3Fy_source%3D1_MTQ1MjA0NzctNzE1LWxvY2F0aW9uLndlYnNpdGU%253D",
     "owner": {
         "id": "112118695432574339709",
@@ -58,23 +58,23 @@
             "count": 5
         },
         {
-            "keyword": "life",
+            "keyword": "sitting",
             "count": 5
         },
         {
-            "keyword": "sitting",
+            "keyword": "life",
             "count": 5
         }
     ],
     "link": "https://www.google.com/maps/place/McDonald%27s/data=!4m7!3m6!1s0x5486717a3196587d:0xd6fd375f5f788aea!8m2!3d49.2808074!4d-123.1072714!16s%2Fg%2F11_svczm2!19sChIJfViWMXpxhlQR6op4X183_dY?authuser=0&hl=en&rclk=1",
-    "status": "Open 24 hours",
+    "status": "Closed  Opens 7 a.m.",
     "price_range": "$",
     "reviews_per_rating": {
-        "1": 220,
+        "1": 221,
         "2": 109,
-        "3": 257,
+        "3": 258,
         "4": 217,
-        "5": 251
+        "5": 253
     },
     "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJfViWMXpxhlQR6op4X183_dY&q=McDonald%27s&authuser=0&hl=en&gl=CA",
     "coordinates": {
@@ -297,7 +297,7 @@
         },
         {
             "about": "Latest",
-            "link": "https://lh5.googleusercontent.com/p/AF1QipOdP8_h6CjUoH_tK6RUROsFl3FUeoS6bZ85kOct=w224-h298-k-no"
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPM0Spr7TDWzGjUfl8f6WRcnivisib5oi-xLLRj=w224-h298-k-no"
         },
         {
             "about": "Videos",
@@ -325,12 +325,6 @@
         }
     ],
     "hours": [
-        {
-            "day": "Sunday",
-            "times": [
-                "12 a.m.-11 p.m."
-            ]
-        },
         {
             "day": "Monday",
             "times": [
@@ -366,6 +360,12 @@
             "times": [
                 "Open 24 hours"
             ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "12 a.m.-11 p.m."
+            ]
         }
     ],
     "featured_reviews": [
@@ -374,14 +374,14 @@
             "reviewer_name": "ehsan halvaei",
             "rating": 1,
             "review_text": "The service is so bad, the restaurant is super messy, and the staff pick up the fries from the counter and put them in fries packages. I am not recommending it at all, and I report it to the health and safety food department. Also, I asked for large fries, but as you can see in the picture, they gave me medium fries in a large box.",
-            "published_at": "4 days ago",
+            "published_at": "a week ago",
             "published_at_date": "2023-11-20T07:38:50.592000Z",
             "response_from_owner_text": null,
             "response_from_owner_ago": null,
             "response_from_owner_date": null,
             "review_likes_count": 0,
-            "total_number_of_reviews_by_reviewer": 25,
-            "total_number_of_photos_by_reviewer": 61,
+            "total_number_of_reviews_by_reviewer": 26,
+            "total_number_of_photos_by_reviewer": 62,
             "reviewer_url": "https://www.google.com/maps/contrib/113072952766174571262/reviews?entry=ttu",
             "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUlGvETq8hXf_8XYTovOzRnJpyMMTZEqNcEBjQ_-UvHOUM=s120-c-rp-mo-ba3-br100",
             "is_local_guide": true,
@@ -402,10 +402,10 @@
             "response_from_owner_ago": null,
             "response_from_owner_date": null,
             "review_likes_count": 0,
-            "total_number_of_reviews_by_reviewer": 126,
-            "total_number_of_photos_by_reviewer": 2351,
+            "total_number_of_reviews_by_reviewer": 130,
+            "total_number_of_photos_by_reviewer": 2491,
             "reviewer_url": "https://www.google.com/maps/contrib/104162054907424320143/reviews?entry=ttu",
-            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVB8OHr_tNmglgB-rv9rPUc0DLT6hOhSfydIGmExt5fKK8=s120-c-rp-mo-ba6-br100",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjV7_WwPqzefuKPDTPc9w7dmtRxz1M2D5bA1VsmC_4bspuDQ=s120-c-rp-mo-ba6-br100",
             "is_local_guide": true,
             "review_translated_text": null,
             "response_from_owner_translated_text": null,
@@ -461,7 +461,7 @@
             "reviewer_name": "Sarah Keys",
             "rating": 1,
             "review_text": "Staff are rude and impatient. I could deal with that given the atmosphere of the location but they always give my 2 year old stale happy meals. Dried out, rubbery buns, cheese is crusty/dry on the edges, hamburger and fries are cold. It's disgusting and unfair. They've also said the ice cream machine broken and then proceeded to give other people it.",
-            "published_at": "3 months ago",
+            "published_at": "4 months ago",
             "published_at_date": "2023-08-01T02:44:31.178000Z",
             "response_from_owner_text": null,
             "response_from_owner_ago": null,
@@ -481,14 +481,14 @@
             "reviewer_name": "Geoffrey Abubakary",
             "rating": 5,
             "review_text": "Ordered on the app while I was at the Waterfront Centre location and it switched to this location without me noticing. I called this location and right away the person on the phone offered to call Waterfront McDonald's and have them make what I ordered there. I appreciate it!",
-            "published_at": "3 months ago",
+            "published_at": "4 months ago",
             "published_at_date": "2023-07-27T17:37:03.771000Z",
             "response_from_owner_text": null,
             "response_from_owner_ago": null,
             "response_from_owner_date": null,
             "review_likes_count": 0,
-            "total_number_of_reviews_by_reviewer": 35,
-            "total_number_of_photos_by_reviewer": 47,
+            "total_number_of_reviews_by_reviewer": 37,
+            "total_number_of_photos_by_reviewer": 52,
             "reviewer_url": "https://www.google.com/maps/contrib/118107765986338951254/reviews?entry=ttu",
             "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUrHytZ-UfqelNZlxKIF0QOhI2QPSaMIEYk1nLtUHnBTq0=s120-c-rp-mo-ba3-br100",
             "is_local_guide": true,

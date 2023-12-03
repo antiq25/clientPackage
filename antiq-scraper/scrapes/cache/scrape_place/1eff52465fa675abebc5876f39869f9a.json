@@ -1,0 +1,695 @@
+{
+    "place_id": "ChIJMZfgI8NzhlQRxMA6BNWpX5U",
+    "name": "New India Buffet + Bar & Restaurant",
+    "description": "Spacious venue with a patio, offering all-you-can-eat buffets of over 70 items plus takeaway.",
+    "reviews": 2762,
+    "website": "http://www.newindiabuffet.com/",
+    "owner": {
+        "id": "100837755862880130203",
+        "name": "New India Buffet + Bar & Restaurant (Owner)",
+        "link": "https://www.google.com/maps/contrib/100837755862880130203"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPzJLU1RWphU0cupuaetD0XHzI-jfyi2Gmtda_S=w426-h240-k-no",
+    "main_category": "Indian restaurant",
+    "categories": [
+        "Indian restaurant",
+        "Bar",
+        "Bar & grill",
+        "Buffet restaurant",
+        "Caterer",
+        "Indian takeaway",
+        "Lunch restaurant",
+        "Delivery Restaurant",
+        "Takeout Restaurant",
+        "North Indian restaurant"
+    ],
+    "rating": 3.6,
+    "workday_timing": "12 p.m.-12 a.m.",
+    "closed_on": [],
+    "phone": "(604) 874-5800",
+    "address": "New India Buffet + Bar & Restaurant, 901 W Broadway, Vancouver, BC V5Z 4M3",
+    "review_keywords": [
+        {
+            "keyword": "stale",
+            "count": 15
+        },
+        {
+            "keyword": "tip",
+            "count": 14
+        },
+        {
+            "keyword": "all you can eat",
+            "count": 14
+        },
+        {
+            "keyword": "lunch box",
+            "count": 13
+        },
+        {
+            "keyword": "fruits",
+            "count": 13
+        },
+        {
+            "keyword": "spread",
+            "count": 11
+        },
+        {
+            "keyword": "salad bar",
+            "count": 9
+        },
+        {
+            "keyword": "cold food",
+            "count": 9
+        },
+        {
+            "keyword": "boyfriend",
+            "count": 6
+        },
+        {
+            "keyword": "tvs",
+            "count": 5
+        }
+    ],
+    "link": "https://www.google.com/maps/place/New+India+Buffet+%2B+Bar+%26+Restaurant/data=!4m7!3m6!1s0x548673c323e09731:0x955fa9d5043ac0c4!8m2!3d49.2635905!4d-123.1245292!16s%2Fg%2F1tfqqn36!19sChIJMZfgI8NzhlQRxMA6BNWpX5U?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 12 p.m.",
+    "price_range": "$$",
+    "reviews_per_rating": {
+        "1": 528,
+        "2": 156,
+        "3": 311,
+        "4": 538,
+        "5": 1229
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJMZfgI8NzhlQRxMA6BNWpX5U&q=New+India+Buffet+%2B+Bar+%26+Restaurant&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.2635905,
+        "longitude": -123.1245292
+    },
+    "plus_code": "7V7G+C5 Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "West Side",
+        "street": "901 W Broadway",
+        "city": "Vancouver",
+        "postal_code": "V5Z 4M3",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "10763508366802862276",
+    "data_id": "0x548673c323e09731:0x955fa9d5043ac0c4",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Outdoor seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Curbside pickup",
+                    "enabled": true
+                },
+                {
+                    "name": "No-contact delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Takeout",
+                    "enabled": true
+                },
+                {
+                    "name": "Dine-in",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "highlights",
+            "name": "Highlights",
+            "options": [
+                {
+                    "name": "Fireplace",
+                    "enabled": true
+                },
+                {
+                    "name": "Sports",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair accessible seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible washroom",
+                    "enabled": true
+                },
+                {
+                    "name": "Assistive hearing loop",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Alcohol",
+                    "enabled": true
+                },
+                {
+                    "name": "All you can eat",
+                    "enabled": true
+                },
+                {
+                    "name": "Beer",
+                    "enabled": true
+                },
+                {
+                    "name": "Cocktails",
+                    "enabled": true
+                },
+                {
+                    "name": "Coffee",
+                    "enabled": true
+                },
+                {
+                    "name": "Happy hour food",
+                    "enabled": true
+                },
+                {
+                    "name": "Hard liquor",
+                    "enabled": true
+                },
+                {
+                    "name": "Healthy options",
+                    "enabled": true
+                },
+                {
+                    "name": "Late-night food",
+                    "enabled": true
+                },
+                {
+                    "name": "Salad bar",
+                    "enabled": true
+                },
+                {
+                    "name": "Small plates",
+                    "enabled": true
+                },
+                {
+                    "name": "Vegan options",
+                    "enabled": true
+                },
+                {
+                    "name": "Vegetarian options",
+                    "enabled": true
+                },
+                {
+                    "name": "Wine",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Dining options",
+            "options": [
+                {
+                    "name": "Breakfast",
+                    "enabled": true
+                },
+                {
+                    "name": "Brunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Lunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Dinner",
+                    "enabled": true
+                },
+                {
+                    "name": "Catering",
+                    "enabled": true
+                },
+                {
+                    "name": "Dessert",
+                    "enabled": true
+                },
+                {
+                    "name": "Seating",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Bar on-site",
+                    "enabled": true
+                },
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                },
+                {
+                    "name": "Wi-Fi",
+                    "enabled": true
+                },
+                {
+                    "name": "Wi-Fi",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosphere",
+            "options": [
+                {
+                    "name": "Casual",
+                    "enabled": true
+                },
+                {
+                    "name": "Cozy",
+                    "enabled": true
+                },
+                {
+                    "name": "Upscale",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "crowd",
+            "name": "Crowd",
+            "options": [
+                {
+                    "name": "Family-friendly",
+                    "enabled": true
+                },
+                {
+                    "name": "Groups",
+                    "enabled": true
+                },
+                {
+                    "name": "LGBTQ+ friendly",
+                    "enabled": true
+                },
+                {
+                    "name": "Transgender safe space",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planning",
+            "options": [
+                {
+                    "name": "Accepts reservations",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "children",
+            "name": "Children",
+            "options": [
+                {
+                    "name": "Good for kids",
+                    "enabled": true
+                },
+                {
+                    "name": "High chairs",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "parking",
+            "name": "Parking",
+            "options": [
+                {
+                    "name": "Free parking lot",
+                    "enabled": true
+                },
+                {
+                    "name": "Parking",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPzJLU1RWphU0cupuaetD0XHzI-jfyi2Gmtda_S=w529-h298-k-no"
+        },
+        {
+            "about": "Latest",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipODJXnUxCYhtiv3DhrmG4vbJmmarR1uqsZ1tT1F=w224-h298-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPb4rY0_AvvUaWyZoQqKEuzyvuem7kxzq_hLTw0=w529-h298-k-no"
+        },
+        {
+            "about": "Menu",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNkZ2qIpErKuQdjAMslz1x-Wuz4aBVXS4dZkH_K=w224-h298-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipM44ZjQrHesXLscYzTO729w1zIatH59LYVxc_31=w298-h298-k-no"
+        },
+        {
+            "about": "Vibe",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipM_X12cTdkuET3GWaucul5j4l-VYqhsN9JKUEm-=w529-h298-k-no"
+        },
+        {
+            "about": "Take-out",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNNa28Ju0k719jSN0rcYFMM4C461eJQI19e8Z5z=w397-h298-k-no"
+        },
+        {
+            "about": "Biryani",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMxC7PJPzhwOf5LHagbkg6G1XRK2X_Wbsdj_YUb=w224-h298-k-no"
+        },
+        {
+            "about": "Naan",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOt0TkLaFNfE2gZ2ilimrDm5mbL3aK98-0JBsse=w224-h298-k-no"
+        },
+        {
+            "about": "Jalebi",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMk_pNvHApcg0auxZ_tYyQE5109loUwcwZpwpDF=w224-h298-k-no"
+        },
+        {
+            "about": "Chicken tikka",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipME4ITQotTlmizICOCDtfg4GWJ0_nkQF-36CHdw=w529-h298-k-no"
+        },
+        {
+            "about": "Samosa",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOEFR-MDplEAiRS5m7fd1IlaXCgo39pvAMSwvHE=w224-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipO6n8UmV3O1Ni5tTFoYGIxnKTbns7BzHDugvz0X=w529-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_qgzbDsOGhSrYfoAQWLBjA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=347.7454&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "12 p.m.-12 a.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "12 p.m.-12 a.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "12 p.m.-12 a.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "12 p.m.-12 a.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "12 p.m.-1 a.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "12 p.m.-1 a.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "12 p.m.-12 a.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "I had a very uncommon service. I went there a couple months ago. The place has both indoor and outdoor seating. We liked the food we ordered and the staff was very friendly. The most weird thing was that they charge a dollar amount on every dish you dine in. That is how they present on their menu as well.\nThey already charged a 15% tip to our bill without our consideration which I was most gutted about.  The items just say dinner and no description as well either. I don't mind give a 15% tip but with my consent.",
+            "reviewer_name": "Rahul Sapra",
+            "rating": 2,
+            "review_text": "I had a very uncommon service. I went there a couple months ago. The place has both indoor and outdoor seating. We liked the food we ordered and the staff was very friendly. The most weird thing was that they charge a dollar amount on every dish you dine in. That is how they present on their menu as well.\nThey already charged a 15% tip to our bill without our consideration which I was most gutted about.  The items just say dinner and no description as well either. I don't mind give a 15% tip but with my consent.",
+            "published_at": "4 weeks ago",
+            "published_at_date": "2023-11-02T17:47:58.105000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 41,
+            "total_number_of_photos_by_reviewer": 439,
+            "reviewer_url": "https://www.google.com/maps/contrib/104631172487886242525/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVSH9WeBeMIMryJEb1vfyvyVx6guiHTyixNJFnB9jBtQTQi=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPsTPXJ9mpP8OZRptcJm6qJl7HXYq9cNDsLErmo=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipN7BbT7IrdIIGK928Kd_teqF9vqPYV3AgflXQ9B=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "The restaurant is really at a great location plus the ambience is perfect. \nNot just Indians but everyone would love the food here as it has many varieties.\nI tried buffet and it costed me 25 bucks which was alright.\nTry this restaurant if you crave Indian home style authentic dishes.",
+            "reviewer_name": "Riddhi Loladia",
+            "rating": 5,
+            "review_text": "The restaurant is really at a great location plus the ambience is perfect. \nNot just Indians but everyone would love the food here as it has many varieties.\nI tried buffet and it costed me 25 bucks which was alright.\nTry this restaurant if you crave Indian home style authentic dishes.",
+            "published_at": "5 months ago",
+            "published_at_date": "2023-06-20T06:01:20.400000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 3,
+            "total_number_of_reviews_by_reviewer": 49,
+            "total_number_of_photos_by_reviewer": 66,
+            "reviewer_url": "https://www.google.com/maps/contrib/104862289062272523094/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKvN9RaPD96UOK7UOF_MMgzmPcnrFasDLNhbHA-brT_-Q=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNi6zWedEn7dhU-xHHsgRdTMcyiQHJ79fzb-foF=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOuguxOev6LiZKaC-uMMJZhRujXvvOzYVSjCZ0B=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMikWJV6F7E97he3onnE0kBpbPR9Vq9Dxb2zMPg=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNcXrsgXpOD1mmjPt4K1BQorWzTvvV3_rDZhKs5=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPuxqCdECOvRHs18Z3wuyIXYbHiJ0VuXq2zEP6G=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "YUM. Love this place. I go often. One of the only buffers I can find in vancouver area. Does not disappoint. So many yummy options to choose from. Cool bar, great music.",
+            "reviewer_name": "Michael Schneider",
+            "rating": 5,
+            "review_text": "YUM. Love this place. I go often. One of the only buffers I can find in vancouver area. Does not disappoint. So many yummy options to choose from. Cool bar, great music.",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-21T15:29:38.692000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 52,
+            "total_number_of_photos_by_reviewer": 29,
+            "reviewer_url": "https://www.google.com/maps/contrib/114032918120390722700/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUhpybj22afqzSf8ooMP4zxs-4CBet1VYxOK49Dsgbh7r8=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPo27cZ-asvpiGMgHPKgriyZlS4TcaXcTTJM6km=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Best Indian food but service is not good, they took 30 mins to bring my food. But overall it's a nice place to hang out.",
+            "reviewer_name": "akshata desai",
+            "rating": 4,
+            "review_text": "Best Indian food but service is not good, they took 30 mins to bring my food. But overall it's a nice place to hang out.",
+            "published_at": "3 weeks ago",
+            "published_at_date": "2023-11-09T07:11:50.183000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 67,
+            "total_number_of_photos_by_reviewer": 1547,
+            "reviewer_url": "https://www.google.com/maps/contrib/110568570653181972118/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWB_0ibo82mfEF3dm125-P05dVxiQYDR4oHcjODhiZ_i09D=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipP9XR50XmiwbqtT4EbEauPI9iCuE57sIRqydugU=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOt0TkLaFNfE2gZ2ilimrDm5mbL3aK98-0JBsse=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipO5h4a8h93MfjDEtRoSZ1zuTX83AyoIgszLL3pI=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNojpZ3bUMsXA2Vsp99IcmVJqdiNtWyXnLb31ut=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNjhcl4-iXq8ysoRV9lRfmNdfwRlzhv_5U0MVWw=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPznA61BBs-v_r68IU0SnrmaFUx5M4lbvMQ_n3Y=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOlHJC3_k_oo0aYZGNJ7TLqjZ3TG9YAcLOAVnoD=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipN38vhvaHfPZ_p1mmOYbBtCgyDoYa8yL49fwOgy=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMEYdQb-3jhXvVm-FyvHJyLuQVw9nDaPsjfPkE8=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPco1G5p5ZTc3LaXS5ZKtkpcgMYDJi11tRpHnkP=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMrHaX9qBHg8CDXBLtzmLzJ0Lt6Ei9fHC2X21w5=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipM4aimKpqLZZMKBLdf-ny_W2Z8_WKWoqi-3L1RW=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPw85XWHOOwD07WnV82z8wlBhCwTtk6dm5oBda9=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPf8LOWo9ptRJIQHgWwQiVfzAW74g7Wq3Soq6_-=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Non veg options on a Sunday night were very limited, especially the starters(only chicken tandoori and chicken Manchurian, nothing else!). Butter chicken tasted very bad, other curries were also not good. The veg options were good, quite a few options actually. Desserts were not great either, wouldn't recommend to anyone. Will definitely not return.\n\nCarrot halwa was stale, I had to spit it out. I complained and they did replace it but it was too late anyway. Would suggest to offer more non veg starter options and also improve the taste of items and ensure fresh dishes only.",
+            "reviewer_name": "vamsi krishna",
+            "rating": 3,
+            "review_text": "Non veg options on a Sunday night were very limited, especially the starters(only chicken tandoori and chicken Manchurian, nothing else!). Butter chicken tasted very bad, other curries were also not good. The veg options were good, quite a few options actually. Desserts were not great either, wouldn't recommend to anyone. Will definitely not return.\n\nCarrot halwa was stale, I had to spit it out. I complained and they did replace it but it was too late anyway. Would suggest to offer more non veg starter options and also improve the taste of items and ensure fresh dishes only.",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-07T07:01:41.342000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 3,
+            "total_number_of_reviews_by_reviewer": 32,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/109682360000974944162/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW-ofLBI8Cgn5Gz49-BoqHysIfZQ2R8rfIre0UU6gOjUsA=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOJNfsezZCG2WX1udHVh_oBzSYAn_7Zs81V1GU7=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipO2A06ihbv7rsnOGkr8_F_7vWMyQ2bCJOsiYMkW=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Just exploring restaurants around granville broadway area. I wouldn't say my experience was so good here. We thought we arrived there at wrong time. It was around 10pm and they rushed us to order food and drinks.\nOnly good thing was our server. Guy worked really hard and he was the only one on the floor. We ordered rose lassi and margrita. Drinks were great but obviously it took some time to arrive on our table since there was only one guy to do all the tasks. Five stars only for him and i dont want to affect your restaurant ratings. I didnt get a chance to catch his name but if you are reading this.. you are doing a great job. U saved 4 stars for your restaurant otherwise i would have given only one star for food.",
+            "reviewer_name": "Manish Basra",
+            "rating": 5,
+            "review_text": "Just exploring restaurants around granville broadway area. I wouldn't say my experience was so good here. We thought we arrived there at wrong time. It was around 10pm and they rushed us to order food and drinks.\nOnly good thing was our server. Guy worked really hard and he was the only one on the floor. We ordered rose lassi and margrita. Drinks were great but obviously it took some time to arrive on our table since there was only one guy to do all the tasks. Five stars only for him and i dont want to affect your restaurant ratings. I didnt get a chance to catch his name but if you are reading this.. you are doing a great job. U saved 4 stars for your restaurant otherwise i would have given only one star for food.",
+            "published_at": "6 months ago",
+            "published_at_date": "2023-05-26T07:44:13.822000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 48,
+            "total_number_of_photos_by_reviewer": 139,
+            "reviewer_url": "https://www.google.com/maps/contrib/115965307028457587923/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVRYiF8jXF3VgP2u-Gs9fOVZB5jUBcHqSOm5uLzQ-XP4uc=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNi41djFbhcfw5L3VVRetJ0lTufwwx6IMbB9vHz=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPssQ_cf9CUHh9Eoau2Q2h_CYQE_FGw75Ws0ZRn=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOksTpjnEK4bjHVBdI-MEzIMNKhv4l8slsqSzFA=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Don't waste your time coming here. My boyfriend and I came to try it out and almost immediately regretted it. This place was dirty - everything felt grimy, from the tables to the seats to the cutlery and the dinnerware was dirty with stuck on food. The food wasn't good and it was old and stale. The service wasn't very good and when your paying by card they they will try to make you pay a 15% tip which was not very fair due to the poor service, food, and atmosphere. 10/10 DO NOT RECOMMEND AND DO NOT COME HERE please save your hard earned money and spend it somewhere else and we won't be coming back!",
+            "reviewer_name": "Chelsi Souch",
+            "rating": 1,
+            "review_text": "Don't waste your time coming here. My boyfriend and I came to try it out and almost immediately regretted it. This place was dirty - everything felt grimy, from the tables to the seats to the cutlery and the dinnerware was dirty with stuck on food. The food wasn't good and it was old and stale. The service wasn't very good and when your paying by card they they will try to make you pay a 15% tip which was not very fair due to the poor service, food, and atmosphere. 10/10 DO NOT RECOMMEND AND DO NOT COME HERE please save your hard earned money and spend it somewhere else and we won't be coming back!",
+            "published_at": "2 weeks ago",
+            "published_at_date": "2023-11-14T03:42:04.829000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 8,
+            "total_number_of_photos_by_reviewer": 4,
+            "reviewer_url": "https://www.google.com/maps/contrib/100808615303090803632/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIDSs_odGAe_8WKWDuZ9En5ShFGUiDPaqgzzg6KTu0f=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Huge dining space inside, which you would wonder exists when looked from outside. Nice patio during the summer but with the construction site, you would want to stay inside. First time in Vancouver I experienced the all you can eat for a fixed price. Huge variety of Indian food and few Chinese food as well. CAD 26 with Tax and you can eat as you wish from the buffet. Lovely to see how the staff refills the buffet with closely paying attention. Taste level is 8/10..  Value for money 10/10",
+            "reviewer_name": "Shihara Rodrigo",
+            "rating": 5,
+            "review_text": "Huge dining space inside, which you would wonder exists when looked from outside. Nice patio during the summer but with the construction site, you would want to stay inside. First time in Vancouver I experienced the all you can eat for a fixed price. Huge variety of Indian food and few Chinese food as well. CAD 26 with Tax and you can eat as you wish from the buffet. Lovely to see how the staff refills the buffet with closely paying attention. Taste level is 8/10..  Value for money 10/10",
+            "published_at": "a year ago",
+            "published_at_date": "2022-05-24T02:55:09.982000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 10,
+            "total_number_of_reviews_by_reviewer": 157,
+            "total_number_of_photos_by_reviewer": 265,
+            "reviewer_url": "https://www.google.com/maps/contrib/109554353585127829989/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJ4HOlpvdNw-BHAAnXhJjjpYBJkC3QSInvsqjyXEYdn=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPsioZcO0toFBqtjty1UQKav8yCQ7N0Wc_OEONX=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPr-dJjQhzHkveS5PijADidkqTXJD_05u9nm6Q8=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNjZj0xnNHZgAl7YF_OQ10G01pQRTToKQF3jRKj=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPCX5jAKYe2_8Zkac5CUh7wt4V330by2agOGsu1=w150-h150-k-no-p"
+            ]
+        }
+    ],
+    "is_spending_on_ads": false
+}

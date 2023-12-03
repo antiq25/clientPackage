@@ -1,0 +1,602 @@
+{
+    "place_id": "ChIJV5_58YNxhlQRAY6qECXa8vI",
+    "name": "P2B Restaurant + Bar",
+    "description": "Breakfast-to-dinner New Canadian food in an upscale-casual space with huge windows & a full bar.",
+    "reviews": 319,
+    "website": "http://www.p2bbistro.com/",
+    "owner": {
+        "id": "104764462970215543189",
+        "name": "P2B Restaurant + Bar (Owner)",
+        "link": "https://www.google.com/maps/contrib/104764462970215543189"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNjX3XVcAQbpsuI2vxf2pjBZCyBTc0GyzSksown=w408-h271-k-no",
+    "main_category": "Restaurant",
+    "categories": [
+        "Restaurant",
+        "Bar"
+    ],
+    "rating": 4,
+    "workday_timing": "6:30 a.m.-11 p.m.",
+    "closed_on": [],
+    "phone": "(604) 691-2777",
+    "address": "P2B Restaurant + Bar, 1133 W Hastings St, Vancouver, BC V6E 3T3",
+    "review_keywords": [
+        {
+            "keyword": "server",
+            "count": 47
+        },
+        {
+            "keyword": "breakfast",
+            "count": 27
+        },
+        {
+            "keyword": "hotel",
+            "count": 26
+        },
+        {
+            "keyword": "dinner",
+            "count": 21
+        },
+        {
+            "keyword": "happy hour",
+            "count": 20
+        },
+        {
+            "keyword": "buffet",
+            "count": 8
+        },
+        {
+            "keyword": "bartender",
+            "count": 7
+        },
+        {
+            "keyword": "salmon",
+            "count": 7
+        },
+        {
+            "keyword": "wine",
+            "count": 7
+        },
+        {
+            "keyword": "windows",
+            "count": 5
+        }
+    ],
+    "link": "https://www.google.com/maps/place/P2B+Restaurant+%2B+Bar/data=!4m7!3m6!1s0x54867183f1f99f57:0xf2f2da2510aa8e01!8m2!3d49.2885736!4d-123.1203839!16s%2Fg%2F1q62bqx1v!19sChIJV5_58YNxhlQRAY6qECXa8vI?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 6:30 a.m.",
+    "price_range": "$$",
+    "reviews_per_rating": {
+        "1": 21,
+        "2": 21,
+        "3": 50,
+        "4": 85,
+        "5": 142
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJV5_58YNxhlQRAY6qECXa8vI&q=P2B+Restaurant+%2B+Bar&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.2885736,
+        "longitude": -123.1203839
+    },
+    "plus_code": "7VQH+CR Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "Central Vancouver",
+        "street": "1133 W Hastings St",
+        "city": "Vancouver",
+        "postal_code": "V6E 3T3",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "17506294554270797313",
+    "data_id": "0x54867183f1f99f57:0xf2f2da2510aa8e01",
+    "menu": {
+        "link": "http://p2bbistro.com/menu/",
+        "source": "p2bbistro.com"
+    },
+    "reservations": [
+        {
+            "link": "https://www.opentable.ca/restaurant/profile/33223%3Fref%3D16423",
+            "source": "opentable.ca"
+        }
+    ],
+    "order_online_links": [
+        {
+            "link": "https://www.opentable.ca/restaurant/profile/33223?ref=16423",
+            "source": "opentable.ca"
+        }
+    ],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Outdoor seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Takeout",
+                    "enabled": true
+                },
+                {
+                    "name": "Dine-in",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "highlights",
+            "name": "Highlights",
+            "options": [
+                {
+                    "name": "Great cocktails",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair accessible seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Alcohol",
+                    "enabled": true
+                },
+                {
+                    "name": "Beer",
+                    "enabled": true
+                },
+                {
+                    "name": "Cocktails",
+                    "enabled": true
+                },
+                {
+                    "name": "Coffee",
+                    "enabled": true
+                },
+                {
+                    "name": "Happy hour food",
+                    "enabled": true
+                },
+                {
+                    "name": "Hard liquor",
+                    "enabled": true
+                },
+                {
+                    "name": "Late-night food",
+                    "enabled": true
+                },
+                {
+                    "name": "Small plates",
+                    "enabled": true
+                },
+                {
+                    "name": "Vegetarian options",
+                    "enabled": true
+                },
+                {
+                    "name": "Wine",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Dining options",
+            "options": [
+                {
+                    "name": "Breakfast",
+                    "enabled": true
+                },
+                {
+                    "name": "Brunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Lunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Dinner",
+                    "enabled": true
+                },
+                {
+                    "name": "Dessert",
+                    "enabled": true
+                },
+                {
+                    "name": "Seating",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Bar on-site",
+                    "enabled": true
+                },
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                },
+                {
+                    "name": "Wi-Fi",
+                    "enabled": true
+                },
+                {
+                    "name": "Wi-Fi",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosphere",
+            "options": [
+                {
+                    "name": "Casual",
+                    "enabled": true
+                },
+                {
+                    "name": "Cozy",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "crowd",
+            "name": "Crowd",
+            "options": [
+                {
+                    "name": "Family-friendly",
+                    "enabled": true
+                },
+                {
+                    "name": "Groups",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planning",
+            "options": [
+                {
+                    "name": "Accepts reservations",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "children",
+            "name": "Children",
+            "options": [
+                {
+                    "name": "Good for kids",
+                    "enabled": true
+                },
+                {
+                    "name": "High chairs",
+                    "enabled": true
+                },
+                {
+                    "name": "Kids' menu",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNjX3XVcAQbpsuI2vxf2pjBZCyBTc0GyzSksown=w447-h298-k-no"
+        },
+        {
+            "about": "Menu",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMLnnT1CXpdu4DUYOsL_iQNZVcZJHdGTIVPdtoL=w224-h496-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipO4dnd4qZ18KumgFPLAKbjaa38Ucb7DDE-wcmm5=w529-h298-k-no"
+        },
+        {
+            "about": "Vibe",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMdJpEMReW-WR3jCuXU22esYsptj8UM7IVWOCqQ=w224-h298-k-no"
+        },
+        {
+            "about": "Filet mignon",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMw_A-3ZkpfvLaYsAWl1zya9OhR1ql9evp1vLKn=w662-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPNSajoi07iJWiedjDWt5fd--iWm6ydaDlZrnuO=w447-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=8Aj50ruMaG4B-F-jWY-XjA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=53.607975&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "6:30 a.m.-11 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "6:30 a.m.-11 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "6:30 a.m.-11 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "6:30 a.m.-11 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "6:30 a.m.-11 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "6:30 a.m.-11 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "6:30 a.m.-11 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "The atmosphere is kinda loud. Lots of natural light. Our server Candace was amazing. The food was good a little pricey. There was a lot if GF options.",
+            "reviewer_name": "Hillbillytc",
+            "rating": 4,
+            "review_text": "The atmosphere is kinda loud. Lots of natural light. Our server Candace was amazing. The food was good a little pricey. There was a lot if GF options.",
+            "published_at": "6 months ago",
+            "published_at_date": "2023-05-17T03:00:03.587000Z",
+            "response_from_owner_text": "Thank you for the review! We hope to see you again in the future. ",
+            "response_from_owner_ago": "a month ago",
+            "response_from_owner_date": "2023-10-12T19:15:21.709000Z",
+            "review_likes_count": 3,
+            "total_number_of_reviews_by_reviewer": 502,
+            "total_number_of_photos_by_reviewer": 1199,
+            "reviewer_url": "https://www.google.com/maps/contrib/107403265326436873917/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXH7or6mc8Yo8ap4R1YBtTh2IgHObwxcxqjEQ5RptmXSuM=s120-c-rp-mo-ba6-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipP1ozbapxHej6rIz9SWmGpTuwMvcwla9eQ8gD7N=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipP4LiN-hMLWCf-so6fQW0oLvLZcTUl_5q9ErtyB=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMK_LWNRMXTBPz9tW6DJQSxtpnSPQt_VtpZpQBi=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMkwJcRn-Mz8b1rZSD42lQ4oZIkkHmmiMGUdRGz=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipO34M86IPKgRyetjKpdrlUaqTv_yaM-WTisEYQa=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOst40lmq2WJpDp3YT2L-jsPWS6feIbw-VTl1ZX=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMTlRQothv1ujFXByJp8GPKzO91PN7tT_8PEjS-=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipO1Bw3qHv_FT66y0BZB9RftOriXrz9s2yUiPS3l=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMLnnT1CXpdu4DUYOsL_iQNZVcZJHdGTIVPdtoL=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Disclaimer: The Executive Chef is a friend.\n\nFood here was amazing. Our menu was curated by the executive chef.\n\nPlating: 3.5/5\nFlavour: 3.5/5\nEnvironment: 3/5\nService: 3.5/5\n\nTo us, it was an above average hotel cafe/coffeehouse but maybe only because we were served a \"special\" menu.\n\nI thoroughly enjoyed the Sablefish which was paired with truly yummy Brussels Sprout.\n\nWorth visiting if you are round the corner. No fanfare; just really simple good food.",
+            "reviewer_name": "Silly Cow",
+            "rating": 4,
+            "review_text": "Disclaimer: The Executive Chef is a friend.\n\nFood here was amazing. Our menu was curated by the executive chef.\n\nPlating: 3.5/5\nFlavour: 3.5/5\nEnvironment: 3/5\nService: 3.5/5\n\nTo us, it was an above average hotel cafe/coffeehouse but maybe only because we were served a \"special\" menu.\n\nI thoroughly enjoyed the Sablefish which was paired with truly yummy Brussels Sprout.\n\nWorth visiting if you are round the corner. No fanfare; just really simple good food.",
+            "published_at": "10 months ago",
+            "published_at_date": "2023-01-27T23:50:46.525000Z",
+            "response_from_owner_text": "Thank you for your review. We hope to have you back again soon! ",
+            "response_from_owner_ago": "a month ago",
+            "response_from_owner_date": "2023-10-12T19:22:52.913000Z",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 96,
+            "total_number_of_photos_by_reviewer": 280,
+            "reviewer_url": "https://www.google.com/maps/contrib/109552282182010831382/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjX6abehqueEptl0jl0-CFVYUzKAEEjeZYKVmko6E3fJZkY=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipN9bl_eDc3JWIZD_1UEwD7ND16Zbqmru7OtM7Ct=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPR5mQ9Syb5l_O3TdqE3vzp0gZYJXC0hjMnE9Fg=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPgZ25S3yKcSlGPd1I-zFzlzuvVnktF2iYXCpnq=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "The Food is good, the drinks are better.\nIt's a bit pricey for what they offer.\n\nThe big windows provide a good lighting and view on the harbor/water.",
+            "reviewer_name": "Johnny",
+            "rating": 4,
+            "review_text": "The Food is good, the drinks are better.\nIt's a bit pricey for what they offer.\n\nThe big windows provide a good lighting and view on the harbor/water.",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-16T17:44:52.506000Z",
+            "response_from_owner_text": "Thank you so much for the review Johnny, we hope to see you again soon! ",
+            "response_from_owner_ago": "a month ago",
+            "response_from_owner_date": "2023-10-12T18:39:56.665000Z",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 41,
+            "total_number_of_photos_by_reviewer": 17,
+            "reviewer_url": "https://www.google.com/maps/contrib/114151637791923486772/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVmeKsmBygN55gOhnZiW6WxvuL5z0cE5i8bu35l8-CGaf0=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNUf8ExCICuBaqQGplibXxNDaAbrqKOe63tOysB=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMzKazJnVAsH3ipPFoPxu3FzyVCWOWAUyuEK-g2=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Attend at your own risk!\nThis is the worst restaurant I've been to in years. Terrible Linguini, and bad everything else, with unprofessional service. The Health department should make an inspection because when the waiters make a mistake, they switch plates between tables, after being eaten, just a quick reset in the kitchen and re-serve the plate.",
+            "reviewer_name": "Jose Ayala M.",
+            "rating": 1,
+            "review_text": "Attend at your own risk!\nThis is the worst restaurant I've been to in years. Terrible Linguini, and bad everything else, with unprofessional service. The Health department should make an inspection because when the waiters make a mistake, they switch plates between tables, after being eaten, just a quick reset in the kitchen and re-serve the plate.",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-27T22:32:32.945000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 72,
+            "total_number_of_photos_by_reviewer": 30,
+            "reviewer_url": "https://www.google.com/maps/contrib/100363974339891954435/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKy5A2tDUjIXiWjGYHbnmHT7IT4PtoHk057tu_qXdeX=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPSaKeXZB3RXJnJ-Njc87I48Lw7hK_i1S0ErnEE=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "She made a mistake on my order. Then brought me a verycold sausage.  the other waitress treated me better. The steak was hard to cut so I only had fries. Other than that. I slept a good as I can. treated great.  left my pinnacle pen in the room. ",
+            "reviewer_name": "Phyllis Kehoe",
+            "rating": 2,
+            "review_text": "She made a mistake on my order. Then brought me a verycold sausage.  the other waitress treated me better. The steak was hard to cut so I only had fries. Other than that. I slept a good as I can. treated great.  left my pinnacle pen in the room. ",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-19T18:25:02.888000Z",
+            "response_from_owner_text": "Thank you for your feedback. We're sorry for the issues with your order, and we'll work to improve our service and food quality.",
+            "response_from_owner_ago": "a month ago",
+            "response_from_owner_date": "2023-10-23T18:05:57.434000Z",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 17,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/109192560715799451715/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJchLku6HjHQ3wvNs2J9X1lJCy4IZv8b4Njh3A3fztr=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Late night dinner on the Saturday night, we had Linguine Puttanesca that's been lightly tossed with the hotels' owners owned Olive oils.. that's just pure virgin oil, and the quantity and quality of the plating were simply outstanding. \nMy wife had the Steak Diane, the sauce is made with red wine and chanterelle.. she said the steak just melted in her mouth. We paired them both with local BC reds. The service was old school style, gracious and friendly. 5* dinner !",
+            "reviewer_name": "Prem Chainani",
+            "rating": 5,
+            "review_text": "Late night dinner on the Saturday night, we had Linguine Puttanesca that's been lightly tossed with the hotels' owners owned Olive oils.. that's just pure virgin oil, and the quantity and quality of the plating were simply outstanding. \nMy wife had the Steak Diane, the sauce is made with red wine and chanterelle.. she said the steak just melted in her mouth. We paired them both with local BC reds. The service was old school style, gracious and friendly. 5* dinner !",
+            "published_at": "9 months ago",
+            "published_at_date": "2023-02-02T07:07:07.650000Z",
+            "response_from_owner_text": "Thank you for the 5-star rating!",
+            "response_from_owner_ago": "8 months ago",
+            "response_from_owner_date": "2023-03-09T18:13:03.083000Z",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 46,
+            "total_number_of_photos_by_reviewer": 51,
+            "reviewer_url": "https://www.google.com/maps/contrib/105322234073860900136/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUM2WZYnzgwpzJNHb64ocQIXNjpCxfrJ4Tt5XbZdzrIDF4=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOe4eVaXUkNd3l32X3jXgZLHcR0l53s3G22WiUR=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMdZSDbZHchkh_tnA413TM-B0Fpe_yAfML7SQaU=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Had the pleasure to take advantage of the three course 2022 dine out lunch menu. For $25 per person (pp), we received a three course meal which started with a goat cheese salad appetizer (also had a choice of a chef selection soup -- which was coconut chicken that day), a main -- three options available --\nsalmon, short rib pasta and a vegetarian option which was a portobello mushroom burger -- we selected the latter two. Both tasted great; albeit, the pasta was heavy as it was made with a cream sauce. We ended the meal with a slice of decadent chocolate cake. For a $25 pp price tag, it was good value, and worth the trip. Erin was our server, and she was both helpful and friendly. Location is conveniently located in Coal Harbour, and we also lucked out with a mountainous view that day! The restaurant wasn't too busy, so noise was moderate and seating comfortable.",
+            "reviewer_name": "Lesley Yuen",
+            "rating": 5,
+            "review_text": "Had the pleasure to take advantage of the three course 2022 dine out lunch menu. For $25 per person (pp), we received a three course meal which started with a goat cheese salad appetizer (also had a choice of a chef selection soup -- which was coconut chicken that day), a main -- three options available --\nsalmon, short rib pasta and a vegetarian option which was a portobello mushroom burger -- we selected the latter two. Both tasted great; albeit, the pasta was heavy as it was made with a cream sauce. We ended the meal with a slice of decadent chocolate cake. For a $25 pp price tag, it was good value, and worth the trip. Erin was our server, and she was both helpful and friendly. Location is conveniently located in Coal Harbour, and we also lucked out with a mountainous view that day! The restaurant wasn't too busy, so noise was moderate and seating comfortable.",
+            "published_at": "a year ago",
+            "published_at_date": "2022-01-24T02:42:25.080000Z",
+            "response_from_owner_text": "Thank you for choosing to dine with us, Lesley and taking the time to write such a glowing review! We are thrilled to hear that you enjoyed our Dine Out Lunch Menu. We hope to see you again soon.",
+            "response_from_owner_ago": "a year ago",
+            "response_from_owner_date": "2022-07-28T22:23:17.532000Z",
+            "review_likes_count": 4,
+            "total_number_of_reviews_by_reviewer": 18,
+            "total_number_of_photos_by_reviewer": 20,
+            "reviewer_url": "https://www.google.com/maps/contrib/109636303408107385539/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJ1Mn6MhTBFgmmAYXSo4p6cKC2xKar1elSMB6Rt8329yQ=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipP0xTzzhCIG0Ud_y3vK4o8JeWOLcLs2CRAtB4pk=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPYF9OOOVEvBKlofYDWoKlzagTXHu3UnDBM54V6=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Really good ambiance. Reasonably priced menu. And happy hour wine is cheap. $6 for a 6 oz . But service is very dry, trying to crack a joke and just have a dry response fr the server. Sorry...",
+            "reviewer_name": "Joving Kalbo",
+            "rating": 4,
+            "review_text": "Really good ambiance. Reasonably priced menu. And happy hour wine is cheap. $6 for a 6 oz . But service is very dry, trying to crack a joke and just have a dry response fr the server. Sorry...",
+            "published_at": "a year ago",
+            "published_at_date": "2022-05-24T23:53:42.757000Z",
+            "response_from_owner_text": "Hello Joving, thank you for taking the time to give us some feedback, I'm so sorry that we didn't meet our usual standard. We take our guests comments very seriously and we will speak with our team to make sure to improve for the future. I sincerely hope we can welcome you back soon and give you a much better experience.",
+            "response_from_owner_ago": "11 months ago",
+            "response_from_owner_date": "2022-12-30T21:05:23.636000Z",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 184,
+            "total_number_of_photos_by_reviewer": 646,
+            "reviewer_url": "https://www.google.com/maps/contrib/102131110878238595611/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjV_cwfSGuWOXRI9hfHNO85jTmpl2wFuszW0SerycyovG58=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOORo4cBctZepK7Odm92S5I4L4oDevArpVyXnrK=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMDvjQfcGNq-ZGLbwVD52aNBePP9nmn_yUvEknH=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPMRmrf3tNspv4kE7VZtA2M5Je-KMG7t0s9t-66=w150-h150-k-no-p"
+            ]
+        }
+    ],
+    "is_spending_on_ads": false
+}

@@ -2,7 +2,7 @@
     "place_id": "ChIJIQAxLxpxhlQRgDHJ-ZVPxXE",
     "name": "McDonald's",
     "description": "Classic, long-running fast-food chain known for its burgers & fries.",
-    "reviews": 891,
+    "reviews": 893,
     "website": "https://www.mcdonalds.com/ca/en-ca/restaurant-locator.html?y_source=1_MTQ1MjAxMjUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
     "owner": {
         "id": "112233742382692489605",
@@ -67,12 +67,12 @@
         }
     ],
     "link": "https://www.google.com/maps/place/McDonald%27s/data=!4m7!3m6!1s0x5486711a2f310021:0x71c54f95f9c93180!8m2!3d49.285158!4d-123.064021!16s%2Fg%2F1tkbxxvh!19sChIJIQAxLxpxhlQRgDHJ-ZVPxXE?authuser=0&hl=en&rclk=1",
-    "status": "Open 24 hours",
+    "status": "Closed  Opens 6 a.m.",
     "price_range": "$",
     "reviews_per_rating": {
-        "1": 182,
+        "1": 185,
         "2": 101,
-        "3": 203,
+        "3": 202,
         "4": 188,
         "5": 217
     },
@@ -356,12 +356,6 @@
     ],
     "hours": [
         {
-            "day": "Sunday",
-            "times": [
-                "12 a.m.-11 p.m."
-            ]
-        },
-        {
             "day": "Monday",
             "times": [
                 "6 a.m.-11 p.m."
@@ -396,6 +390,12 @@
             "times": [
                 "Open 24 hours"
             ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "12 a.m.-11 p.m."
+            ]
         }
     ],
     "featured_reviews": [
@@ -404,7 +404,7 @@
             "reviewer_name": "Joe Fair",
             "rating": 3,
             "review_text": "Didn't mix the mcflurry. Everything was sitting on top. Aside from that, it seems they don't add much oreo/fudge at all. Definitely not worth the price.",
-            "published_at": "6 days ago",
+            "published_at": "a week ago",
             "published_at_date": "2023-11-18T08:43:46.352000Z",
             "response_from_owner_text": null,
             "response_from_owner_ago": null,
@@ -430,7 +430,7 @@
             "response_from_owner_ago": null,
             "response_from_owner_date": null,
             "review_likes_count": 0,
-            "total_number_of_reviews_by_reviewer": 88,
+            "total_number_of_reviews_by_reviewer": 90,
             "total_number_of_photos_by_reviewer": 42,
             "reviewer_url": "https://www.google.com/maps/contrib/117092675432429844793/reviews?entry=ttu",
             "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWsCJRsCpu3rFl3hw957448NoGQ66pZ1ZpbiuWZi8rB-BX8=s120-c-rp-mo-ba5-br100",

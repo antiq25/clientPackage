@@ -1,0 +1,623 @@
+{
+    "place_id": "ChIJD8oBSnBxhlQRaX3X1supJ0g",
+    "name": "Kissa Tanto",
+    "description": "Italian-Japanese cuisine & cocktails served in a chic space inspired by 1960s Tokyo jazz cafes.",
+    "reviews": 1275,
+    "website": "http://www.kissatanto.com/",
+    "owner": {
+        "id": "103234286108291070460",
+        "name": "Kissa Tanto (Owner)",
+        "link": "https://www.google.com/maps/contrib/103234286108291070460"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNoLPR6bJp_0yesuVFYeC8VCOXA_zmcS6qdS_7e=w408-h306-k-no",
+    "main_category": "Fusion restaurant",
+    "categories": [
+        "Fusion restaurant",
+        "Italian restaurant"
+    ],
+    "rating": 4.6,
+    "workday_timing": "5:30-11 p.m.",
+    "closed_on": [
+        "Monday",
+        "Tuesday"
+    ],
+    "phone": "(778) 379-8078",
+    "address": "Kissa Tanto, 263 E Pender St, Vancouver, BC V6A 1T8",
+    "review_keywords": [
+        {
+            "keyword": "octopus salad",
+            "count": 70
+        },
+        {
+            "keyword": "italian",
+            "count": 63
+        },
+        {
+            "keyword": "tagliolini",
+            "count": 46
+        },
+        {
+            "keyword": "tiramisu",
+            "count": 39
+        },
+        {
+            "keyword": "yuzu",
+            "count": 30
+        },
+        {
+            "keyword": "michelin",
+            "count": 25
+        },
+        {
+            "keyword": "charcoal",
+            "count": 22
+        },
+        {
+            "keyword": "omakase",
+            "count": 22
+        },
+        {
+            "keyword": "raw meat",
+            "count": 18
+        },
+        {
+            "keyword": "ragu",
+            "count": 10
+        }
+    ],
+    "link": "https://www.google.com/maps/place/Kissa+Tanto/data=!4m7!3m6!1s0x548671704a01ca0f:0x4827a9cbd6d77d69!8m2!3d49.2804665!4d-123.0981257!16s%2Fg%2F11cn18db4b!19sChIJD8oBSnBxhlQRaX3X1supJ0g?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 5:30 p.m.",
+    "price_range": "$$$",
+    "reviews_per_rating": {
+        "1": 32,
+        "2": 30,
+        "3": 85,
+        "4": 177,
+        "5": 951
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJD8oBSnBxhlQRaX3X1supJ0g&q=Kissa+Tanto&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.280466499999996,
+        "longitude": -123.0981257
+    },
+    "plus_code": "7WJ2+5P Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "Central Vancouver",
+        "street": "263 E Pender St",
+        "city": "Vancouver",
+        "postal_code": "V6A 1T8",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "5199310987770428777",
+    "data_id": "0x548671704a01ca0f:0x4827a9cbd6d77d69",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [
+        {
+            "link": "https://www.opentable.ca/restaurant/profile/1018864%3Fref%3D16423",
+            "source": "opentable.ca"
+        }
+    ],
+    "order_online_links": [
+        {
+            "link": "https://www.opentable.ca/restaurant/profile/1018864?ref=16423",
+            "source": "opentable.ca"
+        }
+    ],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Takeout",
+                    "enabled": true
+                },
+                {
+                    "name": "Dine-in",
+                    "enabled": true
+                },
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair accessible seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Alcohol",
+                    "enabled": true
+                },
+                {
+                    "name": "Beer",
+                    "enabled": true
+                },
+                {
+                    "name": "Cocktails",
+                    "enabled": true
+                },
+                {
+                    "name": "Coffee",
+                    "enabled": true
+                },
+                {
+                    "name": "Hard liquor",
+                    "enabled": true
+                },
+                {
+                    "name": "Late-night food",
+                    "enabled": true
+                },
+                {
+                    "name": "Organic dishes",
+                    "enabled": true
+                },
+                {
+                    "name": "Small plates",
+                    "enabled": true
+                },
+                {
+                    "name": "Wine",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Dining options",
+            "options": [
+                {
+                    "name": "Dinner",
+                    "enabled": true
+                },
+                {
+                    "name": "Dessert",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Bar on-site",
+                    "enabled": true
+                },
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosphere",
+            "options": [
+                {
+                    "name": "Cozy",
+                    "enabled": true
+                },
+                {
+                    "name": "Romantic",
+                    "enabled": true
+                },
+                {
+                    "name": "Upscale",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planning",
+            "options": [
+                {
+                    "name": "Reservations required",
+                    "enabled": true
+                },
+                {
+                    "name": "Accepts reservations",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "parking",
+            "name": "Parking",
+            "options": [
+                {
+                    "name": "Paid street parking",
+                    "enabled": true
+                },
+                {
+                    "name": "Parking",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNoLPR6bJp_0yesuVFYeC8VCOXA_zmcS6qdS_7e=w397-h298-k-no"
+        },
+        {
+            "about": "Latest",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPJi2so6GgIXS3QgOu4onLk3ZU4S3xhNRgZbGhW=w224-h298-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMkFvzYq_GNsW7Ay20ZCqPFlKTjn8Tl0oXYBkYU=w224-h398-k-no"
+        },
+        {
+            "about": "Menu",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOevqThytJEwl439Y1YnyQ4Dqg7ATvf5fQMBdP_=w435-h298-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPhxoe4ULfMhZWWkZs5pSNxYwVDem3JCNmdDC3n=w529-h298-k-no"
+        },
+        {
+            "about": "Vibe",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMOLDc5q8p0s3OXiwmHPn487-F9sKjywuXrFCv-=w238-h298-k-no"
+        },
+        {
+            "about": "Octopus as food",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNloAyXF87sDtTNnW6wdRwWWkNwxIo6fNV6oQaD=w395-h298-k-no"
+        },
+        {
+            "about": "Carbonara",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMZ5e0yzNFQgF4mlchPZ9-BkQafJZZrX18QArcz=w397-h298-k-no"
+        },
+        {
+            "about": "Tiramisu",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPzYGxmhhSl3ALrFvO-HLx2X0nZ8VlJteZ8Lf2o=w397-h298-k-no"
+        },
+        {
+            "about": "Pappardelle",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOlUIVqKrm8LM_xvEsSWMl8FT8G22wrTw2zbak=w529-h298-k-no"
+        },
+        {
+            "about": "Aguachile",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMrh6967E23y3iMYlJHu3uxq3Lk88d4guHZQ1gJ=w224-h298-k-no"
+        },
+        {
+            "about": "Oyster",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPcW_bWCCxPR9aCy8OVEn_fFgES9BDAf4JRVYUu=w395-h298-k-no"
+        },
+        {
+            "about": "Tagliatelle",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNorUpt42GmzocygBgQCR3ZhVUKS7p1vF7j4FYz=w397-h298-k-no"
+        },
+        {
+            "about": "Martini",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOP-M_pIN5G0vsLleFRI96BiI50UMkLBAuEw3wD=w224-h298-k-no"
+        },
+        {
+            "about": "Juice",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPt7cKDQnsS1zwzPi3N4Dziy4SQsI8pCtxEtVPz=w224-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMNDV-pfDJyDYM3HXJmbDVMqlw2dUxqZpVY4iMd=w224-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=1yVoChg1wJ-RyTyA8M758A&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=322.12323&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "Closed"
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "Closed"
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "5:30-11 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "5:30-11 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "5:30 p.m.-12 a.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "5:30 p.m.-12 a.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "5:30-11 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "Hit it! Wow! Maybe the best meal I've had in Vancouver. So many incredibly delicious things with great service. We had early reservations which you'll need to make at least a month in advance. We sat at the bar which had great ambiance. The staff did an amazing job of the small details and with the dishes. The charcoal udon was just so incredible. Out of the 6 dishes we got, the only one I did not enjoy as much was the salmon. It wasn't bad but I just found it not at the same level as the other dishes. Still for me five !",
+            "reviewer_name": "Olivier Hovasse",
+            "rating": 5,
+            "review_text": "Hit it! Wow! Maybe the best meal I've had in Vancouver. So many incredibly delicious things with great service. We had early reservations which you'll need to make at least a month in advance. We sat at the bar which had great ambiance. The staff did an amazing job of the small details and with the dishes. The charcoal udon was just so incredible. Out of the 6 dishes we got, the only one I did not enjoy as much was the salmon. It wasn't bad but I just found it not at the same level as the other dishes. Still for me five !",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-15T23:17:03.667000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 294,
+            "total_number_of_photos_by_reviewer": 998,
+            "reviewer_url": "https://www.google.com/maps/contrib/104839809299363054803/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVotC26XiychjiRCIat6N16wxpSNodsXCejNTiNRoT-5vU=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOaTptivrEO69E2CgnDc4qaMtDjrW4G7iwtnP0R=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNyjJeEktPE-ADuLAJ_JqzS49sXgQQjBe9yX-VC=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOjHbZLfITPQcYTQOp8auSuyB_QAeFg46lwO3XN=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNoaMAguUbk8_VPoOFoZziTM5G29gTW1yTRThHa=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMcJ2W2uzffDgJ8vXpnyj8BQURnEZmgoJw1GPC6=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMK60tpxZHjqhBbHGTM9waITmh6qLPsvBbkveO3=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipP4V9qxpIifeWtho_WoDtbsvBVYQkbeh_LIB11_=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPp6eD6RvFz9K6rp9c0ZtB-dzi08LSHOVEjypE2=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOXPKgrYLNS1CyDSJdX0CJdzJEw7uSoZhMKfJWN=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNVtVvBbcCwQz9Z7_fymevGvLXR8FccLqx4wxGl=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNqt1g9aNf3w1sMxLwS07iBBFfk9ZcQC5oy7XV5=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPGgy1zOOoxsnNVnyO2zdjBTtCEJIGMfB1UQKiK=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "It's 5 across the boards! Service would be a 10 if it went that high. Most of the dishes we had were exceptional and a couple just \"very good\" what impressed me the most was the unpretentious nature. Our server was extremely knowledgeable and she would look up some info if she didn't know that her than just make something up. It's expensive for sure, but like some other Michelin star restaurants you don't leave wondering if the food and experience were worth it. If you want to spoil yourself have the $90 Japanese truffle omelette... Wow!",
+            "reviewer_name": "Gary Glans",
+            "rating": 5,
+            "review_text": "It's 5 across the boards! Service would be a 10 if it went that high. Most of the dishes we had were exceptional and a couple just \"very good\" what impressed me the most was the unpretentious nature. Our server was extremely knowledgeable and she would look up some info if she didn't know that her than just make something up. It's expensive for sure, but like some other Michelin star restaurants you don't leave wondering if the food and experience were worth it. If you want to spoil yourself have the $90 Japanese truffle omelette... Wow!",
+            "published_at": "a week ago",
+            "published_at_date": "2023-11-17T22:11:29.299000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 223,
+            "total_number_of_photos_by_reviewer": 26,
+            "reviewer_url": "https://www.google.com/maps/contrib/110563070359435447203/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUn1zfFCUOirU9Dqpd_NKu_7ME2qHgm1yZghpMVgEkmr4KQ=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPq4IZtiT7k-M_11vhGaSCcqsX3t3Zta4V0Jkr4=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipN2Cp9ILSCoP4qyF5979lEYjDs3NJ-7rCxtrYiM=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNOCKYhs0YmsNwhZ6wgHZYgq2rPchWnUBS08dLM=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "My husband and I ordered their $155 omakase and it was a pleasant experience.\n\nPro: I really liked that the servers check in after you're done eating to prevent the awkward experience of giving feedback with a mouth full of food.\n\nSlight Con: My husband does not eat seafood while I enjoy seafood, so the servers said they were able to create a couple individual dishes that will have seafood for me and meat for him. Unfortunately, it was just one small dish that had this variation and the rest came out on one plate and they were all meat focused. I had expected two dishes to be individualized; therefore, just having one personalized dish made the meal fall slightly flat.\n\nOther than that, Kissa Tanto provided impeccable service, tasty food and we definitely will come back for a special occasion.",
+            "reviewer_name": "Annie",
+            "rating": 4,
+            "review_text": "My husband and I ordered their $155 omakase and it was a pleasant experience.\n\nPro: I really liked that the servers check in after you're done eating to prevent the awkward experience of giving feedback with a mouth full of food.\n\nSlight Con: My husband does not eat seafood while I enjoy seafood, so the servers said they were able to create a couple individual dishes that will have seafood for me and meat for him. Unfortunately, it was just one small dish that had this variation and the rest came out on one plate and they were all meat focused. I had expected two dishes to be individualized; therefore, just having one personalized dish made the meal fall slightly flat.\n\nOther than that, Kissa Tanto provided impeccable service, tasty food and we definitely will come back for a special occasion.",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-11T19:23:13.701000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 32,
+            "total_number_of_photos_by_reviewer": 18,
+            "reviewer_url": "https://www.google.com/maps/contrib/103481034218286186203/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJwNZmDjuyz-zkRZ_2NvDTunQqX2Qz2JkKYWu57CHKs=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMgTnoNO2bL9qwagnF8lxQf_hMTooO-r8TpjATO=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOo4KnAPxBsVApRmUHU44TNxL4YkslIVQa79fhW=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPBmRNnk2MrqfQBREInEZeet-skuqeeN3I6BTJY=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOxsb3Bu5UMsHtQ1rzu6nFfoB-QjFH6onpEfqjQ=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMNR3h67ptzTJXWhPzGDwNxY_WQNMd-oGdcbM7-=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPJ6dd9cQkPohAY7k4uGjh6X7iQerC0Zt9LwCNY=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNmX1r9PDD5YS5x6Fbq6qER1Id9o63adMdV_bgu=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Absolutely a wonderful tasting experience. The combinations of flavours were exactly right. The fish tasted very fresh and the sauce on top puts the whole dish together. The highlight is definitely the truffle omelette-- the most perfect omelette I've ever had in my life. The truffle was aromatic, paired with creamy eggs. I just felt that my table was a bit squishy and the table felt very full.",
+            "reviewer_name": "Michelle Lin",
+            "rating": 4,
+            "review_text": "Absolutely a wonderful tasting experience. The combinations of flavours were exactly right. The fish tasted very fresh and the sauce on top puts the whole dish together. The highlight is definitely the truffle omelette-- the most perfect omelette I've ever had in my life. The truffle was aromatic, paired with creamy eggs. I just felt that my table was a bit squishy and the table felt very full.",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-18T23:22:49.599000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 18,
+            "total_number_of_photos_by_reviewer": 61,
+            "reviewer_url": "https://www.google.com/maps/contrib/114065587525385856950/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjV-NjkkhETywJGj4ky0ACbU2Iwfw4TBvFf5yXbDXECIsg8=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNseEv1w3Ox52ftP9_lBF_w4JDHEsgLP3bMvuA5=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipORvTFMJ8Tojv5Hus3usbc_Uc6fcnB9EtvDn1Rg=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNnRg1vaYtlgnPHP2LZRWYyUXDNXXq-kS-ujLVk=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNJc5xWoSyM_9MDJLpqKbQ2vo3pR7bWs2-zNFVF=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipN48D1KN5xVucWM9l8zUsxs1APZpozHlc2dNARD=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPUE1-yUodLHhIEF7ds8rPfD_6WGonM3jOX0nDl=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "We were lucky enough to be one of the first seated and got one of the bigger tables. Thankful for this, as the standard tables for two looked really cramped. Service was top notch, and our server took the time to explain menu items and answer our questions.\n\nLots of interesting flavours and textures in their dishes, though the octopus was chewier than I expected, and the amount of cheese on the carne cruda over-dominated the beef. On the plus side, the charcoal pasta had a wonderful bounce to it, the duck breast was the tenderest I've ever had (much better than French style), and the tiramisu was seriously good. I would've got a second order if we weren't so stuffed. Cocktails and the citrus-infused sake were superb. Great place to try at least once.\n\nTip for photographers: if you are taking daytime photos, ask for the corner table by the window when you book. It's one of the best spots for bright natural light.",
+            "reviewer_name": "Vincent C",
+            "rating": 4,
+            "review_text": "We were lucky enough to be one of the first seated and got one of the bigger tables. Thankful for this, as the standard tables for two looked really cramped. Service was top notch, and our server took the time to explain menu items and answer our questions.\n\nLots of interesting flavours and textures in their dishes, though the octopus was chewier than I expected, and the amount of cheese on the carne cruda over-dominated the beef. On the plus side, the charcoal pasta had a wonderful bounce to it, the duck breast was the tenderest I've ever had (much better than French style), and the tiramisu was seriously good. I would've got a second order if we weren't so stuffed. Cocktails and the citrus-infused sake were superb. Great place to try at least once.\n\nTip for photographers: if you are taking daytime photos, ask for the corner table by the window when you book. It's one of the best spots for bright natural light.",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-11T06:38:38.410000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 193,
+            "total_number_of_photos_by_reviewer": 802,
+            "reviewer_url": "https://www.google.com/maps/contrib/101594257324770025485/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjURXA3x8lWaGUrZl7oR95Va3AWi2AqYaZpaIA4Fwzeoqnw=s120-c-rp-mo-ba6-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPfidIa6ocxuwkCfvy0bSM5QEk0KhyD86b1OX7i=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOMWV2ShsmBhJYNMYC7YEFeG81Cxt9DaVQ7CAe5=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNYvCxDpR3bArVw_XF_WEWlWvc8Ho-6iQczoCz8=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMEmnOcq4iOSO9_Sdy8rDxjk1QCck4y1iya6Tl4=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipM4I9MBG5Bztmexo1UEEipsa_sbwH2YwG5SYD8Z=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipN48TiPHxc34j3DJzgCM1_kJ5OGSZPcoK3Tz5Px=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipN8xur2neL0GFX-nkOw8VH8skw0O3IzwgGq3t0n=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Good food with amazing service. Everything was done perfectly and there was nothing that we didn't like. Went with the omikaze and the recommended sweet spot for pricing of approximately $170 - $200pp. We weren't too hungry so the waiter went more for higher quality food rather than quantity. The waitress asked a series of questions in order to tailor the menu to us a little which was nice.\n\nYou'll want to make a reservation if you want a better chance at getting a seat. Walk-ins are possible but fill up quick. Paid street parking is available and relatively cheap (couple of dollars for the 2-3h duration we were there).\n\nDefinitely a nice experience and worth trying at least once if you get the chance, but it is quite pricey. For the total price you could eat at a few nice restaurants instead, but life's short and you can't take your money with you so as long as the wife is happy, you'll be happy.",
+            "reviewer_name": "Michael Wang",
+            "rating": 5,
+            "review_text": "Good food with amazing service. Everything was done perfectly and there was nothing that we didn't like. Went with the omikaze and the recommended sweet spot for pricing of approximately $170 - $200pp. We weren't too hungry so the waiter went more for higher quality food rather than quantity. The waitress asked a series of questions in order to tailor the menu to us a little which was nice.\n\nYou'll want to make a reservation if you want a better chance at getting a seat. Walk-ins are possible but fill up quick. Paid street parking is available and relatively cheap (couple of dollars for the 2-3h duration we were there).\n\nDefinitely a nice experience and worth trying at least once if you get the chance, but it is quite pricey. For the total price you could eat at a few nice restaurants instead, but life's short and you can't take your money with you so as long as the wife is happy, you'll be happy.",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-07T15:52:51.627000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 646,
+            "total_number_of_photos_by_reviewer": 2715,
+            "reviewer_url": "https://www.google.com/maps/contrib/107230848769906303179/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVkkvjSFmyLQ39F8omsS5tz29ugsQ608UEll_uSe3Oybnbp=s120-c-rp-mo-ba6-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMy3ZnYLetoGPDkiXDIdZAJD0jFyWtTxLkZSoWb=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPqmYqei-RtZad49CV4qew4rvQK1NOdT4in55-E=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPq46tDhrHvFDd8UOFTyQy9AWWulXqq37QmGm11=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOJObzvymxS7gOeizl7k0PqSjV0NgyE8D2tqSQg=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPiGDJaAcYj17MXEkwB0jSiGcA-PM4NTkHBSGQj=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMvhQk_as6P0NjysSl_e60O8nPhh8Xs5ObJ5OdI=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOaNT9usMSrD_TFMajWPrLFWX9_13FpSosL5XDE=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipP68yPCYEdB8ohwtp8OxbANfFki0_UJrNYHH-iN=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMoYM9bvleTRkqbJPIjca5xHyJXL5tcg1HXFxOH=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPLgGKwux1f6mS5vfkRW8LRdkeOSLAI2CES9oFh=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNW5aNZCotLy46vYBrOJihRINu0bm2NUibbBW_M=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "It's worth the hype, the food is excellent, the cocktails are top of the list on Vancouver. The specials are delicious and surprising. It's not super affordable, but that is expected for a restaurant of this level. They know what they do and everyone executes their roles to perfection, from the hostest to the service to the cooks.",
+            "reviewer_name": "Marcela Rodriguez",
+            "rating": 5,
+            "review_text": "It's worth the hype, the food is excellent, the cocktails are top of the list on Vancouver. The specials are delicious and surprising. It's not super affordable, but that is expected for a restaurant of this level. They know what they do and everyone executes their roles to perfection, from the hostest to the service to the cooks.",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-17T15:52:57.107000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 23,
+            "total_number_of_photos_by_reviewer": 21,
+            "reviewer_url": "https://www.google.com/maps/contrib/102346291951528178698/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKMjiZ3opFldh1OkNxtVHFlhI_wVguYB3UzibESbw4f=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNquHUE0J4dOxPsnFDn3JRMWVzQIPjlUuxGKRxd=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMkNajqEJo0dF4KzcKamPYaB_iqdi7cBHtQFE4e=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOP-M_pIN5G0vsLleFRI96BiI50UMkLBAuEw3wD=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Food was excellent. We loved every single dish ordered. Carne cruda was a highlight. The portions are quite small for the very high price point.\nService was really good. I'd only tone down the theatrical tone of voice. But appreciate the attentiveness.",
+            "reviewer_name": "Jessica Villavicencio",
+            "rating": 4,
+            "review_text": "Food was excellent. We loved every single dish ordered. Carne cruda was a highlight. The portions are quite small for the very high price point.\nService was really good. I'd only tone down the theatrical tone of voice. But appreciate the attentiveness.",
+            "published_at": "a week ago",
+            "published_at_date": "2023-11-20T07:22:22.593000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 429,
+            "total_number_of_photos_by_reviewer": 334,
+            "reviewer_url": "https://www.google.com/maps/contrib/105067284938869582119/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXTSfWi_cOPr-p2UsGPF9LvuIqhsaDHrTwx7TXAZ13dAPk=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOIcVQhTlz_sYZ-uRQoUQZullgrY2b5nD2JVspT=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNv25vVSL7ZWXKs8FYmIS9Acnc-usgztYJwUPLr=w150-h150-k-no-p"
+            ]
+        }
+    ],
+    "is_spending_on_ads": false
+}

@@ -10,34 +10,36 @@ import SvgIcon from '@mui/material/SvgIcon';
 import Typography from '@mui/material/Typography';
 import { useState, useEffect } from 'react';
 import { SeverityPill } from 'src/src2/components/severity-pill';
-import { logView, logClick, getViewCount, getClickCount } from 'src/components/apiWidget';
+import { useApi } from 'src/components/company_card/apiWidget'; // Make sure to use the correct path to import useApi
 
 export const QuickStats2 = () => {
-  // Use the counts in your component's state
+  const { logView, logClick, getViewCount, getClickCount } = useApi();
   const [viewCount, setViewCount] = useState(0);
   const [clickCount, setClickCount] = useState(0);
   const [conversionRate, setConversionRate] = useState(0);
 
   useEffect(() => {
-    const fetchCounts = async () => {
-      const view = await getViewCount();
-      const click = await getClickCount();
-      setViewCount(view);
-      setClickCount(click);
-      // Calculate conversion rate
-      const conversion = view !== 0 ? (click / view) * 100 : 0;
-      setConversionRate(conversion);
-    };
-
-    fetchCounts();
-  }, []);
+    logView();
+    (async () => {
+      try {
+        const viewCountData = await getViewCount();
+        const clickCountData = await getClickCount();
+        setViewCount(viewCountData);
+        setClickCount(clickCountData);
+        if (viewCountData > 0) {
+          setConversionRate((clickCountData / viewCountData) * 100);
+        }
+      } catch (error) {
+        console.error('Error fetching counts:', error);
+      }
+    })();
+  }, [logView, getViewCount, getClickCount]);
 
   return (
     <Box
       sx={{
         justifyContent: 'center',
         alignItems: 'center',
-
         p: 1,
       }}
     >
@@ -72,7 +74,7 @@ export const QuickStats2 = () => {
                   spacing={1}
                 >
                   <Typography variant="h5">{clickCount}</Typography>
-                  <SeverityPill color="success">4%</SeverityPill>
+                  {/* Removed SeverityPill for conversion rate as it will be rendered below */}
                 </Stack>
               </Stack>
               <Avatar
@@ -134,6 +136,7 @@ export const QuickStats2 = () => {
             </Stack>
           </Card>
         </Grid>
+
         <Grid
           xs={12}
           md={4}
@@ -147,7 +150,7 @@ export const QuickStats2 = () => {
                 color="text.secondary"
                 variant="overline"
               >
-                Conversion
+                Conversion Rate
               </Typography>
               <Stack
                 alignItems="center"
@@ -158,7 +161,7 @@ export const QuickStats2 = () => {
                 <LinearProgress
                   color="primary"
                   sx={{ flexGrow: 1 }}
-                  value={74}
+                  value={conversionRate}
                   variant="determinate"
                 />
               </Stack>
@@ -167,8 +170,5 @@ export const QuickStats2 = () => {
         </Grid>
       </Grid>
     </Box>
-
   );
 };
-
-

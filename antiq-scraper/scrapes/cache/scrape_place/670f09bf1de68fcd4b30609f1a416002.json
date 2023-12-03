@@ -2,7 +2,7 @@
     "place_id": "ChIJfViWMXpxhlQRj0cpNr0uTvo",
     "name": "McDonald's",
     "description": "Classic, long-running fast-food chain known for its burgers & fries.",
-    "reviews": 1534,
+    "reviews": 1535,
     "website": "https://www.mcdonalds.com/ca/en-ca/restaurant-locator.html%3Fy_source%3D1_MTQ1MjA1NjEtNzE1LWxvY2F0aW9uLndlYnNpdGU%253D",
     "owner": {
         "id": "108706113899270545834",
@@ -30,6 +30,10 @@
             "count": 33
         },
         {
+            "keyword": "door",
+            "count": 16
+        },
+        {
             "keyword": "homeless",
             "count": 15
         },
@@ -40,10 +44,6 @@
         {
             "keyword": "app",
             "count": 13
-        },
-        {
-            "keyword": "toilet",
-            "count": 9
         },
         {
             "keyword": "convenient",
@@ -70,10 +70,10 @@
     "status": "Open 24 hours",
     "price_range": "$",
     "reviews_per_rating": {
-        "1": 201,
+        "1": 202,
         "2": 104,
-        "3": 314,
-        "4": 425,
+        "3": 315,
+        "4": 424,
         "5": 490
     },
     "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJfViWMXpxhlQRj0cpNr0uTvo&q=McDonald%27s&authuser=0&hl=en&gl=CA",
@@ -315,7 +315,7 @@
         },
         {
             "about": "Latest",
-            "link": "https://lh5.googleusercontent.com/p/AF1QipPaQdE49owzLx9MhGv2pt4LWeyJdJnJAsYD2raT=w224-h298-k-no"
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOMnfCsdmfmQl6K-w47b2MwjLQramtzvCz6jHiz=w224-h298-k-no"
         },
         {
             "about": "Videos",
@@ -334,20 +334,16 @@
             "link": "https://lh5.googleusercontent.com/p/AF1QipNTYa_yhT0NjNdTnPP1DSoyj5xK8FbySQI4H94b=w397-h298-k-no"
         },
         {
-            "about": "Take-out",
-            "link": "https://lh5.googleusercontent.com/p/AF1QipP6WiBLy7GVYbsOmzwVJoJ1y_wLZGow_CrsB8lg=w224-h298-k-no"
-        },
-        {
-            "about": "Hamburger",
-            "link": "https://lh5.googleusercontent.com/p/AF1QipMreMNZT_rEtiJ3VGVcwlCdTMj9DAJwr4KVZIRQ=w397-h298-k-no"
-        },
-        {
             "about": "Comfort food",
             "link": "https://lh5.googleusercontent.com/p/AF1QipOJpa_rFr0EElJLPzfES4YMUBCTe2nGyNBNzYVr=w224-h298-k-no"
         },
         {
+            "about": "Hamburger",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipP6WiBLy7GVYbsOmzwVJoJ1y_wLZGow_CrsB8lg=w224-h298-k-no"
+        },
+        {
             "about": "French fries",
-            "link": "https://lh5.googleusercontent.com/p/AF1QipNTCtYSZaozNjyy-jwSttoSX3GvxLY-Bxk86RKP=w397-h298-k-no"
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMreMNZT_rEtiJ3VGVcwlCdTMj9DAJwr4KVZIRQ=w397-h298-k-no"
         },
         {
             "about": "By owner",
@@ -359,12 +355,6 @@
         }
     ],
     "hours": [
-        {
-            "day": "Sunday",
-            "times": [
-                "Open 24 hours"
-            ]
-        },
         {
             "day": "Monday",
             "times": [
@@ -400,6 +390,12 @@
             "times": [
                 "Open 24 hours"
             ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "Open 24 hours"
+            ]
         }
     ],
     "featured_reviews": [
@@ -432,7 +428,7 @@
             "reviewer_name": "Danbe Seo",
             "rating": 1,
             "review_text": "I want to give 0 star. I ordered a Big Mac. What the hell? Fries were overcooked.\nMoreover, they rocked the door and gave food through the window. Other customers who just walked in even could'nt order food.",
-            "published_at": "5 days ago",
+            "published_at": "a week ago",
             "published_at_date": "2023-11-19T08:49:25.003000Z",
             "response_from_owner_text": null,
             "response_from_owner_ago": null,
@@ -454,7 +450,7 @@
             "reviewer_name": "Shane Zwicker",
             "rating": 3,
             "review_text": "Understaffed for how busy it is, and paid almost 10$ for a 6$ breakfast, just cuz I wanted hot chocolate in my coffee, and lettuce and tomato on my sandwich. And apparently 'regular' lettuce at this McDonald's is one half wilted leaf..\n\nThey were nice enough to provide me with proper lettuce after I complained, but there should really be some baseline standards.\n\nLotta people complaining about the homeless, but they mostly don't bother you if you don't bother them. Might get one asking you for spare change on your way in/out, but that's no diff than anywhere else in Vancouver. It's an issue with our society, not this McDonald's. But they do need to focus on food quality.",
-            "published_at": "2 months ago",
+            "published_at": "3 months ago",
             "published_at_date": "2023-08-27T17:38:23.402000Z",
             "response_from_owner_text": null,
             "response_from_owner_ago": null,
@@ -472,6 +468,26 @@
             ]
         },
         {
+            "review_id": "This location has very good service. Very busy location and very small seating area. Goodluck finding  table during busy hours. The ambiance is lacking as the bathrooms are smack dab right in the middle of the seating area so be ready to eat your happy meal beside the hustle and bustle of the plethora of bathroom goers. Service is friendly but sometimes very slow. Be ready to wait longer for your big Mac at this location compared to others. But hey free wifi and it's fairly fast. I go here and download all the time .  See you there, cheers.",
+            "reviewer_name": "G Mast",
+            "rating": 3,
+            "review_text": "This location has very good service. Very busy location and very small seating area. Goodluck finding  table during busy hours. The ambiance is lacking as the bathrooms are smack dab right in the middle of the seating area so be ready to eat your happy meal beside the hustle and bustle of the plethora of bathroom goers. Service is friendly but sometimes very slow. Be ready to wait longer for your big Mac at this location compared to others. But hey free wifi and it's fairly fast. I go here and download all the time .  See you there, cheers.",
+            "published_at": "4 days ago",
+            "published_at_date": "2023-11-26T16:04:46.785000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 6,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/114526277772609959865/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWX1eIltRSm8rIrvCqWDNhYNYqjofMNi6gS-ZEg-Z2DwA=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
             "review_id": "I didn't catch the employee's name but on Thanksgiving (October 9, 2023) at around 2:30pm a young worker wearing a hat with a bit longer hair in the back and who had earrings was excellent! He was on the serving side and brought my item with a smile. This employee deserves recognition for great customer service.  I will be back again and hope to get this person's name.  Keep up the good work!\nEdit: The worker's name is Daniel.  He was also working at 9:30am on Sunday, October 15th.  Again he provided exceptional guest service.  It's so nice to see such professional, quality service at this location.",
             "reviewer_name": "Chris Charles",
             "rating": 5,
@@ -481,7 +497,7 @@
             "response_from_owner_text": null,
             "response_from_owner_ago": null,
             "response_from_owner_date": null,
-            "review_likes_count": 0,
+            "review_likes_count": 1,
             "total_number_of_reviews_by_reviewer": 27,
             "total_number_of_photos_by_reviewer": 5,
             "reviewer_url": "https://www.google.com/maps/contrib/100780010467756509343/reviews?entry=ttu",
@@ -537,26 +553,6 @@
             "review_photos": [
                 "https://lh5.googleusercontent.com/p/AF1QipOj84cMlKJ_hxeAPqkcHAxzfjTfLSUnharRb5yl=w150-h150-k-no-p"
             ]
-        },
-        {
-            "review_id": "McDonald's is simply a favorite. Got my usual Quarter Pounder with cheese, fries and a diet Coke. Nothing beats McDonald's fries.\nWife had a late breakfast. Pancakes with sausage and coffee. Her favorite.\nLove McDonald's when I'm on the road which I am. McDonald's is a favorite on the road because you can almost always find one. And you know the quality is always reliable\nI know I sound like a commercial but they are pretty darn good.",
-            "reviewer_name": "john richter",
-            "rating": 4,
-            "review_text": "McDonald's is simply a favorite. Got my usual Quarter Pounder with cheese, fries and a diet Coke. Nothing beats McDonald's fries.\nWife had a late breakfast. Pancakes with sausage and coffee. Her favorite.\nLove McDonald's when I'm on the road which I am. McDonald's is a favorite on the road because you can almost always find one. And you know the quality is always reliable\nI know I sound like a commercial but they are pretty darn good.",
-            "published_at": "a month ago",
-            "published_at_date": "2023-10-02T00:44:25.424000Z",
-            "response_from_owner_text": null,
-            "response_from_owner_ago": null,
-            "response_from_owner_date": null,
-            "review_likes_count": 0,
-            "total_number_of_reviews_by_reviewer": 132,
-            "total_number_of_photos_by_reviewer": 1,
-            "reviewer_url": "https://www.google.com/maps/contrib/117218905006378944790/reviews?entry=ttu",
-            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJf9WMClqU2RvL7QACfXhNEkVzi8tZesq3Bi9Wu7Gu9=s120-c-rp-mo-br100",
-            "is_local_guide": false,
-            "review_translated_text": null,
-            "response_from_owner_translated_text": null,
-            "review_photos": []
         },
         {
             "review_id": "I just ordered for one of my friend working, at night 3:25 AM approximately, and I was away from the location, and when we click I am already here, the app gives us a code, the crew member there was so rude and wasn't helpful at all please check the recordings who was serving between 3:20 Am-3:30 Am on October 7, 2023. I placed the order again, but again she said to cancel and didn't even put the code in the system, when the app is showing this to put the code in the system if you are away, I don't know what kind of Customer service they're showing, the girl was in a yellow shirt and was serving on the window very rudely. This is not happening the first time, it has happened in the past as well with the night crew, I request to take an action against them,\n\nSincerely,",

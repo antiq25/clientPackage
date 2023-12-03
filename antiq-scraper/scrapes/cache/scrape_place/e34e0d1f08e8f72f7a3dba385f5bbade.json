@@ -2,7 +2,7 @@
     "place_id": "ChIJs0Fi0n9xhlQRFNqcc3koAIE",
     "name": "McDonald's",
     "description": "Classic, long-running fast-food chain known for its burgers & fries.",
-    "reviews": 1888,
+    "reviews": 1891,
     "website": "https://www.mcdonalds.com/ca/en-ca/restaurant-locator.html%3Fy_source%3D1_MTQ1MjAwNTYtNzE1LWxvY2F0aW9uLndlYnNpdGU%253D",
     "owner": {
         "id": "100639573062452122139",
@@ -26,12 +26,16 @@
     "address": "McDonald's, 891 Granville St, Vancouver, BC V6Z 1K7",
     "review_keywords": [
         {
-            "keyword": "coffee",
-            "count": 39
+            "keyword": "homeless people",
+            "count": 37
         },
         {
-            "keyword": "homeless people",
-            "count": 36
+            "keyword": "clean",
+            "count": 29
+        },
+        {
+            "keyword": "tables",
+            "count": 21
         },
         {
             "keyword": "floor",
@@ -43,11 +47,7 @@
         },
         {
             "keyword": "smells",
-            "count": 12
-        },
-        {
-            "keyword": "dining",
-            "count": 8
+            "count": 13
         },
         {
             "keyword": "mcdouble",
@@ -70,9 +70,9 @@
     "status": "Open 24 hours",
     "price_range": "$",
     "reviews_per_rating": {
-        "1": 246,
+        "1": 248,
         "2": 166,
-        "3": 444,
+        "3": 445,
         "4": 474,
         "5": 558
     },
@@ -292,16 +292,6 @@
                     "enabled": true
                 }
             ]
-        },
-        {
-            "id": "parking",
-            "name": "Parking",
-            "options": [
-                {
-                    "name": "Parking",
-                    "enabled": true
-                }
-            ]
         }
     ],
     "images": [
@@ -322,12 +312,8 @@
             "link": "https://lh5.googleusercontent.com/p/AF1QipNZZ2pn-ot9nROk9iykcErgO4_VZ3eRlqCRv0M=w397-h298-k-no"
         },
         {
-            "about": "Take-out",
-            "link": "https://lh5.googleusercontent.com/p/AF1QipNY4An00W-GfXIwIlg5p8PmsDJtbEBOhx1ovIZG=w224-h298-k-no"
-        },
-        {
             "about": "Cheeseburger",
-            "link": "https://lh5.googleusercontent.com/p/AF1QipPpAdwW_WHOuV3qXsgKaWvkmyXLBUArlNLuGNug=w224-h298-k-no"
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOE7VNckWJHu3B3v_dW-IM8qyeid85_Odqfk8Dr=w354-h298-k-no"
         },
         {
             "about": "Comfort food",
@@ -343,12 +329,6 @@
         }
     ],
     "hours": [
-        {
-            "day": "Sunday",
-            "times": [
-                "Open 24 hours"
-            ]
-        },
         {
             "day": "Monday",
             "times": [
@@ -381,6 +361,12 @@
         },
         {
             "day": "Saturday",
+            "times": [
+                "Open 24 hours"
+            ]
+        },
+        {
+            "day": "Sunday",
             "times": [
                 "Open 24 hours"
             ]
@@ -439,7 +425,7 @@
             "response_from_owner_text": null,
             "response_from_owner_ago": null,
             "response_from_owner_date": null,
-            "review_likes_count": 0,
+            "review_likes_count": 1,
             "total_number_of_reviews_by_reviewer": 29,
             "total_number_of_photos_by_reviewer": 22,
             "reviewer_url": "https://www.google.com/maps/contrib/113610268125432708424/reviews?entry=ttu",
@@ -477,7 +463,7 @@
             "reviewer_name": "Faysal Sever",
             "rating": 5,
             "review_text": "The place is very nice, there is a toilet right under Walmart. And there is a feeding table for babies. It's a place that appeals to all kinds of people, they have good drinks and food. Usually a preferred.That's why it's always busy. A place that I would prefer and visit again.",
-            "published_at": "2 months ago",
+            "published_at": "3 months ago",
             "published_at_date": "2023-08-27T20:30:20.225000Z",
             "response_from_owner_text": null,
             "response_from_owner_ago": null,
@@ -502,7 +488,7 @@
             "response_from_owner_text": null,
             "response_from_owner_ago": null,
             "response_from_owner_date": null,
-            "review_likes_count": 1,
+            "review_likes_count": 2,
             "total_number_of_reviews_by_reviewer": 10,
             "total_number_of_photos_by_reviewer": 0,
             "reviewer_url": "https://www.google.com/maps/contrib/105070279094774750221/reviews?entry=ttu",
@@ -523,7 +509,7 @@
             "response_from_owner_ago": null,
             "response_from_owner_date": null,
             "review_likes_count": 0,
-            "total_number_of_reviews_by_reviewer": 30,
+            "total_number_of_reviews_by_reviewer": 31,
             "total_number_of_photos_by_reviewer": 15,
             "reviewer_url": "https://www.google.com/maps/contrib/105046816865246536378/reviews?entry=ttu",
             "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW6UR4MaWzeGv3hYOdKcU5BdXfzUqZTi6PfcwIqfX9nGDVV=s120-c-rp-mo-ba3-br100",
@@ -543,7 +529,7 @@
             "response_from_owner_ago": null,
             "response_from_owner_date": null,
             "review_likes_count": 0,
-            "total_number_of_reviews_by_reviewer": 60,
+            "total_number_of_reviews_by_reviewer": 63,
             "total_number_of_photos_by_reviewer": 332,
             "reviewer_url": "https://www.google.com/maps/contrib/103317487946477871721/reviews?entry=ttu",
             "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVjWZeXbQgZn6q0qMtIOSjLDIluCUYA3yOR3DK8cOdblgw6=s120-c-rp-mo-ba5-br100",

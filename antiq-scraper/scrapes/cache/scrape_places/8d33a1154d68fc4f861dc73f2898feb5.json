@@ -2,281 +2,1097 @@
     "query": "web developers in bangalore",
     "places": [
         {
-            "place_id": "ChIJ9eMVKwAVrjsR4jH6PD98m7g",
-            "name": "Webgen",
+            "place_id": "ChIJO-f0-wgVrjsRVf4SsrI-6Eo",
+            "name": "MARS WEB Solution",
             "description": null,
-            "reviews": 37,
-            "website": "https://www.webgen.in/",
+            "reviews": 132,
+            "website": "https://www.marswebsolution.com/",
             "owner": {
-                "id": "117156846212994871472",
-                "name": "Webgen (Owner)",
-                "link": "https://www.google.com/maps/contrib/117156846212994871472"
+                "id": "102761562999152338137",
+                "name": "MARS WEB Solution (Owner)",
+                "link": "https://www.google.com/maps/contrib/102761562999152338137"
             },
-            "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=B6Mn7LxgNxurQD0JgC-8Sg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=172.21611&pitch=0&thumbfov=100",
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN2uopDkfr0dBb65IJ26aVm76Qm57X8qZT1bf45=w408-h241-k-no",
             "main_category": "Website designer",
             "categories": [
                 "Website designer",
-                "Advertising agency",
+                "E commerce agency",
+                "E-commerce service",
                 "Internet marketing service",
-                "Marketing agency",
+                "Software company",
                 "Web hosting company"
             ],
-            "rating": 4.1,
-            "workday_timing": "Open 24 hours",
-            "closed_on": [],
-            "phone": "+91 72591 04089",
-            "address": "Webgen, 73, 10th Main Rd, KEB Colony, 1st Stage, BTM 1st Stage, Bengaluru, Karnataka 560029, India",
+            "rating": 4.8,
+            "workday_timing": "10 a.m.-8 p.m.",
+            "closed_on": [
+                "Sunday"
+            ],
+            "phone": "+91 80882 30479",
+            "address": "MARS WEB Solution, 1204, 1st Floor, ASHVA Building, 41st Cross, 26th Main Rd, Jayanagara 9th Block, Bengaluru, Karnataka 560069, India",
             "review_keywords": [
                 {
                     "keyword": "company",
-                    "count": 4
+                    "count": 22
+                },
+                {
+                    "keyword": "website development",
+                    "count": 14
+                },
+                {
+                    "keyword": "ecommerce",
+                    "count": 14
+                },
+                {
+                    "keyword": "digital marketing",
+                    "count": 12
+                },
+                {
+                    "keyword": "service",
+                    "count": 11
+                },
+                {
+                    "keyword": "project",
+                    "count": 7
+                },
+                {
+                    "keyword": "results",
+                    "count": 6
+                },
+                {
+                    "keyword": "experience",
+                    "count": 6
+                },
+                {
+                    "keyword": "requirements",
+                    "count": 5
+                },
+                {
+                    "keyword": "happy",
+                    "count": 5
                 }
             ],
-            "link": "https://www.google.com/maps/place/Webgen/data=!4m7!3m6!1s0x3bae15002b15e3f5:0xb89b7c3f3cfa31e2!8m2!3d12.9198523!4d77.6074941!16s%2Fg%2F12q4t3y8x!19sChIJ9eMVKwAVrjsR4jH6PD98m7g?authuser=0&hl=en&rclk=1",
-            "status": "Open 24 hours",
+            "link": "https://www.google.com/maps/place/MARS+WEB+Solution/data=!4m7!3m6!1s0x3bae1508fbf4e73b:0x4ae83eb2b212fe55!8m2!3d12.9186166!4d77.5934502!16s%2Fg%2F11c2l47z40!19sChIJO-f0-wgVrjsRVf4SsrI-6Eo?authuser=0&hl=en&rclk=1",
+            "status": "Open  Closes 8 p.m.",
             "price_range": null,
             "reviews_per_rating": {
-                "1": 6,
+                "1": 3,
                 "2": 0,
                 "3": 2,
-                "4": 5,
-                "5": 24
+                "4": 4,
+                "5": 123
             },
-            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ9eMVKwAVrjsR4jH6PD98m7g&q=Webgen&authuser=0&hl=en&gl=US",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJO-f0-wgVrjsRVf4SsrI-6Eo&q=MARS+WEB+Solution&authuser=0&hl=en&gl=IN",
             "coordinates": {
-                "latitude": 12.919852299999999,
-                "longitude": 77.6074941
+                "latitude": 12.9186166,
+                "longitude": 77.59345019999999
             },
-            "plus_code": "WJ94+WX Bengaluru, Karnataka, India",
+            "plus_code": "WH9V+C9 Bengaluru, Karnataka, India",
             "detailed_address": {
-                "ward": "KEB Colony, 1st Stage, BTM 1st Stage",
-                "street": "73, 10th Main Rd",
+                "ward": "Putlanpalya, Jayanagara 9th Block, Jayanagar",
+                "street": "1204, 1st Floor, ASHVA Building, 41st Cross, 26th Main Rd",
                 "city": "Bengaluru",
-                "postal_code": "560029",
+                "postal_code": "560069",
                 "state": "Karnataka",
                 "country_code": "IN"
             },
             "time_zone": "Asia/Calcutta",
-            "cid": "13302362535416705506",
-            "data_id": "0x3bae15002b15e3f5:0xb89b7c3f3cfa31e2",
+            "cid": "5397633090616229461",
+            "data_id": "0x3bae1508fbf4e73b:0x4ae83eb2b212fe55",
             "menu": {
                 "link": null,
                 "source": null
             },
             "reservations": [],
-            "order_online_links": [],
-            "about": [],
+            "order_online_links": [
+                {
+                    "link": "https://www.marswebsolution.com/contact-us.html",
+                    "source": "marswebsolution.com"
+                }
+            ],
+            "about": [
+                {
+                    "id": "service_options",
+                    "name": "Service options",
+                    "options": [
+                        {
+                            "name": "Online appointments",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Onsite services",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "accessibility",
+                    "name": "Accessibility",
+                    "options": [
+                        {
+                            "name": "Wheelchair-accessible entrance",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "planning",
+                    "name": "Planning",
+                    "options": [
+                        {
+                            "name": "Appointment required",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
             "images": [
                 {
                     "about": "All",
-                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=B6Mn7LxgNxurQD0JgC-8Sg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=172.21611&pitch=0&thumbfov=100"
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipN2uopDkfr0dBb65IJ26aVm76Qm57X8qZT1bf45=w503-h298-k-no"
+                },
+                {
+                    "about": "By owner",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipMt08RPvDg_UcL-0YOyAfHObWeEbC8lTI0rL7q4=w518-h298-k-no"
                 },
                 {
                     "about": "Street View & 360deg",
-                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=B6Mn7LxgNxurQD0JgC-8Sg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=172.21611&pitch=0&thumbfov=100"
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=fy6jrVsz6LeS1G3byMPZRw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=75.409904&pitch=0&thumbfov=100"
                 }
             ],
             "hours": [
                 {
                     "day": "Monday",
                     "times": [
-                        "Open 24 hours"
+                        "10 a.m.-8 p.m."
                     ]
                 },
                 {
                     "day": "Tuesday",
                     "times": [
-                        "Open 24 hours"
+                        "10 a.m.-8 p.m."
                     ]
                 },
                 {
                     "day": "Wednesday",
                     "times": [
-                        "Open 24 hours"
+                        "10 a.m.-8 p.m."
                     ]
                 },
                 {
                     "day": "Thursday",
                     "times": [
-                        "Open 24 hours"
+                        "10 a.m.-8 p.m."
                     ]
                 },
                 {
                     "day": "Friday",
                     "times": [
-                        "Open 24 hours"
+                        "10 a.m.-8 p.m."
                     ]
                 },
                 {
                     "day": "Saturday",
                     "times": [
-                        "Open 24 hours"
+                        "10 a.m.-8 p.m."
                     ]
                 },
                 {
                     "day": "Sunday",
                     "times": [
-                        "Open 24 hours"
+                        "Closed"
                     ]
                 }
             ],
             "featured_reviews": [
                 {
-                    "review_id": "Recently I made a website it was delivered outstanding. Slightly higher but I am really happy with the results.",
-                    "reviewer_name": "MANJU'S NEPALI KITCHEN",
+                    "review_id": "I feel that Mars Web Solution is the best website development company in Bangalore. We gave them our old website to redesign, and Abhishek sir did very well. He is friendly, communicates effectively, and addresses any corrections without hesitation. Thank you for your services, sir.",
+                    "reviewer_name": "shivakumar yadav",
                     "rating": 5,
-                    "review_text": "Recently I made a website it was delivered outstanding. Slightly higher but I am really happy with the results.",
-                    "published_at": "3 months ago",
-                    "published_at_date": "2023-08-04T15:50:01.747000Z",
-                    "response_from_owner_text": null,
-                    "response_from_owner_ago": null,
-                    "response_from_owner_date": null,
+                    "review_text": "I feel that Mars Web Solution is the best website development company in Bangalore. We gave them our old website to redesign, and Abhishek sir did very well. He is friendly, communicates effectively, and addresses any corrections without hesitation. Thank you for your services, sir.",
+                    "published_at": "a month ago",
+                    "published_at_date": "2023-10-07T03:53:15.517000Z",
+                    "response_from_owner_text": "Thanks a lot sir ",
+                    "response_from_owner_ago": "a month ago",
+                    "response_from_owner_date": "2023-10-07T04:54:20.704000Z",
                     "review_likes_count": 0,
                     "total_number_of_reviews_by_reviewer": 1,
                     "total_number_of_photos_by_reviewer": 0,
-                    "reviewer_url": "https://www.google.com/maps/contrib/111716733088731013510/reviews?entry=ttu",
-                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXaXuLl_yjSbaAShMQwtmofsQx5uh17pLYMYUaZzvO6IDc=s120-c-rp-mo-br100",
+                    "reviewer_url": "https://www.google.com/maps/contrib/113645670059499087593/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWxkm86Esp_XlJJdoPTic4Y4IoUJGkQjHurag2EWReLLA=s120-c-rp-mo-br100",
                     "is_local_guide": false,
                     "review_translated_text": null,
                     "response_from_owner_translated_text": null,
                     "review_photos": []
                 },
                 {
-                    "review_id": "It's a fraud company,\nEven mentioned address also fake,\nTaking orders and getting payment then horrayy.\nNot available, you can not reach to him\nBe careful when you are dealing such companies..",
-                    "reviewer_name": "Hayati Dasbilek",
-                    "rating": 1,
-                    "review_text": "It's a fraud company,\nEven mentioned address also fake,\nTaking orders and getting payment then horrayy.\nNot available, you can not reach to him\nBe careful when you are dealing such companies..",
-                    "published_at": "a year ago",
-                    "published_at_date": "2022-11-16T15:19:37.662000Z",
-                    "response_from_owner_text": null,
-                    "response_from_owner_ago": null,
-                    "response_from_owner_date": null,
+                    "review_id": "One of the best Developers we've come across. They have an excellent customer support and will also often provide suggestions on generating traffic and sales on the website.\nThanks to Pankaj, Abhishek & his team, we now have quite an impressive website.",
+                    "reviewer_name": "Greenfield Eco",
+                    "rating": 5,
+                    "review_text": "One of the best Developers we've come across. They have an excellent customer support and will also often provide suggestions on generating traffic and sales on the website.\nThanks to Pankaj, Abhishek & his team, we now have quite an impressive website.",
+                    "published_at": "4 months ago",
+                    "published_at_date": "2023-07-24T06:46:49.426000Z",
+                    "response_from_owner_text": "Thanks a Lot.",
+                    "response_from_owner_ago": "2 months ago",
+                    "response_from_owner_date": "2023-09-07T12:25:14.491000Z",
                     "review_likes_count": 0,
-                    "total_number_of_reviews_by_reviewer": 4,
+                    "total_number_of_reviews_by_reviewer": 1,
                     "total_number_of_photos_by_reviewer": 0,
-                    "reviewer_url": "https://www.google.com/maps/contrib/116311624520286100135/reviews?entry=ttu",
-                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjV5PaCmq9o2ueWjxA4MCXpd2rtsd99Bn_mgbM6RBm6KSsg=s120-c-rp-mo-br100",
+                    "reviewer_url": "https://www.google.com/maps/contrib/104112129082986210356/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJ4r6AHZdu1gjjyf5R9wSRd5ra7LvEVbRhLjMY4i-MP=s120-c-rp-mo-br100",
                     "is_local_guide": false,
                     "review_translated_text": null,
                     "response_from_owner_translated_text": null,
                     "review_photos": []
                 },
                 {
-                    "review_id": "Too expensive web services they're offering",
-                    "reviewer_name": "Jagadish Vajjal",
-                    "rating": 4,
-                    "review_text": "Too expensive web services they're offering",
-                    "published_at": "6 months ago",
-                    "published_at_date": "2023-05-16T06:24:57.173000Z",
-                    "response_from_owner_text": null,
-                    "response_from_owner_ago": null,
-                    "response_from_owner_date": null,
+                    "review_id": "I had an exceptional experience working with MarsWeb Solutions for my website development needs. Their team displayed remarkable expertise in crafting a website that perfectly captured my vision. They not only demonstrated a deep understanding of design and user experience but also ensured the site was responsive and functional across all devices.\n\nTheir commitment to SEO and digital marketing strategies was evident as my website's online visibility significantly improved. The results-driven approach they adopted helped drive organic traffic and boost my business's online presence. Their attention to detail, coupled with their innovative ideas, truly set them apart in the field.\n\nWhat I appreciated the most was their proactive communication throughout the project. They kept me informed at every stage, provided regular updates, and welcomed my input. It's evident that they prioritize customer satisfaction, making the collaboration an absolute pleasure.\n\nMarsWeb Solutions' comprehensive range of services, from web development to SEO and digital marketing, makes them a one-stop solution for businesses looking to establish a strong online presence. I can confidently recommend their services to anyone seeking top-notch expertise and exceptional results. Kudos to the MarsWeb Solutions team for their outstanding work!",
+                    "reviewer_name": "Gaurav Datta",
+                    "rating": 5,
+                    "review_text": "I had an exceptional experience working with MarsWeb Solutions for my website development needs. Their team displayed remarkable expertise in crafting a website that perfectly captured my vision. They not only demonstrated a deep understanding of design and user experience but also ensured the site was responsive and functional across all devices.\n\nTheir commitment to SEO and digital marketing strategies was evident as my website's online visibility significantly improved. The results-driven approach they adopted helped drive organic traffic and boost my business's online presence. Their attention to detail, coupled with their innovative ideas, truly set them apart in the field.\n\nWhat I appreciated the most was their proactive communication throughout the project. They kept me informed at every stage, provided regular updates, and welcomed my input. It's evident that they prioritize customer satisfaction, making the collaboration an absolute pleasure.\n\nMarsWeb Solutions' comprehensive range of services, from web development to SEO and digital marketing, makes them a one-stop solution for businesses looking to establish a strong online presence. I can confidently recommend their services to anyone seeking top-notch expertise and exceptional results. Kudos to the MarsWeb Solutions team for their outstanding work!",
+                    "published_at": "3 months ago",
+                    "published_at_date": "2023-08-11T11:14:46.591000Z",
+                    "response_from_owner_text": "Thanks a lot sir",
+                    "response_from_owner_ago": "3 months ago",
+                    "response_from_owner_date": "2023-08-11T11:29:04.572000Z",
                     "review_likes_count": 0,
-                    "total_number_of_reviews_by_reviewer": 44,
-                    "total_number_of_photos_by_reviewer": 30,
-                    "reviewer_url": "https://www.google.com/maps/contrib/106625894087475145428/reviews?entry=ttu",
-                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXkLSts_B5UOVBrVf10zKUcpFQC_JFYLDAwDd-ynGxBR7aJ=s120-c-rp-mo-ba4-br100",
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/107366844409199758063/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXBXt_Egckq6l-7DYNhtWlBkJ2dzYJh6AZ9Y0ITqwQm7vw=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Best web designing services provided by the team, available always for support. Hats off to their dedication and committement.",
+                    "reviewer_name": "Tittu Thomas James",
+                    "rating": 5,
+                    "review_text": "Best web designing services provided by the team, available always for support. Hats off to their dedication and committement.",
+                    "published_at": "2 months ago",
+                    "published_at_date": "2023-09-23T19:01:16.427000Z",
+                    "response_from_owner_text": "Thanks a lot sir ",
+                    "response_from_owner_ago": "2 months ago",
+                    "response_from_owner_date": "2023-09-24T15:05:09.909000Z",
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 36,
+                    "total_number_of_photos_by_reviewer": 32,
+                    "reviewer_url": "https://www.google.com/maps/contrib/103423978144206299903/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUpbkSOdVPTPZ_MrVssFMrRfn25oj1GHNY3Tw3alEzRStQ=s120-c-rp-mo-ba4-br100",
                     "is_local_guide": true,
                     "review_translated_text": null,
                     "response_from_owner_translated_text": null,
                     "review_photos": []
                 },
                 {
-                    "review_id": "creative websites are just awesome. worth paying for. designs are unique & of international standards. good service. trust worthy company.\n\nthanks",
-                    "reviewer_name": "Jolly D",
+                    "review_id": "Marsweb solution One of the best web designing company Excellent work and good dedicated team for support and development",
+                    "reviewer_name": "Divya Jyothi",
                     "rating": 5,
-                    "review_text": "creative websites are just awesome. worth paying for. designs are unique & of international standards. good service. trust worthy company.\n\nthanks",
-                    "published_at": "8 years ago",
-                    "published_at_date": "2015-07-19T17:56:49.975000Z",
-                    "response_from_owner_text": "Thanks a lot jolly. Happy to serve you.",
-                    "response_from_owner_ago": "8 years ago",
-                    "response_from_owner_date": "2015-07-19T20:48:03.758000Z",
+                    "review_text": "Marsweb solution One of the best web designing company Excellent work and good dedicated team for support and development",
+                    "published_at": "a month ago",
+                    "published_at_date": "2023-10-17T11:40:10.581000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
                     "review_likes_count": 0,
-                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_reviews_by_reviewer": 3,
                     "total_number_of_photos_by_reviewer": 0,
-                    "reviewer_url": "https://www.google.com/maps/contrib/117245265026305971456/reviews?entry=ttu",
-                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKgtTm8zYF2S6IqvWwW-4BBdJatyVNmtHs_goV8iejm=s120-c-rp-mo-br100",
+                    "reviewer_url": "https://www.google.com/maps/contrib/114193856018343923218/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUu5m2VvyD1x1bVquyySgq7ptg3ZcNGBTklZwJxpk-Juwk=s120-c-rp-mo-br100",
                     "is_local_guide": false,
                     "review_translated_text": null,
                     "response_from_owner_translated_text": null,
                     "review_photos": []
                 },
                 {
-                    "review_id": "I Would really like to appreciate the work done by this company,the way they manage to design the site in less time.Reachable 24X7.Price is bit high but the Web-site provided really worth it.Great Work Done!!",
-                    "reviewer_name": "mahima shahi",
+                    "review_id": "Mars Web Solution is one of the best website development company in bangalore. The team has done an excellent job. All my queries were addressed and the cooperation of the team is very good. I am very satisfied with the service and would highly recommend Mars Web Solution for website development.",
+                    "reviewer_name": "Sagar Marol",
                     "rating": 5,
-                    "review_text": "I Would really like to appreciate the work done by this company,the way they manage to design the site in less time.Reachable 24X7.Price is bit high but the Web-site provided really worth it.Great Work Done!!",
-                    "published_at": "9 years ago",
-                    "published_at_date": "2014-09-18T17:07:54.799000Z",
-                    "response_from_owner_text": "thank you mahima :)",
-                    "response_from_owner_ago": "8 years ago",
-                    "response_from_owner_date": "2015-02-23T19:22:26.797000Z",
-                    "review_likes_count": 1,
-                    "total_number_of_reviews_by_reviewer": 4,
-                    "total_number_of_photos_by_reviewer": 0,
-                    "reviewer_url": "https://www.google.com/maps/contrib/105246585232920468101/reviews?entry=ttu",
-                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJnHN2HrzasbZEH-tziM1rwi3bGVg7tMpVRQb1Dxm9S=s120-c-rp-mo-br100",
+                    "review_text": "Mars Web Solution is one of the best website development company in bangalore. The team has done an excellent job. All my queries were addressed and the cooperation of the team is very good. I am very satisfied with the service and would highly recommend Mars Web Solution for website development.",
+                    "published_at": "3 years ago",
+                    "published_at_date": "2019-12-20T11:11:15.553000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 2,
+                    "reviewer_url": "https://www.google.com/maps/contrib/106238773563690837411/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUsgoWLEhIrpNhAkmWziJoBwGG3BzMpOC02jhRffZsSSQ=s120-c-rp-mo-br100",
                     "is_local_guide": false,
                     "review_translated_text": null,
                     "response_from_owner_translated_text": null,
-                    "review_photos": []
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipMR5bXVuRGrVkEid39pdrHc0b8xkWhg3MTqOS9i=w150-h150-k-no-p"
+                    ]
                 },
                 {
-                    "review_id": "We got our website developed by webgen. They got some really awesome designs which i haven't found it anywhere else. Really happy with their service.\nThanks.",
-                    "reviewer_name": "Ankur das",
+                    "review_id": "Recently developed my e commerce website here and they did digital marketing also and i can see lots of organic traffic and enquiries coming for my website and website ranking is also improving day by day. I must say the best website development company in Bangalore",
+                    "reviewer_name": "Kuviba Gifts",
                     "rating": 5,
-                    "review_text": "We got our website developed by webgen. They got some really awesome designs which i haven't found it anywhere else. Really happy with their service.\nThanks.",
-                    "published_at": "9 years ago",
-                    "published_at_date": "2014-04-26T10:45:00.992000Z",
+                    "review_text": "Recently developed my e commerce website here and they did digital marketing also and i can see lots of organic traffic and enquiries coming for my website and website ranking is also improving day by day. I must say the best website development company in Bangalore",
+                    "published_at": "10 months ago",
+                    "published_at_date": "2023-01-20T12:15:12.249000Z",
                     "response_from_owner_text": null,
                     "response_from_owner_ago": null,
                     "response_from_owner_date": null,
                     "review_likes_count": 0,
                     "total_number_of_reviews_by_reviewer": 2,
                     "total_number_of_photos_by_reviewer": 0,
-                    "reviewer_url": "https://www.google.com/maps/contrib/117357372369456384838/reviews?entry=ttu",
-                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocILmLp706okLur_I4UC5zS6syCJzPGVRZ3bUODIHq1t=s120-c-rp-mo-br100",
+                    "reviewer_url": "https://www.google.com/maps/contrib/113633747349969703027/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUpGNqx6iBkySKaijGP00Xi3h-P3BshUJJ_2Y-9dz4xrw=s120-c-rp-mo-br100",
                     "is_local_guide": false,
                     "review_translated_text": null,
                     "response_from_owner_translated_text": null,
                     "review_photos": []
                 },
                 {
-                    "review_id": "Had amazing experience with webgen. Undoubtedly one of the best web design company in Bangalore.",
-                    "reviewer_name": "Linford D'Souza",
+                    "review_id": "Best website development company in Bangalore, they provided very good service for my e-commerce business like website development, digital marketing, and presence on social media that too in my budget. Highly recommend",
+                    "reviewer_name": "NIVEDITHA SK",
                     "rating": 5,
-                    "review_text": "Had amazing experience with webgen. Undoubtedly one of the best web design company in Bangalore.",
-                    "published_at": "2 years ago",
-                    "published_at_date": "2021-05-26T10:09:09.187000Z",
+                    "review_text": "Best website development company in Bangalore, they provided very good service for my e-commerce business like website development, digital marketing, and presence on social media that too in my budget. Highly recommend",
+                    "published_at": "10 months ago",
+                    "published_at_date": "2023-01-09T13:06:59.258000Z",
                     "response_from_owner_text": null,
                     "response_from_owner_ago": null,
                     "response_from_owner_date": null,
-                    "review_likes_count": 2,
-                    "total_number_of_reviews_by_reviewer": 35,
-                    "total_number_of_photos_by_reviewer": 7,
-                    "reviewer_url": "https://www.google.com/maps/contrib/116647638049752503767/reviews?entry=ttu",
-                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKIuo37vuNRPfrB78t7hf8RbCubuDWlW4H66nKWOd60=s120-c-rp-mo-ba3-br100",
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/103943394862759559929/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLehHzsWRmVA5_vgQFycYBWFTtL0xEl8WNqgrwpJ-uc=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJv8X2vVQVrjsRziyy_mKeKg4",
+            "name": "Webshark Web Services - Best Website Design and E-commerce Development Company in Bangalore",
+            "description": null,
+            "reviews": 101,
+            "website": "http://www.webshark.in/",
+            "owner": {
+                "id": "117110261036651831544",
+                "name": "Webshark Web Services - Best Website Design and E-commerce Development Company in Bangalore (Owner)",
+                "link": "https://www.google.com/maps/contrib/117110261036651831544"
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOaoA_iLKB8iZ2jF_3FbEnTtn80nIxm58KGKhSK=w408-h554-k-no",
+            "main_category": "Website designer",
+            "categories": [
+                "Website designer"
+            ],
+            "rating": 4.8,
+            "workday_timing": "10 a.m.-7:30 p.m.",
+            "closed_on": [
+                "Saturday",
+                "Sunday"
+            ],
+            "phone": "+91 76203 61284",
+            "address": "Webshark Web Services - Best Website Design and E-commerce Development Company in Bangalore, 42/3, 4B, 2nd Floor, Near Kannakpura Main Road, 100FT, Outer Ring Rd, J. P. Nagar, Bengaluru, Karnataka 560078, India",
+            "review_keywords": [
+                {
+                    "keyword": "website development",
+                    "count": 21
+                },
+                {
+                    "keyword": "digital marketing",
+                    "count": 17
+                },
+                {
+                    "keyword": "project",
+                    "count": 14
+                },
+                {
+                    "keyword": "creative",
+                    "count": 7
+                },
+                {
+                    "keyword": "experience",
+                    "count": 6
+                },
+                {
+                    "keyword": "SEO",
+                    "count": 6
+                },
+                {
+                    "keyword": "price",
+                    "count": 5
+                },
+                {
+                    "keyword": "online store",
+                    "count": 5
+                },
+                {
+                    "keyword": "my business",
+                    "count": 5
+                },
+                {
+                    "keyword": "quality",
+                    "count": 5
+                }
+            ],
+            "link": "https://www.google.com/maps/place/Webshark+Web+Services+-+Best+Website+Design+and+E-commerce+Development+Company+in+Bangalore/data=!4m7!3m6!1s0x3bae1554bdf6c5bf:0xe2a9e62feb22cce!8m2!3d12.9067981!4d77.5724812!16s%2Fg%2F11tflmdrbk!19sChIJv8X2vVQVrjsRziyy_mKeKg4?authuser=0&hl=en&rclk=1",
+            "status": "Open  Closes 7 p.m.",
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 4,
+                "2": 1,
+                "3": 0,
+                "4": 5,
+                "5": 91
+            },
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJv8X2vVQVrjsRziyy_mKeKg4&q=Webshark+Web+Services+-+Best+Website+Design+and+E-commerce+Development+Company+in+Bangalore&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 12.9067981,
+                "longitude": 77.5724812
+            },
+            "plus_code": "WH4C+PX Bengaluru, Karnataka, India",
+            "detailed_address": {
+                "ward": "Umarbagh Layout, J. P. Nagar",
+                "street": "42/3, 4B, 2nd Floor, Near Kannakpura Main Road, 100FT, Outer Ring Rd",
+                "city": "Bengaluru",
+                "postal_code": "560078",
+                "state": "Karnataka",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "1020802413569912014",
+            "data_id": "0x3bae1554bdf6c5bf:0xe2a9e62feb22cce",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [
+                {
+                    "link": "https://www.webshark.in/contact/",
+                    "source": "webshark.in"
+                }
+            ],
+            "about": [
+                {
+                    "id": "service_options",
+                    "name": "Service options",
+                    "options": [
+                        {
+                            "name": "Onsite services",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipOaoA_iLKB8iZ2jF_3FbEnTtn80nIxm58KGKhSK=w224-h304-k-no"
+                },
+                {
+                    "about": "Exterior",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipNhkcQK1rd83JTWYyFdR7J4GtYut4pG0xkvCsqv=w397-h298-k-no"
+                },
+                {
+                    "about": "Videos",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipNHPOMQ1ZLAx9EnHS7IirF0ClyFPOB7bTLHeoHy=w529-h298-k-no"
+                },
+                {
+                    "about": "Inside",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipNrwEuKaFA8qCD7_Mu0ThRU8RpLPBI3LB5g9Aeq=w397-h298-k-no"
+                },
+                {
+                    "about": "By owner",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipMOQn_nEBK7I5_ycVZHr3xTUBfQU9DbNI7lkzrf=w298-h298-k-no"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=FMN407bz05NXO1GMK1V88Q&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=352.2776&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [
+                {
+                    "day": "Monday",
+                    "times": [
+                        "10 a.m.-7:30 p.m."
+                    ]
+                },
+                {
+                    "day": "Tuesday",
+                    "times": [
+                        "10 a.m.-7:30 p.m."
+                    ]
+                },
+                {
+                    "day": "Wednesday",
+                    "times": [
+                        "10 a.m.-7:30 p.m."
+                    ]
+                },
+                {
+                    "day": "Thursday",
+                    "times": [
+                        "10 a.m.-7:30 p.m."
+                    ]
+                },
+                {
+                    "day": "Friday",
+                    "times": [
+                        "10 a.m.-7 p.m."
+                    ]
+                },
+                {
+                    "day": "Saturday",
+                    "times": [
+                        "Closed"
+                    ]
+                },
+                {
+                    "day": "Sunday",
+                    "times": [
+                        "Closed"
+                    ]
+                }
+            ],
+            "featured_reviews": [
+                {
+                    "review_id": "We had a fantastic experience with Webshark! From concept to execution, their team displayed professionalism and creativity. They delivered our website on time and within budget. We couldn't be happier with the results. Highly recommend their services! They are the best web developers in Bangalore.",
+                    "reviewer_name": "Prathmesh Solanki",
+                    "rating": 5,
+                    "review_text": "We had a fantastic experience with Webshark! From concept to execution, their team displayed professionalism and creativity. They delivered our website on time and within budget. We couldn't be happier with the results. Highly recommend their services! They are the best web developers in Bangalore.",
+                    "published_at": "a month ago",
+                    "published_at_date": "2023-10-28T18:27:44.914000Z",
+                    "response_from_owner_text": "Hello, Prathmesh Solanki.Thank you for your glowing review! We're happy to hear about your fantastic experience with Webshark!",
+                    "response_from_owner_ago": "a month ago",
+                    "response_from_owner_date": "2023-10-30T14:19:43.924000Z",
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/111381976113313675951/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWoZ75ME8X3rJXsg-FwqDxL4-7TAsVdN1jxDO8DF00qEQ=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "After some initial delays, I must say I am pleased with Team Webshark. They ultimately delivered a project that was 10 days behind schedule, but the quality of their work was truly outstanding. Their team consistently addressed my inquiries, and I confidently recommend this company to anyone seeking web development and web design services. Kudos to the great team; keep up the excellent work!",
+                    "reviewer_name": "Pranav Bhawane",
+                    "rating": 5,
+                    "review_text": "After some initial delays, I must say I am pleased with Team Webshark. They ultimately delivered a project that was 10 days behind schedule, but the quality of their work was truly outstanding. Their team consistently addressed my inquiries, and I confidently recommend this company to anyone seeking web development and web design services. Kudos to the great team; keep up the excellent work!",
+                    "published_at": "a month ago",
+                    "published_at_date": "2023-10-30T09:03:41.031000Z",
+                    "response_from_owner_text": "Hello, Pranav Bhawane\n\nThank you for your feedback! We apologize for the initial delays but are thrilled you found our work outstanding. We'll continue to provide excellent web development and design services.\n\nBest regards,\nWebshark Web Services",
+                    "response_from_owner_ago": "a month ago",
+                    "response_from_owner_date": "2023-10-30T14:09:26.578000Z",
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/108139962925288159824/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWKtNX_1LYHfrH0ScJTb_agZRpg-wvO3Bf5ljmDQjKJUtE=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Webshark Web Services is the best choice for website development! Their team is skilled, reliable, and customer-focused. They transformed our ideas into a beautifully designed website. We are extremely satisfied with the results. Great job, Webshark!",
+                    "reviewer_name": "Jay Raut",
+                    "rating": 5,
+                    "review_text": "Webshark Web Services is the best choice for website development! Their team is skilled, reliable, and customer-focused. They transformed our ideas into a beautifully designed website. We are extremely satisfied with the results. Great job, Webshark!",
+                    "published_at": "a month ago",
+                    "published_at_date": "2023-10-28T18:17:19.606000Z",
+                    "response_from_owner_text": "Hello, Jay Raut. Thank you for Rating us as The Best website development company",
+                    "response_from_owner_ago": "a month ago",
+                    "response_from_owner_date": "2023-10-30T14:22:39.373000Z",
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 3,
+                    "total_number_of_photos_by_reviewer": 1,
+                    "reviewer_url": "https://www.google.com/maps/contrib/114030046026168196318/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXhUHilpTF40KT7prTxXqmNlWkrIk2M-g8NeLPPhoPyRSU=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Webshark Web Services delivered beyond excellence in creating our fashion e-commerce store for South Korea. Their design skills and attention to detail resulted in a visually stunning and highly functional website. The team's dedication and expertise made the entire process smooth and efficient. Our online store stands out, thanks to Webshark! Highly recommend them for anyone in South Korea seeking top-tier website development services. Kamsahamnida, Webshark!",
+                    "reviewer_name": "nayiurijib yeoreobun",
+                    "rating": 5,
+                    "review_text": "Webshark Web Services delivered beyond excellence in creating our fashion e-commerce store for South Korea. Their design skills and attention to detail resulted in a visually stunning and highly functional website. The team's dedication and expertise made the entire process smooth and efficient. Our online store stands out, thanks to Webshark! Highly recommend them for anyone in South Korea seeking top-tier website development services. Kamsahamnida, Webshark!",
+                    "published_at": "a month ago",
+                    "published_at_date": "2023-10-30T10:11:41.903000Z",
+                    "response_from_owner_text": "Hello, nayiurijib yeoreobun\n\nThank you so much for your kind words! We're thrilled to have been part of creating a stunning e-commerce store for your South Korean fashion brand. Your satisfaction is our utmost priority, and we're grateful for your recommendation. we are looking forward to supporting your online success!\n\nRegards\nWebshark Web Services",
+                    "response_from_owner_ago": "a month ago",
+                    "response_from_owner_date": "2023-10-30T13:40:43.994000Z",
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/108885782981228718395/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKFJiq9hi8h9WDVQ1CNJPAbxLVDz5vlYtz2IggJeHlb=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "I am delighted to express my heartfelt gratitude to the outstanding team at Webshark for their exceptional work in designing and building our website.\n\nThroughout the entire process, the team has been incredibly responsive, ensuring that our project moved forward seamlessly. Currently we are in the process of uploading products and content to the platform and even throughout this process they have been extremely prompt in providing us with ongoing guidance and assistance.\n\nIn summary, working with Webshark has been a true pleasure. They are a talented and reliable team that delivers outstanding results. Thank you, Webshark, for all the wonderful help. All the very best always.",
+                    "reviewer_name": "Kamal Chellani P",
+                    "rating": 5,
+                    "review_text": "I am delighted to express my heartfelt gratitude to the outstanding team at Webshark for their exceptional work in designing and building our website.\n\nThroughout the entire process, the team has been incredibly responsive, ensuring that our project moved forward seamlessly. Currently we are in the process of uploading products and content to the platform and even throughout this process they have been extremely prompt in providing us with ongoing guidance and assistance.\n\nIn summary, working with Webshark has been a true pleasure. They are a talented and reliable team that delivers outstanding results. Thank you, Webshark, for all the wonderful help. All the very best always.",
+                    "published_at": "4 months ago",
+                    "published_at_date": "2023-07-30T07:29:50.503000Z",
+                    "response_from_owner_text": "Thank you so much for your kind words! We're thrilled to have been a part of bringing your website vision to life. Our team is dedicated to providing excellent service and guidance throughout the entire process. We're excited to continue supporting you as you upload products and content to the platform. Your success is our priority. All the best to you as well! - The Webshark Team",
+                    "response_from_owner_ago": "3 months ago",
+                    "response_from_owner_date": "2023-08-08T08:37:53.826000Z",
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 81,
+                    "total_number_of_photos_by_reviewer": 24,
+                    "reviewer_url": "https://www.google.com/maps/contrib/113466686378972516762/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLfXAI_oxtNKIVORQ4Q5z6NpkEWb6uiTK64_lNGhlC0=s120-c-rp-mo-ba3-br100",
                     "is_local_guide": true,
                     "review_translated_text": null,
                     "response_from_owner_translated_text": null,
                     "review_photos": []
                 },
                 {
-                    "review_id": "very bad team\neven they don't know to update their address in Google page",
-                    "reviewer_name": "me too",
-                    "rating": 1,
-                    "review_text": "very bad team\neven they don't know to update their address in Google page",
-                    "published_at": "3 years ago",
-                    "published_at_date": "2020-02-27T07:37:58.174000Z",
+                    "review_id": "Webshark Web Services exceeded my expectations in creating our educational course website. Their expertise in design and functionality is evident in every aspect of the site. The team was attentive to our needs, responsive to feedback, and delivered a user-friendly platform that perfectly suits our requirements. We're thrilled with the outcome and highly recommend Webshark for top-notch website development.",
+                    "reviewer_name": "Prepeasy academy",
+                    "rating": 5,
+                    "review_text": "Webshark Web Services exceeded my expectations in creating our educational course website. Their expertise in design and functionality is evident in every aspect of the site. The team was attentive to our needs, responsive to feedback, and delivered a user-friendly platform that perfectly suits our requirements. We're thrilled with the outcome and highly recommend Webshark for top-notch website development.",
+                    "published_at": "3 months ago",
+                    "published_at_date": "2023-08-27T07:51:49.080000Z",
+                    "response_from_owner_text": "Thank you Prepeasy Academy team! For this valuable review. It was a pleasant time working for your organization.",
+                    "response_from_owner_ago": "a month ago",
+                    "response_from_owner_date": "2023-10-31T10:02:30.549000Z",
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/104510767883116883575/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJ7np-ZILPdm__FAb01KJ6Givpzx4_rg12L1EMEmrYM=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "For over a year now, Webshark Web Services has been our trusted agency, diligently managing our website, executing search engine optimization, and spearheading lead generation efforts. During this time, we've experienced a substantial surge in high-quality leads as well. Wishing the team continued success!",
+                    "reviewer_name": "Swapnil Patil",
+                    "rating": 5,
+                    "review_text": "For over a year now, Webshark Web Services has been our trusted agency, diligently managing our website, executing search engine optimization, and spearheading lead generation efforts. During this time, we've experienced a substantial surge in high-quality leads as well. Wishing the team continued success!",
+                    "published_at": "4 weeks ago",
+                    "published_at_date": "2023-11-01T17:36:53.309000Z",
                     "response_from_owner_text": null,
                     "response_from_owner_ago": null,
                     "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 52,
+                    "total_number_of_photos_by_reviewer": 5,
+                    "reviewer_url": "https://www.google.com/maps/contrib/109510166503353413054/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVgYvAdxWuHJ9YT-urxVOFcCMt0ksqkT_LFslx7cveRTPXu=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "I was searching for website development agency and found Webshark Web Services online then I have connected with them for my website development and digital marketing services. After successfully implementing my website I found myself lucky for working with them as my colleagues and our clients were pretty impressed by it. For SMM services also they have created and delivered amazing posters, due to which there are a lot of sales happening.",
+                    "reviewer_name": "Disha Patel",
+                    "rating": 5,
+                    "review_text": "I was searching for website development agency and found Webshark Web Services online then I have connected with them for my website development and digital marketing services. After successfully implementing my website I found myself lucky for working with them as my colleagues and our clients were pretty impressed by it. For SMM services also they have created and delivered amazing posters, due to which there are a lot of sales happening.",
+                    "published_at": "a month ago",
+                    "published_at_date": "2023-10-27T08:28:25.912000Z",
+                    "response_from_owner_text": "Hello, Disha Patel. We're glad to hear that you're pretty impressed by our SMM service. We would like to continue our service with you ",
+                    "response_from_owner_ago": "a month ago",
+                    "response_from_owner_date": "2023-10-30T14:25:05.365000Z",
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/105476303920228022828/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKAPzoWhHNGcBiqI1LNiOumdfScQP4rQQyysu87sKSo=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJldXjtycVrjsRVcBF1rkF91k",
+            "name": "W3 Dream Solutions (Website Development Company in Bangalore)",
+            "description": null,
+            "reviews": 91,
+            "website": "https://www.w3dreamsolutions.com/",
+            "owner": {
+                "id": "109843859553610190196",
+                "name": "W3 Dream Solutions (Website Development Company in Bangalore) (Owner)",
+                "link": "https://www.google.com/maps/contrib/109843859553610190196"
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMLoemIG5NmOOdw50qh8PdHp2NcfxmZ6A_Q5lsz=w408-h363-k-no",
+            "main_category": "Website designer",
+            "categories": [
+                "Website designer",
+                "Software company"
+            ],
+            "rating": 4.8,
+            "workday_timing": "10:30 a.m.-7 p.m.",
+            "closed_on": [
+                "Sunday"
+            ],
+            "phone": "+91 89707 72011",
+            "address": "W3 Dream Solutions (Website Development Company in Bangalore), No. 1375 , 2nd Floor, Alpinism Building 13th Cross, Anjaneyaswamy Temple Rd JP Nagar, 1st Phase, Sarakki, Bengaluru, Karnataka 560078, India",
+            "review_keywords": [
+                {
+                    "keyword": "application",
+                    "count": 6
+                },
+                {
+                    "keyword": "project",
+                    "count": 6
+                },
+                {
+                    "keyword": "service provider",
+                    "count": 4
+                },
+                {
+                    "keyword": "experience",
+                    "count": 3
+                },
+                {
+                    "keyword": "requirements",
+                    "count": 3
+                },
+                {
+                    "keyword": "e-commerce",
+                    "count": 3
+                },
+                {
+                    "keyword": "understand",
+                    "count": 3
+                }
+            ],
+            "link": "https://www.google.com/maps/place/W3+Dream+Solutions+%28Website+Development+Company+in+Bangalore%29/data=!4m7!3m6!1s0x3bae1527b7e3d595:0x59f705b9d645c055!8m2!3d12.9093808!4d77.5744618!16s%2Fg%2F11b6szqw5s!19sChIJldXjtycVrjsRVcBF1rkF91k?authuser=0&hl=en&rclk=1",
+            "status": "Open  Closes 7 p.m.",
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 3,
+                "2": 0,
+                "3": 1,
+                "4": 1,
+                "5": 86
+            },
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJldXjtycVrjsRVcBF1rkF91k&q=W3+Dream+Solutions+%28Website+Development+Company+in+Bangalore%29&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 12.9093808,
+                "longitude": 77.5744618
+            },
+            "plus_code": "WH5F+QQ Bengaluru, Karnataka, India",
+            "detailed_address": {
+                "ward": "SBI Colony, 1st Phase, Sarakki",
+                "street": "No. 1375 , 2nd Floor, Alpinism Building 13th Cross, Anjaneyaswamy Temple Rd JP Nagar",
+                "city": "Bengaluru",
+                "postal_code": "560078",
+                "state": "Karnataka",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "6482656484345102421",
+            "data_id": "0x3bae1527b7e3d595:0x59f705b9d645c055",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [
+                {
+                    "id": "service_options",
+                    "name": "Service options",
+                    "options": [
+                        {
+                            "name": "Online appointments",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Onsite services",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "accessibility",
+                    "name": "Accessibility",
+                    "options": [
+                        {
+                            "name": "Wheelchair accessible seating",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Wheelchair-accessible washroom",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "amenities",
+                    "name": "Amenities",
+                    "options": [
+                        {
+                            "name": "Gender-neutral washroom",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "crowd",
+                    "name": "Crowd",
+                    "options": [
+                        {
+                            "name": "LGBTQ+ friendly",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "planning",
+                    "name": "Planning",
+                    "options": [
+                        {
+                            "name": "Appointment required",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipMLoemIG5NmOOdw50qh8PdHp2NcfxmZ6A_Q5lsz=w334-h298-k-no"
+                },
+                {
+                    "about": "Latest",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipMLoemIG5NmOOdw50qh8PdHp2NcfxmZ6A_Q5lsz=w334-h298-k-no"
+                },
+                {
+                    "about": "Videos",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipPYB7aSt49J1nSWsA4OflI-XvRtOww2HjpqwWhk=w529-h298-k-no"
+                },
+                {
+                    "about": "Inside",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipPEjdG7Ivn9AF0NnnSrWoiNNmMGw7J5Y6hWUw10=w529-h298-k-no"
+                },
+                {
+                    "about": "By owner",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipPmWsQiKQCb81kuxhN361twENK85_S7_Ji_3bNK=w529-h298-k-no"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=1ERd7uwgG0HgnxLcm0PriQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=28.248468&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [
+                {
+                    "day": "Monday",
+                    "times": [
+                        "10:30 a.m.-7 p.m."
+                    ]
+                },
+                {
+                    "day": "Tuesday",
+                    "times": [
+                        "10:30 a.m.-7 p.m."
+                    ]
+                },
+                {
+                    "day": "Wednesday",
+                    "times": [
+                        "10:30 a.m.-7 p.m."
+                    ]
+                },
+                {
+                    "day": "Thursday",
+                    "times": [
+                        "10:30 a.m.-7 p.m."
+                    ]
+                },
+                {
+                    "day": "Friday",
+                    "times": [
+                        "10:30 a.m.-7 p.m."
+                    ]
+                },
+                {
+                    "day": "Saturday",
+                    "times": [
+                        "10:30 a.m.-2 p.m."
+                    ]
+                },
+                {
+                    "day": "Sunday",
+                    "times": [
+                        "Closed"
+                    ]
+                }
+            ],
+            "featured_reviews": [
+                {
+                    "review_id": "W3 Dream solutions is a perfect choice for website development, mobile app, ecommerce website & store. Dinesh sir have a good knowledge of SEO, coding, and business & project strategy . I am highly recommended to Dinesh sir and team.",
+                    "reviewer_name": "Shivani Mehta",
+                    "rating": 5,
+                    "review_text": "W3 Dream solutions is a perfect choice for website development, mobile app, ecommerce website & store. Dinesh sir have a good knowledge of SEO, coding, and business & project strategy . I am highly recommended to Dinesh sir and team.",
+                    "published_at": "5 months ago",
+                    "published_at_date": "2023-06-28T14:45:28.584000Z",
+                    "response_from_owner_text": "Thank you ma'am for your valuable review. ",
+                    "response_from_owner_ago": "5 months ago",
+                    "response_from_owner_date": "2023-06-29T06:45:56.499000Z",
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 6,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/100901693443111944321/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJxFEy4NHZrNx3cXrtJysC9KWWTgIhONRXLQivGW5uR9A=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "A great place to get your website developed and maintained. We were very happy with our website work. Mr.Dinesh is good at understanding customer requirements and provides the best and economical solutions.",
+                    "reviewer_name": "Prasad CS",
+                    "rating": 5,
+                    "review_text": "A great place to get your website developed and maintained. We were very happy with our website work. Mr.Dinesh is good at understanding customer requirements and provides the best and economical solutions.",
+                    "published_at": "3 months ago",
+                    "published_at_date": "2023-08-02T12:14:33.768000Z",
+                    "response_from_owner_text": "Thank you so much sir for your valuable comment and rating.",
+                    "response_from_owner_ago": "3 months ago",
+                    "response_from_owner_date": "2023-08-03T04:40:01.118000Z",
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 20,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/117556298254152143800/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjX4mbfe-bCKfMr0V4_KPulUwqpVSMkNkD1WmtDKRumssgM=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "The best company to develop your website and they have a right talents for software development projects as well. I definitely recommend this company.",
+                    "reviewer_name": "dhass ak",
+                    "rating": 5,
+                    "review_text": "The best company to develop your website and they have a right talents for software development projects as well. I definitely recommend this company.",
+                    "published_at": "2 months ago",
+                    "published_at_date": "2023-09-06T12:14:28.412000Z",
+                    "response_from_owner_text": "Thank you so much for your valuable review. ",
+                    "response_from_owner_ago": "2 months ago",
+                    "response_from_owner_date": "2023-09-08T06:46:54.800000Z",
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 59,
+                    "total_number_of_photos_by_reviewer": 6,
+                    "reviewer_url": "https://www.google.com/maps/contrib/114518632535770219389/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVvvREZKZZar2HncO82Pr3l-oCicBQEy5ImwyAMkySIoA=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "I had requirement for a booking website and mobile application development, so I was searching for a reputed web development company in Bangalore. I found W3 Dream Solutions in top ranking and contacted them. I asked for provide a quotation, but they asked to schedule a meeting and discussion in details to process for quotation and it was a good moment for me to understand all technical things for my project and took forward. Finally, they have demonstrated a nice portal after completion.",
+                    "reviewer_name": "Manjula Halagali",
+                    "rating": 5,
+                    "review_text": "I had requirement for a booking website and mobile application development, so I was searching for a reputed web development company in Bangalore. I found W3 Dream Solutions in top ranking and contacted them. I asked for provide a quotation, but they asked to schedule a meeting and discussion in details to process for quotation and it was a good moment for me to understand all technical things for my project and took forward. Finally, they have demonstrated a nice portal after completion.",
+                    "published_at": "a year ago",
+                    "published_at_date": "2022-08-01T11:39:07.317000Z",
+                    "response_from_owner_text": "I really appreciate the opportunity to work with you. Thanks for your valuable time and review.",
+                    "response_from_owner_ago": "a year ago",
+                    "response_from_owner_date": "2022-08-01T11:49:50.883000Z",
+                    "review_likes_count": 3,
+                    "total_number_of_reviews_by_reviewer": 9,
+                    "total_number_of_photos_by_reviewer": 1,
+                    "reviewer_url": "https://www.google.com/maps/contrib/101552632529854053231/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUE4U6zZF2bha8m9qk9A1lELQVU8uNizXWwE7aDa-nWSTg=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "We have been engaged with W3 Dream Solutions for past 3 years. Mr. Dinesh and his team helped us well from the beginning. I appreciate their work and support.",
+                    "reviewer_name": "naveen patil",
+                    "rating": 5,
+                    "review_text": "We have been engaged with W3 Dream Solutions for past 3 years. Mr. Dinesh and his team helped us well from the beginning. I appreciate their work and support.",
+                    "published_at": "a year ago",
+                    "published_at_date": "2022-08-01T11:51:48.103000Z",
+                    "response_from_owner_text": "Thank you so much Naveen",
+                    "response_from_owner_ago": "a year ago",
+                    "response_from_owner_date": "2022-08-01T11:54:11.761000Z",
                     "review_likes_count": 1,
                     "total_number_of_reviews_by_reviewer": 3,
-                    "total_number_of_photos_by_reviewer": 0,
-                    "reviewer_url": "https://www.google.com/maps/contrib/110004052122737431973/reviews?entry=ttu",
-                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKnKiqCNOWyAw2sVpr3rg3e9DBObKToXdlcGYJVOz8n=s120-c-rp-mo-br100",
+                    "total_number_of_photos_by_reviewer": 5,
+                    "reviewer_url": "https://www.google.com/maps/contrib/100356655679676390383/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLLuJpmu9lCliuiy38AHySmG5GF6KgxLxBdjoZnqA48=s120-c-rp-mo-br100",
                     "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "I was searching for somebody to develop my web portal. I didn't know more about web designing company, so I found many companies on Internet and tried contacting them. Finally I called Dinesh Sir and engaged with his team for my dream project.They helped me from scratch to final deployment and my portal is up now. I appreciate the work and support provided till now and also expecting further support and maintenance.",
+                    "reviewer_name": "Shree Gehlot",
+                    "rating": 5,
+                    "review_text": "I was searching for somebody to develop my web portal. I didn't know more about web designing company, so I found many companies on Internet and tried contacting them. Finally I called Dinesh Sir and engaged with his team for my dream project.They helped me from scratch to final deployment and my portal is up now. I appreciate the work and support provided till now and also expecting further support and maintenance.",
+                    "published_at": "a year ago",
+                    "published_at_date": "2022-03-20T07:52:28.744000Z",
+                    "response_from_owner_text": "Thank you very much. We are happy to support you.",
+                    "response_from_owner_ago": "a year ago",
+                    "response_from_owner_date": "2022-03-20T14:45:35.714000Z",
+                    "review_likes_count": 2,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/101310001304825772025/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWTYuhIoEeco30ymQ3vagw4kn9sAh5gGyXmzgi7hdRnAFI=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "One of the best place in Bangalore for e-commerce website development.",
+                    "reviewer_name": "DG Mali",
+                    "rating": 5,
+                    "review_text": "One of the best place in Bangalore for e-commerce website development.",
+                    "published_at": "a month ago",
+                    "published_at_date": "2023-10-29T07:58:04.705000Z",
+                    "response_from_owner_text": "Thank you so much for your valuable review",
+                    "response_from_owner_ago": "a month ago",
+                    "response_from_owner_date": "2023-10-30T05:37:30.558000Z",
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/112065834294320424055/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLaI-2tukoJjaWXQXd5pOA3q-uHdJaLTG1IRECS-MxN=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Highly recommended!\n\nIf you are looking for a custom development website at a reasonable cost and great quality, Adwest Digital is the best in Bangalore. Go for it.",
+                    "reviewer_name": "Kiran Kumar",
+                    "rating": 5,
+                    "review_text": "Highly recommended!\n\nIf you are looking for a custom development website at a reasonable cost and great quality, Adwest Digital is the best in Bangalore. Go for it.",
+                    "published_at": "10 months ago",
+                    "published_at_date": "2023-01-29T14:27:18.628000Z",
+                    "response_from_owner_text": "Really appreciate.  Thank you so much for sharing your valuable review.    ",
+                    "response_from_owner_ago": "10 months ago",
+                    "response_from_owner_date": "2023-01-30T07:00:34.244000Z",
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 33,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/109152438468299893909/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWpvot1GJCRkO_EOSZbCNLTw6KG7wNZuo42f2U8-DATjmQ=s120-c-rp-mo-ba2-br100",
+                    "is_local_guide": true,
                     "review_translated_text": null,
                     "response_from_owner_translated_text": null,
                     "review_photos": []
@@ -288,7 +1104,7 @@
             "place_id": "ChIJsQ4cfGE9rjsREiBuDRdXl-M",
             "name": "Techiesys- Web Design Company in Bangalore,Website Development, eCommerce Mobile apps UIUX , Digital Marketing Agency",
             "description": null,
-            "reviews": 65,
+            "reviews": 67,
             "website": "https://www.techiesys.in/",
             "owner": {
                 "id": "108447714534329007166",
@@ -306,8 +1122,8 @@
                 "Software training institute",
                 "Web hosting company"
             ],
-            "rating": 4.8,
-            "workday_timing": "9 AM-8 PM",
+            "rating": 4.9,
+            "workday_timing": "9 a.m.-8 p.m.",
             "closed_on": [
                 "Sunday"
             ],
@@ -327,11 +1143,11 @@
                     "count": 4
                 },
                 {
-                    "keyword": "work",
-                    "count": 3
+                    "keyword": "skills",
+                    "count": 4
                 },
                 {
-                    "keyword": "skills",
+                    "keyword": "work",
                     "count": 3
                 },
                 {
@@ -340,16 +1156,16 @@
                 }
             ],
             "link": "https://www.google.com/maps/place/Techiesys-+Web+Design+Company+in+Bangalore,Website+Development,+eCommerce+Mobile+apps+UIUX+,+Digital+Marketing+Agency/data=!4m7!3m6!1s0x3bae3d617c1c0eb1:0xe39757170d6e2012!8m2!3d13.024283!4d77.557368!16s%2Fg%2F11b6gm4bsx!19sChIJsQ4cfGE9rjsREiBuDRdXl-M?authuser=0&hl=en&rclk=1",
-            "status": "Open  Closes 8 PM",
+            "status": "Open  Closes 8 p.m.",
             "price_range": null,
             "reviews_per_rating": {
                 "1": 2,
                 "2": 0,
                 "3": 0,
                 "4": 2,
-                "5": 61
+                "5": 63
             },
-            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJsQ4cfGE9rjsREiBuDRdXl-M&q=Techiesys-+Web+Design+Company+in+Bangalore,Website+Development,+eCommerce+Mobile+apps+UIUX+,+Digital+Marketing+Agency&authuser=0&hl=en&gl=US",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJsQ4cfGE9rjsREiBuDRdXl-M&q=Techiesys-+Web+Design+Company+in+Bangalore,Website+Development,+eCommerce+Mobile+apps+UIUX+,+Digital+Marketing+Agency&authuser=0&hl=en&gl=IN",
             "coordinates": {
                 "latitude": 13.024282999999999,
                 "longitude": 77.557368
@@ -397,15 +1213,15 @@
                     "name": "Accessibility",
                     "options": [
                         {
-                            "name": "Wheelchair accessible entrance",
-                            "enabled": true
-                        },
-                        {
-                            "name": "Wheelchair accessible restroom",
-                            "enabled": true
-                        },
-                        {
                             "name": "Wheelchair accessible seating",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Wheelchair-accessible entrance",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Wheelchair-accessible washroom",
                             "enabled": true
                         }
                     ]
@@ -415,7 +1231,7 @@
                     "name": "Amenities",
                     "options": [
                         {
-                            "name": "Gender-neutral restroom",
+                            "name": "Gender-neutral washroom",
                             "enabled": true
                         }
                     ]
@@ -447,16 +1263,12 @@
                     "link": "https://lh5.googleusercontent.com/p/AF1QipNMI6LoFPdPb3bWnLpijIZw63Pm914dAFieV8s_=w529-h298-k-no"
                 },
                 {
-                    "about": "Latest",
-                    "link": "https://lh5.googleusercontent.com/p/AF1QipPTfH5SILlodp5rP4PhPhcQQzokDe4vlS8LVbWn=w476-h298-k-no"
+                    "about": "Exterior",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipNMI6LoFPdPb3bWnLpijIZw63Pm914dAFieV8s_=w529-h298-k-no"
                 },
                 {
                     "about": "Videos",
                     "link": "https://lh5.googleusercontent.com/p/AF1QipPTfH5SILlodp5rP4PhPhcQQzokDe4vlS8LVbWn=w476-h298-k-no"
-                },
-                {
-                    "about": "Exterior",
-                    "link": "https://lh5.googleusercontent.com/p/AF1QipNMI6LoFPdPb3bWnLpijIZw63Pm914dAFieV8s_=w529-h298-k-no"
                 },
                 {
                     "about": "Inside",
@@ -468,7 +1280,7 @@
                 },
                 {
                     "about": "By owner",
-                    "link": "https://lh5.googleusercontent.com/p/AF1QipMZYGtChrp8sJVTjZYlI7H3RGIlUvEfuhYd8Ruy=w298-h298-k-no"
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipPTfH5SILlodp5rP4PhPhcQQzokDe4vlS8LVbWn=w476-h298-k-no"
                 },
                 {
                     "about": "Street View & 360deg",
@@ -479,37 +1291,37 @@
                 {
                     "day": "Monday",
                     "times": [
-                        "9 AM-8 PM"
+                        "9 a.m.-8 p.m."
                     ]
                 },
                 {
                     "day": "Tuesday",
                     "times": [
-                        "9 AM-8 PM"
+                        "9 a.m.-8 p.m."
                     ]
                 },
                 {
                     "day": "Wednesday",
                     "times": [
-                        "9 AM-8 PM"
+                        "9 a.m.-8 p.m."
                     ]
                 },
                 {
                     "day": "Thursday",
                     "times": [
-                        "9 AM-8 PM"
+                        "9 a.m.-8 p.m."
                     ]
                 },
                 {
                     "day": "Friday",
                     "times": [
-                        "9 AM-8 PM"
+                        "9 a.m.-8 p.m."
                     ]
                 },
                 {
                     "day": "Saturday",
                     "times": [
-                        "9 AM-6 PM"
+                        "9 a.m.-6 p.m."
                     ]
                 },
                 {
@@ -520,6 +1332,26 @@
                 }
             ],
             "featured_reviews": [
+                {
+                    "review_id": "We were looking for the best web design company in Bangalore, fortunately, we were founded techiesys it solutions . Their highly skilled and professional staff delivered us the web application we were looking forward to. In the process, they guided us on many aspects which we were not aware of ui ux design . They gave importance to minute detailing, which is really inspiring. storngly recomend for web and mobile apps development in bangalore .",
+                    "reviewer_name": "pratap kumar Mishra",
+                    "rating": 5,
+                    "review_text": "We were looking for the best web design company in Bangalore, fortunately, we were founded techiesys it solutions . Their highly skilled and professional staff delivered us the web application we were looking forward to. In the process, they guided us on many aspects which we were not aware of ui ux design . They gave importance to minute detailing, which is really inspiring. storngly recomend for web and mobile apps development in bangalore .",
+                    "published_at": "5 days ago",
+                    "published_at_date": "2023-11-25T12:44:42.090000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/110091409616148673599/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVIe4r06zO1m2EqMe1_Qbfa8VLfj7FSBrT1JfN2QnTlKQ=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
                 {
                     "review_id": "Their web development services are good .Everything from their customer service to the quality of their work was first class. My website is now running smoother and Im happy with my experience with them. Highly recommend if you're looking for a reliable web development company",
                     "reviewer_name": "Bagesh b Bah",
@@ -621,26 +1453,6 @@
                     "review_photos": []
                 },
                 {
-                    "review_id": "Biggest fraud company...Mr karunakar has taken money and unsconded...he is not even picking up the call not available in the office....never recommend this company",
-                    "reviewer_name": "nithin kumar",
-                    "rating": 1,
-                    "review_text": "Biggest fraud company...Mr karunakar has taken money and unsconded...he is not even picking up the call not available in the office....never recommend this company",
-                    "published_at": "6 months ago",
-                    "published_at_date": "2023-04-26T10:19:33.208000Z",
-                    "response_from_owner_text": null,
-                    "response_from_owner_ago": null,
-                    "response_from_owner_date": null,
-                    "review_likes_count": 1,
-                    "total_number_of_reviews_by_reviewer": 9,
-                    "total_number_of_photos_by_reviewer": 0,
-                    "reviewer_url": "https://www.google.com/maps/contrib/108930387861807433558/reviews?entry=ttu",
-                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVJcloQrEED7WwcaYjiSuqyXSRGIN0px2143XzBXHrxDXI=s120-c-rp-mo-br100",
-                    "is_local_guide": false,
-                    "review_translated_text": null,
-                    "response_from_owner_translated_text": null,
-                    "review_photos": []
-                },
-                {
                     "review_id": "Best Web design Company in Bangalore",
                     "reviewer_name": "Zeeshan Baig B",
                     "rating": 5,
@@ -684,469 +1496,99 @@
             "is_spending_on_ads": false
         },
         {
-            "place_id": "ChIJwbNTDUQUrjsRCrKZ4KUQEUA",
-            "name": "Vistas - Web Design Company in Bangalore, Web Development, SEO Services, Digital Marketing, eCommerce Website Developers",
+            "place_id": "ChIJ8WlwPi8XrjsRoio8OS1brLw",
+            "name": "Zinavo - Web Design, Web Development Company in Bangalore, eCommerce Web Development, SEO Services, Digital Marketing Agency",
             "description": null,
-            "reviews": 115,
-            "website": "https://vistasadindia.com/",
+            "reviews": 687,
+            "website": "https://www.zinavo.com/",
             "owner": {
-                "id": "117605809797848324032",
-                "name": "Vistas - Web Design Company in Bangalore, Web Development, SEO Services, Digital Marketing, eCommerce Website Developers (Owner)",
-                "link": "https://www.google.com/maps/contrib/117605809797848324032"
+                "id": "116607083819902816970",
+                "name": "Zinavo - Web Design, Web Development Company in Bangalore, eCommerce Web Development, SEO Services, Digital Marketing Agency (Owner)",
+                "link": "https://www.google.com/maps/contrib/116607083819902816970"
             },
-            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOHcaU-XPxkGMGfr7eeod94ab4Um9TA17S0dauq=w408-h306-k-no",
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMjlMvH3ZjLau10dM6ZgMMoGU-FMWO6ez6aoYD8=w408-h272-k-no",
             "main_category": "Website designer",
             "categories": [
                 "Website designer",
-                "Advertising agency",
-                "E commerce agency",
-                "E-commerce service",
-                "Graphic designer",
                 "Internet marketing service",
-                "Marketing agency",
-                "Web hosting company"
+                "Software company"
             ],
-            "rating": 4.2,
-            "workday_timing": "9:30 AM-7:30 PM",
+            "rating": 4.6,
+            "workday_timing": "9 a.m.-10 p.m.",
             "closed_on": [
                 "Sunday"
             ],
-            "phone": "+91 96866 97974",
-            "address": "Door No 313, Vistas - Web Design Company in Bangalore, Web Development, SEO Services, Digital Marketing, eCommerce Website Developers, 19th Main Road, 6th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+            "phone": "+91 80 4153 1025",
+            "address": "Zinavo - Web Design, Web Development Company in Bangalore, eCommerce Web Development, SEO Services, Digital Marketing Agency, R.K.Plaza, # 31,2nd Floor, 2nd Cross Rd, Subbaiahnapalya, Banaswadi, Bengaluru, Karnataka 560043, India",
             "review_keywords": [
                 {
-                    "keyword": "media",
-                    "count": 6
+                    "keyword": "understanding",
+                    "count": 50
                 },
                 {
-                    "keyword": "project",
-                    "count": 5
+                    "keyword": "deliver",
+                    "count": 45
                 },
                 {
-                    "keyword": "experience",
-                    "count": 5
+                    "keyword": "future",
+                    "count": 43
                 },
                 {
-                    "keyword": "content",
-                    "count": 4
+                    "keyword": "work",
+                    "count": 32
                 },
                 {
-                    "keyword": "efficient",
-                    "count": 4
+                    "keyword": "requirements",
+                    "count": 31
                 },
                 {
-                    "keyword": "writing",
-                    "count": 3
+                    "keyword": "technologies",
+                    "count": 31
                 },
                 {
-                    "keyword": "money",
-                    "count": 3
+                    "keyword": "wishes",
+                    "count": 27
                 },
                 {
-                    "keyword": "creative",
-                    "count": 3
-                }
-            ],
-            "link": "https://www.google.com/maps/place/Vistas+-+Web+Design+Company+in+Bangalore,+Web+Development,+SEO+Services,+Digital+Marketing,+eCommerce+Website+Developers/data=!4m7!3m6!1s0x3bae14440d53b3c1:0x401110a5e099b20a!8m2!3d12.9417141!4d77.6228144!16s%2Fg%2F1tf273bk!19sChIJwbNTDUQUrjsRCrKZ4KUQEUA?authuser=0&hl=en&rclk=1",
-            "status": "Open  Closes 7:30 PM",
-            "price_range": null,
-            "reviews_per_rating": {
-                "1": 14,
-                "2": 2,
-                "3": 8,
-                "4": 19,
-                "5": 72
-            },
-            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJwbNTDUQUrjsRCrKZ4KUQEUA&q=Vistas+-+Web+Design+Company+in+Bangalore,+Web+Development,+SEO+Services,+Digital+Marketing,+eCommerce+Website+Developers&authuser=0&hl=en&gl=IN",
-            "coordinates": {
-                "latitude": 12.941714099999999,
-                "longitude": 77.6228144
-            },
-            "plus_code": "WJRF+M4 Bengaluru, Karnataka, India",
-            "detailed_address": {
-                "ward": "6th Block, Koramangala",
-                "street": "Door No 313, 19th Main Road",
-                "city": "Bengaluru",
-                "postal_code": "560095",
-                "state": "Karnataka",
-                "country_code": "IN"
-            },
-            "time_zone": "Asia/Calcutta",
-            "cid": "4616489397655286282",
-            "data_id": "0x3bae14440d53b3c1:0x401110a5e099b20a",
-            "menu": {
-                "link": null,
-                "source": null
-            },
-            "reservations": [],
-            "order_online_links": [
-                {
-                    "link": "https://vistasadindia.com/request-a-quote.php",
-                    "source": "vistasadindia.com"
-                }
-            ],
-            "about": [
-                {
-                    "id": "service_options",
-                    "name": "Service options",
-                    "options": [
-                        {
-                            "name": "Online appointments",
-                            "enabled": true
-                        },
-                        {
-                            "name": "Onsite services",
-                            "enabled": true
-                        }
-                    ]
+                    "keyword": "pvt ltd",
+                    "count": 9
                 },
                 {
-                    "id": "amenities",
-                    "name": "Amenities",
-                    "options": [
-                        {
-                            "name": "Gender-neutral restroom",
-                            "enabled": true
-                        }
-                    ]
-                },
-                {
-                    "id": "crowd",
-                    "name": "Crowd",
-                    "options": [
-                        {
-                            "name": "LGBTQ+ friendly",
-                            "enabled": true
-                        }
-                    ]
-                },
-                {
-                    "id": "planning",
-                    "name": "Planning",
-                    "options": [
-                        {
-                            "name": "Appointment required",
-                            "enabled": true
-                        }
-                    ]
-                }
-            ],
-            "images": [
-                {
-                    "about": "All",
-                    "link": "https://lh5.googleusercontent.com/p/AF1QipOHcaU-XPxkGMGfr7eeod94ab4Um9TA17S0dauq=w397-h298-k-no"
-                },
-                {
-                    "about": "Graphics",
-                    "link": "https://lh5.googleusercontent.com/p/AF1QipMB4umULgGyefKbUkUAJ_s_3IP3y7QRjbawu9FY=w531-h298-k-no"
-                },
-                {
-                    "about": "Videos",
-                    "link": "https://lh5.googleusercontent.com/p/AF1QipOqt_GVSBD8Zs5iAzDrd1DzTVAiubWq7RNJnIL9=w529-h298-k-no"
-                },
-                {
-                    "about": "By owner",
-                    "link": "https://lh5.googleusercontent.com/p/AF1QipOqt_GVSBD8Zs5iAzDrd1DzTVAiubWq7RNJnIL9=w529-h298-k-no"
-                },
-                {
-                    "about": "Street View & 360deg",
-                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=YbTVt878TgT8U4OOz4ZZVg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=171.96234&pitch=0&thumbfov=100"
-                }
-            ],
-            "hours": [
-                {
-                    "day": "Monday",
-                    "times": [
-                        "9:30 AM-7:30 PM"
-                    ]
-                },
-                {
-                    "day": "Tuesday",
-                    "times": [
-                        "9:30 AM-7:30 PM"
-                    ]
-                },
-                {
-                    "day": "Wednesday",
-                    "times": [
-                        "9:30 AM-7:30 PM"
-                    ]
-                },
-                {
-                    "day": "Thursday",
-                    "times": [
-                        "9:30 AM-7:30 PM"
-                    ]
-                },
-                {
-                    "day": "Friday",
-                    "times": [
-                        "9:30 AM-7:30 PM"
-                    ]
-                },
-                {
-                    "day": "Saturday",
-                    "times": [
-                        "9:30 AM-7:30 PM"
-                    ]
-                },
-                {
-                    "day": "Sunday",
-                    "times": [
-                        "Closed"
-                    ]
-                }
-            ],
-            "featured_reviews": [
-                {
-                    "review_id": "Our ecommerce design development by Vistas team is the best easily much better than our competitors.\n\nGood work team. Keep it up.",
-                    "reviewer_name": "Raj Mahto",
-                    "rating": 5,
-                    "review_text": "Our ecommerce design development by Vistas team is the best easily much better than our competitors.\n\nGood work team. Keep it up.",
-                    "published_at": "a month ago",
-                    "published_at_date": "2023-10-12T04:37:25.150000Z",
-                    "response_from_owner_text": "Dear Raj,\nIt was a pleasure working with you and we look forward to a long and fruitful association.\nTeam Vistas",
-                    "response_from_owner_ago": "a week ago",
-                    "response_from_owner_date": "2023-11-10T11:59:51.101000Z",
-                    "review_likes_count": 0,
-                    "total_number_of_reviews_by_reviewer": 1,
-                    "total_number_of_photos_by_reviewer": 0,
-                    "reviewer_url": "https://www.google.com/maps/contrib/111086787350757961961/reviews?entry=ttu",
-                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjV8t8OYaVMTfOVyqkEYpA9xwVxSPL8WTpZyfVr-dna0N4s=s120-c-rp-mo-br100",
-                    "is_local_guide": false,
-                    "review_translated_text": null,
-                    "response_from_owner_translated_text": null,
-                    "review_photos": []
-                },
-                {
-                    "review_id": "The no. 1 in web development. We rate Vistas highly for their web design and development capabilities.\n\nWe recommend Vistas for any challenging web development project.\n\nWe will certainly send more assignments your way soon Vistas",
-                    "reviewer_name": "Abhishek Anjani",
-                    "rating": 5,
-                    "review_text": "The no. 1 in web development. We rate Vistas highly for their web design and development capabilities.\n\nWe recommend Vistas for any challenging web development project.\n\nWe will certainly send more assignments your way soon Vistas",
-                    "published_at": "4 months ago",
-                    "published_at_date": "2023-07-22T18:07:39.630000Z",
-                    "response_from_owner_text": "Dear Sir,\nThank you for the generous acknowledgement of our work. We look forward to working with you again soon.\nTeam Vistas AD Media Communications",
-                    "response_from_owner_ago": "3 months ago",
-                    "response_from_owner_date": "2023-08-17T07:27:10.097000Z",
-                    "review_likes_count": 1,
-                    "total_number_of_reviews_by_reviewer": 5,
-                    "total_number_of_photos_by_reviewer": 0,
-                    "reviewer_url": "https://www.google.com/maps/contrib/113466914439684204921/reviews?entry=ttu",
-                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWZzbPMltq5BkM17ttfmS1jAJqpd6QkG3GiNJtYL9qk9kU=s120-c-rp-mo-br100",
-                    "is_local_guide": false,
-                    "review_translated_text": null,
-                    "response_from_owner_translated_text": null,
-                    "review_photos": []
-                },
-                {
-                    "review_id": "SEO showed results within 60 days. We are pleased to receive calls from customers for our services.\n\nThank you SEO team at Vistas.",
-                    "reviewer_name": "Santraj Kumar",
-                    "rating": 5,
-                    "review_text": "SEO showed results within 60 days. We are pleased to receive calls from customers for our services.\n\nThank you SEO team at Vistas.",
-                    "published_at": "a month ago",
-                    "published_at_date": "2023-10-11T04:44:37.606000Z",
-                    "response_from_owner_text": "Dear Mr. Kumar,\nThank you for taking the time to write this review. We look forward to working with you again.\nTeam Vistas AD Media Communications",
-                    "response_from_owner_ago": "a week ago",
-                    "response_from_owner_date": "2023-11-10T12:02:17.393000Z",
-                    "review_likes_count": 0,
-                    "total_number_of_reviews_by_reviewer": 2,
-                    "total_number_of_photos_by_reviewer": 0,
-                    "reviewer_url": "https://www.google.com/maps/contrib/114720867903626470477/reviews?entry=ttu",
-                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXB_hsAa4WH1xoDpjbo02gJDPSBGUWsHYt-LJOi8ZHMrpQ=s120-c-rp-mo-br100",
-                    "is_local_guide": false,
-                    "review_translated_text": null,
-                    "response_from_owner_translated_text": null,
-                    "review_photos": []
-                },
-                {
-                    "review_id": "Web development team at Vistas did an exemplary job on our website project.\n\nKeep up the good work team",
-                    "reviewer_name": "Mahesha hm Mahesha hm",
-                    "rating": 5,
-                    "review_text": "Web development team at Vistas did an exemplary job on our website project.\n\nKeep up the good work team",
-                    "published_at": "4 months ago",
-                    "published_at_date": "2023-07-16T04:16:02.798000Z",
-                    "response_from_owner_text": "Dear Sir,\nWe are delighted that you rate our web development effort as exemplary. We look forward to working with you again.\nTeam Vistas AD Media Communications",
-                    "response_from_owner_ago": "4 months ago",
-                    "response_from_owner_date": "2023-07-18T09:25:50.459000Z",
-                    "review_likes_count": 0,
-                    "total_number_of_reviews_by_reviewer": 1,
-                    "total_number_of_photos_by_reviewer": 0,
-                    "reviewer_url": "https://www.google.com/maps/contrib/113569244987991422703/reviews?entry=ttu",
-                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLOoH7AF7-ileXa-_FOaqCbAk4qvi4OsIltM2MiQFTZ=s120-c-rp-mo-br100",
-                    "is_local_guide": false,
-                    "review_translated_text": null,
-                    "response_from_owner_translated_text": null,
-                    "review_photos": []
-                },
-                {
-                    "review_id": "Ee are pleased that ee receiver complete solutions from content, concept, web design and web development.\n\nThat made the world easier with the knowledge that ee are in expert hands.\n\nEe will be back with more requirements.",
-                    "reviewer_name": "Kumara kumar",
-                    "rating": 5,
-                    "review_text": "Ee are pleased that ee receiver complete solutions from content, concept, web design and web development.\n\nThat made the world easier with the knowledge that ee are in expert hands.\n\nEe will be back with more requirements.",
-                    "published_at": "4 months ago",
-                    "published_at_date": "2023-07-16T05:08:04.609000Z",
-                    "response_from_owner_text": "Dear Sir,\nWe are pleased that you consider our web design and web development solutions as comprehensive. We are honoured to have worked with you.\nTeam Vistas AD Media Communications",
-                    "response_from_owner_ago": "4 months ago",
-                    "response_from_owner_date": "2023-07-18T09:22:19.547000Z",
-                    "review_likes_count": 0,
-                    "total_number_of_reviews_by_reviewer": 2,
-                    "total_number_of_photos_by_reviewer": 0,
-                    "reviewer_url": "https://www.google.com/maps/contrib/105557660382911573167/reviews?entry=ttu",
-                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVRIQPHVTBJ3mRhOboWkIyBpfFKP6cW6RcVv8zTegqB4w=s120-c-rp-mo-br100",
-                    "is_local_guide": false,
-                    "review_translated_text": null,
-                    "response_from_owner_translated_text": null,
-                    "review_photos": []
-                },
-                {
-                    "review_id": "Vistas team delivered excellent web design and content writing for our corporate website.\n\nDigital marketing work is in progress and we are equelly thrilled with the output.\n\nTalented and dependable team.\n\nKeep up the good work",
-                    "reviewer_name": "Ambika",
-                    "rating": 5,
-                    "review_text": "Vistas team delivered excellent web design and content writing for our corporate website.\n\nDigital marketing work is in progress and we are equelly thrilled with the output.\n\nTalented and dependable team.\n\nKeep up the good work",
-                    "published_at": "a year ago",
-                    "published_at_date": "2022-11-13T21:28:51.892000Z",
-                    "response_from_owner_text": "Madam,\nWe are delighted you found our efforts excellent, this is high motivation and we will continue to make every effort to deleiver excellence.\nTeam Vistas AD Media Communications ",
-                    "response_from_owner_ago": "a year ago",
-                    "response_from_owner_date": "2022-11-16T12:12:01.248000Z",
-                    "review_likes_count": 0,
-                    "total_number_of_reviews_by_reviewer": 2,
-                    "total_number_of_photos_by_reviewer": 0,
-                    "reviewer_url": "https://www.google.com/maps/contrib/101409140606586252492/reviews?entry=ttu",
-                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXZ9_8BR0ZT2j8j6mLMU32F7NaciuqwAtAgHI2L4EqanNg=s120-c-rp-mo-br100",
-                    "is_local_guide": false,
-                    "review_translated_text": null,
-                    "response_from_owner_translated_text": null,
-                    "review_photos": []
-                },
-                {
-                    "review_id": "Expensive, but great value.\n\nVistas web design services costs a bit but we got exceptionally high quality website.\n\nWe wanted our company to be presented as the leader in the services sector and Vistas designed our website better than we expected, with good content and design.",
-                    "reviewer_name": "SANTHAKUMAR M",
-                    "rating": 5,
-                    "review_text": "Expensive, but great value.\n\nVistas web design services costs a bit but we got exceptionally high quality website.\n\nWe wanted our company to be presented as the leader in the services sector and Vistas designed our website better than we expected, with good content and design.",
-                    "published_at": "5 years ago",
-                    "published_at_date": "2018-09-21T04:44:10.246000Z",
-                    "response_from_owner_text": "Dear Sir,\nWe thank you for your forthright views, expressed succinctly. Simple explanation for our rates is each member of team Vistas are natural talents in their chosen field of work, be it art or copywriting and software development. Additionally, each of them have passed out of premier institutions with accolades.\nWe are able to innovate and maintain high quality standards owing to a great talented team and therefore the slight higher fee structure.",
-                    "response_from_owner_ago": "5 years ago",
-                    "response_from_owner_date": "2018-10-27T07:49:57.100000Z",
-                    "review_likes_count": 1,
-                    "total_number_of_reviews_by_reviewer": 4,
-                    "total_number_of_photos_by_reviewer": 1,
-                    "reviewer_url": "https://www.google.com/maps/contrib/101240101281491136504/reviews?entry=ttu",
-                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXs_FD1220B9Y8TbRxQBtPYnaIwpevFZec3vTTP2QD9ck4=s120-c-rp-mo-br100",
-                    "is_local_guide": false,
-                    "review_translated_text": null,
-                    "response_from_owner_translated_text": null,
-                    "review_photos": []
-                },
-                {
-                    "review_id": "Vistas web development team are knowledgeable and their web development services are highly efficient.\n\nImportantly, the web design team are creative.\n\nWe are pleased with the results from team Vistas",
-                    "reviewer_name": "Manu HN",
-                    "rating": 5,
-                    "review_text": "Vistas web development team are knowledgeable and their web development services are highly efficient.\n\nImportantly, the web design team are creative.\n\nWe are pleased with the results from team Vistas",
-                    "published_at": "a year ago",
-                    "published_at_date": "2022-07-03T11:42:25.622000Z",
-                    "response_from_owner_text": "Dear Sir,\nYour guidance helped us achieve web development excellence in this project. Our experience of working with you was inspiring. Thank you for your observations.\nVistas AD Media Communications Team",
-                    "response_from_owner_ago": "a year ago",
-                    "response_from_owner_date": "2022-07-27T12:11:05.656000Z",
-                    "review_likes_count": 1,
-                    "total_number_of_reviews_by_reviewer": 1,
-                    "total_number_of_photos_by_reviewer": 0,
-                    "reviewer_url": "https://www.google.com/maps/contrib/118195209794418779298/reviews?entry=ttu",
-                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJLH7qOGi_py6sjwq7vrtAoYNFUN976AvqiVhvzjcdT=s120-c-rp-mo-br100",
-                    "is_local_guide": false,
-                    "review_translated_text": null,
-                    "response_from_owner_translated_text": null,
-                    "review_photos": []
-                }
-            ],
-            "is_spending_on_ads": false
-        },
-        {
-            "place_id": "ChIJy4yTLYgVrjsRgjvBMU6mrgs",
-            "name": "Web Feb",
-            "description": null,
-            "reviews": 50,
-            "website": "https://webfeb.in/",
-            "owner": {
-                "id": "109242536580171194789",
-                "name": "Web Feb (Owner)",
-                "link": "https://www.google.com/maps/contrib/109242536580171194789"
-            },
-            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPOemxgVy_xcPRbPLBzN0C6tEkwazkydG6Ibz80=w427-h240-k-no",
-            "main_category": "Website designer",
-            "categories": [
-                "Website designer"
-            ],
-            "rating": 5,
-            "workday_timing": "Open 24 hours",
-            "closed_on": [],
-            "phone": "+91 81510 06644",
-            "address": "Web Feb, 138, 1st 'A' Main, 17th Cross, BSK 1st Stage, Gangamma Layout, Ashok Nagar, Bengaluru, Karnataka 560050, India",
-            "review_keywords": [
-                {
-                    "keyword": "company",
-                    "count": 11
-                },
-                {
-                    "keyword": "web development",
+                    "keyword": "enthusiastic",
                     "count": 8
                 },
                 {
-                    "keyword": "experience",
-                    "count": 7
-                },
-                {
-                    "keyword": "quality",
+                    "keyword": "discussion",
                     "count": 6
-                },
-                {
-                    "keyword": "program",
-                    "count": 5
-                },
-                {
-                    "keyword": "learn",
-                    "count": 4
-                },
-                {
-                    "keyword": "app",
-                    "count": 4
-                },
-                {
-                    "keyword": "training",
-                    "count": 3
-                },
-                {
-                    "keyword": "creative",
-                    "count": 3
                 }
             ],
-            "link": "https://www.google.com/maps/place/Web+Feb/data=!4m7!3m6!1s0x3bae15882d938ccb:0xbaea64e31c13b82!8m2!3d12.934332!4d77.562593!16s%2Fg%2F11c5zzmn0z!19sChIJy4yTLYgVrjsRgjvBMU6mrgs?authuser=0&hl=en&rclk=1",
-            "status": "Open 24 hours",
+            "link": "https://www.google.com/maps/place/Zinavo+-+Web+Design,+Web+Development+Company+in+Bangalore,+eCommerce+Web+Development,+SEO+Services,+Digital+Marketing+Agency/data=!4m7!3m6!1s0x3bae172f3e7069f1:0xbcac5b2d393c2aa2!8m2!3d13.01443!4d77.6480612!16s%2Fg%2F11h0l3y9l!19sChIJ8WlwPi8XrjsRoio8OS1brLw?authuser=0&hl=en&rclk=1",
+            "status": "Open  Closes 10 p.m.",
             "price_range": null,
             "reviews_per_rating": {
-                "1": 0,
-                "2": 0,
-                "3": 0,
-                "4": 2,
-                "5": 48
+                "1": 46,
+                "2": 6,
+                "3": 10,
+                "4": 34,
+                "5": 591
             },
-            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJy4yTLYgVrjsRgjvBMU6mrgs&q=Web+Feb&authuser=0&hl=en&gl=IN",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ8WlwPi8XrjsRoio8OS1brLw&q=Zinavo+-+Web+Design,+Web+Development+Company+in+Bangalore,+eCommerce+Web+Development,+SEO+Services,+Digital+Marketing+Agency&authuser=0&hl=en&gl=IN",
             "coordinates": {
-                "latitude": 12.934332,
-                "longitude": 77.56259299999999
+                "latitude": 13.014429999999999,
+                "longitude": 77.6480612
             },
-            "plus_code": "WHM7+P2 Bengaluru, Karnataka, India",
+            "plus_code": "2J7X+Q6 Bengaluru, Karnataka, India",
             "detailed_address": {
-                "ward": "Vidyapeeta Layout, Banashankari",
-                "street": "138, 1st 'A' Main, 17th Cross, BSK 1st Stage, Gangamma Layout, Ashok Nagar",
+                "ward": "HRBR Layout 1st Block, Balaji Layout, Subbaiahnapalya, Banaswadi",
+                "street": "R.K.Plaza, # 31,2nd Floor, 2nd Cross Rd",
                 "city": "Bengaluru",
-                "postal_code": "560050",
+                "postal_code": "560043",
                 "state": "Karnataka",
                 "country_code": "IN"
             },
             "time_zone": "Asia/Calcutta",
-            "cid": "841793035137268610",
-            "data_id": "0x3bae15882d938ccb:0xbaea64e31c13b82",
+            "cid": "13595341624916585122",
+            "data_id": "0x3bae172f3e7069f1:0xbcac5b2d393c2aa2",
             "menu": {
                 "link": null,
                 "source": null
@@ -1154,316 +1596,21 @@
             "reservations": [],
             "order_online_links": [
                 {
-                    "link": "http://webfeb.in/request-for-quotation/",
-                    "source": "webfeb.in"
-                }
-            ],
-            "about": [],
-            "images": [
-                {
-                    "about": "All",
-                    "link": "https://lh5.googleusercontent.com/p/AF1QipPOemxgVy_xcPRbPLBzN0C6tEkwazkydG6Ibz80=w530-h298-k-no"
-                },
-                {
-                    "about": "Graphics",
-                    "link": "https://lh5.googleusercontent.com/p/AF1QipMW1nBIZmKiq52nlG-Z0auEl9IOEwRBxkMoGWdD=w894-h298-k-no"
-                },
-                {
-                    "about": "By owner",
-                    "link": "https://lh5.googleusercontent.com/p/AF1QipOvPnu16lihIx76KeC8AbfNDYX6ygeYPtO4cquJ=w298-h298-k-no"
-                },
-                {
-                    "about": "Street View & 360deg",
-                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=V__udwXmOtHucskXz9LNgQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=69.50737&pitch=0&thumbfov=100"
-                }
-            ],
-            "hours": [
-                {
-                    "day": "Monday",
-                    "times": [
-                        "Open 24 hours"
-                    ]
-                },
-                {
-                    "day": "Tuesday",
-                    "times": [
-                        "Open 24 hours"
-                    ]
-                },
-                {
-                    "day": "Wednesday",
-                    "times": [
-                        "Open 24 hours"
-                    ]
-                },
-                {
-                    "day": "Thursday",
-                    "times": [
-                        "Open 24 hours"
-                    ]
-                },
-                {
-                    "day": "Friday",
-                    "times": [
-                        "Open 24 hours"
-                    ]
-                },
-                {
-                    "day": "Saturday",
-                    "times": [
-                        "Open 24 hours"
-                    ]
-                },
-                {
-                    "day": "Sunday",
-                    "times": [
-                        "Open 24 hours"
-                    ]
-                }
-            ],
-            "featured_reviews": [
-                {
-                    "review_id": "Really I'm Very glad to working in this company. This is one of the best company in banglore I ever heard, to develop website, Mobile/Android application and iOS application.",
-                    "reviewer_name": "Amarvatane@gmail.com Amarvatane",
-                    "rating": 5,
-                    "review_text": "Really I'm Very glad to working in this company. This is one of the best company in banglore I ever heard, to develop website, Mobile/Android application and iOS application.",
-                    "published_at": "6 months ago",
-                    "published_at_date": "2023-05-13T04:29:44.495000Z",
-                    "response_from_owner_text": null,
-                    "response_from_owner_ago": null,
-                    "response_from_owner_date": null,
-                    "review_likes_count": 0,
-                    "total_number_of_reviews_by_reviewer": 2,
-                    "total_number_of_photos_by_reviewer": 0,
-                    "reviewer_url": "https://www.google.com/maps/contrib/103987364445087505482/reviews?entry=ttu",
-                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocId2cmzSqkrzk4VifFMtGY-79_MsblkakjAqmTw3Th3=s120-c-rp-mo-br100",
-                    "is_local_guide": false,
-                    "review_translated_text": null,
-                    "response_from_owner_translated_text": null,
-                    "review_photos": []
-                },
-                {
-                    "review_id": "Very good company and working is excellent, And management line is very usefull bcz they will manage all the work of the company and team leading profile.",
-                    "reviewer_name": "Gomathi vasuki",
-                    "rating": 5,
-                    "review_text": "Very good company and working is excellent, And management line is very usefull bcz they will manage all the work of the company and team leading profile.",
-                    "published_at": "6 months ago",
-                    "published_at_date": "2023-05-13T04:25:11.282000Z",
-                    "response_from_owner_text": null,
-                    "response_from_owner_ago": null,
-                    "response_from_owner_date": null,
-                    "review_likes_count": 0,
-                    "total_number_of_reviews_by_reviewer": 3,
-                    "total_number_of_photos_by_reviewer": 0,
-                    "reviewer_url": "https://www.google.com/maps/contrib/108106285845065088842/reviews?entry=ttu",
-                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLfcd7TPgUOhC_HChMOdDBpNC1s-qwUYLe_LjoaecnC=s120-c-rp-mo-br100",
-                    "is_local_guide": false,
-                    "review_translated_text": null,
-                    "response_from_owner_translated_text": null,
-                    "review_photos": []
-                },
-                {
-                    "review_id": "One of the best app development companies to work with for both fresher's as well as the experienced persons in all the field mainly Sales, Development, Delivery and Marketing. Great team who supports each other quite well and always craves something interesting to improve the standard. Its pleasure to work with webfeb.\nGood place to work & good environment. It's been wonderful to be a part of the company. And proud to tell you that its top #10 app development company in India according to Clutch and with highest reviews on webfeb is the perfect choice for people who want to grow their career in any field",
-                    "reviewer_name": "Hemanth S",
-                    "rating": 5,
-                    "review_text": "One of the best app development companies to work with for both fresher's as well as the experienced persons in all the field mainly Sales, Development, Delivery and Marketing. Great team who supports each other quite well and always craves something interesting to improve the standard. Its pleasure to work with webfeb.\nGood place to work & good environment. It's been wonderful to be a part of the company. And proud to tell you that its top #10 app development company in India according to Clutch and with highest reviews on webfeb is the perfect choice for people who want to grow their career in any field",
-                    "published_at": "4 years ago",
-                    "published_at_date": "2019-04-15T12:19:36.702000Z",
-                    "response_from_owner_text": "thank you",
-                    "response_from_owner_ago": "2 years ago",
-                    "response_from_owner_date": "2021-07-17T07:08:59.667000Z",
-                    "review_likes_count": 1,
-                    "total_number_of_reviews_by_reviewer": 7,
-                    "total_number_of_photos_by_reviewer": 36,
-                    "reviewer_url": "https://www.google.com/maps/contrib/105501458304534872635/reviews?entry=ttu",
-                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjU2h8BUM687V67Yp4UCDjLX__KdJ_CTjbXqZGwrx3-wcjM=s120-c-rp-mo-br100",
-                    "is_local_guide": false,
-                    "review_translated_text": null,
-                    "response_from_owner_translated_text": null,
-                    "review_photos": []
-                },
-                {
-                    "review_id": "It's an awesome experience working with \"Web Feb Program\" for our website development. This team is highly energetic and committed, who delivered in a given time with very good quality.  The team maintains professionalism  in interacting with customers and they are quick in response.",
-                    "reviewer_name": "Thyagaraj C",
-                    "rating": 5,
-                    "review_text": "It's an awesome experience working with \"Web Feb Program\" for our website development. This team is highly energetic and committed, who delivered in a given time with very good quality.  The team maintains professionalism  in interacting with customers and they are quick in response.",
-                    "published_at": "6 years ago",
-                    "published_at_date": "2017-04-20T11:09:38.165000Z",
-                    "response_from_owner_text": "thank you",
-                    "response_from_owner_ago": "2 years ago",
-                    "response_from_owner_date": "2021-07-17T07:11:46.884000Z",
-                    "review_likes_count": 0,
-                    "total_number_of_reviews_by_reviewer": 5,
-                    "total_number_of_photos_by_reviewer": 0,
-                    "reviewer_url": "https://www.google.com/maps/contrib/104233882824095833447/reviews?entry=ttu",
-                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKpCBrNFz6QiXMP7cdBNGw0bN2_NsI8mS4LRAY_cbrl=s120-c-rp-mo-br100",
-                    "is_local_guide": false,
-                    "review_translated_text": null,
-                    "response_from_owner_translated_text": null,
-                    "review_photos": []
-                },
-                {
-                    "review_id": "It's a good company they lesearn to our requirement and also suggest us to modify the requirement with their innovative thoughts and build a unique product where they feel they are the original owners and gives a unique product. So that as a startups or a running business we can blendly believe them for technology support.",
-                    "reviewer_name": "Abhishek Gowda",
-                    "rating": 5,
-                    "review_text": "It's a good company they lesearn to our requirement and also suggest us to modify the requirement with their innovative thoughts and build a unique product where they feel they are the original owners and gives a unique product. So that as a startups or a running business we can blendly believe them for technology support.",
-                    "published_at": "3 years ago",
-                    "published_at_date": "2020-10-28T06:46:46.503000Z",
-                    "response_from_owner_text": null,
-                    "response_from_owner_ago": null,
-                    "response_from_owner_date": null,
-                    "review_likes_count": 1,
-                    "total_number_of_reviews_by_reviewer": 4,
-                    "total_number_of_photos_by_reviewer": 0,
-                    "reviewer_url": "https://www.google.com/maps/contrib/110999469865074402738/reviews?entry=ttu",
-                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXbl8OoANWYm0upL456RM0PTIlh4mG0OreVxT85tvQS4zbL=s120-c-rp-mo-br100",
-                    "is_local_guide": false,
-                    "review_translated_text": null,
-                    "response_from_owner_translated_text": null,
-                    "review_photos": []
-                },
-                {
-                    "review_id": "Happened to meet these guys for a Brochure Design but when I went through their web Portfolio got to know how proficient and experts these guys are. Their portfolio extends more than 500+ Websites/Portals. Referred all my friends and relatives who have asked me for website developers and these guys have never disappointed. I have got great feedback from those whom I referred to WEB FEB.",
-                    "reviewer_name": "Arun Gowda",
-                    "rating": 5,
-                    "review_text": "Happened to meet these guys for a Brochure Design but when I went through their web Portfolio got to know how proficient and experts these guys are. Their portfolio extends more than 500+ Websites/Portals. Referred all my friends and relatives who have asked me for website developers and these guys have never disappointed. I have got great feedback from those whom I referred to WEB FEB.",
-                    "published_at": "6 years ago",
-                    "published_at_date": "2017-03-24T13:20:16.195000Z",
-                    "response_from_owner_text": "thank you",
-                    "response_from_owner_ago": "2 years ago",
-                    "response_from_owner_date": "2021-07-17T07:12:22.159000Z",
-                    "review_likes_count": 0,
-                    "total_number_of_reviews_by_reviewer": 3,
-                    "total_number_of_photos_by_reviewer": 1,
-                    "reviewer_url": "https://www.google.com/maps/contrib/105502286182705714177/reviews?entry=ttu",
-                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWl1TfnoefV7lnPTSGnpJZKe1N2ALyR6QmfHTQWV1wJDec=s120-c-rp-mo-br100",
-                    "is_local_guide": false,
-                    "review_translated_text": null,
-                    "response_from_owner_translated_text": null,
-                    "review_photos": []
-                },
-                {
-                    "review_id": "Its been very great working at webfeb . We develop All kinds of web applications . Ours is one of the leading web design company in Bangalore . Very proud to work here with good technical staff .",
-                    "reviewer_name": "srinivas punith",
-                    "rating": 5,
-                    "review_text": "Its been very great working at webfeb . We develop All kinds of web applications . Ours is one of the leading web design company in Bangalore . Very proud to work here with good technical staff .",
-                    "published_at": "6 years ago",
-                    "published_at_date": "2016-12-17T07:39:31.442000Z",
-                    "response_from_owner_text": "Thanks for your feedback",
-                    "response_from_owner_ago": "6 years ago",
-                    "response_from_owner_date": "2016-12-19T13:24:00.718000Z",
-                    "review_likes_count": 0,
-                    "total_number_of_reviews_by_reviewer": 4,
-                    "total_number_of_photos_by_reviewer": 0,
-                    "reviewer_url": "https://www.google.com/maps/contrib/113107264278706966574/reviews?entry=ttu",
-                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLAJF_lkxlWDDYxliTsOyhsZC4Fq0xkO4KFFUwj_IDY=s120-c-rp-mo-br100",
-                    "is_local_guide": false,
-                    "review_translated_text": null,
-                    "response_from_owner_translated_text": null,
-                    "review_photos": []
-                },
-                {
-                    "review_id": "I Would really like to appreciate the work done by this company, the way they manage to design the site in less time.They got really awesome designs and better service. Web-site provided really worth in a reasonable price. Great Work Done!!\nThank you WebFeb!!",
-                    "reviewer_name": "Mahesh arya",
-                    "rating": 5,
-                    "review_text": "I Would really like to appreciate the work done by this company, the way they manage to design the site in less time.They got really awesome designs and better service. Web-site provided really worth in a reasonable price. Great Work Done!!\nThank you WebFeb!!",
-                    "published_at": "6 years ago",
-                    "published_at_date": "2017-03-27T05:24:20.768000Z",
-                    "response_from_owner_text": "thank you",
-                    "response_from_owner_ago": "2 years ago",
-                    "response_from_owner_date": "2021-07-17T07:12:15.296000Z",
-                    "review_likes_count": 0,
-                    "total_number_of_reviews_by_reviewer": 63,
-                    "total_number_of_photos_by_reviewer": 188,
-                    "reviewer_url": "https://www.google.com/maps/contrib/102946307974465889205/reviews?entry=ttu",
-                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWW-acTR20oRUiHQvRWv2_pw64IHbBxSf6ypaRpJY5k0gYn=s120-c-rp-mo-ba4-br100",
-                    "is_local_guide": true,
-                    "review_translated_text": null,
-                    "response_from_owner_translated_text": null,
-                    "review_photos": []
-                }
-            ],
-            "is_spending_on_ads": false
-        },
-        {
-            "place_id": "ChIJpTu-a4sVrjsRmk4jnf-6-Ak",
-            "name": "ABS",
-            "description": null,
-            "reviews": 28,
-            "website": "https://www.aerobusinesssolutions.com/",
-            "owner": {
-                "id": "106884369278136153648",
-                "name": "ABS (Owner)",
-                "link": "https://www.google.com/maps/contrib/106884369278136153648"
-            },
-            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPeSSH5tGmcGx9W2ZlpUk1-UcFLUzCZGyjzakRd=w426-h240-k-no",
-            "main_category": "Website designer",
-            "categories": [
-                "Website designer",
-                "Internet marketing service",
-                "Marketing agency",
-                "Training centre"
-            ],
-            "rating": 5,
-            "workday_timing": "10 AM-7 PM",
-            "closed_on": [
-                "Sunday"
-            ],
-            "phone": "+91 99166 79810",
-            "address": "ABS, 30, Viralam Arcade, 1st Floor, 8th F Main Rd, Jayanagar 3rd Block, Jayanagar, Bengaluru, Karnataka 560011, India",
-            "review_keywords": [
-                {
-                    "keyword": "work",
-                    "count": 5
-                },
-                {
-                    "keyword": "project",
-                    "count": 4
-                },
-                {
-                    "keyword": "price",
-                    "count": 3
-                }
-            ],
-            "link": "https://www.google.com/maps/place/ABS/data=!4m7!3m6!1s0x3bae158b6bbe3ba5:0x9f8baff9d234e9a!8m2!3d12.9310745!4d77.5836484!16s%2Fg%2F11h4qbjzrb!19sChIJpTu-a4sVrjsRmk4jnf-6-Ak?authuser=0&hl=en&rclk=1",
-            "status": "Open  Closes 7 PM",
-            "price_range": null,
-            "reviews_per_rating": {
-                "1": 0,
-                "2": 0,
-                "3": 0,
-                "4": 1,
-                "5": 27
-            },
-            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJpTu-a4sVrjsRmk4jnf-6-Ak&q=ABS&authuser=0&hl=en&gl=IN",
-            "coordinates": {
-                "latitude": 12.9310745,
-                "longitude": 77.5836484
-            },
-            "plus_code": "WHJM+CF Bengaluru, Karnataka, India",
-            "detailed_address": {
-                "ward": "Jayanagar 3rd Block, Jayanagar",
-                "street": "30, Viralam Arcade, 1st Floor, 8th F Main Rd",
-                "city": "Bengaluru",
-                "postal_code": "560011",
-                "state": "Karnataka",
-                "country_code": "IN"
-            },
-            "time_zone": "Asia/Calcutta",
-            "cid": "718529747581357722",
-            "data_id": "0x3bae158b6bbe3ba5:0x9f8baff9d234e9a",
-            "menu": {
-                "link": null,
-                "source": null
-            },
-            "reservations": [],
-            "order_online_links": [
-                {
-                    "link": "https://www.aerobusinesssolutions.com/best-seo-company-bangalore/",
-                    "source": "aerobusinesssolutions.com"
+                    "link": "https://www.zinavo.com/contact-us.html",
+                    "source": "zinavo.com"
                 }
             ],
             "about": [
+                {
+                    "id": "from_the_business",
+                    "name": "From the business",
+                    "options": [
+                        {
+                            "name": "Identifies as women-owned",
+                            "enabled": true
+                        }
+                    ]
+                },
                 {
                     "id": "service_options",
                     "name": "Service options",
@@ -1483,15 +1630,15 @@
                     "name": "Accessibility",
                     "options": [
                         {
-                            "name": "Wheelchair accessible entrance",
-                            "enabled": true
-                        },
-                        {
-                            "name": "Wheelchair accessible restroom",
+                            "name": "Wheelchair-accessible entrance",
                             "enabled": true
                         },
                         {
                             "name": "Wheelchair accessible seating",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Wheelchair-accessible washroom",
                             "enabled": true
                         }
                     ]
@@ -1501,7 +1648,7 @@
                     "name": "Amenities",
                     "options": [
                         {
-                            "name": "Gender-neutral restroom",
+                            "name": "Gender-neutral washroom",
                             "enabled": true
                         }
                     ]
@@ -1515,71 +1662,69 @@
                             "enabled": true
                         }
                     ]
-                },
-                {
-                    "id": "planning",
-                    "name": "Planning",
-                    "options": [
-                        {
-                            "name": "Appointment required",
-                            "enabled": true
-                        }
-                    ]
                 }
             ],
             "images": [
                 {
                     "about": "All",
-                    "link": "https://lh5.googleusercontent.com/p/AF1QipPeSSH5tGmcGx9W2ZlpUk1-UcFLUzCZGyjzakRd=w529-h298-k-no"
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipMjlMvH3ZjLau10dM6ZgMMoGU-FMWO6ez6aoYD8=w446-h298-k-no"
                 },
                 {
                     "about": "Latest",
-                    "link": "https://lh5.googleusercontent.com/p/AF1QipPeSSH5tGmcGx9W2ZlpUk1-UcFLUzCZGyjzakRd=w529-h298-k-no"
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipOIutGtK7aEYZWPJicbQchyl8wY7Qk6CLLbOYb5=w298-h298-k-no"
+                },
+                {
+                    "about": "Videos",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipOl8sAvsqQfk2GXS0AmRuGLQqdw2ZiYPLzsCOOw=w529-h298-k-no"
+                },
+                {
+                    "about": "Graphics",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipPMNRkRbFhcQ8WK0cISVNJn1N0PiWPjETGwHaoJ=w397-h298-k-no"
                 },
                 {
                     "about": "By owner",
-                    "link": "https://lh5.googleusercontent.com/p/AF1QipNXY4PZ5iUyknNwbu7jEjE_0RPQBqYEIkSgx2-H=w224-h298-k-no"
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipOwnMoJMdCphG9Hkry4yUlz9k1F_12gyRZ2l5YX=w298-h298-k-no"
                 },
                 {
                     "about": "Street View & 360deg",
-                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=GRTh_QOjZMeRvRj0ryL5-w&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=65.1439&pitch=0&thumbfov=100"
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=FK_D_7cGDa6L7fIW2ed8_A&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=74.5931&pitch=0&thumbfov=100"
                 }
             ],
             "hours": [
                 {
                     "day": "Monday",
                     "times": [
-                        "10 AM-7 PM"
+                        "9 a.m.-10 p.m."
                     ]
                 },
                 {
                     "day": "Tuesday",
                     "times": [
-                        "10 AM-7 PM"
+                        "9 a.m.-10 p.m."
                     ]
                 },
                 {
                     "day": "Wednesday",
                     "times": [
-                        "10 AM-7 PM"
+                        "9 a.m.-10 p.m."
                     ]
                 },
                 {
                     "day": "Thursday",
                     "times": [
-                        "10 AM-7 PM"
+                        "9 a.m.-10 p.m."
                     ]
                 },
                 {
                     "day": "Friday",
                     "times": [
-                        "10 AM-7 PM"
+                        "9 a.m.-10 p.m."
                     ]
                 },
                 {
                     "day": "Saturday",
                     "times": [
-                        "10 AM-7 PM"
+                        "9 a.m.-10 p.m."
                     ]
                 },
                 {
@@ -1591,160 +1736,160 @@
             ],
             "featured_reviews": [
                 {
-                    "review_id": "Ahmed Siddiqui was very professional in developing a website for our business and delivered it on time. I highly recommend you approach him for your business requirements.",
-                    "reviewer_name": "Mohammed Asif Shariff",
+                    "review_id": "Zinavo is one of the best web designers in Bangalore when it comes to quality work and value for money. Because I am not a technical person, it was difficult for me to understand the stuff, but they helped me a lot and elaborated on the technicalities. The enthusiasm of the group is greatly appreciated. I would like to thank Zinavo and the entire team for their efforts.",
+                    "reviewer_name": "Latha Ramesh",
                     "rating": 5,
-                    "review_text": "Ahmed Siddiqui was very professional in developing a website for our business and delivered it on time. I highly recommend you approach him for your business requirements.",
-                    "published_at": "7 months ago",
-                    "published_at_date": "2023-04-19T13:46:45.962000Z",
-                    "response_from_owner_text": null,
-                    "response_from_owner_ago": null,
-                    "response_from_owner_date": null,
-                    "review_likes_count": 1,
-                    "total_number_of_reviews_by_reviewer": 6,
-                    "total_number_of_photos_by_reviewer": 0,
-                    "reviewer_url": "https://www.google.com/maps/contrib/101716311733692786351/reviews?entry=ttu",
-                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJJCMaIQlHAfMEFtT7ULU5-FBfhoDeiuWQ_9rKwvBwE=s120-c-rp-mo-br100",
-                    "is_local_guide": false,
-                    "review_translated_text": null,
-                    "response_from_owner_translated_text": null,
-                    "review_photos": []
-                },
-                {
-                    "review_id": "This is KSHITIKESH Parmeshwar and a hard core mechanical engineer with nearly 3 decades of research and development experience. I am a wild life photography enthusiast too. Out of this passion I developed an equipment Body Armour and wanted my photographers colleague to know about it. So wanted to develop a website. I had some vague picture in my mind about the web pages and features of website. I approached aero business solution through google and contacted Ajay the sales person.He sent me a very detailed proposal about what all features he would offer for My website. It was highly professional approach. He told me about the time line and the trial version of my website was ready on dot. He also understood how the website should look actually and created something better than that. It's a very professional organization. I was thrilled by the response and commitment. Whenever I needed support team was always available. I would love to recommend this company name to anybody who is looking for web designing,SEO or digital marketing.  Keep it up.",
-                    "reviewer_name": "chidibaaz",
-                    "rating": 5,
-                    "review_text": "This is KSHITIKESH Parmeshwar and a hard core mechanical engineer with nearly 3 decades of research and development experience. I am a wild life photography enthusiast too. Out of this passion I developed an equipment Body Armour and wanted my photographers colleague to know about it. So wanted to develop a website. I had some vague picture in my mind about the web pages and features of website. I approached aero business solution through google and contacted Ajay the sales person.He sent me a very detailed proposal about what all features he would offer for My website. It was highly professional approach. He told me about the time line and the trial version of my website was ready on dot. He also understood how the website should look actually and created something better than that. It's a very professional organization. I was thrilled by the response and commitment. Whenever I needed support team was always available. I would love to recommend this company name to anybody who is looking for web designing,SEO or digital marketing.  Keep it up.",
-                    "published_at": "3 years ago",
-                    "published_at_date": "2020-09-09T14:15:15.004000Z",
-                    "response_from_owner_text": "Thank You very much Mr. Parmeshwar for your encouraging review. It was a pleasure working with you on Chidibaaz.com website.\n\nWe strive to give our customers a great experience with on-time and quality services. Feedback like this are encouraging and motivate us to improvise further to keep up with the expectations of our clients.\n\nThanks again.",
-                    "response_from_owner_ago": "3 years ago",
-                    "response_from_owner_date": "2020-09-09T14:22:43.889000Z",
+                    "review_text": "Zinavo is one of the best web designers in Bangalore when it comes to quality work and value for money. Because I am not a technical person, it was difficult for me to understand the stuff, but they helped me a lot and elaborated on the technicalities. The enthusiasm of the group is greatly appreciated. I would like to thank Zinavo and the entire team for their efforts.",
+                    "published_at": "6 days ago",
+                    "published_at_date": "2023-11-25T07:14:17.377000Z",
+                    "response_from_owner_text": "Thank you so much for your kind words, Latha! We are glad that you are pleased with our quality work and value for money. We appreciate your enthusiasm and are delighted that we were able to help you understand the technicalities. We are grateful for your support and look forward to working with you in the future.",
+                    "response_from_owner_ago": "4 days ago",
+                    "response_from_owner_date": "2023-11-27T08:25:03.190000Z",
                     "review_likes_count": 2,
-                    "total_number_of_reviews_by_reviewer": 4,
+                    "total_number_of_reviews_by_reviewer": 2,
                     "total_number_of_photos_by_reviewer": 0,
-                    "reviewer_url": "https://www.google.com/maps/contrib/104484909321833407529/reviews?entry=ttu",
-                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjU47tzrtcHr0WHrqop1zUfk3r-2e40yvIQXn5v7UlbWAw=s120-c-rp-mo-br100",
+                    "reviewer_url": "https://www.google.com/maps/contrib/102907510039412258051/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocI2y5i3Yo-QBXM_cM_8jqLiwpAyafMAx-ARcOMbjHH_=s120-c-rp-mo-br100",
                     "is_local_guide": false,
                     "review_translated_text": null,
                     "response_from_owner_translated_text": null,
                     "review_photos": []
                 },
                 {
-                    "review_id": "I had searched for a number of people for my website before landing at aerobusines solutions.\nI was of course attracted by the price that was quoted to me along with really good samples of websites that Mr. Ajay shared with me.\nI had specific fonts, colours, fonts family selection that i needed for my website. Which was thoroughly fulfilled by ABS team. Cheers to that.\nABS is highly professional, values customer, their time, their requirements and needs and in all serves in the best possible way.\nI highly recommend ABS for your business needs.",
-                    "reviewer_name": "Arjit Gandharva",
+                    "review_id": "We appreciate dedication, professionalism, and commitment. Zinavo team works smart and takes no time at all to understand our requirements and execute the design as per our wishes. One of the best web development companies we have worked with. highly recommended. Thanks to Zinavo",
+                    "reviewer_name": "Balamurugan Baskar",
                     "rating": 5,
-                    "review_text": "I had searched for a number of people for my website before landing at aerobusines solutions.\nI was of course attracted by the price that was quoted to me along with really good samples of websites that Mr. Ajay shared with me.\nI had specific fonts, colours, fonts family selection that i needed for my website. Which was thoroughly fulfilled by ABS team. Cheers to that.\nABS is highly professional, values customer, their time, their requirements and needs and in all serves in the best possible way.\nI highly recommend ABS for your business needs.",
-                    "published_at": "2 years ago",
-                    "published_at_date": "2021-01-22T12:51:00.532000Z",
-                    "response_from_owner_text": "Thank You very much Mr. Arjit for your encouraging review. It was a pleasure working with you on MetalCatMusic.com website.\n\nWe strive to give our customers a great experience with on-time and quality web development services. Feedback like this are encouraging and motivate us to improvise further to keep up with the expectations of our clients.\n\nThanks again.",
-                    "response_from_owner_ago": "2 years ago",
-                    "response_from_owner_date": "2021-01-22T13:03:50.612000Z",
+                    "review_text": "We appreciate dedication, professionalism, and commitment. Zinavo team works smart and takes no time at all to understand our requirements and execute the design as per our wishes. One of the best web development companies we have worked with. highly recommended. Thanks to Zinavo",
+                    "published_at": "6 days ago",
+                    "published_at_date": "2023-11-25T07:21:01.918000Z",
+                    "response_from_owner_text": "Thank you so much for your kind words, Baskar! We're so glad that you appreciated our dedication, professionalism, and commitment. We look forward to working with you again soon!",
+                    "response_from_owner_ago": "4 days ago",
+                    "response_from_owner_date": "2023-11-27T08:23:49.396000Z",
                     "review_likes_count": 1,
-                    "total_number_of_reviews_by_reviewer": 49,
-                    "total_number_of_photos_by_reviewer": 29,
-                    "reviewer_url": "https://www.google.com/maps/contrib/100684885931199617993/reviews?entry=ttu",
-                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXmzQOTYQ1DgCw_NVuGeIiGOVf4eeTaJuZXcfMHYBPhLwDc=s120-c-rp-mo-ba3-br100",
-                    "is_local_guide": true,
-                    "review_translated_text": null,
-                    "response_from_owner_translated_text": null,
-                    "review_photos": []
-                },
-                {
-                    "review_id": "Thanks ABS team for getting our latest project done within time and budget. I sincerely appreciate your customer service and prompt response whenever I needed.\nIt's a pleasure working with you.\n\nKeep growing guys!",
-                    "reviewer_name": "Depindra Singh",
-                    "rating": 5,
-                    "review_text": "Thanks ABS team for getting our latest project done within time and budget. I sincerely appreciate your customer service and prompt response whenever I needed.\nIt's a pleasure working with you.\n\nKeep growing guys!",
-                    "published_at": "2 years ago",
-                    "published_at_date": "2021-04-07T06:32:09.298000Z",
-                    "response_from_owner_text": null,
-                    "response_from_owner_ago": null,
-                    "response_from_owner_date": null,
-                    "review_likes_count": 1,
-                    "total_number_of_reviews_by_reviewer": 17,
+                    "total_number_of_reviews_by_reviewer": 3,
                     "total_number_of_photos_by_reviewer": 0,
-                    "reviewer_url": "https://www.google.com/maps/contrib/111286501477511148071/reviews?entry=ttu",
-                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVdq1R-XTcySWKq5Cq-n36gN98Z4rPnPAra_NL2IXiBEPs=s120-c-rp-mo-ba3-br100",
-                    "is_local_guide": true,
-                    "review_translated_text": null,
-                    "response_from_owner_translated_text": null,
-                    "review_photos": []
-                },
-                {
-                    "review_id": "Professional work ethics and reliable in a decent budget. I surely got value for the money i paid . Thankyou mr ajay and team...thankyou for a confident work. I am very satisfied with your services and will contact you soon for further updates.",
-                    "reviewer_name": "Vinit Mane",
-                    "rating": 5,
-                    "review_text": "Professional work ethics and reliable in a decent budget. I surely got value for the money i paid . Thankyou mr ajay and team...thankyou for a confident work. I am very satisfied with your services and will contact you soon for further updates.",
-                    "published_at": "3 years ago",
-                    "published_at_date": "2019-12-20T09:12:41.267000Z",
-                    "response_from_owner_text": "Thank You very much for your encouraging review. It was a pleasure working with you on Avocado Chestnut website.\n\nWe always strive to give our customers a great experience with on-time and quality services. Feedback like this are encouraging and motivate us to improvise further to keep up with the expectations of our clients. Thanks again.",
-                    "response_from_owner_ago": "3 years ago",
-                    "response_from_owner_date": "2020-02-15T10:17:12.481000Z",
-                    "review_likes_count": 1,
-                    "total_number_of_reviews_by_reviewer": 33,
-                    "total_number_of_photos_by_reviewer": 1,
-                    "reviewer_url": "https://www.google.com/maps/contrib/105538673020007410062/reviews?entry=ttu",
-                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVOmznFGgoWX_XNkf09JLELyie_2obLbIMhZT7TlunOfRgy=s120-c-rp-mo-ba3-br100",
-                    "is_local_guide": true,
-                    "review_translated_text": null,
-                    "response_from_owner_translated_text": null,
-                    "review_photos": []
-                },
-                {
-                    "review_id": "Awesome services with the best possible rates. Ajay has been exceptionally good through out the project. Reliable services with prompt response and way creative.\n\nBest | CHISO",
-                    "reviewer_name": "Saurabh Gupta",
-                    "rating": 5,
-                    "review_text": "Awesome services with the best possible rates. Ajay has been exceptionally good through out the project. Reliable services with prompt response and way creative.\n\nBest | CHISO",
-                    "published_at": "4 years ago",
-                    "published_at_date": "2019-11-14T14:47:11.243000Z",
-                    "response_from_owner_text": "Thank you for your feedback. It's great to see our customers happy and satisfied with our services. It has been our pleasure to work on Chiso.in website and we look forward to working with you on many more projects.",
-                    "response_from_owner_ago": "4 years ago",
-                    "response_from_owner_date": "2019-11-16T06:03:37.349000Z",
-                    "review_likes_count": 1,
-                    "total_number_of_reviews_by_reviewer": 6,
-                    "total_number_of_photos_by_reviewer": 0,
-                    "reviewer_url": "https://www.google.com/maps/contrib/118217057399844427413/reviews?entry=ttu",
-                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJg8HgzeMcHX0taZhc3QY00BcWxSBGibG41U5wdmIQr=s120-c-rp-mo-br100",
+                    "reviewer_url": "https://www.google.com/maps/contrib/102516249949073560492/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJzZUIOtgsry-hmGlsYJuLcAVc2woHMF4ybzIt9ZkqJ=s120-c-rp-mo-br100",
                     "is_local_guide": false,
                     "review_translated_text": null,
                     "response_from_owner_translated_text": null,
                     "review_photos": []
                 },
                 {
-                    "review_id": "Very professional interaction with the Customer Relations Executive and good work done by Aero team in developing our website.  I have recommended them to a couple of people.",
-                    "reviewer_name": "Ram Kumar",
+                    "review_id": "It was a pleasure working with Zinavo as my web design company recently! I have been extremely impressed with their professionalism, knowledge, and accommodating nature from the first call to the end of the project. Their website looks modern and is easy to navigate. They are so good at what they do that I would highly recommend them to anyone who needs a website designed. There is no doubt that Zinavo is the best web design company in Bangalore!",
+                    "reviewer_name": "Senthoor Pandi",
                     "rating": 5,
-                    "review_text": "Very professional interaction with the Customer Relations Executive and good work done by Aero team in developing our website.  I have recommended them to a couple of people.",
-                    "published_at": "3 years ago",
-                    "published_at_date": "2020-01-14T11:55:07.032000Z",
-                    "response_from_owner_text": "Thank You very much for your encouraging review. It was a pleasure working with you on SchoolOfExamploration.com website.\n\nWe always strive to give our customers a great experience with on-time and quality services. Feedback like this are encouraging and motivate us to improvise further to keep up with the expectations of our clients. Thanks again.",
-                    "response_from_owner_ago": "3 years ago",
-                    "response_from_owner_date": "2020-02-15T10:15:36.678000Z",
+                    "review_text": "It was a pleasure working with Zinavo as my web design company recently! I have been extremely impressed with their professionalism, knowledge, and accommodating nature from the first call to the end of the project. Their website looks modern and is easy to navigate. They are so good at what they do that I would highly recommend them to anyone who needs a website designed. There is no doubt that Zinavo is the best web design company in Bangalore!",
+                    "published_at": "2 months ago",
+                    "published_at_date": "2023-09-11T15:30:57.379000Z",
+                    "response_from_owner_text": "Thank you for the kind words, Senthoor! We appreciate your positive review and are thrilled to hear that you were satisfied with our services. We look forward to working with you again in the future.",
+                    "response_from_owner_ago": "a week ago",
+                    "response_from_owner_date": "2023-11-23T12:21:02.832000Z",
+                    "review_likes_count": 2,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 4,
+                    "reviewer_url": "https://www.google.com/maps/contrib/107265595758343104916/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXno8AyJ8vfdihZ3cLLh6w6U1TlSb1HgKNqSaK7WjGgdAI=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "My experience with Zinavo was excellent. The website they created for my business met all my requirements and expectations. As well as providing excellent customer service throughout the process, they also made sure I was satisfied with the finished product. Anyone looking for a professional and creative web design company should consider them.",
+                    "reviewer_name": "Gr76 G",
+                    "rating": 5,
+                    "review_text": "My experience with Zinavo was excellent. The website they created for my business met all my requirements and expectations. As well as providing excellent customer service throughout the process, they also made sure I was satisfied with the finished product. Anyone looking for a professional and creative web design company should consider them.",
+                    "published_at": "a month ago",
+                    "published_at_date": "2023-10-04T13:13:39.209000Z",
+                    "response_from_owner_text": "Thank you for your kind words, Gr76 G! We are so glad that you were pleased with the website we designed and the customer service you received. We look forward to helping more businesses create websites that meet their needs and expectations.",
+                    "response_from_owner_ago": "a week ago",
+                    "response_from_owner_date": "2023-11-23T12:41:28.363000Z",
+                    "review_likes_count": 2,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/105134469792936569619/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIU1WDS39QouKHHKTueqPshLs78e7Uw00eRi3v9boJv=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "The Zinavo team is the best place for all Website development needs for your business. They are highly professional and have a great work ethic. As we requested many changes for our website, they were always willing to make them necessary for a better customer experience. I am looking forward to working with your esteemed team shortly and highly recommend your service offerings to any customer. Thank you for everything you do.",
+                    "reviewer_name": "Loki 2005",
+                    "rating": 5,
+                    "review_text": "The Zinavo team is the best place for all Website development needs for your business. They are highly professional and have a great work ethic. As we requested many changes for our website, they were always willing to make them necessary for a better customer experience. I am looking forward to working with your esteemed team shortly and highly recommend your service offerings to any customer. Thank you for everything you do.",
+                    "published_at": "3 weeks ago",
+                    "published_at_date": "2023-11-06T05:47:47.373000Z",
+                    "response_from_owner_text": "Thank you for your kind words, Loki! We are delighted to hear that you are pleased with our service and we look forward to working with you again soon.",
+                    "response_from_owner_ago": "a week ago",
+                    "response_from_owner_date": "2023-11-23T12:24:00.134000Z",
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/102732907499202077830/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJRlMAi4jhkRbnbmeIhJ_hUAlU2znU5gEDxvyBkPt6Y=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "I highly recommend this Web design and development company. The project was submitted on a certain date and time. The web design services provided by Zinavo were excellent. Our Zinavo team guided us with current trends and smart content ideas.",
+                    "reviewer_name": "VANAKAM DA MAPLA",
+                    "rating": 5,
+                    "review_text": "I highly recommend this Web design and development company. The project was submitted on a certain date and time. The web design services provided by Zinavo were excellent. Our Zinavo team guided us with current trends and smart content ideas.",
+                    "published_at": "6 days ago",
+                    "published_at_date": "2023-11-25T07:17:59.309000Z",
+                    "response_from_owner_text": "Thank you for your kind words and 5 star rating! We are so glad that Zinavo was able to meet your expectations and provide you with excellent web design services. We appreciate your business and look forward to working with you again in the future.",
+                    "response_from_owner_ago": "4 days ago",
+                    "response_from_owner_date": "2023-11-27T08:24:33.041000Z",
+                    "review_likes_count": 2,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/115772122543954973269/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocI0IR1mGlkBFcZyVpTKTn-rhUbNtBXudZc1wlghPzfy=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Our team selected Zinavo Technologies as our Web Design Company after one month of research and discussion. We now have the best website in the industry as a result of the decision we made. My sincere thanks go out to the Zinavo team.",
+                    "reviewer_name": "Balamurugan Baskar",
+                    "rating": 5,
+                    "review_text": "Our team selected Zinavo Technologies as our Web Design Company after one month of research and discussion. We now have the best website in the industry as a result of the decision we made. My sincere thanks go out to the Zinavo team.",
+                    "published_at": "6 days ago",
+                    "published_at_date": "2023-11-25T07:22:34.944000Z",
+                    "response_from_owner_text": "Thank you so much, Balamurugan! We are so glad that you chose Zinavo Technologies as your web design company and that you are pleased with the results. We appreciate your kind review.",
+                    "response_from_owner_ago": "4 days ago",
+                    "response_from_owner_date": "2023-11-27T08:22:47.738000Z",
                     "review_likes_count": 1,
                     "total_number_of_reviews_by_reviewer": 2,
                     "total_number_of_photos_by_reviewer": 0,
-                    "reviewer_url": "https://www.google.com/maps/contrib/113778810851087354675/reviews?entry=ttu",
-                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLM4kA1S-MbyT8aPzPfqU8Eb8LUweUcubZ8MATQ5cUo=s120-c-rp-mo-br100",
+                    "reviewer_url": "https://www.google.com/maps/contrib/106993459894958147371/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIcuoA6Cq_VpEiS--cJr5mjy6YEvODf31naUFynXZMr=s120-c-rp-mo-br100",
                     "is_local_guide": false,
                     "review_translated_text": null,
                     "response_from_owner_translated_text": null,
                     "review_photos": []
                 },
                 {
-                    "review_id": "Really satisfied with the work done on the website by the company and especially Ahmad who is very responsive and professional. Work on yeh website was completed in time looked beyond our expectations",
-                    "reviewer_name": "aakash negi",
+                    "review_id": "I had a great experience working with Zinavo. I received an excellent web design plan after they took the time to understand my business needs. Their advice has also helped me attract more customers to my website by making it more user-friendly and intuitive. Anyone looking for a reliable web design company in Bangalore should consider Zinavo!",
+                    "reviewer_name": "Ennavale Saran",
                     "rating": 5,
-                    "review_text": "Really satisfied with the work done on the website by the company and especially Ahmad who is very responsive and professional. Work on yeh website was completed in time looked beyond our expectations",
-                    "published_at": "a year ago",
-                    "published_at_date": "2022-01-16T08:03:08.967000Z",
-                    "response_from_owner_text": null,
-                    "response_from_owner_ago": null,
-                    "response_from_owner_date": null,
-                    "review_likes_count": 0,
-                    "total_number_of_reviews_by_reviewer": 5,
+                    "review_text": "I had a great experience working with Zinavo. I received an excellent web design plan after they took the time to understand my business needs. Their advice has also helped me attract more customers to my website by making it more user-friendly and intuitive. Anyone looking for a reliable web design company in Bangalore should consider Zinavo!",
+                    "published_at": "2 months ago",
+                    "published_at_date": "2023-09-22T13:29:26.989000Z",
+                    "response_from_owner_text": "Thank you for your kind words, Saran! We are so glad to hear that you enjoyed working with us and are seeing the results of our efforts. We look forward to continuing to help you reach your business goals.",
+                    "response_from_owner_ago": "a week ago",
+                    "response_from_owner_date": "2023-11-23T12:46:57.552000Z",
+                    "review_likes_count": 3,
+                    "total_number_of_reviews_by_reviewer": 3,
                     "total_number_of_photos_by_reviewer": 0,
-                    "reviewer_url": "https://www.google.com/maps/contrib/108519441736394076666/reviews?entry=ttu",
-                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKUcogCRVp7lzlTsauWzob4g9PZcYPr3SJqzXWxN26L=s120-c-rp-mo-br100",
+                    "reviewer_url": "https://www.google.com/maps/contrib/105947419200492382805/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVsoCyKCQD9yD2OuFp1Qbc-8EZuvLY812S92tr1De50Fz4=s120-c-rp-mo-br100",
                     "is_local_guide": false,
                     "review_translated_text": null,
                     "response_from_owner_translated_text": null,

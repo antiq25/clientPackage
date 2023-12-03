@@ -2,7 +2,7 @@
     "place_id": "ChIJd7pHyHtzhlQR9d68GQ7l70A",
     "name": "McDonald's",
     "description": "Classic, long-running fast-food chain known for its burgers & fries.",
-    "reviews": 2354,
+    "reviews": 2359,
     "website": "https://www.mcdonalds.com/ca/en-ca/restaurant-locator.html%3Fy_source%3D1_MTQ1MTk1MTgtNzE1LWxvY2F0aW9uLndlYnNpdGU%253D",
     "owner": {
         "id": "108100434825326528017",
@@ -27,7 +27,7 @@
     "review_keywords": [
         {
             "keyword": "drive thru",
-            "count": 144
+            "count": 143
         },
         {
             "keyword": "parking",
@@ -42,12 +42,12 @@
             "count": 13
         },
         {
-            "keyword": "happy meal",
+            "keyword": "ketchup",
             "count": 12
         },
         {
-            "keyword": "ketchup",
-            "count": 11
+            "keyword": "happy meal",
+            "count": 12
         },
         {
             "keyword": "counter",
@@ -70,10 +70,10 @@
     "status": "Open 24 hours",
     "price_range": "$",
     "reviews_per_rating": {
-        "1": 609,
+        "1": 612,
         "2": 226,
         "3": 426,
-        "4": 541,
+        "4": 543,
         "5": 552
     },
     "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJd7pHyHtzhlQR9d68GQ7l70A&q=McDonald%27s&authuser=0&hl=en&gl=CA",
@@ -356,12 +356,6 @@
     ],
     "hours": [
         {
-            "day": "Sunday",
-            "times": [
-                "Open 24 hours"
-            ]
-        },
-        {
             "day": "Monday",
             "times": [
                 "Open 24 hours"
@@ -396,9 +390,35 @@
             "times": [
                 "Open 24 hours"
             ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "Open 24 hours"
+            ]
         }
     ],
     "featured_reviews": [
+        {
+            "review_id": "Impressively terrible. I came in at about 2:30 AM on a Tuesday and had to wait over half an hour for ONE junior chicken and medium fries. I've been to this location for over a decade and always try to give the benefit of the doubt but the fact you can get a well done steak from a 5 star restaurant before your order comes out is astonishing. \"Fast food\" more like wait in our sketchy parking lot for 45 minutes for 1 cheeseburger...",
+            "reviewer_name": "Hughie meikle",
+            "rating": 1,
+            "review_text": "Impressively terrible. I came in at about 2:30 AM on a Tuesday and had to wait over half an hour for ONE junior chicken and medium fries. I've been to this location for over a decade and always try to give the benefit of the doubt but the fact you can get a well done steak from a 5 star restaurant before your order comes out is astonishing. \"Fast food\" more like wait in our sketchy parking lot for 45 minutes for 1 cheeseburger...",
+            "published_at": "4 days ago",
+            "published_at_date": "2023-11-26T10:56:09.447000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 3,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/112678786135052412682/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXdIr0lb2MqG8w1xqf6Ipeh0I39oAVAnb7PF8OsUccCIQ=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
         {
             "review_id": "I paid $8 for this\n8-18-2023. I went for a coffee this morn. I ordered. Got to window and they repeated order got my coffee wrong. Took my money and i asked her going to fix my order. She straight up lied to me. Liar. Ive had it. Wont be back. There is no more ethic, honesty  cant trust anyone. All the foreigners they let in only a handful are honest , hard working people. The rest send them back where ever they came from.",
             "reviewer_name": "Marshall Magsam",
@@ -505,7 +525,7 @@
             "reviewer_name": "Darion Williams",
             "rating": 1,
             "review_text": "This McDonald's constantly screws up our orders.I usually go to the drive through, but today tried door dash, and this is what I received. It was flat, cold, and mostly tortilla. Such a disappointment.",
-            "published_at": "5 months ago",
+            "published_at": "6 months ago",
             "published_at_date": "2023-05-28T17:12:00.827000Z",
             "response_from_owner_text": null,
             "response_from_owner_ago": null,
@@ -527,7 +547,7 @@
             "reviewer_name": "Milton Jang",
             "rating": 3,
             "review_text": "I worked here after high school during the 1980's for six years until Expo 86. Ah, the memories. Now I eat here and it's a totally different environment. The restaurant is smaller and the service isn't what it use to be. I had to wait 5 minutes before a crew noticed me standing at the counter. They have to look up often, not at their food station.\nThe drink station needs a wipe and the floors are sticky. The tables needs clearing and wiped. And floors swept of dropped fries. My whole time eating there not a single time a lot & lobby person checked.\nI'll still come back at another time to eat to check if there's any improvements.",
-            "published_at": "3 months ago",
+            "published_at": "4 months ago",
             "published_at_date": "2023-07-25T09:16:34.593000Z",
             "response_from_owner_text": null,
             "response_from_owner_ago": null,
@@ -547,37 +567,17 @@
             "reviewer_name": "Jean Francois Poirier",
             "rating": 1,
             "review_text": "Well this restaurant is a fraud, it's not 24./7 there always close from2,3am untill6am.they should take there 24/7sign down cause it is false advertising.hi don't know if there's penalty for false advertising. hi had to bang on the door, almost like a mad men to get staff attention.just to know what time they opened cause the sign say24/7but the doors is locked.Very rude and ingnorant staff . and I can go on and on enough for 1 post",
-            "published_at": "a week ago",
+            "published_at": "2 weeks ago",
             "published_at_date": "2023-11-17T04:49:39.439000Z",
             "response_from_owner_text": null,
             "response_from_owner_ago": null,
             "response_from_owner_date": null,
             "review_likes_count": 1,
-            "total_number_of_reviews_by_reviewer": 10,
-            "total_number_of_photos_by_reviewer": 0,
+            "total_number_of_reviews_by_reviewer": 11,
+            "total_number_of_photos_by_reviewer": 1,
             "reviewer_url": "https://www.google.com/maps/contrib/114660933719696113117/reviews?entry=ttu",
             "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocK4PUxCxPe57pluleviLfnRtPBbgVyLxh0sUQLUgevH=s120-c-rp-mo-ba2-br100",
             "is_local_guide": true,
-            "review_translated_text": null,
-            "response_from_owner_translated_text": null,
-            "review_photos": []
-        },
-        {
-            "review_id": "Most useless and neglectful staff ever met , always has a habit of missing products and not completing orders, sauces never sent , this is a routine habit with this branch. If the owners are listening and aware. They need to change things around, will send a email to MC Donald as well reporting this practice.",
-            "reviewer_name": "Irfan Hakim",
-            "rating": 1,
-            "review_text": "Most useless and neglectful staff ever met , always has a habit of missing products and not completing orders, sauces never sent , this is a routine habit with this branch. If the owners are listening and aware. They need to change things around, will send a email to MC Donald as well reporting this practice.",
-            "published_at": "2 months ago",
-            "published_at_date": "2023-09-08T07:58:56.142000Z",
-            "response_from_owner_text": null,
-            "response_from_owner_ago": null,
-            "response_from_owner_date": null,
-            "review_likes_count": 1,
-            "total_number_of_reviews_by_reviewer": 2,
-            "total_number_of_photos_by_reviewer": 0,
-            "reviewer_url": "https://www.google.com/maps/contrib/107066465115931108149/reviews?entry=ttu",
-            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIEN5ErBTVJ-epoWPQnf07RCf11WPaGpP5Ffc_2lGPL=s120-c-rp-mo-br100",
-            "is_local_guide": false,
             "review_translated_text": null,
             "response_from_owner_translated_text": null,
             "review_photos": []

@@ -1,0 +1,603 @@
+{
+    "place_id": "ChIJs8IJ5W9xhlQR37XQMO_WQ04",
+    "name": "Phnom Penh Restaurant",
+    "description": "Vietnamese-Cambodian institution draws fans with specialties including chicken wings & butter beef.",
+    "reviews": 4314,
+    "website": "http://phnompenhrestaurant.ca/",
+    "owner": {
+        "id": "101970028335178840078",
+        "name": "Phnom Penh Restaurant (Owner)",
+        "link": "https://www.google.com/maps/contrib/101970028335178840078"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO32fnhOC6haKRYA8id-sByM3g1twGyuBcnQh24=w408-h306-k-no",
+    "main_category": "Cambodian restaurant",
+    "categories": [
+        "Cambodian restaurant",
+        "Vietnamese restaurant"
+    ],
+    "rating": 4.5,
+    "workday_timing": "11 a.m.-8 p.m.",
+    "closed_on": [
+        "Tuesday"
+    ],
+    "phone": "(604) 682-5777",
+    "address": "Phnom Penh Restaurant, 244 E Georgia St, Vancouver, BC V6A 1Z7",
+    "review_keywords": [
+        {
+            "keyword": "bo luc lac",
+            "count": 216
+        },
+        {
+            "keyword": "butter beef",
+            "count": 192
+        },
+        {
+            "keyword": "vietnamese",
+            "count": 130
+        },
+        {
+            "keyword": "marinated",
+            "count": 77
+        },
+        {
+            "keyword": "oyster pancake",
+            "count": 29
+        },
+        {
+            "keyword": "deep fried chicken wings",
+            "count": 21
+        },
+        {
+            "keyword": "durian",
+            "count": 19
+        },
+        {
+            "keyword": "raw beef",
+            "count": 16
+        },
+        {
+            "keyword": "beef carpaccio",
+            "count": 14
+        }
+    ],
+    "link": "https://www.google.com/maps/place/Phnom+Penh+Restaurant/data=!4m7!3m6!1s0x5486716fe509c2b3:0x4e43d6ef30d0b5df!8m2!3d49.2784519!4d-123.0982248!16s%2Fg%2F1td5lcxj!19sChIJs8IJ5W9xhlQR37XQMO_WQ04?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 11 a.m.",
+    "price_range": "$$",
+    "reviews_per_rating": {
+        "1": 129,
+        "2": 81,
+        "3": 274,
+        "4": 1015,
+        "5": 2815
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJs8IJ5W9xhlQR37XQMO_WQ04&q=Phnom+Penh+Restaurant&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.2784519,
+        "longitude": -123.0982248
+    },
+    "plus_code": "7WH2+9P Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "Strathcona",
+        "street": "244 E Georgia St",
+        "city": "Vancouver",
+        "postal_code": "V6A 1Z7",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "5639587481202505183",
+    "data_id": "0x5486716fe509c2b3:0x4e43d6ef30d0b5df",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [
+        {
+            "link": "https://www.opentable.ca/restaurant/profile/329197%3Fref%3D16423",
+            "source": "opentable.ca"
+        }
+    ],
+    "order_online_links": [
+        {
+            "link": "https://www.ubereats.com/ca/store/phnom-penh-restaurant/qNpkPyDiXGK7SoDqTh_3Pw?utm_campaign=place-action-link&utm_medium=organic&utm_source=google",
+            "source": "ubereats.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Takeout",
+                    "enabled": true
+                },
+                {
+                    "name": "Dine-in",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair accessible seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Alcohol",
+                    "enabled": true
+                },
+                {
+                    "name": "Beer",
+                    "enabled": true
+                },
+                {
+                    "name": "Coffee",
+                    "enabled": true
+                },
+                {
+                    "name": "Small plates",
+                    "enabled": true
+                },
+                {
+                    "name": "Vegetarian options",
+                    "enabled": true
+                },
+                {
+                    "name": "Wine",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Dining options",
+            "options": [
+                {
+                    "name": "Lunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Dinner",
+                    "enabled": true
+                },
+                {
+                    "name": "Dessert",
+                    "enabled": true
+                },
+                {
+                    "name": "Seating",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosphere",
+            "options": [
+                {
+                    "name": "Casual",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "crowd",
+            "name": "Crowd",
+            "options": [
+                {
+                    "name": "Groups",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planning",
+            "options": [
+                {
+                    "name": "Accepts reservations",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "children",
+            "name": "Children",
+            "options": [
+                {
+                    "name": "Good for kids",
+                    "enabled": true
+                },
+                {
+                    "name": "High chairs",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "parking",
+            "name": "Parking",
+            "options": [
+                {
+                    "name": "Paid street parking",
+                    "enabled": true
+                },
+                {
+                    "name": "Parking",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipO32fnhOC6haKRYA8id-sByM3g1twGyuBcnQh24=w397-h298-k-no"
+        },
+        {
+            "about": "Latest",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNie5w-PxjfmsFP_gqb8kB62hG_2T1W2bQjVRmp=w224-h298-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPcGeJNa64fi9uBliwTRfE7ru8-4QhV8m2E4-F3=w224-h398-k-no"
+        },
+        {
+            "about": "Menu",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNw-e5yE_9BKnuTQLVF7jSwTptmH0-_N5YYyIne=w224-h298-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPyqE2BcSJZYiv3LgQieHOvm4axjEo71Q9_W54p=w397-h298-k-no"
+        },
+        {
+            "about": "Vibe",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPhQdrjPLgTUoYmx7dJS_4GxPo0QjlG_7iBMgqO=w529-h298-k-no"
+        },
+        {
+            "about": "Chicken Wings",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOiOSgWIbX50MYTVkfZ9YnQviB7mAz72umryDzB=w224-h298-k-no"
+        },
+        {
+            "about": "Carpaccio",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPq4B1mCaUbzY0U8jgKUKcDR47bLhKx7mHUm5YV=w397-h298-k-no"
+        },
+        {
+            "about": "Pho",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipN14fMlMysOimD2U56BmBL5rBQEy0WVIh5Ui8H4=w529-h298-k-no"
+        },
+        {
+            "about": "Fried egg",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipO8YSaMy6T7pzsG8zhqT8yGvYJBfWfrzxRXWc0D=w397-h298-k-no"
+        },
+        {
+            "about": "Bulgogi",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNwU7J8lrW-oPPUZdyUH4gPMQjb2Mr8Sp4gK_GN=w397-h298-k-no"
+        },
+        {
+            "about": "Beef soup",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipM0IJAcbkbyVg9Ix8uDr2wW-yNq58Bjrr3GmEkt=w397-h298-k-no"
+        },
+        {
+            "about": "Fried rice",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMxn0TmVlfD_arkrA7MAGLy98JbINkDbeUSTZcl=w383-h298-k-no"
+        },
+        {
+            "about": "Hot pot",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOVAAtgAHiLIaHkAlr1JuW3IRBTNIkXbMA6e_gA=w397-h298-k-no"
+        },
+        {
+            "about": "Spring roll",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOIU6z8mBt0vsnEoSRFeaq7d6FuxrrVFFwD7VY4=w397-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=yOyrwvkK8ldPT-5nb85ukQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=219.21368&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "11 a.m.-8 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "Closed"
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "11 a.m.-8 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "11 a.m.-8 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "11 a.m.-9 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "11 a.m.-9 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "11 a.m.-9 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "This place served authentic Cambodian and Vietnamese food. In my opinion, the food was decent. The way they marinated was too sweet, everything was too sweet. The price is reasonable with the amount of food you get. We had shaken beef, tamarind soup and fried chicken. They were all perfectly cooked, just a bit too sweet for my taste. The restaurant was super crowded when we came for dinner. Service was a bit slow, probably due to crowd, but the staffs were really nice. The restaurant has authentic Asian vibe with round family tables.",
+            "reviewer_name": "Vicky T",
+            "rating": 4,
+            "review_text": "This place served authentic Cambodian and Vietnamese food. In my opinion, the food was decent. The way they marinated was too sweet, everything was too sweet. The price is reasonable with the amount of food you get. We had shaken beef, tamarind soup and fried chicken. They were all perfectly cooked, just a bit too sweet for my taste. The restaurant was super crowded when we came for dinner. Service was a bit slow, probably due to crowd, but the staffs were really nice. The restaurant has authentic Asian vibe with round family tables.",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-07T21:09:21.228000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 393,
+            "total_number_of_photos_by_reviewer": 1441,
+            "reviewer_url": "https://www.google.com/maps/contrib/114166196358031162906/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVNGESnlTJoAV8n-r0hZ1Lv1OcSBhN1QqFPghwpnd6PcDhr=s120-c-rp-mo-ba6-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOhZ7Vu51zOGSDhV-C9aUDGpaGP26254KYWDrqC=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPaSx3gDZAKvWgO3AugJv6dihdApEIlF94kw9io=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Wow, what a unique experience! Butter beef was a pleasant surprise and the rest of the food tasted so fresh and perfectly seasoned. No wonder why there's always a huge line up at this place. I don't blame them, it's simply amazing.",
+            "reviewer_name": "Mr. Beaver",
+            "rating": 5,
+            "review_text": "Wow, what a unique experience! Butter beef was a pleasant surprise and the rest of the food tasted so fresh and perfectly seasoned. No wonder why there's always a huge line up at this place. I don't blame them, it's simply amazing.",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-15T11:44:44.069000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 312,
+            "total_number_of_photos_by_reviewer": 833,
+            "reviewer_url": "https://www.google.com/maps/contrib/113608834813529743605/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXMyBey2me6trTZaCnKeecvbtOsWiDqOvX1pivNzQnEx6Q=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPPU7JoCrS6jc3mS1_boRMWRyO88IzU4A3F2ub0=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMSDVZFi7IDju-G9gMh-GwQKB6qjVZwCY5NLqgV=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMAvARuRLomOLAZdno1-HaNU9XS6_V8G0061UCu=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNV264BKId8xpLD5tjUK5cHKKfmju33H71e2vs8=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOyxqS1UGX5kNAmJD1rJm44hlijRYIRwdNWuJjH=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipO8qKxePlDWKwnGElVXCqy1UqcjjICA4FGqglfs=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "This spot offers Vietnamese and Cambodian cuisine that's both authentic and wallet-friendly. We ordered fried chicken and Chicken Rice in Hot Pot. The flavors were a bit subtle, leaning towards mild. The wait times here are pretty hectic, and you can only make a reservation if your party has six or more people. Be prepared to wait for at least 45 minutes before you can get a table. Despite the wait, it's definitely worth giving it a shot!",
+            "reviewer_name": "Henna Chopra",
+            "rating": 4,
+            "review_text": "This spot offers Vietnamese and Cambodian cuisine that's both authentic and wallet-friendly. We ordered fried chicken and Chicken Rice in Hot Pot. The flavors were a bit subtle, leaning towards mild. The wait times here are pretty hectic, and you can only make a reservation if your party has six or more people. Be prepared to wait for at least 45 minutes before you can get a table. Despite the wait, it's definitely worth giving it a shot!",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-13T20:11:43.225000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 13,
+            "total_number_of_photos_by_reviewer": 8,
+            "reviewer_url": "https://www.google.com/maps/contrib/114532860650130861844/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWmA9U9HJL-egvYzzMOGCgJayE2khD8glXf3ZHcqwknJ1u-=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOwzaSF56hUG8z-SlIk2cC9KlcWZiSSrofXtZPv=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOyue6maNPUpP6ZbhlGTod7AU5I4wrIl0bSHSI_=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Returning here after 10 years is definitely a surprise. The food is great but the lineup is even better, 1hr45min! Had to piece out after the first attempt and came back during a weekday after lunch time. I guess that's expected when you turn Michelin. Ordered the classic egg noodles and chicken wings, good as ever! Looks like the restaurant has been passed down the family generation but the taste is still classic. Highly recommended if you're in Vancouver and don't mind a wait or eating off hours. Worth it.",
+            "reviewer_name": "Action Z",
+            "rating": 5,
+            "review_text": "Returning here after 10 years is definitely a surprise. The food is great but the lineup is even better, 1hr45min! Had to piece out after the first attempt and came back during a weekday after lunch time. I guess that's expected when you turn Michelin. Ordered the classic egg noodles and chicken wings, good as ever! Looks like the restaurant has been passed down the family generation but the taste is still classic. Highly recommended if you're in Vancouver and don't mind a wait or eating off hours. Worth it.",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-26T20:06:35.503000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 28,
+            "total_number_of_photos_by_reviewer": 47,
+            "reviewer_url": "https://www.google.com/maps/contrib/105307667041424565256/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWy0b3L3T3-uq27WMkKOGA9rT7do2Pc43O5_3a6OLUrWXQ=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOi71mtSeKp0I2hG1Cc-F3iLWI8MtJLcLy5H3db=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPuL25gIIaT7_dtwPGw7Yj8u_uOc_ULBKe3cq7Z=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "A friend visiting from San Francisco really wanted to go to Phnom Penh during her stay.  She came to the restaurant on her last visit and she said she needed to come to the restaurant again every time she visits Vancouver so we took her there for an early lunch this week.\n\nI remember coming here years ago and did not have a good impression of what I had but I'm quite glad we took my friend there this time.  We loved our dishes so much that they were probably the best foods we had during her visit.\n\nWe had deep fried chicken wings, tong choy (water spinach), rare beef filet with anchovies and deep fried crab meat rolls.  I could eat the chicken wings and crab meat rolls all day long.  Al;though deep fried, the wings and rolls were light in texture but also full of flavours at the same time. The slightly sweet undertone in the coating of the chicken wing batter was addictive.\n\nWe came here on a Monday morning shortly after 1100 when they open and we walked right in.  By 1130, there were already people waiting for tables at the door.",
+            "reviewer_name": "Joseph Leung",
+            "rating": 5,
+            "review_text": "A friend visiting from San Francisco really wanted to go to Phnom Penh during her stay.  She came to the restaurant on her last visit and she said she needed to come to the restaurant again every time she visits Vancouver so we took her there for an early lunch this week.\n\nI remember coming here years ago and did not have a good impression of what I had but I'm quite glad we took my friend there this time.  We loved our dishes so much that they were probably the best foods we had during her visit.\n\nWe had deep fried chicken wings, tong choy (water spinach), rare beef filet with anchovies and deep fried crab meat rolls.  I could eat the chicken wings and crab meat rolls all day long.  Al;though deep fried, the wings and rolls were light in texture but also full of flavours at the same time. The slightly sweet undertone in the coating of the chicken wing batter was addictive.\n\nWe came here on a Monday morning shortly after 1100 when they open and we walked right in.  By 1130, there were already people waiting for tables at the door.",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-27T04:30:59.784000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 4,
+            "total_number_of_reviews_by_reviewer": 41,
+            "total_number_of_photos_by_reviewer": 80,
+            "reviewer_url": "https://www.google.com/maps/contrib/105720888932640350098/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUEUmIz4Q8g8rT5mwES0GHpmjjq9GlNHh3TR2EeMUMsI6s=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOoih7cBVcYTPDUSquKHM4rzmJ-oZcei_4LS1m5=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipM1YRh-pXdsCP9R5k9kgNOTx_WGCKbDxOLjYnCZ=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOwaTqMU0T9HiSLXG1mn3VdSJhq0Xtns9sa1hxm=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPTWAv95UimrkA4fU6Gm0pD60eS58FtvLk0p9YI=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Never bored of this place except the need to queue for a table. Chicken wings and Butter beef are must have. This time round discovered the lotus roots were a delight and the cuttlefish balls (too hungry and forgot photo) were chewy and tasty too. Glad I decided to run home after.",
+            "reviewer_name": "Kingramen",
+            "rating": 5,
+            "review_text": "Never bored of this place except the need to queue for a table. Chicken wings and Butter beef are must have. This time round discovered the lotus roots were a delight and the cuttlefish balls (too hungry and forgot photo) were chewy and tasty too. Glad I decided to run home after.",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-15T21:14:47.505000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 3,
+            "total_number_of_reviews_by_reviewer": 36,
+            "total_number_of_photos_by_reviewer": 102,
+            "reviewer_url": "https://www.google.com/maps/contrib/103799463911720817509/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXtnHoXyRqzpmKbL8XvqbWuNCFh5Tsn3dHZc_ALWmMBMzMx=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipM3mmvPpMIgk4cn0BnuhPBIwGtkj1a5RJpJHFu4=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipO0l6LY6gVc7BtTSXTquyxhQ3xwTmkwIcOG7HEo=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNsF2ohTP9XZohoiiVO1chnL9DEjU6S-JlHY2RS=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPRAZ0bFbnTOwdx_RjfgwTsgtsftxYGHidzqM4B=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Visited about 3 weeks ago on vacation with family. Service was great, we didn't make a reservation but probably should have. The hostess was very helpful, seated us when the table was ready, helped take our orders and helped us decide what to order when we were torn between a few items. The food came out quickly and everything was delicious. The pork chops were flavorful, fried chicken wings were really good, and the rest of the food did not disappoint!",
+            "reviewer_name": "Chun Yang",
+            "rating": 5,
+            "review_text": "Visited about 3 weeks ago on vacation with family. Service was great, we didn't make a reservation but probably should have. The hostess was very helpful, seated us when the table was ready, helped take our orders and helped us decide what to order when we were torn between a few items. The food came out quickly and everything was delicious. The pork chops were flavorful, fried chicken wings were really good, and the rest of the food did not disappoint!",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-25T23:53:34.468000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 18,
+            "total_number_of_photos_by_reviewer": 54,
+            "reviewer_url": "https://www.google.com/maps/contrib/118311627132428387115/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUhwyQtbRoR2sfenNqpWNkWkyfSNfNkSaVqBD7yFfe7Mz9p=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNdL78ZhpRSd9Sml2QLac8Fw4mx8vfwfCtbIGga=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNpex4e5K9bcn6k4N_qasgLNWjfGFe5cgyRWd0b=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOJoDOY3vIBMngrVxdMTZ-942Pi86P6BoIk2XSm=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMDzzPYjk0f768tE5dCaB-7sGlIfb44B-KsN3Dq=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOzkpHea-BQRvwrGuDXb7ebM3xMjXnCVYMvd0jq=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOJ_VFFnrKyKSaJWZXKqtLgIZ7eQqpVnoB7IMUU=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPIQAQIRUf_SqGPo4KFO8iu6wbTSgGT7fa4tQxO=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipO6DdCUR-qw0t2c5NBrMYGBmBLCVnnJEqdZJioO=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Truly a must visit! Bo buc lac is so tasteful. The crispy chicken wings are crunchy with the perfect amount of saltiness. Service is fast too. Show up before they open, because there is a lineup!",
+            "reviewer_name": "Trace",
+            "rating": 5,
+            "review_text": "Truly a must visit! Bo buc lac is so tasteful. The crispy chicken wings are crunchy with the perfect amount of saltiness. Service is fast too. Show up before they open, because there is a lineup!",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-28T20:26:13.657000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 238,
+            "total_number_of_photos_by_reviewer": 386,
+            "reviewer_url": "https://www.google.com/maps/contrib/105122243125136464803/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUJ0JeF_lE51Ya39EPRGMJB2i81MrTTxDeB29Zh8RLVDBI=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipP5Vp3KPKimHpF7bAanLxbJcvnMfuVl1eYNq1Vd=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNTW9Elge8tIhugv0Iamuv86qeXggl9Rud7fmfD=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNM5Ioddiqx9CrgB-butPbuH5XRfEZhCxG4np2O=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPdn98oCfoE1LNBETtGh55pNa0-_vBgHN2cqCR5=w150-h150-k-no-p"
+            ]
+        }
+    ],
+    "is_spending_on_ads": false
+}

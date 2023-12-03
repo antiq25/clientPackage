@@ -1,0 +1,709 @@
+{
+    "place_id": "ChIJq2tI6HtxhlQRBaKUv59cS9E",
+    "name": "Chambar Restaurant",
+    "description": "Chic exposed-brick space serving creative Belgian cuisine & sustainable seafood, plus beer & wine.",
+    "reviews": 3684,
+    "website": "http://www.chambar.com/",
+    "owner": {
+        "id": "107770196061871220304",
+        "name": "Chambar Restaurant (Owner)",
+        "link": "https://www.google.com/maps/contrib/107770196061871220304"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMDOZbUHKmukgL1cJ92Ioggd0aadRGkgyeww55r=w408-h271-k-no",
+    "main_category": "Belgian restaurant",
+    "categories": [
+        "Belgian restaurant",
+        "Bar",
+        "Restaurant"
+    ],
+    "rating": 4.5,
+    "workday_timing": "5-10 p.m.",
+    "closed_on": [],
+    "phone": "(604) 879-7119",
+    "address": "Chambar Restaurant, 568 Beatty St, Vancouver, BC V6B 2L3",
+    "review_keywords": [
+        {
+            "keyword": "belgian beer",
+            "count": 64
+        },
+        {
+            "keyword": "moules frites",
+            "count": 52
+        },
+        {
+            "keyword": "fricassee",
+            "count": 28
+        },
+        {
+            "keyword": "lamb shank",
+            "count": 28
+        },
+        {
+            "keyword": "dine out vancouver festival",
+            "count": 19
+        },
+        {
+            "keyword": "belgian waffles",
+            "count": 17
+        },
+        {
+            "keyword": "salted caramel",
+            "count": 13
+        },
+        {
+            "keyword": "duck gnocchi",
+            "count": 11
+        },
+        {
+            "keyword": "white chocolate pistachio",
+            "count": 6
+        },
+        {
+            "keyword": "raspberry caramel",
+            "count": 5
+        }
+    ],
+    "link": "https://www.google.com/maps/place/Chambar+Restaurant/data=!4m7!3m6!1s0x5486717be8486bab:0xd14b5c9fbf94a205!8m2!3d49.2801271!4d-123.1099351!16s%2Fm%2F04xw3_q!19sChIJq2tI6HtxhlQRBaKUv59cS9E?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 5 p.m.",
+    "price_range": "$$$",
+    "reviews_per_rating": {
+        "1": 92,
+        "2": 75,
+        "3": 240,
+        "4": 858,
+        "5": 2419
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJq2tI6HtxhlQRBaKUv59cS9E&q=Chambar+Restaurant&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.280127099999994,
+        "longitude": -123.1099351
+    },
+    "plus_code": "7VJR+32 Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "Downtown Vancouver",
+        "street": "568 Beatty St",
+        "city": "Vancouver",
+        "postal_code": "V6B 2L3",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "15081249618363982341",
+    "data_id": "0x5486717be8486bab:0xd14b5c9fbf94a205",
+    "menu": {
+        "link": "https://www.chambar.com/menu",
+        "source": "chambar.com"
+    },
+    "reservations": [
+        {
+            "link": "http://chambar.com/",
+            "source": "chambar.com"
+        }
+    ],
+    "order_online_links": [
+        {
+            "link": "https://www.doordash.com/store/chambar-vancouver-910210/?utm_campaign=gpa",
+            "source": "doordash.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "from_the_business",
+            "name": "From the business",
+            "options": [
+                {
+                    "name": "Identifies as women-owned",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Outdoor seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Takeout",
+                    "enabled": true
+                },
+                {
+                    "name": "Dine-in",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "highlights",
+            "name": "Highlights",
+            "options": [
+                {
+                    "name": "Great cocktails",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair accessible seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible elevator",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible washroom",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Alcohol",
+                    "enabled": true
+                },
+                {
+                    "name": "Beer",
+                    "enabled": true
+                },
+                {
+                    "name": "Cocktails",
+                    "enabled": true
+                },
+                {
+                    "name": "Coffee",
+                    "enabled": true
+                },
+                {
+                    "name": "Hard liquor",
+                    "enabled": true
+                },
+                {
+                    "name": "Healthy options",
+                    "enabled": true
+                },
+                {
+                    "name": "Late-night food",
+                    "enabled": true
+                },
+                {
+                    "name": "Organic dishes",
+                    "enabled": true
+                },
+                {
+                    "name": "Private dining room",
+                    "enabled": true
+                },
+                {
+                    "name": "Small plates",
+                    "enabled": true
+                },
+                {
+                    "name": "Vegetarian options",
+                    "enabled": true
+                },
+                {
+                    "name": "Wine",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Dining options",
+            "options": [
+                {
+                    "name": "Breakfast",
+                    "enabled": true
+                },
+                {
+                    "name": "Brunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Lunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Dinner",
+                    "enabled": true
+                },
+                {
+                    "name": "Dessert",
+                    "enabled": true
+                },
+                {
+                    "name": "Seating",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Bar on-site",
+                    "enabled": true
+                },
+                {
+                    "name": "Gender-neutral washroom",
+                    "enabled": true
+                },
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                },
+                {
+                    "name": "Wi-Fi",
+                    "enabled": true
+                },
+                {
+                    "name": "Wi-Fi",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosphere",
+            "options": [
+                {
+                    "name": "Cozy",
+                    "enabled": true
+                },
+                {
+                    "name": "Romantic",
+                    "enabled": true
+                },
+                {
+                    "name": "Upscale",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "crowd",
+            "name": "Crowd",
+            "options": [
+                {
+                    "name": "Family-friendly",
+                    "enabled": true
+                },
+                {
+                    "name": "Groups",
+                    "enabled": true
+                },
+                {
+                    "name": "LGBTQ+ friendly",
+                    "enabled": true
+                },
+                {
+                    "name": "Transgender safe space",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planning",
+            "options": [
+                {
+                    "name": "Accepts reservations",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "children",
+            "name": "Children",
+            "options": [
+                {
+                    "name": "High chairs",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "parking",
+            "name": "Parking",
+            "options": [
+                {
+                    "name": "Paid parking garage",
+                    "enabled": true
+                },
+                {
+                    "name": "Paid street parking",
+                    "enabled": true
+                },
+                {
+                    "name": "Parking",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMDOZbUHKmukgL1cJ92Ioggd0aadRGkgyeww55r=w447-h298-k-no"
+        },
+        {
+            "about": "Latest",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMoQNpYlR02jmVsTF6c3wPD1NMF79CBvqObqviC=w397-h298-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPQpfjMUmfMbIVEJbFWmJF5d5jUEkEAbeWuRA6T=w224-h398-k-no"
+        },
+        {
+            "about": "Menu",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNSZi51ohO8WUAbDDztQeSa2k3LIoRc-cb8ufDN=w228-h298-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMaEfGBJi2w2E4CrYz2v7IuOy0LiIVe4xI-VlSv=w224-h336-k-no"
+        },
+        {
+            "about": "Vibe",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPEQ_-ll4G1AGk4bw5hMv2UGnKWJnRVihvI32Qd=w343-h298-k-no"
+        },
+        {
+            "about": "Fried egg",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNPPD-9HAD9UF3kuhE3q7-gFab_2PgAvhgzZWRV=w397-h298-k-no"
+        },
+        {
+            "about": "Waffle",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMz6OVMt0WT6F0nMwVq8mCErkMif5AAU7u7v5oq=w397-h298-k-no"
+        },
+        {
+            "about": "Mussel",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPmbhdnomyopSPJ-L5gHc6z_7KC8xl8X9_gDIO7=w397-h298-k-no"
+        },
+        {
+            "about": "Steak and eggs",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPxKt_fH2FrvmiD3bbWb29VD-IwoeiFbGXYv2jI=w397-h298-k-no"
+        },
+        {
+            "about": "Cappuccino",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNmINF2XznusMUPAMfOU_Yv5JonjUWl37uV4D4A=w253-h298-k-no"
+        },
+        {
+            "about": "Beer",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNuWSxvHtdjQx-6wpEkdHTYKEkXI-4pr0lS_MoJ=w224-h298-k-no"
+        },
+        {
+            "about": "Frittata",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOqHSNJ8yqxd_UbYxiuDaTYGaNv2EULOcdIrZi9=w298-h298-k-no"
+        },
+        {
+            "about": "Eggs Benedict",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipO3OFWUGH5Hk9shGfXx-xtrxE31xVGL2gqPFJiq=w298-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPyfe7X8VEG3s0Dpw_NRs9rlInmG5SREERNxaAh=w447-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPG8BlYMB7t8SNp3J0znDMICP3-Pa1czgvaXQHq=w224-h298-k-no-pi-20-ya340-ro-0-fo100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "5-10 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "5-10 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "5-10 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "5-10 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "5-10 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "9 a.m.-3 p.m.",
+                "5-10 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "9 a.m.-3 p.m.",
+                "5-10 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "Brunch on the thanksgiving long weekend. Busy day. We were seated at the back of the main floor. The space between tables is quite narrow - less than an arm's length. We asked for low sodium on both dishes and the mussels are still on the salty side. Food is quite delicious. Decent portion. Nice decorations. Will visit again.",
+            "reviewer_name": "Kaman Kwok",
+            "rating": 4,
+            "review_text": "Brunch on the thanksgiving long weekend. Busy day. We were seated at the back of the main floor. The space between tables is quite narrow - less than an arm's length. We asked for low sodium on both dishes and the mussels are still on the salty side. Food is quite delicious. Decent portion. Nice decorations. Will visit again.",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-08T21:18:47.685000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 127,
+            "total_number_of_photos_by_reviewer": 594,
+            "reviewer_url": "https://www.google.com/maps/contrib/107569220042228857913/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUynEPl8nRMOHeZk4bxlddf4kJId66SRADWJMcSlqN96wM=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNoHGYnEL7NoenIHxYHh5cWznvVd5PHLPSkdVqN=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNcqQZWTMoGhYE2DyOeN1t9L_JGeuNX1bqUiu51=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPdsoUvlYRM_SQHqiY13dhI4fEiwuYkIlIoynqH=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOjbkYSyqxIy_3qX8TZghLs7Wiq2qySurYnaLqh=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipM2b5jugw6aTvbBp5x2rH54bbRO3dj7WcWxmR1g=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipM1KHC3FNiX_0L9kjNjUKbLjRtDT8zsHY6zYgKT=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMxZCeizC38Rn4fTWNJeDLfI2LfTqQhKZDZKMLl=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipN5LZZ2lRjeQWJCJBjDgpJNnPfitV5gOPzKAFF6=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Fantastic cocktails and well made food. Service was friendly and the restaurant is clean and tidy. What more can you ask for? Oh, the prices are reasonable too!",
+            "reviewer_name": "D.C. Ma",
+            "rating": 5,
+            "review_text": "Fantastic cocktails and well made food. Service was friendly and the restaurant is clean and tidy. What more can you ask for? Oh, the prices are reasonable too!",
+            "published_at": "5 days ago",
+            "published_at_date": "2023-11-26T07:48:11.903000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 17,
+            "total_number_of_photos_by_reviewer": 32,
+            "reviewer_url": "https://www.google.com/maps/contrib/108904603108579620258/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVwQDRV2Q6iZJxjtIFj1eOdcEE9rXuH_ijqqTLQUDG6Ywk=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNJefd4RWY24S7Hyl7hFuCy4hl6Yb3xTd_Kq6pw=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMgNS6OECWLo6CppSMjyQeO553ZnU51DYRkp1kK=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNXsfRFsyf1HiJCi5qoyug30iLgftx6tn7Vo6TA=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNzqXVP15MAGsQ6AX7WTydv2XmSPEO26zjNoRRf=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipP4nEKShVLS6BsHfdRmoG_rFsDKepHvUt5PNiPs=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNxu2m7ZJhi6OlxuPCNF3hUEtpdW88CYmcePguz=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMoQNpYlR02jmVsTF6c3wPD1NMF79CBvqObqviC=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Visited Chambar with our company and it was a great experience. Had a great table by the window and service was outstanding. Lots of attention to detail. All the appetizers were very tasty and well presented. Great chill atmosphere as well. Only negative really was the bay closing early on a Sunday. But we bounced next door to the pub to enjoy our last rounds. Great spot and the signature lamb dish was amazing. Enjoy!",
+            "reviewer_name": "Lord Stanley (Lifepilot)",
+            "rating": 4,
+            "review_text": "Visited Chambar with our company and it was a great experience. Had a great table by the window and service was outstanding. Lots of attention to detail. All the appetizers were very tasty and well presented. Great chill atmosphere as well. Only negative really was the bay closing early on a Sunday. But we bounced next door to the pub to enjoy our last rounds. Great spot and the signature lamb dish was amazing. Enjoy!",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-16T07:38:57.273000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 259,
+            "total_number_of_photos_by_reviewer": 1068,
+            "reviewer_url": "https://www.google.com/maps/contrib/101638989557630398698/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUKQ8wY-Eeiox8QgVQi2B47277sgg714cok4MxJKAFAxIIH=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPSBQQEWpQQDn7rMnlI6NaawjqSNLzaarzm0OlJ=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNlnOJym6eGy0RXOyp31E4tpWFsPZ44SAqBkRJG=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipM2BPz9y7xwiqEbQXgp6LCOyUhptGBIsCEnRGZN=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNzODsuBYgtf5k6PqhyrUjQ17FwI8RxMFFAKf74=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMzygHtIwED71HCVALnt8U4eY838PKvNZ1xkkJg=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNV5betrUMMQcxqWtsRuoCIimw_dc0CND7PHCWd=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Had a great experience at Chambar! We were seated very quickly and our waitress Shayla was amazing. Food and drinks came out in a timely manner, food was great, atmosphere was great. Overall an amazing first impression. Will absolutely be coming back :)",
+            "reviewer_name": "Sophie Shrestha",
+            "rating": 5,
+            "review_text": "Had a great experience at Chambar! We were seated very quickly and our waitress Shayla was amazing. Food and drinks came out in a timely manner, food was great, atmosphere was great. Overall an amazing first impression. Will absolutely be coming back :)",
+            "published_at": "a week ago",
+            "published_at_date": "2023-11-20T02:20:48.576000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 13,
+            "total_number_of_photos_by_reviewer": 5,
+            "reviewer_url": "https://www.google.com/maps/contrib/117248943613286994129/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUIu63nuFGVeIiAWVwSYhswVRoHAUK4qVyvSq_qiafq7oc=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipM04JjGzX6D9z8sRzVxcJ9DvdJrewcj3or8DGVE=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipN250HBroQ1z9X6vwXICY7gJmqebjuQbXc4MGYK=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMfo6rkk6tpXGtdEG6jC7pSffPTpD7Qfl-KBfhO=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "The food itself in terms of quality and taste were pretty fantastic, although I will admit that this is not my preferred cuisine, I did not mind trying it out. The sauce for the shrimp appitizer is absolutely divine, it was probably my favourite dish out of everything that we ordered. As well as the penne cotta dessert, we shared one, but I could have easily ate two to myself because it was honestly that great. Everything else was not bad, but nothing I would write home about. The ambience of the resturant is a dark and loud because of how packed it was. Overall, not bad, but I likely would not come back because it is not my preference.",
+            "reviewer_name": "Kristy Chen",
+            "rating": 4,
+            "review_text": "The food itself in terms of quality and taste were pretty fantastic, although I will admit that this is not my preferred cuisine, I did not mind trying it out. The sauce for the shrimp appitizer is absolutely divine, it was probably my favourite dish out of everything that we ordered. As well as the penne cotta dessert, we shared one, but I could have easily ate two to myself because it was honestly that great. Everything else was not bad, but nothing I would write home about. The ambience of the resturant is a dark and loud because of how packed it was. Overall, not bad, but I likely would not come back because it is not my preference.",
+            "published_at": "a week ago",
+            "published_at_date": "2023-11-22T19:53:06.689000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 494,
+            "total_number_of_photos_by_reviewer": 2453,
+            "reviewer_url": "https://www.google.com/maps/contrib/100864525554132402451/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUaGwC9QarrcFpS1fPA2_ZKko9_OLtlk-FkXq2YTVhXAkw=s120-c-rp-mo-ba6-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOcbqRgVh4iHry4Y1i96yRZdRVx3_vjdsky8Nbf=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPti1UJtKir8u2IQBXUwGXMdz4lYPxaPVsjhtTC=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPaOo3E9FuagnRz8T71u-9Z0v2Fkat8_uYy-ZRA=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMb5LDlkT84efD5iprr878D3OlumPBs_T29asTu=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOqW9eQqYoX2fZt4jcG-mgnowLVqnXji94qnoWq=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPjImBpZI6f7HcgD0hqacp7UQNofJE_32QvYPyM=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "An unforgettable dining experience! Chambar Restaurant impressed me with its delectable cuisine and charming ambiance. The menu offers a delightful mix of traditional and innovative dishes, and their attention to using locally-sourced ingredients is commendable. The staff's passion for food and top-notch service made the evening even more enjoyable. If you're a food enthusiast looking for a standout gem, Chambar is the place to be!",
+            "reviewer_name": "Masi",
+            "rating": 5,
+            "review_text": "An unforgettable dining experience! Chambar Restaurant impressed me with its delectable cuisine and charming ambiance. The menu offers a delightful mix of traditional and innovative dishes, and their attention to using locally-sourced ingredients is commendable. The staff's passion for food and top-notch service made the evening even more enjoyable. If you're a food enthusiast looking for a standout gem, Chambar is the place to be!",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-24T15:47:22.074000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 17,
+            "total_number_of_photos_by_reviewer": 43,
+            "reviewer_url": "https://www.google.com/maps/contrib/106752228233134791377/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXuZDg9e-vNX7WeYjiqmZFqWycc66WDFo49MiygXuK-qfk=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPkYr653ljTRo0kiAFNlZYVoCWcuDPrtjWFVlYM=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOWmR6ktkWHJ3UrmPOjDbLZ7Ynp8NQWhCLU9gnn=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMXteJG7XMQHD2JvKJMHvSXoSlu1Yk5ULa7FDX2=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMNP-TI5FM2SzcnRMRPe5jrvMP_AauawbWjrgns=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "One of my favorite places to dine in Vancouver, from start to finish this place cares a lot about their guest experience. Professional, polished service. Kitchen is always putting out impeccable food, menu composition is stellar, something for everyone. I've been for Brunch and Dinner many times and have always had the Best time here.\n\nFirst time having their espresso martini and honestly one of the best I have ever had! Thank you for doing such an amazing job and taking such great care of your patrons!",
+            "reviewer_name": "Conor S",
+            "rating": 5,
+            "review_text": "One of my favorite places to dine in Vancouver, from start to finish this place cares a lot about their guest experience. Professional, polished service. Kitchen is always putting out impeccable food, menu composition is stellar, something for everyone. I've been for Brunch and Dinner many times and have always had the Best time here.\n\nFirst time having their espresso martini and honestly one of the best I have ever had! Thank you for doing such an amazing job and taking such great care of your patrons!",
+            "published_at": "2 weeks ago",
+            "published_at_date": "2023-11-12T21:50:46.228000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 40,
+            "total_number_of_photos_by_reviewer": 14,
+            "reviewer_url": "https://www.google.com/maps/contrib/112191072132300541379/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJXYb6TIKyzgDasJfIPs90nBnbFTYLpIjZXJSSNrQx1=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNlwrLjZ5xUsipLwH7VOJhOXkBL-O2-dSP4O3VH=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Came to Chambar for a wedding, the entire basement was the private event, great for small events, can get stuffy.\n\nService was amazing, but most importantly the food was so good. I had the lamb shank, it was super tender, fall off the bone delicious. There was enough for 2 meals.\n\nDefinitely has the old town vibe, but yet not tacky. Every server was nice and the bartender was great all night. Will be back on my own to try their full menu.",
+            "reviewer_name": "Douglas Sum",
+            "rating": 5,
+            "review_text": "Came to Chambar for a wedding, the entire basement was the private event, great for small events, can get stuffy.\n\nService was amazing, but most importantly the food was so good. I had the lamb shank, it was super tender, fall off the bone delicious. There was enough for 2 meals.\n\nDefinitely has the old town vibe, but yet not tacky. Every server was nice and the bartender was great all night. Will be back on my own to try their full menu.",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-27T07:58:29.631000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 199,
+            "total_number_of_photos_by_reviewer": 350,
+            "reviewer_url": "https://www.google.com/maps/contrib/113785796451657899784/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXaWZPvnLioqjdsEZYK2Uwe7ECzq-xx-JfGtO0C3XjsTg=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOC_ihqcYIUOoyl4HOsKP8-wA_hUBtTWFvSuBVX=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMsnnw6KjE4qRF4TnqkL7tRKUtC-bL4ZsblHOjw=w150-h150-k-no-p"
+            ]
+        }
+    ],
+    "is_spending_on_ads": false
+}

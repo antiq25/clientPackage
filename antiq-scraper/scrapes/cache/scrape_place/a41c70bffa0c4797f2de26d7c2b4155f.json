@@ -1,0 +1,594 @@
+{
+    "place_id": "ChIJc8boRM54hlQRa8Jn4IIR1PI",
+    "name": "McDonald's",
+    "description": "Classic, long-running fast-food chain known for its burgers & fries.",
+    "reviews": 2188,
+    "website": "https://www.mcdonalds.com/ca/en-ca/restaurant-locator.html%3Fy_source%3D1_MTQ1MjAxMjktNzE1LWxvY2F0aW9uLndlYnNpdGU%253D",
+    "owner": {
+        "id": "100996329115429713122",
+        "name": "McDonald's (Owner)",
+        "link": "https://www.google.com/maps/contrib/100996329115429713122"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMxorfb-Ka949nQrzBXHlVEx9CsDU6Zu19c0Llm=w426-h240-k-no",
+    "main_category": "Fast food restaurant",
+    "categories": [
+        "Fast food restaurant",
+        "American restaurant",
+        "Breakfast restaurant",
+        "Cafe",
+        "Hamburger restaurant",
+        "Restaurant"
+    ],
+    "rating": 3.5,
+    "workday_timing": "6 a.m.-10 p.m.",
+    "closed_on": [],
+    "phone": "(604) 552-4140",
+    "address": "McDonald's, 2725 Barnet Hwy, Coquitlam, BC V3E 1K9",
+    "review_keywords": [
+        {
+            "keyword": "drive thru",
+            "count": 132
+        },
+        {
+            "keyword": "coffee",
+            "count": 83
+        },
+        {
+            "keyword": "big mac",
+            "count": 15
+        },
+        {
+            "keyword": "egg mcmuffin",
+            "count": 13
+        },
+        {
+            "keyword": "cold",
+            "count": 13
+        },
+        {
+            "keyword": "play place",
+            "count": 11
+        },
+        {
+            "keyword": "patty",
+            "count": 8
+        },
+        {
+            "keyword": "kiosks",
+            "count": 8
+        },
+        {
+            "keyword": "bagel",
+            "count": 7
+        },
+        {
+            "keyword": "convenience",
+            "count": 5
+        }
+    ],
+    "link": "https://www.google.com/maps/place/McDonald%27s/data=!4m7!3m6!1s0x548678ce44e8c673:0xf2d41182e067c26b!8m2!3d49.278354!4d-122.8127657!16s%2Fg%2F1tdp04mg!19sChIJc8boRM54hlQRa8Jn4IIR1PI?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 6 a.m.",
+    "price_range": "$",
+    "reviews_per_rating": {
+        "1": 290,
+        "2": 180,
+        "3": 485,
+        "4": 574,
+        "5": 659
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJc8boRM54hlQRa8Jn4IIR1PI&q=McDonald%27s&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.278354,
+        "longitude": -122.8127657
+    },
+    "plus_code": "75HP+8V Coquitlam, British Columbia",
+    "detailed_address": {
+        "ward": null,
+        "street": "2725 Barnet Hwy",
+        "city": "Coquitlam",
+        "postal_code": "V3E 1K9",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "17497629706049536619",
+    "data_id": "0x548678ce44e8c673:0xf2d41182e067c26b",
+    "menu": {
+        "link": "https://www.mcdonalds.com/ca/en-ca/full-menu.html%3Fy_source%3D1_MTQ1MjAxMjktNzE1LWxvY2F0aW9uLm1lbnVfdXJs",
+        "source": "mcdonalds.com"
+    },
+    "reservations": [],
+    "order_online_links": [
+        {
+            "link": "https://www4.mcdonalds.ca/mcdeliverycanada/?y_source=1_MTQ1MjAxMjktNzE1LWxvY2F0aW9uLm9yZGVyX3VybA%3D%3D",
+            "source": "mcdonalds.ca"
+        },
+        {
+            "link": "https://www.ubereats.com/ca/store/mcdonalds-barnet-hwy/bK5i7QTJQeGBWCoIAJUqNA?utm_campaign=place-action-link&utm_medium=organic&utm_source=google",
+            "source": "ubereats.com"
+        },
+        {
+            "link": "https://www.skipthedishes.com/mcdonalds-barnet-2725?serviceType=delivery&utm_source=google&utm_medium=organic&utm_campaign=gpav2",
+            "source": "skipthedishes.com"
+        },
+        {
+            "link": "https://www.doordash.com/store/mcdonald%27s-coquitlam-1031366/?utm_campaign=gpa",
+            "source": "doordash.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Outdoor seating",
+                    "enabled": true
+                },
+                {
+                    "name": "No-contact delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Drive-through",
+                    "enabled": true
+                },
+                {
+                    "name": "Takeout",
+                    "enabled": true
+                },
+                {
+                    "name": "Dine-in",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "highlights",
+            "name": "Highlights",
+            "options": [
+                {
+                    "name": "Fast service",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair accessible seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Coffee",
+                    "enabled": true
+                },
+                {
+                    "name": "Late-night food",
+                    "enabled": true
+                },
+                {
+                    "name": "Quick bite",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Dining options",
+            "options": [
+                {
+                    "name": "Breakfast",
+                    "enabled": true
+                },
+                {
+                    "name": "Lunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Dinner",
+                    "enabled": true
+                },
+                {
+                    "name": "Counter service",
+                    "enabled": true
+                },
+                {
+                    "name": "Dessert",
+                    "enabled": true
+                },
+                {
+                    "name": "Seating",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosphere",
+            "options": [
+                {
+                    "name": "Casual",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "crowd",
+            "name": "Crowd",
+            "options": [
+                {
+                    "name": "Family-friendly",
+                    "enabled": true
+                },
+                {
+                    "name": "Groups",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "children",
+            "name": "Children",
+            "options": [
+                {
+                    "name": "Good for kids",
+                    "enabled": true
+                },
+                {
+                    "name": "Good for kids birthday",
+                    "enabled": true
+                },
+                {
+                    "name": "High chairs",
+                    "enabled": true
+                },
+                {
+                    "name": "Kids' menu",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "parking",
+            "name": "Parking",
+            "options": [
+                {
+                    "name": "Free parking lot",
+                    "enabled": true
+                },
+                {
+                    "name": "Parking",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMxorfb-Ka949nQrzBXHlVEx9CsDU6Zu19c0Llm=w529-h298-k-no"
+        },
+        {
+            "about": "Menu",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNg0EiONtbLckOSiMYvkxmLR_lh5raRi9E_Dq5z=w397-h298-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNItpNIWw3RC613R-_c2hXESJeyo9450D2vXEWc=w529-h298-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipP1eX-09f_qbCcR5fz5wkDQ2virl1pRLYcK3dNv=w397-h298-k-no"
+        },
+        {
+            "about": "Vibe",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipM3YW4ClcCl9lKnUPzutecyFYV3NUfD4X5H5qoT=w224-h298-k-no"
+        },
+        {
+            "about": "Take-out",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOp7nvx0vQ5CEAGi-MF5IU8HzmzFqLjGug2nt3m=w224-h298-k-no"
+        },
+        {
+            "about": "Comfort food",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMq0K0YeIahtK6U7B8Nn5_kPjWpo89VCzl7ocwd=w397-h298-k-no"
+        },
+        {
+            "about": "Hamburger",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOvHEfrzcE482vLJBcleb1aM3_wzxoSWFVR1QGw=w224-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMc05Zs4jE5gYM96iAb4QOp3etfL4Dcym46Ug0=w529-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=y9ZFR4e0a0ZxPknxhdbJwg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=321.4032&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "6 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "6 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "6 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "6 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "6 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "6 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "6 a.m.-10 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "Food is always the same as you can expect.\nThis location is clean and seats are new and comfortable.\nI have been several times at this branch and always satisfied with dine in.\nSometimes they do not have all items available in menu.\nDrive through is also okay.\nThey are not serving table from mobile app anymore.",
+            "reviewer_name": "Mohammadreza Behnejad",
+            "rating": 4,
+            "review_text": "Food is always the same as you can expect.\nThis location is clean and seats are new and comfortable.\nI have been several times at this branch and always satisfied with dine in.\nSometimes they do not have all items available in menu.\nDrive through is also okay.\nThey are not serving table from mobile app anymore.",
+            "published_at": "a year ago",
+            "published_at_date": "2022-05-26T03:37:46.297000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 358,
+            "total_number_of_photos_by_reviewer": 3077,
+            "reviewer_url": "https://www.google.com/maps/contrib/107421872232324988768/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUbTWxN9Tq1ZGBxHskUFgt-7n3wSYUbxnfGO4zCE3LCdw=s120-c-rp-mo-ba6-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMlqap55qtQ6pAEbaTRhQauF48kJPZbztmVPgE=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNbq1vyU_siFE07gdFuv3QUkru1DMDmLIYt95U=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNiFMM6vHDfLbcKyxbcVTGViRha1YweZdOUsIE=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPPEP1jq14cX4m293prre1_MCvptyUkkgvf2jQ=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipM7MXkZIMnohFpCjjTuEMqoVyIvuAYGAqtqsBM=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipN-kwhWILmhdnvQzBowI913_ZNG-8EE2bL4AC4=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Ended up going during the busy lunch hour, through the drive through, which was very busy. The service was actually very fast.  But the fries didn't seem like they were fresh and hot as I would have expected during a busy time. And they didn't add ketchup, my bad, I didn't ask, they didn't offer. I was frazzled with 2 kids in the back seat.",
+            "reviewer_name": "Lisa Simmons",
+            "rating": 3,
+            "review_text": "Ended up going during the busy lunch hour, through the drive through, which was very busy. The service was actually very fast.  But the fries didn't seem like they were fresh and hot as I would have expected during a busy time. And they didn't add ketchup, my bad, I didn't ask, they didn't offer. I was frazzled with 2 kids in the back seat.",
+            "published_at": "3 weeks ago",
+            "published_at_date": "2023-11-08T00:13:53.403000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 109,
+            "total_number_of_photos_by_reviewer": 312,
+            "reviewer_url": "https://www.google.com/maps/contrib/115586202025478788842/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIoVM1iW_MFVQCW6qQdu7vqSkxFwT0rl3UaVIqUhP2r=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "It's better than average. The service here is pretty consistently slower than other franchises in the area, but the orders are generally correctly prepared and the restaurant is clean and pleasant. If you've got a couple extra minutes, it's generally worth the wait.",
+            "reviewer_name": "Austin K",
+            "rating": 3,
+            "review_text": "It's better than average. The service here is pretty consistently slower than other franchises in the area, but the orders are generally correctly prepared and the restaurant is clean and pleasant. If you've got a couple extra minutes, it's generally worth the wait.",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-31T14:33:38.917000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 15,
+            "total_number_of_photos_by_reviewer": 6,
+            "reviewer_url": "https://www.google.com/maps/contrib/114793537286186704395/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKQtI74qjGCXAPFL6Z6G3K4H5WLYCkFX3WZINaAnCvc=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "McDonald's is consistent in there food. I don't shop here much but I love the cheeseburgers and fries with no salt.\nStaff are always friendly and fast at the drive thru window. Prices are reasonable.   Great place to take the family for a quick bit to eat.  Great place for the seniors to come and have coffee and socialize.  They have Wheelchair accessible seating.  Wheelchair accessible washrooms and parking.  This location is open 24 hours.  Usually both drive thru lanes are open.  You can order online via Skip the Dishes.  Tables outside as well also wheelchair seating and accessible.\nEnjoy!",
+            "reviewer_name": "Leslie Fusco",
+            "rating": 4,
+            "review_text": "McDonald's is consistent in there food. I don't shop here much but I love the cheeseburgers and fries with no salt.\nStaff are always friendly and fast at the drive thru window. Prices are reasonable.   Great place to take the family for a quick bit to eat.  Great place for the seniors to come and have coffee and socialize.  They have Wheelchair accessible seating.  Wheelchair accessible washrooms and parking.  This location is open 24 hours.  Usually both drive thru lanes are open.  You can order online via Skip the Dishes.  Tables outside as well also wheelchair seating and accessible.\nEnjoy!",
+            "published_at": "a year ago",
+            "published_at_date": "2022-10-21T02:28:36.322000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 105,
+            "total_number_of_photos_by_reviewer": 5313,
+            "reviewer_url": "https://www.google.com/maps/contrib/106126935141791803652/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVaX1EkxPo_6-C-0o26SdMKsi23p8oLXHI-lmImxLWL6Kv2=s120-c-rp-mo-ba6-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMfzMUV2TwafZ_jNNByReh_tGRUXSUsqZpxFhGV=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNrOgEyvcw6Ai8JgPVGYpkXFZkB3k8m01nZ5hVc=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPn24yg77ZAq_KxmKI2pFdAXNu6yRD4KFpp_tBl=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMFrmTAtCI70GBpRM9EGgsKscQgGITCU2Y_sY-B=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipM9VP9SRubcoKlPWpckKX8YQvMG3eWjyrVPxpDN=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPmfhU71VMxX-J29SpCBzTX34OKvBPlgQXj9v65=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOGkE3udkiwj2qX2vkCFx0sBcdigw5FQO0va9sG=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMkgp_riIEYimYhwvZt9-ZrtSxapsv90rnw5o8U=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMkOumlpr8jTuluAcPnYb4nlWhp_dxJ-Cofe0cL=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Long waits here. Missed 2 out of 5 of the items in my drive-thru order, and when I drove the 20 minutes back and told the story, the cashier offered to replace them for $18. \"Why would I pay for them twice?\" He seemed surprised. Didn't understand?\n\nLast time I had a messed up drive thru order, I got a free lunch.\n\nNot good at the McD system, here.",
+            "reviewer_name": "Linda Clement",
+            "rating": 2,
+            "review_text": "Long waits here. Missed 2 out of 5 of the items in my drive-thru order, and when I drove the 20 minutes back and told the story, the cashier offered to replace them for $18. \"Why would I pay for them twice?\" He seemed surprised. Didn't understand?\n\nLast time I had a messed up drive thru order, I got a free lunch.\n\nNot good at the McD system, here.",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-29T03:52:21.249000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 60,
+            "total_number_of_photos_by_reviewer": 27,
+            "reviewer_url": "https://www.google.com/maps/contrib/105529779212367805429/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjU8WrKKOVd5YpeTOav8w9n34uuFT-0iW2qbtEAVZCIZ4z8=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "I ordered hot coffee at drive thru today. The lid wasn't sealed completely and it popped open as soon as i got it. Of course i burned my hand and spilled it all over my car and pants. It was so hot and i didn't know what to do. The guy who handed over the coffee was just standing there looking at me like it wasn't his responsibility. I said \"hey, the lid was opened\" and he just said \"oh i am sorry\" and kept stood there looking at me like A.I until i asked him for some napkins. Seriously bro, read the room.",
+            "reviewer_name": "JAMIE KIM",
+            "rating": 1,
+            "review_text": "I ordered hot coffee at drive thru today. The lid wasn't sealed completely and it popped open as soon as i got it. Of course i burned my hand and spilled it all over my car and pants. It was so hot and i didn't know what to do. The guy who handed over the coffee was just standing there looking at me like it wasn't his responsibility. I said \"hey, the lid was opened\" and he just said \"oh i am sorry\" and kept stood there looking at me like A.I until i asked him for some napkins. Seriously bro, read the room.",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-12T18:47:36.172000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 10,
+            "reviewer_url": "https://www.google.com/maps/contrib/112300074222649559341/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWXC2tawdcpXl0hWLe66ONjY8F3s8F03f7BImIB_B4GTw=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Screwed up the order even after asking me 3 times at the drive through. Paid in cash. They can't count. Over $15 for a McDonald's meal! Forget it from here on in craving it or not. Way back when you could get a cheeseburger meal and get change for your dollar and they had real golden arches then. Screw Mcd's",
+            "reviewer_name": "Andy Petersen",
+            "rating": 1,
+            "review_text": "Screwed up the order even after asking me 3 times at the drive through. Paid in cash. They can't count. Over $15 for a McDonald's meal! Forget it from here on in craving it or not. Way back when you could get a cheeseburger meal and get change for your dollar and they had real golden arches then. Screw Mcd's",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-02T19:17:52.508000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 46,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/114689503403808512083/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJyapELioPL9nks0Fkqi9_Ap-xFHOQKL6mZz3vAkOuL=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Changes review from a 5. We waited for 15 minutes in the drive through. Ordered through the App. They made us park for 20 minutes and the food was old. They didn't answer their phone at all when we called. It went to an answering machine that that didn't have a voicemail. So disappointing. What happened? My daughter loves it when we go to McDonald's after school  You pretty much know what you're going to get. The drinks are cold and refreshing. We were surprised that they still had plastic straws.  The filet o fish was fresh and tasty but it would have been better with more sauce and the sandwich especially since we asked for it and the fish was dry. We were really looking forward to the  the fries but they did not taste fresh and were cold  Most restaurants have meatless options being that they are the largest fast food chain you would think they would to. We will probably be back soon for ice cream ",
+            "reviewer_name": "Renata Steele Vancouver / Kelowna area (Realtor Vancouver BC)",
+            "rating": 2,
+            "review_text": "Changes review from a 5. We waited for 15 minutes in the drive through. Ordered through the App. They made us park for 20 minutes and the food was old. They didn't answer their phone at all when we called. It went to an answering machine that that didn't have a voicemail. So disappointing. What happened? My daughter loves it when we go to McDonald's after school  You pretty much know what you're going to get. The drinks are cold and refreshing. We were surprised that they still had plastic straws.  The filet o fish was fresh and tasty but it would have been better with more sauce and the sandwich especially since we asked for it and the fish was dry. We were really looking forward to the  the fries but they did not taste fresh and were cold  Most restaurants have meatless options being that they are the largest fast food chain you would think they would to. We will probably be back soon for ice cream ",
+            "published_at": "2 years ago",
+            "published_at_date": "2021-10-26T22:48:24.271000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 250,
+            "total_number_of_photos_by_reviewer": 1636,
+            "reviewer_url": "https://www.google.com/maps/contrib/104318657889703330326/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVSm7nx3l58pNk--jZwTRcSA1czJiAEUQcSyzmnLHySUlTjpw=s120-c-rp-mo-ba6-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMCMMY__fZBPvTKuj1B8PsBPoHOkhxlLpd04zhK=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOvHEfrzcE482vLJBcleb1aM3_wzxoSWFVR1QGw=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipObkg7v7lhCoTC5gFep-ht3wWQH3l2ZZ_sA_8XR=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPgUO8j_rv34v6N4Bb5QxlGGWrinIZl4a81R-vv=w150-h150-k-no-p"
+            ]
+        }
+    ],
+    "is_spending_on_ads": false
+}

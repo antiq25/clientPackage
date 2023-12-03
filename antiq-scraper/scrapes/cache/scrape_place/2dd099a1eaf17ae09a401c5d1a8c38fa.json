@@ -2,7 +2,7 @@
     "place_id": "ChIJSxi51iV3hlQR0T8nbv0Rmfw",
     "name": "McDonald's",
     "description": "Classic, long-running fast-food chain known for its burgers & fries.",
-    "reviews": 3130,
+    "reviews": 3146,
     "website": "https://www.mcdonalds.com/ca/en-ca/restaurant-locator.html%3Fy_source%3D1_MTQ1MTk0ODEtNzE1LWxvY2F0aW9uLndlYnNpdGU%253D",
     "owner": {
         "id": "114394789384620239884",
@@ -27,7 +27,11 @@
     "review_keywords": [
         {
             "keyword": "drive through",
-            "count": 198
+            "count": 199
+        },
+        {
+            "keyword": "parking",
+            "count": 76
         },
         {
             "keyword": "play area",
@@ -58,10 +62,6 @@
             "count": 9
         },
         {
-            "keyword": "syrup",
-            "count": 9
-        },
-        {
             "keyword": "mcgriddle",
             "count": 6
         }
@@ -70,11 +70,11 @@
     "status": "Open 24 hours",
     "price_range": "$",
     "reviews_per_rating": {
-        "1": 455,
-        "2": 260,
-        "3": 623,
-        "4": 862,
-        "5": 930
+        "1": 462,
+        "2": 262,
+        "3": 625,
+        "4": 863,
+        "5": 934
     },
     "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJSxi51iV3hlQR0T8nbv0Rmfw&q=McDonald%27s&authuser=0&hl=en&gl=CA",
     "coordinates": {
@@ -335,7 +335,7 @@
         },
         {
             "about": "Latest",
-            "link": "https://lh5.googleusercontent.com/p/AF1QipNokrKHVLMlIoVRGrqK5nP8alcxu0pM4AsrRbzm=w397-h298-k-no"
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNLKXE2vO2WgncEMpT2PT0h0oVIhJEIfRFn7MuM=w224-h298-k-no"
         },
         {
             "about": "Videos",
@@ -354,6 +354,10 @@
             "link": "https://lh5.googleusercontent.com/p/AF1QipO4Vb5-zye0wonq8qcZGNktwnpGQX1UusuZZCw=w397-h298-k-no"
         },
         {
+            "about": "Take-out",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPmqu1obxG6cw1WEJuNCH-YEk2jFcdk97bIbgNS=w397-h298-k-no"
+        },
+        {
             "about": "Chicken sandwich",
             "link": "https://lh5.googleusercontent.com/p/AF1QipPNDyyIqVoEohfdyIrNnHmTuhxd1U43O73BHUks=w224-h298-k-no"
         },
@@ -367,7 +371,7 @@
         },
         {
             "about": "Comfort food",
-            "link": "https://lh5.googleusercontent.com/p/AF1QipPmqu1obxG6cw1WEJuNCH-YEk2jFcdk97bIbgNS=w397-h298-k-no"
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPxDdV77tirwjntr2GjQr3lXfjOhuMNYzFWXx5P=w224-h298-k-no"
         },
         {
             "about": "By owner",
@@ -435,7 +439,7 @@
             "response_from_owner_date": null,
             "review_likes_count": 1,
             "total_number_of_reviews_by_reviewer": 52,
-            "total_number_of_photos_by_reviewer": 269,
+            "total_number_of_photos_by_reviewer": 277,
             "reviewer_url": "https://www.google.com/maps/contrib/114141344544258002348/reviews?entry=ttu",
             "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWQsi_T7EPH7QldVb9M6LAgWiMFdRCENzn1Pf7l4rrwY8o=s120-c-rp-mo-ba4-br100",
             "is_local_guide": true,
@@ -507,8 +511,8 @@
             "response_from_owner_ago": null,
             "response_from_owner_date": null,
             "review_likes_count": 0,
-            "total_number_of_reviews_by_reviewer": 43,
-            "total_number_of_photos_by_reviewer": 183,
+            "total_number_of_reviews_by_reviewer": 45,
+            "total_number_of_photos_by_reviewer": 187,
             "reviewer_url": "https://www.google.com/maps/contrib/112887122072231564273/reviews?entry=ttu",
             "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocK-Fe6BmkCn1Uhxpy917CKW3n9gXQdsPQscOGEQ3kAk=s120-c-rp-mo-ba4-br100",
             "is_local_guide": true,
@@ -545,14 +549,14 @@
             "reviewer_name": "Christiane Boyce",
             "rating": 4,
             "review_text": "Super friendly staff here. Gross dark rainy morning and they still made me feel at home. Gave my own clean reusable coffee cup to use and they filled it without issue. Smiling-faced staff handed me my breakfast and wished me a good day ",
-            "published_at": "2 weeks ago",
+            "published_at": "3 weeks ago",
             "published_at_date": "2023-11-03T18:41:34.062000Z",
             "response_from_owner_text": null,
             "response_from_owner_ago": null,
             "response_from_owner_date": null,
             "review_likes_count": 0,
-            "total_number_of_reviews_by_reviewer": 180,
-            "total_number_of_photos_by_reviewer": 366,
+            "total_number_of_reviews_by_reviewer": 183,
+            "total_number_of_photos_by_reviewer": 369,
             "reviewer_url": "https://www.google.com/maps/contrib/104706069257379613528/reviews?entry=ttu",
             "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVtrVZLBB5TuoNWe_iMEeRXXF0tYA5aJCenhtftXUtggXab=s120-c-rp-mo-ba5-br100",
             "is_local_guide": true,
@@ -561,18 +565,41 @@
             "review_photos": []
         },
         {
+            "review_id": "Disgusting, appalling, shameful. Head office.\n\nClearly food and safety inspections don't exist in corporate or government.\n\nMoney first.",
+            "reviewer_name": "C C",
+            "rating": 1,
+            "review_text": "Disgusting, appalling, shameful. Head office.\n\nClearly food and safety inspections don't exist in corporate or government.\n\nMoney first.",
+            "published_at": "a week ago",
+            "published_at_date": "2023-11-24T09:01:49.280000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 52,
+            "total_number_of_photos_by_reviewer": 5,
+            "reviewer_url": "https://www.google.com/maps/contrib/106750577341406833852/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUcZbzKPerrFWqBf_T9xNe-sOM8Lx1K-QBvmwRm3_jgRg=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOvYJxxZCLs3iJY9omfzjexzpTkH9O1QzljsN33=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNLKXE2vO2WgncEMpT2PT0h0oVIhJEIfRFn7MuM=w150-h150-k-no-p"
+            ]
+        },
+        {
             "review_id": "When I took my first sip of the iced coffee that I purchased for $1 it washed away all negative memories of my gambling sessions and all the chicanery that is employed to extract money from me. This iced drink provides me with so much upside while putting down very little capital. Thanks you, I will not be clown shoed again",
             "reviewer_name": "Johnny G",
             "rating": 5,
             "review_text": "When I took my first sip of the iced coffee that I purchased for $1 it washed away all negative memories of my gambling sessions and all the chicanery that is employed to extract money from me. This iced drink provides me with so much upside while putting down very little capital. Thanks you, I will not be clown shoed again",
-            "published_at": "4 months ago",
+            "published_at": "5 months ago",
             "published_at_date": "2023-06-29T09:07:36.545000Z",
             "response_from_owner_text": null,
             "response_from_owner_ago": null,
             "response_from_owner_date": null,
             "review_likes_count": 3,
-            "total_number_of_reviews_by_reviewer": 457,
-            "total_number_of_photos_by_reviewer": 925,
+            "total_number_of_reviews_by_reviewer": 453,
+            "total_number_of_photos_by_reviewer": 926,
             "reviewer_url": "https://www.google.com/maps/contrib/108690264085858221131/reviews?entry=ttu",
             "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKhQdP_RCm0C3A0xivx_l__4zKA4Ng-EK1ozys0uuHx=s120-c-rp-mo-ba5-br100",
             "is_local_guide": true,
@@ -580,28 +607,6 @@
             "response_from_owner_translated_text": null,
             "review_photos": [
                 "https://lh5.googleusercontent.com/p/AF1QipPg4s5iW0vbngYVHVUbA3azddziJejlGG3C5yYN=w150-h150-k-no-p"
-            ]
-        },
-        {
-            "review_id": "Quite disappointed. Maybe they were having an off night but waited too long to be helped and the lettuce looked wilted and smelled bad. Can't win them all.",
-            "reviewer_name": "Michael de Jong",
-            "rating": 1,
-            "review_text": "Quite disappointed. Maybe they were having an off night but waited too long to be helped and the lettuce looked wilted and smelled bad. Can't win them all.",
-            "published_at": "5 months ago",
-            "published_at_date": "2023-06-09T02:00:52.818000Z",
-            "response_from_owner_text": null,
-            "response_from_owner_ago": null,
-            "response_from_owner_date": null,
-            "review_likes_count": 6,
-            "total_number_of_reviews_by_reviewer": 38,
-            "total_number_of_photos_by_reviewer": 1,
-            "reviewer_url": "https://www.google.com/maps/contrib/106924193325894244177/reviews?entry=ttu",
-            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWaGbsxg4kFK93djohQPlmoQsgwV5_YQM663XGgypa86Gg=s120-c-rp-mo-ba3-br100",
-            "is_local_guide": true,
-            "review_translated_text": null,
-            "response_from_owner_translated_text": null,
-            "review_photos": [
-                "https://lh5.googleusercontent.com/p/AF1QipPNDyyIqVoEohfdyIrNnHmTuhxd1U43O73BHUks=w150-h150-k-no-p"
             ]
         }
     ],

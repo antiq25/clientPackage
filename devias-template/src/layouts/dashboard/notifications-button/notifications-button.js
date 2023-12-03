@@ -6,8 +6,8 @@ import SvgIcon from '@mui/material/SvgIcon';
 import Tooltip from '@mui/material/Tooltip';
 
 import { usePopover } from 'src/hooks/use-popover';
-import { notifications as initialNotifications } from './notifications';
-import { NotificationsPopover } from './notifications-popover';
+import { notifications as initialNotifications } from 'src/layouts/dashboard/notifications-button/notifications';
+import { NotificationsPopover } from 'src/layouts/dashboard/notifications-button/notifications-popover';
 
 const useNotifications = () => {
   const [notifications, setNotifications] = useState(initialNotifications);

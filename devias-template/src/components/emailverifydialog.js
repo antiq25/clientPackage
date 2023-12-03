@@ -1,4 +1,4 @@
-/* eslint-disable react/no-unescaped-entities */
+// /* eslint-disable react/no-unescaped-entities */
 import React from 'react';
 import Dialog from '@mui/material/Dialog';
 import DialogActions from '@mui/material/DialogActions';
@@ -62,7 +62,7 @@ const EmailVerificationDialog = () => {
       <DialogTitle>Email Verification Needed</DialogTitle>
       <DialogContent>
         <DialogContentText>
-          Before proceeding, please check your email for a verification code. If you haven't
+          Before proceeding, please check your email for a verification code. If you havent
           received it, you can request a new one.
         </DialogContentText>
       </DialogContent>
@@ -79,7 +79,7 @@ const EmailVerificationDialog = () => {
           variant="body2"
           onClick={handleResendCode}
         >
-          Didn't get a code?
+          Didnt get a code?
         </Link>
       </DialogActions>
     </Dialog>

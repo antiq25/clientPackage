@@ -1,0 +1,418 @@
+{
+    "place_id": "ChIJYyyEbYJxhlQR1NGauLhTI5Q",
+    "name": "Wakwak Burger",
+    "description": "Beef burgers with standard & Japanese variations, served with fries & soft drinks through a window.",
+    "reviews": 183,
+    "website": null,
+    "owner": {
+        "id": "108584642119459434149",
+        "name": "Wakwak Burger (Owner)",
+        "link": "https://www.google.com/maps/contrib/108584642119459434149"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNubqp2OvLR0fQfrDDhYtRfQj4QybzQgHfIgMBR=w408-h306-k-no",
+    "main_category": "Hamburger restaurant",
+    "categories": [
+        "Hamburger restaurant",
+        "American restaurant",
+        "Fast food restaurant"
+    ],
+    "rating": 4.4,
+    "workday_timing": null,
+    "closed_on": [],
+    "phone": "(778) 998-0285",
+    "address": "Wakwak Burger, 511 Granville St, Vancouver, BC V6C 1X6",
+    "review_keywords": [
+        {
+            "keyword": "price",
+            "count": 22
+        },
+        {
+            "keyword": "teriyaki",
+            "count": 11
+        },
+        {
+            "keyword": "food truck",
+            "count": 10
+        },
+        {
+            "keyword": "cheese burger",
+            "count": 9
+        },
+        {
+            "keyword": "bun",
+            "count": 8
+        },
+        {
+            "keyword": "okonomiyaki",
+            "count": 6
+        },
+        {
+            "keyword": "dollar",
+            "count": 5
+        },
+        {
+            "keyword": "walking",
+            "count": 4
+        },
+        {
+            "keyword": "japanese",
+            "count": 3
+        },
+        {
+            "keyword": "street food",
+            "count": 3
+        }
+    ],
+    "link": "https://www.google.com/maps/place/Wakwak+Burger/data=!4m7!3m6!1s0x548671826d842c63:0x942353b8b89ad1d4!8m2!3d49.284633!4d-123.1152376!16s%2Fg%2F11bwl3x1j1!19sChIJYyyEbYJxhlQR1NGauLhTI5Q?authuser=0&hl=en&rclk=1",
+    "status": null,
+    "price_range": "$",
+    "reviews_per_rating": {
+        "1": 5,
+        "2": 7,
+        "3": 10,
+        "4": 41,
+        "5": 120
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJYyyEbYJxhlQR1NGauLhTI5Q&q=Wakwak+Burger&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.284633,
+        "longitude": -123.1152376
+    },
+    "plus_code": "7VMM+VW Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "Downtown Vancouver",
+        "street": "511 Granville St",
+        "city": "Vancouver",
+        "postal_code": "V6C 1X6",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "10674467594634449364",
+    "data_id": "0x548671826d842c63:0x942353b8b89ad1d4",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Takeout",
+                    "enabled": true
+                },
+                {
+                    "name": "Dine-in",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Dining options",
+            "options": [
+                {
+                    "name": "Lunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Dinner",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosphere",
+            "options": [
+                {
+                    "name": "Casual",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planning",
+            "options": [
+                {
+                    "name": "Accepts reservations",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNubqp2OvLR0fQfrDDhYtRfQj4QybzQgHfIgMBR=w397-h298-k-no"
+        },
+        {
+            "about": "Menu",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNYkUh4erLCEQ_Lvuj3_m4Ee3NJgkFg21AJA1p5=w397-h298-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMImGioau_sZE3IsHWCYI4CC_G1kb-yQs2cRL_W=w224-h398-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMNGMj5AQF2RQeA6KGwsMBurbWNo7EHP2ssxEdR=w224-h397-k-no"
+        },
+        {
+            "about": "Vibe",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPogM-BBEIPbweSPpYkUGbekBts3nloBpCehE6G=w448-h298-k-no"
+        },
+        {
+            "about": "Take-out",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipME1GMrvwlhUIy1oRn-9wiZ-KDpjwCFDP1lWKo=w224-h298-k-no"
+        },
+        {
+            "about": "Hamburger",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPFQ1801t0FNjSw4U-oLBxNiogQYk4LAaQ7hZTS=w224-h302-k-no"
+        },
+        {
+            "about": "Chicken sandwich",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNsIL8Pv-Di_0gseG8ATxa63Uym14HMSo-M8bgZ=w224-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMyW8BEcvKlGV9M4PabBzGQYJxLYS8DtUgLxo3f=w454-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=H-xXBnuimbvOv5CMrOX8NQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=240.32713&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "featured_reviews": [
+        {
+            "review_id": "Food:\nOverall, it was delicious Japanese burgers. They are smaller than the average Western burger. Really delicious, unique, and fresh burgers. Juicy patties with lots of filling, between two soft buns. The corn dog, on the other hand, is a bit disappointing. It's not as tasty as the burgers.\n\nFavourite dish(es): Chicken Cutlet, Teriyaki Burger\n\nService:\nUsually, one person is behind the counter. Great customer service.\n\nOther Comments:\nCheck out the \"Street Food Vancouver\" app for their locations and hours.\n\nRecommend: Definitely a yes!",
+            "reviewer_name": "Andrea",
+            "rating": 5,
+            "review_text": "Food:\nOverall, it was delicious Japanese burgers. They are smaller than the average Western burger. Really delicious, unique, and fresh burgers. Juicy patties with lots of filling, between two soft buns. The corn dog, on the other hand, is a bit disappointing. It's not as tasty as the burgers.\n\nFavourite dish(es): Chicken Cutlet, Teriyaki Burger\n\nService:\nUsually, one person is behind the counter. Great customer service.\n\nOther Comments:\nCheck out the \"Street Food Vancouver\" app for their locations and hours.\n\nRecommend: Definitely a yes!",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-04T00:23:55.410000Z",
+            "response_from_owner_text": "Thank you so much  ",
+            "response_from_owner_ago": "a month ago",
+            "response_from_owner_date": "2023-10-26T23:05:30.790000Z",
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 17,
+            "total_number_of_photos_by_reviewer": 147,
+            "reviewer_url": "https://www.google.com/maps/contrib/102679527531321196797/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVG6tmsoogLBSEF0K0cmldyiiPYqs8d13CIQ331N33GAQ=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMRZqUKnxf4S6N49A0XXmXfHvIWIWL9LLHKYrdh=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPlLngDqc8KQWKPWdPbX8h-vbSXotJ_-6VS2ozO=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOuPKKLbTd294dc-p4nSB1Z1l8062Lrsw2rVu4c=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMNGMj5AQF2RQeA6KGwsMBurbWNo7EHP2ssxEdR=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "My favorite burger in Vancouver. If you're looking for amazing food, amazing service, and great experience then Wakwak is for you. They treat you like royalty, with an amazing smile. My favorite burger is the deluxe Teryaki cheese ... heavenly !!",
+            "reviewer_name": "Adam AC",
+            "rating": 5,
+            "review_text": "My favorite burger in Vancouver. If you're looking for amazing food, amazing service, and great experience then Wakwak is for you. They treat you like royalty, with an amazing smile. My favorite burger is the deluxe Teryaki cheese ... heavenly !!",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-26T21:49:53.001000Z",
+            "response_from_owner_text": "Thank you so much  ",
+            "response_from_owner_ago": "a month ago",
+            "response_from_owner_date": "2023-10-26T23:05:04.457000Z",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 9,
+            "total_number_of_photos_by_reviewer": 16,
+            "reviewer_url": "https://www.google.com/maps/contrib/106681292163252685005/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocImLSxx0_-H762t9LZ4R-qo9CE--SNpWY41wk83Sjag=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPyHAPYFdhkOVzR63wZcdP1Cf1AtzojppMYfMlP=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "The regular burger is great value since it is freshly made and especially appreciated the caramelized onions in it, which help amplify the flavour.",
+            "reviewer_name": "M Tsoi",
+            "rating": 5,
+            "review_text": "The regular burger is great value since it is freshly made and especially appreciated the caramelized onions in it, which help amplify the flavour.",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-12T23:46:48.932000Z",
+            "response_from_owner_text": "Thank you so much  ",
+            "response_from_owner_ago": "a month ago",
+            "response_from_owner_date": "2023-10-26T23:05:57.380000Z",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 12,
+            "total_number_of_photos_by_reviewer": 15,
+            "reviewer_url": "https://www.google.com/maps/contrib/102985277355682468905/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKqQJqCbWsdTQI8VCHiJxJiJ9b2duqLgYaK8teu3agG=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNsIL8Pv-Di_0gseG8ATxa63Uym14HMSo-M8bgZ=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "First time trying Wak Wak Burger after seeing it parked in my neighbourhood for many months. It was delicious! We had the Pork Tonkatsu burger and the Japanese Chicken Cutlet burger. Both were very good and enormous! The pork was bigger than the bun and the sauces were a perfect balance. Generous portion of cabbage made it feel like I got my daily requirement of veggies. Can't wait to try other menu items!",
+            "reviewer_name": "J Fong",
+            "rating": 5,
+            "review_text": "First time trying Wak Wak Burger after seeing it parked in my neighbourhood for many months. It was delicious! We had the Pork Tonkatsu burger and the Japanese Chicken Cutlet burger. Both were very good and enormous! The pork was bigger than the bun and the sauces were a perfect balance. Generous portion of cabbage made it feel like I got my daily requirement of veggies. Can't wait to try other menu items!",
+            "published_at": "2 weeks ago",
+            "published_at_date": "2023-11-16T14:47:51.051000Z",
+            "response_from_owner_text": "Thank you so much.",
+            "response_from_owner_ago": "2 weeks ago",
+            "response_from_owner_date": "2023-11-17T08:30:13.743000Z",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 48,
+            "total_number_of_photos_by_reviewer": 30,
+            "reviewer_url": "https://www.google.com/maps/contrib/101412977671473981109/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVkHlHy1VX-GtNTWD3nyGgIoz5vYbUcXLyN5Sx2OUzlWhs=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Heard about this place on Facebook and just had to check it out. I ordered the regular burger as well as the teriyaki burger. Both were good, definitely worth a try at least once. The staff was also very friendly, and chatty. Will probably go back again to try their other flavors.",
+            "reviewer_name": "Marcus",
+            "rating": 4,
+            "review_text": "Heard about this place on Facebook and just had to check it out. I ordered the regular burger as well as the teriyaki burger. Both were good, definitely worth a try at least once. The staff was also very friendly, and chatty. Will probably go back again to try their other flavors.",
+            "published_at": "a year ago",
+            "published_at_date": "2022-02-02T21:24:00.566000Z",
+            "response_from_owner_text": "Thank you so much  ",
+            "response_from_owner_ago": "a month ago",
+            "response_from_owner_date": "2023-10-26T23:08:59.885000Z",
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 332,
+            "total_number_of_photos_by_reviewer": 3383,
+            "reviewer_url": "https://www.google.com/maps/contrib/112294318885578690048/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVkgXFV4tBPCglqPoRdSKNERVTFgMSS8FeopLth4fUpaNHj=s120-c-rp-mo-ba6-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNUVto9y1JEYxledthQvqd4Kbkqytr_0AKcUumh=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNC1qR5fL6ehmWaGxKeYVdq1VrHVqvvb5zC7JxN=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPfAVhKrtXcy2EgRkHlH5PhzY_1gwZmNhS01ifO=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOOKbsi8rJbwremB6vlOuhuwDSsZpIAU8IH02X3=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPCsLsx9zSrOQmYKlCIpD4tErfYs9chmUJEia7P=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNMpGkL7eyu1R0dL8-STF9Hc1_xppdJbz4s9zJb=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNk6uuG-rC5nHJoI08JsYc8PQeGx-YEjUU0GxR4=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPEB2kF822o_0XzSSAcr033D0v49jDFvyyAAhOY=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Pretty good burger. Fries were good but oily.",
+            "reviewer_name": "Aman S",
+            "rating": 4,
+            "review_text": "Pretty good burger. Fries were good but oily.",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-20T05:39:11.325000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 196,
+            "total_number_of_photos_by_reviewer": 210,
+            "reviewer_url": "https://www.google.com/maps/contrib/101299445191739587075/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUc5RUmYISAtWnABW5WDIDftcxmQ1-F0lCsplSM9-v5_rVd=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPcSNL1czNjmhbQXQ9TojZkQ-2cMWj4_F2j_eP9=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMrlgpb3YH5x3k4pFRVykJVoTL2ckHaXFtK1mcu=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Good burger with Starbucks drink\nI met them in kitsilano food market last summer. Still taste good as usual",
+            "reviewer_name": "Mikey",
+            "rating": 5,
+            "review_text": "Good burger with Starbucks drink\nI met them in kitsilano food market last summer. Still taste good as usual",
+            "published_at": "9 months ago",
+            "published_at_date": "2023-02-22T01:35:31.580000Z",
+            "response_from_owner_text": "Thank you so much. We will be open Kitsilano beach  Summer. Thank you.",
+            "response_from_owner_ago": "9 months ago",
+            "response_from_owner_date": "2023-02-22T01:58:07.966000Z",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 71,
+            "total_number_of_photos_by_reviewer": 814,
+            "reviewer_url": "https://www.google.com/maps/contrib/116916837649292600341/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWBdCNRqUkvVy7uhFzhGsSCMoAsqhr_Teyh2IbaVT0BHy0=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPfN-e4o98a3o8tg2gzbkPujjBq2wwyTm_zxNNI=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipP4YC4v309xgszjzWA4B2G3pgaUv9L0ul44Vi1T=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNg3bQFItrkXt-l6ubK_G5CrpfXB-zlbqGbL8qj=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Sounds and looks very good on their menu, but what you get is basically just a McDonald's burger. We ordered a cheese burger, okonomi burger and teriyaki cheese burger. Okonomi burger had a tiny amount of cabbage and teriyaki burger had a tiny amount of onions. So all in all they all tasted like a regular cheese burger. Not worth.",
+            "reviewer_name": "Tina Liao",
+            "rating": 1,
+            "review_text": "Sounds and looks very good on their menu, but what you get is basically just a McDonald's burger. We ordered a cheese burger, okonomi burger and teriyaki cheese burger. Okonomi burger had a tiny amount of cabbage and teriyaki burger had a tiny amount of onions. So all in all they all tasted like a regular cheese burger. Not worth.",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-02T04:12:57.740000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 5,
+            "reviewer_url": "https://www.google.com/maps/contrib/109089456633437970257/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLvwvFyJzRphOfqgnwiHcI0NEzt1W2jPuQAXmvaMd_V=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

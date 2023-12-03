@@ -13,6 +13,7 @@ import CssBaseline from '@mui/material/CssBaseline';
 import { ThemeProvider } from '@mui/system';
 import { AdapterDateFns } from '@mui/x-date-pickers/AdapterDateFns';
 import { LocalizationProvider } from '@mui/x-date-pickers/LocalizationProvider';
+import  { ApiProvider } from 'src/components/company_card/apiWidget';
 
 import 'src/src2/global.css';
 // Remove if locales are not used
@@ -53,6 +54,7 @@ const CustomApp = (props) => {
       </Head>
       <ReduxProvider store={store}>
         <LocalizationProvider dateAdapter={AdapterDateFns}>
+        <ApiProvider>
           <AuthProvider>
             <AuthConsumer>
               {(auth) => (
@@ -124,6 +126,8 @@ const CustomApp = (props) => {
               )}
             </AuthConsumer>
           </AuthProvider>
+          </ApiProvider>
+
         </LocalizationProvider>
       </ReduxProvider>
     </CacheProvider>

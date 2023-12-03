@@ -9,7 +9,7 @@
         "name": "McDonald's (Owner)",
         "link": "https://www.google.com/maps/contrib/103533491646862462432"
     },
-    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM6-A0R1YjvFkeNUmQ8YKDTG-0dpPkLcIAzmdA4=w426-h240-k-no",
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOGTcbC6CwgQez9Dj9D_LiDlxuRveglOwRPaIEy=w408-h240-k-no-pi-0-ya136.99998-ro-0-fo100",
     "main_category": "Fast food restaurant",
     "categories": [
         "Fast food restaurant",
@@ -72,8 +72,8 @@
     "reviews_per_rating": {
         "1": 135,
         "2": 90,
-        "3": 228,
-        "4": 288,
+        "3": 229,
+        "4": 287,
         "5": 329
     },
     "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJgyy1yKpzhlQRfu6SZXQC9ZM&q=McDonald%27s&authuser=0&hl=en&gl=CA",
@@ -315,7 +315,7 @@
     "images": [
         {
             "about": "All",
-            "link": "https://lh5.googleusercontent.com/p/AF1QipM6-A0R1YjvFkeNUmQ8YKDTG-0dpPkLcIAzmdA4=w529-h298-k-no"
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOGTcbC6CwgQez9Dj9D_LiDlxuRveglOwRPaIEy=w224-h298-k-no-pi-0-ya136.99998-ro-0-fo100"
         },
         {
             "about": "Latest",
@@ -354,25 +354,15 @@
             "link": "https://lh5.googleusercontent.com/p/AF1QipMc2DFxOCfFesDQPg3i83jz-DVP_jcs1Bjc3rud=w224-h298-k-no"
         },
         {
-            "about": "French fries",
-            "link": "https://lh5.googleusercontent.com/p/AF1QipNIw1hyi6RhF9L6ai9pQJ4xdVsykory5A86xBo=w529-h298-k-no"
-        },
-        {
             "about": "By owner",
             "link": "https://lh5.googleusercontent.com/p/AF1QipMpABVFjRa5ymdVffTGFuazBOpqJvbiMHwb5e2R=w529-h298-k-no"
         },
         {
             "about": "Street View & 360deg",
-            "link": "https://lh5.googleusercontent.com/p/AF1QipPmZHV4iNk_AzKi3yd7UbgaUSEchBnxu-PK1QA_=w224-h298-k-no-pi-0-ya87.99999-ro-0-fo100"
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNJFW6SBLXYfFbtBQ_HXAB3W6KomeGjtiQJOxe0=w224-h298-k-no-pi-0-ya117.00001-ro-0-fo100"
         }
     ],
     "hours": [
-        {
-            "day": "Sunday",
-            "times": [
-                "Open 24 hours"
-            ]
-        },
         {
             "day": "Monday",
             "times": [
@@ -405,6 +395,12 @@
         },
         {
             "day": "Saturday",
+            "times": [
+                "Open 24 hours"
+            ]
+        },
+        {
+            "day": "Sunday",
             "times": [
                 "Open 24 hours"
             ]
@@ -476,7 +472,7 @@
             "reviewer_name": "Sam Tavakoli",
             "rating": 1,
             "review_text": "This morning around 7 AM I ordered MacDonald's breakfast through doordash.  I got my regular order which is a two breakfast burrito meal with coffee, a sausage McMuffin, and I decided to add a smoothie.  I got my order, opened the bag and right away there was no smoothie.  I take out the food and proceed to open up my burritos to add salsa inside.  Right away I noticed that the wrap seems soggy, I open it and the eggs and meat inside look wet.  I take a bite and it tastes fine.  Then I take my first sip of coffee and that tastes off.  I'm hungry so I eat my food.....  Then in around a half hour I start to feel light headed and sick to my stomach.  Then 15-20 minutes later I find myself puking and sitting on the toilet for a while.  It's now 8 hours later and my stomach has still been a mess.  No idea what happened, I've had this same breakfast so many times and it's never done this to me, so I guess I'm posting this to say if it looks or tastes off don't eat the food.",
-            "published_at": "3 months ago",
+            "published_at": "4 months ago",
             "published_at_date": "2023-07-31T23:36:56.348000Z",
             "response_from_owner_text": null,
             "response_from_owner_ago": null,
@@ -556,7 +552,7 @@
             "reviewer_name": "King Ma",
             "rating": 4,
             "review_text": "Good service at this location. Online order took fast and quality was not bad. Clean store, and paid parking available on site.",
-            "published_at": "3 months ago",
+            "published_at": "4 months ago",
             "published_at_date": "2023-07-25T18:00:00.305000Z",
             "response_from_owner_text": null,
             "response_from_owner_ago": null,

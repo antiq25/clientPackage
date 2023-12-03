@@ -2,7 +2,7 @@
     "place_id": "ChIJnzROuzt1hlQRvdTyP9WCqn0",
     "name": "McDonald's",
     "description": "Classic, long-running fast-food chain known for its burgers & fries.",
-    "reviews": 383,
+    "reviews": 389,
     "website": "https://www.mcdonalds.com/ca/en-ca/restaurant-locator.html%3Fy_source%3D1_MTQ1MjAwMDQtNzE1LWxvY2F0aW9uLndlYnNpdGU%253D",
     "owner": {
         "id": "106614815623285000707",
@@ -70,11 +70,11 @@
     "status": "Closed  Opens 7 a.m.",
     "price_range": "$",
     "reviews_per_rating": {
-        "1": 76,
+        "1": 77,
         "2": 32,
-        "3": 65,
-        "4": 97,
-        "5": 113
+        "3": 66,
+        "4": 99,
+        "5": 115
     },
     "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJnzROuzt1hlQRvdTyP9WCqn0&q=McDonald%27s&authuser=0&hl=en&gl=CA",
     "coordinates": {
@@ -312,6 +312,10 @@
             "link": "https://lh5.googleusercontent.com/p/AF1QipPNDgzfKT_eiroMd-3y8nIkADxxRsvag9cE5oYG=w224-h298-k-no"
         },
         {
+            "about": "Take-out",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNvfouHjNqN5P1r2Z1fz2oWyUH7hKh6nEoCjetl=w224-h398-k-no"
+        },
+        {
             "about": "Comfort food",
             "link": "https://lh5.googleusercontent.com/p/AF1QipMdX_ajR-yKXhINyHiBU7R5ez5kRtP3NzWkYSpH=w224-h298-k-no"
         },
@@ -438,26 +442,6 @@
             ]
         },
         {
-            "review_id": "This service is usually slower than the other McDonalds. The crew always seems like they are new and mess things up. The cleanliness is below the average. However, considering this restaurant is located in Walmart, it might be extra busy. It is good to have it here for those who want to have a break after shopping.",
-            "reviewer_name": "Ugur Contu",
-            "rating": 4,
-            "review_text": "This service is usually slower than the other McDonalds. The crew always seems like they are new and mess things up. The cleanliness is below the average. However, considering this restaurant is located in Walmart, it might be extra busy. It is good to have it here for those who want to have a break after shopping.",
-            "published_at": "a week ago",
-            "published_at_date": "2023-11-14T01:05:20.301000Z",
-            "response_from_owner_text": null,
-            "response_from_owner_ago": null,
-            "response_from_owner_date": null,
-            "review_likes_count": 0,
-            "total_number_of_reviews_by_reviewer": 213,
-            "total_number_of_photos_by_reviewer": 381,
-            "reviewer_url": "https://www.google.com/maps/contrib/110195556298125987821/reviews?entry=ttu",
-            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXlwqRw7cg-15Xk0KII7RO0K8nhMBHIMubWj-FjgcoCeT8=s120-c-rp-mo-ba5-br100",
-            "is_local_guide": true,
-            "review_translated_text": null,
-            "response_from_owner_translated_text": null,
-            "review_photos": []
-        },
-        {
             "review_id": "Thanks to Megan, an a employee there.\nI was struggling at the kiosk with my account code and she help me through it. She said she worked there and was getting off her shift. She was so nice to me and wanted to help me. I am very grateful that she help me out. I want to give her great review on how she help a customer who was struggling. Thank you again Megan.",
             "reviewer_name": "Daisy D",
             "rating": 5,
@@ -521,6 +505,26 @@
             ]
         },
         {
+            "review_id": "This service is usually slower than the other McDonalds. The crew always seems like they are new and mess things up. The cleanliness is below the average. However, considering this restaurant is located in Walmart, it might be extra busy. It is good to have it here for those who want to have a break after shopping.",
+            "reviewer_name": "Ugur Contu",
+            "rating": 4,
+            "review_text": "This service is usually slower than the other McDonalds. The crew always seems like they are new and mess things up. The cleanliness is below the average. However, considering this restaurant is located in Walmart, it might be extra busy. It is good to have it here for those who want to have a break after shopping.",
+            "published_at": "2 weeks ago",
+            "published_at_date": "2023-11-14T01:05:20.301000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 213,
+            "total_number_of_photos_by_reviewer": 381,
+            "reviewer_url": "https://www.google.com/maps/contrib/110195556298125987821/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXlwqRw7cg-15Xk0KII7RO0K8nhMBHIMubWj-FjgcoCeT8=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
             "review_id": "This is a limited McDonald's that doesn't have most drinks on the mcafe menu. They only have plain coffee and tea. It's a standard McDonald's otherwise. The minion theme banana sugar Kookie was good.",
             "reviewer_name": "Munchica",
             "rating": 3,
@@ -531,8 +535,8 @@
             "response_from_owner_ago": null,
             "response_from_owner_date": null,
             "review_likes_count": 0,
-            "total_number_of_reviews_by_reviewer": 1226,
-            "total_number_of_photos_by_reviewer": 6035,
+            "total_number_of_reviews_by_reviewer": 1232,
+            "total_number_of_photos_by_reviewer": 6063,
             "reviewer_url": "https://www.google.com/maps/contrib/102450501896500439289/reviews?entry=ttu",
             "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWIX6kvQUd-un3nwIY9wH3bboAgSFQUZ0_a5gy1QqbRy7M9=s120-c-rp-mo-ba7-br100",
             "is_local_guide": true,

@@ -2,7 +2,7 @@
     "place_id": "ChIJ0XwxmMt3hlQRvFj-e0YbHYw",
     "name": "McDonald's",
     "description": "Classic, long-running fast-food chain known for its burgers & fries.",
-    "reviews": 1906,
+    "reviews": 1911,
     "website": "https://www.mcdonalds.com/ca/en-ca/restaurant-locator.html%3Fy_source%3D1_MTQ1MTkyNDQtNzE1LWxvY2F0aW9uLndlYnNpdGU%253D",
     "owner": {
         "id": "113625459853182356166",
@@ -42,12 +42,12 @@
             "count": 17
         },
         {
-            "keyword": "happy meal",
-            "count": 17
-        },
-        {
             "keyword": "egg mcmuffin",
             "count": 15
+        },
+        {
+            "keyword": "straws",
+            "count": 13
         },
         {
             "keyword": "training",
@@ -70,11 +70,11 @@
     "status": "Closed  Opens 4 a.m.",
     "price_range": "$",
     "reviews_per_rating": {
-        "1": 436,
-        "2": 189,
-        "3": 402,
-        "4": 408,
-        "5": 471
+        "1": 437,
+        "2": 188,
+        "3": 404,
+        "4": 409,
+        "5": 473
     },
     "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ0XwxmMt3hlQRvFj-e0YbHYw&q=McDonald%27s&authuser=0&hl=en&gl=CA",
     "coordinates": {
@@ -104,7 +104,7 @@
             "source": "mcdonalds.ca"
         },
         {
-            "link": "https://www.fantuanorder.com/store/mcdonald'snew-west/ca-14891?rwg_token=AOZt1jV3lAw77nK36M0GGXHhXzGV6KY4dtWH1XexWD_clKVTdQjzXUFxQNBBjr944CmLna8VFwahMi7NLwEZpFd0Jo-tFzwBXQ%3D%3D",
+            "link": "https://www.fantuanorder.com/store/mcdonald'snew-west/ca-14891?rwg_token=AOZt1jVhn9fIh0SzLoYtBm46rlhUsVgN1_vN24zTj6KU1Ri1fOvDKyKHSLl-BkDK9uTGzSYcr5ccr3uhgisGbVGThGgibAchJw%3D%3D",
             "source": "fantuanorder.com"
         },
         {
@@ -358,12 +358,12 @@
             "link": "https://lh5.googleusercontent.com/p/AF1QipOv0pFYXu3H0noIQniZgjev7-4I_RTVGccKYKoh=w224-h298-k-no"
         },
         {
-            "about": "Comfort food",
-            "link": "https://lh5.googleusercontent.com/p/AF1QipOfMcpBhWFD5Wf5D3PxbZTmGXOPU1gFJ-zEL0td=w224-h398-k-no"
+            "about": "Hamburger",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipO9Quo7l5E9eLwK41gupHQpwW_7FOK_Qxv5xHlg=w397-h298-k-no"
         },
         {
-            "about": "Hamburger",
-            "link": "https://lh5.googleusercontent.com/p/AF1QipMUEGQfWMTHzM_apXQtxGc0f7saGXkTGveM7Gx6=w224-h397-k-no"
+            "about": "Comfort food",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOfMcpBhWFD5Wf5D3PxbZTmGXOPU1gFJ-zEL0td=w224-h398-k-no"
         },
         {
             "about": "By owner",
@@ -424,7 +424,7 @@
             "reviewer_name": "Sonia kaur",
             "rating": 2,
             "review_text": "Ive been to this location a few times. I feel like it's a typical fast-food place. Long lines, short staffed, and not clean. It takes forever to get through the drive through, so I usually go in and order. The staff seems pleasant, but management has to get enough people working to speed things up!",
-            "published_at": "6 months ago",
+            "published_at": "7 months ago",
             "published_at_date": "2023-04-29T06:09:28.249000Z",
             "response_from_owner_text": null,
             "response_from_owner_ago": null,
@@ -455,7 +455,7 @@
             "response_from_owner_date": null,
             "review_likes_count": 3,
             "total_number_of_reviews_by_reviewer": 91,
-            "total_number_of_photos_by_reviewer": 573,
+            "total_number_of_photos_by_reviewer": 575,
             "reviewer_url": "https://www.google.com/maps/contrib/104940940997508263327/reviews?entry=ttu",
             "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVDwihlypD_Hde-MxQLpATosVtQAQWlFToUtqyR7Iq-UCk=s120-c-rp-mo-ba5-br100",
             "is_local_guide": true,
@@ -481,7 +481,7 @@
             "response_from_owner_ago": null,
             "response_from_owner_date": null,
             "review_likes_count": 1,
-            "total_number_of_reviews_by_reviewer": 57,
+            "total_number_of_reviews_by_reviewer": 59,
             "total_number_of_photos_by_reviewer": 8,
             "reviewer_url": "https://www.google.com/maps/contrib/105522168059317145836/reviews?entry=ttu",
             "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVXjpQAuZq1nJojjr4PxXHetvkOY8rkJPxj57ognIGEst4=s120-c-rp-mo-ba3-br100",
@@ -499,7 +499,7 @@
             "reviewer_name": "H",
             "rating": 2,
             "review_text": "3/4 full milkshake and ham on my egg only McMuffin. You guys can't be proud of this come on. The people were friendly at least",
-            "published_at": "3 days ago",
+            "published_at": "a week ago",
             "published_at_date": "2023-11-18T11:57:26.619000Z",
             "response_from_owner_text": null,
             "response_from_owner_ago": null,
@@ -562,31 +562,11 @@
             ]
         },
         {
-            "review_id": "I ordered a 6 piece chicken meal and a big Mac meal +  drinks. When I got to my place, everything was there except the chicken nuggets.  I called them to let them of their mistake, as they don't check to make sure your order is all inside. I went back to pick up the chicken nuggets,  but it was an inconvenience,  a second trip, and I had to wait for it. It took almost 1/2 hour for them to give me my nuggets. When I got back home, the rest of my food was cold. Advised: always check your order before leaving the drive thru.",
-            "reviewer_name": "J Barbara Lago",
-            "rating": 3,
-            "review_text": "I ordered a 6 piece chicken meal and a big Mac meal +  drinks. When I got to my place, everything was there except the chicken nuggets.  I called them to let them of their mistake, as they don't check to make sure your order is all inside. I went back to pick up the chicken nuggets,  but it was an inconvenience,  a second trip, and I had to wait for it. It took almost 1/2 hour for them to give me my nuggets. When I got back home, the rest of my food was cold. Advised: always check your order before leaving the drive thru.",
-            "published_at": "2 months ago",
-            "published_at_date": "2023-09-07T13:29:37.920000Z",
-            "response_from_owner_text": null,
-            "response_from_owner_ago": null,
-            "response_from_owner_date": null,
-            "review_likes_count": 0,
-            "total_number_of_reviews_by_reviewer": 16,
-            "total_number_of_photos_by_reviewer": 0,
-            "reviewer_url": "https://www.google.com/maps/contrib/105573208415195024648/reviews?entry=ttu",
-            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVyfgY6vHZhSLSDNJ1nwqv2lTPERsmCTSJKBtwQWU8n46HS=s120-c-rp-mo-br100",
-            "is_local_guide": false,
-            "review_translated_text": null,
-            "response_from_owner_translated_text": null,
-            "review_photos": []
-        },
-        {
             "review_id": "1st McDonald's in Burnaby B.C. that made my brother and myself wish we tried this location earlier. The food was not as greasy like back at home, and had flavor. Definitely going back to this location when I'm down there again.",
             "reviewer_name": "Jennifer Littke",
             "rating": 5,
             "review_text": "1st McDonald's in Burnaby B.C. that made my brother and myself wish we tried this location earlier. The food was not as greasy like back at home, and had flavor. Definitely going back to this location when I'm down there again.",
-            "published_at": "2 months ago",
+            "published_at": "3 months ago",
             "published_at_date": "2023-08-26T11:27:42.668000Z",
             "response_from_owner_text": null,
             "response_from_owner_ago": null,
@@ -597,6 +577,26 @@
             "reviewer_url": "https://www.google.com/maps/contrib/117094407710098378983/reviews?entry=ttu",
             "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVNadEvzhphTsmZ0rLAuSn7rNDKX313MTDc3RJsQiwE6Q=s120-c-rp-mo-ba5-br100",
             "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "If the food ordering kiosks actually works, this chain will get 1 more star. The fact I paid no receipt came out just caused so much confusion when I attempted to pick up my order --- why can't management ensure there's enough paper in these machines?!?!?!",
+            "reviewer_name": "Brandon Pillar",
+            "rating": 3,
+            "review_text": "If the food ordering kiosks actually works, this chain will get 1 more star. The fact I paid no receipt came out just caused so much confusion when I attempted to pick up my order --- why can't management ensure there's enough paper in these machines?!?!?!",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-28T14:53:54.255000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 5,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/106143618945026928375/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKBtVmk4F6bt87R1Ksy0LuOkvKlbYKO-tTMW9rf-PE2=s120-c-rp-mo-br100",
+            "is_local_guide": false,
             "review_translated_text": null,
             "response_from_owner_translated_text": null,
             "review_photos": []

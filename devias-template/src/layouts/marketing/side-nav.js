@@ -9,7 +9,7 @@ import { RouterLink } from 'src/components/router-link';
 import { usePathname } from 'src/hooks/use-pathname';
 import { paths } from 'src/paths';
 
-import { SideNavItem } from './side-nav-item';
+import { SideNavItem } from 'src/layouts/dashboard/vertical-layout/side-nav-item';
 
 const items = [
   {

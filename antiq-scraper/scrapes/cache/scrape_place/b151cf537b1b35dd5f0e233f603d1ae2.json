@@ -2,7 +2,7 @@
     "place_id": "ChIJ1fw-3jt4hlQRmhLBJqej3-0",
     "name": "McDonald's",
     "description": "Classic, long-running fast-food chain known for its burgers & fries.",
-    "reviews": 1595,
+    "reviews": 1597,
     "website": "https://www.mcdonalds.com/ca/en-ca/restaurant-locator.html%3Fy_source%3D1_MTQ1MTkxMzQtNzE1LWxvY2F0aW9uLndlYnNpdGU%253D",
     "owner": {
         "id": "118234636881352427476",
@@ -27,15 +27,11 @@
     "review_keywords": [
         {
             "keyword": "drive through",
-            "count": 81
+            "count": 82
         },
         {
             "keyword": "coffee",
             "count": 38
-        },
-        {
-            "keyword": "big mac",
-            "count": 13
         },
         {
             "keyword": "parking ticket",
@@ -62,19 +58,23 @@
             "count": 6
         },
         {
+            "keyword": "sugar",
+            "count": 5
+        },
+        {
             "keyword": "construction",
             "count": 5
         }
     ],
     "link": "https://www.google.com/maps/place/McDonald%27s/data=!4m7!3m6!1s0x5486783bde3efcd5:0xeddfa3a726c1129a!8m2!3d49.2501313!4d-122.892317!16s%2Fg%2F11b6g9h77n!19sChIJ1fw-3jt4hlQRmhLBJqej3-0?authuser=0&hl=en&rclk=1",
-    "status": "Closed  Opens 6 a.m.",
+    "status": "Closes soon  2 a.m.  Reopens 6 a.m.",
     "price_range": "$",
     "reviews_per_rating": {
-        "1": 261,
-        "2": 125,
-        "3": 327,
+        "1": 262,
+        "2": 124,
+        "3": 328,
         "4": 417,
-        "5": 465
+        "5": 466
     },
     "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ1fw-3jt4hlQRmhLBJqej3-0&q=McDonald%27s&authuser=0&hl=en&gl=CA",
     "coordinates": {
@@ -104,7 +104,7 @@
             "source": "mcdonalds.ca"
         },
         {
-            "link": "https://www.fantuanorder.com/store/mcdonalds/ca-12776?rwg_token=AOZt1jUl9fPJKuQ50hxNPyotCDyLBlWVhY5DGXtKfnQ8HOrsux2cFFzPkTInzd6Zb50klCntOMXxRAx9YDsXEAOGu453hKqpi7KCBB7gFPFx4u7sR0H7Ndc%3D",
+            "link": "https://www.fantuanorder.com/store/mcdonalds/ca-12776?rwg_token=AOZt1jXlBgEHEYgeks-mGUlgyWu1nVswGRmIOadAGxAUcUImg5AcbVPVEtTMYIu8TdteJyM2jNiOTIGY2Jt7YEruDH42zInOy9yjtrqF6HJvUcqxFc_Jrzk%3D",
             "source": "fantuanorder.com"
         },
         {
@@ -347,7 +347,7 @@
         },
         {
             "about": "Hamburger",
-            "link": "https://lh5.googleusercontent.com/p/AF1QipOEbuSw1OwmqwESK2s8EjCE0aA0IpBqU4SSAjtQ=w224-h298-k-no"
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNmX-ODykUUMbAkL0NxbgjfveerLd8b9RT0k_Lg=w397-h298-k-no"
         },
         {
             "about": "French fries",
@@ -363,6 +363,12 @@
         }
     ],
     "hours": [
+        {
+            "day": "Sunday",
+            "times": [
+                "6 a.m.-2 a.m."
+            ]
+        },
         {
             "day": "Monday",
             "times": [
@@ -398,12 +404,6 @@
             "times": [
                 "6 a.m.-2 a.m."
             ]
-        },
-        {
-            "day": "Sunday",
-            "times": [
-                "6 a.m.-2 a.m."
-            ]
         }
     ],
     "featured_reviews": [
@@ -418,8 +418,8 @@
             "response_from_owner_ago": null,
             "response_from_owner_date": null,
             "review_likes_count": 0,
-            "total_number_of_reviews_by_reviewer": 45,
-            "total_number_of_photos_by_reviewer": 402,
+            "total_number_of_reviews_by_reviewer": 47,
+            "total_number_of_photos_by_reviewer": 416,
             "reviewer_url": "https://www.google.com/maps/contrib/111244999612017166338/reviews?entry=ttu",
             "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUavKUVdOGsAKhvV420ebKXjhLhJqSRogdoOOCzP0JYQH8U=s120-c-rp-mo-ba4-br100",
             "is_local_guide": true,
@@ -443,8 +443,8 @@
             "response_from_owner_ago": null,
             "response_from_owner_date": null,
             "review_likes_count": 1,
-            "total_number_of_reviews_by_reviewer": 180,
-            "total_number_of_photos_by_reviewer": 724,
+            "total_number_of_reviews_by_reviewer": 184,
+            "total_number_of_photos_by_reviewer": 751,
             "reviewer_url": "https://www.google.com/maps/contrib/101439793156400874516/reviews?entry=ttu",
             "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVFvVYpcq7AgD62205ujmmWBSysQ3OjeLP3xHpM3MWvopls=s120-c-rp-mo-ba5-br100",
             "is_local_guide": true,
@@ -470,7 +470,7 @@
             "response_from_owner_date": null,
             "review_likes_count": 1,
             "total_number_of_reviews_by_reviewer": 194,
-            "total_number_of_photos_by_reviewer": 4175,
+            "total_number_of_photos_by_reviewer": 4176,
             "reviewer_url": "https://www.google.com/maps/contrib/100401043911131936448/reviews?entry=ttu",
             "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWwiUpZcUddqVwgqcFaCr4JC2Q7iP2HYEWEKAjP6j5bpwFw=s120-c-rp-mo-ba6-br100",
             "is_local_guide": true,
@@ -532,16 +532,36 @@
             "reviewer_name": "Ty K",
             "rating": 5,
             "review_text": "Exceptional service and clean modern interior. I rarely go to McDonald's but I was very impressed with it. They treated my daughter like the princess she is with a crown, crayons and coloring sheets. Employees had a smile and provided service which is rare these days. Good job.",
-            "published_at": "2 months ago",
+            "published_at": "3 months ago",
             "published_at_date": "2023-08-28T01:11:53.882000Z",
             "response_from_owner_text": null,
             "response_from_owner_ago": null,
             "response_from_owner_date": null,
             "review_likes_count": 0,
-            "total_number_of_reviews_by_reviewer": 60,
+            "total_number_of_reviews_by_reviewer": 61,
             "total_number_of_photos_by_reviewer": 34,
             "reviewer_url": "https://www.google.com/maps/contrib/112370791138192417839/reviews?entry=ttu",
             "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocI5fLiERN77MJ7SwCwoar1FPG9_KkRCe88XAv8bFX6_=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "I go here every morning to get a drink before work. 2 out of the 5 days I go the person running drive thru messes up my drink. It's like he can't realize that I don't take sugar and continuously puts sugar in my tea. It's not difficult to make a drink, and I only order one thing so I can't see how hard it is to mess up.",
+            "reviewer_name": "Jann . P",
+            "rating": 1,
+            "review_text": "I go here every morning to get a drink before work. 2 out of the 5 days I go the person running drive thru messes up my drink. It's like he can't realize that I don't take sugar and continuously puts sugar in my tea. It's not difficult to make a drink, and I only order one thing so I can't see how hard it is to mess up.",
+            "published_at": "6 days ago",
+            "published_at_date": "2023-11-24T14:36:39.257000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 6,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/102363175280457022902/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVCi6QseLUquNIoiDcu5YbZGwco_N3Dja-polLc7RRTpzM=s120-c-rp-mo-br100",
             "is_local_guide": false,
             "review_translated_text": null,
             "response_from_owner_translated_text": null,
@@ -552,7 +572,7 @@
             "reviewer_name": "Austin Percival",
             "rating": 1,
             "review_text": "Third time going here & not getting what I order.  Ordered a double burger through mobile order just to make it home & not get what I ordered",
-            "published_at": "5 months ago",
+            "published_at": "6 months ago",
             "published_at_date": "2023-05-27T21:46:48.241000Z",
             "response_from_owner_text": null,
             "response_from_owner_ago": null,
@@ -569,26 +589,6 @@
                 "https://lh5.googleusercontent.com/p/AF1QipP5yqUxeBDJwhcxCGO88ByH-ZtRylJgHDyzk99M=w150-h150-k-no-p",
                 "https://lh5.googleusercontent.com/p/AF1QipPB8xtK2_NlDVgfTIzhBg6jLzyfEFQzzKhdC0u3=w150-h150-k-no-p"
             ]
-        },
-        {
-            "review_id": "Fast & Friendly staff! Really liked that they used my name and not just my takeout/ pick-up number. Best mcdonalds in the neighborhood!\n\nFries are always hot and salty!!",
-            "reviewer_name": "Torey Pleasekitty",
-            "rating": 5,
-            "review_text": "Fast & Friendly staff! Really liked that they used my name and not just my takeout/ pick-up number. Best mcdonalds in the neighborhood!\n\nFries are always hot and salty!!",
-            "published_at": "2 weeks ago",
-            "published_at_date": "2023-11-04T05:55:56.619000Z",
-            "response_from_owner_text": null,
-            "response_from_owner_ago": null,
-            "response_from_owner_date": null,
-            "review_likes_count": 0,
-            "total_number_of_reviews_by_reviewer": 26,
-            "total_number_of_photos_by_reviewer": 4,
-            "reviewer_url": "https://www.google.com/maps/contrib/106679853818206163486/reviews?entry=ttu",
-            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVTpekxkLmlLIpI_R5OOIJmihPISiFJZXC7OyQoLaUiDw=s120-c-rp-mo-ba2-br100",
-            "is_local_guide": true,
-            "review_translated_text": null,
-            "response_from_owner_translated_text": null,
-            "review_photos": []
         }
     ],
     "is_spending_on_ads": false

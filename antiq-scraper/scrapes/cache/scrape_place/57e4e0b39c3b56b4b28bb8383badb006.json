@@ -2,7 +2,7 @@
     "place_id": "ChIJ-3AGS4twhlQRH1-n4FAjGaU",
     "name": "McDonald's",
     "description": "Classic, long-running fast-food chain known for its burgers & fries.",
-    "reviews": 1130,
+    "reviews": 1131,
     "website": "https://www.mcdonalds.com/ca/en-ca/restaurant-locator.html%3Fy_source%3D1_MTQ1MTk0MTEtNzE1LWxvY2F0aW9uLndlYnNpdGU%253D",
     "owner": {
         "id": "112216881777373861813",
@@ -67,14 +67,14 @@
         }
     ],
     "link": "https://www.google.com/maps/place/McDonald%27s/data=!4m7!3m6!1s0x5486708b4b0670fb:0xa5192350e0a75f1f!8m2!3d49.3068!4d-123.0365613!16s%2Fg%2F1tjy15jr!19sChIJ-3AGS4twhlQRH1-n4FAjGaU?authuser=0&hl=en&rclk=1",
-    "status": "Open  Closes 2 a.m.",
+    "status": "Closes soon  2 a.m.  Reopens 6 a.m.",
     "price_range": "$",
     "reviews_per_rating": {
         "1": 175,
         "2": 89,
         "3": 248,
         "4": 312,
-        "5": 306
+        "5": 307
     },
     "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ-3AGS4twhlQRH1-n4FAjGaU&q=McDonald%27s&authuser=0&hl=en&gl=CA",
     "coordinates": {
@@ -318,12 +318,16 @@
             "link": "https://lh5.googleusercontent.com/p/AF1QipOzRVkmEDbEmI2lw0kTMVsUiA48e0ax-NFIoCSO=w397-h298-k-no"
         },
         {
-            "about": "Menu",
-            "link": "https://lh5.googleusercontent.com/p/AF1QipNwyJ-AMeEYXSnd-g1_okz09TIrFyPtaqtSdzct=w369-h298-k-no"
+            "about": "Latest",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOfvrlf5LH6DKBTurfAJG5Yb92u0CP-eykOeVai=w224-h298-k-no"
         },
         {
             "about": "Videos",
             "link": "https://lh5.googleusercontent.com/p/AF1QipNs9Tl2nQUfSZDa4SDhqkcMdQrkAa3uMwqmHDgy=w529-h298-k-no"
+        },
+        {
+            "about": "Menu",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNwyJ-AMeEYXSnd-g1_okz09TIrFyPtaqtSdzct=w369-h298-k-no"
         },
         {
             "about": "Food & drink",
@@ -332,6 +336,10 @@
         {
             "about": "Vibe",
             "link": "https://lh5.googleusercontent.com/p/AF1QipP_2z-hqmpkMxU8qZIGFvZ1g6FAxzdAYEaZMO-7=w529-h298-k-no"
+        },
+        {
+            "about": "Take-out",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipM3m4jyekV01DnBg_MkWpBraqJbSVF4lsZLVrGX=w224-h298-k-no"
         },
         {
             "about": "Comfort food",
@@ -400,7 +408,7 @@
             "reviewer_name": "Shin Inagaki",
             "rating": 3,
             "review_text": "I saw a seal whole time while I was there but store manager didn't do anything about it.  He wasn't even eating... (no tray!)\nBut burgers were nice and hot!",
-            "published_at": "2 months ago",
+            "published_at": "3 months ago",
             "published_at_date": "2023-08-29T17:03:51.560000Z",
             "response_from_owner_text": null,
             "response_from_owner_ago": null,
@@ -433,26 +441,6 @@
             "reviewer_url": "https://www.google.com/maps/contrib/113155425182336191913/reviews?entry=ttu",
             "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWVAFHqOM9ktRzvcWmeRzsk36n115hBynknOM48TG7EEw=s120-c-rp-mo-br100",
             "is_local_guide": false,
-            "review_translated_text": null,
-            "response_from_owner_translated_text": null,
-            "review_photos": []
-        },
-        {
-            "review_id": "This place just made me quick McDonald's for good. Couldn't even get my drink right after tell him twice through the speaker and once to his face. Literally come here every weekday morning for breakfast. Since new people started here I get overcharged or they forget my extra hashbrown. Service here went from  to 0. Wish I could give 0 stars or negative stars would be better.",
-            "reviewer_name": "Kevin K",
-            "rating": 1,
-            "review_text": "This place just made me quick McDonald's for good. Couldn't even get my drink right after tell him twice through the speaker and once to his face. Literally come here every weekday morning for breakfast. Since new people started here I get overcharged or they forget my extra hashbrown. Service here went from  to 0. Wish I could give 0 stars or negative stars would be better.",
-            "published_at": "2 weeks ago",
-            "published_at_date": "2023-11-08T12:55:08.640000Z",
-            "response_from_owner_text": null,
-            "response_from_owner_ago": null,
-            "response_from_owner_date": null,
-            "review_likes_count": 0,
-            "total_number_of_reviews_by_reviewer": 41,
-            "total_number_of_photos_by_reviewer": 11,
-            "reviewer_url": "https://www.google.com/maps/contrib/107434579845327535808/reviews?entry=ttu",
-            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVvN_1yYzo2Ryu6a687JT8j583dXht91XLSXhVrVqKcWwE=s120-c-rp-mo-ba4-br100",
-            "is_local_guide": true,
             "review_translated_text": null,
             "response_from_owner_translated_text": null,
             "review_photos": []
@@ -544,16 +532,36 @@
             "reviewer_name": "David Pride",
             "rating": 5,
             "review_text": "Typical McDonald's not overly busy staff sometimes makes counter orders wait best to order by app and have delivered to avoid the waits with exception of drive thru.",
-            "published_at": "2 weeks ago",
+            "published_at": "3 weeks ago",
             "published_at_date": "2023-11-06T07:00:24.853000Z",
             "response_from_owner_text": null,
             "response_from_owner_ago": null,
             "response_from_owner_date": null,
             "review_likes_count": 0,
-            "total_number_of_reviews_by_reviewer": 74,
+            "total_number_of_reviews_by_reviewer": 75,
             "total_number_of_photos_by_reviewer": 2,
             "reviewer_url": "https://www.google.com/maps/contrib/108109757077779368081/reviews?entry=ttu",
             "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUoPwlMK65niopEXuwJPHZGfMp1VIpafGfYA6ZlxGVgj30=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Don't get me started on this one: coffee was served tasteless and not hot enough to be called \"hot drinks, the handicap door openers didn't work on 5 attempts and the place is unorganized and dirty especially the windows. It doesn't stop there, I was served carrot muffin although I had ordered cranbe Orange muffin. Don't go there, instead go to the one on Marine Drive at Pemberton. You'd be happy you did!",
+            "reviewer_name": "Tazo",
+            "rating": 1,
+            "review_text": "Don't get me started on this one: coffee was served tasteless and not hot enough to be called \"hot drinks, the handicap door openers didn't work on 5 attempts and the place is unorganized and dirty especially the windows. It doesn't stop there, I was served carrot muffin although I had ordered cranbe Orange muffin. Don't go there, instead go to the one on Marine Drive at Pemberton. You'd be happy you did!",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-16T22:56:43.391000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 58,
+            "total_number_of_photos_by_reviewer": 2,
+            "reviewer_url": "https://www.google.com/maps/contrib/117698812371871989250/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXhBflVacYz1qm7OIW9RBtfHqQw1XrTnzJU9xs4Jiw3MBQ=s120-c-rp-mo-ba3-br100",
             "is_local_guide": true,
             "review_translated_text": null,
             "response_from_owner_translated_text": null,

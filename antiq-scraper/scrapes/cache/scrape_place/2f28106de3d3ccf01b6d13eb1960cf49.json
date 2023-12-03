@@ -46,11 +46,11 @@
             "count": 6
         },
         {
-            "keyword": "parking",
+            "keyword": "morning",
             "count": 6
         },
         {
-            "keyword": "morning",
+            "keyword": "parking",
             "count": 6
         },
         {
@@ -67,7 +67,7 @@
         }
     ],
     "link": "https://www.google.com/maps/place/McDonald%27s/data=!4m7!3m6!1s0x548673c79e186d6d:0x6c311697f65c6bda!8m2!3d49.2633885!4d-123.1379777!16s%2Fg%2F1tmk85qc!19sChIJbW0YnsdzhlQR2mtc9pcWMWw?authuser=0&hl=en&rclk=1",
-    "status": "Open  Closes 1 a.m.",
+    "status": "Closed  Opens 6 a.m.",
     "price_range": "$",
     "reviews_per_rating": {
         "1": 99,
@@ -324,12 +324,6 @@
     ],
     "hours": [
         {
-            "day": "Sunday",
-            "times": [
-                "6 a.m.-1 a.m."
-            ]
-        },
-        {
             "day": "Monday",
             "times": [
                 "6 a.m.-1 a.m."
@@ -361,6 +355,12 @@
         },
         {
             "day": "Saturday",
+            "times": [
+                "6 a.m.-1 a.m."
+            ]
+        },
+        {
+            "day": "Sunday",
             "times": [
                 "6 a.m.-1 a.m."
             ]
@@ -415,13 +415,13 @@
             "reviewer_name": "Fortino V",
             "rating": 5,
             "review_text": "They poured a very special cup of espresso in hope that it will help my mother (in hospital with kidney failure).  I'm most grateful to the young lady who looked to be possibly from Philippines and the Asian young man (8:20 am on 3 Nov 2023).",
-            "published_at": "2 weeks ago",
+            "published_at": "3 weeks ago",
             "published_at_date": "2023-11-05T04:49:30.891000Z",
             "response_from_owner_text": null,
             "response_from_owner_ago": null,
             "response_from_owner_date": null,
             "review_likes_count": 0,
-            "total_number_of_reviews_by_reviewer": 218,
+            "total_number_of_reviews_by_reviewer": 220,
             "total_number_of_photos_by_reviewer": 16,
             "reviewer_url": "https://www.google.com/maps/contrib/108771945554670496034/reviews?entry=ttu",
             "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocL_uCCOY-RyHUJjjyT3j3G3Thz1hbyulmRCwP2C-Wua=s120-c-rp-mo-br100",
@@ -431,20 +431,20 @@
             "review_photos": []
         },
         {
-            "review_id": "Asked for a ice tea without sugar and light ice, largest size available. Instead I got a sweet medium size ice tea with tons of ice. I will not be returning to this location any time soon!",
-            "reviewer_name": "Pablo Mercado",
+            "review_id": "I bought a order from this location on November 21st around 7 pm and manager act me so rude and almost throw me the food. Also the employee works as a cashier was also behaving like she does not love what she does, i will never come this location again.",
+            "reviewer_name": "Kutay Kurt",
             "rating": 1,
-            "review_text": "Asked for a ice tea without sugar and light ice, largest size available. Instead I got a sweet medium size ice tea with tons of ice. I will not be returning to this location any time soon!",
-            "published_at": "4 months ago",
-            "published_at_date": "2023-07-11T01:51:17.995000Z",
+            "review_text": "I bought a order from this location on November 21st around 7 pm and manager act me so rude and almost throw me the food. Also the employee works as a cashier was also behaving like she does not love what she does, i will never come this location again.",
+            "published_at": "a week ago",
+            "published_at_date": "2023-11-22T19:50:44.663000Z",
             "response_from_owner_text": null,
             "response_from_owner_ago": null,
             "response_from_owner_date": null,
             "review_likes_count": 0,
-            "total_number_of_reviews_by_reviewer": 10,
-            "total_number_of_photos_by_reviewer": 1,
-            "reviewer_url": "https://www.google.com/maps/contrib/103510188972363904384/reviews?entry=ttu",
-            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUt53c5fqOWaKCfsCIZbRHciJbFeQZaQwpbqH2HAp_bzaI=s120-c-rp-mo-br100",
+            "total_number_of_reviews_by_reviewer": 7,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/114875399785862545293/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWGM53ODYmXLUCesKwZJxLxLX_gx_mg-4HbcXHvuyWvmg4=s120-c-rp-mo-br100",
             "is_local_guide": false,
             "review_translated_text": null,
             "response_from_owner_translated_text": null,
@@ -455,7 +455,7 @@
             "reviewer_name": "Igor Sirbu",
             "rating": 1,
             "review_text": "Myrna H works here as a manager. She has zero customer service experience and uses her ignorance for excuses... this work is not for her ",
-            "published_at": "a week ago",
+            "published_at": "2 weeks ago",
             "published_at_date": "2023-11-17T06:14:19.469000Z",
             "response_from_owner_text": null,
             "response_from_owner_ago": null,

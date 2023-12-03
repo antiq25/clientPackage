@@ -1,0 +1,622 @@
+{
+    "place_id": "ChIJAeB5yelzhlQREfRxlDLOiw4",
+    "name": "ALPHABET CITY",
+    "description": null,
+    "reviews": 244,
+    "website": "https://www.alphabetcityyvr.com/",
+    "owner": {
+        "id": "109429222890359948588",
+        "name": "ALPHABET CITY (Owner)",
+        "link": "https://www.google.com/maps/contrib/109429222890359948588"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOg8GXpkbP-ccs8v_4PyZU7hm6mNzaWTLoglQvy=w408-h306-k-no",
+    "main_category": "Restaurant",
+    "categories": [
+        "Restaurant",
+        "Bar",
+        "Beer hall",
+        "Cocktail bar",
+        "Hamburger restaurant",
+        "Lunch restaurant",
+        "Mexican restaurant",
+        "Pub",
+        "Taco restaurant"
+    ],
+    "rating": 4.2,
+    "workday_timing": "3-11 p.m.",
+    "closed_on": [
+        "Monday"
+    ],
+    "phone": "(604) 423-3082",
+    "address": "ALPHABET CITY, 4242 Main St, Vancouver, BC V5V 3P9",
+    "review_keywords": [
+        {
+            "keyword": "tacos",
+            "count": 26
+        },
+        {
+            "keyword": "drinks",
+            "count": 20
+        },
+        {
+            "keyword": "bar",
+            "count": 20
+        },
+        {
+            "keyword": "atmosphere",
+            "count": 14
+        },
+        {
+            "keyword": "chicken sandwich",
+            "count": 12
+        },
+        {
+            "keyword": "happy hour",
+            "count": 11
+        },
+        {
+            "keyword": "servers",
+            "count": 11
+        },
+        {
+            "keyword": "game",
+            "count": 8
+        },
+        {
+            "keyword": "margaritas",
+            "count": 6
+        },
+        {
+            "keyword": "craft beer",
+            "count": 5
+        }
+    ],
+    "link": "https://www.google.com/maps/place/ALPHABET+CITY/data=!4m7!3m6!1s0x548673e9c979e001:0xe8bce329471f411!8m2!3d49.2471335!4d-123.1009159!16s%2Fg%2F11fq83x2kj!19sChIJAeB5yelzhlQREfRxlDLOiw4?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 3 p.m.",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 26,
+        "2": 6,
+        "3": 15,
+        "4": 42,
+        "5": 155
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJAeB5yelzhlQREfRxlDLOiw4&q=ALPHABET+CITY&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.2471335,
+        "longitude": -123.10091589999999
+    },
+    "plus_code": "6VWX+VJ Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "East Vancouver",
+        "street": "4242 Main St",
+        "city": "Vancouver",
+        "postal_code": "V5V 3P9",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "1048158054927954961",
+    "data_id": "0x548673e9c979e001:0xe8bce329471f411",
+    "menu": {
+        "link": "https://www.bingotaco.ca/menu",
+        "source": "bingotaco.ca"
+    },
+    "reservations": [
+        {
+            "link": "https://www.bingotaco.ca/reservation",
+            "source": "bingotaco.ca"
+        }
+    ],
+    "order_online_links": [
+        {
+            "link": "https://www.skipthedishes.com/alphabet-city-main-st?serviceType=delivery&utm_source=google&utm_medium=organic&utm_campaign=gpav2",
+            "source": "skipthedishes.com"
+        },
+        {
+            "link": "https://www.ubereats.com/ca/store/alphabet-city/vzVm21IgXWyNSitiwHzORQ?utm_campaign=place-action-link&utm_medium=organic&utm_source=google",
+            "source": "ubereats.com"
+        },
+        {
+            "link": "https://www.doordash.com/store/alphabet-city-vancouver-24794296/?utm_campaign=gpa",
+            "source": "doordash.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Takeout",
+                    "enabled": true
+                },
+                {
+                    "name": "Dine-in",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "highlights",
+            "name": "Highlights",
+            "options": [
+                {
+                    "name": "Great cocktails",
+                    "enabled": true
+                },
+                {
+                    "name": "Sports",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair accessible seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Alcohol",
+                    "enabled": true
+                },
+                {
+                    "name": "Beer",
+                    "enabled": true
+                },
+                {
+                    "name": "Cocktails",
+                    "enabled": true
+                },
+                {
+                    "name": "Happy hour food",
+                    "enabled": true
+                },
+                {
+                    "name": "Hard liquor",
+                    "enabled": true
+                },
+                {
+                    "name": "Late-night food",
+                    "enabled": true
+                },
+                {
+                    "name": "Small plates",
+                    "enabled": true
+                },
+                {
+                    "name": "Vegetarian options",
+                    "enabled": true
+                },
+                {
+                    "name": "Wine",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Dining options",
+            "options": [
+                {
+                    "name": "Brunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Lunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Dinner",
+                    "enabled": true
+                },
+                {
+                    "name": "Dessert",
+                    "enabled": true
+                },
+                {
+                    "name": "Seating",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Bar on-site",
+                    "enabled": true
+                },
+                {
+                    "name": "Gender-neutral washroom",
+                    "enabled": true
+                },
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                },
+                {
+                    "name": "Wi-Fi",
+                    "enabled": true
+                },
+                {
+                    "name": "Wi-Fi",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosphere",
+            "options": [
+                {
+                    "name": "Casual",
+                    "enabled": true
+                },
+                {
+                    "name": "Cozy",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "crowd",
+            "name": "Crowd",
+            "options": [
+                {
+                    "name": "Family-friendly",
+                    "enabled": true
+                },
+                {
+                    "name": "Groups",
+                    "enabled": true
+                },
+                {
+                    "name": "LGBTQ+ friendly",
+                    "enabled": true
+                },
+                {
+                    "name": "Transgender safe space",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planning",
+            "options": [
+                {
+                    "name": "Accepts reservations",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "children",
+            "name": "Children",
+            "options": [
+                {
+                    "name": "Good for kids",
+                    "enabled": true
+                },
+                {
+                    "name": "High chairs",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOg8GXpkbP-ccs8v_4PyZU7hm6mNzaWTLoglQvy=w397-h298-k-no"
+        },
+        {
+            "about": "Menu",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMsrfhKmYqGHK8SUcXdeRSaRRib8OPXKlJ-vaXV=w224-h398-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOMOZBo5yRi_LpFQMN9TbRfiH1zbjzSq33e5fPp=w224-h398-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipM9t3xI-jaUdCBMGCgPKCePDD9NNk0wSw6NDucc=w379-h298-k-no"
+        },
+        {
+            "about": "Vibe",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipN2Dw50JHMVbf1VVFif0IkYJuROfqSFwlJABiHo=w397-h298-k-no"
+        },
+        {
+            "about": "Chicken sandwich",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNUq_h1UIEsesdoULmuyy0RXAyoLPuLqH_Id3EA=w298-h298-k-no"
+        },
+        {
+            "about": "Taco",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipM6cxZ5gvj0kEpGaubb6JXZb2XJo6v6Mw0XmZdB=w298-h298-k-no"
+        },
+        {
+            "about": "French fries",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPd_Hx1hIJ04NkDtQLLMrW-Kwc3vCl4nhTW09Y2=w447-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMkBCK5erljs2cgvVL3O6LT5PE9nAhyQ5499bfD=w224-h320-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Qj-IvwjVeV_d_g-I9D3PFA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=102.354836&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "Closed"
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "3:30-10:30 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "3-11 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "3-11 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "3 p.m.-12 a.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "11 a.m.-12 a.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "11 a.m.-11 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "Bumped into this place while walking down Main St....what a lovely surprise! food was really delicious, service was done as it should, and I have to mention the place being really clean!!! For a local pub, very pleasing environment...and we came with a baby! ",
+            "reviewer_name": "Tennesse Cabigting",
+            "rating": 5,
+            "review_text": "Bumped into this place while walking down Main St....what a lovely surprise! food was really delicious, service was done as it should, and I have to mention the place being really clean!!! For a local pub, very pleasing environment...and we came with a baby! ",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-04T03:23:05.165000Z",
+            "response_from_owner_text": "Thanks so much for bumping into us! ",
+            "response_from_owner_ago": "a month ago",
+            "response_from_owner_date": "2023-10-26T23:46:44.795000Z",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 18,
+            "total_number_of_photos_by_reviewer": 17,
+            "reviewer_url": "https://www.google.com/maps/contrib/112053697484507593920/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW4eT_0ghELhWyMFiGGFBb7qozxu5iYs1bsgwttChs7Bmg=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMDbeeyS4L_E70UmLdOq-FIp5Iurhn5tL_jkYC8=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOvw4CLwDxopUbmb1hRd5I8WexLdjSvVadIo_z2=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPSeVVgTLVBsgNzlzCaDYUWpD8YmbMCNLBZmTp4=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "This is my first time and gotta say, place is very nice! Happy Hr is great, I ordered a Lager, nice taste and chips and guacamole...which had good size. Looks like a nice place to come alone or with friends. I'll definitely will come back and try more food hehe!!",
+            "reviewer_name": "Luis Osorio",
+            "rating": 4,
+            "review_text": "This is my first time and gotta say, place is very nice! Happy Hr is great, I ordered a Lager, nice taste and chips and guacamole...which had good size. Looks like a nice place to come alone or with friends. I'll definitely will come back and try more food hehe!!",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-22T23:49:22.712000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 45,
+            "total_number_of_photos_by_reviewer": 56,
+            "reviewer_url": "https://www.google.com/maps/contrib/101090858544421375562/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUYtmnaVaKXikTscKkHZTJSXPjeMce67bkdu9Lvxi_KK5c=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOwsvNBL6M-ae0-_Jq6dUAV5uGof_RK2gptbi6V=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Being honest this place food wise was disappointing. Lacking flavour. Not a lot going on flavour wise in the bowls and tacos. The bowl it seemed like there was no sauce of any kind on the radishes. Rice as well pretty plain in comparison to other Mexican restaurants in the city. Otherwise service was excellent.",
+            "reviewer_name": "Paulina K",
+            "rating": 3,
+            "review_text": "Being honest this place food wise was disappointing. Lacking flavour. Not a lot going on flavour wise in the bowls and tacos. The bowl it seemed like there was no sauce of any kind on the radishes. Rice as well pretty plain in comparison to other Mexican restaurants in the city. Otherwise service was excellent.",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-15T03:16:37.597000Z",
+            "response_from_owner_text": "Thanks for your visit and feedback. ",
+            "response_from_owner_ago": "a month ago",
+            "response_from_owner_date": "2023-10-26T23:48:54.961000Z",
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 141,
+            "total_number_of_photos_by_reviewer": 318,
+            "reviewer_url": "https://www.google.com/maps/contrib/110584877415110182076/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIt2Hgn7FDlHryRCQ6OJLwRGnq1z66YVI8qtaJIfLfX=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMb4ZgM2oGbXxAJ3UAzFSNGAqLe2s0mmT34vF1r=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNJfUPZ194mRpCBiGi4uMW1nYRfwICEe7nCaNjL=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Really enjoyed the atmosphere, music, drinks, food here hence 5 stars! A bar, taco bar, and serving mostly Mexican food but with a modern twist...Happy Hour during the week and all day Sunday, great prices,  the food is served up quick from the kitchen & is tasty. My only complaint is there needs to be more servers for when it gets really busy to alleviate a long wait for service ( plus the servers are run off their feet). Like a vacation on Main Street! Bon appetite!",
+            "reviewer_name": "Janet Robertson",
+            "rating": 5,
+            "review_text": "Really enjoyed the atmosphere, music, drinks, food here hence 5 stars! A bar, taco bar, and serving mostly Mexican food but with a modern twist...Happy Hour during the week and all day Sunday, great prices,  the food is served up quick from the kitchen & is tasty. My only complaint is there needs to be more servers for when it gets really busy to alleviate a long wait for service ( plus the servers are run off their feet). Like a vacation on Main Street! Bon appetite!",
+            "published_at": "a year ago",
+            "published_at_date": "2022-06-20T01:53:09.320000Z",
+            "response_from_owner_text": "Wow, thank you so much! \"Like a vacation on Main Street\" is exactly what we strive for, and it would seem we're hitting the mark! Looking forward to the summer!!! :)",
+            "response_from_owner_ago": "a year ago",
+            "response_from_owner_date": "2022-05-29T23:18:52.179000Z",
+            "review_likes_count": 3,
+            "total_number_of_reviews_by_reviewer": 326,
+            "total_number_of_photos_by_reviewer": 717,
+            "reviewer_url": "https://www.google.com/maps/contrib/108900550528150905278/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIRbT7wm2FHUrNs1wx-QzvX5D-NjXwzAGNOMlaCDX-X=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOYSnEqiFllutSdMYP5g8-PhDBNIV__vOw_znFp=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOTQ3wXtkXPtSVFOMkBsa1q16Tdoa4kZOnf96NI=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMlLzyqJNr4SCbTpQ4jHb0kWYAXOZurppSVwX-k=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOLvK-zQcC_we2gDhyZoTvlE5RYbzwWH6dcfuTq=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Sam was amazing. We sat at the bar and appreciated her banter, service, and phenomenal custom drinks. She interacted with us as though we were her long time friends. Beautiful gal inside and out.",
+            "reviewer_name": "Baltej Bagri",
+            "rating": 5,
+            "review_text": "Sam was amazing. We sat at the bar and appreciated her banter, service, and phenomenal custom drinks. She interacted with us as though we were her long time friends. Beautiful gal inside and out.",
+            "published_at": "3 weeks ago",
+            "published_at_date": "2023-11-10T06:32:40.428000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 7,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/117870974590081259971/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLyBT8s1gNVUOMQFc2INH60PwuMO-az0mfi--AJofX7=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Stopped by for late night tacos on Friday! My husband and I really enjoyed the drinks and tacos! I liked the shrimps taco the most. He liked the Birria ones! His Paloma drink was really good! Great service too! Will be back when I crave late night tacos!",
+            "reviewer_name": "Jina Estrada",
+            "rating": 5,
+            "review_text": "Stopped by for late night tacos on Friday! My husband and I really enjoyed the drinks and tacos! I liked the shrimps taco the most. He liked the Birria ones! His Paloma drink was really good! Great service too! Will be back when I crave late night tacos!",
+            "published_at": "a year ago",
+            "published_at_date": "2022-08-01T05:11:27.653000Z",
+            "response_from_owner_text": "Thank you so much for the kind words! We take great pride in our food, drinks & staff, so it's great to know that doesn't go unnoticed! We'll see you again, soon! :)",
+            "response_from_owner_ago": "a year ago",
+            "response_from_owner_date": "2022-08-02T20:34:43.127000Z",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 150,
+            "total_number_of_photos_by_reviewer": 257,
+            "reviewer_url": "https://www.google.com/maps/contrib/103304461241678956552/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWpNyOicubZyPvBpbyCVOu11cp8OiWWbDDlpq7bkAGenNY=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipN6ar3lJnzgQjwMr_n5Zq9Aiwnh7nJPrjqIjRnk=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMq8VZW2BnkoM8IYeyyXx8vBRfNKLrbpuwoQOuC=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipM95JsGAHE7xcB44QvO5PS3vaIgcGlz5tt4mlPQ=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Took my mom and dad here for Father's Day, and Mom's birthday, sat at the window bar. We had some fantastic tacos and tasty margaritas! I'm confused by these poor reviews because I thought it was awesome. The service was quick, the food was great, and the people watching was fun! Definitely my new favourite taco spot!",
+            "reviewer_name": "Kate McClusky",
+            "rating": 5,
+            "review_text": "Took my mom and dad here for Father's Day, and Mom's birthday, sat at the window bar. We had some fantastic tacos and tasty margaritas! I'm confused by these poor reviews because I thought it was awesome. The service was quick, the food was great, and the people watching was fun! Definitely my new favourite taco spot!",
+            "published_at": "5 months ago",
+            "published_at_date": "2023-06-21T00:59:07.993000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 4,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/115668472458594939750/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXhnS7qhxuEUbMKATsJyKkImWxpxsUNuZA_n7Vpz1iBJe9E=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "If you want domestic (not crafty) beer, Pabst Blue Ribbon is available, as is Sol Lager. It is a much appreciated customer service that Brendan has broken food down to $7 incremental servings. That  encouraged my guest and I to spend $70 on food \"because we were given the option\" of spending less. And it was good. The Nachos were extraordinary! Quite a happening crowd on a Friday!",
+            "reviewer_name": "William Langhorne",
+            "rating": 5,
+            "review_text": "If you want domestic (not crafty) beer, Pabst Blue Ribbon is available, as is Sol Lager. It is a much appreciated customer service that Brendan has broken food down to $7 incremental servings. That  encouraged my guest and I to spend $70 on food \"because we were given the option\" of spending less. And it was good. The Nachos were extraordinary! Quite a happening crowd on a Friday!",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-07T00:03:02.013000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 105,
+            "total_number_of_photos_by_reviewer": 33,
+            "reviewer_url": "https://www.google.com/maps/contrib/111018335600171848497/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWkZitQDhHUp2pK-PIxip98gZW8rS1cRPmzAB1ED2ujK-7n=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOgr1MGzVznb310iiDd3oMH-p4Q-Fb1gDXRkpjY=w150-h150-k-no-p"
+            ]
+        }
+    ],
+    "is_spending_on_ads": false
+}

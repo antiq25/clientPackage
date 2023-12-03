@@ -3,7 +3,7 @@
     "name": "McDonald's",
     "description": "Classic, long-running fast-food chain known for its burgers & fries.",
     "reviews": 1087,
-    "website": "https://www.mcdonalds.com/ca/en-ca/restaurant-locator.html%3Fy_source%3D1_MTQ1MjAxMDgtNzE1LWxvY2F0aW9uLndlYnNpdGU%253D",
+    "website": "https://www.mcdonalds.com/ca/en-ca/restaurant-locator.html?y_source=1_MTQ1MjAxMDgtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
     "owner": {
         "id": "105920543119686738255",
         "name": "McDonald's (Owner)",
@@ -42,16 +42,16 @@
             "count": 16
         },
         {
+            "keyword": "window",
+            "count": 11
+        },
+        {
             "keyword": "bag",
             "count": 10
         },
         {
             "keyword": "muffin",
             "count": 9
-        },
-        {
-            "keyword": "big mac",
-            "count": 7
         },
         {
             "keyword": "sugar",
@@ -72,11 +72,11 @@
     "reviews_per_rating": {
         "1": 154,
         "2": 70,
-        "3": 268,
-        "4": 280,
+        "3": 269,
+        "4": 279,
         "5": 315
     },
-    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJD6HMTRd1hlQRTn8naP2KEhY&q=McDonald%27s&authuser=0&hl=en&gl=CA",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJD6HMTRd1hlQRTn8naP2KEhY&q=McDonald's&authuser=0&hl=en&gl=CA",
     "coordinates": {
         "latitude": 49.1843522,
         "longitude": -123.1052421
@@ -94,7 +94,7 @@
     "cid": "1590486439393984334",
     "data_id": "0x548675174dcca10f:0x16128afd68277f4e",
     "menu": {
-        "link": "https://www.mcdonalds.com/ca/en-ca/full-menu.html%3Fy_source%3D1_MTQ1MjAxMDgtNzE1LWxvY2F0aW9uLm1lbnVfdXJs",
+        "link": "https://www.mcdonalds.com/ca/en-ca/full-menu.html?y_source=1_MTQ1MjAxMDgtNzE1LWxvY2F0aW9uLm1lbnVfdXJs",
         "source": "mcdonalds.com"
     },
     "reservations": [],
@@ -342,6 +342,10 @@
             "link": "https://lh5.googleusercontent.com/p/AF1QipOWORq6Uqqs08O7ClyuGqpa-0gfkPs9WlbDHBo=w397-h298-k-no"
         },
         {
+            "about": "Take-out",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNcuS_6Ni_m0XUijE2Ufzz28vNcWwofvlmf33GU=w224-h298-k-no"
+        },
+        {
             "about": "Comfort food",
             "link": "https://lh5.googleusercontent.com/p/AF1QipOMlZ8rQM_5rTxjkotFQC50uQzx_z2JHO6zyhTc=w529-h298-k-no"
         },
@@ -410,8 +414,8 @@
             "response_from_owner_ago": null,
             "response_from_owner_date": null,
             "review_likes_count": 1,
-            "total_number_of_reviews_by_reviewer": 28,
-            "total_number_of_photos_by_reviewer": 105,
+            "total_number_of_reviews_by_reviewer": 29,
+            "total_number_of_photos_by_reviewer": 108,
             "reviewer_url": "https://www.google.com/maps/contrib/105677858208613663647/reviews?entry=ttu",
             "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJuoW1YZf46ynvc-6pxVfVYT8J-3Wj6LZyxYjRPDdILbuc=s120-c-rp-mo-ba4-br100",
             "is_local_guide": true,
@@ -429,7 +433,7 @@
             "reviewer_name": "Nick Yang",
             "rating": 1,
             "review_text": "Food is burned , most of the time when you order takeouts, some of the food you order will be missing.not even busy in the store still they manage to mess up your food",
-            "published_at": "6 days ago",
+            "published_at": "a week ago",
             "published_at_date": "2023-11-18T16:56:33.670000Z",
             "response_from_owner_text": null,
             "response_from_owner_ago": null,
@@ -451,7 +455,7 @@
             "reviewer_name": "Dakota Ross (WestCoastGunpla)",
             "rating": 1,
             "review_text": "We are working on a jobsite nearby, occasionally stop for coffee or breakfast in the morning, not once has my order been correct.\n\nThis morning I ordered a sausage and egg mcgridle, they gave me two of the mcgriddle buns with a jr chicken patty inside.\n\nThe employees running the drive thru window are consistently snarky, with the main focus of getting you in and out of the drive-thru as fast as possible, regardless if your order is right.\n\nWhen I did bring up an issue with the order the one morning, I was told it's my fault she couldn't hear me clear enough, and to speak up next time.\n\nOne of the worst McDonald's locations in the metro Vancouver area, and the owner does not care due to the influx of knight street traffic and airport location.",
-            "published_at": "3 months ago",
+            "published_at": "4 months ago",
             "published_at_date": "2023-07-31T13:10:02.955000Z",
             "response_from_owner_text": null,
             "response_from_owner_ago": null,
@@ -473,7 +477,7 @@
             "reviewer_name": "Emily Lo",
             "rating": 1,
             "review_text": "Please remember to check your take-out order before you go!!! I ordered 2 Mighty McMuffins and picked them up at driver-thru. Since it (the bag) seems so light when the staff passed it to me, I parked my car and checked. It was so ridiculous thats nothing inside in both muffins.\n\nI went back to the restaurant and letting them know. They seems didnt believe me and asked \"You got it with nothing??\". They never apologized for the mistake and just made me other 2 Mighty McMuffins.",
-            "published_at": "2 months ago",
+            "published_at": "3 months ago",
             "published_at_date": "2023-08-29T20:44:46.395000Z",
             "response_from_owner_text": null,
             "response_from_owner_ago": null,
@@ -501,8 +505,8 @@
             "response_from_owner_ago": null,
             "response_from_owner_date": null,
             "review_likes_count": 0,
-            "total_number_of_reviews_by_reviewer": 123,
-            "total_number_of_photos_by_reviewer": 316,
+            "total_number_of_reviews_by_reviewer": 124,
+            "total_number_of_photos_by_reviewer": 317,
             "reviewer_url": "https://www.google.com/maps/contrib/106366967274497056302/reviews?entry=ttu",
             "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUIZBVSciT_6z-j8f_WqoMf6HC-hXuZXu5ZjgNJiVSs2Z2N=s120-c-rp-mo-ba4-br100",
             "is_local_guide": true,

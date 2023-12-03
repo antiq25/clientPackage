@@ -8,7 +8,7 @@ import Typography from '@mui/material/Typography';
 
 import { usePopover } from 'src/src2/hooks/use-popover';
 
-import { TenantPopover } from './tenant-popover';
+import { TenantPopover } from 'src/src2/layouts/dashboard/tenant-switch/tenant-popover';
 
 const tenants = ['Dashboard', 'Dashboard2'];
 
@@ -34,7 +34,7 @@ export const TenantSwitch = (props) => {
             color="neutral.400"
             variant="body2"
           >
-            
+
           </Typography>
         </Box>
         <IconButton

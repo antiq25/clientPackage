@@ -1,0 +1,466 @@
+{
+    "place_id": "ChIJNYJnQNRzhlQRoOUptEtYLdo",
+    "name": "Mr Greek Donair Town",
+    "description": "Counter-serve stop offering casual Middle Eastern dishes in a compact, red-walled space.",
+    "reviews": 456,
+    "website": null,
+    "owner": {
+        "id": "114170257566944097282",
+        "name": "Mr Greek Donair Town (Owner)",
+        "link": "https://www.google.com/maps/contrib/114170257566944097282"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNnbziFEDYXQ0QAFPcjIrQG0zdmApcNSIMq9Pni=w408-h306-k-no",
+    "main_category": "Middle Eastern restaurant",
+    "categories": [
+        "Middle Eastern restaurant"
+    ],
+    "rating": 4.5,
+    "workday_timing": "11 a.m.-4 a.m.",
+    "closed_on": [],
+    "phone": "(604) 909-9494",
+    "address": "Mr Greek Donair Town, 1173 Granville St, Vancouver, BC V6Z 1M1",
+    "review_keywords": [
+        {
+            "keyword": "chicken",
+            "count": 46
+        },
+        {
+            "keyword": "plate",
+            "count": 23
+        },
+        {
+            "keyword": "falafel",
+            "count": 18
+        },
+        {
+            "keyword": "sauces",
+            "count": 17
+        },
+        {
+            "keyword": "lamb shank",
+            "count": 11
+        },
+        {
+            "keyword": "ingredients",
+            "count": 10
+        },
+        {
+            "keyword": "to go",
+            "count": 7
+        },
+        {
+            "keyword": "wrap",
+            "count": 7
+        },
+        {
+            "keyword": "hungry",
+            "count": 6
+        },
+        {
+            "keyword": "tabouli",
+            "count": 5
+        }
+    ],
+    "link": "https://www.google.com/maps/place/Mr+Greek+Donair+Town/data=!4m7!3m6!1s0x548673d440678235:0xda2d584bb429e5a0!8m2!3d49.2775514!4d-123.1259857!16s%2Fg%2F1tfqqn3b!19sChIJNYJnQNRzhlQRoOUptEtYLdo?authuser=0&hl=en&rclk=1",
+    "status": "Open  Closes 4 a.m.  Reopens 11 a.m.",
+    "price_range": "$",
+    "reviews_per_rating": {
+        "1": 26,
+        "2": 7,
+        "3": 27,
+        "4": 62,
+        "5": 334
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJNYJnQNRzhlQRoOUptEtYLdo&q=Mr+Greek+Donair+Town&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.2775514,
+        "longitude": -123.1259857
+    },
+    "plus_code": "7VHF+2J Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "Downtown Vancouver",
+        "street": "1173 Granville St",
+        "city": "Vancouver",
+        "postal_code": "V6Z 1M1",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "15721318956388705696",
+    "data_id": "0x548673d440678235:0xda2d584bb429e5a0",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [
+        {
+            "link": "https://www.doordash.com/store/mr-greek-donair-vancouver-868462/?utm_campaign=gpa",
+            "source": "doordash.com"
+        },
+        {
+            "link": "https://www.skipthedishes.com/mr-greek-donair-town-1173%20?serviceType=delivery&utm_source=google&utm_medium=organic&utm_campaign=gpav2",
+            "source": "skipthedishes.com"
+        },
+        {
+            "link": "https://www.ubereats.com/ca/store/mr-greek-donair-town/Z8XGSrddSWqBQ5AtlwuOnw?utm_campaign=place-action-link&utm_medium=organic&utm_source=google",
+            "source": "ubereats.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Takeout",
+                    "enabled": true
+                },
+                {
+                    "name": "Dine-in",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Halal food",
+                    "enabled": true
+                },
+                {
+                    "name": "Healthy options",
+                    "enabled": true
+                },
+                {
+                    "name": "Late-night food",
+                    "enabled": true
+                },
+                {
+                    "name": "Small plates",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Dining options",
+            "options": [
+                {
+                    "name": "Lunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Dinner",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosphere",
+            "options": [
+                {
+                    "name": "Casual",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planning",
+            "options": [
+                {
+                    "name": "Accepts reservations",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNnbziFEDYXQ0QAFPcjIrQG0zdmApcNSIMq9Pni=w397-h298-k-no"
+        },
+        {
+            "about": "Latest",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPH9RhH4Yprt5n1EaNwyU1_yqTwklRDX4FO5Glv=w224-h298-k-no"
+        },
+        {
+            "about": "Menu",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPsahKTa6tOAS4H4CpMhHUIghOokORlZaWlYhD5=w224-h398-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNulT3E2gqavKSr4QjwFiGLgI1XKnK2KFPq2n74=w397-h298-k-no"
+        },
+        {
+            "about": "Vibe",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMuhYjLBYohc41x-W686nRQXqf_WAWFWjPi8nVh=w397-h298-k-no"
+        },
+        {
+            "about": "Take-out",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipM0gK9zVZhtJNYunMzmSc9vk0ZALnFOfBBa108=w224-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=-_jrWQ0RE_2h-VO-VHKVRA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=334.14423&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Sunday",
+            "times": [
+                "11 a.m.-4 a.m."
+            ]
+        },
+        {
+            "day": "Monday",
+            "times": [
+                "11 a.m.-4 a.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "11 a.m.-4 a.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "11 a.m.-4 a.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "11 a.m.-4 a.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "11 a.m.-4 a.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "11 a.m.-4 a.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "Really good donair. The employees are friendly and funny. The inside gets hot, easier to get as take out\n\nIt's conveniently by all the bars and open late if want a snack. I would recommend this place",
+            "reviewer_name": "Nelson Mah",
+            "rating": 5,
+            "review_text": "Really good donair. The employees are friendly and funny. The inside gets hot, easier to get as take out\n\nIt's conveniently by all the bars and open late if want a snack. I would recommend this place",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-29T05:39:53.009000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 461,
+            "total_number_of_photos_by_reviewer": 520,
+            "reviewer_url": "https://www.google.com/maps/contrib/109204681398540821958/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW6JjXctJMyjdBl6_yRyfKHWUqIY05ib4oIR85UKbrvnw=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNeT-iSwGe0ns-NFHC3n1G0rI6O1uijaFZMii2c=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "This is by far some of the best food in Vancouver. The staff here is awesome and I have literally eaten here almost everyday some weeks. Fresh, consistent, delicious flavors, the meat is never dry and the portions are extremely generous. I always recommend!!!!",
+            "reviewer_name": "Morgan Klipper",
+            "rating": 5,
+            "review_text": "This is by far some of the best food in Vancouver. The staff here is awesome and I have literally eaten here almost everyday some weeks. Fresh, consistent, delicious flavors, the meat is never dry and the portions are extremely generous. I always recommend!!!!",
+            "published_at": "2 weeks ago",
+            "published_at_date": "2023-11-15T06:33:50.530000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 7,
+            "total_number_of_photos_by_reviewer": 2,
+            "reviewer_url": "https://www.google.com/maps/contrib/116312937106517684863/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWqNRDs5lvUpzjFMy0hKOT9adVXPmGJt826VRlWgPF0DTg=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "This is literally the best donair in town. I keep telling myself \"this is impossible\"\nBut it's true.\nEven my kiddo who doesn't care about veggies inhales the Veggie loaded chicken donair.\nReally good baklava too.\nBut that chicken donair is amazing. The best in fact.",
+            "reviewer_name": "Ivan Lys",
+            "rating": 5,
+            "review_text": "This is literally the best donair in town. I keep telling myself \"this is impossible\"\nBut it's true.\nEven my kiddo who doesn't care about veggies inhales the Veggie loaded chicken donair.\nReally good baklava too.\nBut that chicken donair is amazing. The best in fact.",
+            "published_at": "2 weeks ago",
+            "published_at_date": "2023-11-16T04:04:42.771000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 229,
+            "total_number_of_photos_by_reviewer": 185,
+            "reviewer_url": "https://www.google.com/maps/contrib/110877569233105468359/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXUVKSaKuoHAuKgKx-VQGBeRdeHVBcJZ1YLgGYDqF08fA=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Was very excited as i was going after 10 years.Staff was very friendly as before but quality went down over the years.I ordered chicken plate, chicken salad and falafel.Chicken is very very dry.what else you can say when you arr not satisfied with your main ingredient.",
+            "reviewer_name": "Karan Sharma",
+            "rating": 1,
+            "review_text": "Was very excited as i was going after 10 years.Staff was very friendly as before but quality went down over the years.I ordered chicken plate, chicken salad and falafel.Chicken is very very dry.what else you can say when you arr not satisfied with your main ingredient.",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-24T14:14:20.796000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 28,
+            "total_number_of_photos_by_reviewer": 41,
+            "reviewer_url": "https://www.google.com/maps/contrib/113284170956620711338/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXcbtqiQKCW64hoBbfvMJdbW1UcAv9JwX7tBXQrvYRDwxk=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOqIv3Plr-HFD_Bzuxhi6ewVrq8IIM4v6Zto46n=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Ordered off here from door dash..did not follow instructions..\nmost places follow instructions.. they do not...\nNot impressed had to throw most my Order out...\nAnd then they send me my dish and a bag with some pita bread......like no care what so ever.",
+            "reviewer_name": "Jazmine Smith",
+            "rating": 1,
+            "review_text": "Ordered off here from door dash..did not follow instructions..\nmost places follow instructions.. they do not...\nNot impressed had to throw most my Order out...\nAnd then they send me my dish and a bag with some pita bread......like no care what so ever.",
+            "published_at": "5 months ago",
+            "published_at_date": "2023-06-27T07:32:53.105000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 233,
+            "total_number_of_photos_by_reviewer": 118,
+            "reviewer_url": "https://www.google.com/maps/contrib/110455799460232912747/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIp6bjjR7HOIfiB_Z5noPwU0xtRO-pGJrShIWzbCbGCMw=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOUkDvwescT55laCTKSVhi9FLfautKgmboeV_FR=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPqE3TSnEnKabAwWWMrLap1dvW7WzYQo6XZSD2L=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Delicious experience, falafel scooped and fried fresh to order. Portions were very generous, chicken plate was so tasty. 10/10 recommend!!!",
+            "reviewer_name": "CF",
+            "rating": 5,
+            "review_text": "Delicious experience, falafel scooped and fried fresh to order. Portions were very generous, chicken plate was so tasty. 10/10 recommend!!!",
+            "published_at": "2 weeks ago",
+            "published_at_date": "2023-11-11T22:34:53.854000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 59,
+            "total_number_of_photos_by_reviewer": 21,
+            "reviewer_url": "https://www.google.com/maps/contrib/113541941312387638246/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVJHMWNtYt0AzUkdwoAPX7HkY4G_cn07-HJm7TxzBOKTg=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "So damn good. Ordered a lamb donair wrap; the flavours and veggies were perfect. I've eaten a lot of shawarma and donair across Canada and this was one of the best ones I've ever had. Prices are good as well. Will definitely be returning!",
+            "reviewer_name": "Shelby Arcay",
+            "rating": 5,
+            "review_text": "So damn good. Ordered a lamb donair wrap; the flavours and veggies were perfect. I've eaten a lot of shawarma and donair across Canada and this was one of the best ones I've ever had. Prices are good as well. Will definitely be returning!",
+            "published_at": "a year ago",
+            "published_at_date": "2022-07-19T19:54:42.446000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 531,
+            "total_number_of_photos_by_reviewer": 1126,
+            "reviewer_url": "https://www.google.com/maps/contrib/105247894897756374188/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjX-SwqAt3WksMkl2NC0KW8OPbJkc2f0QOM5Y3Sx8inr9A=s120-c-rp-mo-ba6-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipM0gK9zVZhtJNYunMzmSc9vk0ZALnFOfBBa108=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "It's good but I wish the pita bread was heated",
+            "reviewer_name": "Alex Lu",
+            "rating": 4,
+            "review_text": "It's good but I wish the pita bread was heated",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-04T20:35:44.204000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 76,
+            "total_number_of_photos_by_reviewer": 57,
+            "reviewer_url": "https://www.google.com/maps/contrib/115626697545650773953/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLYyGTInbOom4MnxYcV9gfDnzUSg5y7TAjYBECjoWB9=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOE8VcYrpLnzqSLvzSIzQ2Uz-kt3CkiwKZbYztC=w150-h150-k-no-p"
+            ]
+        }
+    ],
+    "is_spending_on_ads": false
+}

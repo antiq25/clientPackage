@@ -15,6 +15,8 @@ const CreateListingDialog = ({ open, onClose, onCreationSuccess }) => {
   });
   const [isLoading, setIsLoading] = useState(false);
   const [status, setStatus] = useState('');
+  const [error, setError] = useState('');
+  const [openMap, setOpenMap] = useState(false);
 
   useEffect(() => {
     if (!open) {
@@ -24,8 +26,12 @@ const CreateListingDialog = ({ open, onClose, onCreationSuccess }) => {
     }
   }, [open]);
 
-  const handleChange = (event) => {
-    setForm({ ...form, [event.target.name]: event.target.value });
+  const getMapSrc = (searchQuery) => {
+    return `https://www.google.com/maps?q=${encodeURIComponent(searchQuery)}&output=embed`;
+  };
+
+  const handleToggleMap = () => {
+    setOpenMap(!openMap);
   };
 
   const collectReviews = async () => {
@@ -49,13 +55,12 @@ const CreateListingDialog = ({ open, onClose, onCreationSuccess }) => {
 
       const data = await response.json();
 
-      // Check if the message property indicates success
-      if (data.message && data.message === "Python script executed successfully") {
+      if (data.message && data.message === 'Python script executed successfully') {
         setStatus('SUCCESS!');
         onCreationSuccess(data);
       } else {
         setStatus('FAIL');
-        console.error('Operation failed:', data); // Log the data in case of failure
+        console.error('Operation failed:', data);
       }
     } catch (error) {
       setStatus('FAIL');
@@ -65,47 +70,87 @@ const CreateListingDialog = ({ open, onClose, onCreationSuccess }) => {
     }
   };
 
+  const importReviews = async () => {
+    setIsLoading(true);
+    const token = localStorage.getItem('token');
+    try {
+      const response = await fetch('http://localhost:3002/scrape/import-reviews', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          Authorization: `Bearer ${token}`,
+        },
+      });
+      if (!response.ok) {
+        throw new Error('Failed to import reviews');
+      }
+      const data = await response.json();
+      setReviews(data);
+    } catch (err) {
+      setError(err.message || 'Failed to import reviews');
+    } finally {
+      setIsLoading(false);
+    }
+  };
+
+  const handleChange = (event) => {
+    setForm({ ...form, [event.target.name]: event.target.value });
+  };
 
   const handleSubmit = async () => {
     await collectReviews();
   };
 
   return (
-    <Dialog
-      open={open}
-      onClose={onClose}
-    >
+    <Dialog fullWidth
+open={open}
+onClose={onClose}>
       <DialogTitle>Create New Listing</DialogTitle>
       <DialogContent>
         <TextField
-          autoFocus
-          margin="dense"
-          name="companyNames"
-          label="Company Names (comma separated)"
-          type="text"
-          fullWidth
-          variant="standard"
-          value={form.companyNames}
-          onChange={handleChange}
-        />
-        <TextField
           margin="dense"
           name="companyLocations"
-          label="Company Locations (comma separated)"
+          label="Enter Location to Gather Data"
           type="text"
           fullWidth
           variant="standard"
           value={form.companyLocations}
           onChange={handleChange}
+          helperText="Include Company Name & Address"
         />
+        {openMap && (
+          <iframe
+            title="google-map"
+            src={getMapSrc(form.companyLocations)}
+            width="100%"
+            height="300px"
+            frameBorder="0"
+            style={{ border: 'none' }}
+            allowFullScreen=""
+            aria-hidden="false"
+            tabIndex="0"
+          ></iframe>
+        )}
       </DialogContent>
       <DialogActions>
         <Button onClick={onClose}>Cancel</Button>
+        <Button onClick={handleToggleMap}>Toggle Map</Button>
         <Button
           onClick={handleSubmit}
           disabled={isLoading}
+          variant="text"
+          width="50%"
+          startIcon={isLoading && <CircularProgress size={24} />}
         >
-          {isLoading ? <CircularProgress size={24} /> : 'Collect Reviews'}
+          Scrape
+        </Button>
+        <Button
+          onClick={importReviews}
+          disabled={isLoading}
+          variant="contained"
+          startIcon={isLoading && <CircularProgress size={24} />}
+        >
+          Import Reviews
         </Button>
       </DialogActions>
       {status && <Alert severity={status === 'SUCCESS!' ? 'success' : 'error'}>{status}</Alert>}

@@ -1,0 +1,307 @@
+{
+    "query": "\" in asd\"",
+    "places": [
+        {
+            "place_id": "ChIJL9k8O6lbhkcRowN6q_d54-k",
+            "name": "Padel-in ASD",
+            "description": null,
+            "reviews": 41,
+            "website": null,
+            "owner": {
+                "id": "101105221049323472016",
+                "name": "Padel-in ASD (Owner)",
+                "link": "https://www.google.com/maps/contrib/101105221049323472016"
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMHDCt4oQIEVd41HU_4W1Ii7t8Rd5sr25DsD2eP=w408-h906-k-no",
+            "main_category": "Association or organization",
+            "categories": [
+                "Association or organization"
+            ],
+            "rating": 4.6,
+            "workday_timing": "9 a.m.-11:30 p.m.",
+            "closed_on": [],
+            "phone": "+39 348 385 2311",
+            "address": "Padel-in ASD, Via Cameri, 20, 28100 Novara NO, Italy",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Padel-in+ASD/@45.4772473,8.6335189,17z/data=!3m1!4b1!4m6!3m5!1s0x47865ba93b3cd92f:0xe9e379f7ab7a03a3!8m2!3d45.4772473!4d8.6335189!16s%2Fg%2F11rgx3tkd8?authuser=0&entry=ttu",
+            "status": "Closed  Opens 9 a.m.",
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 0,
+                "2": 1,
+                "3": 1,
+                "4": 10,
+                "5": 29
+            },
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJL9k8O6lbhkcRowN6q_d54-k&q=Padel-in+ASD&authuser=0&hl=en&gl=IT",
+            "coordinates": {
+                "latitude": 45.477247299999995,
+                "longitude": 8.6335189
+            },
+            "plus_code": "FJGM+VC Novara, Province of Novara, Italy",
+            "detailed_address": {
+                "ward": null,
+                "street": "Via Cameri, 20",
+                "city": "Novara",
+                "postal_code": "28100",
+                "state": "Province of Novara",
+                "country_code": "IT"
+            },
+            "time_zone": "Europe/Rome",
+            "cid": "16853448335191311267",
+            "data_id": "0x47865ba93b3cd92f:0xe9e379f7ab7a03a3",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [
+                {
+                    "id": "accessibility",
+                    "name": "Accessibility",
+                    "options": [
+                        {
+                            "name": "Wheelchair-accessible entrance",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Wheelchair-accessible parking lot",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipMHDCt4oQIEVd41HU_4W1Ii7t8Rd5sr25DsD2eP=w224-h497-k-no"
+                },
+                {
+                    "about": "By owner",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipM7lDjjGRgt_LO9J3zFA0EP6lT2QEiFnQhKtQMR=w662-h298-k-no"
+                },
+                {
+                    "about": "Videos",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipP0jwQkJ26DH0iBsSqnD8Tzin6GQQyPIAV99IKx=w529-h298-k-no"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=LwT0dcskx3hGmE73hSxcBQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=162.35158&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [
+                {
+                    "day": "Tuesday",
+                    "times": [
+                        "9 a.m.-11:30 p.m."
+                    ]
+                },
+                {
+                    "day": "Wednesday",
+                    "times": [
+                        "9 a.m.-11:30 p.m."
+                    ]
+                },
+                {
+                    "day": "Thursday",
+                    "times": [
+                        "9 a.m.-11:30 p.m."
+                    ]
+                },
+                {
+                    "day": "Friday",
+                    "times": [
+                        "9 a.m.-11:30 p.m."
+                    ]
+                },
+                {
+                    "day": "Saturday",
+                    "times": [
+                        "9 a.m.-11:30 p.m."
+                    ]
+                },
+                {
+                    "day": "Sunday",
+                    "times": [
+                        "9 a.m.-11:30 p.m."
+                    ]
+                },
+                {
+                    "day": "Monday",
+                    "times": [
+                        "9 a.m.-11:30 p.m."
+                    ]
+                }
+            ],
+            "featured_reviews": [
+                {
+                    "review_id": "Posto un po' nascosto a Cameri che ha riservato una piacevole sorpresa.\nI campi sono tenuti molto bene e ci sono dei contenitori con tantissime palline (cosa rara).\nSpazi molto puliti e presenza anche di una macchinetta del caffe.\nEsperienza molto positiva e lo consiglio!",
+                    "reviewer_name": "Xhei H",
+                    "rating": 5,
+                    "review_text": "Posto un po' nascosto a Cameri che ha riservato una piacevole sorpresa.\nI campi sono tenuti molto bene e ci sono dei contenitori con tantissime palline (cosa rara).\nSpazi molto puliti e presenza anche di una macchinetta del caffe.\nEsperienza molto positiva e lo consiglio!",
+                    "published_at": "a year ago",
+                    "published_at_date": "2022-05-13T19:55:29.624000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 124,
+                    "total_number_of_photos_by_reviewer": 640,
+                    "reviewer_url": "https://www.google.com/maps/contrib/102054704239652360387/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKMza8SXeRY-zOZW60H9e7kadI7NJNEHrXtHVVaZ6hW=s120-c-rp-mo-ba5-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": "A somewhat hidden place in Cameri which has reserved a pleasant surprise.\nThe fields are very well kept and there are containers with lots of balls (which is rare).\nVery clean spaces and also the presence of a coffee machine.\nVery good experience and I recommend it!",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipMZt936tGRsdbBnoUINPskJloY1GydpvZeEIbO2=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOvwl5nbBy_tpG0xdTFjc7S6UCZ52xWHwiHznGI=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMGz6RFkdVz3RtoVZF846c1oB4wrTBgZ-UyXT1-=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNuzNAekVVfKrunRrw7OWC8qt3kIOsxTFaL-kuW=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "Ambiente pulito, campi ben impostati, divisori che evitano di vedersi fra i campi. Spogliatoio pulito e organizzato. Proprietari sempre cortesi, gentili e disponibili. Possibilita di fare lezione con istruttore preparato e professionale.Da provare",
+                    "reviewer_name": "Cristian Messina",
+                    "rating": 5,
+                    "review_text": "Ambiente pulito, campi ben impostati, divisori che evitano di vedersi fra i campi. Spogliatoio pulito e organizzato. Proprietari sempre cortesi, gentili e disponibili. Possibilita di fare lezione con istruttore preparato e professionale.Da provare",
+                    "published_at": "6 months ago",
+                    "published_at_date": "2023-05-25T14:38:44.936000Z",
+                    "response_from_owner_text": "Grazie mille!",
+                    "response_from_owner_ago": "6 months ago",
+                    "response_from_owner_date": "2023-05-25T15:14:11.180000Z",
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 98,
+                    "total_number_of_photos_by_reviewer": 3,
+                    "reviewer_url": "https://www.google.com/maps/contrib/113672843402221015335/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXxDi0AfH2K0sVUF7JuLVCxmb9hCnRaj8X3x9rzHloy4ns=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": "Clean environment, well set up courts, dividers that avoid seeing each other between the courts. Clean and organized changing room. Owners always courteous, kind and helpful. Possibility of taking lessons with a trained and professional instructor. Worth trying",
+                    "response_from_owner_translated_text": "A thousand thanks!",
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Campi eccellenti, tenuti a regola d'arte, ambiente pulito, cortesia e professionalita del personale, e un piacere giocare e seguire lezioni di padel, perfetti!",
+                    "reviewer_name": "Stefano Gigante",
+                    "rating": 5,
+                    "review_text": "Campi eccellenti, tenuti a regola d'arte, ambiente pulito, cortesia e professionalita del personale, e un piacere giocare e seguire lezioni di padel, perfetti!",
+                    "published_at": "2 months ago",
+                    "published_at_date": "2023-09-11T15:10:49.268000Z",
+                    "response_from_owner_text": "Grazie mille!!",
+                    "response_from_owner_ago": "2 months ago",
+                    "response_from_owner_date": "2023-09-11T15:36:45.846000Z",
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/100681936473857296098/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocL4n68ruHYXV2M_y1uU-xsS55DV8-EP7rHWD5nUywSV=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": "Excellent courts, well maintained, clean environment, courtesy and professionalism of the staff, it is a pleasure to play and follow padel lessons, perfect!",
+                    "response_from_owner_translated_text": "A thousand thanks!!",
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Struttura ordinata e pulita, campi belli, i gestori sono super gentili e disponibili.\nSuper consigliato!",
+                    "reviewer_name": "Edoardo Nava",
+                    "rating": 5,
+                    "review_text": "Struttura ordinata e pulita, campi belli, i gestori sono super gentili e disponibili.\nSuper consigliato!",
+                    "published_at": "9 months ago",
+                    "published_at_date": "2023-02-12T17:41:53.740000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 5,
+                    "total_number_of_photos_by_reviewer": 1,
+                    "reviewer_url": "https://www.google.com/maps/contrib/100381467418325065375/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWtdeOQ6FfP5S_GCZl9be0-ZHpfZa2ZUUcPiWSlo-y--Hc=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Neat and clean structure, beautiful fields, the managers are super kind and helpful.\nSuper recommended!",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Campi molto belli - da rivedere l'illuminazione all'ingresso. Il posto e praticamente introvabile alla sera.",
+                    "reviewer_name": "Luca",
+                    "rating": 4,
+                    "review_text": "Campi molto belli - da rivedere l'illuminazione all'ingresso. Il posto e praticamente introvabile alla sera.",
+                    "published_at": "a year ago",
+                    "published_at_date": "2022-10-04T07:21:29.323000Z",
+                    "response_from_owner_text": "Ciao! L'illuminazione all'ingresso purtroppo non dipende da noi ma dalla proprieta a fianco. Abbiamo gia fatto richiesta al comune per la cartellonistica stradale che a breve verra installata! ",
+                    "response_from_owner_ago": "a year ago",
+                    "response_from_owner_date": "2022-10-04T08:08:03.592000Z",
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 5,
+                    "total_number_of_photos_by_reviewer": 7,
+                    "reviewer_url": "https://www.google.com/maps/contrib/112375250673354713562/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWhKSKGDzknzHaDTc6DvbM5FeC3XM-k3J42MRQgXa4WrDE=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Very beautiful fields - the lighting at the entrance needs to be reviewed. The place is practically unobtainable in the evening.",
+                    "response_from_owner_translated_text": "HI! Unfortunately, the lighting at the entrance does not depend on us but on the property next door. We have already made a request to the municipality for the road signs which will be installed soon! ",
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Struttura ben organizzata, campi belli e curati, tutto in ordine e pulito, piacevole giocarci, bravi!",
+                    "reviewer_name": "Fabio Maccagnola",
+                    "rating": 5,
+                    "review_text": "Struttura ben organizzata, campi belli e curati, tutto in ordine e pulito, piacevole giocarci, bravi!",
+                    "published_at": "11 months ago",
+                    "published_at_date": "2022-12-22T00:12:15.012000Z",
+                    "response_from_owner_text": "Grazie mille! Ti aspettiamo ancora! ",
+                    "response_from_owner_ago": "11 months ago",
+                    "response_from_owner_date": "2022-12-22T09:53:20.393000Z",
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/103619826595173600143/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKesvvdQFmRPvHyX15ixzHub9BS9qOJFsUu0QVDzPnS=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Well organized structure, beautiful and well-kept fields, everything in order and clean, pleasant to play on, well done!",
+                    "response_from_owner_translated_text": "A thousand thanks! We are still waiting for you! ",
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Nuovissimo campo di Padel, a Novara in via Cameri, 20, all'interno del parcheggio di fianco al Centro Agora di Novara, dispone di 3 campi dal Padel blu-verde e color terra rossa, molto frequentato da giocatori di Padel di qualsiasi livello, si organizzano  importanti tornei open con montepremi importanti, doppio maschile, doppio misto, riservati a tesserati agonisti e non agonisti, vetri panoramici, spogliatoi, e comode poltroncine e tavoli per assistere o rilassarsi prima o dopo incontri, gli orari del Padel sono: dal lunedi al venerdi dalle 09:30 alle 23:30, sabato e domenica: dalle 09:00 alle 19:00, e possibile prenotare direttamente, Wathsapp, o tramite le principali piattaforme padelmania",
+                    "reviewer_name": "Giorgio Falcone",
+                    "rating": 5,
+                    "review_text": "Nuovissimo campo di Padel, a Novara in via Cameri, 20, all'interno del parcheggio di fianco al Centro Agora di Novara, dispone di 3 campi dal Padel blu-verde e color terra rossa, molto frequentato da giocatori di Padel di qualsiasi livello, si organizzano  importanti tornei open con montepremi importanti, doppio maschile, doppio misto, riservati a tesserati agonisti e non agonisti, vetri panoramici, spogliatoi, e comode poltroncine e tavoli per assistere o rilassarsi prima o dopo incontri, gli orari del Padel sono: dal lunedi al venerdi dalle 09:30 alle 23:30, sabato e domenica: dalle 09:00 alle 19:00, e possibile prenotare direttamente, Wathsapp, o tramite le principali piattaforme padelmania",
+                    "published_at": "a year ago",
+                    "published_at_date": "2022-06-03T01:14:15.162000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 537,
+                    "total_number_of_photos_by_reviewer": 40955,
+                    "reviewer_url": "https://www.google.com/maps/contrib/107657897428197582326/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVawnqj_HwQ5_aHCDaZ5SVgT5OdSuw4GeG_E7zPH9lwUxcH=s120-c-rp-mo-ba8-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": "Brand new Padel court, in Novara in via Cameri, 20, inside the car park next to the Agora Center of Novara, has 3 blue-green and red clay Padel courts, very popular with Padel players of all levels, important open tournaments are organized with important prize money, men's doubles, mixed doubles, reserved for competitive and non-competitive members, panoramic windows, changing rooms, and comfortable armchairs and tables to watch or relax before or after matches, the Padel opening hours are: from Monday on Friday from 09.30 to 23.30, Saturday and Sunday: from 09.00 to 19.00, it is possible to book directly, Wathsapp, or via the main padelmania platforms",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Tutto pulito, buoni campi. Migliorabile l'illuminazione. Personale molto cordiale",
+                    "reviewer_name": "Claudio Costanti",
+                    "rating": 4,
+                    "review_text": "Tutto pulito, buoni campi. Migliorabile l'illuminazione. Personale molto cordiale",
+                    "published_at": "a year ago",
+                    "published_at_date": "2022-09-29T18:14:02.026000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 91,
+                    "total_number_of_photos_by_reviewer": 19,
+                    "reviewer_url": "https://www.google.com/maps/contrib/109435793848503171785/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXTPJx1Zr8A1bEQG7HRVsE3LD6c8P5nOnBUQZjNJRVgr7Q=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": "Everything clean, good fields. Lighting could be improved. Very friendly staff",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        }
+    ]
+}

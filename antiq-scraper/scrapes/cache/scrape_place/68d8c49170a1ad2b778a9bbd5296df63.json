@@ -2,7 +2,7 @@
     "place_id": "ChIJuTxh_YJxhlQRyA1xfPCJ6y4",
     "name": "McDonald's",
     "description": "Classic, long-running fast-food chain known for its burgers & fries.",
-    "reviews": 642,
+    "reviews": 644,
     "website": "https://www.mcdonalds.com/ca/en-ca/restaurant-locator.html%3Fy_source%3D1_MTQ1MjAzMjItNzE1LWxvY2F0aW9uLndlYnNpdGU%253D",
     "owner": {
         "id": "105165272679716166527",
@@ -31,7 +31,11 @@
         },
         {
             "keyword": "food court",
-            "count": 22
+            "count": 23
+        },
+        {
+            "keyword": "price",
+            "count": 8
         },
         {
             "keyword": "manager",
@@ -39,10 +43,6 @@
         },
         {
             "keyword": "morning",
-            "count": 7
-        },
-        {
-            "keyword": "price",
             "count": 7
         },
         {
@@ -67,14 +67,14 @@
         }
     ],
     "link": "https://www.google.com/maps/place/McDonald%27s/data=!4m7!3m6!1s0x54867182fd613cb9:0x2eeb89f07c710dc8!8m2!3d49.2875344!4d-123.1142855!16s%2Fg%2F1tr177yn!19sChIJuTxh_YJxhlQRyA1xfPCJ6y4?authuser=0&hl=en&rclk=1",
-    "status": "Closed  Opens 7 a.m. Sat",
+    "status": "Closed  Opens 6 a.m.",
     "price_range": "$",
     "reviews_per_rating": {
         "1": 69,
         "2": 46,
         "3": 174,
-        "4": 166,
-        "5": 187
+        "4": 167,
+        "5": 188
     },
     "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJuTxh_YJxhlQRyA1xfPCJ6y4&q=McDonald%27s&authuser=0&hl=en&gl=CA",
     "coordinates": {
@@ -275,7 +275,7 @@
         },
         {
             "about": "Latest",
-            "link": "https://lh5.googleusercontent.com/p/AF1QipPYmQ8tvA7uik_hNR8hO7V_1s12obuUZ7ieqqNH=w224-h298-k-no"
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMN1kuxA-nxRdI52moH1BZz6xGSwNG-YnkHFuDa=w397-h298-k-no"
         },
         {
             "about": "Videos",
@@ -288,10 +288,6 @@
         {
             "about": "Vibe",
             "link": "https://lh5.googleusercontent.com/p/AF1QipPIqrcJxvbglBHhqcd4G4qZPdyryJMHfAbaEnSz=w397-h298-k-no"
-        },
-        {
-            "about": "Take-out",
-            "link": "https://lh5.googleusercontent.com/p/AF1QipMFlwEkw9lt37N_9PPZXSyVTXvfnpijaeWsx_E=w224-h298-k-no"
         },
         {
             "about": "Comfort food",
@@ -307,12 +303,6 @@
         }
     ],
     "hours": [
-        {
-            "day": "Sunday",
-            "times": [
-                "7 a.m.-9 p.m."
-            ]
-        },
         {
             "day": "Monday",
             "times": [
@@ -348,6 +338,12 @@
             "times": [
                 "7 a.m.-9 p.m."
             ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "7 a.m.-9 p.m."
+            ]
         }
     ],
     "featured_reviews": [
@@ -356,7 +352,7 @@
             "reviewer_name": "Kevin Ao",
             "rating": 3,
             "review_text": "If you're looking for a quick, cheap meal, McDonald's is a decent option. The french fries were okay, but the chicken burger was actually pretty good. However, the sodas are really flat and there's no option to get a refill.",
-            "published_at": "2 months ago",
+            "published_at": "3 months ago",
             "published_at_date": "2023-08-27T17:21:39.341000Z",
             "response_from_owner_text": null,
             "response_from_owner_ago": null,
@@ -386,8 +382,8 @@
             "response_from_owner_ago": null,
             "response_from_owner_date": null,
             "review_likes_count": 0,
-            "total_number_of_reviews_by_reviewer": 158,
-            "total_number_of_photos_by_reviewer": 761,
+            "total_number_of_reviews_by_reviewer": 159,
+            "total_number_of_photos_by_reviewer": 763,
             "reviewer_url": "https://www.google.com/maps/contrib/109210106553769211722/reviews?entry=ttu",
             "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXBAHntFhNw_MLL38CMDEofbGauZM2Jqgrvyw4jOTgY7DE=s120-c-rp-mo-ba5-br100",
             "is_local_guide": true,
@@ -402,7 +398,7 @@
             "reviewer_name": "S. K.",
             "rating": 2,
             "review_text": "The younger staff is amazing and trying to take care of all the customers and the older staff stands around and talks and actually slows down things. There was one older Asian lady who was making fun of this younger south Asian gentleman as he was behind the register. I feel so bad for him. It happened at 5 o'clock on Wednesday the 22nd day of October. Management able to get down there.",
-            "published_at": "a month ago",
+            "published_at": "2 months ago",
             "published_at_date": "2023-09-28T00:29:37.163000Z",
             "response_from_owner_text": null,
             "response_from_owner_ago": null,
@@ -440,26 +436,6 @@
             ]
         },
         {
-            "review_id": "Review is based on Manager \"HARVIR\" ,\nShe was so rude on counter, and one of their Casher told me that they don't have Trays, so I have to take out. May be manager, listen that, she said to cashier that don't have to mention, customer will figure out? The way she said to cashier was so rude. Communication and dealing is the key in businesses as far I know",
-            "reviewer_name": "Lovepreet Singh",
-            "rating": 1,
-            "review_text": "Review is based on Manager \"HARVIR\" ,\nShe was so rude on counter, and one of their Casher told me that they don't have Trays, so I have to take out. May be manager, listen that, she said to cashier that don't have to mention, customer will figure out? The way she said to cashier was so rude. Communication and dealing is the key in businesses as far I know",
-            "published_at": "2 months ago",
-            "published_at_date": "2023-09-02T01:17:49.670000Z",
-            "response_from_owner_text": null,
-            "response_from_owner_ago": null,
-            "response_from_owner_date": null,
-            "review_likes_count": 0,
-            "total_number_of_reviews_by_reviewer": 57,
-            "total_number_of_photos_by_reviewer": 55,
-            "reviewer_url": "https://www.google.com/maps/contrib/103610947748633557995/reviews?entry=ttu",
-            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXFWfSuIlrtyLAjRjV0OSHUObmcgeBL2A53hUI7WShDn58=s120-c-rp-mo-ba4-br100",
-            "is_local_guide": true,
-            "review_translated_text": null,
-            "response_from_owner_translated_text": null,
-            "review_photos": []
-        },
-        {
             "review_id": "I asked for ice cream cone, and she was grabbing it supposed to be with a napkin and half of her finger was touching. My ice cream called and I told her and she's keeping argue with me. No I did not touch it. They are such a big liar as a team and are dirty and I want to recommend anyone to go eat or anything drink from that place specially, with a fast food the way they work.",
             "reviewer_name": "Ali John",
             "rating": 1,
@@ -475,6 +451,26 @@
             "reviewer_url": "https://www.google.com/maps/contrib/100085465853817385679/reviews?entry=ttu",
             "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJdyFyxAjvksYdAN_uCa3lnyn_g6TxKfV48J-ahJz_t=s120-c-rp-mo-br100",
             "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Review is based on Manager \"HARVIR\" ,\nShe was so rude on counter, and one of their Casher told me that they don't have Trays, so I have to take out. May be manager, listen that, she said to cashier that don't have to mention, customer will figure out? The way she said to cashier was so rude. Communication and dealing is the key in businesses as far I know",
+            "reviewer_name": "Lovepreet Singh",
+            "rating": 1,
+            "review_text": "Review is based on Manager \"HARVIR\" ,\nShe was so rude on counter, and one of their Casher told me that they don't have Trays, so I have to take out. May be manager, listen that, she said to cashier that don't have to mention, customer will figure out? The way she said to cashier was so rude. Communication and dealing is the key in businesses as far I know",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-02T01:17:49.670000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 57,
+            "total_number_of_photos_by_reviewer": 55,
+            "reviewer_url": "https://www.google.com/maps/contrib/103610947748633557995/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXFWfSuIlrtyLAjRjV0OSHUObmcgeBL2A53hUI7WShDn58=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
             "review_translated_text": null,
             "response_from_owner_translated_text": null,
             "review_photos": []
@@ -500,20 +496,20 @@
             "review_photos": []
         },
         {
-            "review_id": "Extremely busy all the time. With the McDonald's Mobile Ordering app, not too frustrating.",
-            "reviewer_name": "Wendy Huan",
-            "rating": 4,
-            "review_text": "Extremely busy all the time. With the McDonald's Mobile Ordering app, not too frustrating.",
-            "published_at": "a month ago",
-            "published_at_date": "2023-09-30T05:18:46.786000Z",
+            "review_id": "Decent food. Decent prices. Quick service.",
+            "reviewer_name": "Rasika Tata",
+            "rating": 5,
+            "review_text": "Decent food. Decent prices. Quick service.",
+            "published_at": "a week ago",
+            "published_at_date": "2023-11-24T01:21:12.471000Z",
             "response_from_owner_text": null,
             "response_from_owner_ago": null,
             "response_from_owner_date": null,
             "review_likes_count": 0,
-            "total_number_of_reviews_by_reviewer": 37,
-            "total_number_of_photos_by_reviewer": 2,
-            "reviewer_url": "https://www.google.com/maps/contrib/110299395749417741195/reviews?entry=ttu",
-            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXgfKp932ivBdyfjU9gF2FCBrmkFSS40R_yMtoB55KqJw=s120-c-rp-mo-ba3-br100",
+            "total_number_of_reviews_by_reviewer": 777,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/117878032515107935509/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW6oZ4Y4HiU_eLULi_w-I1PodudiPIJ_scYa6eYr_le8dNg=s120-c-rp-mo-ba6-br100",
             "is_local_guide": true,
             "review_translated_text": null,
             "response_from_owner_translated_text": null,

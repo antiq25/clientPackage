@@ -2,7 +2,7 @@
     "place_id": "ChIJQYxv_Vh2hlQRYw48kIVpKJQ",
     "name": "McDonald's",
     "description": "Classic, long-running fast-food chain known for its burgers & fries.",
-    "reviews": 2645,
+    "reviews": 2652,
     "website": "https://www.mcdonalds.com/ca/en-ca/restaurant-locator.html%3Fy_source%3D1_MTQ1MjA3MjItNzE1LWxvY2F0aW9uLndlYnNpdGU%253D",
     "owner": {
         "id": "115983130207123458070",
@@ -27,11 +27,15 @@
     "review_keywords": [
         {
             "keyword": "coffee",
-            "count": 57
+            "count": 58
         },
         {
             "keyword": "mall",
             "count": 28
+        },
+        {
+            "keyword": "machine",
+            "count": 21
         },
         {
             "keyword": "big mac",
@@ -39,10 +43,6 @@
         },
         {
             "keyword": "night",
-            "count": 14
-        },
-        {
-            "keyword": "cup",
             "count": 14
         },
         {
@@ -70,11 +70,11 @@
     "status": "Closed  Opens 6 a.m.",
     "price_range": "$",
     "reviews_per_rating": {
-        "1": 327,
+        "1": 331,
         "2": 186,
-        "3": 595,
+        "3": 596,
         "4": 666,
-        "5": 871
+        "5": 873
     },
     "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJQYxv_Vh2hlQRYw48kIVpKJQ&q=McDonald%27s&authuser=0&hl=en&gl=CA",
     "coordinates": {
@@ -104,7 +104,7 @@
             "source": "mcdonalds.ca"
         },
         {
-            "link": "https://www.fantuanorder.com/store/mcdonald'smetrotown/ca-14889?rwg_token=AOZt1jUFkl78jxEqjo6vuG5lkekUv2_khhSo1-RaagSg09MLBXV84rRTAkACbprY1Y4xl-dF0ebnu7yHR0wssxa8aZ-mWDCWNg%3D%3D",
+            "link": "https://www.fantuanorder.com/store/mcdonald'smetrotown/ca-14889?rwg_token=AOZt1jX86RYwkMl6VIeM8_YNY8RXBtlWXiWiFVCZFfy1XcU9hUIov0U-ccTkFyzJbWbCvUdRtJILniU8owE4h_fI27NzKoNngQ%3D%3D",
             "source": "fantuanorder.com"
         },
         {
@@ -350,8 +350,12 @@
             "link": "https://lh5.googleusercontent.com/p/AF1QipO-lAWNaBlharALby3r4J_ejbuVIAEUaVQVoum0=w397-h298-k-no"
         },
         {
+            "about": "Take-out",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNbMY9ksH1Q_p6wVhQj3sWlxHsIdpbhWcK78Zey=w274-h298-k-no"
+        },
+        {
             "about": "Hamburger",
-            "link": "https://lh5.googleusercontent.com/p/AF1QipOmEiapVft2ly7JRZXOy-h_4gySbDwCS-18VjhI=w529-h298-k-no"
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOQv5tiCDVJ5B1wycHkOcMdi-lbbFG8U-dY3GsT=w224-h298-k-no"
         },
         {
             "about": "English muffin",
@@ -420,12 +424,12 @@
             "reviewer_name": "Delfina",
             "rating": 1,
             "review_text": "Paid $0.30 to add leaf lettuce to my Filet-O-Fish.  They put rotten leaves hoping that a customer will not look inside a sandwich especially if it's a take out. What is spoiled and supposed to be put in the garbage is used inside the items. Utterly disgusting... Whoever did that should be fired on the spot.",
-            "published_at": "3 months ago",
+            "published_at": "4 months ago",
             "published_at_date": "2023-07-26T05:55:08.898000Z",
             "response_from_owner_text": null,
             "response_from_owner_ago": null,
             "response_from_owner_date": null,
-            "review_likes_count": 4,
+            "review_likes_count": 5,
             "total_number_of_reviews_by_reviewer": 4,
             "total_number_of_photos_by_reviewer": 2,
             "reviewer_url": "https://www.google.com/maps/contrib/116508580394337527029/reviews?entry=ttu",
@@ -443,12 +447,12 @@
             "reviewer_name": "Dipankar Sharma",
             "rating": 1,
             "review_text": "I requested to add more coffee as Iced Coffee was too sweet for me. Shift Manager asked gave me the coffee in separate cup and asked me to add it myself. He also helped me understand the McD policy for this kind act.",
-            "published_at": "4 months ago",
+            "published_at": "5 months ago",
             "published_at_date": "2023-06-25T01:27:12.891000Z",
             "response_from_owner_text": null,
             "response_from_owner_ago": null,
             "response_from_owner_date": null,
-            "review_likes_count": 2,
+            "review_likes_count": 3,
             "total_number_of_reviews_by_reviewer": 4,
             "total_number_of_photos_by_reviewer": 1,
             "reviewer_url": "https://www.google.com/maps/contrib/100633447972506417441/reviews?entry=ttu",
@@ -465,7 +469,7 @@
             "reviewer_name": "Koo Max",
             "rating": 1,
             "review_text": "Terrible food quality recent 2 orders. Will not order from this location again.",
-            "published_at": "3 months ago",
+            "published_at": "4 months ago",
             "published_at_date": "2023-07-29T15:57:36.997000Z",
             "response_from_owner_text": null,
             "response_from_owner_ago": null,
@@ -493,7 +497,7 @@
             "response_from_owner_text": null,
             "response_from_owner_ago": null,
             "response_from_owner_date": null,
-            "review_likes_count": 0,
+            "review_likes_count": 1,
             "total_number_of_reviews_by_reviewer": 70,
             "total_number_of_photos_by_reviewer": 15,
             "reviewer_url": "https://www.google.com/maps/contrib/111930708357568630214/reviews?entry=ttu",
@@ -504,31 +508,11 @@
             "review_photos": []
         },
         {
-            "review_id": "I haven't eaten there in the last few years. The food is the worst in terms of nutrition, cost, and health. Don't bring your kids to this terrible place if you want healthy young kids.",
-            "reviewer_name": "Nour",
-            "rating": 1,
-            "review_text": "I haven't eaten there in the last few years. The food is the worst in terms of nutrition, cost, and health. Don't bring your kids to this terrible place if you want healthy young kids.",
-            "published_at": "a week ago",
-            "published_at_date": "2023-11-10T06:40:37.516000Z",
-            "response_from_owner_text": null,
-            "response_from_owner_ago": null,
-            "response_from_owner_date": null,
-            "review_likes_count": 0,
-            "total_number_of_reviews_by_reviewer": 44,
-            "total_number_of_photos_by_reviewer": 6,
-            "reviewer_url": "https://www.google.com/maps/contrib/105997015073652003430/reviews?entry=ttu",
-            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLUlLFqKokF4NWlGinzGt-1kzif4HEIokLTvuLIRkSc=s120-c-rp-mo-ba3-br100",
-            "is_local_guide": true,
-            "review_translated_text": null,
-            "response_from_owner_translated_text": null,
-            "review_photos": []
-        },
-        {
             "review_id": "Went here on Christmas day and it was pretty busy. Ordered Carolina burger with poutine and big Mac with fries for the wife. Great price, okay service, and good food.",
             "reviewer_name": "Fernando Cadiz",
             "rating": 5,
             "review_text": "Went here on Christmas day and it was pretty busy. Ordered Carolina burger with poutine and big Mac with fries for the wife. Great price, okay service, and good food.",
-            "published_at": "10 months ago",
+            "published_at": "11 months ago",
             "published_at_date": "2022-12-26T06:53:14.356000Z",
             "response_from_owner_text": null,
             "response_from_owner_ago": null,
@@ -556,7 +540,7 @@
             "response_from_owner_text": null,
             "response_from_owner_ago": null,
             "response_from_owner_date": null,
-            "review_likes_count": 3,
+            "review_likes_count": 4,
             "total_number_of_reviews_by_reviewer": 18,
             "total_number_of_photos_by_reviewer": 5,
             "reviewer_url": "https://www.google.com/maps/contrib/118230454736687216918/reviews?entry=ttu",
@@ -576,7 +560,7 @@
             "reviewer_name": "Corina Chan",
             "rating": 3,
             "review_text": "It's really busy all the time, the service is okay. Staffs aren't the kindest but the food is decent. You're going to have to wait for several minutes even for a ice cream cone.",
-            "published_at": "a month ago",
+            "published_at": "2 months ago",
             "published_at_date": "2023-09-24T17:58:16.681000Z",
             "response_from_owner_text": null,
             "response_from_owner_ago": null,
@@ -590,6 +574,28 @@
             "review_translated_text": null,
             "response_from_owner_translated_text": null,
             "review_photos": []
+        },
+        {
+            "review_id": "Fabulous place.\nStaff work very hard to provide a good clean place to dine",
+            "reviewer_name": "David Little",
+            "rating": 5,
+            "review_text": "Fabulous place.\nStaff work very hard to provide a good clean place to dine",
+            "published_at": "5 months ago",
+            "published_at_date": "2023-06-10T04:18:48.105000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 150,
+            "total_number_of_photos_by_reviewer": 38,
+            "reviewer_url": "https://www.google.com/maps/contrib/108589149224350503638/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLWtCObNS0x-aYX2tvGl4lwpbExZVQqVATv_P9Im0dn=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMnhYksuZrlS4_71HxFCDxPN_4wj2Sep3G5pbsT=w150-h150-k-no-p"
+            ]
         }
     ],
     "is_spending_on_ads": false

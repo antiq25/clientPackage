@@ -2,7 +2,7 @@
     "place_id": "ChIJ81QafB90hlQRQLI8OmR2cFE",
     "name": "McDonald's",
     "description": "Classic, long-running fast-food chain known for its burgers & fries.",
-    "reviews": 1260,
+    "reviews": 1263,
     "website": "https://www.mcdonalds.com/ca/en-ca/restaurant-locator.html%3Fy_source%3D1_MTQ1MTk1ODctNzE1LWxvY2F0aW9uLndlYnNpdGU%253D",
     "owner": {
         "id": "107636025099423659690",
@@ -34,12 +34,12 @@
             "count": 30
         },
         {
-            "keyword": "door",
+            "keyword": "cashier",
             "count": 14
         },
         {
-            "keyword": "cashier",
-            "count": 13
+            "keyword": "door",
+            "count": 14
         },
         {
             "keyword": "big mac",
@@ -67,14 +67,14 @@
         }
     ],
     "link": "https://www.google.com/maps/place/McDonald%27s/data=!4m7!3m6!1s0x5486741f7c1a54f3:0x517076643a3cb240!8m2!3d49.2330972!4d-123.0657903!16s%2Fg%2F1tfjqd63!19sChIJ81QafB90hlQRQLI8OmR2cFE?authuser=0&hl=en&rclk=1",
-    "status": "Open 24 hours",
+    "status": "Closed  Opens 6 a.m.",
     "price_range": "$",
     "reviews_per_rating": {
-        "1": 192,
+        "1": 193,
         "2": 119,
         "3": 307,
-        "4": 316,
-        "5": 326
+        "4": 317,
+        "5": 327
     },
     "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ81QafB90hlQRQLI8OmR2cFE&q=McDonald%27s&authuser=0&hl=en&gl=CA",
     "coordinates": {
@@ -348,12 +348,6 @@
     ],
     "hours": [
         {
-            "day": "Sunday",
-            "times": [
-                "Open 24 hours"
-            ]
-        },
-        {
             "day": "Monday",
             "times": [
                 "6 a.m.-12 a.m."
@@ -388,6 +382,12 @@
             "times": [
                 "Open 24 hours"
             ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "Open 24 hours"
+            ]
         }
     ],
     "featured_reviews": [
@@ -402,8 +402,8 @@
             "response_from_owner_ago": null,
             "response_from_owner_date": null,
             "review_likes_count": 2,
-            "total_number_of_reviews_by_reviewer": 172,
-            "total_number_of_photos_by_reviewer": 1733,
+            "total_number_of_reviews_by_reviewer": 173,
+            "total_number_of_photos_by_reviewer": 1752,
             "reviewer_url": "https://www.google.com/maps/contrib/115516596600197336853/reviews?entry=ttu",
             "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVm2LF2T3bcE3_cUMlXqnGbBmvX5NG9l3sh-urfVc4Dyys=s120-c-rp-mo-ba5-br100",
             "is_local_guide": true,
@@ -414,6 +414,26 @@
                 "https://lh5.googleusercontent.com/p/AF1QipMvMQI6xWfLjS_rtqR5OCAgiFvyyRcTmlZ7qpvV=w150-h150-k-no-p",
                 "https://lh5.googleusercontent.com/p/AF1QipMHGfUwr9-slSf1TZ-OLS4HlPpX24Wf9rd0FNAI=w150-h150-k-no-p"
             ]
+        },
+        {
+            "review_id": "I went there today service is horrible i had to stand in-front of the cashier for 15 minutes and still no body came to ask me if i needed anything. After standing for a while i finally got this girl attention called zara and she was very rude to me. Not recommend",
+            "reviewer_name": "negin shahrian",
+            "rating": 1,
+            "review_text": "I went there today service is horrible i had to stand in-front of the cashier for 15 minutes and still no body came to ask me if i needed anything. After standing for a while i finally got this girl attention called zara and she was very rude to me. Not recommend",
+            "published_at": "5 days ago",
+            "published_at_date": "2023-11-26T06:56:20.535000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/112881516750824311661/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocI4-5gAyyPBb7loFa5uvol86NCzYOsTRmrGEErIJmU1=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
         },
         {
             "review_id": "Expensive location -- 30c to $1 more expensive for most items.  Go to the Kingsway/Victoria location if you can, it's a bit cheaper.\n\nOn top of being one of the most expensive locations in the city this one's also one of the worst.  They clear off all orders from their pick up screen making for a confused, full lobby of everyone asking if their order is up.  Use the system as it's meant to be and things would be a lot clearer and run more smoothly!\n\nSomehow, this location also has the worst McIced coffee ever.",
@@ -460,7 +480,7 @@
             "reviewer_name": "W K",
             "rating": 3,
             "review_text": "Small Restaurant in Victoria drive.  Not many seatings on ground floor. Have to climb upstairs to get extra seatings. Not for mobility challenging people.  I left my hat on the chair and was taken.  Not a place to relax for a coffee.too crowded.",
-            "published_at": "3 months ago",
+            "published_at": "4 months ago",
             "published_at_date": "2023-07-26T14:23:19.127000Z",
             "response_from_owner_text": null,
             "response_from_owner_ago": null,
@@ -480,7 +500,7 @@
             "reviewer_name": "Minh Quan Dam (Jesse)",
             "rating": 1,
             "review_text": "Came to pick up my order at 4pm. Stood there for 5 mins while 6 staffs are talking to each other. None even asked me a question for what I am waiting for or what I want. Especially the girl that packing the deliveries order, seems like she does not really enjoy her job and seems miserable and had some attitude!! Not surprised to see so many 1 star here",
-            "published_at": "3 months ago",
+            "published_at": "4 months ago",
             "published_at_date": "2023-07-30T23:26:25.705000Z",
             "response_from_owner_text": null,
             "response_from_owner_ago": null,
@@ -491,26 +511,6 @@
             "reviewer_url": "https://www.google.com/maps/contrib/113690711035526935456/reviews?entry=ttu",
             "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKAanpy1KaE6EENChjLfaINfItFtzLRi_dTVrULAL4i=s120-c-rp-mo-ba2-br100",
             "is_local_guide": true,
-            "review_translated_text": null,
-            "response_from_owner_translated_text": null,
-            "review_photos": []
-        },
-        {
-            "review_id": "I don't know how they do it, but their food isn't hot and their coffee always tastes burnt. Both in person and from Dash. Only McDonald's around me that somehow does this. Victoria/kingsway is fine, willingdon is fine, Metrotown is fine...",
-            "reviewer_name": "Ian Torn",
-            "rating": 2,
-            "review_text": "I don't know how they do it, but their food isn't hot and their coffee always tastes burnt. Both in person and from Dash. Only McDonald's around me that somehow does this. Victoria/kingsway is fine, willingdon is fine, Metrotown is fine...",
-            "published_at": "2 months ago",
-            "published_at_date": "2023-09-04T20:46:15.803000Z",
-            "response_from_owner_text": null,
-            "response_from_owner_ago": null,
-            "response_from_owner_date": null,
-            "review_likes_count": 0,
-            "total_number_of_reviews_by_reviewer": 10,
-            "total_number_of_photos_by_reviewer": 0,
-            "reviewer_url": "https://www.google.com/maps/contrib/116553513888195484222/reviews?entry=ttu",
-            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWYehdmFnC3UMHCUYyO48Uas5Ibg--Qgf66IyXNpruz26Q=s120-c-rp-mo-br100",
-            "is_local_guide": false,
             "review_translated_text": null,
             "response_from_owner_translated_text": null,
             "review_photos": []
@@ -546,8 +546,8 @@
             "response_from_owner_ago": null,
             "response_from_owner_date": null,
             "review_likes_count": 0,
-            "total_number_of_reviews_by_reviewer": 40,
-            "total_number_of_photos_by_reviewer": 13,
+            "total_number_of_reviews_by_reviewer": 44,
+            "total_number_of_photos_by_reviewer": 14,
             "reviewer_url": "https://www.google.com/maps/contrib/111080991331090739421/reviews?entry=ttu",
             "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVgJR3o0D3455LhZmo-6SUOE9nWCyBx9fYDmHCmCI9hIPc=s120-c-rp-mo-ba3-br100",
             "is_local_guide": true,

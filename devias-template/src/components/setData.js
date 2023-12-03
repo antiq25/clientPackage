@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import { getClickCount, getViewCount, logClick, logView } from './apiWidget';
+import { getClickCount, getViewCount, logClick, logView } from './company_card/apiWidget';
 
 export default function GetClickCounts() {
   const [clickCount, setClickCount] = useState(0);

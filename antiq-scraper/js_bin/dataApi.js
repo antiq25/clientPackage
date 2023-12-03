@@ -1,7 +1,8 @@
 // import { getFormattedReviews } from "./format.js";
 import express from "express";
-import scraperRouter from "./src/routes.js";
+import scraperRouter from "./src/scraperRoutes.js";
 import cors from 'cors'
+import bodyParser from 'body-parser';
 import * as dotenv from 'dotenv'
 dotenv.config()
 
@@ -10,6 +11,7 @@ const prefix = '/scrape'
 const port = 3002
 
 app.use(express.json()); // For parsing application/json
+app.use(bodyParser.json());
 app.use(
   cors({
     origin: process.env.CLIENT_URL,

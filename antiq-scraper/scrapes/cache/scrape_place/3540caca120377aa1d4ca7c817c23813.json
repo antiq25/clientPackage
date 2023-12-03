@@ -1,0 +1,647 @@
+{
+    "place_id": "ChIJc2D45XlxhlQRu3b5UFCKc9Q",
+    "name": "La Casita - Gastown",
+    "description": "Simple eatery with festive decor dishing out familiar Mexican specialties & margaritas.",
+    "reviews": 2277,
+    "website": "http://www.lacasita.ca/",
+    "owner": {
+        "id": "102410125009863800431",
+        "name": "La Casita - Gastown (Owner)",
+        "link": "https://www.google.com/maps/contrib/102410125009863800431"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNOnPwdDIgG4_ZeRy-GibC1YfCDz33K_8GsS-K5=w408-h544-k-no",
+    "main_category": "Mexican restaurant",
+    "categories": [
+        "Mexican restaurant",
+        "Caterer",
+        "Event venue",
+        "Delivery Restaurant",
+        "Restaurant"
+    ],
+    "rating": 4.2,
+    "workday_timing": "11:30 a.m.-10 p.m.",
+    "closed_on": [],
+    "phone": "(604) 646-2444",
+    "address": "La Casita - Gastown, 101 W Cordova St, Vancouver, BC V6B 1E1",
+    "review_keywords": [
+        {
+            "keyword": "margaritas",
+            "count": 112
+        },
+        {
+            "keyword": "tortilla soup",
+            "count": 40
+        },
+        {
+            "keyword": "birthday",
+            "count": 17
+        },
+        {
+            "keyword": "portion sizes",
+            "count": 16
+        },
+        {
+            "keyword": "taco tuesday",
+            "count": 15
+        },
+        {
+            "keyword": "pina colada",
+            "count": 12
+        },
+        {
+            "keyword": "so delicious",
+            "count": 9
+        },
+        {
+            "keyword": "value",
+            "count": 9
+        },
+        {
+            "keyword": "bulldog",
+            "count": 7
+        },
+        {
+            "keyword": "boyfriend",
+            "count": 7
+        }
+    ],
+    "link": "https://www.google.com/maps/place/La+Casita+-+Gastown/data=!4m7!3m6!1s0x54867179e5f86073:0xd4738a5050f976bb!8m2!3d49.2831192!4d-123.1069657!16s%2Fg%2F1v6wp03w!19sChIJc2D45XlxhlQRu3b5UFCKc9Q?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 11:30 a.m.",
+    "price_range": "$$",
+    "reviews_per_rating": {
+        "1": 131,
+        "2": 86,
+        "3": 229,
+        "4": 650,
+        "5": 1181
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJc2D45XlxhlQRu3b5UFCKc9Q&q=La+Casita+-+Gastown&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.283119199999994,
+        "longitude": -123.10696569999999
+    },
+    "plus_code": "7VMV+66 Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "Downtown Vancouver",
+        "street": "101 W Cordova St",
+        "city": "Vancouver",
+        "postal_code": "V6B 1E1",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "15308731635922990779",
+    "data_id": "0x54867179e5f86073:0xd4738a5050f976bb",
+    "menu": {
+        "link": "http://lacasita.ca/take-out/",
+        "source": "lacasita.ca"
+    },
+    "reservations": [
+        {
+            "link": "http://www.lacasita.ca/make-a-reservation/",
+            "source": "lacasita.ca"
+        },
+        {
+            "link": "https://www.opentable.ca/restaurant/profile/327457%3Fref%3D16423",
+            "source": "opentable.ca"
+        }
+    ],
+    "order_online_links": [
+        {
+            "link": "http://www.lacasita.ca/delivery/",
+            "source": "lacasita.ca"
+        },
+        {
+            "link": "https://www.skipthedishes.com/la-casita?utm_source=google&utm_medium=organic&utm_campaign=gpa",
+            "source": "skipthedishes.com"
+        },
+        {
+            "link": "https://www.ubereats.com/ca/store/la-casita-gastown/wLicHZ0ORsaltrTEiqyEIg?utm_campaign=place-action-link&utm_medium=organic&utm_source=google",
+            "source": "ubereats.com"
+        },
+        {
+            "link": "https://www.doordash.com/store/la-casita-vancouver-31024/?utm_campaign=gpa",
+            "source": "doordash.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Takeout",
+                    "enabled": true
+                },
+                {
+                    "name": "Dine-in",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair accessible seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Alcohol",
+                    "enabled": true
+                },
+                {
+                    "name": "Beer",
+                    "enabled": true
+                },
+                {
+                    "name": "Cocktails",
+                    "enabled": true
+                },
+                {
+                    "name": "Coffee",
+                    "enabled": true
+                },
+                {
+                    "name": "Hard liquor",
+                    "enabled": true
+                },
+                {
+                    "name": "Healthy options",
+                    "enabled": true
+                },
+                {
+                    "name": "Late-night food",
+                    "enabled": true
+                },
+                {
+                    "name": "Private dining room",
+                    "enabled": true
+                },
+                {
+                    "name": "Small plates",
+                    "enabled": true
+                },
+                {
+                    "name": "Vegetarian options",
+                    "enabled": true
+                },
+                {
+                    "name": "Wine",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Dining options",
+            "options": [
+                {
+                    "name": "Breakfast",
+                    "enabled": true
+                },
+                {
+                    "name": "Brunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Lunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Dinner",
+                    "enabled": true
+                },
+                {
+                    "name": "Dessert",
+                    "enabled": true
+                },
+                {
+                    "name": "Seating",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Bar on-site",
+                    "enabled": true
+                },
+                {
+                    "name": "Gender-neutral washroom",
+                    "enabled": true
+                },
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosphere",
+            "options": [
+                {
+                    "name": "Casual",
+                    "enabled": true
+                },
+                {
+                    "name": "Cozy",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "crowd",
+            "name": "Crowd",
+            "options": [
+                {
+                    "name": "Family-friendly",
+                    "enabled": true
+                },
+                {
+                    "name": "Groups",
+                    "enabled": true
+                },
+                {
+                    "name": "LGBTQ+ friendly",
+                    "enabled": true
+                },
+                {
+                    "name": "Transgender safe space",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planning",
+            "options": [
+                {
+                    "name": "Accepts reservations",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "children",
+            "name": "Children",
+            "options": [
+                {
+                    "name": "Good for kids",
+                    "enabled": true
+                },
+                {
+                    "name": "High chairs",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNOnPwdDIgG4_ZeRy-GibC1YfCDz33K_8GsS-K5=w224-h298-k-no"
+        },
+        {
+            "about": "Latest",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPP5yKBONm-ThtwFDlZoDy12OEGaFvejmcH8LiB=w397-h298-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOimUTjqI1seDYeUbeB8rJWsvjMDALxSr4fhZP4=w224-h398-k-no"
+        },
+        {
+            "about": "Menu",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPicAVEHHLZ7-4SzgT37A3-fteBKwQtFA8dwwE=w224-h298-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOGgH0j9XxWzfLBYXoLFDkF-kEwGP4OLpCEUSZS=w354-h298-k-no"
+        },
+        {
+            "about": "Vibe",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOgtH4tyHEMZkJd1zR3ywopiGC64o4rjEivsvFS=w397-h298-k-no"
+        },
+        {
+            "about": "Margarita",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMBFP7FiIFr_nfJFfMZCPZugMaGVv4FGCxV1qOg=w298-h298-k-no"
+        },
+        {
+            "about": "Tortilla soup",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOuPkivL1RR6c6SrwDGk1tYFL9kQl7MtVfrFiLl=w298-h298-k-no"
+        },
+        {
+            "about": "Nachos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMF34wJrh5HwhTEJpmQVeWr9_x_aRmhQ3mAI-s5=w224-h298-k-no"
+        },
+        {
+            "about": "Burrito",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPoTHBlJKW5fQihTNS12JnyP8p2FrVOtKIJ4vF9=w224-h298-k-no"
+        },
+        {
+            "about": "Corona",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOvloi72HrV8ys3xMAT92gfDoAEBFoTB0N0RyzV=w298-h298-k-no"
+        },
+        {
+            "about": "Churro",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPzU2tD8p42bcHAZaCEQlcf8h4EhI1-5rTbmiN0=w298-h298-k-no"
+        },
+        {
+            "about": "Guacamole",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPvmS9N1m2ndeFViBgoWXVt8Pjej4LQON0W3lKC=w298-h298-k-no"
+        },
+        {
+            "about": "Taco salad",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPosoEUxmu9hzNouOBbb_NNqUBtmdXtH_Foc-XL=w397-h298-k-no"
+        },
+        {
+            "about": "Pub",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipO-YuZnezmW4h_8_k_xuhl_U4J4W2_aF4y2Xb3P=w298-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipN3ZGjSYmLzuqnxq6yMDzlv_K_c-DCJ7PuSeNq2=w298-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=551VffsTgU0HW3JiHmzp1A&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=354.7732&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "11:30 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "11:30 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "11:30 a.m.-11 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "11:30 a.m.-11 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "11:30 a.m.-1 a.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "11 a.m.-1 a.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "11 a.m.-10 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "Food is good, portions are great for what you pay and flavours are good. Best Authentic Mexican Restaurant in Gastown.",
+            "reviewer_name": "Karli Geoghegan",
+            "rating": 4,
+            "review_text": "Food is good, portions are great for what you pay and flavours are good. Best Authentic Mexican Restaurant in Gastown.",
+            "published_at": "5 days ago",
+            "published_at_date": "2023-11-26T05:42:53.357000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 126,
+            "total_number_of_photos_by_reviewer": 359,
+            "reviewer_url": "https://www.google.com/maps/contrib/100127463952635184861/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocL4OAZZiJ_KP2UCH3oIbAzREX0q-zoDt_osGBgECHTy=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNVhlYL58ihbYyZW8W0CjMs3d9QcSJWS4OdhBvJ=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPP5yKBONm-ThtwFDlZoDy12OEGaFvejmcH8LiB=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMCGmP4XSbPSrT2hH3V6QB6_wrUHY1KxT9T_-aq=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "I can't stop thinking about chicken fajitas after trying them here at La Casita, the sides are all great, and the chicken is perfectly seasoned, juicy, and freshly cooked. It is expensive but it lasts 2 meals. Also the service is basically absent to barely existent but I personally like that because I'm just there to eat! (Thus the 5 star rating, solely based on food). You have to try La Casita!",
+            "reviewer_name": "Angelica Yee",
+            "rating": 5,
+            "review_text": "I can't stop thinking about chicken fajitas after trying them here at La Casita, the sides are all great, and the chicken is perfectly seasoned, juicy, and freshly cooked. It is expensive but it lasts 2 meals. Also the service is basically absent to barely existent but I personally like that because I'm just there to eat! (Thus the 5 star rating, solely based on food). You have to try La Casita!",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-03T22:18:21.540000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 94,
+            "total_number_of_photos_by_reviewer": 676,
+            "reviewer_url": "https://www.google.com/maps/contrib/107218974871497034592/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIr3srBJMIg9Mn4558UaVKIJc-QWf8JJbonlLAk1KMChw=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPXUsdRyl1RrSMWelnpQR6eEXiuc73WgSVcKiRi=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPhdXxfo62T8_ILs6_lk9bS0JIXHuS-dS44dFjH=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOOxuvRQL9fho85GVoKYcBKrxc0rM1YfvlYGHJg=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMdBoTP9yYJbjuAaeUS2UfsWTFtoqPV38gTewiU=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOgtH4tyHEMZkJd1zR3ywopiGC64o4rjEivsvFS=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMP2ZrpprfTKZ3-0EsQfBQfewOynsYEy5RDOmbs=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOVGSGmkRphO5H6vK4GgwWMAsEilshER_qpQBeG=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "We tried this spot tonight for the first time. It was Taco Tuesday so the tacos were on for $4 each. We tried a selection of them and they were delicious. Very fresh!\n\nWe also tried the nachos and jalapeno poppers. The nachos had toppings on every bite (nacho fans will know how important this is haha) and the poppers were perfect.\n\nThe service was wonderful. Friendly and charismatic staff!\n\nWe also had some margaritas (mango and strawberry.)\n\n10/10 would recommend this spot.\nDate spot or a night out with friends, the atmosphere suits any occasion.",
+            "reviewer_name": "Katherine",
+            "rating": 5,
+            "review_text": "We tried this spot tonight for the first time. It was Taco Tuesday so the tacos were on for $4 each. We tried a selection of them and they were delicious. Very fresh!\n\nWe also tried the nachos and jalapeno poppers. The nachos had toppings on every bite (nacho fans will know how important this is haha) and the poppers were perfect.\n\nThe service was wonderful. Friendly and charismatic staff!\n\nWe also had some margaritas (mango and strawberry.)\n\n10/10 would recommend this spot.\nDate spot or a night out with friends, the atmosphere suits any occasion.",
+            "published_at": "6 months ago",
+            "published_at_date": "2023-05-10T04:40:47.132000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 4,
+            "total_number_of_reviews_by_reviewer": 33,
+            "total_number_of_photos_by_reviewer": 21,
+            "reviewer_url": "https://www.google.com/maps/contrib/110093927096597790520/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW6Hnrqi1_ULWeqRGq9bHaim34JVQocjpLZUKtE_9R9BlQ=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipO22m3F13w0CX940P9vv159soE6ET2F49ZSR8SB=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOZb86ukC4tu160Ttgl7OhE-YnmpIt7oDj5EpzV=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOIO8xtQfZIPVNaxj_Do8oT4ql0MHW3D_tGRZun=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNcGniFf3WBwOqGiKnkx_AdTX93J4cgCiG5xRcn=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "The food was amazing. We had mango margaritas, enchiladas, quesadillas and Churros. Everything tasted great and healthy but the Churros felt average. Portion size is good. The servings come with rice, salads and beans on the sides. I would go again :)",
+            "reviewer_name": "Anagha Varma",
+            "rating": 4,
+            "review_text": "The food was amazing. We had mango margaritas, enchiladas, quesadillas and Churros. Everything tasted great and healthy but the Churros felt average. Portion size is good. The servings come with rice, salads and beans on the sides. I would go again :)",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-24T22:16:27.274000Z",
+            "response_from_owner_text": "Thanks for visiting! So glad you liked it \t",
+            "response_from_owner_ago": "2 months ago",
+            "response_from_owner_date": "2023-09-26T00:18:30.341000Z",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 19,
+            "total_number_of_photos_by_reviewer": 12,
+            "reviewer_url": "https://www.google.com/maps/contrib/115897808209379580376/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWn2at9Q-xXIzPGnhhYr-bjK9ASGU67ACkaeEXnzb2pz0Ga=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipM9hASNCL89DHsIdGuct-Es75Q3bt9jNz4iKgOB=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "We always have a great time when we go there. The food is so delicious and very authentic. The portions are very good size. The staff is very warm and friendly.\nNice rustic Mexican atmosphere, downstairs, good place for parties.\nOur favourites are the fajitas the nachos we get both chicken and beef and their sauces are absolutely amazing!\nPlan to make a reservation after 730 as it gets fairly busy on weekends!",
+            "reviewer_name": "Tasha Tran",
+            "rating": 5,
+            "review_text": "We always have a great time when we go there. The food is so delicious and very authentic. The portions are very good size. The staff is very warm and friendly.\nNice rustic Mexican atmosphere, downstairs, good place for parties.\nOur favourites are the fajitas the nachos we get both chicken and beef and their sauces are absolutely amazing!\nPlan to make a reservation after 730 as it gets fairly busy on weekends!",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-28T17:17:40.210000Z",
+            "response_from_owner_text": "Loved to hear that! Visit us again! \n",
+            "response_from_owner_ago": "a month ago",
+            "response_from_owner_date": "2023-10-29T23:32:25.387000Z",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 5,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/102718093188338506537/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLigcUaC9gciexXBxZOAG8_UlosJh2YOkwD1ASdMRT-Ug=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Very authentic taste.  Beef enchiladas are good.  The presentation is not fancy  very retro and authentic.  Service was great.",
+            "reviewer_name": "Ed Stirling",
+            "rating": 4,
+            "review_text": "Very authentic taste.  Beef enchiladas are good.  The presentation is not fancy  very retro and authentic.  Service was great.",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-10T01:10:32.502000Z",
+            "response_from_owner_text": "Thank you very much! See you soon \t",
+            "response_from_owner_ago": "a month ago",
+            "response_from_owner_date": "2023-10-14T16:55:33.718000Z",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 313,
+            "total_number_of_photos_by_reviewer": 272,
+            "reviewer_url": "https://www.google.com/maps/contrib/101139837080194446530/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocI2UPmcJAns1JRGXBDWfNJsDhx9cNxtZK7ozFPYcBXh=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNxSPmDIJUxTcrpKVz-ZKrdYUDj9EpaXVsqoQaW=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Food was really good, we got the small portion of tacos which was a perfect meal size. Both the pork and beef were excellent.\nService was nothing special which is the only reason we gave it a 4 star.",
+            "reviewer_name": "Dev Patrick",
+            "rating": 4,
+            "review_text": "Food was really good, we got the small portion of tacos which was a perfect meal size. Both the pork and beef were excellent.\nService was nothing special which is the only reason we gave it a 4 star.",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-23T01:46:22.683000Z",
+            "response_from_owner_text": "Loved to hear that! Visit us again! \t",
+            "response_from_owner_ago": "2 months ago",
+            "response_from_owner_date": "2023-09-26T00:17:42.509000Z",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 43,
+            "total_number_of_photos_by_reviewer": 11,
+            "reviewer_url": "https://www.google.com/maps/contrib/103516828199661501910/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUC-EzN3W-0ad1vcQ9Y12_dinqBlTOp_Sx2aLOmbOXt3w=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOXHFxMfEy5Ed4nl7MlPjAMJ2UNttkD0MPsMUFC=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "So gross. I asked if they had a verde enchiladas and clarified a green sauce and he said yes the \"suiza\", i thought that was odd but he assured me it was green. Anyways it's a dry tortilla with some dry chicken and a touch of an inedible cream sauce on top. Service was bad but food was worse. Avoid",
+            "reviewer_name": "Chloe C",
+            "rating": 1,
+            "review_text": "So gross. I asked if they had a verde enchiladas and clarified a green sauce and he said yes the \"suiza\", i thought that was odd but he assured me it was green. Anyways it's a dry tortilla with some dry chicken and a touch of an inedible cream sauce on top. Service was bad but food was worse. Avoid",
+            "published_at": "2 weeks ago",
+            "published_at_date": "2023-11-13T06:10:08.860000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 5,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/109867854993630854309/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIsHgqJInVN_Zv0Qg9mKbZwERkyS3Art-F8rvt41sdi=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOftvMi7XfgQc28kn1LEa5NGVQKi8S30uvHtQhH=w150-h150-k-no-p"
+            ]
+        }
+    ],
+    "is_spending_on_ads": false
+}

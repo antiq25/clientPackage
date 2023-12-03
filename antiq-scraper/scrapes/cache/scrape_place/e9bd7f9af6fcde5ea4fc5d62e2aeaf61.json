@@ -2,7 +2,7 @@
     "place_id": "ChIJ6-TGw05xhlQRQ_OTpRc00N0",
     "name": "McDonald's",
     "description": "Classic, long-running fast-food chain known for its burgers & fries.",
-    "reviews": 1111,
+    "reviews": 1114,
     "website": "https://www.mcdonalds.com/ca/en-ca/restaurant-locator.html%3Fy_source%3D1_MTQ1MjA3MTMtNzE1LWxvY2F0aW9uLndlYnNpdGU%253D",
     "owner": {
         "id": "103703144558421425158",
@@ -31,7 +31,7 @@
         },
         {
             "keyword": "management",
-            "count": 14
+            "count": 15
         },
         {
             "keyword": "homeless people",
@@ -70,11 +70,11 @@
     "status": "Open 24 hours",
     "price_range": "$",
     "reviews_per_rating": {
-        "1": 168,
+        "1": 169,
         "2": 122,
         "3": 262,
-        "4": 268,
-        "5": 291
+        "4": 269,
+        "5": 292
     },
     "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ6-TGw05xhlQRQ_OTpRc00N0&q=McDonald%27s&authuser=0&hl=en&gl=CA",
     "coordinates": {
@@ -300,16 +300,12 @@
             "link": "https://lh5.googleusercontent.com/p/AF1QipN55LHnSzwlsjmjSevhIhN8Qt3RDaC9-zbrZ5DK=w529-h298-k-no"
         },
         {
-            "about": "Latest",
-            "link": "https://lh5.googleusercontent.com/p/AF1QipOyr4vbW1HEkTI7pYaA3tUhrj82JiBLaAlhja9L=w224-h398-k-no"
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNyjghrxcxPamk5DMddzWiCmf3gCUSdB8MY519w=w397-h298-k-no"
         },
         {
             "about": "Videos",
-            "link": "https://lh5.googleusercontent.com/p/AF1QipN55LHnSzwlsjmjSevhIhN8Qt3RDaC9-zbrZ5DK=w529-h298-k-no"
-        },
-        {
-            "about": "Food & drink",
-            "link": "https://lh5.googleusercontent.com/p/AF1QipNyjghrxcxPamk5DMddzWiCmf3gCUSdB8MY519w=w397-h298-k-no"
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOyr4vbW1HEkTI7pYaA3tUhrj82JiBLaAlhja9L=w224-h398-k-no"
         },
         {
             "about": "Vibe",
@@ -333,12 +329,6 @@
         }
     ],
     "hours": [
-        {
-            "day": "Sunday",
-            "times": [
-                "Open 24 hours"
-            ]
-        },
         {
             "day": "Monday",
             "times": [
@@ -374,6 +364,12 @@
             "times": [
                 "Open 24 hours"
             ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "Open 24 hours"
+            ]
         }
     ],
     "featured_reviews": [
@@ -388,8 +384,8 @@
             "response_from_owner_ago": null,
             "response_from_owner_date": null,
             "review_likes_count": 0,
-            "total_number_of_reviews_by_reviewer": 158,
-            "total_number_of_photos_by_reviewer": 761,
+            "total_number_of_reviews_by_reviewer": 159,
+            "total_number_of_photos_by_reviewer": 763,
             "reviewer_url": "https://www.google.com/maps/contrib/109210106553769211722/reviews?entry=ttu",
             "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXBAHntFhNw_MLL38CMDEofbGauZM2Jqgrvyw4jOTgY7DE=s120-c-rp-mo-ba5-br100",
             "is_local_guide": true,
@@ -405,7 +401,7 @@
             "reviewer_name": "Iryna Shexira",
             "rating": 5,
             "review_text": "Small cafe, very pleasant service, quickly ordered coffee and chicken hamburger, muffins. It's very tasty and positive. The downsides are dirty tables and floors, a lot of garbage and an overflowing trash can right next to the tables, which was not very pleasant. We wiped our own table and sat for quite a long time. At the end of our meeting, workers came and removed everything from the trash can. We may have stopped by during their lunch hour, let's try again. But the kitchen itself was clean and the workers were in clean clothes. We'll come back again, maybe it will be cleaner. In any case, thank you, there was nothing stopping us from sitting and talking over coffee.",
-            "published_at": "4 weeks ago",
+            "published_at": "a month ago",
             "published_at_date": "2023-10-27T13:00:02.920000Z",
             "response_from_owner_text": null,
             "response_from_owner_ago": null,
@@ -430,6 +426,26 @@
             ]
         },
         {
+            "review_id": "Literally the slowest McDonald's in vancouver. Horrible service and the the restaurant is cold.\n\nI used to be a 1st assistant manager, right under ther store manager in Ontario.\n\nYou are serving off orders early to make it look good to to head office too save labour costs. You then post the stickers if the orders everywhere in absolute caos and the customer has too wait 15 minutes for a meal.\n\nThe store manager who drives a white tesla suv needs to understand he's running a Horrible operation that is not within McDonald standards.\n\nIt's the worst store I've been too outside of surrey.",
+            "reviewer_name": "Ashley Goldsmith",
+            "rating": 1,
+            "review_text": "Literally the slowest McDonald's in vancouver. Horrible service and the the restaurant is cold.\n\nI used to be a 1st assistant manager, right under ther store manager in Ontario.\n\nYou are serving off orders early to make it look good to to head office too save labour costs. You then post the stickers if the orders everywhere in absolute caos and the customer has too wait 15 minutes for a meal.\n\nThe store manager who drives a white tesla suv needs to understand he's running a Horrible operation that is not within McDonald standards.\n\nIt's the worst store I've been too outside of surrey.",
+            "published_at": "5 days ago",
+            "published_at_date": "2023-11-26T04:50:15.955000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 36,
+            "total_number_of_photos_by_reviewer": 3,
+            "reviewer_url": "https://www.google.com/maps/contrib/109561430372781663843/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKDPmyCRYnKX1H8GcqeG3dwjAaDpYEpptQ95HFrnfo8=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
             "review_id": "Area seems a bit shady at times because of its location just off Commercial and Broadway, but service has always been good and I've had no issues with their food",
             "reviewer_name": "T L",
             "rating": 4,
@@ -450,38 +466,18 @@
             "review_photos": []
         },
         {
-            "review_id": "It's McDonald's. For when you don't have time to get out of the car and you're okay on spending money on food that is utterly predictable and forgettable, it's one of your only options in this world. Sometimes as a bonus, it will trigger a childhood memory, good or bad.\n\nAnyway, it hasn't killed me yet, so that's something.\n\nThis particular McDonald's is not a drive thru, so there's almost no reason to go to it.\n\nAnd the washrooms are out of order most of the time.",
-            "reviewer_name": "Christopher Comrie",
-            "rating": 2,
-            "review_text": "It's McDonald's. For when you don't have time to get out of the car and you're okay on spending money on food that is utterly predictable and forgettable, it's one of your only options in this world. Sometimes as a bonus, it will trigger a childhood memory, good or bad.\n\nAnyway, it hasn't killed me yet, so that's something.\n\nThis particular McDonald's is not a drive thru, so there's almost no reason to go to it.\n\nAnd the washrooms are out of order most of the time.",
-            "published_at": "2 months ago",
-            "published_at_date": "2023-09-18T07:58:36.524000Z",
-            "response_from_owner_text": null,
-            "response_from_owner_ago": null,
-            "response_from_owner_date": null,
-            "review_likes_count": 0,
-            "total_number_of_reviews_by_reviewer": 34,
-            "total_number_of_photos_by_reviewer": 2,
-            "reviewer_url": "https://www.google.com/maps/contrib/117563107270266706940/reviews?entry=ttu",
-            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXaBf1rT4PSsrClTltpwjqxa2vJfBXT3Muii6sYQt3rYDc2=s120-c-rp-mo-ba3-br100",
-            "is_local_guide": true,
-            "review_translated_text": null,
-            "response_from_owner_translated_text": null,
-            "review_photos": []
-        },
-        {
             "review_id": "Right at the Broadway and Commercial Skytrain. Sketchy location, no drive through, and small for a McD's.",
             "reviewer_name": "phung pham",
             "rating": 4,
             "review_text": "Right at the Broadway and Commercial Skytrain. Sketchy location, no drive through, and small for a McD's.",
-            "published_at": "2 months ago",
+            "published_at": "3 months ago",
             "published_at_date": "2023-08-27T18:43:16.187000Z",
             "response_from_owner_text": null,
             "response_from_owner_ago": null,
             "response_from_owner_date": null,
             "review_likes_count": 0,
-            "total_number_of_reviews_by_reviewer": 461,
-            "total_number_of_photos_by_reviewer": 3749,
+            "total_number_of_reviews_by_reviewer": 467,
+            "total_number_of_photos_by_reviewer": 3801,
             "reviewer_url": "https://www.google.com/maps/contrib/103522675645782113531/reviews?entry=ttu",
             "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocK0rFjtCeGxSrJ-h2ObTcU_jEaTQHiemdEwxMtWHt2s=s120-c-rp-mo-ba6-br100",
             "is_local_guide": true,
@@ -504,10 +500,30 @@
             "response_from_owner_ago": null,
             "response_from_owner_date": null,
             "review_likes_count": 0,
-            "total_number_of_reviews_by_reviewer": 119,
+            "total_number_of_reviews_by_reviewer": 121,
             "total_number_of_photos_by_reviewer": 91,
             "reviewer_url": "https://www.google.com/maps/contrib/111345848118386175683/reviews?entry=ttu",
             "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW_eqmeTEjmboqd0dstZiZBgKAXT4t3-yuifdg4M1DVkLko=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "It's McDonald's. For when you don't have time to get out of the car and you're okay on spending money on food that is utterly predictable and forgettable, it's one of your only options in this world. Sometimes as a bonus, it will trigger a childhood memory, good or bad.\n\nAnyway, it hasn't killed me yet, so that's something.\n\nThis particular McDonald's is not a drive thru, so there's almost no reason to go to it.\n\nAnd the washrooms are out of order most of the time.",
+            "reviewer_name": "Christopher Comrie",
+            "rating": 2,
+            "review_text": "It's McDonald's. For when you don't have time to get out of the car and you're okay on spending money on food that is utterly predictable and forgettable, it's one of your only options in this world. Sometimes as a bonus, it will trigger a childhood memory, good or bad.\n\nAnyway, it hasn't killed me yet, so that's something.\n\nThis particular McDonald's is not a drive thru, so there's almost no reason to go to it.\n\nAnd the washrooms are out of order most of the time.",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-18T07:58:36.524000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 34,
+            "total_number_of_photos_by_reviewer": 2,
+            "reviewer_url": "https://www.google.com/maps/contrib/117563107270266706940/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXaBf1rT4PSsrClTltpwjqxa2vJfBXT3Muii6sYQt3rYDc2=s120-c-rp-mo-ba3-br100",
             "is_local_guide": true,
             "review_translated_text": null,
             "response_from_owner_translated_text": null,
@@ -534,26 +550,6 @@
             "review_photos": [
                 "https://lh5.googleusercontent.com/p/AF1QipOi9UV44E1FWRuEogyMAsp0Vi5i8SntbYBrT4KA=w150-h150-k-no-p"
             ]
-        },
-        {
-            "review_id": "Right at the Broadway and Commercial Skytrain. Sketchy location, no drive through, and small for a McD's. But that said the staff is outstanding and these ladies run it like a clock. Always pleasant and very quick.",
-            "reviewer_name": "Tim Challenger",
-            "rating": 3,
-            "review_text": "Right at the Broadway and Commercial Skytrain. Sketchy location, no drive through, and small for a McD's. But that said the staff is outstanding and these ladies run it like a clock. Always pleasant and very quick.",
-            "published_at": "5 months ago",
-            "published_at_date": "2023-06-15T20:09:36.778000Z",
-            "response_from_owner_text": null,
-            "response_from_owner_ago": null,
-            "response_from_owner_date": null,
-            "review_likes_count": 0,
-            "total_number_of_reviews_by_reviewer": 24,
-            "total_number_of_photos_by_reviewer": 4,
-            "reviewer_url": "https://www.google.com/maps/contrib/118242544731504748012/reviews?entry=ttu",
-            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUFff5VF5JhawDBSicnj93wOJheSypMSMrCRTY3MMdxhg=s120-c-rp-mo-br100",
-            "is_local_guide": false,
-            "review_translated_text": null,
-            "response_from_owner_translated_text": null,
-            "review_photos": []
         }
     ],
     "is_spending_on_ads": false

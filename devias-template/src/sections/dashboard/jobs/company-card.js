@@ -77,7 +77,7 @@ export const CompanyCard = (props) => {
                 spacing={1}
                 direction="row"
               >
-                <SvgIcon color="action">
+                <SvgIcon color="primary">
                   <Star01Icon />
                 </SvgIcon>
                 <Typography

@@ -1,0 +1,529 @@
+{
+    "place_id": "ChIJP0uoutRzhlQRZ3p1bV9B9AQ",
+    "name": "Vera's Burger Shack",
+    "description": null,
+    "reviews": 926,
+    "website": "http://www.verasburgershack.com/",
+    "owner": {
+        "id": "102625787872167899570",
+        "name": "Vera's Burger Shack (Owner)",
+        "link": "https://www.google.com/maps/contrib/102625787872167899570"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNMDxsDd9uMOwGtxZ_5TpZ4Du4m0aq4U4FFe8Rx=w408-h306-k-no",
+    "main_category": "Hamburger restaurant",
+    "categories": [
+        "Hamburger restaurant",
+        "American restaurant",
+        "Fast food restaurant",
+        "Restaurant"
+    ],
+    "rating": 4.2,
+    "workday_timing": "12 p.m.-5 a.m.",
+    "closed_on": [],
+    "phone": "(604) 893-8372",
+    "address": "Vera's Burger Shack, 1030 Davie St, Vancouver, BC V6E 1N2",
+    "review_keywords": [
+        {
+            "keyword": "onion rings",
+            "count": 23
+        },
+        {
+            "keyword": "bun",
+            "count": 19
+        },
+        {
+            "keyword": "poutine",
+            "count": 17
+        },
+        {
+            "keyword": "lamb",
+            "count": 17
+        },
+        {
+            "keyword": "night",
+            "count": 12
+        },
+        {
+            "keyword": "phone",
+            "count": 8
+        },
+        {
+            "keyword": "coupon",
+            "count": 7
+        },
+        {
+            "keyword": "ruby",
+            "count": 6
+        },
+        {
+            "keyword": "dollars",
+            "count": 6
+        },
+        {
+            "keyword": "check",
+            "count": 5
+        }
+    ],
+    "link": "https://www.google.com/maps/place/Vera%27s+Burger+Shack/data=!4m7!3m6!1s0x548673d4baa84b3f:0x4f4415f6d757a67!8m2!3d49.2795134!4d-123.1300768!16s%2Fg%2F1xfsnfmg!19sChIJP0uoutRzhlQRZ3p1bV9B9AQ?authuser=0&hl=en&rclk=1",
+    "status": "Open  Closes 5 a.m.  Reopens 12 p.m.",
+    "price_range": "$$",
+    "reviews_per_rating": {
+        "1": 79,
+        "2": 35,
+        "3": 71,
+        "4": 202,
+        "5": 539
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJP0uoutRzhlQRZ3p1bV9B9AQ&q=Vera%27s+Burger+Shack&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.2795134,
+        "longitude": -123.1300768
+    },
+    "plus_code": "7VH9+RX Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "Davie Village",
+        "street": "1030 Davie St",
+        "city": "Vancouver",
+        "postal_code": "V6E 1N2",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "356982148583225959",
+    "data_id": "0x548673d4baa84b3f:0x4f4415f6d757a67",
+    "menu": {
+        "link": "http://places.singleplatform.com/veras-burger-shack-8/menu%3Fref%3Dgoogle",
+        "source": "places.singleplatform.com"
+    },
+    "reservations": [],
+    "order_online_links": [
+        {
+            "link": "https://www.skipthedishes.com/veras-burger-shack-davie-st?serviceType=delivery&utm_source=google&utm_medium=organic&utm_campaign=gpav2",
+            "source": "skipthedishes.com"
+        },
+        {
+            "link": "https://www.doordash.com/store/vera%27s-burger-shack-vancouver-31109/?utm_campaign=gpa",
+            "source": "doordash.com"
+        },
+        {
+            "link": "https://www.ubereats.com/ca/store/veras-burger-shack-davie/3f4HjH5XSkuFZtPyHfS2mg?utm_campaign=place-action-link&utm_medium=organic&utm_source=google",
+            "source": "ubereats.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Takeout",
+                    "enabled": true
+                },
+                {
+                    "name": "Dine-in",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair accessible seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Alcohol",
+                    "enabled": true
+                },
+                {
+                    "name": "Beer",
+                    "enabled": true
+                },
+                {
+                    "name": "Late-night food",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Dining options",
+            "options": [
+                {
+                    "name": "Lunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Dinner",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosphere",
+            "options": [
+                {
+                    "name": "Casual",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "crowd",
+            "name": "Crowd",
+            "options": [
+                {
+                    "name": "Groups",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planning",
+            "options": [
+                {
+                    "name": "Accepts reservations",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "children",
+            "name": "Children",
+            "options": [
+                {
+                    "name": "Good for kids",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNMDxsDd9uMOwGtxZ_5TpZ4Du4m0aq4U4FFe8Rx=w397-h298-k-no"
+        },
+        {
+            "about": "Latest",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMWjV-pjWsJubMiLXXmr1TeK1tpbZPhWHOyOkyV=w224-h298-k-no"
+        },
+        {
+            "about": "Menu",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipP8SQq0AeNysBAckeSdh6086d47rmmGJbopLYkz=w397-h298-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOTjbLuuLzgDWu6ZxyCXVdsqlNFZsUjn5OgmDzD=w224-h298-k-no"
+        },
+        {
+            "about": "Vibe",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPiXZJuIaf7cme47KSB8s0Hhanj485nk9Ybdg5N=w397-h298-k-no"
+        },
+        {
+            "about": "Take-out",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNxr8IRe9FdYjL2BuNuyV_eov0aslPe4c7MrGtC=w224-h298-k-no"
+        },
+        {
+            "about": "Hamburger",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipO5j2Xa8SvAM8ZQjstzkdhmPQf6ymQAfHh0dFg9=w397-h298-k-no"
+        },
+        {
+            "about": "French fries",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipN9RgjrsBQ2QCE5v22iPnAJ7QSXPI6Ksg3LnYLK=w397-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNaibq9yUZXZRN7lAG4Pf7wlGbX848yiuWlFrVJ=w224-h398-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=m-sY5UjY2b1u-rHN75E_lQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=264.7414&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Sunday",
+            "times": [
+                "12 p.m.-5 a.m."
+            ]
+        },
+        {
+            "day": "Monday",
+            "times": [
+                "12 p.m.-5 a.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "12 p.m.-5 a.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "12 p.m.-5 a.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "12 p.m.-5 a.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "12 p.m.-5 a.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "12 p.m.-5 a.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "This burgers are really tasty!, if you are walking in davie, the place is kind of dusty and dark, but when i first try it there, where delicious, this time i order to go and the flavor was consistent!, you wont be disappointed!",
+            "reviewer_name": "Paulina Pedrero Miranda",
+            "rating": 4,
+            "review_text": "This burgers are really tasty!, if you are walking in davie, the place is kind of dusty and dark, but when i first try it there, where delicious, this time i order to go and the flavor was consistent!, you wont be disappointed!",
+            "published_at": "5 days ago",
+            "published_at_date": "2023-11-25T13:48:38.526000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 166,
+            "total_number_of_photos_by_reviewer": 719,
+            "reviewer_url": "https://www.google.com/maps/contrib/108624088905627547078/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVz2MW89cAcw7j6S5G-p0A-EQqj7bNZ5B7CraxoCUZRqoQ=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNBoK88ZFMD_kHhSV09qbyodTRTCks0PMFI12Oe=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOeI2ySCJqm83Q3seGQx14P3ED8k7hWx-cIrj0v=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNKABBfGI9JJNaDR1E00qYribnMrnI1tPdKnjbc=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipO6LExd1Skqk5jm5zXgfFMdWc4uOaLEWL6B4R7C=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMWjV-pjWsJubMiLXXmr1TeK1tpbZPhWHOyOkyV=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Best burger place in town. The flavours are amazing and the meat is juicy and delicious. The staff is friendly and the ambience is great. Must visit!",
+            "reviewer_name": "Tanveen Luthra",
+            "rating": 5,
+            "review_text": "Best burger place in town. The flavours are amazing and the meat is juicy and delicious. The staff is friendly and the ambience is great. Must visit!",
+            "published_at": "a week ago",
+            "published_at_date": "2023-11-23T01:34:05.784000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 26,
+            "total_number_of_photos_by_reviewer": 5,
+            "reviewer_url": "https://www.google.com/maps/contrib/103173108491340588941/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIVIoGrBT-tL7ktecZ72J5L4k8rMTlw0sLR40mfa7wc=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNxr8IRe9FdYjL2BuNuyV_eov0aslPe4c7MrGtC=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMbIbjhD-WVG9NZsTfBiQOo1aZEqjGIfqBgY-kO=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "4 people, zero online orders but the lady cooking and chewing bacon is a nice touch. Super appreciated the attitude picking up an order with the classic eyeroll too. The guys at the table near me are being served single burgers at a time, have these people ever worked a restaurant or are they having a bad night and spiting their guests.\n\nLady with the ponytail should probably also wear a hair net or a hat, I probably won't be back but I'm very questionable of how this is being upheld.\n\nSuper weird a restaurant that specializes in making burgers that this one particular person seems to be struggling making a few burgers(2, along with some burgers sitting on the side probably out of spite) they've been sitting there for the past 20 minutes.",
+            "reviewer_name": "Maxwell Arant",
+            "rating": 1,
+            "review_text": "4 people, zero online orders but the lady cooking and chewing bacon is a nice touch. Super appreciated the attitude picking up an order with the classic eyeroll too. The guys at the table near me are being served single burgers at a time, have these people ever worked a restaurant or are they having a bad night and spiting their guests.\n\nLady with the ponytail should probably also wear a hair net or a hat, I probably won't be back but I'm very questionable of how this is being upheld.\n\nSuper weird a restaurant that specializes in making burgers that this one particular person seems to be struggling making a few burgers(2, along with some burgers sitting on the side probably out of spite) they've been sitting there for the past 20 minutes.",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-06T11:01:56.998000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 37,
+            "total_number_of_photos_by_reviewer": 2,
+            "reviewer_url": "https://www.google.com/maps/contrib/100778349550694614472/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJ6vxWuDM0-W_RF3uci1w6qu1gtNYBUoZQMBNsEpO9c=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPUquNxxhYl_1akXZqVFe3ft4CQMgpgYIJM3cMv=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Everything about the burger here was perfect and tasted like a home made burger. \nEveryone, give it a try and you probably won't regret it. ",
+            "reviewer_name": "Rora Kim",
+            "rating": 5,
+            "review_text": "Everything about the burger here was perfect and tasted like a home made burger. \nEveryone, give it a try and you probably won't regret it. ",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-28T13:40:53.638000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 2,
+            "reviewer_url": "https://www.google.com/maps/contrib/106859868029183503075/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUXPwdKu2rJg-F8-Gl8BPAUkuT2rZ1vPAM5LVmjRsUvLdI=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNkpVJOUD9temZtfk5q-JzYZzZX_d5BesD5IuRW=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Hi, who ever the owner to the store, please check your camera. The lady in the kitchen was on the phone (not talking to the customer) all the time. Just one order she was preparing for long time. There was literally no customer inside this restaurant. Please do check your cameras, this is not how you treat the others. Definitely you will loose whole lot of customers. Never experienced like this before!! It's my kind request please take it in to consideration. Thanks ",
+            "reviewer_name": "Kalaiselvan Vijayakumar",
+            "rating": 1,
+            "review_text": "Hi, who ever the owner to the store, please check your camera. The lady in the kitchen was on the phone (not talking to the customer) all the time. Just one order she was preparing for long time. There was literally no customer inside this restaurant. Please do check your cameras, this is not how you treat the others. Definitely you will loose whole lot of customers. Never experienced like this before!! It's my kind request please take it in to consideration. Thanks ",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-09T21:05:13.783000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 3,
+            "total_number_of_photos_by_reviewer": 2,
+            "reviewer_url": "https://www.google.com/maps/contrib/102950918705868559733/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLTmeUI87nhB6OkPYehq24Qt8cBcQsekY9A3Cw2COuB=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Excellent burger im from Montreal and next time I come back to this area, I will definitely come back. Thank you Vera",
+            "reviewer_name": "David Bou-Chebl",
+            "rating": 5,
+            "review_text": "Excellent burger im from Montreal and next time I come back to this area, I will definitely come back. Thank you Vera",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-21T22:27:16.191000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 3,
+            "total_number_of_photos_by_reviewer": 2,
+            "reviewer_url": "https://www.google.com/maps/contrib/110158971581595501531/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocK6hv-WJG5plN7Y3Y3xf9ryqK9ApP8c_poebVm97iSA=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOTjbLuuLzgDWu6ZxyCXVdsqlNFZsUjn5OgmDzD=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "We were looking for a place to eat our first night visiting Vancouver and decided to try Vera's since it was close to our hotel. Unfortunately, the experience was largely disappointing.\n\n+ Good service. We were promptly greeted by the two ladies working there. They were friendly and both checked in during our meal to ask how things were.\n+ Portion sizes were reasonable.\n\n- Pricey: We ordered the G-Money burger, Cajun burger, a side of fries and a Coke, which came to $42. The G-Money burger was also $17 in-store despite being listed online for $13.\n- Lack of seasoning: The burgers and fries were both very bland because they had absolutely no seasoning. The flavour of the beef and fries could greatly benefit from a little salt and pepper.\n- The cut and texture of the fries were not the most appealing. Also, the fries in our basket were a mix of piping hot and cold.\n- We noticed a lot of gnats flying around while we were eating, which often makes you question cleanliness behind the scenes.\n\nI am not a local, but if I was, I would not be back a second time.",
+            "reviewer_name": "Patrick Foy",
+            "rating": 2,
+            "review_text": "We were looking for a place to eat our first night visiting Vancouver and decided to try Vera's since it was close to our hotel. Unfortunately, the experience was largely disappointing.\n\n+ Good service. We were promptly greeted by the two ladies working there. They were friendly and both checked in during our meal to ask how things were.\n+ Portion sizes were reasonable.\n\n- Pricey: We ordered the G-Money burger, Cajun burger, a side of fries and a Coke, which came to $42. The G-Money burger was also $17 in-store despite being listed online for $13.\n- Lack of seasoning: The burgers and fries were both very bland because they had absolutely no seasoning. The flavour of the beef and fries could greatly benefit from a little salt and pepper.\n- The cut and texture of the fries were not the most appealing. Also, the fries in our basket were a mix of piping hot and cold.\n- We noticed a lot of gnats flying around while we were eating, which often makes you question cleanliness behind the scenes.\n\nI am not a local, but if I was, I would not be back a second time.",
+            "published_at": "2 years ago",
+            "published_at_date": "2021-10-26T17:02:59.570000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 15,
+            "total_number_of_reviews_by_reviewer": 38,
+            "total_number_of_photos_by_reviewer": 38,
+            "reviewer_url": "https://www.google.com/maps/contrib/113532183357430621428/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXg-1E6Pc_8y0gu7lrOIylFRELRRoaaT6MarhJX9C-V1A=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPfLCi2DOnYygX481W7ev84qlxgKK6YbhCG1kwt=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipM40GFXKY1I_rvq9VB9zAHgdCEkPdlJyJi5aThl=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipO4nSygsEnoztAECVhTanvA9TPyHyT7xM4oxRX9=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Such a delicious Straight forward Smashed patty burger. I had the Frank - it comes with hot dog sausageinside. I loved it. Their sauce is also so unique. Even though they were busy with takeout and deliveries one of the Attendant came to check on us if was everything good. I could also notice that their effort keeping the place clean, doing deep cleaning.",
+            "reviewer_name": "Renata Hedman",
+            "rating": 4,
+            "review_text": "Such a delicious Straight forward Smashed patty burger. I had the Frank - it comes with hot dog sausageinside. I loved it. Their sauce is also so unique. Even though they were busy with takeout and deliveries one of the Attendant came to check on us if was everything good. I could also notice that their effort keeping the place clean, doing deep cleaning.",
+            "published_at": "2 years ago",
+            "published_at_date": "2021-09-24T14:46:07.595000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 193,
+            "total_number_of_photos_by_reviewer": 994,
+            "reviewer_url": "https://www.google.com/maps/contrib/112712891367643762559/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVhN9VyULbvH0OHO-eJ3lgVYKzkeUTLAZVXthEmLfZY2XE0=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPEn4kpKCf3brbUtSqxN7F9gmLr8HBTskRIWDoA=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNhoy2zOqk2KrAUWIWc0DzJXWrFIgauoZV3VJSB=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNze0zICtiTX_a1q1TyCiaxhVTrrmXbeLl-rdNJ=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipND2Di9SyeqwVS3HNXSENeo3PK0XAW64Dz-M8QW=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPQfqtr6N28DaNdMyUxLyZNbqh5RTqD5pqlhS0P=w150-h150-k-no-p"
+            ]
+        }
+    ],
+    "is_spending_on_ads": false
+}

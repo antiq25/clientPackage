@@ -1,0 +1,570 @@
+{
+    "place_id": "ChIJ8RUtlPHmhVQRt7ABKd8r3gA",
+    "name": "McDonald's",
+    "description": "Classic, long-running fast-food chain known for its burgers & fries.",
+    "reviews": 1072,
+    "website": "https://www.mcdonalds.com/ca/en-ca/restaurant-locator.html%3Fy_source%3D1_MTQ1MTkzMTYtNzE1LWxvY2F0aW9uLndlYnNpdGU%253D",
+    "owner": {
+        "id": "113261994798798504736",
+        "name": "McDonald's (Owner)",
+        "link": "https://www.google.com/maps/contrib/113261994798798504736"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPuHwFFdQFiETFfhv0nzM4uQ3ijv7E1Bhdz1dnH=w408-h306-k-no",
+    "main_category": "Fast food restaurant",
+    "categories": [
+        "Fast food restaurant",
+        "American restaurant",
+        "Breakfast restaurant",
+        "Cafe",
+        "Hamburger restaurant",
+        "Restaurant"
+    ],
+    "rating": 3.6,
+    "workday_timing": "6 a.m.-10 p.m.",
+    "closed_on": [],
+    "phone": "(604) 948-3630",
+    "address": "McDonald's, 1835 56 St, Delta, BC V4L 2B4",
+    "review_keywords": [
+        {
+            "keyword": "drive thru",
+            "count": 54
+        },
+        {
+            "keyword": "coffee",
+            "count": 33
+        },
+        {
+            "keyword": "bag",
+            "count": 15
+        },
+        {
+            "keyword": "play area",
+            "count": 12
+        },
+        {
+            "keyword": "parking",
+            "count": 11
+        },
+        {
+            "keyword": "window",
+            "count": 8
+        },
+        {
+            "keyword": "tables",
+            "count": 8
+        },
+        {
+            "keyword": "ferry",
+            "count": 6
+        },
+        {
+            "keyword": "egg mcmuffin",
+            "count": 5
+        },
+        {
+            "keyword": "training",
+            "count": 5
+        }
+    ],
+    "link": "https://www.google.com/maps/place/McDonald%27s/data=!4m7!3m6!1s0x5485e6f1942d15f1:0xde2bdf2901b0b7!8m2!3d49.0359017!4d-123.0692097!16s%2Fg%2F1tcv5_pg!19sChIJ8RUtlPHmhVQRt7ABKd8r3gA?authuser=0&hl=en&rclk=1",
+    "status": "Closes soon  10 p.m.  Opens 6 a.m. Sun",
+    "price_range": "$",
+    "reviews_per_rating": {
+        "1": 141,
+        "2": 67,
+        "3": 211,
+        "4": 286,
+        "5": 367
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ8RUtlPHmhVQRt7ABKd8r3gA&q=McDonald%27s&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.0359017,
+        "longitude": -123.06920969999999
+    },
+    "plus_code": "2WPJ+98 Delta, British Columbia",
+    "detailed_address": {
+        "ward": "Tsawwassen",
+        "street": "1835 56 St",
+        "city": "Delta",
+        "postal_code": "V4L 2B4",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "62535682295443639",
+    "data_id": "0x5485e6f1942d15f1:0xde2bdf2901b0b7",
+    "menu": {
+        "link": "https://www.mcdonalds.com/ca/en-ca/full-menu.html%3Fy_source%3D1_MTQ1MTkzMTYtNzE1LWxvY2F0aW9uLm1lbnVfdXJs",
+        "source": "mcdonalds.com"
+    },
+    "reservations": [],
+    "order_online_links": [
+        {
+            "link": "https://www4.mcdonalds.ca/mcdeliverycanada/?y_source=1_MTQ1MTkzMTYtNzE1LWxvY2F0aW9uLm9yZGVyX3VybA%3D%3D",
+            "source": "mcdonalds.ca"
+        },
+        {
+            "link": "https://www.doordash.com/store/mcdonald%27s-delta-24519913/?utm_campaign=gpa",
+            "source": "doordash.com"
+        },
+        {
+            "link": "https://www.ubereats.com/ca/store/mcdonalds-1835-56th-street/9cAmU3fsTTuq9yw8XpHpDQ?utm_campaign=place-action-link&utm_medium=organic&utm_source=google",
+            "source": "ubereats.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Outdoor seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Drive-through",
+                    "enabled": true
+                },
+                {
+                    "name": "Takeout",
+                    "enabled": true
+                },
+                {
+                    "name": "Dine-in",
+                    "enabled": true
+                },
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair accessible seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Coffee",
+                    "enabled": true
+                },
+                {
+                    "name": "Late-night food",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Dining options",
+            "options": [
+                {
+                    "name": "Breakfast",
+                    "enabled": true
+                },
+                {
+                    "name": "Lunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Dinner",
+                    "enabled": true
+                },
+                {
+                    "name": "Counter service",
+                    "enabled": true
+                },
+                {
+                    "name": "Dessert",
+                    "enabled": true
+                },
+                {
+                    "name": "Seating",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosphere",
+            "options": [
+                {
+                    "name": "Casual",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "crowd",
+            "name": "Crowd",
+            "options": [
+                {
+                    "name": "Family-friendly",
+                    "enabled": true
+                },
+                {
+                    "name": "Groups",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "children",
+            "name": "Children",
+            "options": [
+                {
+                    "name": "Good for kids",
+                    "enabled": true
+                },
+                {
+                    "name": "Good for kids birthday",
+                    "enabled": true
+                },
+                {
+                    "name": "High chairs",
+                    "enabled": true
+                },
+                {
+                    "name": "Kids' menu",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "parking",
+            "name": "Parking",
+            "options": [
+                {
+                    "name": "Free parking lot",
+                    "enabled": true
+                },
+                {
+                    "name": "Parking",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPuHwFFdQFiETFfhv0nzM4uQ3ijv7E1Bhdz1dnH=w397-h298-k-no"
+        },
+        {
+            "about": "Menu",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipP3ZLWuGj64XRiM2Hfg5SwxQJcHjkIW7IKREM0u=w397-h298-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOBK7kVbcC8WWs7NNIlD9JHYTSGcegIloEhp3U_=w224-h298-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNy7OmG85yJtjWt9M16CfRM_nS4qXhoSgQPM2fh=w224-h298-k-no"
+        },
+        {
+            "about": "Vibe",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNWtzkMMGre9fm790BD4g2U-HqrVP-bcHaDrFc=w529-h298-k-no"
+        },
+        {
+            "about": "Take-out",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipO5guOkEn04m1xgVys8dU_pjN_dOipRP6afWwSd=w529-h298-k-no"
+        },
+        {
+            "about": "Hamburger",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPDro9wkxxYgCWoj66WM853Mo41HtORqPSZkdgL=w397-h298-k-no"
+        },
+        {
+            "about": "Comfort food",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPb3uha-0H2rCCkSQYra4fGH6W1epHHbiZG88GU=w224-h398-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMY0a72U3msT8_ci6dvfBuXfTk5nT417TOyGKXh=w529-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=H1VAC_x2H51a_2yvnx6-xQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=268.47952&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "6 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "6 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "6 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "6 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "6 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "6 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "6 a.m.-10 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "No wonder this McDonald's is so empty.\nI had 3 issues with my visit.\n1. It started with no receipt paper on self-order computer.\n2. Employees are so busy making drink lid and straw to make a drum kit at the cashier and not helping me.  Then he forgot to serve my food and had it sit 5 min  until manager realized that I have been standing for a while.\n3. When I ate, my chicken wrap had minimal lettuce and also over cooked chicken.(see the pictures)\n\nManager had to keep telling employees what to do.\nShe needs to fire these lazy ones that she needs to tell what to do.\n\nDefinitely I am not coming back to this location.",
+            "reviewer_name": "Shin Inagaki",
+            "rating": 1,
+            "review_text": "No wonder this McDonald's is so empty.\nI had 3 issues with my visit.\n1. It started with no receipt paper on self-order computer.\n2. Employees are so busy making drink lid and straw to make a drum kit at the cashier and not helping me.  Then he forgot to serve my food and had it sit 5 min  until manager realized that I have been standing for a while.\n3. When I ate, my chicken wrap had minimal lettuce and also over cooked chicken.(see the pictures)\n\nManager had to keep telling employees what to do.\nShe needs to fire these lazy ones that she needs to tell what to do.\n\nDefinitely I am not coming back to this location.",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-04T01:24:38.687000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 153,
+            "total_number_of_photos_by_reviewer": 526,
+            "reviewer_url": "https://www.google.com/maps/contrib/114387693660651292558/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJ_7ISoehsrPTJddSzEDGOumjcU1gy7zyJWKWda33_Z=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMhPwN8ioh0reMTA-ppwTNWAmdR49nKwkUsdUQ=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNWtzkMMGre9fm790BD4g2U-HqrVP-bcHaDrFc=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMayo6ON9uWTiCZpmtKdCwQOo9kCcl-5h-Xrxc=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipM6GRji_KpNilQPNsELkKHEAItZhhaQhu9Ekw8=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "I recently had a rather unsettling experience at this McDonald's, and I believe it's crucial to share my thoughts on the matter. While the incident itself was not catastrophic, it did raise some serious concerns regarding food safety and customer care.\n\nDuring my visit, I ordered a McFlurry. As I was enjoying it, I suddenly choked on a sharp piece of plastic that had broken off from a McFlurry lid and found its way into the ice cream. This was not just a random occurrence; the manager admitted to witnessing the lid break while mixing the McFlurry and still choosing to serve it. All she did was put a new lid on the McFlurry. This, in my view, is 100% negligence on the part of the staff.\n\nUpon reporting the incident, I was met with an apology from a supervisor who explained that  the recent plastic ban had prompted the use of a new mixer system that broke the lid. I was refunded for my meal and offered a $25 compensation. Frankly, I did not feel that this was an adequate response given the admitted negligence and the potential harm that could have resulted.\n\nAfter some back-and-forth discussions with the owner, I expressed how much more serious the issue could have been and the potential financial damages that could have arisen if I had swallowed the plastic. In response to my concerns, the owner eventually offered an additional $75 in gift cards. While this was a more substantial gesture, it still leaves me with lingering apprehension.\n\nMy concern remains that this situation had the potential to be far more serious. Had a child or someone else accidentally ingested the plastic, it could have led to not only a lawsuit but also significant public outcry and injury. Thankfully, I did not swallow the plastic, and my injuries were limited to a minor cut on my tongue. Nevertheless, the entire incident has left me feeling rattled.\n\nIn conclusion, while McDonald's did take some steps to address the situation and increase the compensation, I believe that a more thorough investigation and a more substantial gesture of goodwill were warranted. Food safety should always be a top priority, and I hope that incidents like this can serve as a wake-up call for better training and procedures in the future.",
+            "reviewer_name": "Kyle Gredt",
+            "rating": 1,
+            "review_text": "I recently had a rather unsettling experience at this McDonald's, and I believe it's crucial to share my thoughts on the matter. While the incident itself was not catastrophic, it did raise some serious concerns regarding food safety and customer care.\n\nDuring my visit, I ordered a McFlurry. As I was enjoying it, I suddenly choked on a sharp piece of plastic that had broken off from a McFlurry lid and found its way into the ice cream. This was not just a random occurrence; the manager admitted to witnessing the lid break while mixing the McFlurry and still choosing to serve it. All she did was put a new lid on the McFlurry. This, in my view, is 100% negligence on the part of the staff.\n\nUpon reporting the incident, I was met with an apology from a supervisor who explained that  the recent plastic ban had prompted the use of a new mixer system that broke the lid. I was refunded for my meal and offered a $25 compensation. Frankly, I did not feel that this was an adequate response given the admitted negligence and the potential harm that could have resulted.\n\nAfter some back-and-forth discussions with the owner, I expressed how much more serious the issue could have been and the potential financial damages that could have arisen if I had swallowed the plastic. In response to my concerns, the owner eventually offered an additional $75 in gift cards. While this was a more substantial gesture, it still leaves me with lingering apprehension.\n\nMy concern remains that this situation had the potential to be far more serious. Had a child or someone else accidentally ingested the plastic, it could have led to not only a lawsuit but also significant public outcry and injury. Thankfully, I did not swallow the plastic, and my injuries were limited to a minor cut on my tongue. Nevertheless, the entire incident has left me feeling rattled.\n\nIn conclusion, while McDonald's did take some steps to address the situation and increase the compensation, I believe that a more thorough investigation and a more substantial gesture of goodwill were warranted. Food safety should always be a top priority, and I hope that incidents like this can serve as a wake-up call for better training and procedures in the future.",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-08T21:58:10.788000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 111,
+            "total_number_of_photos_by_reviewer": 41,
+            "reviewer_url": "https://www.google.com/maps/contrib/116861777662343275374/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXJ2xNbNb4eQtRXGuqzQsPmzmNy2U41cSnXBQyZq6EuyLw=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNGN_CBDFb_FjO_21kCcFInh-ZrptpTsCngELJZ=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Y'all made my sandwich sloppy. No receipt paper left in the self checkouts. The floors are dirty like they ain't cleaned. And the bathroom is just a disaster. It was 8am when I visited this McDonald's, shouldn't be this dirty.",
+            "reviewer_name": "Jack Antos",
+            "rating": 1,
+            "review_text": "Y'all made my sandwich sloppy. No receipt paper left in the self checkouts. The floors are dirty like they ain't cleaned. And the bathroom is just a disaster. It was 8am when I visited this McDonald's, shouldn't be this dirty.",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-09-02T15:23:43.628000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 36,
+            "total_number_of_photos_by_reviewer": 4,
+            "reviewer_url": "https://www.google.com/maps/contrib/109317509547228151760/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKtK_9M-h2pl2XfJcNeQ4pi_eSeUa5v2Sy8H38YNbZU=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNuP0zvRPTp4GwKcgBNwcHY5C1qh1vofmci1mJq=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNelKCnERYcRI64uOkbYLbjJIFpbZnh0ZDt7W5x=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPhoCb0JkP9EeDsU4aRWY6KSBSUvpCdMZcbxjnX=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "This Mc donalds on 56st in Delta/Tsawwassen had some of the best costumer service.  my friend Tyler and l and his son came in for breakfast, they got my order correct which usually never happens I order extra items, they gave reed a free ice cream and a colouring book. The lady working was extremely friendly and informed us when we sat in the children's area that it hadn't been disinfected for three years and not to sit there. Yeah thumbs up great job ",
+            "reviewer_name": "Russell Victor T",
+            "rating": 5,
+            "review_text": "This Mc donalds on 56st in Delta/Tsawwassen had some of the best costumer service.  my friend Tyler and l and his son came in for breakfast, they got my order correct which usually never happens I order extra items, they gave reed a free ice cream and a colouring book. The lady working was extremely friendly and informed us when we sat in the children's area that it hadn't been disinfected for three years and not to sit there. Yeah thumbs up great job ",
+            "published_at": "a year ago",
+            "published_at_date": "2022-04-16T22:21:51.404000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 9,
+            "total_number_of_reviews_by_reviewer": 195,
+            "total_number_of_photos_by_reviewer": 4530,
+            "reviewer_url": "https://www.google.com/maps/contrib/113844992783283415843/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjX4HFZTjVonQ8I8ufWQu4La-y4IhDiWqaeqv5RLfIoJQLE=s120-c-rp-mo-ba7-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMdRd_OPyBlnv2oBt0Kyc22-D1wF4xoXj_IwOqn=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPMb9MhwLwUXcTMAUTI3_dkKao_WazqQbjonrsS=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNnFergn5_G-kHWrliunKDQz60uvjMVflwi_i2C=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMvvq9rFApATghqQDZxIXLpFab94Brx00jhoUfs=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPVN9Mhz_OynYDe8EbhEW9uM64BJQC1BOQtmXIR=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipN0qRe2NCXPgW8J53WTqe9XIiZ_0o1L1hWD9oA1=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPZdjsuVwXAwIo2RfeZO6RdeWAAvGCsLlrBzHTV=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNKgiZUsUvlHsuMUMO0AQDafq0PZTpfbHD22UDF=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "This location is extremely dirty.  The service was terrible. They made 3 mistakes on a very simple order.  The only bright side is they have a play area for children but bring the sanitizer they don't clean that area either. Washrooms have bugs and looked like they weren't cleaned in a long time.",
+            "reviewer_name": "richard edmonds",
+            "rating": 1,
+            "review_text": "This location is extremely dirty.  The service was terrible. They made 3 mistakes on a very simple order.  The only bright side is they have a play area for children but bring the sanitizer they don't clean that area either. Washrooms have bugs and looked like they weren't cleaned in a long time.",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-24T00:42:03.117000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 12,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/117617936754365747004/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKDOjh3aGWxKZKRgJkNXQPhQU6wn-cEwaxq4OyW_7aK=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Informed my nine grandkids that grandpa will never walk into this McDonald's ever again. Walk in customers don't matter, their policy of drive thru first walk-in last is warped. Thanks McDonalds for polluting our air quality. Having said that, this place is always filthy, every table you go to sit at is filthy, the food is way overpriced and is of garbage quality. Said it all before McDonalds has become a terrible experience. Bye forever",
+            "reviewer_name": "Bob Stansfield",
+            "rating": 1,
+            "review_text": "Informed my nine grandkids that grandpa will never walk into this McDonald's ever again. Walk in customers don't matter, their policy of drive thru first walk-in last is warped. Thanks McDonalds for polluting our air quality. Having said that, this place is always filthy, every table you go to sit at is filthy, the food is way overpriced and is of garbage quality. Said it all before McDonalds has become a terrible experience. Bye forever",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-07T14:28:27.225000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 9,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/106794525898885125650/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocL1UFic41Mu1jSXmutCsg99Fj43PH-thZz1G6RkM7AE=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "My only issue with this McD's is the drive through. I've been here many times and more often than not, the staff will ask you to pull ahead, park your car, and wait for your order to be brought to you instead of getting it at the drive through. I know it's not the worker's at fault here but this is a silly way of operating.",
+            "reviewer_name": "R P",
+            "rating": 4,
+            "review_text": "My only issue with this McD's is the drive through. I've been here many times and more often than not, the staff will ask you to pull ahead, park your car, and wait for your order to be brought to you instead of getting it at the drive through. I know it's not the worker's at fault here but this is a silly way of operating.",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-04T21:29:02.993000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 9,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/105094401215849401231/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJH-2vi2e5GXZLmfGIJxiu7Z1FDNDzL-y8WDlWut1U5=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Bad service!!! Most of the time there are issues with the order. Got hair in my bagel, ordered dd but got black coffee, said no meat got bacon in it!! There's always something wrong with them. So much wastage of time and money",
+            "reviewer_name": "Jot Jam",
+            "rating": 1,
+            "review_text": "Bad service!!! Most of the time there are issues with the order. Got hair in my bagel, ordered dd but got black coffee, said no meat got bacon in it!! There's always something wrong with them. So much wastage of time and money",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-13T20:02:22.754000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/107492426233529939844/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJQc-BXUPoenag3VCVMJYlAACgoJXbNSeD99v_Bqehn=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

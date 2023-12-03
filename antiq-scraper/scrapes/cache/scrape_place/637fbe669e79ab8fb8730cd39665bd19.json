@@ -1,0 +1,437 @@
+{
+    "place_id": "ChIJqXO6kVxxhlQRqEGMO-Df8kw",
+    "name": "Carnitas Don Jose",
+    "description": null,
+    "reviews": 65,
+    "website": "http://donjosecarnitas.ca/",
+    "owner": {
+        "id": "109858270505303731936",
+        "name": "Carnitas Don Jose (Owner)",
+        "link": "https://www.google.com/maps/contrib/109858270505303731936"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPnG4vk5OKvW69X8P8fMlMo7Yr1I3KbFn94sTdG=w408-h544-k-no",
+    "main_category": "Mexican restaurant",
+    "categories": [
+        "Mexican restaurant"
+    ],
+    "rating": 4.9,
+    "workday_timing": "9 a.m.-1 p.m.",
+    "closed_on": [
+        "Monday"
+    ],
+    "phone": "(672) 699-9872",
+    "address": "Carnitas Don Jose, 401 Industrial Ave, Vancouver, BC V6A 2P8",
+    "review_keywords": [
+        {
+            "keyword": "taste",
+            "count": 6
+        },
+        {
+            "keyword": "prices",
+            "count": 4
+        },
+        {
+            "keyword": "delivered",
+            "count": 4
+        },
+        {
+            "keyword": "tacos",
+            "count": 4
+        },
+        {
+            "keyword": "salsa",
+            "count": 3
+        }
+    ],
+    "link": "https://www.google.com/maps/place/Carnitas+Don+Jose/data=!4m7!3m6!1s0x5486715c91ba73a9:0x4cf2dfe03b8c41a8!8m2!3d49.2700024!4d-123.0957949!16s%2Fg%2F11s3vxkj18!19sChIJqXO6kVxxhlQRqEGMO-Df8kw?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 9 a.m.",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 1,
+        "2": 0,
+        "3": 1,
+        "4": 1,
+        "5": 62
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJqXO6kVxxhlQRqEGMO-Df8kw&q=Carnitas+Don+Jose&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.270002399999996,
+        "longitude": -123.0957949
+    },
+    "plus_code": "7WC3+2M Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "Strathcona",
+        "street": "401 Industrial Ave",
+        "city": "Vancouver",
+        "postal_code": "V6A 2P8",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "5544740245411217832",
+    "data_id": "0x5486715c91ba73a9:0x4cf2dfe03b8c41a8",
+    "menu": {
+        "link": "https://www.donjosecarnitas.ca/menucarnitasdonjose",
+        "source": "donjosecarnitas.ca"
+    },
+    "reservations": [],
+    "order_online_links": [
+        {
+            "link": "https://www.doordash.com/store/carnitas-don-jose-vancouver-23808237/?utm_campaign=gpa",
+            "source": "doordash.com"
+        },
+        {
+            "link": "https://www.ubereats.com/ca/store/carnitas-don-jose/pCG_huRuQ-GkLwvTe3AR-w?utm_campaign=place-action-link&utm_medium=organic&utm_source=google",
+            "source": "ubereats.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Curbside pickup",
+                    "enabled": true
+                },
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Takeout",
+                    "enabled": true
+                },
+                {
+                    "name": "Dine-in",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Dining options",
+            "options": [
+                {
+                    "name": "Lunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Dinner",
+                    "enabled": true
+                },
+                {
+                    "name": "Dessert",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosphere",
+            "options": [
+                {
+                    "name": "Casual",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPnG4vk5OKvW69X8P8fMlMo7Yr1I3KbFn94sTdG=w224-h298-k-no"
+        },
+        {
+            "about": "Latest",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMFAmK13IbuclDIc7xYYrJQLY3JJ2mNoAHtyWTG=w224-h398-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPUyz2dKKip-6flV-ELHh8kuPD03VDgnBS4T-_r=w230-h298-k-no"
+        },
+        {
+            "about": "Menu",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNYUiW8Uypb3CPxdN6N152wQTdDDWDb3QM46RX5=w224-h298-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPUyz2dKKip-6flV-ELHh8kuPD03VDgnBS4T-_r=w230-h298-k-no"
+        },
+        {
+            "about": "Take-out",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNtDmyBNJiDIni9gRVSLRu56NA7FPDO9nT2HWTg=w447-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNX_LVJqPAJ4ceVsaDCFEU12JmNA8HZ1QzqL2_X=w224-h398-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=NknkZAsmPaq3JvzKtUVBVw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=101.27403&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "Closed"
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "9 a.m.-1 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "9 a.m.-1 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "9 a.m.-1 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "9 a.m.-5 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "9 a.m.-5 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "9 a.m.-5 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "I have ordered through UberEATS but these carnitas are the best ones I have tried so far! They are absolutely tasty, not too greasy, and the temperature is just right.\n\nIt may be a bit pricey but it is totally worth it.",
+            "reviewer_name": "Karla Olguin",
+            "rating": 5,
+            "review_text": "I have ordered through UberEATS but these carnitas are the best ones I have tried so far! They are absolutely tasty, not too greasy, and the temperature is just right.\n\nIt may be a bit pricey but it is totally worth it.",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-30T18:27:01.986000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 145,
+            "total_number_of_photos_by_reviewer": 36,
+            "reviewer_url": "https://www.google.com/maps/contrib/116614622998251684521/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXHJ_vHaPKvocsaKjDVrNo9hum6I6lDxW11AjGNgq1YuYc=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "The best carnitas in Vancouver! ",
+            "reviewer_name": "Joshua Badillo Arciniega",
+            "rating": 5,
+            "review_text": "The best carnitas in Vancouver! ",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-22T07:29:03.132000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 57,
+            "total_number_of_photos_by_reviewer": 178,
+            "reviewer_url": "https://www.google.com/maps/contrib/115203200238391596635/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjV1m5EGg0kLYeeBgiy3AqkEO2eVyLV4pZGPbLVxDWY8tcwt=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPJXHFD46fYwLroXzKZ_UmumCpEVpEBo67CFp7_=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "A little hard to find and just for take out.\nBut the service is really good.\nPrices and delicious flavor, carnitas so juicy.\nA real taste of Mexican flavor in Vancouver.",
+            "reviewer_name": "L.R.",
+            "rating": 5,
+            "review_text": "A little hard to find and just for take out.\nBut the service is really good.\nPrices and delicious flavor, carnitas so juicy.\nA real taste of Mexican flavor in Vancouver.",
+            "published_at": "5 months ago",
+            "published_at_date": "2023-06-13T18:24:50.522000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 16,
+            "total_number_of_photos_by_reviewer": 21,
+            "reviewer_url": "https://www.google.com/maps/contrib/111554374662227113034/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVpNNJZQphbzfmmSeA1wDQwznZkaI0tlCS8VYdqWWQAEag=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Best carnitas in Vancouver.\nThe authentically Mexican flavour.\nI definitely  recommend it ",
+            "reviewer_name": "Cinthya Sanchez",
+            "rating": 5,
+            "review_text": "Best carnitas in Vancouver.\nThe authentically Mexican flavour.\nI definitely  recommend it ",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-29T18:42:19.581000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/112558237692233793893/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocISqRBBYFK3gODVBiG7xIHFegraLVG3Cj3Jsu1kgKs7=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Best Carnitas, salsas and service!!!! Best carnitas in Vancouver.",
+            "reviewer_name": "Bety V Silva",
+            "rating": 5,
+            "review_text": "Best Carnitas, salsas and service!!!! Best carnitas in Vancouver.",
+            "published_at": "a year ago",
+            "published_at_date": "2022-11-29T06:33:31.410000Z",
+            "response_from_owner_text": "Thanks Bety! Anytime ",
+            "response_from_owner_ago": "10 months ago",
+            "response_from_owner_date": "2023-01-20T20:06:41.168000Z",
+            "review_likes_count": 3,
+            "total_number_of_reviews_by_reviewer": 11,
+            "total_number_of_photos_by_reviewer": 14,
+            "reviewer_url": "https://www.google.com/maps/contrib/113813566753776731956/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIx1mqYduKOI0Dw8etMB2JzryimI-vHL1fCnAMJa4UV=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPWk-cMjfViydIuSa8xJgHly9jtZAVAONIZ7puF=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOfdJJ0dh2p3iquVB8FVnMPdZPjT8yMBNDsAncj=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMaKYhOuPT1mm6HFznDFOPbzn9UG_EGDm1ECiuy=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNOHxVZXfHoSuXLF-RqS0sp_p4JiUFNnrimHfT4=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOYk-cbCXt5nmqogo1GPAVa3H-3EnLhN3qTZklL=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipM6q91yeP8Gxkt0n7HnstgCpzOD_S7o1mVqduYS=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOeXLEKNXedandODFlZ5VO1QZXk8K9U4MhQmkiC=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMslFjUN_-AImo4L-T6sLaZ9qPy3gU3O05oq3tN=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMfLrJ5gftr7voH67wxrkedJqF-Mye62gF_0rOV=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "We order the lunch box. Very good taste, almost like Mexican place\n\n4 tacos and one coke",
+            "reviewer_name": "Anaisa Munoz",
+            "rating": 5,
+            "review_text": "We order the lunch box. Very good taste, almost like Mexican place\n\n4 tacos and one coke",
+            "published_at": "6 months ago",
+            "published_at_date": "2023-05-11T05:26:30.238000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 73,
+            "total_number_of_photos_by_reviewer": 75,
+            "reviewer_url": "https://www.google.com/maps/contrib/116856685005038058892/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUTLMy6pIjDdlr9MoYurGv13xzae8MGBiVDO8ylBEJ9Fk8=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipModqz4Qqo8X3EHou-fH65faOiWBfc5Zw-4tKU1=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "The people here are fantastic. Very nice. You don't often have to wait long for your food when picking up. Any time that I have, the cook has greeted us with a sample and has been very kind.\n\nAs for the food itself, it's delicious. The best carnitas I have had yet. Generous portions and at a good price too.",
+            "reviewer_name": "Steve Oster",
+            "rating": 5,
+            "review_text": "The people here are fantastic. Very nice. You don't often have to wait long for your food when picking up. Any time that I have, the cook has greeted us with a sample and has been very kind.\n\nAs for the food itself, it's delicious. The best carnitas I have had yet. Generous portions and at a good price too.",
+            "published_at": "8 months ago",
+            "published_at_date": "2023-03-15T16:45:10.986000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 37,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/101207051393773522194/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXWws7EiOqPc_Fkfz9l5zaPgkDGZDbmOBdd4-LIxTRnrg=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "I placed my order for a takeout lunch box, opting for tacos over the torta. What followed was nothing short of a culinary masterpiece.\n\nThe lunch box was a trove of tantalizing flavors. The tacos were generously filled with their signature carnitas - a loving testament to the art of slow-cooked, melt-in-your-mouth pork. The carnitas were impeccably seasoned, their inherent richness perfectly balanced by the tangy green salsa and a lively pico de gallo.\n\nWhat surprised me was the thoughtful inclusion of jalapenos and limes in the package. The jalapenos added a delightful kick of heat when desired, while the limes were perfect for squeezing over the tacos, lending a refreshing acidity that cut through the richness of the carnitas. Wrapped in soft, pliable corn tortillas, every bite was an exciting play of textures and flavors that kept my taste buds eagerly awaiting the next mouthful.\n\nEqually impressive were the sides. The Habanero Salsa delivered a more robust heat for those who crave a bit more spice, while the Guacamole provided a creamy, cooling contrast, a perfect companion to the star of the box - the carnitas.\n\nBut what truly sets Carnitas Don Jose apart from the rest isn't just the quality of their food - it's the evident passion and care that goes into crafting each meal. This isn't fast food; this is a love letter to traditional Mexican cooking, delivered conveniently in a takeout box.\n\nCarnitas Don Jose is not just a pit-stop for food - it's a destination for anyone who appreciates good, hearty meals that stay with you long after the last bite. My advice? Don't just pass by this gem. Stop, order, and prepare to be pleasantly surprised. After all, great food isn't just about satisfying hunger, it's about the experience. And Carnitas Don Jose offers an experience you won't forget.",
+            "reviewer_name": "David MacMillan",
+            "rating": 5,
+            "review_text": "I placed my order for a takeout lunch box, opting for tacos over the torta. What followed was nothing short of a culinary masterpiece.\n\nThe lunch box was a trove of tantalizing flavors. The tacos were generously filled with their signature carnitas - a loving testament to the art of slow-cooked, melt-in-your-mouth pork. The carnitas were impeccably seasoned, their inherent richness perfectly balanced by the tangy green salsa and a lively pico de gallo.\n\nWhat surprised me was the thoughtful inclusion of jalapenos and limes in the package. The jalapenos added a delightful kick of heat when desired, while the limes were perfect for squeezing over the tacos, lending a refreshing acidity that cut through the richness of the carnitas. Wrapped in soft, pliable corn tortillas, every bite was an exciting play of textures and flavors that kept my taste buds eagerly awaiting the next mouthful.\n\nEqually impressive were the sides. The Habanero Salsa delivered a more robust heat for those who crave a bit more spice, while the Guacamole provided a creamy, cooling contrast, a perfect companion to the star of the box - the carnitas.\n\nBut what truly sets Carnitas Don Jose apart from the rest isn't just the quality of their food - it's the evident passion and care that goes into crafting each meal. This isn't fast food; this is a love letter to traditional Mexican cooking, delivered conveniently in a takeout box.\n\nCarnitas Don Jose is not just a pit-stop for food - it's a destination for anyone who appreciates good, hearty meals that stay with you long after the last bite. My advice? Don't just pass by this gem. Stop, order, and prepare to be pleasantly surprised. After all, great food isn't just about satisfying hunger, it's about the experience. And Carnitas Don Jose offers an experience you won't forget.",
+            "published_at": "6 months ago",
+            "published_at_date": "2023-05-21T23:09:36.518000Z",
+            "response_from_owner_text": "Dear David\nThank you so much for taking the time to share your incredible experience at Carnitas Don Jose. We are thrilled to hear that your takeout lunch box, filled with our tantalizing tacos, left such a lasting impression on you.\n\nOnce again, thank you for choosing Carnitas Don Jose. We look forward to serving you again soon and creating more unforgettable moments for you and all our valued customers.\nBest regards,\nThe Carnitas Don Jose Team",
+            "response_from_owner_ago": "6 months ago",
+            "response_from_owner_date": "2023-05-21T23:42:33.637000Z",
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/100510190968678159405/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVB4tdC2fUmuldMQs1iQSlxTQNpIkr49dN1mqIhjEdwYCs=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

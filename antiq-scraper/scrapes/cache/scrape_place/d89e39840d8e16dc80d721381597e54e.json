@@ -1,0 +1,603 @@
+{
+    "place_id": "ChIJm4H60nNxhlQR_hsfmwtOHUk",
+    "name": "The Mackenzie Room",
+    "description": "Locally sourced New American eats, plus craft cocktails & beers, served in a rustic-chic locale.",
+    "reviews": 801,
+    "website": "http://www.themackenzieroom.com/",
+    "owner": {
+        "id": "100902433306683825529",
+        "name": "The Mackenzie Room (Owner)",
+        "link": "https://www.google.com/maps/contrib/100902433306683825529"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNiZ99uDvacB0fk6mQXL6XSbY9dhCbqBIZrjDbG=w408-h271-k-no",
+    "main_category": "Canadian restaurant",
+    "categories": [
+        "Canadian restaurant",
+        "Bar"
+    ],
+    "rating": 4.6,
+    "workday_timing": "5:30-10 p.m.",
+    "closed_on": [],
+    "phone": "(604) 253-0705",
+    "address": "The Mackenzie Room, 415 Powell St, Vancouver, BC V6A 1G7",
+    "review_keywords": [
+        {
+            "keyword": "tasting menu",
+            "count": 70
+        },
+        {
+            "keyword": "sea urchin",
+            "count": 35
+        },
+        {
+            "keyword": "pate",
+            "count": 30
+        },
+        {
+            "keyword": "creative",
+            "count": 24
+        },
+        {
+            "keyword": "chicken of the sea",
+            "count": 20
+        },
+        {
+            "keyword": "squid ink",
+            "count": 17
+        },
+        {
+            "keyword": "wine pairing",
+            "count": 12
+        },
+        {
+            "keyword": "lamb tartare",
+            "count": 9
+        },
+        {
+            "keyword": "bison",
+            "count": 9
+        },
+        {
+            "keyword": "tent city",
+            "count": 5
+        }
+    ],
+    "link": "https://www.google.com/maps/place/The+Mackenzie+Room/data=!4m7!3m6!1s0x54867173d2fa819b:0x491d4e0b9b1f1bfe!8m2!3d49.2832354!4d-123.0949165!16s%2Fg%2F11bt_j7prh!19sChIJm4H60nNxhlQR_hsfmwtOHUk?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 5:30 p.m.",
+    "price_range": "$$$",
+    "reviews_per_rating": {
+        "1": 21,
+        "2": 13,
+        "3": 36,
+        "4": 120,
+        "5": 611
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJm4H60nNxhlQR_hsfmwtOHUk&q=The+Mackenzie+Room&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.283235399999995,
+        "longitude": -123.0949165
+    },
+    "plus_code": "7WM4+72 Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "Central Vancouver",
+        "street": "415 Powell St",
+        "city": "Vancouver",
+        "postal_code": "V6A 1G7",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "5268452950847462398",
+    "data_id": "0x54867173d2fa819b:0x491d4e0b9b1f1bfe",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [
+        {
+            "link": "https://www.exploretock.com/themackenzieroom/%3Futm_source%3Dsearch%26utm_medium%3Dplace-actions%26utm_content%3Dreservations",
+            "source": "exploretock.com"
+        },
+        {
+            "link": "https://www.google.com/maps/reserve/v/dine/c/bF62HVw-_lY?source=pa",
+            "source": "google.com"
+        }
+    ],
+    "order_online_links": [
+        {
+            "link": "https://www.exploretock.com/themackenzieroom/?utm_source=search&utm_medium=place-actions&utm_content=reservations",
+            "source": "exploretock.com"
+        },
+        {
+            "link": "https://www.google.com/maps/reserve/v/dine/c/bF62HVw-_lY?source=pa",
+            "source": "google.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Takeout",
+                    "enabled": true
+                },
+                {
+                    "name": "Dine-in",
+                    "enabled": true
+                },
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair accessible seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Alcohol",
+                    "enabled": true
+                },
+                {
+                    "name": "Beer",
+                    "enabled": true
+                },
+                {
+                    "name": "Cocktails",
+                    "enabled": true
+                },
+                {
+                    "name": "Coffee",
+                    "enabled": true
+                },
+                {
+                    "name": "Hard liquor",
+                    "enabled": true
+                },
+                {
+                    "name": "Small plates",
+                    "enabled": true
+                },
+                {
+                    "name": "Wine",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Dining options",
+            "options": [
+                {
+                    "name": "Dinner",
+                    "enabled": true
+                },
+                {
+                    "name": "Dessert",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Bar on-site",
+                    "enabled": true
+                },
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosphere",
+            "options": [
+                {
+                    "name": "Cozy",
+                    "enabled": true
+                },
+                {
+                    "name": "Romantic",
+                    "enabled": true
+                },
+                {
+                    "name": "Upscale",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "crowd",
+            "name": "Crowd",
+            "options": [
+                {
+                    "name": "Groups",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planning",
+            "options": [
+                {
+                    "name": "Reservations required",
+                    "enabled": true
+                },
+                {
+                    "name": "Accepts reservations",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "parking",
+            "name": "Parking",
+            "options": [
+                {
+                    "name": "Paid street parking",
+                    "enabled": true
+                },
+                {
+                    "name": "Parking",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNiZ99uDvacB0fk6mQXL6XSbY9dhCbqBIZrjDbG=w447-h298-k-no"
+        },
+        {
+            "about": "Latest",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipM4xl2L04AbsNRvykyot6rp0ecBeeexB6OPBQWq=w224-h298-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPpRm7Nt9SztK3MHSHeGRo5vqPuAROoTdRv8k-I=w529-h298-k-no"
+        },
+        {
+            "about": "Menu",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNa2Oj643UuytKZeu5RjHBUq7RrR1rQcqIV3zHz=w397-h298-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipM05TTRP9OXYr4hMUdcUmOBHp8vKxSvYmQPIVyE=w397-h298-k-no"
+        },
+        {
+            "about": "Vibe",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPKtn1On_5_qnZ9c9-TXtsBa1UpvQLKq8WqyEEJ=w397-h298-k-no"
+        },
+        {
+            "about": "Chocolate Cake",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPTcKEzXzSKf2utDBTI9EgS-PdLgvrYGcGuAHoO=w224-h298-k-no"
+        },
+        {
+            "about": "Steak tartare",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMjWaYrz_I9nSPMA1tW06vJjSalSx4_Pv_g9t7L=w224-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPszNBvTVGaE58jTuaw20GoztCKc_pTeK_honN3=w446-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=VAXgmrlEtzU6TDjAHUkqEQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=1.6562362&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "5:30-10 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "5:30-10 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "5:30-10 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "5:30-10 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "5:30-10 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "5:30-10 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "5:30-10 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "Excellent food- lots of different flavours. A great example of a tasting menu done very well. Wine pairings also good and varied (all Canadian wines). Servers were excellent but we did feel a bit rushed which took the edge off an otherwise excellent meal.",
+            "reviewer_name": "Laurence Moore",
+            "rating": 5,
+            "review_text": "Excellent food- lots of different flavours. A great example of a tasting menu done very well. Wine pairings also good and varied (all Canadian wines). Servers were excellent but we did feel a bit rushed which took the edge off an otherwise excellent meal.",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-22T19:51:56.481000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 21,
+            "total_number_of_photos_by_reviewer": 19,
+            "reviewer_url": "https://www.google.com/maps/contrib/116299054604838891603/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjV4PN3fF3Xwey-LoHhjkn6JJhAVb6B7Rv3X81yzQ_H4jng=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipM76ITWEtIfBieOYTjfsNRJ7cHusu5B2dGJ4Hhj=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipONrT_8ZS48sdHQVQxny8SGggkDqcKxec3w0Uvc=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNChHwFT3rKeo2uw69hMdOWgbf1MTRxwZu7LykA=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOcbuW_4_ikDBXntIi1NtZtFQDOCZ7Ri9VIbD7J=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Had a wonderful 1st time at the Mackenzie Room on my birthday. As expected, each dish was phenomenal and high quality, all well developed with great flavors.  The staff were incredibly kind and lovely, and I really appreciated how much of an effort they put in to create a cozy dining experience. I sat at the bar and was well attended to, bartender & server all very warm and friendly. They consider the little things in both the service and food. Highly recommended and added to my favorite food list for a revisit.",
+            "reviewer_name": "Amberlyn A",
+            "rating": 5,
+            "review_text": "Had a wonderful 1st time at the Mackenzie Room on my birthday. As expected, each dish was phenomenal and high quality, all well developed with great flavors.  The staff were incredibly kind and lovely, and I really appreciated how much of an effort they put in to create a cozy dining experience. I sat at the bar and was well attended to, bartender & server all very warm and friendly. They consider the little things in both the service and food. Highly recommended and added to my favorite food list for a revisit.",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-21T06:58:03.072000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 18,
+            "total_number_of_photos_by_reviewer": 2,
+            "reviewer_url": "https://www.google.com/maps/contrib/108475696961771912549/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjV1E85qP8DNYbCE7BXGJCHVHX-cRsH9Ffy9tvD5VrlrXOQ=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPNXTO1mofDanewMAb-itUZpkytzcKrXmKjldhv=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "First off, Patrick was an amazing bartender and host for us sitting at the bar. As it was my birthday the staff gave me a signed card and went out of the way to make the dinning experience world class.\n\nFrom unique shared menu for two that I highly recommended to cocktails that will knock your socks off.\n\nThe McKenzie should be high on your list of restaurants to try in Vancouver and is 100% worthy of their first star.\n\n-Max",
+            "reviewer_name": "Max Chesnut",
+            "rating": 5,
+            "review_text": "First off, Patrick was an amazing bartender and host for us sitting at the bar. As it was my birthday the staff gave me a signed card and went out of the way to make the dinning experience world class.\n\nFrom unique shared menu for two that I highly recommended to cocktails that will knock your socks off.\n\nThe McKenzie should be high on your list of restaurants to try in Vancouver and is 100% worthy of their first star.\n\n-Max",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-31T05:05:32.513000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 18,
+            "total_number_of_photos_by_reviewer": 46,
+            "reviewer_url": "https://www.google.com/maps/contrib/101822099524608311336/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWUMcTqLlcHIArg6pebs7NqklMXMoQLnqTJSoxknUfk3oW-=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMyICA5KrbTnw15SfJ0Cprt-uKphT6dkJoLLZzq=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPo7gqzV7WmpdBJnAZ_sh8F7BlJBqJauQm2SyOx=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPDdrrXpu4SLlgKdH-xlxeIALuQpOAvvxENPTtQ=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPCsJya03uZLdPHyy8JuAJwwct7ScHZydrRV3TT=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOwJ3GtKsouyAe-bCRy8wewXHwrldRnXdgfXbQU=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "The Mackenzie Room has been on my list for a very long time. I'm so glad to have finally been able to check it out. The food was absolutely delicious and the service was unreal. We sat at the bar where Lewis was extremely friendly and helpful. We will be back soon!",
+            "reviewer_name": "Wilson Lin",
+            "rating": 5,
+            "review_text": "The Mackenzie Room has been on my list for a very long time. I'm so glad to have finally been able to check it out. The food was absolutely delicious and the service was unreal. We sat at the bar where Lewis was extremely friendly and helpful. We will be back soon!",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-31T23:44:11.211000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1128,
+            "total_number_of_photos_by_reviewer": 2237,
+            "reviewer_url": "https://www.google.com/maps/contrib/115864232662237551688/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXoyrLrygIsNS3Bxk-qTbpSwmUM9Mrg3GrBqioZ-AFhDCYi=s120-c-rp-mo-ba6-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMsOEtudLBiwnty1BGnB62TrjtXTpuuXFYNwBvO=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNV6cIwDTXbh_eD7sbqTV6T4Et_ittw-wWDuPuj=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNol3RcoW9VXxNoh6MnML7S-1bG9DPbCjcpQP_Y=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipM1qRkdu3XDHNp9xalzc6kZ-GLpm3032W_0PgoK=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNGv5XeIvpMEm9ZiQ01OxD7eYBgl5pcJViZT5Yc=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "We went in for the tasting menu. I can say honestly everything was well cooked and tasted nice but I always felt something was missing. When I go in for a fine dining experience I was expecting that the flavours on the dishes would be unique, but mainly I got unique ingredients but the flavours came off as ordinary.\n\nMy partner specifically did not enjoy either dessert presented. The flavour combinations and sweetness were just not to her taste. I found them alright.\n\nTo their benefit my partner also did not enjoy her cocktail and they replaced it with a specialty drink to her tastes, and at no charge.\n\nThis may be a small detail but I found the combination of tables to water cups to be a poor match. The cups because of their girth were hard to grasp with smaller hands and since it didn't have a clear grip on it made the cup feel unsteady in the hands. This in combination with the cup would somewhat sticking to the tables after sitting for a couple minutes made that part of the experience uncomfortable.\n\nIt is worth a visit but I would recommend going to other fine dining occassions as well as The Mackenzie Room.",
+            "reviewer_name": "Roger Harriss Brammall",
+            "rating": 4,
+            "review_text": "We went in for the tasting menu. I can say honestly everything was well cooked and tasted nice but I always felt something was missing. When I go in for a fine dining experience I was expecting that the flavours on the dishes would be unique, but mainly I got unique ingredients but the flavours came off as ordinary.\n\nMy partner specifically did not enjoy either dessert presented. The flavour combinations and sweetness were just not to her taste. I found them alright.\n\nTo their benefit my partner also did not enjoy her cocktail and they replaced it with a specialty drink to her tastes, and at no charge.\n\nThis may be a small detail but I found the combination of tables to water cups to be a poor match. The cups because of their girth were hard to grasp with smaller hands and since it didn't have a clear grip on it made the cup feel unsteady in the hands. This in combination with the cup would somewhat sticking to the tables after sitting for a couple minutes made that part of the experience uncomfortable.\n\nIt is worth a visit but I would recommend going to other fine dining occassions as well as The Mackenzie Room.",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-16T20:05:47.976000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 63,
+            "total_number_of_photos_by_reviewer": 67,
+            "reviewer_url": "https://www.google.com/maps/contrib/115338789350932901422/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXPoBpZgY4POe4sv8DS0kA6tUH6pQqFF7J1bVAT4meYag=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNpBj-a4X5Rq_7Vpn7hZguNixqq0w9y-Q7Qa8Xk=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOsh7implEZjNntDLV8-0dmp98nNAsqUoyZN-DT=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPm9rBEVmZVLKUYeGb0BFIWdbniU7vsEF1ZiKFI=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNEAZGuTKZK8ZYdgu9qqzLOaIgCpQpfO8rH4UHJ=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNkCA9k1U5-hm5PRO_uTxqwkNUuU5iXC_zH0P5Y=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Dined solo to kick off my last week in Vancouver on this trip.\n\nFocusing on locally sourced ingredients, the solo menu is comprised 5 courses. At only $74, it's an incredible value.\n\nThe menu has pun names which I absolutely adored; Sashimi Not, Zucc I am Your Father, Trout Krout Sprout, of Bison Men, and Le Big Mack.\n\nMy favourite bites were the zucchini two ways, the trout (minus the brussels) and the King Salmon sashimi. The bison was very well cooked and the spinach was delicious but the potato was lacklustre.\n\nAlong with the meal, the bar manager made me a beverage pairing which had cocktails and glasses of wine based on my preference. The final digestif had pickled spruce tips stuffed in an olive.\n\nThere were a number of other dishes on the menu which caught my eye. I definitely will have to come back the next time I am in town.",
+            "reviewer_name": "Stephanie Lovell",
+            "rating": 5,
+            "review_text": "Dined solo to kick off my last week in Vancouver on this trip.\n\nFocusing on locally sourced ingredients, the solo menu is comprised 5 courses. At only $74, it's an incredible value.\n\nThe menu has pun names which I absolutely adored; Sashimi Not, Zucc I am Your Father, Trout Krout Sprout, of Bison Men, and Le Big Mack.\n\nMy favourite bites were the zucchini two ways, the trout (minus the brussels) and the King Salmon sashimi. The bison was very well cooked and the spinach was delicious but the potato was lacklustre.\n\nAlong with the meal, the bar manager made me a beverage pairing which had cocktails and glasses of wine based on my preference. The final digestif had pickled spruce tips stuffed in an olive.\n\nThere were a number of other dishes on the menu which caught my eye. I definitely will have to come back the next time I am in town.",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-01T16:54:02.574000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 412,
+            "total_number_of_photos_by_reviewer": 1516,
+            "reviewer_url": "https://www.google.com/maps/contrib/105437019336748893461/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXej3ILs3fRCMZ23jIr74ECFcl2VBHA8svazFecGlPJfBI=s120-c-rp-mo-ba6-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPfcNn4oaxYDkX1nnKv8D7VpnYvoMlwhH6SmNdy=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMz7oa9TQsSTVk7uAEzN4B3LBfqZwsZq3in9TJW=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNGJY_knraloQKCK85pK-BhZP5wLsvgt_GkYC3O=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNG7iSRmbzs4daMmMJKPj6UEf7-2-Rhsezxi8B7=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPl73PeT_IXeBfbOUTwF3Y3tEzzx-GTMRwEmMTU=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMf95pvcx3nd9fezm25sFfTgTsaGY-jpstZNmxb=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "WOW. Location is a bit sketchy to say the least.....notwithstanding, the minute you enter you're welcomed by passionate and knowledgeable staff. If you are a foodie this is a MUST TRY location. Best option is the, \"I WANT IT ALL\" option ($85/person). It's a 12 course tapas share option, of delicious pallet popping delights, where you get to try the entire Chef's Creations. Only catch is you need a minimum of 4 people to try this. So get your double date on and try this place. You'll thank me later.  CHEERS!!!\n\nPS- There is also a very creative signature cocktails menu if you so desire.",
+            "reviewer_name": "Jonas Vlasenko",
+            "rating": 5,
+            "review_text": "WOW. Location is a bit sketchy to say the least.....notwithstanding, the minute you enter you're welcomed by passionate and knowledgeable staff. If you are a foodie this is a MUST TRY location. Best option is the, \"I WANT IT ALL\" option ($85/person). It's a 12 course tapas share option, of delicious pallet popping delights, where you get to try the entire Chef's Creations. Only catch is you need a minimum of 4 people to try this. So get your double date on and try this place. You'll thank me later.  CHEERS!!!\n\nPS- There is also a very creative signature cocktails menu if you so desire.",
+            "published_at": "6 months ago",
+            "published_at_date": "2023-05-20T16:48:18.715000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 3,
+            "total_number_of_reviews_by_reviewer": 29,
+            "total_number_of_photos_by_reviewer": 85,
+            "reviewer_url": "https://www.google.com/maps/contrib/112588900717612146324/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUh583bX7cUJMZvJ-th0pGox69H7YXz_RXh_X9K4uwybV33=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPQmbUgSU6oa67p90VeZjx3MyKX_AbhM543vZn8=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOBtS8ZglU8omfNj4pdezynJTiWIvn4uRPc81To=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOlODT9-LjCxOSWpRPkvDaZ377COtJ7ckQlgAru=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOVWgWKlUHUVW8V0LwBAbU0MP6Ka1q285UuNCF_=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMLHl3AiFzZ-Li6DPZgkXqObawmDd-nm3FbHFCi=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOCrBJawH8dR1-zhLYkq7OzDoLrbvIEvq3OpoS-=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOAr_BwLWpU4Q3Gyhf8nPXizM2R3QHlOkrTbM_A=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNtU0ddc6GkYcT9SAaEh42lsfKngwV0Q6_1OxHz=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipN6vRRidhg_D0O6BK1ONLzzp5pCODfy4d1xHUCu=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNjjHUbe_qqi_31fLx8YPFkxPnZrYKINim_cJuA=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMce7se0Z7XANSW_xsPXW62kKrMiaX1YcZl9T0y=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOyyeTL6t6nHBtou2vxTq8iX3iddry1fa67PFjU=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNGIb3egTx5w8F8TtT5mj2BBfOYubvfrqyFLEjp=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipM4RuUnMBEs4f-ZMSt8349AeGLWrdOhqjJmitfG=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "The food was superb. We came away reminiscing about several of the dishes and wishing we had more.\n\nThe service was very friendly and prompt. Everything we could ask for in service.\n\nThe only gripe I had, and it is indeed a small one is that the restaurant was way too dark. Walking out to the street after dinner we were dazzled by the brightness of the Vancouver lampposts.",
+            "reviewer_name": "Peter Shen",
+            "rating": 5,
+            "review_text": "The food was superb. We came away reminiscing about several of the dishes and wishing we had more.\n\nThe service was very friendly and prompt. Everything we could ask for in service.\n\nThe only gripe I had, and it is indeed a small one is that the restaurant was way too dark. Walking out to the street after dinner we were dazzled by the brightness of the Vancouver lampposts.",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-05T18:19:33.563000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 8,
+            "total_number_of_photos_by_reviewer": 18,
+            "reviewer_url": "https://www.google.com/maps/contrib/116615839008282093009/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW1UWcLb37dMSA1YUyKJ5sXHhvotEt0X8JH-rWyKRN_IoI=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNa2Oj643UuytKZeu5RjHBUq7RrR1rQcqIV3zHz=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNTDR4U5titq0RX_6oZ5S2KtYm07G_RoCMInIaG=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNVAz738WBMSQuN8x0AKaUFP1THer7LlU_m7TkH=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPs4UkHwJUsnFDk6l2qt5DBOhxZZ9-dzwR8wFs-=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOZi2jcUlwW2v_pE3bMYn32GzVt0FO4ZxogTe7L=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPyJeme3ZAgaOjwmUSta_SHcrgqQdKxBzqRwkMl=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNhGvn91Zmvj6zUPLA4k4Xu8USVxVk0v6Xb0P3C=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNaLnmdFQkpcJZmcjLwtys_5HEKKpK9n4x30GkJ=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipN9vwXHnz0vsN89HxnFi8pVMUyQaq7xf9MNy3Ia=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipN7eAMhAY9-LCqTkfb0s96SkPUKjrWJE03QXuA6=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNr3NxteJzuHEe-wgWFf6yNTMV5Z0_0Dpb4UfNZ=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipN371RjpjGz2Hj7wm5Tm9-bg2WW-uF4OWWcpd12=w150-h150-k-no-p"
+            ]
+        }
+    ],
+    "is_spending_on_ads": false
+}

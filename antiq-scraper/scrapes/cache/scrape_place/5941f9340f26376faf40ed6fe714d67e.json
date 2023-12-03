@@ -2,7 +2,7 @@
     "place_id": "ChIJuXRpDd1zhlQR0yATbh-djVA",
     "name": "McDonald's",
     "description": "Classic, long-running fast-food chain known for its burgers & fries.",
-    "reviews": 655,
+    "reviews": 656,
     "website": "https://www.mcdonalds.com/ca/en-ca/restaurant-locator.html%3Fy_source%3D1_MTQ1MTk5MzktNzE1LWxvY2F0aW9uLndlYnNpdGU%253D",
     "owner": {
         "id": "106467859253388095773",
@@ -58,23 +58,23 @@
             "count": 6
         },
         {
-            "keyword": "mcmuffin",
-            "count": 5
+            "keyword": "door",
+            "count": 6
         },
         {
-            "keyword": "wheelchair",
-            "count": 4
+            "keyword": "mcmuffin",
+            "count": 5
         }
     ],
     "link": "https://www.google.com/maps/place/McDonald%27s/data=!4m7!3m6!1s0x548673dd0d6974b9:0x508d9d1f6e1320d3!8m2!3d49.2635405!4d-123.1162715!16s%2Fg%2F1hc4zfbwz!19sChIJuXRpDd1zhlQR0yATbh-djVA?authuser=0&hl=en&rclk=1",
-    "status": "Open  Closes 1 a.m.",
+    "status": "Closed  Opens 6 a.m.",
     "price_range": "$",
     "reviews_per_rating": {
         "1": 81,
         "2": 56,
         "3": 159,
         "4": 162,
-        "5": 197
+        "5": 198
     },
     "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJuXRpDd1zhlQR0yATbh-djVA&q=McDonald%27s&authuser=0&hl=en&gl=CA",
     "coordinates": {
@@ -293,7 +293,7 @@
         },
         {
             "about": "Latest",
-            "link": "https://lh5.googleusercontent.com/p/AF1QipMFe5X2WKIjopcsWumD1aWklV9He4QRoowRCQtq=w224-h298-k-no"
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMkRrFU6QleCZvyIten81_usgCMSBgmDKJDsP_v=w224-h398-k-no"
         },
         {
             "about": "Videos",
@@ -309,7 +309,7 @@
         },
         {
             "about": "Vibe",
-            "link": "https://lh5.googleusercontent.com/p/AF1QipNu3c0Q_KAD9XjQut0leIMk3q9EsVo14HFtWrml=w224-h298-k-no"
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNT2WTV5xjNXvcKyHnDX4Jnu4HGeejAo2-uzbKB=w529-h298-k-no"
         },
         {
             "about": "Take-out",
@@ -337,12 +337,6 @@
         }
     ],
     "hours": [
-        {
-            "day": "Sunday",
-            "times": [
-                "6 a.m.-1 a.m."
-            ]
-        },
         {
             "day": "Monday",
             "times": [
@@ -378,6 +372,12 @@
             "times": [
                 "6 a.m.-1 a.m."
             ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "6 a.m.-1 a.m."
+            ]
         }
     ],
     "featured_reviews": [
@@ -386,14 +386,14 @@
             "reviewer_name": "Kimmery B",
             "rating": 3,
             "review_text": "I acknowledge that this place is probably geared more toward children. The atmosphere Is awesome for kids. It's a very small amount of seating. And my biggest complaint is that there are no good vegetarian options. They have discontinued the salads. They have discontinued the big breakfast. It is very difficult for vegetarians to find something to eat.",
-            "published_at": "3 months ago",
+            "published_at": "4 months ago",
             "published_at_date": "2023-07-31T13:36:38.730000Z",
             "response_from_owner_text": null,
             "response_from_owner_ago": null,
             "response_from_owner_date": null,
             "review_likes_count": 0,
-            "total_number_of_reviews_by_reviewer": 123,
-            "total_number_of_photos_by_reviewer": 316,
+            "total_number_of_reviews_by_reviewer": 124,
+            "total_number_of_photos_by_reviewer": 317,
             "reviewer_url": "https://www.google.com/maps/contrib/106366967274497056302/reviews?entry=ttu",
             "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUIZBVSciT_6z-j8f_WqoMf6HC-hXuZXu5ZjgNJiVSs2Z2N=s120-c-rp-mo-ba4-br100",
             "is_local_guide": true,
@@ -457,30 +457,10 @@
             "response_from_owner_ago": null,
             "response_from_owner_date": null,
             "review_likes_count": 0,
-            "total_number_of_reviews_by_reviewer": 38,
+            "total_number_of_reviews_by_reviewer": 39,
             "total_number_of_photos_by_reviewer": 0,
             "reviewer_url": "https://www.google.com/maps/contrib/117293684009984081281/reviews?entry=ttu",
             "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKomv-YpIpD1Xw6pI1AzgtR64tthpziINCfEEeRR6VAsw=s120-c-rp-mo-ba3-br100",
-            "is_local_guide": true,
-            "review_translated_text": null,
-            "response_from_owner_translated_text": null,
-            "review_photos": []
-        },
-        {
-            "review_id": "Small Mc Donalds. Hygiene and Restaurant cleanliness could be improved. Basic interior design - not very appealing. Helpful staff.",
-            "reviewer_name": "Thomas K",
-            "rating": 3,
-            "review_text": "Small Mc Donalds. Hygiene and Restaurant cleanliness could be improved. Basic interior design - not very appealing. Helpful staff.",
-            "published_at": "2 weeks ago",
-            "published_at_date": "2023-11-08T04:04:07.572000Z",
-            "response_from_owner_text": null,
-            "response_from_owner_ago": null,
-            "response_from_owner_date": null,
-            "review_likes_count": 0,
-            "total_number_of_reviews_by_reviewer": 775,
-            "total_number_of_photos_by_reviewer": 17145,
-            "reviewer_url": "https://www.google.com/maps/contrib/116303593643040884302/reviews?entry=ttu",
-            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjU4Sq6f8BB0dPvmaMeYS1l8ubMcTN-nDXmXgzj7zdslBkvu=s120-c-rp-mo-ba8-br100",
             "is_local_guide": true,
             "review_translated_text": null,
             "response_from_owner_translated_text": null,
@@ -491,7 +471,7 @@
             "reviewer_name": "Vladimir Reshetov",
             "rating": 1,
             "review_text": "Seems that every employee of this McDonald's location is half asleep or completely hates their job.. I asked to redo my burger twice.. floors are dirty, tables not cleaned, washrooms are a mess.\n\nStore manager on duty: Mikesh. M - completely not cable of managing food industry, kitchen is a mess!",
-            "published_at": "4 months ago",
+            "published_at": "5 months ago",
             "published_at_date": "2023-06-29T00:23:57.762000Z",
             "response_from_owner_text": null,
             "response_from_owner_ago": null,
@@ -549,6 +529,32 @@
             "review_translated_text": null,
             "response_from_owner_translated_text": null,
             "review_photos": []
+        },
+        {
+            "review_id": "Note: The restaurant is temporarily closed due to COVID. Their door sign doesn't say for how long. It is best to call ahead if you plan to visit. (May 10, 2021)\n\nThis restaurant is located in a busy location. They offer the full line of menu items. #LetsGuide #covid",
+            "reviewer_name": "Google Guide",
+            "rating": 3,
+            "review_text": "Note: The restaurant is temporarily closed due to COVID. Their door sign doesn't say for how long. It is best to call ahead if you plan to visit. (May 10, 2021)\n\nThis restaurant is located in a busy location. They offer the full line of menu items. #LetsGuide #covid",
+            "published_at": "2 years ago",
+            "published_at_date": "2021-05-10T21:29:24.264000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 833,
+            "total_number_of_photos_by_reviewer": 9193,
+            "reviewer_url": "https://www.google.com/maps/contrib/109784026534613288658/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUEaL0-aDaQ8T1cQl8LUb-gQzpbbKHUZQr1MSCriZ3Jyg=s120-c-rp-mo-ba7-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMJiR_gVpUIm18OfIn6wn5VtBUjeZpgS285MbPR=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPf1DUBKv8SXq0Ke5JnePokeCSW1g_4HaizuzEE=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMF6eM9cUt-uz0QdMTaJiXgWHePHmIU6J2kPNhP=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOx3vDAYSdaczIG1xkl8G2d0Zm9QhwfFR5nN9hQ=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipP1iu8F639zT9YPUpPouic4Yvkw-FK6fRIRFIqy=w150-h150-k-no-p"
+            ]
         }
     ],
     "is_spending_on_ads": false

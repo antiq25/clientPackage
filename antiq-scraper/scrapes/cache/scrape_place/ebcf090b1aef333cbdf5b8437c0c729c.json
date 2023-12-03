@@ -2,7 +2,7 @@
     "place_id": "ChIJmUEegKh1hlQR0uXBOQXoLRA",
     "name": "McDonald's",
     "description": "Classic, long-running fast-food chain known for its burgers & fries.",
-    "reviews": 2317,
+    "reviews": 2323,
     "website": "https://www.mcdonalds.com/ca/en-ca/restaurant-locator.html%3Fy_source%3D1_MTQ1MjAyMjUtNzE1LWxvY2F0aW9uLndlYnNpdGU%253D",
     "owner": {
         "id": "109981060496312850231",
@@ -27,7 +27,7 @@
     "review_keywords": [
         {
             "keyword": "drive through",
-            "count": 107
+            "count": 108
         },
         {
             "keyword": "coffee",
@@ -35,7 +35,7 @@
         },
         {
             "keyword": "parking",
-            "count": 42
+            "count": 44
         },
         {
             "keyword": "morning",
@@ -70,11 +70,11 @@
     "status": "Closed  Opens 6 a.m.",
     "price_range": "$",
     "reviews_per_rating": {
-        "1": 313,
+        "1": 314,
         "2": 153,
-        "3": 520,
+        "3": 523,
         "4": 641,
-        "5": 690
+        "5": 692
     },
     "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJmUEegKh1hlQR0uXBOQXoLRA&q=McDonald%27s&authuser=0&hl=en&gl=CA",
     "coordinates": {
@@ -346,8 +346,12 @@
             "link": "https://lh5.googleusercontent.com/p/AF1QipMa3LMTpHqYtxEdOPfjmXZemyYglIPBtKV1E1TB=w397-h298-k-no"
         },
         {
-            "about": "Hamburger",
+            "about": "Take-out",
             "link": "https://lh5.googleusercontent.com/p/AF1QipN_CHYZHGWGSXDf7osiKB6AVnENmyemhScV76Ik=w324-h298-k-no"
+        },
+        {
+            "about": "Hamburger",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPaaHY3glb_BmQ5r00xLoCFYLjV7fdDVh_UeCDh=w397-h298-k-no"
         },
         {
             "about": "Comfort food",
@@ -436,7 +440,7 @@
             "reviewer_name": "stephen wilde",
             "rating": 1,
             "review_text": "how is it that people consistently rate this as having terrible service and it doesn't get better?? 1 out of 10 times the order is correct. who told you having a multimedia menu was a good idea?!! sitting - about to order, and the menu screen switches!! come on. a simple menu with good service can't be that difficult!!!! start with the service as i know some corporate person in a little cubical saw that burger king has a flashing menu screen so macdonalds has to do the same... lame. go to in-n-out burger to compare - they have a steady smooth flow of stoked customers getting fresh quality burgers from a simple consistent menu. easy.",
-            "published_at": "4 days ago",
+            "published_at": "a week ago",
             "published_at_date": "2023-11-20T20:45:28.060000Z",
             "response_from_owner_text": null,
             "response_from_owner_ago": null,
@@ -456,14 +460,14 @@
             "reviewer_name": "Kasumi A. Young",
             "rating": 3,
             "review_text": "Donuts was soggy and hard.\nAll the fountain drinks are tasteless.\nCashier was rude and slow motion.",
-            "published_at": "2 weeks ago",
+            "published_at": "3 weeks ago",
             "published_at_date": "2023-11-08T02:33:47.170000Z",
             "response_from_owner_text": null,
             "response_from_owner_ago": null,
             "response_from_owner_date": null,
             "review_likes_count": 0,
-            "total_number_of_reviews_by_reviewer": 91,
-            "total_number_of_photos_by_reviewer": 869,
+            "total_number_of_reviews_by_reviewer": 92,
+            "total_number_of_photos_by_reviewer": 897,
             "reviewer_url": "https://www.google.com/maps/contrib/110943058996439362076/reviews?entry=ttu",
             "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjV3am5uSNJavO44JIroP1rzoRHbf-wJ1KOiNxmoi8Yi0_w=s120-c-rp-mo-ba5-br100",
             "is_local_guide": true,
@@ -484,8 +488,8 @@
             "response_from_owner_text": null,
             "response_from_owner_ago": null,
             "response_from_owner_date": null,
-            "review_likes_count": 7,
-            "total_number_of_reviews_by_reviewer": 22,
+            "review_likes_count": 8,
+            "total_number_of_reviews_by_reviewer": 23,
             "total_number_of_photos_by_reviewer": 10,
             "reviewer_url": "https://www.google.com/maps/contrib/106779585740905033076/reviews?entry=ttu",
             "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVua4G-4rTwBe32FybivsNafE8g-0M2TkYZVkG0GK1GmxA=s120-c-rp-mo-br100",
@@ -526,7 +530,7 @@
             "reviewer_name": "Bo Karim",
             "rating": 1,
             "review_text": "Unbelievable- I was one of the 2 people waiting to order for over 10 minutes. 5 of them was laughing and chatting. No one even cared to ask if we are ok or we need anything. I and another customer than got upset I asked for the manager than the girl who apparently was the manager was the worse. She was the one keeping everybody busy chatting with everyone and like 10 years old kid screaming while laughing. I got upset and left the store.\nI didn't order, the other gentleman did the same. Terrible experience and especially the manager needs a training to act professionally front of the customers not joke and laugh while people are waiting to place their orders.",
-            "published_at": "a month ago",
+            "published_at": "2 months ago",
             "published_at_date": "2023-09-27T04:53:01.032000Z",
             "response_from_owner_text": null,
             "response_from_owner_ago": null,
@@ -542,43 +546,40 @@
             "review_photos": []
         },
         {
-            "review_id": "Utterly disappointed with this location! I've ordered from the drive though section. First, I had issues with the account number but then the person told me that they can scan the code before I pay on the next window, but when I got there, they told me they have no scanners. Second, Since it was about $80 worth of food, we had to wait, which we did not mind at all. We got all our food but when we arrived home and checked, the amount of fries and ice cream they gave us were at least 2/3 full, unlike their other locations where its to the rim! to make it worst, fries in the bag were not placed right way up, so, obviously, the fries went all over! Told some of my friends regarding this incident and they all had the same incident and told me they would never go back to this location. I may be on the same boat with them now.\n\nNOTE: Pictures only show a part of the order.",
-            "reviewer_name": "Jay A",
+            "review_id": "worst experiences here, management sucks. told me monopoly stickers were done when it says on the tab november 27th(it's the 16th). also got my order wrong multiple times and have 20 ppl working inside all while still being horribe",
+            "reviewer_name": "kalo halo",
             "rating": 1,
-            "review_text": "Utterly disappointed with this location! I've ordered from the drive though section. First, I had issues with the account number but then the person told me that they can scan the code before I pay on the next window, but when I got there, they told me they have no scanners. Second, Since it was about $80 worth of food, we had to wait, which we did not mind at all. We got all our food but when we arrived home and checked, the amount of fries and ice cream they gave us were at least 2/3 full, unlike their other locations where its to the rim! to make it worst, fries in the bag were not placed right way up, so, obviously, the fries went all over! Told some of my friends regarding this incident and they all had the same incident and told me they would never go back to this location. I may be on the same boat with them now.\n\nNOTE: Pictures only show a part of the order.",
-            "published_at": "8 months ago",
-            "published_at_date": "2023-03-24T17:18:19.208000Z",
+            "review_text": "worst experiences here, management sucks. told me monopoly stickers were done when it says on the tab november 27th(it's the 16th). also got my order wrong multiple times and have 20 ppl working inside all while still being horribe",
+            "published_at": "2 weeks ago",
+            "published_at_date": "2023-11-16T23:46:26.123000Z",
             "response_from_owner_text": null,
             "response_from_owner_ago": null,
             "response_from_owner_date": null,
-            "review_likes_count": 3,
-            "total_number_of_reviews_by_reviewer": 63,
-            "total_number_of_photos_by_reviewer": 259,
-            "reviewer_url": "https://www.google.com/maps/contrib/102892011182605489743/reviews?entry=ttu",
-            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWiKOSVsd8SXbUWsBeRIzHPERanq3cOSFs_Mu2gG7nCSbiU=s120-c-rp-mo-ba4-br100",
-            "is_local_guide": true,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 6,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/101061534489364743225/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJzFsS7tvuj5yw7YmiRhrRDvD-pJLqOlUM91EknYlb3=s120-c-rp-mo-br100",
+            "is_local_guide": false,
             "review_translated_text": null,
             "response_from_owner_translated_text": null,
-            "review_photos": [
-                "https://lh5.googleusercontent.com/p/AF1QipOny4Ce6RRXAy-czJh4sXjhDd3X0_mn6ToXviVe=w150-h150-k-no-p",
-                "https://lh5.googleusercontent.com/p/AF1QipM26drOf6XA1XlVJrQxHbIJzKIiX9Cv1PRtYiJu=w150-h150-k-no-p"
-            ]
+            "review_photos": []
         },
         {
-            "review_id": "This McDonald's is the worst in the lower mainland, they had around 20 people including myself waiting for over 20 mins in the morning waiting for our orders. Anything from an actual meal to just a coffee and a muffin. They only focus on the drive through. They always have lots of people working but not a single employee does their job well. Save your money and time and go somewhere else.",
-            "reviewer_name": "jeremy gardiner",
+            "review_id": "Stop pulling every single order that takes more than 30 seconds into the parking lot. Parking lot was already full with nowhere to wait. I don't know when fast food places started this practice but it's extremely inconvenient",
+            "reviewer_name": "Connor Krezan",
             "rating": 1,
-            "review_text": "This McDonald's is the worst in the lower mainland, they had around 20 people including myself waiting for over 20 mins in the morning waiting for our orders. Anything from an actual meal to just a coffee and a muffin. They only focus on the drive through. They always have lots of people working but not a single employee does their job well. Save your money and time and go somewhere else.",
-            "published_at": "2 months ago",
-            "published_at_date": "2023-09-12T14:09:18.154000Z",
+            "review_text": "Stop pulling every single order that takes more than 30 seconds into the parking lot. Parking lot was already full with nowhere to wait. I don't know when fast food places started this practice but it's extremely inconvenient",
+            "published_at": "2 weeks ago",
+            "published_at_date": "2023-11-16T22:10:46.261000Z",
             "response_from_owner_text": null,
             "response_from_owner_ago": null,
             "response_from_owner_date": null,
-            "review_likes_count": 6,
-            "total_number_of_reviews_by_reviewer": 2,
-            "total_number_of_photos_by_reviewer": 0,
-            "reviewer_url": "https://www.google.com/maps/contrib/111640435885951453158/reviews?entry=ttu",
-            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocII0A10fFJHVcziW8WJYxOY0tUGZwZGixINCLW5FRUh=s120-c-rp-mo-br100",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 20,
+            "total_number_of_photos_by_reviewer": 2,
+            "reviewer_url": "https://www.google.com/maps/contrib/102780165492076179643/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVgWXRou0M8ZJbhHOM4scugwQKqrUE7JY2WA-CUawhhrVE=s120-c-rp-mo-br100",
             "is_local_guide": false,
             "review_translated_text": null,
             "response_from_owner_translated_text": null,

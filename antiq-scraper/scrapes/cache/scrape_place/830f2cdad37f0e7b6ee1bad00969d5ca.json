@@ -2,7 +2,7 @@
     "place_id": "ChIJtWeGJDh0hlQRjLTIRAjNxDQ",
     "name": "McDonald's",
     "description": "Classic, long-running fast-food chain known for its burgers & fries.",
-    "reviews": 1167,
+    "reviews": 1170,
     "website": "https://www.mcdonalds.com/ca/en-ca/restaurant-locator.html%3Fy_source%3D1_MTQ1MTk2OTMtNzE1LWxvY2F0aW9uLndlYnNpdGU%253D",
     "owner": {
         "id": "113396288044901554043",
@@ -67,14 +67,14 @@
         }
     ],
     "link": "https://www.google.com/maps/place/McDonald%27s/data=!4m7!3m6!1s0x54867438248667b5:0x34c4cd0844c8b48c!8m2!3d49.218286!4d-123.0774469!16s%2Fg%2F1td60f1r!19sChIJtWeGJDh0hlQRjLTIRAjNxDQ?authuser=0&hl=en&rclk=1",
-    "status": "Open  Closes 2 a.m.",
+    "status": "Closed  Opens 5 a.m.",
     "price_range": "$",
     "reviews_per_rating": {
         "1": 142,
         "2": 99,
-        "3": 231,
-        "4": 299,
-        "5": 396
+        "3": 232,
+        "4": 300,
+        "5": 397
     },
     "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJtWeGJDh0hlQRjLTIRAjNxDQ&q=McDonald%27s&authuser=0&hl=en&gl=CA",
     "coordinates": {
@@ -352,12 +352,6 @@
     ],
     "hours": [
         {
-            "day": "Sunday",
-            "times": [
-                "5 a.m.-12 a.m."
-            ]
-        },
-        {
             "day": "Monday",
             "times": [
                 "5 a.m.-12 a.m."
@@ -392,32 +386,15 @@
             "times": [
                 "5 a.m.-2 a.m."
             ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "5 a.m.-12 a.m."
+            ]
         }
     ],
     "featured_reviews": [
-        {
-            "review_id": "Horrible!!!!!  Ordered thru @SkiptheDish.and when it came forgot my daughter's nuggets.  I contact them right in the hopes that they can send it.  First call they hang up, second try fax machine, third try busy tone and then finally talked to someone but said there's\nnothing they can do eventhough its their mistake!!!  Contact @SkiptheDishas well but also useless all they can do is refund.  I don't want a refund I just want the mistake to be rectify and send my daughter's nuggets that's all.  No accountability on both parties",
-            "reviewer_name": "Me-khael Abels",
-            "rating": 1,
-            "review_text": "Horrible!!!!!  Ordered thru @SkiptheDish.and when it came forgot my daughter's nuggets.  I contact them right in the hopes that they can send it.  First call they hang up, second try fax machine, third try busy tone and then finally talked to someone but said there's\nnothing they can do eventhough its their mistake!!!  Contact @SkiptheDishas well but also useless all they can do is refund.  I don't want a refund I just want the mistake to be rectify and send my daughter's nuggets that's all.  No accountability on both parties",
-            "published_at": "9 months ago",
-            "published_at_date": "2023-02-12T03:17:15.295000Z",
-            "response_from_owner_text": null,
-            "response_from_owner_ago": null,
-            "response_from_owner_date": null,
-            "review_likes_count": 2,
-            "total_number_of_reviews_by_reviewer": 10,
-            "total_number_of_photos_by_reviewer": 3,
-            "reviewer_url": "https://www.google.com/maps/contrib/110770928090311052502/reviews?entry=ttu",
-            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLIBpjcoCCcZHOKPUX2FtsW5I1Rl3ldImG1WC_grOK4=s120-c-rp-mo-br100",
-            "is_local_guide": false,
-            "review_translated_text": null,
-            "response_from_owner_translated_text": null,
-            "review_photos": [
-                "https://lh5.googleusercontent.com/p/AF1QipMELAm0s1zDp_bUV4f8_kT5PSLbGuMXU8Mm0Tnm=w150-h150-k-no-p",
-                "https://lh5.googleusercontent.com/p/AF1QipMJDCBLRO-WOefu7wsVoVs88b_eubJr5ClWDh-T=w150-h150-k-no-p"
-            ]
-        },
         {
             "review_id": "Ordered on UberEats, although the order wasn't complete. I asked for a Big Mac with two patties, extra value and I only received the BUNS\nand vegetables without the patty. Uber said to talk to them so I did. I called in to ask for help but the guy on the phone was very monotone and unhelpful. Would never order from this branch again. Really bad service. WHO MAKES A BURGER WITHOUT A PATTY?? ",
             "reviewer_name": "Pia A",
@@ -503,11 +480,34 @@
             "review_photos": []
         },
         {
+            "review_id": "Horrible!!!!!  Ordered thru @SkiptheDish.and when it came forgot my daughter's nuggets.  I contact them right in the hopes that they can send it.  First call they hang up, second try fax machine, third try busy tone and then finally talked to someone but said there's\nnothing they can do eventhough its their mistake!!!  Contact @SkiptheDishas well but also useless all they can do is refund.  I don't want a refund I just want the mistake to be rectify and send my daughter's nuggets that's all.  No accountability on both parties",
+            "reviewer_name": "Me-khael Abels",
+            "rating": 1,
+            "review_text": "Horrible!!!!!  Ordered thru @SkiptheDish.and when it came forgot my daughter's nuggets.  I contact them right in the hopes that they can send it.  First call they hang up, second try fax machine, third try busy tone and then finally talked to someone but said there's\nnothing they can do eventhough its their mistake!!!  Contact @SkiptheDishas well but also useless all they can do is refund.  I don't want a refund I just want the mistake to be rectify and send my daughter's nuggets that's all.  No accountability on both parties",
+            "published_at": "9 months ago",
+            "published_at_date": "2023-02-12T03:17:15.295000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 10,
+            "total_number_of_photos_by_reviewer": 3,
+            "reviewer_url": "https://www.google.com/maps/contrib/110770928090311052502/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLIBpjcoCCcZHOKPUX2FtsW5I1Rl3ldImG1WC_grOK4=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMELAm0s1zDp_bUV4f8_kT5PSLbGuMXU8Mm0Tnm=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMJDCBLRO-WOefu7wsVoVs88b_eubJr5ClWDh-T=w150-h150-k-no-p"
+            ]
+        },
+        {
             "review_id": "The last 2 times ordering food, we were given a number to display on the table. Our food was served to us at the table. I am going to assume seniors and any other customers needing a little extra help are offered this service. Nice touch McDonald's.",
             "reviewer_name": "Judson Slaght",
             "rating": 5,
             "review_text": "The last 2 times ordering food, we were given a number to display on the table. Our food was served to us at the table. I am going to assume seniors and any other customers needing a little extra help are offered this service. Nice touch McDonald's.",
-            "published_at": "3 months ago",
+            "published_at": "4 months ago",
             "published_at_date": "2023-07-29T21:09:05.644000Z",
             "response_from_owner_text": null,
             "response_from_owner_ago": null,
@@ -543,21 +543,21 @@
             "review_photos": []
         },
         {
-            "review_id": "The staff attitudes are nice. But they really need to take care of the bathroomthe toilet is disgusting  plz clean it thoroughly!",
-            "reviewer_name": "OL M",
-            "rating": 3,
-            "review_text": "The staff attitudes are nice. But they really need to take care of the bathroomthe toilet is disgusting  plz clean it thoroughly!",
-            "published_at": "2 months ago",
-            "published_at_date": "2023-09-02T04:14:05.288000Z",
+            "review_id": "I've been to this place many times and compared to other mcdonalds, this one is always clean \n\nThe service was quick aswell and the food is served no more than a few minutes\n\nOnly issue food wasn't as good as I expected. Fries are always very salty, ice coffees/ hot coffee not so well mixed, burgers always comes out as a mess (beside fish fillet)",
+            "reviewer_name": "Nasra Cordoba",
+            "rating": 4,
+            "review_text": "I've been to this place many times and compared to other mcdonalds, this one is always clean \n\nThe service was quick aswell and the food is served no more than a few minutes\n\nOnly issue food wasn't as good as I expected. Fries are always very salty, ice coffees/ hot coffee not so well mixed, burgers always comes out as a mess (beside fish fillet)",
+            "published_at": "5 months ago",
+            "published_at_date": "2023-06-08T17:48:39.327000Z",
             "response_from_owner_text": null,
             "response_from_owner_ago": null,
             "response_from_owner_date": null,
             "review_likes_count": 0,
-            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_reviews_by_reviewer": 46,
             "total_number_of_photos_by_reviewer": 0,
-            "reviewer_url": "https://www.google.com/maps/contrib/108284845979996121070/reviews?entry=ttu",
-            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocL3vscj9tZ4Bnz4oifhGCgc1r7E7KUo4pMeN3Ix2A1Q=s120-c-rp-mo-br100",
-            "is_local_guide": false,
+            "reviewer_url": "https://www.google.com/maps/contrib/103726384748860238378/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVj7njUhXn8_DfUfGDqOdziX7OL83NK-4mFhqEztDk6b6A=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
             "review_translated_text": null,
             "response_from_owner_translated_text": null,
             "review_photos": []

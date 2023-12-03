@@ -2,8 +2,8 @@
     "place_id": "ChIJRVgbDLNzhlQR4e6YR5VdRYQ",
     "name": "McDonald's",
     "description": "Classic, long-running fast-food chain known for its burgers & fries.",
-    "reviews": 599,
-    "website": "https://www.mcdonalds.com/ca/en-ca/restaurant-locator.html?y_source=1_MTQ1MjAxMjYtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+    "reviews": 602,
+    "website": "https://www.mcdonalds.com/ca/en-ca/restaurant-locator.html%3Fy_source%3D1_MTQ1MjAxMjYtNzE1LWxvY2F0aW9uLndlYnNpdGU%253D",
     "owner": {
         "id": "110235302030676711247",
         "name": "McDonald's (Owner)",
@@ -67,16 +67,16 @@
         }
     ],
     "link": "https://www.google.com/maps/place/McDonald%27s/data=!4m7!3m6!1s0x548673b30c1b5845:0x84455d954798eee1!8m2!3d49.2684245!4d-123.1594542!16s%2Fg%2F1tj84jlz!19sChIJRVgbDLNzhlQR4e6YR5VdRYQ?authuser=0&hl=en&rclk=1",
-    "status": "Open  Closes 1 a.m.",
+    "status": "Closed  Opens 6 a.m.",
     "price_range": "$",
     "reviews_per_rating": {
         "1": 74,
         "2": 49,
-        "3": 140,
-        "4": 165,
+        "3": 142,
+        "4": 166,
         "5": 171
     },
-    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJRVgbDLNzhlQR4e6YR5VdRYQ&q=McDonald's&authuser=0&hl=en&gl=CA",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJRVgbDLNzhlQR4e6YR5VdRYQ&q=McDonald%27s&authuser=0&hl=en&gl=CA",
     "coordinates": {
         "latitude": 49.268424499999995,
         "longitude": -123.1594542
@@ -94,7 +94,7 @@
     "cid": "9531127082132238049",
     "data_id": "0x548673b30c1b5845:0x84455d954798eee1",
     "menu": {
-        "link": "https://www.mcdonalds.com/ca/en-ca/full-menu.html?y_source=1_MTQ1MjAxMjYtNzE1LWxvY2F0aW9uLm1lbnVfdXJs",
+        "link": "https://www.mcdonalds.com/ca/en-ca/full-menu.html%3Fy_source%3D1_MTQ1MjAxMjYtNzE1LWxvY2F0aW9uLm1lbnVfdXJs",
         "source": "mcdonalds.com"
     },
     "reservations": [],
@@ -344,12 +344,6 @@
     ],
     "hours": [
         {
-            "day": "Sunday",
-            "times": [
-                "6 a.m.-1 a.m."
-            ]
-        },
-        {
             "day": "Monday",
             "times": [
                 "6 a.m.-1 a.m."
@@ -384,6 +378,12 @@
             "times": [
                 "6 a.m.-1 a.m."
             ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "6 a.m.-1 a.m."
+            ]
         }
     ],
     "featured_reviews": [
@@ -397,7 +397,7 @@
             "response_from_owner_text": null,
             "response_from_owner_ago": null,
             "response_from_owner_date": null,
-            "review_likes_count": 5,
+            "review_likes_count": 6,
             "total_number_of_reviews_by_reviewer": 11,
             "total_number_of_photos_by_reviewer": 12,
             "reviewer_url": "https://www.google.com/maps/contrib/110638458603045631755/reviews?entry=ttu",
@@ -417,7 +417,7 @@
             "response_from_owner_text": null,
             "response_from_owner_ago": null,
             "response_from_owner_date": null,
-            "review_likes_count": 1,
+            "review_likes_count": 2,
             "total_number_of_reviews_by_reviewer": 11,
             "total_number_of_photos_by_reviewer": 0,
             "reviewer_url": "https://www.google.com/maps/contrib/104764428564909166647/reviews?entry=ttu",
@@ -432,7 +432,7 @@
             "reviewer_name": "Rick Tetz",
             "rating": 2,
             "review_text": "Usually great experience. Been eating here for over 10 years. But this last Sunday... Saganki was great. Chicken slovaki was burnt so bad 3 pieces inedible. Charred through !  Said thankyou for my order to waitress and was ignored and handed bag. Even with a tip for takeout. Not impressed.",
-            "published_at": "5 months ago",
+            "published_at": "6 months ago",
             "published_at_date": "2023-05-31T02:05:49.582000Z",
             "response_from_owner_text": null,
             "response_from_owner_ago": null,
@@ -477,7 +477,7 @@
             "response_from_owner_text": null,
             "response_from_owner_ago": null,
             "response_from_owner_date": null,
-            "review_likes_count": 1,
+            "review_likes_count": 2,
             "total_number_of_reviews_by_reviewer": 55,
             "total_number_of_photos_by_reviewer": 1,
             "reviewer_url": "https://www.google.com/maps/contrib/102846125249797213672/reviews?entry=ttu",
@@ -492,7 +492,7 @@
             "reviewer_name": "Robert Price",
             "rating": 3,
             "review_text": "I go for a breakfast wrap and coffee.  Usually prompt service.",
-            "published_at": "a week ago",
+            "published_at": "2 weeks ago",
             "published_at_date": "2023-11-14T02:00:47.064000Z",
             "response_from_owner_text": null,
             "response_from_owner_ago": null,
@@ -508,26 +508,6 @@
             "review_photos": []
         },
         {
-            "review_id": "Worst McDonald's I've ever been to. The fries were cold and soggy, they forgot a cheeseburger and a straw for the drink. There's also no parking and it's small and sad.",
-            "reviewer_name": "Ashley",
-            "rating": 1,
-            "review_text": "Worst McDonald's I've ever been to. The fries were cold and soggy, they forgot a cheeseburger and a straw for the drink. There's also no parking and it's small and sad.",
-            "published_at": "5 months ago",
-            "published_at_date": "2023-06-06T02:28:42.685000Z",
-            "response_from_owner_text": null,
-            "response_from_owner_ago": null,
-            "response_from_owner_date": null,
-            "review_likes_count": 2,
-            "total_number_of_reviews_by_reviewer": 10,
-            "total_number_of_photos_by_reviewer": 5,
-            "reviewer_url": "https://www.google.com/maps/contrib/104380042778980391071/reviews?entry=ttu",
-            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXarDPLHTtZ2wfenStB-GaZ2eULknNwz78jjtCteJF-EZdY=s120-c-rp-mo-br100",
-            "is_local_guide": false,
-            "review_translated_text": null,
-            "response_from_owner_translated_text": null,
-            "review_photos": []
-        },
-        {
             "review_id": "This one is small and cramped and it seems like there's regulars there who feel like other customers are infringing on their space",
             "reviewer_name": "Red RyNo",
             "rating": 4,
@@ -537,11 +517,31 @@
             "response_from_owner_text": null,
             "response_from_owner_ago": null,
             "response_from_owner_date": null,
-            "review_likes_count": 1,
+            "review_likes_count": 2,
             "total_number_of_reviews_by_reviewer": 44,
             "total_number_of_photos_by_reviewer": 6,
             "reviewer_url": "https://www.google.com/maps/contrib/103138271325029442842/reviews?entry=ttu",
             "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUhb70OSWJI6quf2yRtY1nVGVyTtj1C-azK0p_eHwX_1Vg=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Fast service. Fresh (well... I mean hot and newly cooked) food. Convenient location.",
+            "reviewer_name": "Byron Sheardown",
+            "rating": 5,
+            "review_text": "Fast service. Fresh (well... I mean hot and newly cooked) food. Convenient location.",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-08T00:09:42.498000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 383,
+            "total_number_of_photos_by_reviewer": 1080,
+            "reviewer_url": "https://www.google.com/maps/contrib/102022222275245034688/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXIB0l2k9SoY2-5IMY1HDdVoWJOtE7zCT-qhiRsuo481Ug=s120-c-rp-mo-ba5-br100",
             "is_local_guide": true,
             "review_translated_text": null,
             "response_from_owner_translated_text": null,

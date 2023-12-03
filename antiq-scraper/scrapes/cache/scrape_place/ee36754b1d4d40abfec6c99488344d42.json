@@ -2,7 +2,7 @@
     "place_id": "ChIJkf82NdpwhlQRLCs2T5Z6acY",
     "name": "McDonald's",
     "description": "Classic, long-running fast-food chain known for its burgers & fries.",
-    "reviews": 2308,
+    "reviews": 2311,
     "website": "https://www.mcdonalds.com/ca/en-ca/restaurant-locator.html%3Fy_source%3D1_MTQ1MjA0NTMtNzE1LWxvY2F0aW9uLndlYnNpdGU%253D",
     "owner": {
         "id": "113510061718315608724",
@@ -70,10 +70,10 @@
     "status": "Open 24 hours",
     "price_range": "$",
     "reviews_per_rating": {
-        "1": 360,
+        "1": 362,
         "2": 198,
         "3": 540,
-        "4": 552,
+        "4": 553,
         "5": 658
     },
     "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJkf82NdpwhlQRLCs2T5Z6acY&q=McDonald%27s&authuser=0&hl=en&gl=CA",
@@ -350,6 +350,10 @@
             "link": "https://lh5.googleusercontent.com/p/AF1QipO0FpONyYk9Ujc1958ELZlWqqRyljPizks4etQq=w224-h398-k-no"
         },
         {
+            "about": "Take-out",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMJorQbS4jSI3Dmu1KCDK_kO9FozUUqoKIwQCcA=w224-h398-k-no"
+        },
+        {
             "about": "Comfort food",
             "link": "https://lh5.googleusercontent.com/p/AF1QipM-KfEPnBjV9Ms5gTyrTrnEeYRxT6o9225X9dy-=w447-h298-k-no"
         },
@@ -451,7 +455,7 @@
             "reviewer_name": "Shell L",
             "rating": 1,
             "review_text": "I ordered a double Big Mac, 2 meat patties are missing (should be 4 I only got 2)? Whole piece of lettuce instead of shred lettuce? The sauce inside is mayo instead of mac sauce? And I asked for extra onion, not surprisingly, there is no onion...\n\nOct27,2022 0:22am mobile order#2106",
-            "published_at": "11 months ago",
+            "published_at": "a year ago",
             "published_at_date": "2022-12-01T02:51:10.253000Z",
             "response_from_owner_text": null,
             "response_from_owner_ago": null,
@@ -483,8 +487,8 @@
             "response_from_owner_ago": null,
             "response_from_owner_date": null,
             "review_likes_count": 0,
-            "total_number_of_reviews_by_reviewer": 93,
-            "total_number_of_photos_by_reviewer": 631,
+            "total_number_of_reviews_by_reviewer": 94,
+            "total_number_of_photos_by_reviewer": 632,
             "reviewer_url": "https://www.google.com/maps/contrib/104482396754530361261/reviews?entry=ttu",
             "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWFiu_lgdUEleVdG3bxXva_MVFdXXvimPrczpHFfVSXvgY=s120-c-rp-mo-ba5-br100",
             "is_local_guide": true,
@@ -527,8 +531,8 @@
             "response_from_owner_ago": null,
             "response_from_owner_date": null,
             "review_likes_count": 0,
-            "total_number_of_reviews_by_reviewer": 220,
-            "total_number_of_photos_by_reviewer": 27,
+            "total_number_of_reviews_by_reviewer": 224,
+            "total_number_of_photos_by_reviewer": 28,
             "reviewer_url": "https://www.google.com/maps/contrib/115164838205146382569/reviews?entry=ttu",
             "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWGY2QYLRNJPu6ylsx5BPRq7PTq1CU28kZkoasdO9g7QHk=s120-c-rp-mo-ba5-br100",
             "is_local_guide": true,

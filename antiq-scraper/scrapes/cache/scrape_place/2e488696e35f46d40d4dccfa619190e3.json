@@ -1,0 +1,588 @@
+{
+    "place_id": "ChIJOVvQlMnZhVQRicBWpt9JpAE",
+    "name": "McDonald's",
+    "description": "Classic, long-running fast-food chain known for its burgers & fries.",
+    "reviews": 2310,
+    "website": "https://www.mcdonalds.com/ca/en-ca/restaurant-locator.html?y_source=1_MTQ1MTk0MDktNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+    "owner": {
+        "id": "109766867394628285239",
+        "name": "McDonald's (Owner)",
+        "link": "https://www.google.com/maps/contrib/109766867394628285239"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPgOB0xCyhgFtyKYxD0wEbEJi2EIT8NYn6YmW-6=w408-h306-k-no",
+    "main_category": "Fast food restaurant",
+    "categories": [
+        "Fast food restaurant",
+        "American restaurant",
+        "Breakfast restaurant",
+        "Cafe",
+        "Hamburger restaurant",
+        "Restaurant"
+    ],
+    "rating": 3.2,
+    "workday_timing": "5 a.m.-12 a.m.",
+    "closed_on": [],
+    "phone": "(604) 587-3390",
+    "address": "McDonald's, 12930 96 Ave, Surrey, BC V3V 6A8",
+    "review_keywords": [
+        {
+            "keyword": "drive thru",
+            "count": 126
+        },
+        {
+            "keyword": "manager",
+            "count": 38
+        },
+        {
+            "keyword": "play area",
+            "count": 20
+        },
+        {
+            "keyword": "behaviour",
+            "count": 13
+        },
+        {
+            "keyword": "talk",
+            "count": 13
+        },
+        {
+            "keyword": "happy meal",
+            "count": 13
+        },
+        {
+            "keyword": "egg mcmuffin",
+            "count": 11
+        },
+        {
+            "keyword": "kiosks",
+            "count": 10
+        },
+        {
+            "keyword": "poutine",
+            "count": 9
+        },
+        {
+            "keyword": "train",
+            "count": 7
+        }
+    ],
+    "link": "https://www.google.com/maps/place/McDonald%27s/data=!4m7!3m6!1s0x5485d9c994d05b39:0x1a449dfa656c089!8m2!3d49.1769263!4d-122.864595!16s%2Fg%2F1tptq97q!19sChIJOVvQlMnZhVQRicBWpt9JpAE?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 5 a.m.",
+    "price_range": "$",
+    "reviews_per_rating": {
+        "1": 571,
+        "2": 227,
+        "3": 416,
+        "4": 440,
+        "5": 656
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJOVvQlMnZhVQRicBWpt9JpAE&q=McDonald's&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.1769263,
+        "longitude": -122.864595
+    },
+    "plus_code": "54GP+Q5 Surrey, British Columbia",
+    "detailed_address": {
+        "ward": null,
+        "street": "12930 96 Ave",
+        "city": "Surrey",
+        "postal_code": "V3V 6A8",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "118300715135713417",
+    "data_id": "0x5485d9c994d05b39:0x1a449dfa656c089",
+    "menu": {
+        "link": "https://www.mcdonalds.com/ca/en-ca/full-menu.html?y_source=1_MTQ1MTk0MDktNzE1LWxvY2F0aW9uLm1lbnVfdXJs",
+        "source": "mcdonalds.com"
+    },
+    "reservations": [],
+    "order_online_links": [
+        {
+            "link": "https://www4.mcdonalds.ca/mcdeliverycanada/?y_source=1_MTQ1MTk0MDktNzE1LWxvY2F0aW9uLm9yZGVyX3VybA%3D%3D",
+            "source": "mcdonalds.ca"
+        },
+        {
+            "link": "https://www.ubereats.com/ca/store/mcdonalds-prince-charles/8vJXuMGDTBKGSznXnWZAiw?utm_campaign=place-action-link&utm_medium=organic&utm_source=google",
+            "source": "ubereats.com"
+        },
+        {
+            "link": "https://www.doordash.com/store/mcdonald%27s-surrey-1139897/?utm_campaign=gpa",
+            "source": "doordash.com"
+        },
+        {
+            "link": "https://www.skipthedishes.com/mcdonalds-96th?serviceType=delivery&utm_source=google&utm_medium=organic&utm_campaign=gpav2",
+            "source": "skipthedishes.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Outdoor seating",
+                    "enabled": true
+                },
+                {
+                    "name": "No-contact delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Drive-through",
+                    "enabled": true
+                },
+                {
+                    "name": "Takeout",
+                    "enabled": true
+                },
+                {
+                    "name": "Dine-in",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "highlights",
+            "name": "Highlights",
+            "options": [
+                {
+                    "name": "Fast service",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair accessible seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Coffee",
+                    "enabled": true
+                },
+                {
+                    "name": "Late-night food",
+                    "enabled": true
+                },
+                {
+                    "name": "Quick bite",
+                    "enabled": true
+                },
+                {
+                    "name": "Vegetarian options",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Dining options",
+            "options": [
+                {
+                    "name": "Breakfast",
+                    "enabled": true
+                },
+                {
+                    "name": "Lunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Dinner",
+                    "enabled": true
+                },
+                {
+                    "name": "Counter service",
+                    "enabled": true
+                },
+                {
+                    "name": "Dessert",
+                    "enabled": true
+                },
+                {
+                    "name": "Seating",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosphere",
+            "options": [
+                {
+                    "name": "Casual",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "crowd",
+            "name": "Crowd",
+            "options": [
+                {
+                    "name": "Family-friendly",
+                    "enabled": true
+                },
+                {
+                    "name": "Groups",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "children",
+            "name": "Children",
+            "options": [
+                {
+                    "name": "Good for kids",
+                    "enabled": true
+                },
+                {
+                    "name": "Good for kids birthday",
+                    "enabled": true
+                },
+                {
+                    "name": "High chairs",
+                    "enabled": true
+                },
+                {
+                    "name": "Kids' menu",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "parking",
+            "name": "Parking",
+            "options": [
+                {
+                    "name": "Free parking lot",
+                    "enabled": true
+                },
+                {
+                    "name": "Parking",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPgOB0xCyhgFtyKYxD0wEbEJi2EIT8NYn6YmW-6=w397-h298-k-no"
+        },
+        {
+            "about": "Menu",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMQjhNjAmnd0B0v_M8upbORxEYBHc0Xqzg_ZUSp=w397-h298-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMprYHfYsLCnNTRaHwbkaWkkUdP7MNXOEYpoCOf=w529-h298-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNLg4-I-_hDdSs-liZkdzj8ods5k6jWvENqCpzl=w224-h298-k-no"
+        },
+        {
+            "about": "Vibe",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipO_1SJow5KLLcY7qK_1OHTuPfs3qK_mVuSONwcp=w529-h298-k-no"
+        },
+        {
+            "about": "Take-out",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOzUNchCu57DQPNeBRtT4Y4L0X6csOiM7rMztMm=w224-h298-k-no"
+        },
+        {
+            "about": "Comfort food",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOjzvYBnf92ASQCQlq3x56_SZRbKGhkO7LNrOF8=w395-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOD7SiBfbAM6gL2bVLQ9Ws42oyU6piaIVeYkjHn=w529-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=JTcxu3tbNnNPHMI4aCLuIQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=84.62724&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "5 a.m.-12 a.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "5 a.m.-12 a.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "5 a.m.-12 a.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "5 a.m.-12 a.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "5 a.m.-12 a.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "5 a.m.-12 a.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "5 a.m.-12 a.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "Pretty clean and new place. The decorations on the walls are also pretty cool. Ordered sundaes for my kids using mobile app and the service prompt. I wish there were more softer seating like a sofa but it is pretty spacious with a lot of seating. The play place is also good. The seating could be improved as there is lot of open space but seating is cramped on one side. Would like to go there again as my kids liked it.",
+            "reviewer_name": "Mir Kazim Ali Tabrez",
+            "rating": 5,
+            "review_text": "Pretty clean and new place. The decorations on the walls are also pretty cool. Ordered sundaes for my kids using mobile app and the service prompt. I wish there were more softer seating like a sofa but it is pretty spacious with a lot of seating. The play place is also good. The seating could be improved as there is lot of open space but seating is cramped on one side. Would like to go there again as my kids liked it.",
+            "published_at": "a year ago",
+            "published_at_date": "2022-10-01T21:35:18.293000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 71,
+            "total_number_of_photos_by_reviewer": 406,
+            "reviewer_url": "https://www.google.com/maps/contrib/115694597174594494433/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjULWjY6zAA6UW0lrZAQZ6OT6JMvMILHTv9MA-lrkTqFpEE=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOLQj_7dc2LGVhqu2H_MuqzJ4CdPuQvk8XqhOF2=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipO5x35FGJm6h6rFpl86Xaed5DOco82q3leEeUg8=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPBhndnxTl41dUTakUxy4wpYLOOURSO3H_BCVLr=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNDSlF_gmBRhxjsKWcgPV21j5r2CEGdwsPDUAD4=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNr7-dXYyGjbFf3IT8Il4o96fc6xY5sYAOHIlgV=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPJHUecQ9Eo5XAzRjizRXwhRs_vQ0S5atrMDJ5L=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOqrVJfcf-EHqQa8qJm1_luMYj8tBgcncDXOzwz=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipN6BrYN1xew9dNCAarZhggNP0X3NtrY57g2u_MF=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipORBBi8qKoyx4B5ovYKwJA-dNwLU0Kel03SoTE_=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPfVtN3UpKvFj0Z43RE9_vA6lExB_6MxjEs3wsp=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMuVSkhhJ_0FrulYlRrb219geEx37IOCgJjnqJP=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "i ordered drive thru, everything bagel with cc. first of all i waited for one bagel for about 15-20 mins, and when i got it, it was totally burnt, they didn't provide the receipt in bag. very poor service, not sure why they do this to there customers.",
+            "reviewer_name": "Priyanka Gaba",
+            "rating": 1,
+            "review_text": "i ordered drive thru, everything bagel with cc. first of all i waited for one bagel for about 15-20 mins, and when i got it, it was totally burnt, they didn't provide the receipt in bag. very poor service, not sure why they do this to there customers.",
+            "published_at": "8 months ago",
+            "published_at_date": "2023-03-19T12:50:42.535000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 3,
+            "total_number_of_photos_by_reviewer": 3,
+            "reviewer_url": "https://www.google.com/maps/contrib/114260301289599018132/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW4dLgeWQJF78420Eo2qsObNhcoH5mdt8sicjxWeq8dO4A=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipN-8R5rXe1-nfcFfmL-y1CBwdJd_q6-PWRBZndn=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "The reason makes MacDonald great is because of they have play place and my kids love to come here. We came pretty often. 3 out of 5,  we don't feel the AC is on at playplace. My kids are complaining its too hot to play. We as parents also feel very stuffy inside because there is no AC and windows here!! We asked the one of the staff, she was very nice and helpful. She told us the AC is on auto mode and she can't change that. Therefore, she took a chair and open the door connect to the main rating area. It made the temperature of the room cool down a bit and we are appreciated it\n\nManager, please change the auto setting of the AC in order to give customers a better dine in experience.",
+            "reviewer_name": "Sharon Lin",
+            "rating": 2,
+            "review_text": "The reason makes MacDonald great is because of they have play place and my kids love to come here. We came pretty often. 3 out of 5,  we don't feel the AC is on at playplace. My kids are complaining its too hot to play. We as parents also feel very stuffy inside because there is no AC and windows here!! We asked the one of the staff, she was very nice and helpful. She told us the AC is on auto mode and she can't change that. Therefore, she took a chair and open the door connect to the main rating area. It made the temperature of the room cool down a bit and we are appreciated it\n\nManager, please change the auto setting of the AC in order to give customers a better dine in experience.",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-11T02:57:26.749000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 30,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/104975890175435910189/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUmkX1lXZy1wVw-J8Ui7Y17NFaTU0gB-reLKqIae96lWmU=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Staff barely understands English and completely messed up my order for drive through. Manager wasn't much help at all since I used code to order and that's considered as mobile order so all the extra unnecessary food was not able to be canceled. Inside is always dirty every time I've been here. They do not care for cleanliness at all",
+            "reviewer_name": "Kirtpal Kaler",
+            "rating": 3,
+            "review_text": "Staff barely understands English and completely messed up my order for drive through. Manager wasn't much help at all since I used code to order and that's considered as mobile order so all the extra unnecessary food was not able to be canceled. Inside is always dirty every time I've been here. They do not care for cleanliness at all",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-23T20:58:58.608000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 31,
+            "total_number_of_photos_by_reviewer": 2,
+            "reviewer_url": "https://www.google.com/maps/contrib/107247694423848281805/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIv0JsGGLkCEJgZ7fl-lQcjKfxh4syiPnQjAEzD2Xi1=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Food is okay. The place gets a little busy in the rush hour. Recommend to have a lot of time in hand while visiting this place. Don't be in a hurry. The food again is okay like a typical MacD food. Nothing more nothing less. You already know what to expect from the Big Mac or the coffee",
+            "reviewer_name": "Sugandh Kumar",
+            "rating": 4,
+            "review_text": "Food is okay. The place gets a little busy in the rush hour. Recommend to have a lot of time in hand while visiting this place. Don't be in a hurry. The food again is okay like a typical MacD food. Nothing more nothing less. You already know what to expect from the Big Mac or the coffee",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-07T16:36:21.814000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 385,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/110910128265953083886/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVqhitmYh2rYg7Bhi36qx1deGlNJVQx-KzPPiPoy7brQw=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOwo70w0A8f5hMCUFah5mRYYeLL0YoEhtpPYV1a=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Managers doesn't know how to manage the staff, and can't even do the multi tasking.\nWe went for breakfast in drivethru and it's Breakfast Rush. I don't why would they position only one ordertaker for 2 DT- lanes. It should never happen! That's why there is 2 lanes, and should have 2 order takers especially in rush hours. I was already in the menu board to place an order but no one is answering so i went directly in the first window to place an order. And the lady staff in the window has the audacity to tell me \"why i didn't place the order in advance, it's busy and she's alone doing the order taker''\nSo i asked her why are you order taking for 2 lines, that shouldn't be happening, but she just told me to tell the manager... I went to tge 2nd window to pick up my order and saw the manager. And she's not even wearing a DT headset, i told her to help and do multi task, manager should know better! And\nre-train your staff of proper customer service!",
+            "reviewer_name": "Ken Varias",
+            "rating": 2,
+            "review_text": "Managers doesn't know how to manage the staff, and can't even do the multi tasking.\nWe went for breakfast in drivethru and it's Breakfast Rush. I don't why would they position only one ordertaker for 2 DT- lanes. It should never happen! That's why there is 2 lanes, and should have 2 order takers especially in rush hours. I was already in the menu board to place an order but no one is answering so i went directly in the first window to place an order. And the lady staff in the window has the audacity to tell me \"why i didn't place the order in advance, it's busy and she's alone doing the order taker''\nSo i asked her why are you order taking for 2 lines, that shouldn't be happening, but she just told me to tell the manager... I went to tge 2nd window to pick up my order and saw the manager. And she's not even wearing a DT headset, i told her to help and do multi task, manager should know better! And\nre-train your staff of proper customer service!",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-21T18:22:52.335000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 234,
+            "total_number_of_photos_by_reviewer": 529,
+            "reviewer_url": "https://www.google.com/maps/contrib/115168114575339817550/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUg2fyOggtDf1LqIFC9Le9U58l3v_muLXN0UDxMW1ipjbRN=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Cravings have me here nearly nightly with the same order. Both last night and tonight the cashier who took the order last night and the manager who was involved for no reason at all tonight were rude as hell. A simple no would do.  I asked to pay for a medium drink and to be given a small drink in it.  As I was trying to explain I would pay for another drink if they would just put ice in it the person taking the order snapped , interrupting me to say that \"they need me to hurry up and order as they are busy\".\nAt no point between the person taking the order and the manager barking at us and acting as if I was asking for something for free did they stop to listen or offer a solution. Will continue to visit because the fetus demands it- but wow these folks cannot do customer service and efficiency at the same time.",
+            "reviewer_name": "Rosa Lopez",
+            "rating": 1,
+            "review_text": "Cravings have me here nearly nightly with the same order. Both last night and tonight the cashier who took the order last night and the manager who was involved for no reason at all tonight were rude as hell. A simple no would do.  I asked to pay for a medium drink and to be given a small drink in it.  As I was trying to explain I would pay for another drink if they would just put ice in it the person taking the order snapped , interrupting me to say that \"they need me to hurry up and order as they are busy\".\nAt no point between the person taking the order and the manager barking at us and acting as if I was asking for something for free did they stop to listen or offer a solution. Will continue to visit because the fetus demands it- but wow these folks cannot do customer service and efficiency at the same time.",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-09-01T07:10:56.555000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 10,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/108309227058629294613/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKacdJPbiR5nhttCSi6oTqnF8Prx96cbvq3wDPQj1Of=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "I usually order delivery through Skip the Dishes, they consistently forget to make the customizations to the order and frequently forget the drink that goes with my happy meal. Ordered a strawberry pie today, it was in the strawberry pie box, but it was an apple pie. I understand it's just fast food but I still expect to get what I ordered. #frustrated",
+            "reviewer_name": "Samantha Lentz",
+            "rating": 2,
+            "review_text": "I usually order delivery through Skip the Dishes, they consistently forget to make the customizations to the order and frequently forget the drink that goes with my happy meal. Ordered a strawberry pie today, it was in the strawberry pie box, but it was an apple pie. I understand it's just fast food but I still expect to get what I ordered. #frustrated",
+            "published_at": "5 months ago",
+            "published_at_date": "2023-06-25T06:46:42.717000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 9,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/103493907105881959735/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVc4n_FzI_qq_PJoDe7K14yhXHJRioXy772Xsy0IgznLQ=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

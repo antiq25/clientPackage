@@ -2,8 +2,8 @@
     "place_id": "ChIJk00dH-50hlQRuFg6Si9b_YM",
     "name": "McDonald's",
     "description": "Classic, long-running fast-food chain known for its burgers & fries.",
-    "reviews": 1376,
-    "website": "https://www.mcdonalds.com/ca/en-ca/restaurant-locator.html%3Fy_source%3D1_MTQ1MjAzNzEtNzE1LWxvY2F0aW9uLndlYnNpdGU%253D",
+    "reviews": 1377,
+    "website": "https://www.mcdonalds.com/ca/en-ca/restaurant-locator.html?y_source=1_MTQ1MjAzNzEtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
     "owner": {
         "id": "107823859497144541094",
         "name": "McDonald's (Owner)",
@@ -30,8 +30,8 @@
             "count": 50
         },
         {
-            "keyword": "clean",
-            "count": 25
+            "keyword": "coffee",
+            "count": 41
         },
         {
             "keyword": "app",
@@ -67,16 +67,16 @@
         }
     ],
     "link": "https://www.google.com/maps/place/McDonald%27s/data=!4m7!3m6!1s0x548674ee1f1d4d93:0x83fd5b2f4a3a58b8!8m2!3d49.2060654!4d-123.125516!16s%2Fg%2F1tfrrlxt!19sChIJk00dH-50hlQRuFg6Si9b_YM?authuser=0&hl=en&rclk=1",
-    "status": "Closes soon  10 p.m.  Opens 6 a.m. Sat",
+    "status": "Closed  Opens 6 a.m.",
     "price_range": "$",
     "reviews_per_rating": {
         "1": 141,
         "2": 62,
         "3": 297,
-        "4": 396,
-        "5": 480
+        "4": 395,
+        "5": 482
     },
-    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJk00dH-50hlQRuFg6Si9b_YM&q=McDonald%27s&authuser=0&hl=en&gl=CA",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJk00dH-50hlQRuFg6Si9b_YM&q=McDonald's&authuser=0&hl=en&gl=CA",
     "coordinates": {
         "latitude": 49.2060654,
         "longitude": -123.12551599999999
@@ -94,7 +94,7 @@
     "cid": "9510858246743283896",
     "data_id": "0x548674ee1f1d4d93:0x83fd5b2f4a3a58b8",
     "menu": {
-        "link": "https://www.mcdonalds.com/ca/en-ca/full-menu.html%3Fy_source%3D1_MTQ1MjAzNzEtNzE1LWxvY2F0aW9uLm1lbnVfdXJs",
+        "link": "https://www.mcdonalds.com/ca/en-ca/full-menu.html?y_source=1_MTQ1MjAzNzEtNzE1LWxvY2F0aW9uLm1lbnVfdXJs",
         "source": "mcdonalds.com"
     },
     "reservations": [],
@@ -308,16 +308,12 @@
             "link": "https://lh5.googleusercontent.com/p/AF1QipMLU68sCH3OxcAeJ3giX4ET8IshDIk6hFg3JUP8=w224-h298-k-no"
         },
         {
-            "about": "Latest",
-            "link": "https://lh5.googleusercontent.com/p/AF1QipOC-VvDjO-xQrLz7awgUShLUDp--qFtYRvdk_mr=w224-h298-k-no"
+            "about": "Menu",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipORGHoTdY-UCVHI6lnvxkk6-p8N6a-HgwvYSiOk=w224-h298-k-no"
         },
         {
             "about": "Videos",
             "link": "https://lh5.googleusercontent.com/p/AF1QipPibwmZqADikpHNDPQykxvBUCp8QPIc0BYvWRxj=w224-h398-k-no"
-        },
-        {
-            "about": "Menu",
-            "link": "https://lh5.googleusercontent.com/p/AF1QipORGHoTdY-UCVHI6lnvxkk6-p8N6a-HgwvYSiOk=w224-h298-k-no"
         },
         {
             "about": "Food & drink",
@@ -325,7 +321,7 @@
         },
         {
             "about": "Vibe",
-            "link": "https://lh5.googleusercontent.com/p/AF1QipPMkvrvfqQNUL_NXVGq-HWDzmRep4OqkJVwZhyQ=w397-h298-k-no"
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMRMle2lrg7W4Hhjqhz1LEqhS5Xc_dWK2LIGe4w=w397-h298-k-no"
         },
         {
             "about": "Take-out",
@@ -357,12 +353,6 @@
         }
     ],
     "hours": [
-        {
-            "day": "Sunday",
-            "times": [
-                "6 a.m.-10 p.m."
-            ]
-        },
         {
             "day": "Monday",
             "times": [
@@ -398,9 +388,35 @@
             "times": [
                 "6 a.m.-10 p.m."
             ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "6 a.m.-10 p.m."
+            ]
         }
     ],
     "featured_reviews": [
+        {
+            "review_id": "Cut the coffee. It's amazing. Service was great. Price was unbelievable. You never go wrong with the McDonald's coffee and some of them muffins",
+            "reviewer_name": "kid nash",
+            "rating": 5,
+            "review_text": "Cut the coffee. It's amazing. Service was great. Price was unbelievable. You never go wrong with the McDonald's coffee and some of them muffins",
+            "published_at": "4 days ago",
+            "published_at_date": "2023-11-27T00:37:38.599000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 289,
+            "total_number_of_photos_by_reviewer": 11,
+            "reviewer_url": "https://www.google.com/maps/contrib/103254718982829021612/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWVCvONJhHYhjNOMJM6oCJmA713pSFF028RVxwVFDDwDnxn=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
         {
             "review_id": "I ordered and paid thru the app while inside and it was a breeze. Just waited for the number generated on the app to appear on their screen.\n\nThe place needs cleaning.",
             "reviewer_name": "Jabb",
@@ -422,6 +438,26 @@
             "review_photos": [
                 "https://lh5.googleusercontent.com/p/AF1QipMIm0gXF8zoQz1M27jmYlpKsICCe5KR7KTFMEVg=w150-h150-k-no-p"
             ]
+        },
+        {
+            "review_id": "staff not very nice, they stole my tray from me. also the same lady works 24/7 i'm not sure if she lives there or what. but anyway i had to stop coming because i would see that lady everyday and it was humiliating for me.",
+            "reviewer_name": "Stacey Willows",
+            "rating": 2,
+            "review_text": "staff not very nice, they stole my tray from me. also the same lady works 24/7 i'm not sure if she lives there or what. but anyway i had to stop coming because i would see that lady everyday and it was humiliating for me.",
+            "published_at": "6 days ago",
+            "published_at_date": "2023-11-24T11:02:08.086000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 24,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/115039564488490077300/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXB_4kuvq4IfA_CVCc8Q0K19DKen1_3SjI-0zf-jS8PXQ=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
         },
         {
             "review_id": "Lloyd staff who took my order delivered friendly and FANTASTIC service. I had a difficult toddler with me.  Lloyd was understanding, helpful and went beyond his duty of line to lessen my stress with my meal order. Thank you. Will return often.  Store manager please have tables all over wipe often many tables not tidy for customers.",
@@ -456,8 +492,8 @@
             "response_from_owner_ago": null,
             "response_from_owner_date": null,
             "review_likes_count": 0,
-            "total_number_of_reviews_by_reviewer": 452,
-            "total_number_of_photos_by_reviewer": 1013,
+            "total_number_of_reviews_by_reviewer": 453,
+            "total_number_of_photos_by_reviewer": 1017,
             "reviewer_url": "https://www.google.com/maps/contrib/105140964694578394985/reviews?entry=ttu",
             "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVayWIbpuHwhY6tAgvZkrC_BFBU29-4WfSkXUr1AUZgj-s=s120-c-rp-mo-ba6-br100",
             "is_local_guide": true,
@@ -479,8 +515,8 @@
             "response_from_owner_ago": null,
             "response_from_owner_date": null,
             "review_likes_count": 0,
-            "total_number_of_reviews_by_reviewer": 183,
-            "total_number_of_photos_by_reviewer": 731,
+            "total_number_of_reviews_by_reviewer": 184,
+            "total_number_of_photos_by_reviewer": 751,
             "reviewer_url": "https://www.google.com/maps/contrib/101439793156400874516/reviews?entry=ttu",
             "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVFvVYpcq7AgD62205ujmmWBSysQ3OjeLP3xHpM3MWvopls=s120-c-rp-mo-ba5-br100",
             "is_local_guide": true,
@@ -532,46 +568,6 @@
             "total_number_of_photos_by_reviewer": 171,
             "reviewer_url": "https://www.google.com/maps/contrib/102831677903420943494/reviews?entry=ttu",
             "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWofo9pO2Bqva58-vRm-_bJL7Seg3a9ERSnFiQYf0NPhxfO=s120-c-rp-mo-ba4-br100",
-            "is_local_guide": true,
-            "review_translated_text": null,
-            "response_from_owner_translated_text": null,
-            "review_photos": []
-        },
-        {
-            "review_id": "Nice outdoor picnic tables outside in the shade if you don't mind the cars of Marine Drive not super far away.",
-            "reviewer_name": "Howard Poon",
-            "rating": 5,
-            "review_text": "Nice outdoor picnic tables outside in the shade if you don't mind the cars of Marine Drive not super far away.",
-            "published_at": "3 months ago",
-            "published_at_date": "2023-08-13T20:46:52.335000Z",
-            "response_from_owner_text": null,
-            "response_from_owner_ago": null,
-            "response_from_owner_date": null,
-            "review_likes_count": 0,
-            "total_number_of_reviews_by_reviewer": 192,
-            "total_number_of_photos_by_reviewer": 122,
-            "reviewer_url": "https://www.google.com/maps/contrib/113004925205209319995/reviews?entry=ttu",
-            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXBVy5-4aKE2OjmShLkHziqIO2ArH0ftTYFk2mCC3TBZQ=s120-c-rp-mo-ba5-br100",
-            "is_local_guide": true,
-            "review_translated_text": null,
-            "response_from_owner_translated_text": null,
-            "review_photos": []
-        },
-        {
-            "review_id": "They never screwed up my order. That's pretty good these days!",
-            "reviewer_name": "Randy Packer",
-            "rating": 4,
-            "review_text": "They never screwed up my order. That's pretty good these days!",
-            "published_at": "2 months ago",
-            "published_at_date": "2023-08-29T23:24:23.518000Z",
-            "response_from_owner_text": null,
-            "response_from_owner_ago": null,
-            "response_from_owner_date": null,
-            "review_likes_count": 0,
-            "total_number_of_reviews_by_reviewer": 53,
-            "total_number_of_photos_by_reviewer": 0,
-            "reviewer_url": "https://www.google.com/maps/contrib/110297535965176495080/reviews?entry=ttu",
-            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXTt68V2q73wytBBzByWqNXRiIdxphoaIPcdONLtbBDYw=s120-c-rp-mo-ba3-br100",
             "is_local_guide": true,
             "review_translated_text": null,
             "response_from_owner_translated_text": null,

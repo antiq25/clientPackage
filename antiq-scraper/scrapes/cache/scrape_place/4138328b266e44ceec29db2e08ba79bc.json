@@ -1,0 +1,602 @@
+{
+    "place_id": "ChIJLQ3uoZUKhlQRVxjCPcOWGTU",
+    "name": "McDonald's",
+    "description": "Classic, long-running fast-food chain known for its burgers & fries.",
+    "reviews": 1290,
+    "website": "https://www.mcdonalds.com/ca/en-ca/restaurant-locator.html%3Fy_source%3D1_MTQ1MTk5OTctNzE1LWxvY2F0aW9uLndlYnNpdGU%253D",
+    "owner": {
+        "id": "111566381075028137342",
+        "name": "McDonald's (Owner)",
+        "link": "https://www.google.com/maps/contrib/111566381075028137342"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOOqW03hY3JnWJZP0UJ3eULOjNWgRroBLZKaRk=w426-h240-k-no",
+    "main_category": "Fast food restaurant",
+    "categories": [
+        "Fast food restaurant",
+        "American restaurant",
+        "Breakfast restaurant",
+        "Cafe",
+        "Hamburger restaurant",
+        "Restaurant"
+    ],
+    "rating": 3.4,
+    "workday_timing": "5 a.m.-12 a.m.",
+    "closed_on": [],
+    "phone": "(604) 370-4750",
+    "address": "McDonald's, 8140 No 2 Rd, Richmond, BC V7C 5J9",
+    "review_keywords": [
+        {
+            "keyword": "drive thru",
+            "count": 91
+        },
+        {
+            "keyword": "coffee",
+            "count": 41
+        },
+        {
+            "keyword": "night",
+            "count": 29
+        },
+        {
+            "keyword": "parking",
+            "count": 27
+        },
+        {
+            "keyword": "manager",
+            "count": 21
+        },
+        {
+            "keyword": "morning",
+            "count": 14
+        },
+        {
+            "keyword": "cashier",
+            "count": 10
+        },
+        {
+            "keyword": "big mac",
+            "count": 7
+        },
+        {
+            "keyword": "mcflurry",
+            "count": 6
+        },
+        {
+            "keyword": "quarter pounder",
+            "count": 5
+        }
+    ],
+    "link": "https://www.google.com/maps/place/McDonald%27s/data=!4m7!3m6!1s0x54860a95a1ee0d2d:0x351996c33dc21857!8m2!3d49.1537398!4d-123.1585457!16s%2Fg%2F1tv3ncmb!19sChIJLQ3uoZUKhlQRVxjCPcOWGTU?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 5 a.m.",
+    "price_range": "$",
+    "reviews_per_rating": {
+        "1": 259,
+        "2": 88,
+        "3": 219,
+        "4": 347,
+        "5": 377
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJLQ3uoZUKhlQRVxjCPcOWGTU&q=McDonald%27s&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.1537398,
+        "longitude": -123.15854569999999
+    },
+    "plus_code": "5R3R+FH Richmond, British Columbia",
+    "detailed_address": {
+        "ward": null,
+        "street": "8140 No 2 Rd",
+        "city": "Richmond",
+        "postal_code": "V7C 5J9",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "3826255123726866519",
+    "data_id": "0x54860a95a1ee0d2d:0x351996c33dc21857",
+    "menu": {
+        "link": "https://www.mcdonalds.com/ca/en-ca/full-menu.html%3Fy_source%3D1_MTQ1MTk5OTctNzE1LWxvY2F0aW9uLm1lbnVfdXJs",
+        "source": "mcdonalds.com"
+    },
+    "reservations": [],
+    "order_online_links": [
+        {
+            "link": "https://www4.mcdonalds.ca/mcdeliverycanada/?y_source=1_MTQ1MTk5OTctNzE1LWxvY2F0aW9uLm9yZGVyX3VybA%3D%3D",
+            "source": "mcdonalds.ca"
+        },
+        {
+            "link": "https://www.ubereats.com/ca/store/mcdonalds-no-2-%26-blundell/iudBZj6qSCKdklm2MJQudA?utm_campaign=place-action-link&utm_medium=organic&utm_source=google",
+            "source": "ubereats.com"
+        },
+        {
+            "link": "https://www.skipthedishes.com/mcdonalds-8140-2-road?serviceType=delivery&utm_source=google&utm_medium=organic&utm_campaign=gpav2",
+            "source": "skipthedishes.com"
+        },
+        {
+            "link": "https://www.doordash.com/store/mcdonald%27s-richmond-1140111/?utm_campaign=gpa",
+            "source": "doordash.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Outdoor seating",
+                    "enabled": true
+                },
+                {
+                    "name": "No-contact delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Drive-through",
+                    "enabled": true
+                },
+                {
+                    "name": "Takeout",
+                    "enabled": true
+                },
+                {
+                    "name": "Dine-in",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "highlights",
+            "name": "Highlights",
+            "options": [
+                {
+                    "name": "Fast service",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair accessible seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Coffee",
+                    "enabled": true
+                },
+                {
+                    "name": "Late-night food",
+                    "enabled": true
+                },
+                {
+                    "name": "Quick bite",
+                    "enabled": true
+                },
+                {
+                    "name": "Vegetarian options",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Dining options",
+            "options": [
+                {
+                    "name": "Breakfast",
+                    "enabled": true
+                },
+                {
+                    "name": "Lunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Dinner",
+                    "enabled": true
+                },
+                {
+                    "name": "Counter service",
+                    "enabled": true
+                },
+                {
+                    "name": "Dessert",
+                    "enabled": true
+                },
+                {
+                    "name": "Seating",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosphere",
+            "options": [
+                {
+                    "name": "Casual",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "crowd",
+            "name": "Crowd",
+            "options": [
+                {
+                    "name": "Family-friendly",
+                    "enabled": true
+                },
+                {
+                    "name": "Groups",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "children",
+            "name": "Children",
+            "options": [
+                {
+                    "name": "Good for kids",
+                    "enabled": true
+                },
+                {
+                    "name": "Good for kids birthday",
+                    "enabled": true
+                },
+                {
+                    "name": "High chairs",
+                    "enabled": true
+                },
+                {
+                    "name": "Kids' menu",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "parking",
+            "name": "Parking",
+            "options": [
+                {
+                    "name": "Free parking lot",
+                    "enabled": true
+                },
+                {
+                    "name": "Parking",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOOqW03hY3JnWJZP0UJ3eULOjNWgRroBLZKaRk=w529-h298-k-no"
+        },
+        {
+            "about": "Latest",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPXKFaID4pBtALUhOK5SyvWPPEbxi2D0c4Srfus=w224-h298-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNRSwPxQHrXBtddRyIuH5VOTXaswLVc5ZdEPW99=w224-h398-k-no"
+        },
+        {
+            "about": "Menu",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOtV1Rdk9AbrnuSij4d1fC-9XxzAIkRkNMCIZk=w224-h298-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNpWzRi1tLwX9EyGanc4OQQxldXSJIAIXhyiLqn=w529-h298-k-no"
+        },
+        {
+            "about": "Vibe",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPOOFxfW7qrB2ylNaH6Cne-QxU5vtfmiyMMzH6i=w397-h298-k-no"
+        },
+        {
+            "about": "Hamburger",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPhE49xhxOXvvclu1lKKpkQh9uHIBuBYHhHsQT9=w224-h298-k-no"
+        },
+        {
+            "about": "French fries",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipP6pSjaF2PtvXFGL6RbktEn7aLiqlZvkMx1Hn0u=w224-h298-k-no"
+        },
+        {
+            "about": "Comfort food",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMR3Qxu-jPH9jCWZFJe5bElT4kt2PqVAmWYnfrg=w224-h398-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMBsF7p7CT6uNsZsaNsEQmL0WVQQYlvaFIh5e16=w298-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=GTADh9B7biUP6MkOEujreQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=194.11241&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "5 a.m.-12 a.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "5 a.m.-12 a.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "5 a.m.-12 a.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "5 a.m.-12 a.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "5 a.m.-12 a.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "5 a.m.-12 a.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "5 a.m.-12 a.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "This is their quarter  pounder without cheese. I can make better than this myself . Server is rude . The patty is dry . Onion is expensive or what ? It used to be so yummy and juicy years ago .",
+            "reviewer_name": "Amelia G Cheng",
+            "rating": 1,
+            "review_text": "This is their quarter  pounder without cheese. I can make better than this myself . Server is rude . The patty is dry . Onion is expensive or what ? It used to be so yummy and juicy years ago .",
+            "published_at": "a week ago",
+            "published_at_date": "2023-11-18T02:24:45.208000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/111175254664539152311/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLrWlWicJBV1GF6x5rv0ujIHBX1bQxUD7mEmEZVezjS=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMWp1RD8yZ4261lOaMlEmHTDcMS2aMYJbplpZvZ=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "SEE PICTURE. Seen this at landsdowne alderbridge way location, please no2 mcdonalds get this in your bathrooms so we can use are foot to open door! No one wants to touch the handle after washing your hands it is not sanitary and no napkings are still not provided at Mcdonalds no 2 . LEAVE A LIKE IF YOU AGREE. This NO 2 Mcdonalds makes the absolute worst fries of any mcdonalds ive been to, always undercooked or overcoooked, never fresh taste stale, clearly the staff cooks alot of fries at once and does not throw out after the designated time and also is not cooking the correct time consistently i constantly get like 10 of the fries extremely soft undercooked or a few black burnt. Also they short you on fries . Large fries always is never full to top aswell as medium!  The Oreo mcfleury never has enough icecream,  oreo or amount of extras, burgers are usually cooked well but sometimes after 6pm or night especially quarter pounder, cheeseburgers etc it is undercooked or has no taste.  Breakfast they do well, hashbrowns always fresh however ive notice sausage and egg bread is sometimes burned black or hard maybe adjust the toaster?? The coffee never taste really good i usually get 2 cream one sugar and it taste like nothing. The bathroom is a horrible, extremely heavy door with no automatic button!  literally everyone is touching the same handle to get in and out, disgusting!!  a foot handle would make the difference and is much needed or replace the door you make enough money common guys, or automated door... or at the very least leave paper towel so staff and visitors can at least grab door with handle and throw in a nearby garbage like every other store!!!  so not every is touching the same thing, disgusting to think staff touch that then go make your food and visitors touch that when leaving bathroom and go eat there food. Serious  health concern! Or if all that is too expensive leave the door open during shifts with a piece of wood or something under it.  Also Only one toilet  in such a huge restaurant bathroom?? Needs a major renovation. Been like this for atlest 10 years. On a positive note staff are friendly and do work fast. Hope they put some papertowel in bathroom to grab when leaving the bathroom soon, or leave mens door open so you dont have to touch that handle and open that heavy door! Or make it automatic like the main entrance door which is very nice. ALSO been told at drivethrough the park on side and no one was even waiting behind me?? Had 2 items. Why have drive through if u make us wait? Seen others make this point to. Hope this review makes a difference. Leave a like if you agree with my points.\n\nSUMMARY\nPls improve! Manager owner. We understand that new people are hired everyday but other Mcdonalds do not have this problem, have them trained properly.\n\nCOOK FRIES PROPERLY WITH PROPER AMOUNT OF FRIES GIVEN CONSISTENLY WITH SALT! cook burgers so they are well done lil burn on em not under cooked with proper seasoning. Dont burn buns on breakfast sausage and egg.\n\nFIX BATHROOM PLS, offer paper towels to use to exit after washing hands and put garbage near to throw away, not just hand drier as everyone touches same handle and alot of people do not wash there hands!  or leave door open permanently with a wood stopper, or add automatic sensor to open door or replace door. Add another toilet, one toilet for a 60 seating restaurant is not enough. Renovate bathroom.\n\nDo not tell drivers to park on side when it is not busy. We go to drivethroughs cuz we are in a hurry. Add more staff to night shift food is always cold and not fresh especially fries and wait times are up to 40 min. HIRE MORE STAFF FOR NIGHT SHIFT.\n\nOreo mcfleury fill to top with ice cream and use more oreo or smarties etc not giving enough quantity .\n\nImprove coffee. Make sure to put what we order. 2 creams and 1 sugar, shouldnt taste like no sugar or no cream.\n\nThanks for listening and hope to see improvements in the coming week! Thank you staff and managers!",
+            "reviewer_name": "Johnny Munoz",
+            "rating": 2,
+            "review_text": "SEE PICTURE. Seen this at landsdowne alderbridge way location, please no2 mcdonalds get this in your bathrooms so we can use are foot to open door! No one wants to touch the handle after washing your hands it is not sanitary and no napkings are still not provided at Mcdonalds no 2 . LEAVE A LIKE IF YOU AGREE. This NO 2 Mcdonalds makes the absolute worst fries of any mcdonalds ive been to, always undercooked or overcoooked, never fresh taste stale, clearly the staff cooks alot of fries at once and does not throw out after the designated time and also is not cooking the correct time consistently i constantly get like 10 of the fries extremely soft undercooked or a few black burnt. Also they short you on fries . Large fries always is never full to top aswell as medium!  The Oreo mcfleury never has enough icecream,  oreo or amount of extras, burgers are usually cooked well but sometimes after 6pm or night especially quarter pounder, cheeseburgers etc it is undercooked or has no taste.  Breakfast they do well, hashbrowns always fresh however ive notice sausage and egg bread is sometimes burned black or hard maybe adjust the toaster?? The coffee never taste really good i usually get 2 cream one sugar and it taste like nothing. The bathroom is a horrible, extremely heavy door with no automatic button!  literally everyone is touching the same handle to get in and out, disgusting!!  a foot handle would make the difference and is much needed or replace the door you make enough money common guys, or automated door... or at the very least leave paper towel so staff and visitors can at least grab door with handle and throw in a nearby garbage like every other store!!!  so not every is touching the same thing, disgusting to think staff touch that then go make your food and visitors touch that when leaving bathroom and go eat there food. Serious  health concern! Or if all that is too expensive leave the door open during shifts with a piece of wood or something under it.  Also Only one toilet  in such a huge restaurant bathroom?? Needs a major renovation. Been like this for atlest 10 years. On a positive note staff are friendly and do work fast. Hope they put some papertowel in bathroom to grab when leaving the bathroom soon, or leave mens door open so you dont have to touch that handle and open that heavy door! Or make it automatic like the main entrance door which is very nice. ALSO been told at drivethrough the park on side and no one was even waiting behind me?? Had 2 items. Why have drive through if u make us wait? Seen others make this point to. Hope this review makes a difference. Leave a like if you agree with my points.\n\nSUMMARY\nPls improve! Manager owner. We understand that new people are hired everyday but other Mcdonalds do not have this problem, have them trained properly.\n\nCOOK FRIES PROPERLY WITH PROPER AMOUNT OF FRIES GIVEN CONSISTENLY WITH SALT! cook burgers so they are well done lil burn on em not under cooked with proper seasoning. Dont burn buns on breakfast sausage and egg.\n\nFIX BATHROOM PLS, offer paper towels to use to exit after washing hands and put garbage near to throw away, not just hand drier as everyone touches same handle and alot of people do not wash there hands!  or leave door open permanently with a wood stopper, or add automatic sensor to open door or replace door. Add another toilet, one toilet for a 60 seating restaurant is not enough. Renovate bathroom.\n\nDo not tell drivers to park on side when it is not busy. We go to drivethroughs cuz we are in a hurry. Add more staff to night shift food is always cold and not fresh especially fries and wait times are up to 40 min. HIRE MORE STAFF FOR NIGHT SHIFT.\n\nOreo mcfleury fill to top with ice cream and use more oreo or smarties etc not giving enough quantity .\n\nImprove coffee. Make sure to put what we order. 2 creams and 1 sugar, shouldnt taste like no sugar or no cream.\n\nThanks for listening and hope to see improvements in the coming week! Thank you staff and managers!",
+            "published_at": "5 months ago",
+            "published_at_date": "2023-06-12T15:24:15.531000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 6,
+            "total_number_of_reviews_by_reviewer": 11,
+            "total_number_of_photos_by_reviewer": 8,
+            "reviewer_url": "https://www.google.com/maps/contrib/110503486302803544852/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocL3tnvHlpH3CnsmfTfKJKlqb8xjOIq9K8Akcxm3C8qR=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNAvQqC1lHjjz16hgmPHgzScLLI1Ea87NMzUyfp=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMNHXPmR_0a4XnZdUjo_nyq4wC6beeGozHb5tdQ=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "I paid extra for my large fries,but the volume was the same as the medium.  Well, I purchased a large bag.",
+            "reviewer_name": "felix",
+            "rating": 1,
+            "review_text": "I paid extra for my large fries,but the volume was the same as the medium.  Well, I purchased a large bag.",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-15T23:31:07.653000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 9,
+            "total_number_of_photos_by_reviewer": 6,
+            "reviewer_url": "https://www.google.com/maps/contrib/106234783583837903632/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKU_BPVYfSlhKIN0svAhY6Suzl7Pg2Dt8oxP7-O5zY=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNJ3M-ceTgPjVeOwI-CMC_2D6hPgZW0hgF4vvo=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMytXBGy0XhsoFAgJJcnq6OhuO0PpkoYWibabE=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipN80oweqQqvLoIfKOekGPdOaY9VwR05V-63yPc=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Took 35 mins to get my order and it was missing the spoon for the poutine,napkins and the sauce for chicken nuggets worst experience ever if u wanna eat McDonald's at midnight remember don't come to this one!!!",
+            "reviewer_name": "Andy Li",
+            "rating": 1,
+            "review_text": "Took 35 mins to get my order and it was missing the spoon for the poutine,napkins and the sauce for chicken nuggets worst experience ever if u wanna eat McDonald's at midnight remember don't come to this one!!!",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-02T07:12:11.359000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 3,
+            "total_number_of_reviews_by_reviewer": 5,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/104610980843822722924/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIjqf7mbtsmSuc2xsgos4MbOeL32QLhqzMCDAX0Y-ik0Q=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNRSwPxQHrXBtddRyIuH5VOTXaswLVc5ZdEPW99=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOZQhyQKHasE4amcrccnEDkrj-8OgzVwfFZjwCq=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "I always come to this place, closer to my home and kids love Mcdonald's ,always buy and go , sometimes s\ndine in, today we\nchoose dine in ,\nwe are not really satisfied with this store before ,until we met the manager \"Michelle\" (i am not sure ,but i think she is the manager,  i hope so ),she is very patient with kids and nice to me  ,she told me she loves kids ,she is very kind ,I am so glad and lucky to met her , kids also very happy too , ,thank you ,",
+            "reviewer_name": "Yang Stella",
+            "rating": 5,
+            "review_text": "I always come to this place, closer to my home and kids love Mcdonald's ,always buy and go , sometimes s\ndine in, today we\nchoose dine in ,\nwe are not really satisfied with this store before ,until we met the manager \"Michelle\" (i am not sure ,but i think she is the manager,  i hope so ),she is very patient with kids and nice to me  ,she told me she loves kids ,she is very kind ,I am so glad and lucky to met her , kids also very happy too , ,thank you ,",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-30T00:58:07.167000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 115,
+            "total_number_of_photos_by_reviewer": 280,
+            "reviewer_url": "https://www.google.com/maps/contrib/100790811772141130924/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJG4DxB8FVWrn5IPwPRpznYQmLZ-IRwzN__ykgfOdbO=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipM3u5hoWrHXj1o4rnwmcQllThDG-1VIMT6zMPvs=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "I wanted to have a quick late night snack last night. Order simplely two item double fliet with no tartar sauce. And sausage egg Mcmiffin. Simple right? Guess it is too difficult for No2 McDonald.\n\nOn my bill (shows on the picture), clear says double filet and been charge for it. This happens many time already. Would the staff recheck the order before put in the bag?\n\nOn the other item, I clearly says Sausage egg, even the staff took the order repeat back as Sausage egg. But then yet still put in the wrong order with no egg. Oh well, a least I didn't get charge for it. But the muffin is dry and old and burn like the picture show.\n\nTwo simple item. Two mistake and trash and burn food quality. Come on No2 McDonald. I see many one star on your review mainly complain about food quality. And yet the management never reply or common any one of them and never show any improvement. And come on, staff, if you are not capable to check if the right order is been order and put in the bag, and keep up the food quailty in the fast food restaurant, I don't know what other job you can do.",
+            "reviewer_name": "K.C. Chung",
+            "rating": 1,
+            "review_text": "I wanted to have a quick late night snack last night. Order simplely two item double fliet with no tartar sauce. And sausage egg Mcmiffin. Simple right? Guess it is too difficult for No2 McDonald.\n\nOn my bill (shows on the picture), clear says double filet and been charge for it. This happens many time already. Would the staff recheck the order before put in the bag?\n\nOn the other item, I clearly says Sausage egg, even the staff took the order repeat back as Sausage egg. But then yet still put in the wrong order with no egg. Oh well, a least I didn't get charge for it. But the muffin is dry and old and burn like the picture show.\n\nTwo simple item. Two mistake and trash and burn food quality. Come on No2 McDonald. I see many one star on your review mainly complain about food quality. And yet the management never reply or common any one of them and never show any improvement. And come on, staff, if you are not capable to check if the right order is been order and put in the bag, and keep up the food quailty in the fast food restaurant, I don't know what other job you can do.",
+            "published_at": "a year ago",
+            "published_at_date": "2022-08-28T22:49:51.695000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 5,
+            "total_number_of_reviews_by_reviewer": 7,
+            "total_number_of_photos_by_reviewer": 5,
+            "reviewer_url": "https://www.google.com/maps/contrib/117425115062002957583/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLeGOFaev2gvcchIVjwo4zEOPxG30WutcsZUGI8xwCq=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOqvmN_eyn_T997CxkKROWYo2BUxZ2EJECb_OvT=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipM2nqRF_xsiANSog3jCipzJxTcnuxED6gWQ5QX-=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMpu3KoaDl029S8Xtgffc03_zpZ-Rw5xtXzkaFS=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "I went to get some sausage muffin meal and it was as good as other McDonald's. ",
+            "reviewer_name": "Shin Inagaki",
+            "rating": 3,
+            "review_text": "I went to get some sausage muffin meal and it was as good as other McDonald's. ",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-04T21:25:38.907000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 153,
+            "total_number_of_photos_by_reviewer": 526,
+            "reviewer_url": "https://www.google.com/maps/contrib/114387693660651292558/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJ_7ISoehsrPTJddSzEDGOumjcU1gy7zyJWKWda33_Z=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOOqW03hY3JnWJZP0UJ3eULOjNWgRroBLZKaRk=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOJbcWChptG3JAl4DT7IsElWIfvEJEuPRUxkF4=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOZVpeCk2NOsnkXwhe3mb3r89chSh59y-7pNfw=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Arguably one of the better operated McDonald's! Foods come out hot, quick turnover that means, and well trained staffs!\nIt's our go to in the morning before church on Sunday and course kids love happy meals.\n\nHowever franchise should focus on fair pricing as a fast food rather than returning capital to investors, and growing margin profile YoY.  Once it becomes higher price than a regular food, it won't last.\n\nChicken Mcmuffin was an interesting one! Mcflurry is so addictive.\n\nHah! Guess you have the rights to enforce those prices.",
+            "reviewer_name": "Dan S",
+            "rating": 5,
+            "review_text": "Arguably one of the better operated McDonald's! Foods come out hot, quick turnover that means, and well trained staffs!\nIt's our go to in the morning before church on Sunday and course kids love happy meals.\n\nHowever franchise should focus on fair pricing as a fast food rather than returning capital to investors, and growing margin profile YoY.  Once it becomes higher price than a regular food, it won't last.\n\nChicken Mcmuffin was an interesting one! Mcflurry is so addictive.\n\nHah! Guess you have the rights to enforce those prices.",
+            "published_at": "6 days ago",
+            "published_at_date": "2023-11-24T16:18:34.829000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 218,
+            "total_number_of_photos_by_reviewer": 48,
+            "reviewer_url": "https://www.google.com/maps/contrib/105624637435317262106/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXm0VBWYTLdqnCMipFoKR6DD8jTffPwkjq3aYIeBSl-ck9r=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

@@ -1,0 +1,674 @@
+{
+    "place_id": "ChIJG5pMSBZzhlQRWyTqRUmt87Y",
+    "name": "Delara Restaurant",
+    "description": null,
+    "reviews": 717,
+    "website": "http://delararestaurant.ca/",
+    "owner": {
+        "id": "106804835538868409741",
+        "name": "Delara Restaurant (Owner)",
+        "link": "https://www.google.com/maps/contrib/106804835538868409741"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMSxllc1s9SuaOsJnS4UXAUJIE6w9YqYF9peZLs=w408-h408-k-no",
+    "main_category": "Persian restaurant",
+    "categories": [
+        "Persian restaurant"
+    ],
+    "rating": 4.5,
+    "workday_timing": "12-9 p.m.",
+    "closed_on": [],
+    "phone": "(604) 730-4325",
+    "address": "Delara Restaurant, 2272 W 4th Ave, Vancouver, BC V6K 1N8",
+    "review_keywords": [
+        {
+            "keyword": "cocktails",
+            "count": 38
+        },
+        {
+            "keyword": "brunch",
+            "count": 29
+        },
+        {
+            "keyword": "fusion",
+            "count": 19
+        },
+        {
+            "keyword": "duck",
+            "count": 13
+        },
+        {
+            "keyword": "short rib",
+            "count": 12
+        },
+        {
+            "keyword": "sharbat",
+            "count": 10
+        },
+        {
+            "keyword": "cauliflower",
+            "count": 9
+        },
+        {
+            "keyword": "michelin",
+            "count": 9
+        },
+        {
+            "keyword": "potato pancakes",
+            "count": 7
+        },
+        {
+            "keyword": "tabriz meatballs",
+            "count": 6
+        }
+    ],
+    "link": "https://www.google.com/maps/place/Delara+Restaurant/data=!4m7!3m6!1s0x54867316484c9a1b:0xb6f3ad4945ea245b!8m2!3d49.2679806!4d-123.1567668!16s%2Fg%2F11rfc0j8b5!19sChIJG5pMSBZzhlQRWyTqRUmt87Y?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 12 p.m.",
+    "price_range": "$$",
+    "reviews_per_rating": {
+        "1": 35,
+        "2": 17,
+        "3": 38,
+        "4": 74,
+        "5": 553
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJG5pMSBZzhlQRWyTqRUmt87Y&q=Delara+Restaurant&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.267980599999994,
+        "longitude": -123.1567668
+    },
+    "plus_code": "7R9V+57 Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "West Side",
+        "street": "2272 W 4th Ave",
+        "city": "Vancouver",
+        "postal_code": "V6K 1N8",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "13183071064460764251",
+    "data_id": "0x54867316484c9a1b:0xb6f3ad4945ea245b",
+    "menu": {
+        "link": "https://delararestaurant.ca/menu",
+        "source": "delararestaurant.ca"
+    },
+    "reservations": [
+        {
+            "link": "https://delararestaurant.ca/reservations",
+            "source": "delararestaurant.ca"
+        },
+        {
+            "link": "https://www.opentable.ca/restaurant/profile/1206034%3Fref%3D16423",
+            "source": "opentable.ca"
+        }
+    ],
+    "order_online_links": [
+        {
+            "link": "https://order.tbdine.com/pickup/35984",
+            "source": "tbdine.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Takeout",
+                    "enabled": true
+                },
+                {
+                    "name": "Dine-in",
+                    "enabled": true
+                },
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "highlights",
+            "name": "Highlights",
+            "options": [
+                {
+                    "name": "Live music",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair accessible seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Alcohol",
+                    "enabled": true
+                },
+                {
+                    "name": "Beer",
+                    "enabled": true
+                },
+                {
+                    "name": "Cocktails",
+                    "enabled": true
+                },
+                {
+                    "name": "Coffee",
+                    "enabled": true
+                },
+                {
+                    "name": "Halal food",
+                    "enabled": true
+                },
+                {
+                    "name": "Hard liquor",
+                    "enabled": true
+                },
+                {
+                    "name": "Healthy options",
+                    "enabled": true
+                },
+                {
+                    "name": "Organic dishes",
+                    "enabled": true
+                },
+                {
+                    "name": "Small plates",
+                    "enabled": true
+                },
+                {
+                    "name": "Vegetarian options",
+                    "enabled": true
+                },
+                {
+                    "name": "Wine",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Dining options",
+            "options": [
+                {
+                    "name": "Breakfast",
+                    "enabled": true
+                },
+                {
+                    "name": "Brunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Lunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Dinner",
+                    "enabled": true
+                },
+                {
+                    "name": "Dessert",
+                    "enabled": true
+                },
+                {
+                    "name": "Seating",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Bar on-site",
+                    "enabled": true
+                },
+                {
+                    "name": "Gender-neutral washroom",
+                    "enabled": true
+                },
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                },
+                {
+                    "name": "Wi-Fi",
+                    "enabled": true
+                },
+                {
+                    "name": "Wi-Fi",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosphere",
+            "options": [
+                {
+                    "name": "Casual",
+                    "enabled": true
+                },
+                {
+                    "name": "Cozy",
+                    "enabled": true
+                },
+                {
+                    "name": "Romantic",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "crowd",
+            "name": "Crowd",
+            "options": [
+                {
+                    "name": "Family-friendly",
+                    "enabled": true
+                },
+                {
+                    "name": "Groups",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planning",
+            "options": [
+                {
+                    "name": "Accepts reservations",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "children",
+            "name": "Children",
+            "options": [
+                {
+                    "name": "Good for kids",
+                    "enabled": true
+                },
+                {
+                    "name": "High chairs",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "parking",
+            "name": "Parking",
+            "options": [
+                {
+                    "name": "Paid street parking",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMSxllc1s9SuaOsJnS4UXAUJIE6w9YqYF9peZLs=w297-h298-k-no"
+        },
+        {
+            "about": "Latest",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOTMITDAmm1kxyFg4JWPuswrROKEOBBgxVUMd-q=w397-h298-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipM_T23--3l1aPyBkp0SceC4OP3LqN1a226KQrKn=w224-h298-k-no"
+        },
+        {
+            "about": "Menu",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMM7Gz9s-rD6fALslybrmKlKFQxXoj1Ip5WfMX0=w436-h298-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMAfwKrg5NQWhE8ETY0zrT9fKRCh6mbAqn3w2eM=w224-h338-k-no"
+        },
+        {
+            "about": "Vibe",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOiU2P9MuLBA6DWyEmtLLwYgky157du45wIjf65=w397-h298-k-no"
+        },
+        {
+            "about": "Short ribs",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipP9i5lQSM5HFARGfy6FIXf2YM4xTkE1tcAyv0c=w397-h298-k-no"
+        },
+        {
+            "about": "Squash",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMC9ZW5ufVNcqBcQTF81K5VrM1DBjaA8xjakhcc=w298-h298-k-no"
+        },
+        {
+            "about": "Pistachio",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipP65dqu4G6s5xFJIQ0yM_exZ1biDwLxMQ_Hlrv2=w224-h298-k-no"
+        },
+        {
+            "about": "Sangria",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNoxi4qyencCRgDsf4ra31vFIyUGzVsgPiuvgxO=w224-h298-k-no"
+        },
+        {
+            "about": "Cauliflower",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMrok2iKTHwDyQnau2_BUjbLyuyOyQwHIrEittA=w224-h298-k-no"
+        },
+        {
+            "about": "Juice",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMiWzx0E3Hp9Vqz5NVygwGRMTPzrmOGVlycIH1y=w224-h298-k-no"
+        },
+        {
+            "about": "Chicken sandwich",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipO6YWxDcObuLM6-XTfbpPJGNDy-xmTDGmawP0KP=w224-h298-k-no"
+        },
+        {
+            "about": "Sesame",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPy6GTIkFvzfvB3XYAvFXH5tEm6vtJfZgFD1DnO=w397-h298-k-no"
+        },
+        {
+            "about": "Sabzi polo",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMu87gekQ5sBBEJgGFwzDz61HoTRNvE88qGty2T=w397-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOua-73EgdzT9Yo26cLUuccalJjhJXY5OYwuORA=w297-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=NknAIMsXLGXAt_VK0FD-VQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=187.82143&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "12-9 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "12-9 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "12-9 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "12-9 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "12-9 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "11 a.m.-9 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "11 a.m.-9 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "My family and I had such a wonderful experience at Delara. The servers were so hospitable, friendly and kind - I love it when servers have a smile on their face despite being crazy busy (which they were), and the food was absolutely incredible.\n\nThe lamb shank and beef main dishes were so flavourful and the meat incredibly soft and delicious. We got some cocktails too and I was recommended an off the menu champagne that I drank like fruit juice.\n\nI really couldn't recommend this place more. Thanks for such a wonderful night!",
+            "reviewer_name": "Kimothy Wu",
+            "rating": 5,
+            "review_text": "My family and I had such a wonderful experience at Delara. The servers were so hospitable, friendly and kind - I love it when servers have a smile on their face despite being crazy busy (which they were), and the food was absolutely incredible.\n\nThe lamb shank and beef main dishes were so flavourful and the meat incredibly soft and delicious. We got some cocktails too and I was recommended an off the menu champagne that I drank like fruit juice.\n\nI really couldn't recommend this place more. Thanks for such a wonderful night!",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-16T05:07:36.082000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 3,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 5,
+            "reviewer_url": "https://www.google.com/maps/contrib/112990237269559402447/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWIMFxVXAFGOYAX6J-gYRQVCu0VwYw7OMG_tBwYT7FoI_qm=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOq-YcuZI5suflBCFdzyOz0STYQaPDkbCxuLBE2=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipN1nIf1orEx5v6i6gdLNKysUBgMHW9JJgpw2Wsb=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOIHC_722xl8-wMDU8WEgBAwU7NuQxa6lH38WLC=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPsChPe8u2agqaK3d30zcvDc_iBOhT5fx5o_CUA=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPRPkA16qdXkUh9nOHxNXpT5VhBBFlfPPwdeRHq=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "The Persian fusion cuisine was truly remarkable, and it captivated our taste buds. The drinks received a solid 3/5 from us, while the cozy and beautiful ambiance set the perfect mood. The food, in all its freshness and exceptional quality, exceeded our expectations and made our dinner an enjoyable experience. This restaurant is undeniably a must-visit.",
+            "reviewer_name": "ferial mhr",
+            "rating": 5,
+            "review_text": "The Persian fusion cuisine was truly remarkable, and it captivated our taste buds. The drinks received a solid 3/5 from us, while the cozy and beautiful ambiance set the perfect mood. The food, in all its freshness and exceptional quality, exceeded our expectations and made our dinner an enjoyable experience. This restaurant is undeniably a must-visit.",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-14T04:48:47.941000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 410,
+            "total_number_of_photos_by_reviewer": 1013,
+            "reviewer_url": "https://www.google.com/maps/contrib/112863583912781893272/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocK9bB1_6EeCRa6kKgcMuRMiZaQ6bgDr67T4PZCpauQuzQ=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNVmJAPTkkwvfn3pWOAq41zJtl10nVT5HoyAgHa=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipP0bCohkdaDOTvwO_1LDLYl7RDtcLg_xKuSbd84=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPo8ym9DTRCypwMDMRfwG30vBeQi5RNjSsGsA4X=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMKqAMe1pEtZw_WbYhkMDKl5hvFrwPqjyAyEcdu=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Absolutely loved this place. Came here with a friend and it was my first experience here. The layout and decor of the restaurant is absolutely gorgeous and bright. The service was wonderful - the staff were quite friendly and hard working. I don't have a lot of experience with Persian food but I do enjoy it hence I do get to try it out - I do have to say that I was very surprised at how much I loved the food at Delara. The portion size for spot on and the taste was even better.",
+            "reviewer_name": "Zahra Tejpar",
+            "rating": 4,
+            "review_text": "Absolutely loved this place. Came here with a friend and it was my first experience here. The layout and decor of the restaurant is absolutely gorgeous and bright. The service was wonderful - the staff were quite friendly and hard working. I don't have a lot of experience with Persian food but I do enjoy it hence I do get to try it out - I do have to say that I was very surprised at how much I loved the food at Delara. The portion size for spot on and the taste was even better.",
+            "published_at": "3 weeks ago",
+            "published_at_date": "2023-11-05T22:03:14.239000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 213,
+            "total_number_of_photos_by_reviewer": 218,
+            "reviewer_url": "https://www.google.com/maps/contrib/113681208301254976145/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocI6UYaWc-Ir_LTI6LNj5SZHinlgm3aawbdcav3KOSfp=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPZZlQ6SlWwhN08cjkrAN8Dt1a2Y4PdfH-cbWud=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "I must say, this Persian restaurant stands out as one of the finest I've ever experienced. The flavors are truly distinctive, preserving that unmistakable Persian essence. While the ambiance is relatively cozy, it's a pleasant deviation from the online photos, which adds to its charm.\n\nTheir drink menu impressed me with its variety and creative names. I especially enjoyed the Persian Godfather cocktail. For appetizers, we indulged in the succulent Kofteh and the delightful Grilled Sourdough Flatbread with Seasonal Dips, both of which were exquisite.\n\nMoving on to the main course, we tried the Smoked Rice and Lentil Bowl, which, unfortunately, came out a bit too dry for my taste. However, the Roasted Chicken Leg with Barberries and Tahdig more than made up for it. The crispy chicken paired perfectly with the sides of Yoghourt and Torshi (pickles). The adorable and delicious bread was a nice touch too.\n\nFor dessert, we ordered Persian Chai, Baklava, and Safran ice cream. While the overall dessert experience was pleasant, there was a slight hiccup with the ice cream order. Our server initially brought the wrong order and seemed a bit displeased when we pointed it out. Despite being her second day on the job, I believe a courteous response to a mistake is important. Nevertheless, the correction was made, but the Safran ice cream was not what we expected. Kind of disappointing.\n\nOverall, this restaurant offers a delightful blend of fusion and authentic Persian cuisine, with a few service  improvements needed. I would certainly recommend it for the unique culinary journey it provides",
+            "reviewer_name": "Mojgan C",
+            "rating": 4,
+            "review_text": "I must say, this Persian restaurant stands out as one of the finest I've ever experienced. The flavors are truly distinctive, preserving that unmistakable Persian essence. While the ambiance is relatively cozy, it's a pleasant deviation from the online photos, which adds to its charm.\n\nTheir drink menu impressed me with its variety and creative names. I especially enjoyed the Persian Godfather cocktail. For appetizers, we indulged in the succulent Kofteh and the delightful Grilled Sourdough Flatbread with Seasonal Dips, both of which were exquisite.\n\nMoving on to the main course, we tried the Smoked Rice and Lentil Bowl, which, unfortunately, came out a bit too dry for my taste. However, the Roasted Chicken Leg with Barberries and Tahdig more than made up for it. The crispy chicken paired perfectly with the sides of Yoghourt and Torshi (pickles). The adorable and delicious bread was a nice touch too.\n\nFor dessert, we ordered Persian Chai, Baklava, and Safran ice cream. While the overall dessert experience was pleasant, there was a slight hiccup with the ice cream order. Our server initially brought the wrong order and seemed a bit displeased when we pointed it out. Despite being her second day on the job, I believe a courteous response to a mistake is important. Nevertheless, the correction was made, but the Safran ice cream was not what we expected. Kind of disappointing.\n\nOverall, this restaurant offers a delightful blend of fusion and authentic Persian cuisine, with a few service  improvements needed. I would certainly recommend it for the unique culinary journey it provides",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-09T21:51:35.824000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 79,
+            "total_number_of_photos_by_reviewer": 105,
+            "reviewer_url": "https://www.google.com/maps/contrib/108137316901614509107/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWvcZfawHOON4BmHpQrZOI25Oo_2INvxYlxG9sRtkcw4zc9=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipO-tHlkuQZoq41rXaLEAM4xhg8sd1gOegsAKsJU=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPofqhsDkP7UILqIQ-RMAKV4rRgaLTMhYLyC79L=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMwCE7T8JGevTUkmCogCiTYpZ81_5ndNwUmCrP9=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOdtV3QYsMmaVb-nyKcu4EGVzXqkLmFmD2RRWYr=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipO99ZbPguwvh2SYf6-Qdi9-VKpJYaGD-22nJhuB=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPcAF4l_Qzv0weGHLJFRyG8O74mUv-dEPR_1DLx=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNTvS4RnRu9-Uc3mPBY9NgYfupf3kClhPJFrcKH=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNDzjLww1UARE1FyiwOF177kNHd3vthiWEUnF1-=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNAE1X8Jj3W_fnIUHz6i8DDl-OxssxVHuLcSheZ=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "The restaurant has a warm quiet ambiance. The quality of food is top notch. The restaurant space is medium size open floor with benches and tables on one side and a bar on the other. The kitchen is at the far end of the floor and visible from where you sit, so you can smell the food as it's being cooked.\nWe tried Grilled Beef Ghalieh, Koofteh 18, and Chicken and Barberries and loved all three dishes. Grilled beef Ghalieh was like a stew with a savory sauce and a piece of tender beef short rib. The chicken was so tender. The koofteh tasted like classic nostalgic Iranian koofteh you'd get at your grandma's.\nWe were told if you'd like to sit at the benches, you can leave a note when you're reserving your table if you have a preferred spot. We noted in our reservation our birthday occasion and they were nice to bring us a small cute baklava and a candle in the end. The place obviously has its own theme and is not like any other typical Persian restaurant. So if you're looking to get quantity food or kabob, this is not the right choice. But of you like to taste true Persian cuisine and experience Persian food with a contemporary style, this is absolutely the place. You can tell the owner cares about the cuisine the most.\nI read in the reviews that if you have a birthday cake, you can't eat it in the restaurant and it's mentioned in the website. So if you're planning a birthday and have a cake, you better review their policy or check in with them in advance.\nOverall we had a wonderful experience and we'd like to come back when the menu changes so we can try their different dishes.",
+            "reviewer_name": "Ehsan Shirkhani",
+            "rating": 5,
+            "review_text": "The restaurant has a warm quiet ambiance. The quality of food is top notch. The restaurant space is medium size open floor with benches and tables on one side and a bar on the other. The kitchen is at the far end of the floor and visible from where you sit, so you can smell the food as it's being cooked.\nWe tried Grilled Beef Ghalieh, Koofteh 18, and Chicken and Barberries and loved all three dishes. Grilled beef Ghalieh was like a stew with a savory sauce and a piece of tender beef short rib. The chicken was so tender. The koofteh tasted like classic nostalgic Iranian koofteh you'd get at your grandma's.\nWe were told if you'd like to sit at the benches, you can leave a note when you're reserving your table if you have a preferred spot. We noted in our reservation our birthday occasion and they were nice to bring us a small cute baklava and a candle in the end. The place obviously has its own theme and is not like any other typical Persian restaurant. So if you're looking to get quantity food or kabob, this is not the right choice. But of you like to taste true Persian cuisine and experience Persian food with a contemporary style, this is absolutely the place. You can tell the owner cares about the cuisine the most.\nI read in the reviews that if you have a birthday cake, you can't eat it in the restaurant and it's mentioned in the website. So if you're planning a birthday and have a cake, you better review their policy or check in with them in advance.\nOverall we had a wonderful experience and we'd like to come back when the menu changes so we can try their different dishes.",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-22T05:20:57.328000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 81,
+            "total_number_of_photos_by_reviewer": 344,
+            "reviewer_url": "https://www.google.com/maps/contrib/112479181688134207129/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXEU8YF1onNkUscOmD0CTWgb39_xs18bFffVppP9g7s8J0=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNs8kZPp74HIoJA_ETZ0ACCiJW4kJ8whXa79Plk=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMcPbRzHsxEvRT1ATVLJNe0wrMFDs_04TfnkOVs=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPTLYpLrPp7KcAeEYudHAiPTP5lBgd1CUQCXtHw=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPglOuI4sFTe0WPqDhs-_sdZzenf3n7Zhn0Ayf1=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOoGF4OQge6igdWW8A2ahi1lw4BYV5ki5aAPuva=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNAIbKSEVI9oLPp7zp5Ukz54k1NfkadJg2wpfPN=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNFfMtll2AKfmHkFPPr2bBYhAbOJUjX2i4M45XU=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipM2MdRpbczvu5aB4qUUvpXA21_PmzMScLNvLoXb=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMGc2W95Y4KZH3ApnMNO-mcPqRJD047RU2wvjxi=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNMOMI3INZrhQVeE0wqbc38-3kdz5_xdnbhq7xr=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Fabulous food! Every single dish was delicious. Portion sizes were generous and the service was amazing. I am celiac and there were so many gluten free choices on the menu without any substitutions needed.",
+            "reviewer_name": "Lynn Pauls",
+            "rating": 5,
+            "review_text": "Fabulous food! Every single dish was delicious. Portion sizes were generous and the service was amazing. I am celiac and there were so many gluten free choices on the menu without any substitutions needed.",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-13T15:41:44.944000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 158,
+            "total_number_of_photos_by_reviewer": 222,
+            "reviewer_url": "https://www.google.com/maps/contrib/111176457772546900278/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWYFiYO6LcItfOllqeEvfHK3IsexLD0bR_qCZFdbwQqSps=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNPu6-MD9zLHGRSXLJVHuxn_kwWhurdeWipIjs7=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNTRhe1Lgg48-zgpHvxjJT6A3sh_ia8GtDORTsn=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNxzr8pX_Nrm3K4l8oGkjVXW8EXcLsVgNEi-Xgo=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPjMvk57j6DFs9_XNHwLH_aK3RKza57xp7jMsFv=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "***I would rate Delara a negative out of 5, but that's not an option here.***\nWe came here for lunch to celebrate our friend's birthday. We bought a cake with us. As we sat down the waiter abruptly and rudely stated, \"You guys know you're not allowed to eat the cake here, right?\". No, we didn't that's why we brought the cake. Had you informed us in a nicer tone and attitude we really wouldn't have minded. We have also brought cakes to many many other restaurants and never had any issues in the last 30 years - but Delara proved us wrong. We don't mind paying the extra service fee or tipping extra, but the waiter sounded like our presence was a disturbance. Also throughout lunch we found their service lacking - actually, almost non-existent. It was very hard to catch any staff's attention for stuff from getting water to getting the bill.\n\nMaybe the food was just not our taste, but we found everything to be very salty. The portion sizes were also unsatisfying for what we were paying. The food in general was just very underwhelming. As we scratch our heads to think about a single positive experience, we absolutely can't think of any and that's truly a shame.",
+            "reviewer_name": "Angel Chan",
+            "rating": 1,
+            "review_text": "***I would rate Delara a negative out of 5, but that's not an option here.***\nWe came here for lunch to celebrate our friend's birthday. We bought a cake with us. As we sat down the waiter abruptly and rudely stated, \"You guys know you're not allowed to eat the cake here, right?\". No, we didn't that's why we brought the cake. Had you informed us in a nicer tone and attitude we really wouldn't have minded. We have also brought cakes to many many other restaurants and never had any issues in the last 30 years - but Delara proved us wrong. We don't mind paying the extra service fee or tipping extra, but the waiter sounded like our presence was a disturbance. Also throughout lunch we found their service lacking - actually, almost non-existent. It was very hard to catch any staff's attention for stuff from getting water to getting the bill.\n\nMaybe the food was just not our taste, but we found everything to be very salty. The portion sizes were also unsatisfying for what we were paying. The food in general was just very underwhelming. As we scratch our heads to think about a single positive experience, we absolutely can't think of any and that's truly a shame.",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-19T19:40:40.738000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 10,
+            "total_number_of_photos_by_reviewer": 54,
+            "reviewer_url": "https://www.google.com/maps/contrib/114863462731605170516/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocK6u87Oh3Ycql5mE0_OiSzU7b9dA4YWUN_XDnQeB7tC=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMlnMyziwVdByYjHTINpoFp9UX6-V5QG64aJ7vE=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipODYtu-ic0im8Ttrg9-n8lnZReDX4VD4P0GrGOk=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Nice ambience and staff. A decent menu with options you don't generally find elsewhere. I tried the chicken leg with barbery rice and salad. It was fresh and a full meal.\n\nA neat place to dine in Kits for sure.",
+            "reviewer_name": "Ananth",
+            "rating": 4,
+            "review_text": "Nice ambience and staff. A decent menu with options you don't generally find elsewhere. I tried the chicken leg with barbery rice and salad. It was fresh and a full meal.\n\nA neat place to dine in Kits for sure.",
+            "published_at": "a week ago",
+            "published_at_date": "2023-11-20T03:24:07.992000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 53,
+            "total_number_of_photos_by_reviewer": 97,
+            "reviewer_url": "https://www.google.com/maps/contrib/106876589871346264982/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjX0K2gjXClPNgOFh2_ZPblhenRcWF1ye-uTsXsZ3oujH8Bi=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNakxBuSLDepgOEnyUBdz5L9sQErHW0RdeDcFbv=w150-h150-k-no-p"
+            ]
+        }
+    ],
+    "is_spending_on_ads": false
+}

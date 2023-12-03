@@ -1,0 +1,480 @@
+{
+    "place_id": "ChIJ2V7BLs1xhlQREOaQm6Z24IE",
+    "name": "McDonald's",
+    "description": "Classic, long-running fast-food chain known for its burgers & fries.",
+    "reviews": 213,
+    "website": "https://www.mcdonalds.com/ca/en-ca/restaurant-locator.html%3Fy_source%3D1_MTQ1MTk3MDAtNzE1LWxvY2F0aW9uLndlYnNpdGU%253D",
+    "owner": {
+        "id": "111140041447279612477",
+        "name": "McDonald's (Owner)",
+        "link": "https://www.google.com/maps/contrib/111140041447279612477"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNl9_gkPrmNN3hvpHMOLAh39ysxdl_mKk7zx347=w408-h306-k-no",
+    "main_category": "Fast food restaurant",
+    "categories": [
+        "Fast food restaurant",
+        "American restaurant",
+        "Breakfast restaurant",
+        "Cafe",
+        "Hamburger restaurant",
+        "Restaurant"
+    ],
+    "rating": 3.3,
+    "workday_timing": "7 a.m.-11 p.m.",
+    "closed_on": [],
+    "phone": "(604) 985-6757",
+    "address": "McDonald's, Wal-Mart - Capilano Mall, 925 Marine Dr, North Vancouver, BC V7P 1S2",
+    "review_keywords": [
+        {
+            "keyword": "coffee",
+            "count": 10
+        },
+        {
+            "keyword": "ice cream",
+            "count": 3
+        }
+    ],
+    "link": "https://www.google.com/maps/place/McDonald%27s/data=!4m7!3m6!1s0x548671cd2ec15ed9:0x81e076a69b90e610!8m2!3d49.3208096!4d-123.1004622!16s%2Fg%2F1tql4ghv!19sChIJ2V7BLs1xhlQREOaQm6Z24IE?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 7 a.m.",
+    "price_range": "$",
+    "reviews_per_rating": {
+        "1": 44,
+        "2": 14,
+        "3": 43,
+        "4": 48,
+        "5": 64
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ2V7BLs1xhlQREOaQm6Z24IE&q=McDonald%27s&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.3208096,
+        "longitude": -123.1004622
+    },
+    "plus_code": "8VCX+8R North Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": null,
+        "street": "Wal-Mart - Capilano Mall, 925 Marine Dr",
+        "city": "North Vancouver",
+        "postal_code": "V7P 1S2",
+        "state": "BC",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "9358610483622503952",
+    "data_id": "0x548671cd2ec15ed9:0x81e076a69b90e610",
+    "menu": {
+        "link": "https://www.mcdonalds.com/ca/en-ca/full-menu.html%3Fy_source%3D1_MTQ1MTk3MDAtNzE1LWxvY2F0aW9uLm1lbnVfdXJs",
+        "source": "mcdonalds.com"
+    },
+    "reservations": [],
+    "order_online_links": [
+        {
+            "link": "https://www4.mcdonalds.ca/mcdeliverycanada/?y_source=1_MTQ1MTk3MDAtNzE1LWxvY2F0aW9uLm9yZGVyX3VybA%3D%3D",
+            "source": "mcdonalds.ca"
+        },
+        {
+            "link": "https://www.ubereats.com/ca/store/mcdonalds-925-marine-drive/oHhRi3OAQXCGUM_0AjEzPg?utm_campaign=place-action-link&utm_medium=organic&utm_source=google",
+            "source": "ubereats.com"
+        },
+        {
+            "link": "https://www.doordash.com/store/mcdonald%27s-north-vancouver-25238934/?utm_campaign=gpa",
+            "source": "doordash.com"
+        },
+        {
+            "link": "https://www.skipthedishes.com/mcdonalds-walmart-14910?serviceType=delivery&utm_source=google&utm_medium=organic&utm_campaign=gpav2",
+            "source": "skipthedishes.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "No-contact delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Takeout",
+                    "enabled": true
+                },
+                {
+                    "name": "Dine-in",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Coffee",
+                    "enabled": true
+                },
+                {
+                    "name": "Late-night food",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Dining options",
+            "options": [
+                {
+                    "name": "Lunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Dinner",
+                    "enabled": true
+                },
+                {
+                    "name": "Counter service",
+                    "enabled": true
+                },
+                {
+                    "name": "Dessert",
+                    "enabled": true
+                },
+                {
+                    "name": "Seating",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosphere",
+            "options": [
+                {
+                    "name": "Casual",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "crowd",
+            "name": "Crowd",
+            "options": [
+                {
+                    "name": "Family-friendly",
+                    "enabled": true
+                },
+                {
+                    "name": "Groups",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "children",
+            "name": "Children",
+            "options": [
+                {
+                    "name": "Good for kids",
+                    "enabled": true
+                },
+                {
+                    "name": "High chairs",
+                    "enabled": true
+                },
+                {
+                    "name": "Kids' menu",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNl9_gkPrmNN3hvpHMOLAh39ysxdl_mKk7zx347=w397-h298-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMmY4ZbDTt-17Fjw7TbBd5ML42b9DW5Z85wo65Q=w224-h473-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPwjcUK_AtVNEYEFuOOUEXbueGlCpHA5iDi6run=w224-h395-k-no"
+        },
+        {
+            "about": "Vibe",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPvtSaCG0UdslGkt0dTXp4WaQEo9tgUolYQQjVA=w397-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipO6HrkMhQ1AV_voMa9KqXY9uQeTyFf1a16dmAUD=w529-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=PxdeELuC7nlGkmZmnm_cdw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=34.457455&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "7 a.m.-11 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "7 a.m.-11 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "7 a.m.-11 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "7 a.m.-11 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "7 a.m.-11 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "7 a.m.-11 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "7 a.m.-11 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "Filthy McDonald's.  An employee walked past all this garbage in the floor by the fountain drinks to fill up his coke.  I asked if he was just going to leave all that garbage and he smirked at me and walked away.  Also.. They charge almost 3 times the cost of other McDonald's for their sauces.  A complete rip off.  Here's a few pics of how filthy it was.",
+            "reviewer_name": "B B",
+            "rating": 1,
+            "review_text": "Filthy McDonald's.  An employee walked past all this garbage in the floor by the fountain drinks to fill up his coke.  I asked if he was just going to leave all that garbage and he smirked at me and walked away.  Also.. They charge almost 3 times the cost of other McDonald's for their sauces.  A complete rip off.  Here's a few pics of how filthy it was.",
+            "published_at": "7 months ago",
+            "published_at_date": "2023-04-23T19:46:12.921000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 17,
+            "total_number_of_photos_by_reviewer": 7,
+            "reviewer_url": "https://www.google.com/maps/contrib/116651162694195153083/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXdPZkll8if_NpVN-wX47MLAlGNeRE8gbMrxVOczRN6hrgo=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOB8oo0Y5DN13eRThAo6UAs3u2sqGui8y3_sH6p=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPRgye02TdIj8pcLskR5qULaiUrgS-MMq-aiOnd=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPtOtHDBCfCLa4FZ9IxovFZYTvkCW8cFKxM3RHt=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Can take a while to get served. But most staff are competent. Sometimes hard to make your order understood, depending on who is at the checkout.",
+            "reviewer_name": "Paul M",
+            "rating": 3,
+            "review_text": "Can take a while to get served. But most staff are competent. Sometimes hard to make your order understood, depending on who is at the checkout.",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-22T06:50:39.052000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 90,
+            "total_number_of_photos_by_reviewer": 6,
+            "reviewer_url": "https://www.google.com/maps/contrib/107911915315431350213/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJHkX4FvK14DSnI45rEEAFystYa4EDt_kaRb_dsDd4-kQ=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "We are from Edmonton and spending a few days in Vancouver, brought my family to this McDonald's for breakfast, the employees at McDonald's were extremely unorganized and I watched my food sit behind the counter for at least ten minutes. When I complained that my food was cold the lady told me she's quality control and that she can gaurantee my food was hot and I'm just wanting my money back because my kids didn't want to eat it. Worst experience ever at a McDonald's and a waste of my $50.",
+            "reviewer_name": "Glen Duncan",
+            "rating": 1,
+            "review_text": "We are from Edmonton and spending a few days in Vancouver, brought my family to this McDonald's for breakfast, the employees at McDonald's were extremely unorganized and I watched my food sit behind the counter for at least ten minutes. When I complained that my food was cold the lady told me she's quality control and that she can gaurantee my food was hot and I'm just wanting my money back because my kids didn't want to eat it. Worst experience ever at a McDonald's and a waste of my $50.",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-30T19:47:32.619000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/104679486153542851816/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIrDIYroEjNmvnhNTDq-2V5D6YsMO50WbdzQRYNRqQj=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Waited for 20 minutes and still didn't get my order. Asked for manager, manager stated if you dont have patients don't order here next time. 0 star",
+            "reviewer_name": "Aileen Lin",
+            "rating": 1,
+            "review_text": "Waited for 20 minutes and still didn't get my order. Asked for manager, manager stated if you dont have patients don't order here next time. 0 star",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-12T01:45:10.534000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 4,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/111423689060329395834/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWR1HPlLi-I1sp0P84tmDbyCqRj7OdkuKmA852tDkvf6Q=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Worst McDonald's ever! Dirty, terrible customer service, it takes 20 mins to get food and then it arrives cold.  It's called fast food. Should take less than 5 minutes to get your food. I know since I used to work at McDonald's as a teen.",
+            "reviewer_name": "N H",
+            "rating": 1,
+            "review_text": "Worst McDonald's ever! Dirty, terrible customer service, it takes 20 mins to get food and then it arrives cold.  It's called fast food. Should take less than 5 minutes to get your food. I know since I used to work at McDonald's as a teen.",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-01T18:10:07.809000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 5,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/103767590335789130460/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJP-vlConhC7JoFydoUrCSgXqCHI1ddhKPXuPdvtlCI=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "It was closed 45 minutes early, even when mobile orders were able to be placed and was on the screen with no staff lol. The Wal-Mart employees were stressed because so many people were asking them why it closed early and they couldn't explain it and asked us to call McDonald's Customer Service.",
+            "reviewer_name": "Barsam G",
+            "rating": 1,
+            "review_text": "It was closed 45 minutes early, even when mobile orders were able to be placed and was on the screen with no staff lol. The Wal-Mart employees were stressed because so many people were asking them why it closed early and they couldn't explain it and asked us to call McDonald's Customer Service.",
+            "published_at": "6 months ago",
+            "published_at_date": "2023-05-22T13:22:32.581000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 14,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/108055900382061323592/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJdEji2fuqZkyBmZ8w_Hz31sXp8wdmfuK-hkDdW6kwF=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Arsh is doing very well\nI do believe sales  is sth above than  just a regular advertisements or servicing\nIs a customer service\nI was there having problem with my app he helped me a lot patiently he is a hardworking and respectful manager\n\nBest luck!",
+            "reviewer_name": "Jazmin",
+            "rating": 5,
+            "review_text": "Arsh is doing very well\nI do believe sales  is sth above than  just a regular advertisements or servicing\nIs a customer service\nI was there having problem with my app he helped me a lot patiently he is a hardworking and respectful manager\n\nBest luck!",
+            "published_at": "5 months ago",
+            "published_at_date": "2023-06-16T22:54:36.264000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 7,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/114262721142470280490/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUl-PLQ5UJYR3K3rclDy0WXpGCdA1WFi4gM3qCucE5i-bw=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Some lady was playing a repetitive clown song really loudly on her laptop for ten minutes straight. It's got good fries though",
+            "reviewer_name": "Ethan Briscoe",
+            "rating": 3,
+            "review_text": "Some lady was playing a repetitive clown song really loudly on her laptop for ten minutes straight. It's got good fries though",
+            "published_at": "6 months ago",
+            "published_at_date": "2023-05-30T05:55:24.271000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 36,
+            "total_number_of_photos_by_reviewer": 112,
+            "reviewer_url": "https://www.google.com/maps/contrib/106921542703387955122/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjV5R2dLcGmZf_p7cZAAe_xKpgUAUP6Bgv0TVJxPFeIg9fAw=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}
