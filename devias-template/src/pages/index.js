@@ -21,6 +21,7 @@ import { useSettings } from 'src/src2/hooks/use-settings';
 import { Layout as DashboardLayout } from 'src/layouts/dashboard';
 import { QuickStats2 } from 'src/sections/components/quick-stats/quick-stats-2';
 
+
 const Page = () => {
   const settings = useSettings();
   const user = useUser();
@@ -111,10 +112,7 @@ const Page = () => {
               xs={12} // Changed from 7 to 12 for consistency
               md={12}
             >
-              <Card>
-                <CardHeader title="Businesses" />
-                <QuickStats2 />
-              </Card>
+            
             </Grid>
           </Grid>
         </Container>

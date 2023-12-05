@@ -4,13 +4,13 @@ import { spawn } from "child_process";
 import { fileURLToPath } from "url";
 import { importReviews } from "./handleData.js";
 import { getFormattedReviews } from "./format.js";
-import verifyToken from "./token.js";
+import verifyToken from "./util/token.js";
 import path from "path";
 
 const prisma = new PrismaClient();
 const scraperRouter = new Router();
 const ScrapeDir = "../../scrapes";
-const botDir = "./botasaurus/"
+const botDir = "./botasaurus/";
 const logDir = "../../scrapes/output/all/json/places.json";
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -21,19 +21,27 @@ scraperRouter.post("/collect-reviews", async (req, res) => {
   try {
     const { companyNames, companyLocations } = req.body;
 
-    if (!companyNames || !companyLocations || companyNames.length !== companyLocations.length) {
+    if (
+      !companyNames ||
+      !companyLocations ||
+      companyNames.length !== companyLocations.length
+    ) {
       return res.status(400).json({
-        message: "Invalid input: Mismatched company names and locations"
+        message: "Invalid input: Mismatched company names and locations",
       });
     }
 
-    const queries = companyNames.map((name, index) => `"${name} in ${companyLocations[index]}"`);
+    const queries = companyNames.map(
+      (name, index) => `"${name} in ${companyLocations[index]}"`
+    );
 
     const pythonProcess = spawn(
       "python3",
       [
         "-c",
-        `from src.gmaps import Gmaps; Gmaps.places(${JSON.stringify(queries)}, scrape_reviews=True, reviews_max=100, reviews_sort=Gmaps.HIGHEST_RATING)`
+        `from src.gmaps import Gmaps; Gmaps.places(${JSON.stringify(
+          queries
+        )}, scrape_reviews=True, reviews_max=100, reviews_sort=Gmaps.HIGHEST_RATING)`,
       ],
       { cwd: scriptDirectory }
     );
@@ -45,9 +53,13 @@ scraperRouter.post("/collect-reviews", async (req, res) => {
 
     pythonProcess.on("close", (code) => {
       if (code !== 0) {
-        return res.status(500).json({ message: "Failed to run the Python script", exitCode: code });
+        return res
+          .status(500)
+          .json({ message: "Failed to run the Python script", exitCode: code });
       }
-      res.status(200).json({ message: "Python script executed successfully", data: data });
+      res
+        .status(200)
+        .json({ message: "Python script executed successfully", data: data });
     });
 
     pythonProcess.stderr.on("data", (data) => {
@@ -66,7 +78,9 @@ scraperRouter.post("/import-reviews", verifyToken, async (req, res) => {
     const result = await importReviews(filePath, userId);
     res.status(200).json(result);
   } catch (error) {
-    res.status(500).json({ message: "Error importing data", error: error.message });
+    res
+      .status(500)
+      .json({ message: "Error importing data", error: error.message });
   }
 });
 
@@ -76,12 +90,12 @@ scraperRouter.get("/reviews", verifyToken, async (req, res) => {
     const reviews = await prisma.detailedReview.findMany({
       where: {
         business: {
-          userId: userId
-        }
+          userId: userId,
+        },
       },
       include: {
-        business: true
-      }
+        business: true,
+      },
     });
     res.status(200).json(reviews);
   } catch (error) {
@@ -99,27 +113,32 @@ scraperRouter.get("/get-reviews", verifyToken, async (req, res) => {
     const formattedReviews = await getFormattedReviews(userId);
     res.status(200).json(formattedReviews);
   } catch (error) {
-    res.status(500).json({ message: "Error retrieving reviews", error: error.message });
+    res
+      .status(500)
+      .json({ message: "Error retrieving reviews", error: error.message });
   }
 });
 
 scraperRouter.get("/business-names", verifyToken, async (req, res) => {
   try {
-    if (!req.user || typeof req.user.id === 'undefined') {
+    if (!req.user ||req.user.id === "undefined") {
       return res.status(401).json({ message: "Invalid user information" });
     }
-
-    const businesses = await prisma.business.findMany({
+    const userId = String(req.user.id);
+    const business = await prisma.business.findMany({
       select: {
-        name: true
+          name: true,
+          id: true,
+          address: true,
       }
-    });
-
-    res.json({ businessNames: businesses?.map((b) => b.name) ?? [] });
+    })
+    
+    res.json(business);
   } catch (error) {
-    console.error("Failed to fetch business names:", error);
-    res.status(500).json({ message: "Internal Server Error" });
+    console.error(error);
+    res.status(500).json({ message: "Internal server error" });
   }
 });
+
 
 export default scraperRouter;

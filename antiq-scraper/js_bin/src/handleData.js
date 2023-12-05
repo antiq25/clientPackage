@@ -41,6 +41,7 @@ export const importReviews = async (filePath, userId) => {
         where: { placeId: businessData.place_id },
         update: {},
         create: {
+          id: businessData.id,
           userId,
           placeId: businessData.place_id,
           name: businessData.name,

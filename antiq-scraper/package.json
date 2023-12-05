@@ -1,11 +1,11 @@
 {
   "name": "antiq-scraper",
-  "version": "1.0.0",
+  "packageManager": "yarn@4.0.2",
   "description": "",
-  "main": "server.js",
+  "main": "./js_bin/dataApi.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "./run"
+    "start": "yarn exec ./run",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",

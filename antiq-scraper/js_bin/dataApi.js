@@ -1,6 +1,6 @@
-// import { getFormattedReviews } from "./format.js";
 import express from "express";
 import scraperRouter from "./src/scraperRoutes.js";
+import pixelRouter from "./src/pixelrouter/pixel.routes.js";
 import cors from 'cors'
 import bodyParser from 'body-parser';
 import * as dotenv from 'dotenv'
@@ -21,6 +21,7 @@ app.use(
 
 
 app.use(`${prefix}`, scraperRouter);
+app.use(`${prefix}`, pixelRouter);
 app.use(scraperRouter);
 app.listen(port, () => {
   console.log(`Server is running on http://localhost:${port}`);

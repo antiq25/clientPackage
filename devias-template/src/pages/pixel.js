@@ -66,26 +66,26 @@ const Page = () => {
   usePageView();
 
 
-  useEffect(() => {
-    fetch('http://localhost:3000/api/v1/pixel/log-view', { method: 'POST' })
-      .then((response) => response.text())
-      .then((result) => console.log(result))
-      .catch((error) => console.log('error', error));
-  });
+  // useEffect(() => {
+  //   fetch('https://smart.aliveai.net/api/v1/pixel/log-view', { method: 'POST' })
+  //     .then((response) => response.text())
+  //     .then((result) => console.log(result))
+  //     .catch((error) => console.log('error', error));
+  // });
 
-  useEffect(() => {
-    fetch('http://localhost:3000/api/v1/pixel/log-view', { method: 'POST' })
-      .then((response) => response.text())
-      .then((result) => console.log(result))
-      .catch((error) => console.log('error', error));
-  });
+  // useEffect(() => {
+  //   fetch('http://localhost:3002/scrape/view-count', { method: 'GET' })
+  //     .then((response) => response.text())
+  //     .then((result) => console.log(result))
+  //     .catch((error) => console.log('error', error));
+  // });
 
-  const handleConversionClick = () => {
-    fetch('http://localhost:3000/v1/pixel/log-click', { method: 'POST' })
-      .then((response) => response.text())
-      .then((result) => console.log(result))
-      .catch((error) => console.log('error', error));
-  };
+  // const handleConversionClick = () => {
+  //   fetch('https://smart.aliveai.net/api/v1/pixel/log-click', { method: 'POST' })
+  //     .then((response) => response.text())
+  //     .then((result) => console.log(result))
+  //     .catch((error) => console.log('error', error));
+  // };
 
   return (
     <>

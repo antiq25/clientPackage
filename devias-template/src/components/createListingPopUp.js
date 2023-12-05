@@ -38,7 +38,7 @@ const CreateListingDialog = ({ open, onClose, onCreationSuccess }) => {
     setIsLoading(true);
     setStatus('Scraping...');
     try {
-      const response = await fetch('https://smart.aliveai.net/scrape/collect-reviews', {
+      const response = await fetch('http://localhost:3002/scrape/collect-reviews', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -74,7 +74,7 @@ const CreateListingDialog = ({ open, onClose, onCreationSuccess }) => {
     setIsLoading(true);
     const token = localStorage.getItem('token');
     try {
-      const response = await fetch('https://smart.aliveai.net/scrape/import-reviews', {
+      const response = await fetch('http://localhost:3002/scrape/import-reviews', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',

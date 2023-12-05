@@ -43,11 +43,31 @@ CREATE TABLE "DetailedReview" (
     CONSTRAINT "DetailedReview_pkey" PRIMARY KEY ("id")
 );
 
+-- CreateTable
+CREATE TABLE "Widget" (
+    "id" TEXT NOT NULL,
+    "businessId" TEXT NOT NULL,
+    "userId" TEXT,
+    "name" TEXT NOT NULL,
+    "code" TEXT NOT NULL,
+    "settings" TEXT NOT NULL,
+    "viewCount" TEXT NOT NULL,
+    "clickCount" TEXT NOT NULL,
+
+    CONSTRAINT "Widget_pkey" PRIMARY KEY ("id")
+);
+
 -- CreateIndex
 CREATE UNIQUE INDEX "Business_placeId_key" ON "Business"("placeId");
 
 -- CreateIndex
 CREATE UNIQUE INDEX "DetailedReview_reviewId_key" ON "DetailedReview"("reviewId");
 
+-- CreateIndex
+CREATE UNIQUE INDEX "Widget_businessId_key" ON "Widget"("businessId");
+
 -- AddForeignKey
 ALTER TABLE "DetailedReview" ADD CONSTRAINT "DetailedReview_businessId_fkey" FOREIGN KEY ("businessId") REFERENCES "Business"("id") ON DELETE RESTRICT ON UPDATE CASCADE;
+
+-- AddForeignKey
+ALTER TABLE "Widget" ADD CONSTRAINT "Widget_businessId_fkey" FOREIGN KEY ("businessId") REFERENCES "Business"("id") ON DELETE RESTRICT ON UPDATE CASCADE;
