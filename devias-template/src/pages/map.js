@@ -21,16 +21,19 @@ import { Layout as DashboardLayout } from 'src/layouts/dashboard';
 import { paths } from 'src/paths';
 import { useSettings } from 'src/hooks/use-settings'; 
 import BusinessNamesList from 'src/components/company_card/companycard';
+import WidgetsCardList from 'src/components/company_card/WidgetCardList'
 import { ReviewsDataProvider } from 'src/components/company_card/ReviewsDataProvider';
+import useUser from  'src/hooks/decode';
 
 const useCompanies = () => {
   const isMounted = useMounted();
-  const [companies, setCompanies] = useState([]);
+  const [widgetsData, setWidgetsData] = useState([]);
 
+  const [companies, setCompanies] = useState([]);
   const handleCompaniesGet = useCallback(async () => {
     try {
       const response = await jobsApi.getCompanies();
-
+      
       if (isMounted()) {
         setCompanies(response);
       }
@@ -38,16 +41,17 @@ const useCompanies = () => {
       console.error(err);
     }
   }, [isMounted]);
-
+  
   useEffect(
     () => {
       handleCompaniesGet();
     },
     // eslint-disable-next-line react-hooks/exhaustive-deps
     []
-  );
-
-  return companies;
+    );
+    
+    return companies;
+    const userId = useUser();
 };
 
 const Page = () => {
@@ -126,8 +130,7 @@ const Page = () => {
             <JobListSearch />
 
             <ReviewsDataProvider>
-
-              <BusinessNamesList companies={companies} />  
+             <WidgetsCardList /> 
             </ReviewsDataProvider>
 
             <Stack

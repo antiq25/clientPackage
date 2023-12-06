@@ -53,6 +53,8 @@ model DetailedReview {
 
 model Widget {
   id         String   @id @default(uuid())
+  createdAt DateTime @default(now()) // Add this line if you want to track when the record was created
+  updatedAt DateTime @updatedAt // Add this line if you want to track when the record was last updated
   businessId String   @unique // This line marks 'businessId' as unique
   business   Business @relation(fields: [businessId], references: [id])
   userId     String? // Reference to the User ID from the other database

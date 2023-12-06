@@ -18,7 +18,7 @@ export const getFormattedReviews = async (userId) => {
     // Format the data for the client
     const formattedDataForClient = detailedReviewsWithBusiness.map(
       (detailedReview) => ({
-        // Structure the data as needed for the client
+        id: detailedReview.business.id,
         name: detailedReview.business.name,
         reviewCount: detailedReview.business.reviewCount,
         isSpendingOnAds: detailedReview.business.isSpendingOnAds,

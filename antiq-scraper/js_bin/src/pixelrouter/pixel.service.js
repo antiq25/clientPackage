@@ -7,7 +7,7 @@ class DatabaseHandler {
     this.userId = userId;
     this.businessId = businessId;
   }
-
+  
   async getWidgetActivity() {
     try {
       const widgetActivity = await prisma.widget.findFirst({
@@ -78,6 +78,36 @@ class DatabaseHandler {
       throw error;
     }
   }
+
+
+  async findWidget() {
+    try {
+      const widget = await prisma.widget.findFirst({
+        where: {
+          userId: this.userId,
+          businessId: this.businessId,
+        },
+      });
+      return widget;
+    } catch (error) {
+      console.error("Failed to find widget:", error);
+      throw error;
+    }
+  }
+
+  async findAllWidgetsForUser() {
+    try {
+      const widgets = await prisma.widget.findMany({
+        where: {
+          userId: this.userId,
+        },
+      });
+      return widgets;
+    } catch (error) {
+      console.error("Failed to find widgets for user:", error);
+      throw error;
+    }
+  }
 }
-  
+
 export default DatabaseHandler;

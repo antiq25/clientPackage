@@ -51,8 +51,12 @@ const WidgetCreator = () => {
 
   return (
     <Box sx={{ flexGrow: 1, p: 2 }}>
-      <Paper elevation={3} sx={{ p: 3, borderRadius: 3, bgcolor: 'background.paper' }}>
-        <FormControl fullWidth margin="normal" variant="outlined" sx={{ mt: 3 }}>
+      <Paper elevation={3}
+sx={{ p: 3, borderRadius: 3, bgcolor: 'background.paper' }}>
+        <FormControl fullWidth
+margin="normal"
+variant="outlined"
+sx={{ mt: 3 }}>
           <InputLabel id="business-select-label">Select a Business</InputLabel>
           <Select
             labelId="business-select-label"
@@ -61,7 +65,8 @@ const WidgetCreator = () => {
             label="Select a Business"
           >
             {businesses.map((business) => (
-              <MenuItem key={business.id} value={business.id}>
+              <MenuItem key={business.id}
+value={business.id}>
                 {`${business.name} - ${business.address}`}
               </MenuItem>
             ))}

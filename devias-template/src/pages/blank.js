@@ -5,15 +5,18 @@ import Container from '@mui/material/Container';
 import Stack from '@mui/material/Stack';
 import SvgIcon from '@mui/material/SvgIcon';
 import Typography from '@mui/material/Typography';
-
+import useUser from 'src/hooks/decode';
 import { Seo } from 'src/src2/components/seo';
 import { usePageView } from 'src/src2/hooks/use-page-view';
 import { useSettings } from 'src/src2/hooks/use-settings';
 import { Layout as DashboardLayout } from 'src/layouts/dashboard';
 import WidgetCreator from 'src/components/createWidgets';
+import Widget from 'src/components/company_card/WidgetDisplay';
+import WidgetCard from 'src/components/company_card/WidgetCard';
 
 const Page = () => {
   const settings = useSettings();
+  const userId = useUser();
 
   usePageView();
 
@@ -71,7 +74,11 @@ const Page = () => {
               }}
             />
             <WidgetCreator />
-            
+
+              <WidgetCard 
+            Widget userId={userId} 
+            />
+           
           </Stack>
         </Container>
       </Box>
