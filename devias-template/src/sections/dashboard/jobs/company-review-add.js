@@ -6,8 +6,8 @@ import OutlinedInput from '@mui/material/OutlinedInput';
 import Rating from '@mui/material/Rating';
 import Stack from '@mui/material/Stack';
 
-import { useMockedUser } from 'src/src2/hooks/use-mocked-user';
-import { getInitials } from 'src/src2/utils/get-initials';
+import { useMockedUser } from 'src/hooks/use-mocked-user';
+import { getInitials } from 'src/utils/get-initials';
 
 export const CompanyReviewAdd = () => {
   const user = useMockedUser();

@@ -1,6 +1,6 @@
 import PropTypes from 'prop-types';
 
-import { FileIcon } from 'src/src2/components/file-icon';
+import { FileIcon } from 'src/components/file-icon';
 
 export const ItemIcon = (props) => {
   const { type, extension } = props;

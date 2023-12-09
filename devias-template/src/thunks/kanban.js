@@ -1,5 +1,5 @@
-import { kanbanApi } from 'src/src2/api/kanban';
-import { slice } from 'src/src2/slices/kanban';
+import { kanbanApi } from 'src/api/kanban';
+import { slice } from 'src/slices/kanban';
 
 const getBoard = () => async (dispatch) => {
   const data = await kanbanApi.getBoard();

@@ -6,9 +6,9 @@ import Divider from '@mui/material/Divider';
 import Stack from '@mui/material/Stack';
 import Typography from '@mui/material/Typography';
 
-import { PropertyList } from 'src/src2/components/property-list';
-import { PropertyListItem } from 'src/src2/components/property-list-item';
-import { getInitials } from 'src/src2/utils/get-initials';
+import { PropertyList } from 'src/components/property-list';
+import { PropertyListItem } from 'src/components/property-list-item';
+import { getInitials } from 'src/utils/get-initials';
 
 export const CompanySummary = (props) => {
   const { company, ...other } = props;

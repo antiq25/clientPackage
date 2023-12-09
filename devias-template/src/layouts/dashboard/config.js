@@ -41,7 +41,7 @@ export const useSections = () => {
          
           {
             title: t(tokens.nav.pixel),
-            path: paths.pixel,
+            path: paths.dashboard,
             icon: (
               <SvgIcon fontSize="small">
                 <PixelIcon />

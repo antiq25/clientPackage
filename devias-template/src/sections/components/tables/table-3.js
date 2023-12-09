@@ -25,7 +25,7 @@ import Tabs from '@mui/material/Tabs';
 import TextField from '@mui/material/TextField';
 import Typography from '@mui/material/Typography';
 
-import { Scrollbar } from 'src/src2/components/scrollbar';
+import { Scrollbar } from 'src/components/scrollbar';
 
 const now = new Date();
 

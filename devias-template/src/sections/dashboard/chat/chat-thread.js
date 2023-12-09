@@ -4,13 +4,13 @@ import Box from '@mui/material/Box';
 import Divider from '@mui/material/Divider';
 import Stack from '@mui/material/Stack';
 
-import { chatApi } from 'src/src2/api/chat';
-import { Scrollbar } from 'src/src2/components/scrollbar';
-import { useMockedUser } from 'src/src2/hooks/use-mocked-user';
-import { useRouter } from 'src/src2/hooks/use-router';
-import { paths } from 'src/src2/paths';
-import { useDispatch, useSelector } from 'src/src2/store';
-import { thunks } from 'src/src2/thunks/chat';
+import { chatApi } from 'src/api/chat';
+import { Scrollbar } from 'src/components/scrollbar';
+import { useMockedUser } from 'src/hooks/use-mocked-user';
+import { useRouter } from 'src/hooks/use-router';
+import { paths } from 'src/paths';
+import { useDispatch, useSelector } from 'src/store';
+import { thunks } from 'src/thunks/chat';
 
 import { ChatMessageAdd } from './chat-message-add';
 import { ChatMessages } from './chat-messages';

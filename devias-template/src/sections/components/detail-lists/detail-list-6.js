@@ -5,7 +5,7 @@ import CardContent from '@mui/material/CardContent';
 import Chip from '@mui/material/Chip';
 import Stack from '@mui/material/Stack';
 import Typography from '@mui/material/Typography';
-import { styled } from '@mui/system';
+import { styled } from '@mui/material/styles';
 
 const MarkdownWrapper = styled('div')(({ theme }) => ({
   color: theme.palette.text.primary,

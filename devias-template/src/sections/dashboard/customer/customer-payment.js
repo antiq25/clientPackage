@@ -5,8 +5,8 @@ import CardHeader from '@mui/material/CardHeader';
 import Divider from '@mui/material/Divider';
 import useMediaQuery from '@mui/material/useMediaQuery';
 
-import { PropertyList } from 'src/src2/components/property-list';
-import { PropertyListItem } from 'src/src2/components/property-list-item';
+import { PropertyList } from 'src/components/property-list';
+import { PropertyListItem } from 'src/components/property-list-item';
 
 export const CustomerPayment = (props) => {
   const mdUp = useMediaQuery((theme) => theme.breakpoints.up('md'));

@@ -10,9 +10,9 @@ import TablePagination from '@mui/material/TablePagination';
 import TableRow from '@mui/material/TableRow';
 import Typography from '@mui/material/Typography';
 
-import { MoreMenu } from 'src/src2/components/more-menu';
-import { Scrollbar } from 'src/src2/components/scrollbar';
-import { SeverityPill } from 'src/src2/components/severity-pill';
+import { MoreMenu } from 'src/components/more-menu';
+import { Scrollbar } from 'src/components/scrollbar';
+import { SeverityPill } from 'src/components/severity-pill';
 
 export const CustomerLogs = (props) => {
   const { logs = [], ...other } = props;

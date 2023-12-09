@@ -11,12 +11,12 @@ import SvgIcon from '@mui/material/SvgIcon';
 import Typography from '@mui/material/Typography';
 import useMediaQuery from '@mui/material/useMediaQuery';
 
-import { chatApi } from 'src/src2/api/chat';
-import { Scrollbar } from 'src/src2/components/scrollbar';
-import { useMockedUser } from 'src/src2/hooks/use-mocked-user';
-import { useRouter } from 'src/src2/hooks/use-router';
-import { paths } from 'src/src2/paths';
-import { useSelector } from 'src/src2/store';
+import { chatApi } from 'src/api/chat';
+import { Scrollbar } from 'src/components/scrollbar';
+import { useMockedUser } from 'src/hooks/use-mocked-user';
+import { useRouter } from 'src/hooks/use-router';
+import { paths } from 'src/paths';
+import { useSelector } from 'src/store';
 
 import { ChatSidebarSearch } from './chat-sidebar-search';
 import { ChatThreadItem } from './chat-thread-item';

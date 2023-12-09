@@ -25,9 +25,9 @@ import Tabs from '@mui/material/Tabs';
 import Typography from '@mui/material/Typography';
 import useMediaQuery from '@mui/material/useMediaQuery';
 
-import { useMockedUser } from 'src/src2/hooks/use-mocked-user';
-import { useDispatch, useSelector } from 'src/src2/store';
-import { thunks } from 'src/src2/thunks/kanban';
+import { useMockedUser } from 'src/hooks/use-mocked-user';
+import { useDispatch, useSelector } from 'src/store';
+import { thunks } from 'src/thunks/kanban';
 
 import { TaskChecklist } from './task-checklist';
 import { TaskComment } from './task-comment';

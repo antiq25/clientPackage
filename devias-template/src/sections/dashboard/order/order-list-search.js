@@ -11,7 +11,7 @@ import Tab from '@mui/material/Tab';
 import Tabs from '@mui/material/Tabs';
 import TextField from '@mui/material/TextField';
 
-import { useUpdateEffect } from 'src/src2/hooks/use-update-effect';
+import { useUpdateEffect } from 'src/hooks/use-update-effect';
 
 const tabOptions = [
   {

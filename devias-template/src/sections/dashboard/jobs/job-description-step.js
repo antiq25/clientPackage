@@ -6,7 +6,7 @@ import Stack from '@mui/material/Stack';
 import SvgIcon from '@mui/material/SvgIcon';
 import Typography from '@mui/material/Typography';
 
-import { QuillEditor } from 'src/src2/components/quill-editor';
+import { QuillEditor } from 'src/components/quill-editor';
 
 export const JobDescriptionStep = (props) => {
   const { onBack, onNext, ...other } = props;

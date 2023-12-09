@@ -1,0 +1,535 @@
+{
+    "place_id": "ChIJT1nDEj1xhlQRL7VuTAnsxeI",
+    "name": "Superbaba (Vancouver)",
+    "description": null,
+    "reviews": 803,
+    "website": "http://eatsuperbaba.com/",
+    "owner": {
+        "id": "104401549247888132097",
+        "name": "Superbaba (Vancouver) (Owner)",
+        "link": "https://www.google.com/maps/contrib/104401549247888132097"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPD_oDsEKE63n_5rXKf1EZDF9jrdfSSOGpK97ji=w408-h306-k-no",
+    "main_category": "Restaurant",
+    "categories": [
+        "Restaurant"
+    ],
+    "rating": 4.7,
+    "workday_timing": "11 a.m.-9 p.m.",
+    "closed_on": [],
+    "phone": "(604) 423-5577",
+    "address": "Superbaba (Vancouver), 2419 Main St, Vancouver, BC V5T 3E1",
+    "review_keywords": [
+        {
+            "keyword": "pita",
+            "count": 42
+        },
+        {
+            "keyword": "chicken wrap",
+            "count": 28
+        },
+        {
+            "keyword": "food truck",
+            "count": 28
+        },
+        {
+            "keyword": "sabich",
+            "count": 26
+        },
+        {
+            "keyword": "middle eastern food",
+            "count": 24
+        },
+        {
+            "keyword": "falafel bowl",
+            "count": 20
+        },
+        {
+            "keyword": "falafel wrap",
+            "count": 17
+        },
+        {
+            "keyword": "fried eggplant",
+            "count": 16
+        },
+        {
+            "keyword": "eggplant bowl",
+            "count": 5
+        },
+        {
+            "keyword": "chicken bowl",
+            "count": 5
+        }
+    ],
+    "link": "https://www.google.com/maps/place/Superbaba+(Vancouver)/@49.2633297,-123.1012681,17z/data=!3m1!4b1!4m6!3m5!1s0x5486713d12c3594f:0xe2c5ec094c6eb52f!8m2!3d49.2633297!4d-123.1012681!16s%2Fg%2F11f71plyk0?authuser=0&entry=ttu",
+    "status": "Closed  Opens 11 a.m. Fri",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 23,
+        "2": 11,
+        "3": 27,
+        "4": 88,
+        "5": 654
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJT1nDEj1xhlQRL7VuTAnsxeI&q=Superbaba+(Vancouver)&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.2633297,
+        "longitude": -123.1012681
+    },
+    "plus_code": "7V7X+8F Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "East Vancouver",
+        "street": "2419 Main St",
+        "city": "Vancouver",
+        "postal_code": "V5T 3E1",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "16340726347664897327",
+    "data_id": "0x5486713d12c3594f:0xe2c5ec094c6eb52f",
+    "menu": {
+        "link": "http://vancouver.eatsuperbaba.com/",
+        "source": "vancouver.eatsuperbaba.com"
+    },
+    "reservations": [],
+    "order_online_links": [
+        {
+            "link": "https://www.ubereats.com/ca/store/superbaba-main-st/GO0MjDrwX5CR_DpSeXbqhQ?utm_campaign=place-action-link&utm_medium=organic&utm_source=google",
+            "source": "ubereats.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Takeout",
+                    "enabled": true
+                },
+                {
+                    "name": "Dine-in",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair accessible seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Alcohol",
+                    "enabled": true
+                },
+                {
+                    "name": "Beer",
+                    "enabled": true
+                },
+                {
+                    "name": "Halal food",
+                    "enabled": true
+                },
+                {
+                    "name": "Healthy options",
+                    "enabled": true
+                },
+                {
+                    "name": "Vegan options",
+                    "enabled": true
+                },
+                {
+                    "name": "Vegetarian options",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Dining options",
+            "options": [
+                {
+                    "name": "Lunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Dinner",
+                    "enabled": true
+                },
+                {
+                    "name": "Dessert",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosphere",
+            "options": [
+                {
+                    "name": "Casual",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planning",
+            "options": [
+                {
+                    "name": "Accepts reservations",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "parking",
+            "name": "Parking",
+            "options": [
+                {
+                    "name": "Paid street parking",
+                    "enabled": true
+                },
+                {
+                    "name": "Parking",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPD_oDsEKE63n_5rXKf1EZDF9jrdfSSOGpK97ji=w397-h298-k-no"
+        },
+        {
+            "about": "Latest",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOnGcV1OqTln-5XrFCk2MvjDBIXC1IV_R5lj6be=w397-h298-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOfLHXJ3ORzcAQpYCz47yBFu0nuJ84eqf3Q3It-=w224-h398-k-no"
+        },
+        {
+            "about": "Menu",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOIi5okupq_UEeHkWntzw_LZnFj6B-v7ckx3gei=w397-h298-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNYspDocre349WbAz_UH0zC8jLQF1SbX1uKrCQ9=w447-h298-k-no"
+        },
+        {
+            "about": "Vibe",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOvjo_c2R3ngNhP-3Mewc0CAcpaYJOXVfJ8rgU=w447-h298-k-no"
+        },
+        {
+            "about": "Avocado",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMh0htjM7TP_dq4cOy3NHvFmIAhrvL-VPBP1iwu=w224-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNHYEUIYmisah1Qw-rK43-DM7dFcejphDej80c0=w529-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=HdEkUdA-7Nsp_qzA6zyM2A&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=292.5386&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "11 a.m.-9 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "11 a.m.-9 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "11 a.m.-9 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "11 a.m.-9 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "11 a.m.-9 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "11 a.m.-9 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "11 a.m.-9 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "A dope fresh take in a cool vibe, minimal fuss and efficient eatery serving yummy grub at reasonable fare. This was vibrant, crisp and flavoursome with great flavor and balance, an awesome experience, rad falafel and authentic hummus dressing.\nI paid like 5 bucks extra for two Crispy Aubergine which was literally two sticks on top of my Falafel Salad which was a regret and a big letdown to be honest.\nSupport local businesses!",
+            "reviewer_name": "Ads",
+            "rating": 4,
+            "review_text": "A dope fresh take in a cool vibe, minimal fuss and efficient eatery serving yummy grub at reasonable fare. This was vibrant, crisp and flavoursome with great flavor and balance, an awesome experience, rad falafel and authentic hummus dressing.\nI paid like 5 bucks extra for two Crispy Aubergine which was literally two sticks on top of my Falafel Salad which was a regret and a big letdown to be honest.\nSupport local businesses!",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-08-02T04:27:00.569000Z",
+            "response_from_owner_text": "Thanks for your review! The added eggplant is $2.80, so maybe there was an error in the charge. If you send us an email to info@eatsuperbaba.com we'd be happy to get that fixed for you!",
+            "response_from_owner_ago": "4 months ago",
+            "response_from_owner_date": "2023-08-02T05:52:51.156000Z",
+            "review_likes_count": 7,
+            "total_number_of_reviews_by_reviewer": 853,
+            "total_number_of_photos_by_reviewer": 14946,
+            "reviewer_url": "https://www.google.com/maps/contrib/105739873613234589328/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjV_zMv6CSG2FBEyjZHtV6SdDcJr0de3Y-qlqvHtS-GYqnM=s120-c-rp-mo-ba8-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipO231WaH1GFr_Gqbh_p-iA7SYxMecMD1KKM8Vmc=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMSdsTtq5rVPm_QQCYXPgeITSf6iumiXjisQ6wD=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOJUGI-KWeId6W_fX9apk_EdEHo4FuyRGaDPVWN=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipP6rs0vfkqpp3qWjsI9nXNuTrNzK0-g4TJZEpRF=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPWmPCC39layfLYMzb8JE1ptMeL17NHQeT4sbXw=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPKpQ9YscjmjkBS2ih9wZS22cZXuWc-qlDglgoI=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPrvTA6hV8iU1tOwEvZGGaE-AYMs9EwiuX1UpDp=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMwRM3yFZLXAGW4gUpjNXVCTvqHddfXipTxHPIz=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipO5kGM-giBgDbxDR-KImc75VsQzeEDbDgYpJbVK=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMRc652KARunS0W2G-2tiLsSJ7LFiwM5DBtgC9g=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMh0htjM7TP_dq4cOy3NHvFmIAhrvL-VPBP1iwu=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipP138bxInYAH-KsXufR33qH9P1z4-jjVEOBmU99=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPOZ4InspS-8ATd04ztbhstw9F_lcKCWrHZs7rv=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMTtJnok14YipdHf9gzavAdIC8XaKBvr3FdEv3-=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOBE9118EYMN_LxkmvDrxTm9xCJbDHO0KpdUKBg=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Ordered online and got collection a few mins later. Service was great.\n\nWe got the beef bowl and the chicken bowl with some extra falafel.\n\nBoth bowls looked great when I got them back and tasted fantastic. Fresh veg and flavoursome rice. The beef was juicy and the falafel was crispy on the outside and soft inside.\n\nHighly recommend.",
+            "reviewer_name": "Richard Jones",
+            "rating": 5,
+            "review_text": "Ordered online and got collection a few mins later. Service was great.\n\nWe got the beef bowl and the chicken bowl with some extra falafel.\n\nBoth bowls looked great when I got them back and tasted fantastic. Fresh veg and flavoursome rice. The beef was juicy and the falafel was crispy on the outside and soft inside.\n\nHighly recommend.",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-20T22:27:29.866000Z",
+            "response_from_owner_text": "Thank you Richard! We are so glad you had a great experience ",
+            "response_from_owner_ago": "2 months ago",
+            "response_from_owner_date": "2023-10-03T03:25:30.109000Z",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 165,
+            "total_number_of_photos_by_reviewer": 62,
+            "reviewer_url": "https://www.google.com/maps/contrib/107976550726417409861/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLiuzRpDcnrCvL7U-BYcU6ADvP8p90ixnwpc4PAw7Xa=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPGsR03KUoKaNha8OkOEWb9teQmcpXhLY-Be7bc=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "First time at Superbaba. Got the chicken bowl and it was really quite tasty. Would recommend. Decent size as well but there could have been a bit more rice in my opinion. Would definitely come back again!",
+            "reviewer_name": "Angus Hardy-Francis",
+            "rating": 4,
+            "review_text": "First time at Superbaba. Got the chicken bowl and it was really quite tasty. Would recommend. Decent size as well but there could have been a bit more rice in my opinion. Would definitely come back again!",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-23T15:54:27.979000Z",
+            "response_from_owner_text": "Thanks Angus! We hope your portioning was correct, if it was off we apologize. Please visit us again soon! ",
+            "response_from_owner_ago": "2 months ago",
+            "response_from_owner_date": "2023-10-03T03:24:46.171000Z",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 51,
+            "total_number_of_photos_by_reviewer": 80,
+            "reviewer_url": "https://www.google.com/maps/contrib/112833806965517548170/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXSaSE2UlOTqbMiOoO44CuParct4MxrzEMUQ1Nvbdnzme_d=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOBs3GhTgLu8m8GZH-r_6Wk20Xw3mfgjodK2wo8=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipP37gwsnBRMruiI4fB7YsZGze7sOEpqasrct58t=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMMranfjIjlZhnARtrPAO7UNKwBIQjs6JEVtKf_=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Love the fresh made pita here. Line & wait can be long during rush hours but you can order online. Chicken wrap is excellent, great portion and the fries make it so decadent. Fried eggplant  is awesome if you want to go all out. Nice neighborhood & picnic in the park go-to.",
+            "reviewer_name": "Sophia H",
+            "rating": 5,
+            "review_text": "Love the fresh made pita here. Line & wait can be long during rush hours but you can order online. Chicken wrap is excellent, great portion and the fries make it so decadent. Fried eggplant  is awesome if you want to go all out. Nice neighborhood & picnic in the park go-to.",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-27T18:22:19.298000Z",
+            "response_from_owner_text": "Thank you Sophia!",
+            "response_from_owner_ago": "4 months ago",
+            "response_from_owner_date": "2023-07-27T18:59:53.472000Z",
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 40,
+            "total_number_of_photos_by_reviewer": 26,
+            "reviewer_url": "https://www.google.com/maps/contrib/112251654721357635807/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUkfBo8rwdyGrBhPMo5bJcYalAnuBPerMbK4S-dSdjCRAA2=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipM8NFk0w2P2PL2tNBoAGbGmDn6z5p6gO92zIe6M=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "My colleagues picked up takeout for me. Loved the cereal cookie.\nI ordered the hummus, pita and falafel. All great.",
+            "reviewer_name": "Agnes",
+            "rating": 4,
+            "review_text": "My colleagues picked up takeout for me. Loved the cereal cookie.\nI ordered the hummus, pita and falafel. All great.",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-31T21:02:07.164000Z",
+            "response_from_owner_text": "Thank you Agnes!!",
+            "response_from_owner_ago": "2 months ago",
+            "response_from_owner_date": "2023-10-03T03:26:57.747000Z",
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 316,
+            "total_number_of_photos_by_reviewer": 1366,
+            "reviewer_url": "https://www.google.com/maps/contrib/112434307291794668842/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXJabPr7FOmzLEneR48j9jzbigQoMxAgMpZ6wgDscm7lSnD=s120-c-rp-mo-ba6-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPylGd2I_UBuXKfiVwxOEz2i0vhYsi7jZHKdZEV=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPnzGftb38YxOgrt0SUOBEPMvKA1yJGMJt66w3a=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNZR4qijZplakuLuHyBv6apNjZyOY0tu-Tjiu-r=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "I recently visited Superbaba for the first time and was impressed enough to want to return. Although I'm not typically inclined to spend a lot on food, I hesitated when I saw the $15 price tag for the dish I wanted. However, after observing others' orders, I decided to give it a try, and I'm glad I did. I chose the chicken bowl, and the Middle Eastern flavors were fantastic, while the portion size was adequate. The only downside was that the restaurant was a bit chilly, but since it's located near the entrance and it's freezing outside, this is likely the case for most places along Main Street. I had a great experience here and enjoyed the shawarma. The meat was very flavorful and everything appeared to be fresh. The portion size was decent, although the bowl had more veggies than meat. Additionally, the cost was a bit high, but overall it was a positive experience. It's worth noting that all the meat served is Halal.",
+            "reviewer_name": "Karan Verma",
+            "rating": 5,
+            "review_text": "I recently visited Superbaba for the first time and was impressed enough to want to return. Although I'm not typically inclined to spend a lot on food, I hesitated when I saw the $15 price tag for the dish I wanted. However, after observing others' orders, I decided to give it a try, and I'm glad I did. I chose the chicken bowl, and the Middle Eastern flavors were fantastic, while the portion size was adequate. The only downside was that the restaurant was a bit chilly, but since it's located near the entrance and it's freezing outside, this is likely the case for most places along Main Street. I had a great experience here and enjoyed the shawarma. The meat was very flavorful and everything appeared to be fresh. The portion size was decent, although the bowl had more veggies than meat. Additionally, the cost was a bit high, but overall it was a positive experience. It's worth noting that all the meat served is Halal.",
+            "published_at": "8 months ago",
+            "published_at_date": "2023-04-02T15:23:25.397000Z",
+            "response_from_owner_text": "That's great Karan, we are so glad you liked it. \n\nThe temperature of the room is my fault, I'm still testing out our new A/C system and may have left it on the lowest setting by mistake. ",
+            "response_from_owner_ago": "8 months ago",
+            "response_from_owner_date": "2023-04-02T22:17:31.473000Z",
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 144,
+            "total_number_of_photos_by_reviewer": 147,
+            "reviewer_url": "https://www.google.com/maps/contrib/111302972497777314224/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUvRjmxrSB3qMov__h4CqvdL3TsLTJY8r7PANXqXTd2NrIa=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNVy4_wL-IkWbKf5xavlRe7WXOBDZ2_nAcxQUns=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMGHJp7nv3l7VU9eUpKvKwIM7AaYS2j2URufroB=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNDkvQfUQ72lS9XPrniT6GffBA5stGnP1Bqrarn=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOYJTG_9F1FPgn7-XacFkPiKUhUnCgJPRKDlyv7=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "This is probably one of my top 5 favorite places to eat. Love everything about this place! Nice chill vibe, staff are always friendly and the food is fantastic. Have been here multiple times and will continue to come back. Wish there was one closer to where I live. Highly recommend eating here!",
+            "reviewer_name": "Wheels",
+            "rating": 5,
+            "review_text": "This is probably one of my top 5 favorite places to eat. Love everything about this place! Nice chill vibe, staff are always friendly and the food is fantastic. Have been here multiple times and will continue to come back. Wish there was one closer to where I live. Highly recommend eating here!",
+            "published_at": "7 months ago",
+            "published_at_date": "2023-04-27T22:46:39.134000Z",
+            "response_from_owner_text": "Thank you! Hopefully our next location will be closer to you! ",
+            "response_from_owner_ago": "7 months ago",
+            "response_from_owner_date": "2023-04-28T00:50:39.570000Z",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 311,
+            "total_number_of_photos_by_reviewer": 578,
+            "reviewer_url": "https://www.google.com/maps/contrib/101249338434805733587/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUHgnPCsj_SiqCPgrJGiC6-REVmMKHamAVQzqira2yqUxc=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPD_oDsEKE63n_5rXKf1EZDF9jrdfSSOGpK97ji=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMYGRYvtQ37rMFr43ejdpHx9dlsP728VdjNxyIH=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPs1So3PU7TxxBMGEIwkChzRTFj_rTUICQa5xD8=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPgGi0ud7PbmCzRES3i6Yz34xHACn0BRNPKyP6a=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNiNz--FZ_pSZmGgG2bf3MZLUbgVUUHsvL4WdMh=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPBRTrrDAilqHfvDLEDb_hx8_sUOjRWHtPAP391=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Dined in. Great place for a quick dinner. Bright and clean dining room, fast and friendly service, and delicious, fresh, healthy-tasting food. Our party had chicken wrap, chicken bowl, and beef bowl. Asked for an received extra lettuce instead of rice in the bowls. Had some fried eggplant and French fries on the side. Everybody was very happy and the food disappeared very quickly, leaving only satisfied customers. Sort of like the best, healthiest, street trick food you could imagine. Not cheap, but way cheaper than -- and just as as good as -- a regular restaurant serving the same kinds of dishes. Will definite do again.",
+            "reviewer_name": "Stephen Hart",
+            "rating": 5,
+            "review_text": "Dined in. Great place for a quick dinner. Bright and clean dining room, fast and friendly service, and delicious, fresh, healthy-tasting food. Our party had chicken wrap, chicken bowl, and beef bowl. Asked for an received extra lettuce instead of rice in the bowls. Had some fried eggplant and French fries on the side. Everybody was very happy and the food disappeared very quickly, leaving only satisfied customers. Sort of like the best, healthiest, street trick food you could imagine. Not cheap, but way cheaper than -- and just as as good as -- a regular restaurant serving the same kinds of dishes. Will definite do again.",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-28T01:01:25.245000Z",
+            "response_from_owner_text": "Thank you Stephen, we hope to see you again!",
+            "response_from_owner_ago": "a month ago",
+            "response_from_owner_date": "2023-11-04T00:31:39.637000Z",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 3,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/110864730680909240975/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJTWMwEbpMCHLOpZZdE61SDKISFxw7gzUy6jmM3hIa6=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

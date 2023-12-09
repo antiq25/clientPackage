@@ -17,9 +17,9 @@ import SvgIcon from '@mui/material/SvgIcon';
 import Tooltip from '@mui/material/Tooltip';
 import Typography from '@mui/material/Typography';
 
-import { paths } from 'src/src2/paths';
-import { useDispatch, useSelector } from 'src/src2/store';
-import { thunks } from 'src/src2/thunks/mail';
+import { paths } from 'src/paths';
+import { useDispatch, useSelector } from 'src/store';
+import { thunks } from 'src/thunks/mail';
 
 import { MailItem } from './mail-item';
 

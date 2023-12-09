@@ -4,7 +4,7 @@ import Grid from '@mui/material/Unstable_Grid2';
 import Stack from '@mui/material/Stack';
 import Typography from '@mui/material/Typography';
 
-import { SeverityPill } from 'src/src2/components/severity-pill';
+import { SeverityPill } from 'src/components/severity-pill';
 
 export const QuickStats3 = () => (
   <Box

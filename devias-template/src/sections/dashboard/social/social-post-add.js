@@ -12,8 +12,8 @@ import Stack from '@mui/material/Stack';
 import SvgIcon from '@mui/material/SvgIcon';
 import useMediaQuery from '@mui/material/useMediaQuery';
 
-import { useMockedUser } from 'src/src2/hooks/use-mocked-user';
-import { getInitials } from 'src/src2/utils/get-initials';
+import { useMockedUser } from 'src/hooks/use-mocked-user';
+import { getInitials } from 'src/utils/get-initials';
 
 export const SocialPostAdd = (props) => {
   const user = useMockedUser();

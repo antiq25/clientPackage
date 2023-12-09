@@ -1,0 +1,196 @@
+{
+    "place_id": "ChIJ4RnrXOdzhlQR2eJCsegRM7A",
+    "name": "Loblaw Pharmacy",
+    "description": null,
+    "reviews": 2,
+    "website": "https://www.nofrills.ca/pharmacy%3FstoreId%3D3403%26utm_source%3DG%26utm_medium%3DLPM%26utm_campaign%3DLoblaws",
+    "owner": {
+        "id": "103875632303202639416",
+        "name": "Loblaw Pharmacy (Owner)",
+        "link": "https://www.google.com/maps/contrib/103875632303202639416"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=dlj4hkGRia2c5PXZ46cBWQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=216.24649&pitch=0&thumbfov=100",
+    "main_category": "Pharmacy",
+    "categories": [
+        "Pharmacy",
+        "Drug store"
+    ],
+    "rating": 2.5,
+    "workday_timing": "9 a.m.-6 p.m.",
+    "closed_on": [
+        "Sunday"
+    ],
+    "phone": "(604) 708-8084",
+    "address": "Loblaw Pharmacy, 310 W Broadway, Vancouver, BC V5Y 1R2",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/Loblaw+Pharmacy/data=!4m7!3m6!1s0x548673e75ceb19e1:0xb03311e8b142e2d9!8m2!3d49.262842!4d-123.1115699!16s%2Fg%2F11f332xr8r!19sChIJ4RnrXOdzhlQR2eJCsegRM7A?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 9 a.m.",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 0
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ4RnrXOdzhlQR2eJCsegRM7A&q=Loblaw+Pharmacy&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.262842,
+        "longitude": -123.11156989999999
+    },
+    "plus_code": "7V7Q+49 Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "East Vancouver",
+        "street": "310 W Broadway",
+        "city": "Vancouver",
+        "postal_code": "V5Y 1R2",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "12696511465591595737",
+    "data_id": "0x548673e75ceb19e1:0xb03311e8b142e2d9",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "In-store pickup",
+                    "enabled": true
+                },
+                {
+                    "name": "In-store shopping",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=dlj4hkGRia2c5PXZ46cBWQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=216.25427&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=dlj4hkGRia2c5PXZ46cBWQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=216.25427&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "9 a.m.-6 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "9 a.m.-6 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "9 a.m.-6 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "9 a.m.-6 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "9 a.m.-6 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "10 a.m.-4 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "Closed"
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "I usually receive exceptional service here.\nIt was severely understaffed, which I understand but a new pharmacist (no name-tag, has a very squeaky voice) had no idea what she was doing.\n\nI waited 1 hour and 50 minutes to pickup a prescription that was already filled out and available for pickup. She said she was unable to find it and asked me to come back in 15-20 minutes. When I returned, she said she wasn't able to find it and would search more thoroughly. I'm not the type of person to complain, so I was seated in the waiting room while she decided to process new patients instead of searching for my prescription. Everytime I checked in, I was just told 5 more minutes.\n\nShe didn't communicate what was happening at all. If someone is waiting almost 2 hours then I don't understand how\nthat's acceptable.\nShe made small talk and someone filling a job application a priority, instead of clients waiting for prescriptions.\n\nThe only thing she had to say you might as well cancel our EVO after wondering what happened. After searching again and again and THEN finally revisiting the area that holds prescriptions ready for pickup. It was there from the start!\n\nEvery other pharmacist I've seen here has been nothing short of professional, and I've never had a more negative and strange experience here.",
+            "reviewer_name": "S L",
+            "rating": 1,
+            "review_text": "I usually receive exceptional service here.\nIt was severely understaffed, which I understand but a new pharmacist (no name-tag, has a very squeaky voice) had no idea what she was doing.\n\nI waited 1 hour and 50 minutes to pickup a prescription that was already filled out and available for pickup. She said she was unable to find it and asked me to come back in 15-20 minutes. When I returned, she said she wasn't able to find it and would search more thoroughly. I'm not the type of person to complain, so I was seated in the waiting room while she decided to process new patients instead of searching for my prescription. Everytime I checked in, I was just told 5 more minutes.\n\nShe didn't communicate what was happening at all. If someone is waiting almost 2 hours then I don't understand how\nthat's acceptable.\nShe made small talk and someone filling a job application a priority, instead of clients waiting for prescriptions.\n\nThe only thing she had to say you might as well cancel our EVO after wondering what happened. After searching again and again and THEN finally revisiting the area that holds prescriptions ready for pickup. It was there from the start!\n\nEvery other pharmacist I've seen here has been nothing short of professional, and I've never had a more negative and strange experience here.",
+            "published_at": "10 months ago",
+            "published_at_date": "2023-01-23T00:55:19.150000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 27,
+            "total_number_of_photos_by_reviewer": 4,
+            "reviewer_url": "https://www.google.com/maps/contrib/110267667632509258878/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVcJsYbcN6Oo7pl_34xXG3JgbPIpopElt4FcP3VLqGonEBi=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Great customer service, and fast fill of prescriptions.",
+            "reviewer_name": "Anna T.",
+            "rating": 4,
+            "review_text": "Great customer service, and fast fill of prescriptions.",
+            "published_at": "2 years ago",
+            "published_at_date": "2021-10-30T05:57:06.803000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 25,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/112957458727389783046/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKuTpQxzqRcViKU1aeK18kkHGORa0T51WAowXRdYK0i=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

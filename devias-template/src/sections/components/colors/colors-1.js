@@ -4,7 +4,7 @@ import ListItem from '@mui/material/ListItem';
 import ListItemAvatar from '@mui/material/ListItemAvatar';
 import ListItemText from '@mui/material/ListItemText';
 import Typography from '@mui/material/Typography';
-import { useTheme } from '@mui/system';
+import { useTheme } from '@mui/material/styles';
 
 export const Colors1 = () => {
   const theme = useTheme();

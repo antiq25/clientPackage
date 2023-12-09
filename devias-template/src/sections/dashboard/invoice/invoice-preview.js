@@ -12,7 +12,7 @@ import TableHead from '@mui/material/TableHead';
 import TableRow from '@mui/material/TableRow';
 import Typography from '@mui/material/Typography';
 
-import { Logo } from 'src/src2/components/logo';
+import { Logo } from 'src/components/logo';
 
 export const InvoicePreview = (props) => {
   const { invoice, ...other } = props;

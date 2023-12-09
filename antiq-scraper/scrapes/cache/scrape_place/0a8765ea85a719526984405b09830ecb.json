@@ -1,0 +1,545 @@
+{
+    "place_id": "ChIJvWqz0E5xhlQRmQ0QSFzd-OI",
+    "name": "A&W Canada",
+    "description": "Fast-food outlet serving up namesake root beer, plus burgers, chicken & fries.",
+    "reviews": 795,
+    "website": "https://web.aw.ca/",
+    "owner": {
+        "id": "106310233320595509913",
+        "name": "A&W Canada (Owner)",
+        "link": "https://www.google.com/maps/contrib/106310233320595509913"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNXbMuUnVSPishARV487rZUSyMvKcdYdfX2j5vE=w408-h306-k-no",
+    "main_category": "Hamburger restaurant",
+    "categories": [
+        "Hamburger restaurant",
+        "American restaurant",
+        "Breakfast restaurant",
+        "Chicken restaurant",
+        "Fast food restaurant"
+    ],
+    "rating": 3.7,
+    "workday_timing": "Open 24 hours",
+    "closed_on": [],
+    "phone": "(604) 872-1532",
+    "address": "A&W Canada, 1715 E Broadway, Vancouver, BC V5N 1W2",
+    "review_keywords": [
+        {
+            "keyword": "fast food",
+            "count": 30
+        },
+        {
+            "keyword": "breakfast",
+            "count": 16
+        },
+        {
+            "keyword": "root beer",
+            "count": 16
+        },
+        {
+            "keyword": "bathroom",
+            "count": 10
+        },
+        {
+            "keyword": "poutine",
+            "count": 7
+        },
+        {
+            "keyword": "chicken burger",
+            "count": 6
+        },
+        {
+            "keyword": "homeless",
+            "count": 5
+        },
+        {
+            "keyword": "smile",
+            "count": 5
+        },
+        {
+            "keyword": "area",
+            "count": 5
+        },
+        {
+            "keyword": "garbage",
+            "count": 5
+        }
+    ],
+    "link": "https://www.google.com/maps/place/A%26W+Canada/data=!4m7!3m6!1s0x5486714ed0b36abd:0xe2f8dd5c48100d99!8m2!3d49.262474!4d-123.0696491!16s%2Fg%2F1hc35nyt6!19sChIJvWqz0E5xhlQRmQ0QSFzd-OI?authuser=0&hl=en&rclk=1",
+    "status": "Open 24 hours",
+    "price_range": "$",
+    "reviews_per_rating": {
+        "1": 99,
+        "2": 44,
+        "3": 158,
+        "4": 186,
+        "5": 308
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJvWqz0E5xhlQRmQ0QSFzd-OI&q=A%26W+Canada&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.262474,
+        "longitude": -123.06964909999999
+    },
+    "plus_code": "7W6J+X4 Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "East Vancouver",
+        "street": "1715 E Broadway",
+        "city": "Vancouver",
+        "postal_code": "V5N 1W2",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "16355065435211697561",
+    "data_id": "0x5486714ed0b36abd:0xe2f8dd5c48100d99",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [
+        {
+            "link": "https://www.doordash.com/store/a%26w-canada-vancouver-712827/?utm_campaign=gpa",
+            "source": "doordash.com"
+        },
+        {
+            "link": "https://www.skipthedishes.com/a-and-w-east-broadway?serviceType=delivery&utm_source=google&utm_medium=organic&utm_campaign=gpav2",
+            "source": "skipthedishes.com"
+        },
+        {
+            "link": "https://www.ubereats.com/ca/store/a%26w-the-hub/cQprkl-6RgmXDz2zQI67Zw?utm_campaign=place-action-link&utm_medium=organic&utm_source=google",
+            "source": "ubereats.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Takeout",
+                    "enabled": true
+                },
+                {
+                    "name": "Dine-in",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "highlights",
+            "name": "Highlights",
+            "options": [
+                {
+                    "name": "Fast service",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair accessible seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible washroom",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Beer",
+                    "enabled": true
+                },
+                {
+                    "name": "Coffee",
+                    "enabled": true
+                },
+                {
+                    "name": "Late-night food",
+                    "enabled": true
+                },
+                {
+                    "name": "Quick bite",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Dining options",
+            "options": [
+                {
+                    "name": "Breakfast",
+                    "enabled": true
+                },
+                {
+                    "name": "Brunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Lunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Dinner",
+                    "enabled": true
+                },
+                {
+                    "name": "Counter service",
+                    "enabled": true
+                },
+                {
+                    "name": "Dessert",
+                    "enabled": true
+                },
+                {
+                    "name": "Seating",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosphere",
+            "options": [
+                {
+                    "name": "Casual",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planning",
+            "options": [
+                {
+                    "name": "Accepts reservations",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "children",
+            "name": "Children",
+            "options": [
+                {
+                    "name": "Good for kids",
+                    "enabled": true
+                },
+                {
+                    "name": "High chairs",
+                    "enabled": true
+                },
+                {
+                    "name": "Kids' menu",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNXbMuUnVSPishARV487rZUSyMvKcdYdfX2j5vE=w397-h298-k-no"
+        },
+        {
+            "about": "Latest",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMhbIRxn8VvHZKGj2SyCHbxiioo4oGoD14g4Ikf=w224-h298-k-no"
+        },
+        {
+            "about": "Menu",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNNkd4s-uG1tLRttvEkgoFRjtDgB0Q3y-qjmVVg=w224-h298-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNtbwhBLYGwhSCQeiPRb3qJzGvsZwuuOo-brKcA=w532-h298-k-no"
+        },
+        {
+            "about": "Vibe",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNrJZnnuxb6_p1NsVE1dXSbhYrpWzIeYKiMvOJy=w224-h298-k-no"
+        },
+        {
+            "about": "Hamburger",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipO5BftRfFnzScrHNoMRUFUnsUwUgA7z9TLAve7w=w532-h298-k-no"
+        },
+        {
+            "about": "French fries",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPzA_AKwhwoUgW1NsX9KzBCrV8V5U_bE4SdDJBT=w536-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNgpN-y0jVsx4YMHt8W3jarYZqiPQxEww0VPzfc=w536-h298-k-no"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "Open 24 hours"
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "Open 24 hours"
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "Open 24 hours"
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "Open 24 hours"
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "Open 24 hours"
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "Open 24 hours"
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "Open 24 hours"
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "Came for breakfast before appointment. there's 2 guys in the bathroom doing drugs. lady near door taking her shoes off, clearly tripping out. They should have a customers only policy to keep the loitering out. The manager should be managing this issue better",
+            "reviewer_name": "Robyn Wesley",
+            "rating": 1,
+            "review_text": "Came for breakfast before appointment. there's 2 guys in the bathroom doing drugs. lady near door taking her shoes off, clearly tripping out. They should have a customers only policy to keep the loitering out. The manager should be managing this issue better",
+            "published_at": "2 weeks ago",
+            "published_at_date": "2023-11-22T17:51:18.498000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 21,
+            "total_number_of_photos_by_reviewer": 9,
+            "reviewer_url": "https://www.google.com/maps/contrib/117493651107092823168/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVUnD9-7piCiO44_NdvNWhPU8nsRGjI96jTA40NhznFF4CI=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMhbIRxn8VvHZKGj2SyCHbxiioo4oGoD14g4Ikf=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Visited afternoon for lunch . Good quality food and taste. Store having 2 staff and disappointment with cleanliness and hygiene. Need lot of work to improvement on food safety prospective . I am surprised with charges as for dine in they charge me for bag and wondering what's wrong for dine in also charging which bag they serve food ? Really ? wake up Canada",
+            "reviewer_name": "Monster Alive",
+            "rating": 1,
+            "review_text": "Visited afternoon for lunch . Good quality food and taste. Store having 2 staff and disappointment with cleanliness and hygiene. Need lot of work to improvement on food safety prospective . I am surprised with charges as for dine in they charge me for bag and wondering what's wrong for dine in also charging which bag they serve food ? Really ? wake up Canada",
+            "published_at": "7 months ago",
+            "published_at_date": "2023-04-14T03:54:40.873000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 3,
+            "total_number_of_reviews_by_reviewer": 223,
+            "total_number_of_photos_by_reviewer": 371,
+            "reviewer_url": "https://www.google.com/maps/contrib/104540548338318842768/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVtWBWdV7FjFeM0fFu07Fk8sm042wHg2xV2ThkLLeCxaSA=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOYJHHFjacShJuTw_PD1qLmZ-GmxObK28BvI32m=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPKR558ysU5NpIqVtX3ZyW5NgbRndlFx2uxDgxy=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPoGQEzroVXv022Wl71O-AtNFIBgkT0HriP1srE=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMIhpuj0cNW0jF-B2tr8-Y4KjCdD9vRCibZ2acG=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOVg2qP39ZhN_Z2Yh1V3KzQWEFMCzhaY8_0-pUT=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNrJZnnuxb6_p1NsVE1dXSbhYrpWzIeYKiMvOJy=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNFd0QyF3a68OpanQjuaP1ez46G3IILgGioowoX=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "1st how can both bathrooms be out of order? With no signs on the doors.\nElderlies were having breakfast & this is a huge inconveniences for them.\n\n2nd time getting breakfast sandwich from A&W.\nI avoided getting the one on a bun because last time it was full of mayonnaise or some greasy substance. It was gross.\nThe sandwich was quite disappointing, first glance.. could the employee try to build it properly? (See pic)\nThe English muffin was not toasted creating a pasty feel while eating.\nThere was margarine on it for extra greasy sandwich.\nI was getting just a sandwich it came in a BG's without asking, it is wasteful not to ask.\n\nHow hard is it to make a breakfast sandwich? I guess Mc Donald's has mastered this since the 60's. So what's the point in encouraging a Canadian company",
+            "reviewer_name": "Steph Pac",
+            "rating": 1,
+            "review_text": "1st how can both bathrooms be out of order? With no signs on the doors.\nElderlies were having breakfast & this is a huge inconveniences for them.\n\n2nd time getting breakfast sandwich from A&W.\nI avoided getting the one on a bun because last time it was full of mayonnaise or some greasy substance. It was gross.\nThe sandwich was quite disappointing, first glance.. could the employee try to build it properly? (See pic)\nThe English muffin was not toasted creating a pasty feel while eating.\nThere was margarine on it for extra greasy sandwich.\nI was getting just a sandwich it came in a BG's without asking, it is wasteful not to ask.\n\nHow hard is it to make a breakfast sandwich? I guess Mc Donald's has mastered this since the 60's. So what's the point in encouraging a Canadian company",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-25T17:07:31.689000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 106,
+            "total_number_of_photos_by_reviewer": 7,
+            "reviewer_url": "https://www.google.com/maps/contrib/101503090752712790686/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJqmVFDkLg-PtJdXHYTuVP3OwbMsYqlcXCh9Cjlhx3X=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNBtiH2o7LhEfWw207Z0rackUr6OUcJxsO8GJZa=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "It was raining and dark out, November 12, at 8 p.m. Not many places open for food on Commercial and Broadway anymore, no one can afford the rent. I wanted dinner, a coffee, and a bathroom The staff refused to let me use the bathroom. It was really raining hard, I really needed the bathroom, but the staff refused. They hung out of order signs on the bathroom doors, and had absolutely no humanity towards me. Fine, I kept my money and left in search of another restaurant that was prepared to treat me as a human being when I paid them money for their services product/services. This is the worst A&W in Vancouver. The staff are rude, the place is dirty.",
+            "reviewer_name": "D St",
+            "rating": 1,
+            "review_text": "It was raining and dark out, November 12, at 8 p.m. Not many places open for food on Commercial and Broadway anymore, no one can afford the rent. I wanted dinner, a coffee, and a bathroom The staff refused to let me use the bathroom. It was really raining hard, I really needed the bathroom, but the staff refused. They hung out of order signs on the bathroom doors, and had absolutely no humanity towards me. Fine, I kept my money and left in search of another restaurant that was prepared to treat me as a human being when I paid them money for their services product/services. This is the worst A&W in Vancouver. The staff are rude, the place is dirty.",
+            "published_at": "3 weeks ago",
+            "published_at_date": "2023-11-13T04:29:18.658000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 4,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/108295980301345268309/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWRu-k4W-8WPCv20CX1GWInUzioR3IPTCcNUrN8jfQOPw=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Ive been coming to the A&W on E Broadway for a while after shift and Sampan always welcomes me with a smile and is very attentive.\n\nHe makes my experience at this location very pleasant and deserve a raise for his humble nature about the way he goes about getting his work done.",
+            "reviewer_name": "Germain Ekra",
+            "rating": 5,
+            "review_text": "Ive been coming to the A&W on E Broadway for a while after shift and Sampan always welcomes me with a smile and is very attentive.\n\nHe makes my experience at this location very pleasant and deserve a raise for his humble nature about the way he goes about getting his work done.",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-20T05:41:17.112000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 5,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/109117263287693628662/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIL2C2fVrE8ugW74Vfv6EmaSjJEF3EHxlB1okCuKqKffw=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "I had the \"teen\" combo. The meal was surprisingly good and tasty. Based on some reviews I did not expect that quality ;-) Anyway the burger was much better than a McDonald's burger.\nThe service was fine. As this was my first time in an A&W I was not familiar with the options, etc... and needed some support which I absolutely got.\nAs noted by many reviewers the location is not clean so I had to use the hand sanitizer to make a table ready for me. It looks like this A&W location is run by only two staff (one taking orders and the other one preparing the food) and since it was quite a busy time no resource could be allocated to cleaning tables, etc. It also took some time to get my order, but again the food was good... and I was certainly not under any time pressure :D",
+            "reviewer_name": "Erick Wisler",
+            "rating": 4,
+            "review_text": "I had the \"teen\" combo. The meal was surprisingly good and tasty. Based on some reviews I did not expect that quality ;-) Anyway the burger was much better than a McDonald's burger.\nThe service was fine. As this was my first time in an A&W I was not familiar with the options, etc... and needed some support which I absolutely got.\nAs noted by many reviewers the location is not clean so I had to use the hand sanitizer to make a table ready for me. It looks like this A&W location is run by only two staff (one taking orders and the other one preparing the food) and since it was quite a busy time no resource could be allocated to cleaning tables, etc. It also took some time to get my order, but again the food was good... and I was certainly not under any time pressure :D",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-24T03:17:44.717000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 28,
+            "total_number_of_photos_by_reviewer": 33,
+            "reviewer_url": "https://www.google.com/maps/contrib/100908508259776444274/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXN8xL6w5giwNSaMKAOwzq4qx57Zodcla0-NuXPCxV3Nu0=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "I go there often and I'm always received with a big smile and a friendly greeting from the staff. They put close attention to the details of my order and it's always accurate. I really special thanks to the lovely lady prepping the food, who's super friendly and a huge gratitude cheer to the whole staff who's always attentive and does a terrific job every single day.",
+            "reviewer_name": "Enrique SaaGogs",
+            "rating": 5,
+            "review_text": "I go there often and I'm always received with a big smile and a friendly greeting from the staff. They put close attention to the details of my order and it's always accurate. I really special thanks to the lovely lady prepping the food, who's super friendly and a huge gratitude cheer to the whole staff who's always attentive and does a terrific job every single day.",
+            "published_at": "6 months ago",
+            "published_at_date": "2023-06-02T15:43:23.311000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 76,
+            "total_number_of_photos_by_reviewer": 18,
+            "reviewer_url": "https://www.google.com/maps/contrib/108875677583135426649/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVSwkkRRz-lGTvU1t4F-MHRaKCa2KF7cFCCn7JDCeuUAPXS=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "I was more than enthusiastic to try some quintessential Canadian Take-out. Eager, me and my girlfriend were instantly met with uninterested and unhelpful service, the menu and meal deals being vague, the questions we asked were met with grunts and unhelpful remarks, the original cashier walked off on us before being replaced by another who wasn't much better. The overall order was wrong and the quality, lacklustre. We've had more affable interactions at McDonalds. The only thing worthy of consuming was the radioactive dip.",
+            "reviewer_name": "Piers Naisbitt",
+            "rating": 1,
+            "review_text": "I was more than enthusiastic to try some quintessential Canadian Take-out. Eager, me and my girlfriend were instantly met with uninterested and unhelpful service, the menu and meal deals being vague, the questions we asked were met with grunts and unhelpful remarks, the original cashier walked off on us before being replaced by another who wasn't much better. The overall order was wrong and the quality, lacklustre. We've had more affable interactions at McDonalds. The only thing worthy of consuming was the radioactive dip.",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-08-02T03:40:36.639000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 5,
+            "total_number_of_photos_by_reviewer": 4,
+            "reviewer_url": "https://www.google.com/maps/contrib/106835103620722565392/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUFb3HFkKxZMENn9IDsi-wtsDr_UEWGQYHmLX_56CVanw=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

@@ -1,4 +1,3 @@
-
 import * as Yup from 'yup';
 import { useFormik } from 'formik';
 import Alert from '@mui/material/Alert';
@@ -11,28 +10,20 @@ import Link from '@mui/material/Link';
 import Stack from '@mui/material/Stack';
 import TextField from '@mui/material/TextField';
 import Typography from '@mui/material/Typography';
-import { useState } from 'react';
-import { RouterLink } from 'src/src2/components/router-link';
-import { Seo } from 'src/src2/components/seo';
-import { GuestGuard } from 'src/src2/guards/guest-guard';
-import { IssuerGuard } from 'src/src2/guards/issuer-guard';
-import { useAuth } from 'src/src2/hooks/use-auth';
-import { useMounted } from 'src/src2/hooks/use-mounted';
-import { usePageView } from 'src/src2/hooks/use-page-view';
-import { useRouter } from 'src/src2/hooks/use-router';
-import { useSearchParams } from 'src/src2/hooks/use-search-params';
-import AuthStyleLayout  from 'src/pages/authStyle';
+
+import { RouterLink } from 'src/components/router-link';
+import { Seo } from 'src/components/seo';
+import { GuestGuard } from 'src/guards/guest-guard';
+import { IssuerGuard } from 'src/guards/issuer-guard';
+import { useAuth } from 'src/hooks/use-auth';
+import { useMounted } from 'src/hooks/use-mounted';
+import { usePageView } from 'src/hooks/use-page-view';
+import { useRouter } from 'src/hooks/use-router';
+import { useSearchParams } from 'src/hooks/use-search-params';
+import { Layout as AuthLayout } from 'src/layouts/auth/modern-layout';
 import { paths } from 'src/paths';
-import { AuthIssuer } from 'src/src2/sections/auth/auth-issuer';
-import { Issuer } from 'src/src2/utils/auth';
-// Import the API handler functions from bundle.js
-import { apiHandler } from 'src/api/bundle'; // Replace with the correct relative path to bundle.js
-import CustomSnackbar  from '../components/snack';
-import { useTheme } from '@mui/system';
-import { toast } from 'react-hot-toast';
-
-
-
+import { AuthIssuer } from 'src/sections/auth/auth-issuer';
+import { Issuer } from 'src/utils/auth';
 
 const initialValues = {
   email: '',
@@ -46,59 +37,32 @@ const validationSchema = Yup.object({
 });
 
 const Page = () => {
-  const theme = useTheme();
-  const [snackbarOpen, setSnackbarOpen] = useState(false);
-  const [snackbarMessage, setSnackbarMessage] = useState('');
-  const [snackbarSeverity, setSnackbarSeverity] = useState('info');
+  const isMounted = useMounted();
   const router = useRouter();
   const searchParams = useSearchParams();
   const returnTo = searchParams.get('returnTo');
-  const { issuer } = useAuth(); // Assuming useAuth provides a login method
-  const isMounted = useMounted();
+  const { issuer, signIn } = useAuth();
   const formik = useFormik({
-
     initialValues,
     validationSchema,
     onSubmit: async (values, helpers) => {
       try {
-        const response = await apiHandler.handleLogin(values.email, values.password);
-        if (response.success && isMounted()) {
-          setSnackbarMessage(response.message || 'Success!');
-          toast.success('Success!')
-          setSnackbarSeverity(``);
-          setSnackbarOpen(true);
-          setTimeout(() => {
-            setSnackbarOpen(false);
-            router.push(returnTo || paths.index);
-          }, 3000);
-        } else {
+        await signIn(values.email, values.password);
 
-          setSnackbarMessage(response.error || 'Login failed');
-          setSnackbarSeverity('error');
-          setSnackbarOpen(true);
-          helpers.setStatus({ success: false });
-          helpers.setErrors({ submit: response.error });
+        if (isMounted()) {
+          router.push(returnTo || paths.index);
         }
       } catch (err) {
         console.error(err);
-        setSnackbarMessage(err.message || 'An error occurred');
-        setSnackbarSeverity('error');
-        setSnackbarOpen(true);
-        helpers.setStatus({ success: false });
-        helpers.setErrors({ submit: err.message });
-      } finally {
-        helpers.setSubmitting(false);
+
+        if (isMounted()) {
+          helpers.setStatus({ success: false });
+          helpers.setErrors({ submit: err.message });
+          helpers.setSubmitting(false);
+        }
       }
     },
   });
-
-  const handleCloseSnackbar = (event, reason) => {
-    if (reason === 'clickaway') {
-      return;
-    }
-    setSnackbarOpen(false);
-  };
-
 
   usePageView();
 
@@ -116,7 +80,7 @@ const Page = () => {
                 Don&apos;t have an account? &nbsp;
                 <Link
                   component={RouterLink}
-                  href={paths.register}
+                  href={paths.auth.jwt.register}
                   underline="hover"
                   variant="subtitle2"
                 >
@@ -133,14 +97,6 @@ const Page = () => {
               onSubmit={formik.handleSubmit}
             >
               <Stack spacing={3}>
-              <CustomSnackbar
-        open={snackbarOpen}
-autoHideDuration={2000}
-onClose={() => setSnackbarOpen(false)}
-        handleClose={handleCloseSnackbar}
-        message={snackbarMessage}
-        severity={snackbarSeverity}
-      />
                 <TextField
                   autoFocus
                   error={!!(formik.touched.email && formik.errors.email)}
@@ -190,7 +146,11 @@ onClose={() => setSnackbarOpen(false)}
           spacing={3}
           sx={{ mt: 3 }}
         >
-
+          <Alert severity="error">
+            <div>
+              You can use <b>demo@devias.io</b> and password <b>Password123!</b>
+            </div>
+          </Alert>
           <AuthIssuer issuer={issuer} />
         </Stack>
       </div>
@@ -201,7 +161,7 @@ onClose={() => setSnackbarOpen(false)}
 Page.getLayout = (page) => (
   <IssuerGuard issuer={Issuer.JWT}>
     <GuestGuard>
-      <AuthStyleLayout>{page}</AuthStyleLayout>
+      <AuthLayout>{page}</AuthLayout>
     </GuestGuard>
   </IssuerGuard>
 );

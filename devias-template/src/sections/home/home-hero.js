@@ -7,10 +7,10 @@ import Rating from '@mui/material/Rating';
 import Stack from '@mui/material/Stack';
 import SvgIcon from '@mui/material/SvgIcon';
 import Typography from '@mui/material/Typography';
-import { useTheme } from '@mui/system';
+import { useTheme } from '@mui/material/styles';
 
-import { RouterLink } from 'src/src2/components/router-link';
-import { paths } from 'src/src2/paths';
+import { RouterLink } from 'src/components/router-link';
+import { paths } from 'src/paths';
 
 import { HomeCodeSamples } from './home-code-samples';
 

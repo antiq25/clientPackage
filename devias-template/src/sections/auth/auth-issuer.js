@@ -1,19 +1,18 @@
 import PropTypes from 'prop-types';
 import Box from '@mui/material/Box';
 import Link from '@mui/material/Link';
-import Card from '@mui/material/Card';
 import Stack from '@mui/material/Stack';
 import Tooltip from '@mui/material/Tooltip';
 import Typography from '@mui/material/Typography';
-import { AccountPlanIcon } from 'src/components/account-plan-icon';
+
 import { paths } from 'src/paths';
-import { Logo } from 'src/components/logo'
 
 const issuers = {
-  'Auth0': 'https://cdn.auth0.com/styleguide/components/1.0.9/media/logos/img/badge.png',
+  Amplify: '/assets/logos/logo-amplify.svg',
+  Auth0: '/assets/logos/logo-auth0.svg',
+  Firebase: '/assets/logos/logo-firebase.svg',
+  JWT: '/assets/logos/logo-jwt.svg',
 };
-
-
 
 export const AuthIssuer = (props) => {
   const { issuer: currentIssuer } = props;
@@ -32,6 +31,7 @@ export const AuthIssuer = (props) => {
       }}
     >
       <Typography variant="body2">
+        Visit our{' '}
         <Link
           component="a"
           href={paths.docs}
@@ -39,8 +39,9 @@ export const AuthIssuer = (props) => {
           underline="hover"
           variant="subtitle2"
         >
-         
+          docs
         </Link>{' '}
+        and find out how to switch between
       </Typography>
       <Stack
         alignItems="center"
@@ -57,12 +58,18 @@ export const AuthIssuer = (props) => {
               key={issuer}
               title={issuer}
             >
-              <Box />
-              <Card>
-                <Logo />
-                <Logo />
-                <Logo />
-              </Card>
+              <Box
+                component="img"
+                src={icon}
+                sx={{
+                  height: 30,
+                  '&:not(:hover)': {
+                    ...(!isCurrent && {
+                      filter: 'grayscale(100%)',
+                    }),
+                  },
+                }}
+              />
             </Tooltip>
           );
         })}

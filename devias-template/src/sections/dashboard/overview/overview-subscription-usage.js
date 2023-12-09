@@ -4,9 +4,9 @@ import Card from '@mui/material/Card';
 import CardHeader from '@mui/material/CardHeader';
 import Tab from '@mui/material/Tab';
 import Tabs from '@mui/material/Tabs';
-import { useTheme } from '@mui/system';
+import { useTheme } from '@mui/material/styles';
 
-import { Chart } from 'src/src2/components/chart';
+import { Chart } from 'src/components/chart';
 
 const useChartOptions = () => {
   const theme = useTheme();

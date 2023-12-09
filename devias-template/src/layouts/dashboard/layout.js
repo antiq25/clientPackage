@@ -1,12 +1,13 @@
 import PropTypes from 'prop-types';
 
-// import { withAuthGuard } from 'src/src2/hocs/with-auth-guard';
+import { withAuthGuard } from 'src/hocs/with-auth-guard';
 import { useSettings } from 'src/hooks/use-settings';
-import { useSections } from 'src/layouts/dashboard/config';
-import { HorizontalLayout } from 'src/layouts/dashboard/horizontal-layout';
-import { VerticalLayout } from 'src/layouts/dashboard/vertical-layout';
 
-export const Layout =((props) => {
+import { useSections } from './config';
+import { HorizontalLayout } from './horizontal-layout';
+import { VerticalLayout } from './vertical-layout';
+
+export const Layout = withAuthGuard((props) => {
   const settings = useSettings();
   const sections = useSections();
 

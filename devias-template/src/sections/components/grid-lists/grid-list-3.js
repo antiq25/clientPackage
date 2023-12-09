@@ -14,7 +14,7 @@ import SvgIcon from '@mui/material/SvgIcon';
 import Tooltip from '@mui/material/Tooltip';
 import Typography from '@mui/material/Typography';
 
-import { bytesToSize } from 'src/src2/utils/bytes-to-size';
+import { bytesToSize } from 'src/utils/bytes-to-size';
 
 const files = [
   {

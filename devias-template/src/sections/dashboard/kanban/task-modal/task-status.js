@@ -6,7 +6,7 @@ import ButtonGroup from '@mui/material/ButtonGroup';
 import MenuItem from '@mui/material/MenuItem';
 import Popover from '@mui/material/Popover';
 
-import { usePopover } from 'src/src2/hooks/use-popover';
+import { usePopover } from 'src/hooks/use-popover';
 
 export const TaskStatus = (props) => {
   const { onChange, options = [], value } = props;

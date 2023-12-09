@@ -3,7 +3,7 @@ import Button from '@mui/material/Button';
 import TextField from '@mui/material/TextField';
 import Typography from '@mui/material/Typography';
 
-import { QuillEditor } from 'src/src2/components/quill-editor';
+import { QuillEditor } from 'src/components/quill-editor';
 
 export const Form10 = () => (
   <Box sx={{ p: 3 }}>

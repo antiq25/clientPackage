@@ -52,15 +52,15 @@ model DetailedReview {
 }
 
 model Widget {
-  id         String   @id @default(uuid())
-  createdAt DateTime @default(now()) // Add this line if you want to track when the record was created
-  updatedAt DateTime @updatedAt // Add this line if you want to track when the record was last updated
-  businessId String   @unique // This line marks 'businessId' as unique
-  business   Business @relation(fields: [businessId], references: [id])
-  userId     String? // Reference to the User ID from the other database
-  name       String
-  code       String
-  settings   String
-  viewCount  String
-  clickCount String
+  id          String   @id @default(uuid())
+  createdAt   DateTime @default(now()) // Tracks when the record was created
+  updatedAt   DateTime @updatedAt // Tracks when the record was last updated
+  businessId  String   // Foreign key for the Business model
+  business    Business @relation(fields: [businessId], references: [id])
+  userId      String?  // Optional reference to the User ID (if the widget is associated with a user)
+  name        String   // Name of the widget
+  code        String   // A unique code for the widget
+  settings    String   // JSON string or other settings related to the widget
+  viewCount   Int      // Number of views (converted to Int)
+  clickCount  Int      // Number of clicks (converted to Int)
 }

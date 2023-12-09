@@ -1,40 +1,13 @@
 import React from 'react';
 import CircularProgress from '@mui/material/CircularProgress';
 import Typography from '@mui/material/Typography';
-import Grid from '@mui/material/Grid';
+import Box from '@mui/material/Box';
 import { useReviews } from 'src/components/company_card/ReviewsDataProvider';
 import { CompanyCard } from 'src/sections/dashboard/jobs/company-card';
-import WidgetsList from 'src/components/company_card/WidgetCardList';
-import { useState, useEffect } from 'react';
-import useUser  from 'src/hooks/decode';
-
 
 const BusinessNamesList = () => {
     const { isLoading, error, reviews } = useReviews();
-    const { widgetsData, setWidgetsData } = useState([]);
-    const userId = useUser();
-
-     const fetchUserWidgets = async () => {
-    try {
-      const response = await axios.get(`http://localhost:3002/scrape/user-widgets`, {
-        headers: {
-          'Authorization': `Bearer ${localStorage.getItem('token')}`,
-        },
-      });
-      setWidgetsData(response.data);
-    } catch (error) {
-      console.error('Error fetching widgets', error);
-    }
-  };
-
-  useEffect(() => {
-    if (userId) {
-      fetchUserWidgets();
-    }
-  }, [userId]);
-
-    console.log(widgetsData);
-
+    
     if (isLoading) {
         return <CircularProgress />;
     }
@@ -72,27 +45,23 @@ const BusinessNamesList = () => {
         business.averageRating = (business.averageRating / business.reviewCount).toFixed(1);
     });
 
-
-                
-    
-
     return (
-        <Grid item key={widget.id} xs={12} sm={6} md={4}>
-        {widgetsData.map((widget) => (
+        <Box sx={{ display: 'flex', flexWrap: 'wrap', gap: 2 }}>
+            {Object.values(uniqueBusinesses).map((business) => (
                 <CompanyCard
-                    key={widget.id}
+                    key={business.id}
                     company={{
-                        name: widget.business.name,
-                        shortDescription: widget.widgetDescription,
-                        logo: widget.widgetLogo,
-                        employees: widget.widgetEmployees,
-                        averageRating: widget.widgetRating,
-                        isVerified: true,
-                        jobs: [],
+                        name: business.name,
+                        shortDescription: business.mainCategory || 'No description available', // Use mainCategory as a short description
+                        logo: business.featuredImage,
+                        employees: 'N/A', // Placeholder as employees data is not available
+                        averageRating: business.averageRating,
+                        isVerified: business.isSpendingOnAds, // Assuming isSpendingOnAds indicates verification
+                        jobs: [], // Placeholder as job data is not available
                     }}
                 />
             ))}
-        </Grid>
+        </Box>
     );
 };
 

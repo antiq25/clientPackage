@@ -13,7 +13,7 @@ import Chip from '@mui/material/Chip';
 import Stack from '@mui/material/Stack';
 import SvgIcon from '@mui/material/SvgIcon';
 import Typography from '@mui/material/Typography';
-import { useSelector } from 'src/src2/store';
+import { useSelector } from 'src/store';
 
 const useTask = (taskId) => {
   return useSelector((state) => {

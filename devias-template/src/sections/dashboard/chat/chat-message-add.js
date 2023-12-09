@@ -11,7 +11,7 @@ import Stack from '@mui/material/Stack';
 import SvgIcon from '@mui/material/SvgIcon';
 import Tooltip from '@mui/material/Tooltip';
 
-import { useMockedUser } from 'src/src2/hooks/use-mocked-user';
+import { useMockedUser } from 'src/hooks/use-mocked-user';
 
 export const ChatMessageAdd = (props) => {
   const { disabled = false, onSend, ...other } = props;

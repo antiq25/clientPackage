@@ -6,7 +6,7 @@ import CardHeader from '@mui/material/CardHeader';
 import LinearProgress from '@mui/material/LinearProgress';
 import Stack from '@mui/material/Stack';
 import Typography from '@mui/material/Typography';
-import { useTheme } from '@mui/system';
+import { useTheme } from '@mui/material/styles';
 
 import { EcommerceWorldMap } from './ecommerce-world-map';
 

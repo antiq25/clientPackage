@@ -13,9 +13,9 @@ import Switch from '@mui/material/Switch';
 import TextField from '@mui/material/TextField';
 import Typography from '@mui/material/Typography';
 
-import { RouterLink } from 'src/src2/components/router-link';
-import { paths } from 'src/src2/paths';
-import { wait } from 'src/src2/utils/wait';
+import { RouterLink } from 'src/components/router-link';
+import { paths } from 'src/paths';
+import { wait } from 'src/utils/wait';
 
 export const CustomerEditForm = (props) => {
   const { customer, ...other } = props;

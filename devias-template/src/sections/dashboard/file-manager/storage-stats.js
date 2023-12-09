@@ -13,11 +13,11 @@ import ListItemText from '@mui/material/ListItemText';
 import Stack from '@mui/material/Stack';
 import SvgIcon from '@mui/material/SvgIcon';
 import Typography from '@mui/material/Typography';
-import { useTheme } from '@mui/system';
+import { useTheme } from '@mui/material/styles';
 
-import { Chart } from 'src/src2/components/chart';
-import { FileIcon } from 'src/src2/components/file-icon';
-import { bytesToSize } from 'src/src2/utils/bytes-to-size';
+import { Chart } from 'src/components/chart';
+import { FileIcon } from 'src/components/file-icon';
+import { bytesToSize } from 'src/utils/bytes-to-size';
 
 const useChartOptions = (usage) => {
   const theme = useTheme();

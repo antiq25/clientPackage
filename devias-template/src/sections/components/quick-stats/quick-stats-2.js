@@ -8,167 +8,196 @@ import LinearProgress from '@mui/material/LinearProgress';
 import Stack from '@mui/material/Stack';
 import SvgIcon from '@mui/material/SvgIcon';
 import Typography from '@mui/material/Typography';
-import { useState, useEffect } from 'react';
-import { SeverityPill } from 'src/src2/components/severity-pill';
-import { useApi } from 'src/components/company_card/apiWidget'; // Make sure to use the correct path to import useApi
 
-export const QuickStats2 = () => {
-  const { logView, logClick, getViewCount, getClickCount } = useApi();
-  const [viewCount, setViewCount] = useState(0);
-  const [clickCount, setClickCount] = useState(0);
-  const [conversionRate, setConversionRate] = useState(0);
+import { SeverityPill } from 'src/components/severity-pill';
 
-  useEffect(() => {
-    logView();
-    (async () => {
-      try {
-        const viewCountData = await getViewCount();
-        const clickCountData = await getClickCount();
-        setViewCount(viewCountData);
-        setClickCount(clickCountData);
-        if (viewCountData > 0) {
-          setConversionRate((clickCountData / viewCountData) * 100);
-        }
-      } catch (error) {
-        console.error('Error fetching counts:', error);
-      }
-    })();
-  }, [logView, getViewCount, getClickCount]);
-
-  return (
-    <Box
-      sx={{
-        justifyContent: 'center',
-        alignItems: 'center',
-        p: 1,
-      }}
+export const QuickStats2 = () => (
+  <Box
+    sx={{
+      backgroundColor: (theme) => (theme.palette.mode === 'dark' ? 'neutral.800' : 'neutral.100'),
+      p: 3,
+    }}
+  >
+    <Grid
+      container
+      spacing={3}
     >
       <Grid
-        container
-        spacing={3}
+        xs={12}
+        md={6}
+        lg={3}
       >
-        <Grid
-          xs={12}
-          md={4}
-        >
-          <Card>
-            <Stack
-              alignItems="center"
-              direction="row"
-              sx={{ p: 3 }}
-              spacing={3}
-            >
-              <Stack
-                spacing={1}
-                sx={{ flexGrow: 1 }}
-              >
-                <Typography
-                  color="text.secondary"
-                  variant="overline"
-                >
-                  Click&apos;s
-                </Typography>
-                <Stack
-                  alignItems="center"
-                  direction="row"
-                  spacing={1}
-                >
-                  <Typography variant="h5">{clickCount}</Typography>
-                  {/* Removed SeverityPill for conversion rate as it will be rendered below */}
-                </Stack>
-              </Stack>
-              <Avatar
-                sx={{
-                  backgroundColor: 'primary.main',
-                  color: 'primary.contrastText',
-                  height: 48,
-                  width: 48,
-                }}
-              >
-                <SvgIcon>
-                  <CurrencyDollarIcon />
-                </SvgIcon>
-              </Avatar>
-            </Stack>
-          </Card>
-        </Grid>
-        <Grid
-          xs={12}
-          md={4}
-        >
-          <Card>
-            <Stack
-              alignItems="center"
-              direction="row"
-              sx={{ p: 3 }}
-              spacing={2}
-            >
-              <Stack
-                spacing={1}
-                sx={{ flexGrow: 1 }}
-              >
-                <Typography
-                  color="text.secondary"
-                  variant="overline"
-                >
-                  View&apos;s
-                </Typography>
-                <Stack
-                  alignItems="center"
-                  direction="row"
-                  spacing={1}
-                >
-                  <Typography variant="h5">{viewCount}</Typography>
-                </Stack>
-              </Stack>
-              <Avatar
-                sx={{
-                  backgroundColor: 'primary.main',
-                  color: 'primary.contrastText',
-                  height: 48,
-                  width: 48,
-                }}
-              >
-                <SvgIcon>
-                  <FolderIcon />
-                </SvgIcon>
-              </Avatar>
-            </Stack>
-          </Card>
-        </Grid>
-
-        <Grid
-          xs={12}
-          md={4}
-        >
-          <Card>
+        <Card>
+          <Stack
+            alignItems="center"
+            direction="row"
+            spacing={2}
+            sx={{ p: 3 }}
+          >
             <Stack
               spacing={1}
-              sx={{ p: 3 }}
+              sx={{ flexGrow: 1 }}
             >
               <Typography
                 color="text.secondary"
                 variant="overline"
               >
-                Conversion Rate
+                Today&apos;s money
               </Typography>
               <Stack
                 alignItems="center"
                 direction="row"
                 spacing={1}
               >
-                <Typography variant="h5">{conversionRate.toFixed(2)}%</Typography>
-                <LinearProgress
-                  color="primary"
-                  sx={{ flexGrow: 1 }}
-                  value={conversionRate}
-                  variant="determinate"
-                />
+                <Typography variant="h5">$24,000</Typography>
+                <SeverityPill color="success">4%</SeverityPill>
               </Stack>
             </Stack>
-          </Card>
-        </Grid>
+            <Avatar
+              sx={{
+                backgroundColor: 'primary.main',
+                color: 'primary.contrastText',
+                height: 48,
+                width: 48,
+              }}
+            >
+              <SvgIcon>
+                <CurrencyDollarIcon />
+              </SvgIcon>
+            </Avatar>
+          </Stack>
+        </Card>
       </Grid>
-    </Box>
-  );
-};
+      <Grid
+        xs={12}
+        md={6}
+        lg={3}
+      >
+        <Card>
+          <Stack
+            alignItems="center"
+            direction="row"
+            spacing={2}
+            sx={{ p: 3 }}
+          >
+            <Stack
+              spacing={1}
+              sx={{ flexGrow: 1 }}
+            >
+              <Typography
+                color="text.secondary"
+                variant="overline"
+              >
+                New projects
+              </Typography>
+              <Stack
+                alignItems="center"
+                direction="row"
+                spacing={1}
+              >
+                <Typography variant="h5">12</Typography>
+                <SeverityPill color="error">-10%</SeverityPill>
+              </Stack>
+            </Stack>
+            <Avatar
+              sx={{
+                backgroundColor: 'primary.main',
+                color: 'primary.contrastText',
+                height: 48,
+                width: 48,
+              }}
+            >
+              <SvgIcon>
+                <FolderIcon />
+              </SvgIcon>
+            </Avatar>
+          </Stack>
+        </Card>
+      </Grid>
+      <Grid
+        xs={12}
+        md={6}
+        lg={3}
+      >
+        <Card>
+          <Stack
+            spacing={1}
+            sx={{ p: 3 }}
+          >
+            <Typography
+              color="text.secondary"
+              variant="overline"
+            >
+              System Health
+            </Typography>
+            <Stack
+              alignItems="center"
+              direction="row"
+              spacing={1}
+            >
+              <Typography variant="h5">74%</Typography>
+              <LinearProgress
+                color="primary"
+                sx={{ flexGrow: 1 }}
+                value={74}
+                variant="determinate"
+              />
+            </Stack>
+          </Stack>
+        </Card>
+      </Grid>
+      <Grid
+        xs={12}
+        md={6}
+        lg={3}
+      >
+        <Card
+          sx={{
+            alignItems: 'center',
+            backgroundColor: 'primary.main',
+            color: 'primary.contrastText',
+            display: 'flex',
+            justifyContent: 'space-between',
+          }}
+        >
+          <Stack
+            alignItems="center"
+            direction="row"
+            spacing={2}
+            sx={{ p: 3 }}
+          >
+            <Stack
+              spacing={1}
+              sx={{ flexGrow: 1 }}
+            >
+              <Typography
+                color="inherit"
+                variant="overline"
+              >
+                Roi per customer
+              </Typography>
+              <Typography
+                color="inherit"
+                variant="h5"
+              >
+                $25.50
+              </Typography>
+            </Stack>
+            <Avatar
+              sx={{
+                backgroundColor: 'primary.contrastText',
+                color: 'primary.main',
+                height: 48,
+                width: 48,
+              }}
+            >
+              <SvgIcon>
+                <CurrencyDollarIcon />
+              </SvgIcon>
+            </Avatar>
+          </Stack>
+        </Card>
+      </Grid>
+    </Grid>
+  </Box>
+);

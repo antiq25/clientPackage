@@ -1,0 +1,258 @@
+{
+    "place_id": "ChIJU7iBTLV4hlQRJ6nXdv_ujpU",
+    "name": "Loblaw Pharmacy",
+    "description": null,
+    "reviews": 5,
+    "website": "https://www.realcanadiansuperstore.ca/pharmacy%3FstoreId%3D1526%26utm_source%3DG%26utm_medium%3DLPM%26utm_campaign%3DLoblaws",
+    "owner": {
+        "id": "112213856429071159658",
+        "name": "Loblaw Pharmacy (Owner)",
+        "link": "https://www.google.com/maps/contrib/112213856429071159658"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=VNjRBZ3PAIguW6pLUmS87g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=309.88455&pitch=0&thumbfov=100",
+    "main_category": "Pharmacy",
+    "categories": [
+        "Pharmacy",
+        "Drug store"
+    ],
+    "rating": 1.8,
+    "workday_timing": "9 a.m.-10 p.m.",
+    "closed_on": [],
+    "phone": "(604) 468-6735",
+    "address": "Loblaw Pharmacy, 3000 Lougheed Hwy., Coquitlam, BC V3B 1C5",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/Loblaw+Pharmacy/data=!4m7!3m6!1s0x548678b54c81b853:0x958eeeff76d7a927!8m2!3d49.273555!4d-122.7933009!16s%2Fg%2F11f52vbjmc!19sChIJU7iBTLV4hlQRJ6nXdv_ujpU?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 9 a.m.",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 4,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJU7iBTLV4hlQRJ6nXdv_ujpU&q=Loblaw+Pharmacy&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.273554999999995,
+        "longitude": -122.79330089999999
+    },
+    "plus_code": "76F4+CM Coquitlam, British Columbia",
+    "detailed_address": {
+        "ward": null,
+        "street": "3000 Lougheed Hwy.",
+        "city": "Coquitlam",
+        "postal_code": "V3B 1C5",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "10776813739322091815",
+    "data_id": "0x548678b54c81b853:0x958eeeff76d7a927",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "In-store pickup",
+                    "enabled": true
+                },
+                {
+                    "name": "In-store shopping",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=VNjRBZ3PAIguW6pLUmS87g&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=309.86172&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=VNjRBZ3PAIguW6pLUmS87g&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=309.86172&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "9 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "9 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "9 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "9 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "9 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "9 a.m.-7 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "9 a.m.-7 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "Been using this pharmacy since YIG closed in December 2020. The service is terrible. Prescriptions rarely ready on time (even when phoned in days in advance), always a long, slow line up, and there's no care for privacy. All of my medications were laid out directly in front of another customer today because only one of the 2 tills actually has a debit machine (so much for medical confidentiality). It was the last straw for me - I will never fill another prescription here again.",
+            "reviewer_name": "kvmc 87",
+            "rating": 1,
+            "review_text": "Been using this pharmacy since YIG closed in December 2020. The service is terrible. Prescriptions rarely ready on time (even when phoned in days in advance), always a long, slow line up, and there's no care for privacy. All of my medications were laid out directly in front of another customer today because only one of the 2 tills actually has a debit machine (so much for medical confidentiality). It was the last straw for me - I will never fill another prescription here again.",
+            "published_at": "10 months ago",
+            "published_at_date": "2023-01-21T00:56:25.406000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 27,
+            "total_number_of_photos_by_reviewer": 47,
+            "reviewer_url": "https://www.google.com/maps/contrib/111012626615001327160/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXHk1HlBEWNxPEdcquZcJg4Rasq6S5h94rrPFO3BBXqjEUl=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "STAY AWAY!  They do not even notify customers when they receive a prescription or even when customer's medication is sitting in their shelves and ready for pick up.   Poor customer service.\n\nOrdered 3 months worth of medication and at least 3 weeks worth of the med they gave expires next week ... seriously?!?! I went back to get it changed and they did but all that trouble just because some staff didn't do their job!\n\nCheck their white lab gowns - the one that pharmacists and staff should wear during their work hours - it seems they don't wash them and staff just takes turn taking them out of their closet to wear without even looking if its clean or not.  Try looking at it when you are paying or submitting your Rx, seems like the last time it has seen the washing machine was eons ago or has it even seen one?",
+            "reviewer_name": "Jaclyn Co",
+            "rating": 1,
+            "review_text": "STAY AWAY!  They do not even notify customers when they receive a prescription or even when customer's medication is sitting in their shelves and ready for pick up.   Poor customer service.\n\nOrdered 3 months worth of medication and at least 3 weeks worth of the med they gave expires next week ... seriously?!?! I went back to get it changed and they did but all that trouble just because some staff didn't do their job!\n\nCheck their white lab gowns - the one that pharmacists and staff should wear during their work hours - it seems they don't wash them and staff just takes turn taking them out of their closet to wear without even looking if its clean or not.  Try looking at it when you are paying or submitting your Rx, seems like the last time it has seen the washing machine was eons ago or has it even seen one?",
+            "published_at": "a year ago",
+            "published_at_date": "2022-09-21T23:25:38.945000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 4,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/110267816498776319790/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocK2mW6bfBy-2EhUVnIt88OnW1AY4xU2ppEO-uqj3nIC=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Eight people working and nobody to help...",
+            "reviewer_name": "Klaudia Dlugolecka",
+            "rating": 1,
+            "review_text": "Eight people working and nobody to help...",
+            "published_at": "a year ago",
+            "published_at_date": "2022-10-27T04:35:06.504000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/108095207787663000481/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocK9rmF8HR4xe69KEclXSOGMdUELwKbIflHP0s5uzDPs=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Nalaka Illuppella",
+            "rating": 1,
+            "review_text": null,
+            "published_at": "a year ago",
+            "published_at_date": "2022-06-11T22:24:02.574000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 190,
+            "total_number_of_photos_by_reviewer": 434,
+            "reviewer_url": "https://www.google.com/maps/contrib/104933552889961396652/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXWzC1_gkhITWd7ZK0WYCzh8bnKM4qCD8CEyE7up4lCyIo=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Steven Solivan",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "a year ago",
+            "published_at_date": "2022-04-30T23:48:54.699000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 70,
+            "total_number_of_photos_by_reviewer": 344,
+            "reviewer_url": "https://www.google.com/maps/contrib/100131170324940324443/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXS-kabknc6yLUVKoZOwo1ETTwPhNYgcyX-rnUNvohbJ7Y=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

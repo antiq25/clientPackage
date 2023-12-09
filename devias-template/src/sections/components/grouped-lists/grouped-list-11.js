@@ -8,7 +8,7 @@ import TableBody from '@mui/material/TableBody';
 import TableCell from '@mui/material/TableCell';
 import TableRow from '@mui/material/TableRow';
 import Typography from '@mui/material/Typography';
-import { SeverityPill } from 'src/src2/components/severity-pill';
+import { SeverityPill } from 'src/components/severity-pill';
 
 const campaigns = [
   {

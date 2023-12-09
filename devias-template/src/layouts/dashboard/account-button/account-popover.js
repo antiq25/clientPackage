@@ -12,151 +12,178 @@ import ListItemText from '@mui/material/ListItemText';
 import Popover from '@mui/material/Popover';
 import SvgIcon from '@mui/material/SvgIcon';
 import Typography from '@mui/material/Typography';
-import { RouterLink } from 'src/src2/components/router-link';
+import { RouterLink } from 'src/components/router-link';
 import { useRouter } from 'src/hooks/use-router';
 import { paths } from 'src/paths';
-import useLogout from 'src/hooks/logout';
-import useUser from 'src/hooks/decode';
-import { apiHandler } from 'src/api/bundle';
+import { Issuer } from 'src/utils/auth';
+import { useAuth } from 'src/hooks/use-auth';
+import { useApi } from 'src/components/company_card/ApiProvider';
 import { useState, useEffect, useCallback } from 'react';
 import React from 'react';
 
 export const AccountPopover = (props) => {
   const { anchorEl, onClose, open, ...other } = props;
   const router = useRouter();
-  const logout = useLogout(); // This hook should encapsulate the logout logic
-  const user = useUser();
+  const auth = useAuth();
+  const { smsAPI } = useApi();
+
   const [userInfo, setUserInfo] = useState({ firstName: '', lastName: '', email: '' });
-  const getUserInfo = async () => {
-    try {
-      const response = await apiHandler.handleGetProfile();
-      if (response.success) {
-        // Notice how we are now accessing the profile property of the response data
-        setUserInfo(response.data.profile);
-      } else {
-        toast.error('Failed to fetch profile information.');
+
+  useEffect(() => {
+    const getUserInfo = async () => {
+      try {
+        const response = await smsAPI.getProfile();
+        if (response.success) {
+          // Notice how we are now accessing the profile property of the response data
+          setUserInfo(response.data.profile);
+        } else {
+          toast.error('Failed to fetch profile information.');
+        }
+      } catch (error) {
+        console.error('Error fetching profile information:', error);
+        toast.error('An error occurred while fetching profile information.');
       }
-    } catch (error) {
-      console.error('Error fetching profile information:', error);
-      toast.error('An error occurred while fetching profile information.');
-    }
-  };
+    };
+
+    getUserInfo();
+  }, [smsAPI]);
 
   const handleLogout = useCallback(async () => {
     try {
       onClose?.();
-      await logout(); // Call the logout function provided by the useLogout hook
-      toast.success('Logout successful!');
-      router.push(paths.login); // Redirect to login page after logout
+
+      switch (auth.issuer) {
+        case Issuer.Amplify: {
+          await auth.signOut();
+          break;
+        }
+
+        case Issuer.Auth0: {
+          await auth.logout();
+          break;
+        }
+
+        case Issuer.Firebase: {
+          await auth.signOut();
+          break;
+        }
+
+        case Issuer.JWT: {
+          await auth.signOut();
+          break;
+        }
+
+        default: {
+          console.warn('Using an unknown Auth Issuer, did not log out');
+        }
+      }
+
+      router.push(paths.auth.jwt.login);
     } catch (err) {
       console.error(err);
       toast.error('Something went wrong!');
     }
-  }, [router, onClose, logout]);
-
-  useEffect(() => {
-    getUserInfo();
-  }, []);
+  }, [auth, router, onClose]);
 
   return (
     <>
-    <Popover
-      anchorEl={anchorEl}
-      anchorOrigin={{
-        horizontal: 'center',
-        vertical: 'bottom',
-      }}
-      disableScrollLock
-      onClose={onClose}
-      open={!!open}
-      PaperProps={{ sx: { width: 250 } }}
-      {...other}
-    >
-      <Box sx={{ p: 2 }}>
-        {userInfo && (
-          <>
-            <Typography variant="body1">{`${userInfo.firstName} ${userInfo.lastName}`}</Typography>
-            <Typography
-              color="text.secondary"
-              variant="body2"
-            >
-              {userInfo.email}
-            </Typography>
-          </>
-        )}
-      </Box>
-      <Divider />
-      <Box sx={{ p: 1 }}>
-        <ListItemButton
-          component={RouterLink}
-          href={paths.index}
-          onClick={onClose}
-          sx={{
-            borderRadius: 1,
-            px: 1,
-            py: 0.5,
-          }}
-        >
-          <ListItemIcon>
-            <SvgIcon fontSize="small">
-              <User03Icon />
-            </SvgIcon>
-          </ListItemIcon>
-          <ListItemText primary={<Typography variant="body1">Profile</Typography>} />
-        </ListItemButton>
-        <ListItemButton
-          component={RouterLink}
-          href={paths.pixel}
-          onClick={onClose}
-          sx={{
-            borderRadius: 1,
-            px: 1,
-            py: 0.5,
-          }}
-        >
-          <ListItemIcon>
-            <SvgIcon fontSize="small">
-              <Settings04Icon />
-            </SvgIcon>
-          </ListItemIcon>
-          <ListItemText primary={<Typography variant="body1">Settings</Typography>} />
-        </ListItemButton>
-        <ListItemButton
-          component={RouterLink}
-          href={paths.widget}
-          onClick={onClose}
-          sx={{
-            borderRadius: 1,
-            px: 1,
-            py: 0.5,
-          }}
-        >
-          <ListItemIcon>
-            <SvgIcon fontSize="small">
-              <CreditCard01Icon />
-            </SvgIcon>
-          </ListItemIcon>
-          <ListItemText primary={<Typography variant="body1">Billing</Typography>} />
-        </ListItemButton>
-      </Box>
-      <Divider sx={{ my: '0 !important' }} />
-      <Box
-        sx={{
-          display: 'flex',
-          p: 1,
-          justifyContent: 'center',
+      <Popover
+        anchorEl={anchorEl}
+        anchorOrigin={{
+          horizontal: 'center',
+          vertical: 'bottom',
         }}
+        disableScrollLock
+        onClose={onClose}
+        open={!!open}
+        paper={{ sx: { width: 250 } }}
+        {...other}
       >
-        <Button
-          color="inherit"
-          onClick={handleLogout}
-          size="small"
+        <Box sx={{ p: 2 }}>
+          {userInfo && (
+            <>
+              <Typography variant="body1">{`${userInfo.firstName} ${userInfo.lastName}`}</Typography>
+              <Typography
+                color="text.secondary"
+                variant="body2"
+              >
+                {userInfo.email}
+              </Typography>
+            </>
+          )}
+        </Box>
+        <Divider />
+        <Box sx={{ p: 1 }}>
+          <ListItemButton
+            component={RouterLink}
+            href={paths.index}
+            onClick={onClose}
+            sx={{
+              borderRadius: 1,
+              px: 1,
+              py: 0.5,
+            }}
+          >
+            <ListItemIcon>
+              <SvgIcon fontSize="small">
+                <User03Icon />
+              </SvgIcon>
+            </ListItemIcon>
+            <ListItemText primary={<Typography variant="body1">Profile</Typography>} />
+          </ListItemButton>
+          <ListItemButton
+            component={RouterLink}
+            href={paths.pixel}
+            onClick={onClose}
+            sx={{
+              borderRadius: 1,
+              px: 1,
+              py: 0.5,
+            }}
+          >
+            <ListItemIcon>
+              <SvgIcon fontSize="small">
+                <Settings04Icon />
+              </SvgIcon>
+            </ListItemIcon>
+            <ListItemText primary={<Typography variant="body1">Settings</Typography>} />
+          </ListItemButton>
+          <ListItemButton
+            component={RouterLink}
+            href={paths.widget}
+            onClick={onClose}
+            sx={{
+              borderRadius: 1,
+              px: 1,
+              py: 0.5,
+            }}
+          >
+            <ListItemIcon>
+              <SvgIcon fontSize="small">
+                <CreditCard01Icon />
+              </SvgIcon>
+            </ListItemIcon>
+            <ListItemText primary={<Typography variant="body1">Billing</Typography>} />
+          </ListItemButton>
+        </Box>
+        <Divider sx={{ my: '0 !important' }} />
+        <Box
+          sx={{
+            display: 'flex',
+            p: 1,
+            justifyContent: 'center',
+          }}
         >
-          Logout
-        </Button>
-      </Box>
-    </Popover>
-  </>
+          <Button
+            color="inherit"
+            onClick={handleLogout}
+            size="small"
+          >
+            Logout
+          </Button>
+        </Box>
+      </Popover>
+    </>
   );
 };
 

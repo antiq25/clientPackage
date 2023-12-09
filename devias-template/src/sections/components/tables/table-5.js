@@ -23,8 +23,8 @@ import TablePagination from '@mui/material/TablePagination';
 import TableRow from '@mui/material/TableRow';
 import TextField from '@mui/material/TextField';
 
-import { Scrollbar } from 'src/src2/components/scrollbar';
-import { SeverityPill } from 'src/src2/components/severity-pill';
+import { Scrollbar } from 'src/components/scrollbar';
+import { SeverityPill } from 'src/components/severity-pill';
 
 const now = new Date();
 

@@ -1,8 +1,8 @@
 import { useCallback, useEffect, useReducer } from 'react';
 import PropTypes from 'prop-types';
 
-import { authApi } from 'src/src2/api/auth';
-import { Issuer } from 'src/src2/utils/auth';
+import { apiHandler } from 'src/api/bundle';
+import { Issuer } from 'src/utils/auth';
 import { AuthContext, initialState } from './auth-context';
 
 const STORAGE_KEY = 'accessToken';
@@ -60,7 +60,7 @@ export const AuthProvider = (props) => {
 
   const initialize = useCallback(async () => {
     try {
-      const accessToken = window.sessionStorage.getItem(STORAGE_KEY);
+      const accessToken = window.localStorage.getItem(STORAGE_KEY);
 
       if (accessToken) {
         const user = await authApi.me({ accessToken });

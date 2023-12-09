@@ -133,7 +133,7 @@ export const TopNav = (props) => {
                     },
                   }}
                 >
-                  Devias Kit <span>PRO</span>
+                  Show <span>My Service</span>
                 </Box>
               )}
             </Stack>

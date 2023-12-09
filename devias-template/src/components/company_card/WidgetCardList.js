@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import axios from 'axios';
-import useUser  from 'src/hooks/decode';
+import useUser from 'src/hooks/decode';
 import { CompanyCard } from 'src/sections/dashboard/jobs/company-card';
 import Grid from '@mui/material/Grid';
 
@@ -12,7 +12,7 @@ const WidgetsList = () => {
     try {
       const response = await axios.get(`http://localhost:3002/scrape/user-widgets`, {
         headers: {
-          'Authorization': `Bearer ${localStorage.getItem('token')}`,
+          Authorization: `Bearer ${localStorage.getItem('token')}`,
         },
       });
       setWidgetsData(response.data);
@@ -28,19 +28,29 @@ const WidgetsList = () => {
   }, [userId]);
 
   return (
-    <Grid container spacing={3}>
+    <Grid
+      container
+      spacing={3}
+    >
       {widgetsData.map((widget) => (
-        <Grid item key={widget.id} xs={12} sm={6} md={4}>
+        <Grid
+          item
+          key={widget.id}
+          xs={12}
+          sm={6}
+          md={4}
+        >
           <CompanyCard
             company={{
               name: widget.business.name,
               shortDescription: widget.widgetDescription,
-              logo: widget.widgetLogo,
+              logo: widget.business.featuredImage,
               employees: widget.widgetEmployees,
-              averageRating: widget.widgetRating,
+              averageRating: widget.business.averageRating,
               isVerified: true,
               jobs: [],
             }}
+            
           />
         </Grid>
       ))}

@@ -11,9 +11,9 @@ import Stack from '@mui/material/Stack';
 import SvgIcon from '@mui/material/SvgIcon';
 import Typography from '@mui/material/Typography';
 
-import { RouterLink } from 'src/src2/components/router-link';
+import { RouterLink } from 'src/components/router-link';
 import { paths } from 'src/src2/paths';
-import { getInitials } from 'src/src2/utils/get-initials';
+import { getInitials } from 'src/utils/get-initials';
 
 import { CompanyJobs } from './company-jobs';
 
@@ -77,7 +77,7 @@ export const CompanyCard = (props) => {
                 spacing={1}
                 direction="row"
               >
-                <SvgIcon color="primary">
+                <SvgIcon color="action">
                   <Star01Icon />
                 </SvgIcon>
                 <Typography

@@ -26,8 +26,8 @@ import { AuthIssuer } from 'src/src2/sections/auth/auth-issuer';
 import { Issuer } from 'src/src2/utils/auth';
 
 const initialValues = {
-  email: 'demo@devias.io',
-  password: 'Password123!',
+  email: '',
+  password: '',
   submit: null,
 };
 

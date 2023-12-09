@@ -13,7 +13,7 @@ import OutlinedInput from '@mui/material/OutlinedInput';
 import SvgIcon from '@mui/material/SvgIcon';
 import Typography from '@mui/material/Typography';
 
-import { Tip } from 'src/src2/components/tip';
+import { Tip } from 'src/components/tip';
 
 export const ChatSidebarSearch = forwardRef(function ChatSidebarSearch(props, ref) {
   const {

@@ -10,10 +10,7 @@ export const authAPIEndpoints = {
   resendEmailVerification: '/auth/request-email-verif',
   fetchProfile: '/profile/fetch',
   forgotPassword: '/recovery/forgot-password',
-  resetPassword: '/recovery/reset-password',
-  createListing: '/dashboard/create-listing',
-  getListing: '/dashboard/get-listing',
-  fetchReviews: '/dashboard/fetch-reviews'
+  resetPassword: '/recovery/reset-password'
 }
 
 export const authAPI = {
@@ -85,46 +82,5 @@ export const authAPI = {
       () => apiClient.post(authAPIEndpoints.resetPassword, { code, password }),
       'Password reset successful',
       'Password reset failed'
-    ),
-
-  createListing: (
-    userId: number,
-    name: string,
-    reviews_url: string,
-    description?: string
-  ) =>
-    apiCall(
-      'createListing',
-      () =>
-        apiClient.post(authAPIEndpoints.createListing, {
-          userId,
-          name,
-          reviews_url,
-          description
-        }),
-      'Listing created successfully',
-      'Listing creation failed'
-    ),
-
-  getListing: (userId: number, listingName?: string) =>
-    apiCall(
-      'getListing',
-      () =>
-        apiClient.get(authAPIEndpoints.getListing, {
-          params: { userId, listingName }
-        }),
-      'Listing fetched',
-      'Fetching listing failed'
-    ),
-
-  fetchReviews: (listingId: number, max_reviews: number) =>
-    apiCall(
-      'fetchReviews',
-      () =>
-        apiClient.get(authAPIEndpoints.fetchReviews, {
-          params: { listingId, max_reviews }
-        }),
-      'Reviews fetched',
-      'Fetching reviews failed'
     )
 }

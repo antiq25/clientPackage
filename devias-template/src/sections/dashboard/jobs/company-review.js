@@ -7,7 +7,7 @@ import Rating from '@mui/material/Rating';
 import Stack from '@mui/material/Stack';
 import Typography from '@mui/material/Typography';
 
-import { getInitials } from 'src/src2/utils/get-initials';
+import { getInitials } from 'src/utils/get-initials';
 
 export const CompanyReview = (props) => {
   const { review } = props;

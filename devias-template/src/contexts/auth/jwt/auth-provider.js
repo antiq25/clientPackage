@@ -1,160 +1,108 @@
-import { useCallback, useEffect, useReducer } from 'react';
+import React, { useCallback, useEffect, useReducer } from 'react';
 import PropTypes from 'prop-types';
-
-import { authApi } from 'src/src2/api/auth';
-import { Issuer } from 'src/src2/utils/auth';
 import { AuthContext, initialState } from './auth-context';
+import { Issuer } from 'src/utils/auth';
+import { apiHandler } from 'src/api/bundle'; 
 
-const STORAGE_KEY = 'accessToken';
+const STORAGE_KEY = 'token';
 
-var ActionType;
-(function (ActionType) {
-  ActionType['INITIALIZE'] = 'INITIALIZE';
-  ActionType['SIGN_IN'] = 'SIGN_IN';
-  ActionType['SIGN_UP'] = 'SIGN_UP';
-  ActionType['SIGN_OUT'] = 'SIGN_OUT';
-})(ActionType || (ActionType = {}));
+const ActionType = {
+  INITIALIZE: 'INITIALIZE',
+  SIGN_IN: 'SIGN_IN',
+  SIGN_OUT: 'SIGN_OUT',
+};
 
 const handlers = {
-  INITIALIZE: (state, action) => {
-    const { isAuthenticated, user } = action.payload;
-
-    return {
-      ...state,
-      isAuthenticated,
-      isInitialized: true,
-      user,
-    };
-  },
-  SIGN_IN: (state, action) => {
-    const { user } = action.payload;
-
-    return {
-      ...state,
-      isAuthenticated: true,
-      user,
-    };
-  },
-  SIGN_UP: (state, action) => {
-    const { user } = action.payload;
-
-    return {
-      ...state,
-      isAuthenticated: true,
-      user,
-    };
-  },
-  SIGN_OUT: (state) => ({
+  [ActionType.INITIALIZE]: (state, action) => ({
+    ...state,
+    isInitialized: true,
+    issuer: Issuer.JWT,
+    ...action.payload,
+  }),
+  [ActionType.SIGN_IN]: (state, action) => ({
+    ...state,
+    isAuthenticated: true,
+    issuer: action.payload.issuer || Issuer.JWT,
+    user: action.payload.user,
+  }),
+  [ActionType.SIGN_OUT]: (state) => ({
     ...state,
     isAuthenticated: false,
     user: null,
+    issuer: Issuer.JWT,
   }),
 };
 
 const reducer = (state, action) =>
   handlers[action.type] ? handlers[action.type](state, action) : state;
 
-export const AuthProvider = (props) => {
-  const { children } = props;
+export const AuthProvider = ({ children }) => {
   const [state, dispatch] = useReducer(reducer, initialState);
 
   const initialize = useCallback(async () => {
+    const token = localStorage.getItem(STORAGE_KEY);
+    if (token) {
+      try {
+        const response = await apiHandler.handleGetProfile(); // Assuming this returns user data
+        if (response.success) {
+          dispatch({
+            type: ActionType.INITIALIZE,
+            payload: {
+              isAuthenticated: true,
+              user: response.data.user,
+            },
+          });
+        } else {
+          localStorage.removeItem(STORAGE_KEY);
+          dispatch({
+            type: ActionType.INITIALIZE,
+            payload: { isAuthenticated: false, user: null },
+          });
+        }
+      } catch (error) {
+        console.error('Error during initialization:', error);
+        localStorage.removeItem(STORAGE_KEY);
+        dispatch({ type: ActionType.INITIALIZE, payload: { isAuthenticated: false, user: null } });
+      }
+    } else {
+      dispatch({ type: ActionType.INITIALIZE, payload: { isAuthenticated: false, user: null } });
+    }
+  }, []);
+
+  useEffect(() => {
+    initialize();
+  }, [initialize]);
+
+  const signIn = useCallback(async (email, password) => {
     try {
-      const accessToken = window.sessionStorage.getItem(STORAGE_KEY);
-
-      if (accessToken) {
-        const user = await authApi.me({ accessToken });
-
+      const response = await apiHandler.handleLogin(email, password);
+      if (response.success && response.data?.token?.token) {
+        localStorage.setItem(STORAGE_KEY, response.data.token.token);
         dispatch({
-          type: ActionType.INITIALIZE,
-          payload: {
-            isAuthenticated: true,
-            user,
-          },
+          type: ActionType.SIGN_IN,
+          payload: { user: response.data.user },
         });
       } else {
-        dispatch({
-          type: ActionType.INITIALIZE,
-          payload: {
-            isAuthenticated: false,
-            user: null,
-          },
-        });
+        throw new Error(response.error || 'Login failed');
       }
-    } catch (err) {
-      console.error(err);
-      dispatch({
-        type: ActionType.INITIALIZE,
-        payload: {
-          isAuthenticated: false,
-          user: null,
-        },
-      });
+    } catch (error) {
+      console.error('Sign in error:', error);
+      throw error;
     }
-  }, [dispatch]);
+  }, []);
 
-  useEffect(
-    () => {
-      initialize();
-    },
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-    []
-  );
-
-  const signIn = useCallback(
-    async (email, password) => {
-      const { accessToken } = await authApi.signIn({ email, password });
-      const user = await authApi.me({ accessToken });
-
-      sessionStorage.setItem(STORAGE_KEY, accessToken);
-
-      dispatch({
-        type: ActionType.SIGN_IN,
-        payload: {
-          user,
-        },
-      });
-    },
-    [dispatch]
-  );
-
-  const signUp = useCallback(
-    async (email, name, password) => {
-      const { accessToken } = await authApi.signUp({ email, name, password });
-      const user = await authApi.me({ accessToken });
-
-      sessionStorage.setItem(STORAGE_KEY, accessToken);
-
-      dispatch({
-        type: ActionType.SIGN_UP,
-        payload: {
-          user,
-        },
-      });
-    },
-    [dispatch]
-  );
-
-  const signOut = useCallback(async () => {
-    sessionStorage.removeItem(STORAGE_KEY);
+  const signOut = useCallback(() => {
+    localStorage.removeItem(STORAGE_KEY);
     dispatch({ type: ActionType.SIGN_OUT });
-  }, [dispatch]);
+  }, []);
 
   return (
-    <AuthContext.Provider
-      value={{
-        ...state,
-        issuer: Issuer.JWT,
-        signIn,
-        signUp,
-        signOut,
-      }}
-    >
-      {children}
-    </AuthContext.Provider>
+    <AuthContext.Provider value={{ ...state, signIn, signOut }}>{children}</AuthContext.Provider>
   );
 };
 
 AuthProvider.propTypes = {
   children: PropTypes.node.isRequired,
 };
+
+export default AuthProvider;

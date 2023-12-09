@@ -1,0 +1,314 @@
+{
+    "place_id": "ChIJq6q6j5LEhVQRjrLRDFpVqB8",
+    "name": "Loblaw Pharmacy",
+    "description": null,
+    "reviews": 10,
+    "website": "https://www.realcanadiansuperstore.ca/pharmacy?storeId=1551&utm_source=G&utm_medium=LPM&utm_campaign=Loblaws",
+    "owner": {
+        "id": "111530660188918415692",
+        "name": "Loblaw Pharmacy (Owner)",
+        "link": "https://www.google.com/maps/contrib/111530660188918415692"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=xBTi4cPxOPiuDWOVPhkI6Q&cb_client=search.gws-prod.gps&w=408&h=240&yaw=132.16257&pitch=0&thumbfov=100",
+    "main_category": "Pharmacy",
+    "categories": [
+        "Pharmacy",
+        "Drug store"
+    ],
+    "rating": 4.2,
+    "workday_timing": "9 a.m.-9 p.m.",
+    "closed_on": [],
+    "phone": "(778) 545-0478",
+    "address": "Loblaw Pharmacy, 2332 160 St, Surrey, BC V3S 9N6",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/Loblaw+Pharmacy/data=!4m7!3m6!1s0x5485c4928fbaaaab:0x1fa8555a0cd1b28e!8m2!3d49.043292!4d-122.775764!16s%2Fg%2F11f52v4kgl!19sChIJq6q6j5LEhVQRjrLRDFpVqB8?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 9 a.m.",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 2,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 8
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJq6q6j5LEhVQRjrLRDFpVqB8&q=Loblaw+Pharmacy&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.043292,
+        "longitude": -122.775764
+    },
+    "plus_code": "26VF+8M Surrey, British Columbia",
+    "detailed_address": {
+        "ward": null,
+        "street": "2332 160 St",
+        "city": "Surrey",
+        "postal_code": "V3S 9N6",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "2281167056513643150",
+    "data_id": "0x5485c4928fbaaaab:0x1fa8555a0cd1b28e",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "In-store pickup",
+                    "enabled": true
+                },
+                {
+                    "name": "In-store shopping",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=xBTi4cPxOPiuDWOVPhkI6Q&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=132.16257&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=xBTi4cPxOPiuDWOVPhkI6Q&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=132.16257&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "9 a.m.-9 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "9 a.m.-9 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "9 a.m.-9 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "9 a.m.-9 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "9 a.m.-9 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "9 a.m.-7 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "9 a.m.-7 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "RUDEST pharmacists on shift tonight, (Loi,the pharmacist I usually interact with was not on shift tonight, and he is amazing) however, the ladies running the pharmacy tonight were incredibly condescending and they are the reason I will not be returning as a customer. I will absolutely not be back-do yourself a favor and go to sunnyside evergreen pharmacy! I got 2 months prescription for the price of 1 month at superstore. I cannot believe how awful the staff on shift were tonight-extremely patronizing and unwilling to help find a solution to a drug shortage issue. Support small business!",
+            "reviewer_name": "E K.",
+            "rating": 1,
+            "review_text": "RUDEST pharmacists on shift tonight, (Loi,the pharmacist I usually interact with was not on shift tonight, and he is amazing) however, the ladies running the pharmacy tonight were incredibly condescending and they are the reason I will not be returning as a customer. I will absolutely not be back-do yourself a favor and go to sunnyside evergreen pharmacy! I got 2 months prescription for the price of 1 month at superstore. I cannot believe how awful the staff on shift were tonight-extremely patronizing and unwilling to help find a solution to a drug shortage issue. Support small business!",
+            "published_at": "4 weeks ago",
+            "published_at_date": "2023-11-09T02:13:47.940000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 10,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/106776685346479361182/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJKixfcJFD0VXl0v2bv8Zt9zXDFGvJmnKDMWO4AIeZZ=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Just moved to south surrey and picked up my first prescription here! The pharmacist was a breathe of fresh air. Everyone working there seemed\nTo be trained well and the pharmacist I believe his name was\nOle( sorry if I got it wrong) was pleasant, explained the medication use in detail and I just had a great first experience!",
+            "reviewer_name": "Tamana Makhni",
+            "rating": 5,
+            "review_text": "Just moved to south surrey and picked up my first prescription here! The pharmacist was a breathe of fresh air. Everyone working there seemed\nTo be trained well and the pharmacist I believe his name was\nOle( sorry if I got it wrong) was pleasant, explained the medication use in detail and I just had a great first experience!",
+            "published_at": "6 months ago",
+            "published_at_date": "2023-05-11T03:39:06.053000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 32,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/118187769503612663953/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKoX55LOrby0aIfvFFluaNu3L-R-UbVxOs8smKGNBOv=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "I am a senior who purchases my regular 'scrip at the south Surrey pharmacy for over 3 years.  During the COVID pandemic a wonderful young pharmacist (Lay Shah) worked really hard to work with his customers ensuring that they have accurate and appropriate information.  When I needed various vaccines over the past 3 years, he ensured that I was informed, understood all of the effects of the same.   What totally and forever impressed me and created a 'super fan' was a couple of weeks ago.  Lay was the only person (bearing in mind that he is a pharmacist) accepting drop-off and pickup orders.  I didn't have the time to wait so continued on my shopping journey.  As I was leaving the store, Lay asked if I needed to renew a 'scrip' I said yes, he asked how many meds I needed, I said all 4 and off he want to prepare my monthly order.  Didn't ask my name, no hassle, he just knew what needed to be done.  When I picked up my order today (post December 31st, he understood that I needed the scrip renewal in the last fiscal year, which was reflected.\n\nIn my opinion Lay goes the extra mile, knows his customers, their needs and is always respectful, always helpful , and always responsive.  Employee of the Year Award, if there is one, is 'owned' by Lay.  Many thanks for all of your hard work, dedication, for being there when lots of people haven't been.\n\nAll the very best to you Lay and your family.  I wish each of you a happy, safe and healthy New Year.\n\nWarm regards from my family to yours.",
+            "reviewer_name": "Lynne Pearson",
+            "rating": 5,
+            "review_text": "I am a senior who purchases my regular 'scrip at the south Surrey pharmacy for over 3 years.  During the COVID pandemic a wonderful young pharmacist (Lay Shah) worked really hard to work with his customers ensuring that they have accurate and appropriate information.  When I needed various vaccines over the past 3 years, he ensured that I was informed, understood all of the effects of the same.   What totally and forever impressed me and created a 'super fan' was a couple of weeks ago.  Lay was the only person (bearing in mind that he is a pharmacist) accepting drop-off and pickup orders.  I didn't have the time to wait so continued on my shopping journey.  As I was leaving the store, Lay asked if I needed to renew a 'scrip' I said yes, he asked how many meds I needed, I said all 4 and off he want to prepare my monthly order.  Didn't ask my name, no hassle, he just knew what needed to be done.  When I picked up my order today (post December 31st, he understood that I needed the scrip renewal in the last fiscal year, which was reflected.\n\nIn my opinion Lay goes the extra mile, knows his customers, their needs and is always respectful, always helpful , and always responsive.  Employee of the Year Award, if there is one, is 'owned' by Lay.  Many thanks for all of your hard work, dedication, for being there when lots of people haven't been.\n\nAll the very best to you Lay and your family.  I wish each of you a happy, safe and healthy New Year.\n\nWarm regards from my family to yours.",
+            "published_at": "11 months ago",
+            "published_at_date": "2023-01-02T01:07:41.450000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/114988376098787232558/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJ7DyUeD87CaENazBD8GXaK7_wLfYGNeiCTaOhGJj-w=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Loi the pharmacist gave us excellent customer service. There was shortage with amoxicillin for kids,my other pharmacy didnt have it. Loi from Loblaw checked right away and made sure it was available for us. She was very caring, knowledgeable and attentive.I dont usually give reviews,but this pharmacy deserves 5 star.",
+            "reviewer_name": "patricia figueroa",
+            "rating": 5,
+            "review_text": "Loi the pharmacist gave us excellent customer service. There was shortage with amoxicillin for kids,my other pharmacy didnt have it. Loi from Loblaw checked right away and made sure it was available for us. She was very caring, knowledgeable and attentive.I dont usually give reviews,but this pharmacy deserves 5 star.",
+            "published_at": "11 months ago",
+            "published_at_date": "2022-12-20T05:32:39.083000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/104830230060085915135/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUlEK8htv4BTZhIyXDD5IXQwKALhK7JNVXYm5W9lIXnAEka=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "The pharmacist (L.S) who has assisted me several times over the past couple of years has been extremely helpful. He took time out of what I would think is a very busy schedule to educate me about the importance of some vaccinations I required.  He once contacted me at home regarding followup about symptoms I experienced after a vaccination.  He is very knowledgeable and always professional.  A credit to his profession.  I would recommend him to anyone.",
+            "reviewer_name": "Steve G",
+            "rating": 5,
+            "review_text": "The pharmacist (L.S) who has assisted me several times over the past couple of years has been extremely helpful. He took time out of what I would think is a very busy schedule to educate me about the importance of some vaccinations I required.  He once contacted me at home regarding followup about symptoms I experienced after a vaccination.  He is very knowledgeable and always professional.  A credit to his profession.  I would recommend him to anyone.",
+            "published_at": "3 years ago",
+            "published_at_date": "2020-09-21T20:34:19.536000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 81,
+            "total_number_of_photos_by_reviewer": 200,
+            "reviewer_url": "https://www.google.com/maps/contrib/104559115659515639607/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUzqIYSriathUuk7qUfYpPEh__mIPUxTgltA6rd_ewqHbFy=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Really like this pharmacy. Nice staff, great service and always has what I need.",
+            "reviewer_name": "Rhon Dillon",
+            "rating": 5,
+            "review_text": "Really like this pharmacy. Nice staff, great service and always has what I need.",
+            "published_at": "10 months ago",
+            "published_at_date": "2023-01-31T22:35:47.194000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 67,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/106100541129116473013/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVPfuwgGIaNamjPJ26uJp9IcD6X2vXEDy_Glz-GoI_nVA=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Takes forever",
+            "reviewer_name": "Darren Campagne",
+            "rating": 1,
+            "review_text": "Takes forever",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-30T00:27:55.791000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/104114943890316281340/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVpHt2csMUAFfOTVwVxFMoHi6VfpFZlii7BBvBS1ZOPOQ=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Kasra Keshavarzi",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "a year ago",
+            "published_at_date": "2022-10-17T04:44:47.389000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 15,
+            "total_number_of_photos_by_reviewer": 4,
+            "reviewer_url": "https://www.google.com/maps/contrib/106357325989246171232/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVpOhjxYu4K7YotBeTWFbRpsyA8jgJJ014SiRBtxIfX9POJ=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

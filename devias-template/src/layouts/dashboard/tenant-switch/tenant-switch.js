@@ -8,9 +8,9 @@ import Typography from '@mui/material/Typography';
 
 import { usePopover } from 'src/hooks/use-popover';
 
-import { TenantPopover } from 'src/layouts/dashboard/tenant-switch/tenant-popover';
+import { TenantPopover } from './tenant-popover';
 
-const tenants = ['Dashboard', 'Projects'];
+const tenants = ['Devias', 'Show My Services'];
 
 export const TenantSwitch = (props) => {
   const popover = usePopover();
@@ -28,14 +28,13 @@ export const TenantSwitch = (props) => {
             color="inherit"
             variant="h6"
           >
-            Show My Service
+            SMS Dashboard
           </Typography>
           <Typography
             color="neutral.400"
             variant="body2"
           >
-
-
+            Production
           </Typography>
         </Box>
         <IconButton

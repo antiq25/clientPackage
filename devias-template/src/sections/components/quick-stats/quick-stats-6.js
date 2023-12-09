@@ -12,9 +12,9 @@ import Grid from '@mui/material/Unstable_Grid2';
 import Stack from '@mui/material/Stack';
 import SvgIcon from '@mui/material/SvgIcon';
 import Typography from '@mui/material/Typography';
-import { useTheme } from '@mui/system';
+import { useTheme } from '@mui/material/styles';
 
-import { Chart } from 'src/src2/components/chart';
+import { Chart } from 'src/components/chart';
 
 const chartSeries = [83];
 

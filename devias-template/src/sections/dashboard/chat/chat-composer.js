@@ -2,10 +2,10 @@ import { useCallback, useState } from 'react';
 import Box from '@mui/material/Box';
 import Divider from '@mui/material/Divider';
 
-import { useRouter } from 'src/src2/hooks/use-router';
-import { paths } from 'src/src2/paths';
-import { useDispatch } from 'src/src2/store';
-import { thunks } from 'src/src2/thunks/chat';
+import { useRouter } from 'src/hooks/use-router';
+import { paths } from 'src/paths';
+import { useDispatch } from 'src/store';
+import { thunks } from 'src/thunks/chat';
 
 import { ChatComposerRecipients } from './chat-composer-recipients';
 import { ChatMessageAdd } from './chat-message-add';

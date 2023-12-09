@@ -19,8 +19,8 @@ import SvgIcon from '@mui/material/SvgIcon';
 import Tooltip from '@mui/material/Tooltip';
 import Typography from '@mui/material/Typography';
 
-import { useMockedUser } from 'src/src2/hooks/use-mocked-user';
-import { usePopover } from 'src/src2/hooks/use-popover';
+import { useMockedUser } from 'src/hooks/use-mocked-user';
+import { usePopover } from 'src/hooks/use-popover';
 
 const getRecipients = (participants, userId) => {
   return participants.filter((participant) => participant.id !== userId);

@@ -3,9 +3,9 @@ import Mapbox, { Marker } from 'react-map-gl';
 import PropTypes from 'prop-types';
 import Box from '@mui/material/Box';
 import Typography from '@mui/material/Typography';
-import { useTheme } from '@mui/system';
+import { useTheme } from '@mui/material/styles';
 
-import { mapboxConfig } from 'src/src2/config';
+import { mapboxConfig } from 'src/config';
 
 // Map default view state
 const VIEW_STATE = {

@@ -15,8 +15,8 @@ import TableCell from '@mui/material/TableCell';
 import TableRow from '@mui/material/TableRow';
 import Typography from '@mui/material/Typography';
 
-import { CircularProgress } from 'src/src2/components/circular-progress';
-import { Scrollbar } from 'src/src2/components/scrollbar';
+import { CircularProgress } from 'src/components/circular-progress';
+import { Scrollbar } from 'src/components/scrollbar';
 
 const products = [
   {

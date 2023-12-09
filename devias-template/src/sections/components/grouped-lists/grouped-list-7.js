@@ -12,7 +12,7 @@ import ListItemAvatar from '@mui/material/ListItemAvatar';
 import ListItemText from '@mui/material/ListItemText';
 import Typography from '@mui/material/Typography';
 
-import { customLocale } from 'src/src2/utils/date-locale';
+import { customLocale } from 'src/utils/date-locale';
 
 const now = new Date();
 

@@ -3,7 +3,7 @@ export const tokens = {
     languageChanged: 'common.languageChanged',
   },
   nav: {
-    dashboard: 'Dashboard',
+    dashboard: 'Settings',
     business: 'Business',
     billing: 'Billing',
     map: 'Map',

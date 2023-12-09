@@ -4,9 +4,9 @@ import Box from '@mui/material/Box';
 import Stack from '@mui/material/Stack';
 import Typography from '@mui/material/Typography';
 
-import { paths } from 'src/src2/paths';
-import { useDispatch, useSelector } from 'src/src2/store';
-import { thunks } from 'src/src2/thunks/mail';
+import { paths } from 'src/paths';
+import { useDispatch, useSelector } from 'src/store';
+import { thunks } from 'src/thunks/mail';
 
 import { MailThreadAttachments } from './mail-thread-attachments';
 import { MailThreadMessage } from './mail-thread-message';

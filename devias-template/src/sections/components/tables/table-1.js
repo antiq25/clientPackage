@@ -18,8 +18,8 @@ import TableSortLabel from '@mui/material/TableSortLabel';
 import Tooltip from '@mui/material/Tooltip';
 import Typography from '@mui/material/Typography';
 
-import { Scrollbar } from 'src/src2/components/scrollbar';
-import { SeverityPill } from 'src/src2/components/severity-pill';
+import { Scrollbar } from 'src/components/scrollbar';
+import { SeverityPill } from 'src/components/severity-pill';
 
 const now = new Date();
 

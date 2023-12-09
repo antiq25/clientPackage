@@ -19,7 +19,7 @@ import TableSortLabel from '@mui/material/TableSortLabel';
 import Tooltip from '@mui/material/Tooltip';
 import Typography from '@mui/material/Typography';
 
-import { applySort } from 'src/src2/utils/apply-sort';
+import { applySort } from 'src/utils/apply-sort';
 
 const flagMap = {
   ca: '/assets/flags/flag-ca.svg',

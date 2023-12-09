@@ -18,7 +18,7 @@ import Typography from '@mui/material/Typography';
 import useMediaQuery from '@mui/material/useMediaQuery';
 import { DatePicker } from '@mui/x-date-pickers/DatePicker';
 
-import { Scrollbar } from 'src/src2/components/scrollbar';
+import { Scrollbar } from 'src/components/scrollbar';
 
 const customers = [
   'Blind Spots Inc.',

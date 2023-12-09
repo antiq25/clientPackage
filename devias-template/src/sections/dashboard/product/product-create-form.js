@@ -14,10 +14,10 @@ import Stack from '@mui/material/Stack';
 import Switch from '@mui/material/Switch';
 import TextField from '@mui/material/TextField';
 import Typography from '@mui/material/Typography';
-import { FileDropzone } from 'src/src2/components/file-dropzone';
-import { QuillEditor } from 'src/src2/components/quill-editor';
-import { useRouter } from 'src/src2/hooks/use-router';
-import { paths } from 'src/src2/paths';
+import { FileDropzone } from 'src/components/file-dropzone';
+import { QuillEditor } from 'src/components/quill-editor';
+import { useRouter } from 'src/hooks/use-router';
+import { paths } from 'src/paths';
 
 const categoryOptions = [
   {
@@ -68,21 +68,45 @@ const validationSchema = Yup.object({
   oldPrice: Yup.number().min(0),
   sku: Yup.string().max(255),
 });
-
 export const ProductCreateForm = (props) => {
   const router = useRouter();
+  const [selectedBusinessId, setSelectedBusinessId] = useState('');
   const [files, setFiles] = useState([]);
   const formik = useFormik({
     initialValues,
     validationSchema,
     onSubmit: async (values, helpers) => {
       try {
-        // NOTE: Make API request
-        toast.success('Product created');
-        router.push(paths.dashboard.products.index);
+        // Assuming 'widgetData' is part of the form values and contains the necessary widget information
+        const { widgetData } = values;
+
+        // API request to create a new widget
+        const response = await fetch('/api/pixel/create-widget', {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json',
+            Authorization: `Bearer ${localStorage.getItem('token')}`,
+          },
+          body: JSON.stringify({
+            userId: 'userId', // Replace with actual user ID
+            businessId: 'businessId', // Replace with actual business ID
+            widgetData: widgetData, // This should contain the widget data from the form
+          }),
+          credentials: 'include',
+        });
+
+        if (!response.ok) {
+          throw new Error(`HTTP error! status: ${response.status}`);
+        }
+
+        // Assuming the response contains the created widget data
+        const widgetResponse = await response.json();
+        toast.success('Widget created successfully!');
+        // Redirect to the widget details page or widget list
+        router.push('/path-to-widget-list'); // Update with the actual path
       } catch (err) {
         console.error(err);
-        toast.error('Something went wrong!');
+        toast.error('Something went wrong: ' + err.message);
         helpers.setStatus({ success: false });
         helpers.setErrors({ submit: err.message });
         helpers.setSubmitting(false);
@@ -267,25 +291,8 @@ export const ProductCreateForm = (props) => {
                 md={8}
               >
                 <Stack spacing={3}>
-                  <TextField
-                    error={!!(formik.touched.category && formik.errors.category)}
-                    fullWidth
-                    label="Category"
-                    name="category"
-                    onBlur={formik.handleBlur}
-                    onChange={formik.handleChange}
-                    select
-                    value={formik.values.category}
-                  >
-                    {categoryOptions.map((option) => (
-                      <MenuItem
-                        key={option.value}
-                        value={option.value}
-                      >
-                        {option.label}
-                      </MenuItem>
-                    ))}
-                  </TextField>
+        
+                  {/* {selectedBusinessId && <WidgetForm selectedBusinessId={selectedBusinessId} />} */}
                   <TextField
                     disabled
                     error={!!(formik.touched.barcode && formik.errors.barcode)}

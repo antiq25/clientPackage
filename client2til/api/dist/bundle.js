@@ -1,14 +1,7 @@
 import { authAPI, authAPIEndpoints } from './apiCaller';
 import { apiCall, generateMessage, showSuccessMessage, showErrorMessage } from './apiHelper';
 import apiConfig from './apiConfig';
-import * as apiHandler from './apiWrap';
-// # * ONLY UNCOMMENT BELOW FOR HTML5 BUILD * # // 
-import * as apiHtmlScrapes from './dashboard/locateScrapes';
-import * as apiHtmlLocates from './utility/locateElement';
-import * as apiHTMLeventHandler from './utility/eventHandler';
-// # * ################################# * # //  
-export { authAPI, authAPIEndpoints, generateMessage, showErrorMessage, showSuccessMessage, apiCall, apiConfig, apiHandler, 
-// # * ONLY UNCOMMENT BELOW FOR HTML5 BUILD * # //
-apiHtmlScrapes, apiHtmlLocates, apiHTMLeventHandler
-// # * ############################# * # //
- };
+import ApiHandler from './apiWrap';
+import crawler from './types/scraper';
+import Crawl from './types/scraperHandler';
+export { authAPI, authAPIEndpoints, generateMessage, showErrorMessage, showSuccessMessage, apiCall, apiConfig, ApiHandler, Crawl, crawler };

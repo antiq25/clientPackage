@@ -5,11 +5,9 @@ import Card from '@mui/material/Card';
 import Stack from '@mui/material/Stack';
 import SvgIcon from '@mui/material/SvgIcon';
 import Typography from '@mui/material/Typography';
-import { useTheme } from '@mui/system';
-import { OtherPage } from 'src/components/setData';
-import { Chart } from 'src/src2/components/chart';
+import { useTheme } from '@mui/material/styles';
 
-
+import { Chart } from 'src/components/chart';
 
 const chartSeries = [
   {

@@ -8,7 +8,7 @@ import MenuItem from '@mui/material/MenuItem';
 import Stack from '@mui/material/Stack';
 import SvgIcon from '@mui/material/SvgIcon';
 
-import { usePopover } from 'src/src2/hooks/use-popover';
+import { usePopover } from 'src/hooks/use-popover';
 
 const options = ['Business', 'Planning', 'Frontend', 'Design'];
 

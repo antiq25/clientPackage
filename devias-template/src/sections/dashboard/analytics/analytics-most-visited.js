@@ -15,7 +15,7 @@ import TableRow from '@mui/material/TableRow';
 import Tooltip from '@mui/material/Tooltip';
 import Typography from '@mui/material/Typography';
 
-import { Scrollbar } from 'src/src2/components/scrollbar';
+import { Scrollbar } from 'src/components/scrollbar';
 
 export const AnalyticsMostVisited = (props) => {
   const { pages } = props;

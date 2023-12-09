@@ -25,11 +25,11 @@ const useUser = () => {
       } catch (error) {
         console.error('Failed to decode JWT', error);
         // Redirect to login page if the token is invalid
-        router.push('/login');
+        router.push('/auth/jwt/login');
       }
     } else {
       // Redirect to login page if there is no token
-      router.push('/login');
+      router.push('/auth/jwt/login');
     }
   }, [router]);
 

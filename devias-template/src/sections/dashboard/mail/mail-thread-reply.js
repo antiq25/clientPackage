@@ -12,7 +12,7 @@ import SvgIcon from '@mui/material/SvgIcon';
 import TextField from '@mui/material/TextField';
 import Tooltip from '@mui/material/Tooltip';
 
-import { useMockedUser } from 'src/src2/hooks/use-mocked-user';
+import { useMockedUser } from 'src/hooks/use-mocked-user';
 
 export const MailThreadReply = (props) => {
   const user = useMockedUser();

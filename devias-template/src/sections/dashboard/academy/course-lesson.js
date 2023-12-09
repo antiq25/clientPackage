@@ -1,8 +1,8 @@
 import PropTypes from 'prop-types';
 import Markdown from 'react-markdown';
-import { styled } from '@mui/system';
+import { styled } from '@mui/material/styles';
 
-import { Code } from 'src/src2/components/code';
+import { Code } from 'src/components/code';
 
 const components = {
   code: Code,

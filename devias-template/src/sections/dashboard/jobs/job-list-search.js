@@ -11,7 +11,7 @@ import Stack from '@mui/material/Stack';
 import SvgIcon from '@mui/material/SvgIcon';
 import Typography from '@mui/material/Typography';
 
-import { MultiSelect } from 'src/src2/components/multi-select';
+import { MultiSelect } from 'src/components/multi-select';
 
 const typeOptions = [
   {

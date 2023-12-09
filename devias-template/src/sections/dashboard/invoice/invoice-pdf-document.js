@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import { format } from 'date-fns';
 import numeral from 'numeral';
 import { Document, Image, Page, StyleSheet, Text, View } from '@react-pdf/renderer';
-import { useTheme } from '@mui/system';
+import { useTheme } from '@mui/material/styles';
 
 const useStyles = () => {
   const theme = useTheme();

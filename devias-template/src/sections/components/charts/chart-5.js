@@ -11,12 +11,12 @@ import ListItem from '@mui/material/ListItem';
 import ListItemText from '@mui/material/ListItemText';
 import SvgIcon from '@mui/material/SvgIcon';
 import Typography from '@mui/material/Typography';
-import { useTheme } from '@mui/system';
+import { useTheme } from '@mui/material/styles';
 
-import { Chart } from 'src/src2/components/chart';
-import { useMounted } from 'src/src2/hooks/use-mounted';
-import { getRandomInt } from 'src/src2/utils/get-random-int';
-import { wait } from 'src/src2/utils/wait';
+import { Chart } from 'src/components/chart';
+import { useMounted } from 'src/hooks/use-mounted';
+import { getRandomInt } from 'src/utils/get-random-int';
+import { wait } from 'src/utils/wait';
 
 const pages = [
   {

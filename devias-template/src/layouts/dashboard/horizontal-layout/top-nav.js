@@ -6,18 +6,20 @@ import IconButton from '@mui/material/IconButton';
 import Stack from '@mui/material/Stack';
 import SvgIcon from '@mui/material/SvgIcon';
 import useMediaQuery from '@mui/material/useMediaQuery';
-import { useTheme } from '@mui/system';
-import { Logo } from 'src/components/logo';
-import { RouterLink } from 'src/src2/components/router-link';
-import { Scrollbar } from 'src/src2/components/scrollbar';
-import { usePathname } from 'src/src2/hooks/use-pathname';
-import { paths } from 'src/src2/paths';
+import { useTheme } from '@mui/material/styles';
 
-import { AccountButton } from 'src/layouts/dashboard/account-button';
-import { ContactsButton } from 'src/src2/layouts/dashboard/contacts-button';
-import { LanguageSwitch } from 'src/src2/layouts/dashboard/language-switch';
-import { TenantSwitch } from 'src/src2/layouts/dashboard/tenant-switch';
-import { TopNavSection } from 'src/src2/layouts/dashboard/horizontal-layout/top-nav-section';
+import { Logo } from 'src/components/logo';
+import { RouterLink } from 'src/components/router-link';
+import { Scrollbar } from 'src/components/scrollbar';
+import { usePathname } from 'src/hooks/use-pathname';
+import { paths } from 'src/paths';
+
+import { AccountButton } from '../account-button';
+import { ContactsButton } from '../contacts-button';
+import { LanguageSwitch } from '../language-switch';
+import { NotificationsButton } from '../notifications-button';
+import { TenantSwitch } from '../tenant-switch';
+import { TopNavSection } from './top-nav-section';
 
 const useCssVars = (color) => {
   const theme = useTheme();
@@ -217,6 +219,7 @@ export const TopNav = (props) => {
           spacing={2}
         >
           <LanguageSwitch />
+          <NotificationsButton />
           <ContactsButton />
           <AccountButton />
         </Stack>

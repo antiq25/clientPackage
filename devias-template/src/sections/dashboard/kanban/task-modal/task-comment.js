@@ -5,7 +5,7 @@ import Paper from '@mui/material/Paper';
 import Stack from '@mui/material/Stack';
 import Typography from '@mui/material/Typography';
 
-import { useSelector } from 'src/src2/store';
+import { useSelector } from 'src/store';
 
 const useAuthor = (authorId) => {
   return useSelector((state) => {

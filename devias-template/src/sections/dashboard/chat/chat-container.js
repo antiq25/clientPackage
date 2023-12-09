@@ -1,4 +1,4 @@
-import { styled } from '@mui/system';
+import { styled } from '@mui/material/styles';
 
 export const ChatContainer = styled('div', { shouldForwardProp: (prop) => prop !== 'open' })(
   ({ theme, open }) => ({

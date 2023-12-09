@@ -10,7 +10,7 @@ import { paths } from 'src/paths';
 import { Logo } from 'src/components/logo'
 
 const issuers = {
-  'Auth0': 'https://cdn.auth0.com/styleguide/components/1.0.9/media/logos/img/badge.png',
+  login: paths.login
 };
 
 

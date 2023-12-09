@@ -20,8 +20,8 @@ import TableHead from '@mui/material/TableHead';
 import TableRow from '@mui/material/TableRow';
 import Typography from '@mui/material/Typography';
 
-import { PropertyList } from 'src/src2/components/property-list';
-import { PropertyListItem } from 'src/src2/components/property-list-item';
+import { PropertyList } from 'src/components/property-list';
+import { PropertyListItem } from 'src/components/property-list-item';
 
 import { AccountPlanIcon } from './account-plan-icon';
 

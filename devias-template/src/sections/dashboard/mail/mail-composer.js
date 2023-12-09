@@ -18,7 +18,7 @@ import SvgIcon from '@mui/material/SvgIcon';
 import Tooltip from '@mui/material/Tooltip';
 import Typography from '@mui/material/Typography';
 
-import { QuillEditor } from 'src/src2/components/quill-editor';
+import { QuillEditor } from 'src/components/quill-editor';
 
 export const MailComposer = (props) => {
   const {

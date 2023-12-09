@@ -5,9 +5,9 @@ import CardContent from '@mui/material/CardContent';
 import CardHeader from '@mui/material/CardHeader';
 import Container from '@mui/material/Container';
 import Typography from '@mui/material/Typography';
-import { useTheme } from '@mui/system';
+import { useTheme } from '@mui/material/styles';
 
-import { Chart } from 'src/src2/components/chart';
+import { Chart } from 'src/components/chart';
 
 const chartSeries = [14859, 35690, 45120];
 

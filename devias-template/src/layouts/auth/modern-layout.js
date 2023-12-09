@@ -53,14 +53,13 @@ export const Layout = (props) => {
             sx={{ mb: 1 }}
             variant="h4"
           >
-            Welcome to Devias Kit PRO
+            Welcome to Show My Service
           </Typography>
           <Typography
             color="text.secondary"
             sx={{ mb: 4 }}
           >
-            A professional kit that comes with ready-to-use MUI components developed with one common
-            goal in mind, help you build faster & beautiful applications.
+            The all-in-one solution to managing and monitoring your services.
           </Typography>
           <Typography
             variant="subtitle2"

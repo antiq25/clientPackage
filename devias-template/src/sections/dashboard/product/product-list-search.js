@@ -9,8 +9,8 @@ import Stack from '@mui/material/Stack';
 import SvgIcon from '@mui/material/SvgIcon';
 import Typography from '@mui/material/Typography';
 
-import { MultiSelect } from 'src/src2/components/multi-select';
-import { useUpdateEffect } from 'src/src2/hooks/use-update-effect';
+import { MultiSelect } from 'src/components/multi-select';
+import { useUpdateEffect } from 'src/hooks/use-update-effect';
 
 const categoryOptions = [
   {

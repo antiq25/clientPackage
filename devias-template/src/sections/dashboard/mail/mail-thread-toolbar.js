@@ -20,8 +20,8 @@ import Tooltip from '@mui/material/Tooltip';
 import Typography from '@mui/material/Typography';
 import useMediaQuery from '@mui/material/useMediaQuery';
 
-import { RouterLink } from 'src/src2/components/router-link';
-import { getInitials } from 'src/src2/utils/get-initials';
+import { RouterLink } from 'src/components/router-link';
+import { getInitials } from 'src/utils/get-initials';
 
 export const MailThreadToolbar = (props) => {
   const { backHref, createdAt, from, to } = props;

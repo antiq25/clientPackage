@@ -101,11 +101,7 @@ pixelRouter.post("/create-widget", verifyToken, async (req, res) => {
   }
 });
 
-
-
-
-
-pixelRouter.get('/widget', verifyToken, async (req, res) => {
+pixelRouter.get("/widget", verifyToken, async (req, res) => {
   const { userId, businessId } = req.query;
 
   try {
@@ -115,21 +111,30 @@ pixelRouter.get('/widget', verifyToken, async (req, res) => {
     if (widget) {
       res.json(widget);
     } else {
-      res.status(404).json({ message: 'Widget not found for the given businessId and userId.' });
+      res
+        .status(404)
+        .json({
+          message: "Widget not found for the given businessId and userId.",
+        });
     }
   } catch (error) {
-    res.status(500).json({ message: 'An error occurred while fetching the widget.', error: error.message });
+    res
+      .status(500)
+      .json({
+        message: "An error occurred while fetching the widget.",
+        error: error.message,
+      });
   }
 });
 
-pixelRouter.get('/user-widgets', verifyToken, async (req, res) => {
+pixelRouter.get("/user-widgets", verifyToken, async (req, res) => {
   // Convert the userId to a string to match the expected type in the Prisma schema
   const userId = String(req.user.id);
 
   try {
     const widgets = await prisma.widget.findMany({
       where: {
-        userId: userId // Ensure userId is a string
+        userId: userId, // Ensure userId is a string
       },
       select: {
         business: true,
@@ -139,18 +144,18 @@ pixelRouter.get('/user-widgets', verifyToken, async (req, res) => {
         updatedAt: true,
         id: true,
         viewCount: true,
-        clickCount: true
-      }
+        clickCount: true,
+      },
     });
     res.json(widgets);
   } catch (error) {
-    res.status(500).json({ message: 'An error occurred while fetching the widgets for the user.', error: error.message });
+    res
+      .status(500)
+      .json({
+        message: "An error occurred while fetching the widgets for the user.",
+        error: error.message,
+      });
   }
 });
-
-
-
-
-
 
 export default pixelRouter;

@@ -5,7 +5,7 @@ import Table from '@mui/material/Table';
 import TableBody from '@mui/material/TableBody';
 import TablePagination from '@mui/material/TablePagination';
 
-import { Scrollbar } from 'src/src2/components/scrollbar';
+import { Scrollbar } from 'src/components/scrollbar';
 
 import { ItemListCard } from './item-list-card';
 import { ItemListRow } from './item-list-row';

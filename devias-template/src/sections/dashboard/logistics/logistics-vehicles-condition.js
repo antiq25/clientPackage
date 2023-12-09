@@ -5,8 +5,8 @@ import Card from '@mui/material/Card';
 import CardHeader from '@mui/material/CardHeader';
 import Grid from '@mui/material/Unstable_Grid2';
 import Typography from '@mui/material/Typography';
-import { useTheme } from '@mui/system';
-import { Chart } from 'src/src2/components/chart';
+import { useTheme } from '@mui/material/styles';
+import { Chart } from 'src/components/chart';
 
 const categories = [
   {

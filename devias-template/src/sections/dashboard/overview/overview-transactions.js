@@ -13,8 +13,8 @@ import TableRow from '@mui/material/TableRow';
 import Tabs from '@mui/material/Tabs';
 import Typography from '@mui/material/Typography';
 
-import { Scrollbar } from 'src/src2/components/scrollbar';
-import { SeverityPill } from 'src/src2/components/severity-pill';
+import { Scrollbar } from 'src/components/scrollbar';
+import { SeverityPill } from 'src/components/severity-pill';
 
 const statusMap = {
   confirmed: 'success',

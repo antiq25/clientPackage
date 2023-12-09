@@ -15,8 +15,8 @@ import SvgIcon from '@mui/material/SvgIcon';
 import Tooltip from '@mui/material/Tooltip';
 import Typography from '@mui/material/Typography';
 
-import { usePopover } from 'src/src2/hooks/use-popover';
-import { bytesToSize } from 'src/src2/utils/bytes-to-size';
+import { usePopover } from 'src/hooks/use-popover';
+import { bytesToSize } from 'src/utils/bytes-to-size';
 
 import { ItemIcon } from './item-icon';
 import { ItemMenu } from './item-menu';

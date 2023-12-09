@@ -14,7 +14,7 @@ import IconButton from '@mui/material/IconButton';
 import Stack from '@mui/material/Stack';
 import SvgIcon from '@mui/material/SvgIcon';
 import Typography from '@mui/material/Typography';
-import { bytesToSize } from 'src/src2/utils/bytes-to-size';
+import { bytesToSize } from 'src/utils/bytes-to-size';
 
 import { ItemIcon } from '../item-icon';
 import { ItemTags } from './item-tags';

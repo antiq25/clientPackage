@@ -6,9 +6,9 @@ import CardHeader from '@mui/material/CardHeader';
 import Container from '@mui/material/Container';
 import Stack from '@mui/material/Stack';
 import Typography from '@mui/material/Typography';
-import { useTheme } from '@mui/system';
+import { useTheme } from '@mui/material/styles';
 
-import { Chart } from 'src/src2/components/chart';
+import { Chart } from 'src/components/chart';
 
 const chartSeries = [
   {

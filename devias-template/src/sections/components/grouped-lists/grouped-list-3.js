@@ -14,7 +14,7 @@ import ListItemText from '@mui/material/ListItemText';
 import SvgIcon from '@mui/material/SvgIcon';
 import Tooltip from '@mui/material/Tooltip';
 
-import { Scrollbar } from 'src/src2/components/scrollbar';
+import { Scrollbar } from 'src/components/scrollbar';
 
 const now = new Date();
 

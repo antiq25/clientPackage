@@ -19,8 +19,8 @@ import TextField from '@mui/material/TextField';
 import Typography from '@mui/material/Typography';
 import { DateTimePicker } from '@mui/x-date-pickers/DateTimePicker';
 
-import { useDispatch } from 'src/src2/store';
-import { thunks } from 'src/src2/thunks/calendar';
+import { useDispatch } from 'src/store';
+import { thunks } from 'src/thunks/calendar';
 
 const useInitialValues = (event, range) => {
   return useMemo(() => {

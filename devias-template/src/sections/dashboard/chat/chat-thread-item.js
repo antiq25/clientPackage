@@ -6,8 +6,8 @@ import Box from '@mui/material/Box';
 import Stack from '@mui/material/Stack';
 import Typography from '@mui/material/Typography';
 
-import { useMockedUser } from 'src/src2/hooks/use-mocked-user';
-import { customLocale } from 'src/src2/utils/date-locale';
+import { useMockedUser } from 'src/hooks/use-mocked-user';
+import { customLocale } from 'src/utils/date-locale';
 
 const getLastMessage = (thread) => {
   return thread.messages?.[thread.messages.length - 1];

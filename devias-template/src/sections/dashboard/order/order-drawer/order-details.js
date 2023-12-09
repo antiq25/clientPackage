@@ -13,10 +13,10 @@ import TableRow from '@mui/material/TableRow';
 import Typography from '@mui/material/Typography';
 import useMediaQuery from '@mui/material/useMediaQuery';
 
-import { PropertyList } from 'src/src2/components/property-list';
-import { PropertyListItem } from 'src/src2/components/property-list-item';
-import { SeverityPill } from 'src/src2/components/severity-pill';
-import { Scrollbar } from 'src/src2/components/scrollbar';
+import { PropertyList } from 'src/components/property-list';
+import { PropertyListItem } from 'src/components/property-list-item';
+import { SeverityPill } from 'src/components/severity-pill';
+import { Scrollbar } from 'src/components/scrollbar';
 
 const statusMap = {
   canceled: 'warning',

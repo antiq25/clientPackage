@@ -9,7 +9,7 @@ import ListItemText from '@mui/material/ListItemText';
 import Paper from '@mui/material/Paper';
 import Typography from '@mui/material/Typography';
 
-import { Presence } from 'src/src2/components/presence';
+import { Presence } from 'src/components/presence';
 
 const now = new Date();
 

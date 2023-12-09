@@ -36,7 +36,7 @@ const CreateListingDialog = ({ open, onClose, onCreationSuccess }) => {
 
   const collectReviews = async () => {
     setIsLoading(true);
-    setStatus('Scraping...');
+    setStatus('Crawling..');
     try {
       const response = await fetch('http://localhost:3002/scrape/collect-reviews', {
         method: 'POST',

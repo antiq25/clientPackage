@@ -8,10 +8,10 @@ import CardHeader from '@mui/material/CardHeader';
 import Divider from '@mui/material/Divider';
 import IconButton from '@mui/material/IconButton';
 import SvgIcon from '@mui/material/SvgIcon';
-import { ThemeProvider } from '@mui/system';
+import { ThemeProvider } from '@mui/material/styles';
 
-import { useSettings } from 'src/src2/hooks/use-settings';
-import { createTheme } from 'src/src2/theme';
+import { useSettings } from 'src/hooks/use-settings';
+import { createTheme } from 'src/theme';
 
 export const Previewer = (props) => {
   const { children, title, ...other } = props;

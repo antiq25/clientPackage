@@ -2,9 +2,7 @@ import React, { createContext, useContext } from 'react';
 import axios from 'axios';
 
 const ApiContext = createContext();
-
 const baseURL = 'http://localhost:3002/scrape';
-const SatURL = 'https://smart.aliveai.net/scrape';
 
 export const ApiProvider = ({ children }) => {
   const api = {
@@ -14,6 +12,7 @@ export const ApiProvider = ({ children }) => {
         return response.data;
       } catch (error) {
         console.error(error);
+        throw error;
       }
     },
 
@@ -23,6 +22,7 @@ export const ApiProvider = ({ children }) => {
         return response.data;
       } catch (error) {
         console.error(error);
+        throw error;
       }
     },
 
@@ -32,20 +32,25 @@ export const ApiProvider = ({ children }) => {
         return response.data.viewCount;
       } catch (error) {
         console.error(error);
+        throw error;
       }
     },
 
     async getClickCount() {
       try {
         const response = await axios.get(`${baseURL}/click-count`);
-        return response.data.clickCount.data;
+        return response.data.clickCount;
       } catch (error) {
         console.error(error);
+        throw error;
       }
     },
 
     async businessNames() {
       const token = localStorage.getItem('token');
+      if (!token) {
+        throw new Error('No token found');
+      }
       try {
         const response = await axios.get(`${baseURL}/business-names`, {
           headers: {
@@ -56,7 +61,7 @@ export const ApiProvider = ({ children }) => {
         return response.data;
       } catch (error) {
         console.error(error);
-        throw new Error('Failed to fetch business names');
+        throw error;
       }
     },
 
@@ -72,15 +77,32 @@ export const ApiProvider = ({ children }) => {
             Authorization: `Bearer ${token}`,
           },
         });
-        if (response.status !== 200) {
-          throw new Error('Failed to fetch reviews');
-        }
         return response.data;
       } catch (error) {
         console.error(error);
-        throw new Error('An error occurred while fetching the reviews');
+        throw error;
       }
     },
+
+    async fetchUserWidget(userId) {
+      const token = localStorage.getItem('token');
+      if (!token) {
+        throw new Error('No token found');
+      }
+      try {
+        const response = await axios.get(`${baseURL}/user-widgets`, {
+          params: { userId },
+          headers: {
+            'Content-Type': 'application/json',
+            Authorization: `Bearer ${token}`,
+          },
+        });
+        return response.data;
+      } catch (error) {
+        console.error(error);
+        throw new Error(`Failed to fetch widgets for userId ${userId}: ${error.message}`);
+      }
+    }
   };
 
   return <ApiContext.Provider value={api}>{children}</ApiContext.Provider>;

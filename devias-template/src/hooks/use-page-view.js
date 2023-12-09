@@ -1,6 +1,6 @@
 import { useEffect } from 'react';
 
-import { gtm } from 'src/src2/libs/gtm';
+import { gtm } from 'src/libs/gtm';
 
 export const usePageView = () => {
   useEffect(() => {

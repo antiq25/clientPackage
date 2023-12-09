@@ -11,16 +11,15 @@ import SvgIcon from '@mui/material/SvgIcon';
 import Typography from '@mui/material/Typography';
 
 import { jobsApi } from 'src/src2/api/jobs';
-import { RouterLink } from 'src/src2/components/router-link';
-import { Seo } from 'src/src2/components/seo';
-import { useMounted } from 'src/src2/hooks/use-mounted';
-import { usePageView } from 'src/src2/hooks/use-page-view';
-import { JobListSearch } from 'src/src2/sections/dashboard/jobs/job-list-search';
+import { RouterLink } from 'src/components/router-link';
+import { Seo } from 'src/components/seo';
+import { useMounted } from 'src/hooks/use-mounted';
+import { usePageView } from 'src/hooks/use-page-view';
+import { JobListSearch } from 'src/sections/dashboard/jobs/job-list-search';
 import { Logo } from 'src/components/logo1';  
 import { Layout as DashboardLayout } from 'src/layouts/dashboard';
 import { paths } from 'src/paths';
 import { useSettings } from 'src/hooks/use-settings'; 
-import BusinessNamesList from 'src/components/company_card/companycard';
 import WidgetsCardList from 'src/components/company_card/WidgetCardList'
 import { ReviewsDataProvider } from 'src/components/company_card/ReviewsDataProvider';
 import useUser from  'src/hooks/decode';
@@ -51,7 +50,6 @@ const useCompanies = () => {
     );
     
     return companies;
-    const userId = useUser();
 };
 
 const Page = () => {

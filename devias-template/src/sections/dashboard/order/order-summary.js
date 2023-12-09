@@ -9,8 +9,8 @@ import Stack from '@mui/material/Stack';
 import TextField from '@mui/material/TextField';
 import Typography from '@mui/material/Typography';
 import useMediaQuery from '@mui/material/useMediaQuery';
-import { PropertyList } from 'src/src2/components/property-list';
-import { PropertyListItem } from 'src/src2/components/property-list-item';
+import { PropertyList } from 'src/components/property-list';
+import { PropertyListItem } from 'src/components/property-list-item';
 
 const statusOptions = ['Canceled', 'Complete', 'Rejected'];
 

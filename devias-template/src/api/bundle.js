@@ -17,7 +17,6 @@ const apiCall = async (type, call, successMessage, errorMessagePrefix) => {
     };
   }
 };
-
 const showSuccessMessage = (type, message) =>
   console.log(generateMessage('success', type, message));
 const showErrorMessage = (type, message) => console.log(generateMessage('error', type, message));
@@ -25,16 +24,18 @@ const generateMessage = (messageType, type, message) =>
   `[${messageType.toUpperCase()}] ${type}: ${message}`;
 
 const apiClient = axios.create({
-	baseURL: 'http://localhost:3000/api/v1',
+  baseURL: 'http://localhost:3000/api/v1',
   headers: {
     'Content-Type': 'application/json',
+    'Access-Control-Allow-Origin': '*',
+    // Allow requests from any origin
     'Access-Control-Allow-Methods': 'GET, POST, PUT, DELETE',
+    // Allow specific HTTP methods
     'Access-Control-Allow-Headers': 'Content-Type, Authorization',
     // Allow specific headers
   },
   withCredentials: true,
 });
-
 apiClient.interceptors.request.use(
   (config) => {
     const token = localStorage.getItem('token');
@@ -58,11 +59,7 @@ const authAPIEndpoints = {
   fetchProfile: '/profile/fetch',
   forgotPassword: '/recovery/forgot-password',
   resetPassword: '/recovery/reset-password',
-  createListing: '/dashboard/create-listing',
-  getListing: '/dashboard/get-listing',
-  fetchReviews: '/dashboard/fetch-reviews',
 };
-
 const authAPI = {
   signup: (data) =>
     apiCall(
@@ -104,7 +101,7 @@ const authAPI = {
       'Verification email resent',
       'Resending verification email failed'
     ),
-  fetchProfile: () =>
+  getProfile: (id) =>
     apiCall(
       'fetchProfile',
       () => apiClient.get(authAPIEndpoints.fetchProfile),
@@ -125,95 +122,216 @@ const authAPI = {
       'Password reset successful',
       'Password reset failed'
     ),
-  createListing: (userId, name, reviews_url, description) =>
-    apiCall(
-      'createListing',
+};
+
+const crawlClient = axios.create({
+  baseURL: 'http://localhost:3002/scrape',
+  headers: {
+    'Access-Control-Allow-Methods': 'GET, POST, PUT, DELETE',
+    'Access-Control-Allow-Headers': 'Content-Type, Authorization',
+    'Content-Type': 'application/json',
+  },
+  withCredentials: true,
+});
+crawlClient.interceptors.request.use(
+  (config) => {
+    const token = localStorage.getItem('token');
+    if (token) {
+      config.headers['Authorization'] = `Bearer ${token}`;
+    }
+    return config;
+  },
+  (error) => {
+    console.error('Error in request interceptor:', error);
+    return Promise.reject(error);
+  }
+);
+const crawlCall = async (type, call, successMessage, errorMessagePrefix) => {
+  const generateMessage = (messageType, message) =>
+    `[${messageType.toUpperCase()}] ${type}: ${message}`;
+  try {
+    const response = await call();
+    console.log(generateMessage('success', successMessage));
+    return {
+      success: true,
+      data: response.data,
+    };
+  } catch (error) {
+    const errorMessage = error.response?.data?.message || errorMessagePrefix;
+    console.error(generateMessage('error', `${errorMessagePrefix}: ${errorMessage}`));
+    return {
+      success: false,
+      error: errorMessage,
+    };
+  }
+};
+const crawler = {
+  collectReviews: (companyNames, companyLocations) =>
+    crawlCall(
+      'collectReviews',
       () =>
-        apiClient.post(authAPIEndpoints.createListing, {
-          userId,
-          name,
-          reviews_url,
-          description,
+        crawlClient.post('/collect-reviews', {
+          companyNames,
+          companyLocations,
         }),
-      'Listing created successfully',
-      'Listing creation failed'
+      'Collect Reviews successful',
+      'Collect Reviews failed'
     ),
-  getListing: (userId, listingName) =>
-    apiCall(
-      'getListing',
-      () =>
-        apiClient.get(authAPIEndpoints.getListing, {
-          params: { userId, listingName },
-        }),
-      'Listing fetched',
-      'Fetching listing failed'
+  importReviews: () =>
+    crawlCall(
+      'importReviews',
+      () => crawlClient.post('/import-reviews'),
+      'Import Reviews successful',
+      'Import Reviews failed'
     ),
-  fetchReviews: (listingId, max_reviews) =>
-    apiCall(
-      'fetchReviews',
-      () =>
-        apiClient.get(authAPIEndpoints.fetchReviews, {
-          params: { listingId, max_reviews },
-        }),
-      'Reviews fetched',
-      'Fetching reviews failed'
+  getReviews: () =>
+    crawlCall(
+      'getReviews',
+      () => crawlClient.get('/reviews'),
+      'Get Reviews successful',
+      'Get Reviews failed'
+    ),
+  getFormattedReviews: () =>
+    crawlCall(
+      'getFormattedReviews',
+      () => crawlClient.get('/get-reviews'),
+      'Get Formatted Reviews successful',
+      'Get Formatted Reviews failed'
+    ),
+  getBusinessNames: () =>
+    crawlCall(
+      'getBusinessNames',
+      () => crawlClient.get('/business-names'),
+      'Get Business Names successful',
+      'Get Business Names failed'
+    ),
+  logView: (userId, businessId) =>
+    crawlCall(
+      'logView',
+      () => crawlClient.post('/log-view', { userId, businessId }),
+      'Log view successful',
+      'Log view failed'
+    ),
+  logClick: (userId, businessId) =>
+    crawlCall(
+      'logClick',
+      () => crawlClient.post('/log-click', { userId, businessId }),
+      'Log click successful',
+      'Log click failed'
+    ),
+  getViewCount: (userId, businessId) =>
+    crawlCall(
+      'getViewCount',
+      () => crawlClient.get('/view-count', { params: { userId, businessId } }),
+      'Get view count successful',
+      'Get view count failed'
+    ),
+  getClickCount: (userId, businessId) =>
+    crawlCall(
+      'getClickCount',
+      () => crawlClient.get('/click-count', { params: { userId, businessId } }),
+      'Get click count successful',
+      'Get click count failed'
+    ),
+  createWidget: (userId, businessId, widgetData) =>
+    crawlCall(
+      'createWidget',
+      () => crawlClient.post('/create-widget', { userId, businessId, widgetData }),
+      'Create widget successful',
+      'Create widget failed'
+    ),
+  getWidget: (userId, businessId) =>
+    crawlCall(
+      'getWidget',
+      () => crawlClient.get('/widget', { params: { userId, businessId } }),
+      'Get widget successful',
+      'Get widget failed'
+    ),
+  getUserWidgets: () =>
+    crawlCall(
+      'getUserWidgets',
+      () => crawlClient.get('/user-widgets'),
+      'Get user widgets successful',
+      'Get user widgets failed'
     ),
 };
 
-const handleSignup = (email, password, firstName, lastName) => {
-  return authAPI.signup({ email, password, firstName, lastName });
-};
-const handleLogin = (email, password) => {
-  return authAPI.login({ email, password });
-};
-const handleVerifyEmail = (code) => {
-  return authAPI.verifyEmail(code);
-};
-const handleResendEmailVerification = (email) => {
-  return authAPI.resendEmailVerification({ email });
-};
-const handleGetProfile = () => {
-  return authAPI.fetchProfile();
-};
-const handleUpdateProfile = (id, profileData) => {
-  return authAPI.updateProfile(id, profileData);
-};
-const handleForgotPassword = (email) => {
-  return authAPI.forgotPassword(email);
-};
-const handleResetPassword = (code, password) => {
-  return authAPI.resetPassword(code, password);
-};
-const handleCreateListing = (id, name, reviews_url, description) => {
-  return authAPI.createListing(id, name, reviews_url, description);
-};
-const handleGetListing = (userId, listingName) => {
-  return authAPI.getListing(userId, listingName);
-};
-const handleFetchReviews = (listingId, max_reviews) => {
-  return authAPI.fetchReviews(listingId, max_reviews);
+const crawl = {
+  collect: (companyNames, companyLocations) => {
+    return crawler.collectReviews(companyNames, companyLocations);
+  },
+  import: () => {
+    return crawler.importReviews();
+  },
+  reviews: () => {
+    return crawler.getReviews();
+  },
+  formattedReviews: () => {
+    return crawler.getFormattedReviews();
+  },
+  businesses: () => {
+    return crawler.getBusinessNames();
+  },
+  logView: (userId, businessId) => {
+    return crawler.logView(userId, businessId);
+  },
+  logClick: (userId, businessId) => {
+    return crawler.logClick(userId, businessId);
+  },
+  views: (userId, businessId) => {
+    return crawler.getViewCount(userId, businessId);
+  },
+  clicks: (userId, businessId) => {
+    return crawler.getClickCount(userId, businessId);
+  },
+  create: (userId, businessId, widgetData) => {
+    return crawler.createWidget(userId, businessId, widgetData);
+  },
+  getWidget: (userId, businessId) => {
+    return crawler.getWidget(userId, businessId);
+  },
+  userWidgets: () => {
+    return crawler.getUserWidgets();
+  },
 };
 
-const apiWrap = {
-  handleSignup,
-  handleLogin,
-  handleVerifyEmail,
-  handleResendEmailVerification,
-  handleGetProfile,
-  handleUpdateProfile,
-  handleForgotPassword,
-  handleResetPassword,
-  handleCreateListing,
-  handleGetListing,
-  handleFetchReviews,
+const apiHandler = {
+  handleSignup: (email, password, firstName, lastName) => {
+    return authAPI.signup({ email, password, firstName, lastName });
+  },
+  handleLogin: (email, password) => {
+    return authAPI.login({ email, password });
+  },
+  handleVerifyEmail: (code) => {
+    return authAPI.verifyEmail(code);
+  },
+  handleResendEmailVerification: (email) => {
+    return authAPI.resendEmailVerification({ email });
+  },
+  handleGetProfile: (id) => {
+    return authAPI.getProfile(id);
+  },
+  handleUpdateProfile: (id, profileData) => {
+    return authAPI.updateProfile(id, profileData);
+  },
+  handleForgotPassword: (email) => {
+    return authAPI.forgotPassword(email);
+  },
+  handleResetPassword: (token, password) => {
+    return authAPI.resetPassword(token, password);
+  },
 };
 
 export {
   apiCall,
   apiClient as apiConfig,
-  apiWrap as apiHandler,
+  apiHandler,
   authAPI,
   authAPIEndpoints,
+  crawl,
+  crawlCall,
+  crawlClient,
+  crawler,
   generateMessage,
   showErrorMessage,
   showSuccessMessage,

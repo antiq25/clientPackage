@@ -1,5 +1,5 @@
 import PropTypes from 'prop-types';
-import { useTheme } from '@mui/system';
+import { useTheme } from '@mui/material/styles';
 
 export const PricingPlanIcon = (props) => {
   const { name } = props;

@@ -8,7 +8,7 @@ import Stack from '@mui/material/Stack';
 import SvgIcon from '@mui/material/SvgIcon';
 import Typography from '@mui/material/Typography';
 
-import { FileDropzone } from 'src/src2/components/file-dropzone';
+import { FileDropzone } from 'src/components/file-dropzone';
 
 export const FileUploader = (props) => {
   const { onClose, open = false } = props;

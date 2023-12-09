@@ -14,11 +14,11 @@ import TablePagination from '@mui/material/TablePagination';
 import TableRow from '@mui/material/TableRow';
 import Typography from '@mui/material/Typography';
 
-import { RouterLink } from 'src/src2/components/router-link';
-import { Scrollbar } from 'src/src2/components/scrollbar';
-import { SeverityPill } from 'src/src2/components/severity-pill';
-import { paths } from 'src/src2/paths';
-import { getInitials } from 'src/src2/utils/get-initials';
+import { RouterLink } from 'src/components/router-link';
+import { Scrollbar } from 'src/components/scrollbar';
+import { SeverityPill } from 'src/components/severity-pill';
+import { paths } from 'src/paths';
+import { getInitials } from 'src/utils/get-initials';
 
 const groupInvoices = (invoices) => {
   return invoices.reduce(

@@ -1,4 +1,4 @@
-import { neutral } from 'src/src2/theme/colors';
+import { neutral } from 'src/theme/colors';
 
 export const codeStyle = {
   'code[class*="language-"]': {

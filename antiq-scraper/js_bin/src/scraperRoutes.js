@@ -124,7 +124,6 @@ scraperRouter.get("/business-names", verifyToken, async (req, res) => {
     if (!req.user ||req.user.id === "undefined") {
       return res.status(401).json({ message: "Invalid user information" });
     }
-    const userId = String(req.user.id);
     const business = await prisma.business.findMany({
       select: {
           name: true,

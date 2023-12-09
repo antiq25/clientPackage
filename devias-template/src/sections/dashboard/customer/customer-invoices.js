@@ -12,11 +12,11 @@ import TableHead from '@mui/material/TableHead';
 import TablePagination from '@mui/material/TablePagination';
 import TableRow from '@mui/material/TableRow';
 
-import { MoreMenu } from 'src/src2/components/more-menu';
-import { RouterLink } from 'src/src2/components/router-link';
-import { Scrollbar } from 'src/src2/components/scrollbar';
-import { SeverityPill } from 'src/src2/components/severity-pill';
-import { paths } from 'src/src2/paths';
+import { MoreMenu } from 'src/components/more-menu';
+import { RouterLink } from 'src/components/router-link';
+import { Scrollbar } from 'src/components/scrollbar';
+import { SeverityPill } from 'src/components/severity-pill';
+import { paths } from 'src/paths';
 
 export const CustomerInvoices = (props) => {
   const { invoices = [], ...other } = props;

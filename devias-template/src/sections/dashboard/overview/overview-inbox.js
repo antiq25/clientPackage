@@ -17,7 +17,7 @@ import ListItemText from '@mui/material/ListItemText';
 import SvgIcon from '@mui/material/SvgIcon';
 import Typography from '@mui/material/Typography';
 
-import { customLocale } from 'src/src2/utils/date-locale';
+import { customLocale } from 'src/utils/date-locale';
 
 export const OverviewInbox = (props) => {
   const { messages } = props;

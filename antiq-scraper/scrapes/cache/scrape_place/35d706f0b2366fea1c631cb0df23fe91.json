@@ -1,0 +1,294 @@
+{
+    "place_id": "ChIJge96vF_ThVQRtQu6JK3Qx3k",
+    "name": "Loblaw Pharmacy",
+    "description": null,
+    "reviews": 7,
+    "website": "https://www.nofrills.ca/pharmacy?storeId=3604&utm_source=G&utm_medium=LPM&utm_campaign=Loblaws",
+    "owner": {
+        "id": "117421153334039575040",
+        "name": "Loblaw Pharmacy (Owner)",
+        "link": "https://www.google.com/maps/contrib/117421153334039575040"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=SiAI8aPWbu7gmVnry7r9ZQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=270.2451&pitch=0&thumbfov=100",
+    "main_category": "Pharmacy",
+    "categories": [
+        "Pharmacy",
+        "Drug store"
+    ],
+    "rating": 4.1,
+    "workday_timing": "9 a.m.-8 p.m.",
+    "closed_on": [],
+    "phone": "(604) 467-0753",
+    "address": "Loblaw Pharmacy, 22427 Dewdney Trunk Rd, Maple Ridge, BC V2X 7X7",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/Loblaw+Pharmacy/data=!4m7!3m6!1s0x5485d35fbc7aef81:0x79c7d0ad24ba0bb5!8m2!3d49.220494!4d-122.6013361!16s%2Fg%2F11ggqdcvf8!19sChIJge96vF_ThVQRtQu6JK3Qx3k?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 9 a.m.",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 2,
+        "5": 4
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJge96vF_ThVQRtQu6JK3Qx3k&q=Loblaw+Pharmacy&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.220493999999995,
+        "longitude": -122.6013361
+    },
+    "plus_code": "69CX+5F Maple Ridge, British Columbia",
+    "detailed_address": {
+        "ward": null,
+        "street": "22427 Dewdney Trunk Rd",
+        "city": "Maple Ridge",
+        "postal_code": "V2X 7X7",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "8775211841018792885",
+    "data_id": "0x5485d35fbc7aef81:0x79c7d0ad24ba0bb5",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "In-store pickup",
+                    "enabled": true
+                },
+                {
+                    "name": "In-store shopping",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=SiAI8aPWbu7gmVnry7r9ZQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=270.2453&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=SiAI8aPWbu7gmVnry7r9ZQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=270.2453&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "9 a.m.-8 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "9 a.m.-8 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "9 a.m.-8 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "9 a.m.-8 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "9 a.m.-8 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "9 a.m.-6 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "10 a.m.-4 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "This is the best Pharmacy I have had the pleasure of doing business with.  The Pharmacists and  their assistants are very friendly, informative,  and very effecficiant.  They show they care about you and your health needs. They have also come to my aid when needed.  Thank you to all at Loblaws Pharmacy.",
+            "reviewer_name": "Carrie Richards",
+            "rating": 5,
+            "review_text": "This is the best Pharmacy I have had the pleasure of doing business with.  The Pharmacists and  their assistants are very friendly, informative,  and very effecficiant.  They show they care about you and your health needs. They have also come to my aid when needed.  Thank you to all at Loblaws Pharmacy.",
+            "published_at": "a year ago",
+            "published_at_date": "2022-05-31T00:01:17.413000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/103320559949543657174/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJy67SzVz0vvtdcxoW4fRTVIF7NydfzIVn-qVB8_Rd8=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Really nice people, would not go to any other pharmacy in Maple Ridge.",
+            "reviewer_name": "Kevin Rocker Lake",
+            "rating": 5,
+            "review_text": "Really nice people, would not go to any other pharmacy in Maple Ridge.",
+            "published_at": "2 years ago",
+            "published_at_date": "2021-09-22T19:22:41.551000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 24,
+            "total_number_of_photos_by_reviewer": 3,
+            "reviewer_url": "https://www.google.com/maps/contrib/114581516335166208255/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXFfs0xkZySaX_U3sSG5Nh4RHk7gjIigszsrKrp7lBCZfE=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "The worse service.",
+            "reviewer_name": "Farah Aryaee",
+            "rating": 1,
+            "review_text": "The worse service.",
+            "published_at": "a year ago",
+            "published_at_date": "2022-07-13T20:26:38.231000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 4,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/111564068783644958084/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIB7O9drFwyQA3PvQeumBs6r8Cea0TePV7qU1TdEx3l=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Aria Forumand",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-28T23:04:20.068000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 0,
+            "total_number_of_photos_by_reviewer": 3,
+            "reviewer_url": "https://www.google.com/maps/contrib/113731660038221536440/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWQzqcYaGskF25KC_SMjpCow3kGHdZcKFthpGOiPZKymLk=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "David Hecker",
+            "rating": 4,
+            "review_text": null,
+            "published_at": "2 years ago",
+            "published_at_date": "2021-05-02T01:39:29.926000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 13,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/108238035917406703927/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLwnZxMi8JlHIIq5tAGU7ywj1cHUImX8_X1mPIhDNRw=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Dolly R",
+            "rating": 4,
+            "review_text": null,
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-29T21:56:25.476000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 31,
+            "total_number_of_photos_by_reviewer": 3,
+            "reviewer_url": "https://www.google.com/maps/contrib/117039623680118251180/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocK0sXYASsR1ltFUDnhmK05bguVNK-w-v5gCs2nFgO2pOSE=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Jocelyn Marquezo",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "2 months ago",
+            "published_at_date": "2023-10-03T15:52:06.466000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 3,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/109464679742334161700/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWNfOQwT2GO0uT-d_Fg-9qImrNRTqvRUjda65v6GHwRIv4=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

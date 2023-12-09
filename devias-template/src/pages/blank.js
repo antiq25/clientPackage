@@ -76,7 +76,8 @@ const Page = () => {
             <WidgetCreator />
 
               <WidgetCard 
-            Widget userId={userId} 
+            Widget
+userId={userId} 
             />
            
           </Stack>

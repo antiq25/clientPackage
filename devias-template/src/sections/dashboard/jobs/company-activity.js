@@ -12,7 +12,7 @@ import TimelineContent from '@mui/lab/TimelineContent';
 import TimelineDot from '@mui/lab/TimelineDot';
 import TimelineItem from '@mui/lab/TimelineItem';
 import TimelineSeparator from '@mui/lab/TimelineSeparator';
-import { getInitials } from 'src/src2/utils/get-initials';
+import { getInitials } from 'src/utils/get-initials';
 
 const renderContent = (activity) => {
   switch (activity.type) {

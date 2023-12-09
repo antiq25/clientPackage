@@ -32,20 +32,25 @@ start_env() {
 }
 
 start_install() {
-    cd "${SMSDIR}" && command package-updater
+    cd "${SMSDIR}" && command pkg-update
     sleep 1
     command yarn
     sleep 1
     echo "*** BACKEND INITILIAZED *** "
     ## ------ FRONT END ------ ##
-    cd "${SMSFRONT}" && command package-updater
+    cd "${SMSFRONT}" && command pkg-update
     sleep 1
     command yarn
     sleep 1
     echo "*** FRONTEND INITILIAZED ***"
     ## ------- SCRAPER --------- ##
-    cd "${SCRAPER}" && command package-updater && command yarn
+    cd "${SCRAPER}" && command pkg-update && command yarn
 }
+
+wipe_db() {
+	cd "${SCRAPER}" && command yarn prisma migrate reset
+}
+
 
 main_menu() {
     while true; do
@@ -55,6 +60,7 @@ main_menu() {
         echo "  ├── 2 database"
         echo "  ├── 3 env"
         echo "  ├── 4 server"
+	echo " wipe |  wipe db "
         read -r choice
         case $choice in
         "1")
@@ -73,6 +79,10 @@ main_menu() {
             start_server
             break
             ;;
+	"wipe")
+	  wipe_db
+	  break
+	  ;;
         "exit")
             echo "Exiting..."
             break

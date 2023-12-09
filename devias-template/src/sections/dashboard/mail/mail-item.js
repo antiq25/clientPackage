@@ -13,8 +13,8 @@ import SvgIcon from '@mui/material/SvgIcon';
 import Tooltip from '@mui/material/Tooltip';
 import Typography from '@mui/material/Typography';
 
-import { RouterLink } from 'src/src2/components/router-link';
-import { getInitials } from 'src/src2/utils/get-initials';
+import { RouterLink } from 'src/components/router-link';
+import { getInitials } from 'src/utils/get-initials';
 
 export const MailItem = (props) => {
   const { email, onDeselect, onSelect, selected, href, ...other } = props;

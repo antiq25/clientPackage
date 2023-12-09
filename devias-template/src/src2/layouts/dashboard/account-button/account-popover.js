@@ -22,6 +22,7 @@ import { paths } from 'src/src2/paths';
 import { Issuer } from 'src/src2/utils/auth';
 
 export const AccountPopover = (props) => {
+  
   const { anchorEl, onClose, open, ...other } = props;
   const router = useRouter();
   const auth = useAuth();

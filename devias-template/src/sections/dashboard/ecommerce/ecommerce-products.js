@@ -15,8 +15,8 @@ import TableCell from '@mui/material/TableCell';
 import TableRow from '@mui/material/TableRow';
 import Typography from '@mui/material/Typography';
 
-import { MoreMenu } from 'src/src2/components/more-menu';
-import { Scrollbar } from 'src/src2/components/scrollbar';
+import { MoreMenu } from 'src/components/more-menu';
+import { Scrollbar } from 'src/components/scrollbar';
 
 export const EcommerceProducts = (props) => {
   const { products } = props;

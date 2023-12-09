@@ -13,8 +13,8 @@ import SvgIcon from '@mui/material/SvgIcon';
 import Typography from '@mui/material/Typography';
 import useMediaQuery from '@mui/material/useMediaQuery';
 
-import { useRouter } from 'src/src2/hooks/use-router';
-import { paths } from 'src/src2/paths';
+import { useRouter } from 'src/hooks/use-router';
+import { paths } from 'src/paths';
 
 import { MailLabel } from './mail-label';
 

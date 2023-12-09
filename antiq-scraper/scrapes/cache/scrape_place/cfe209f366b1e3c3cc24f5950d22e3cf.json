@@ -1,0 +1,314 @@
+{
+    "place_id": "ChIJfUj6li51hlQR5WjqmyzOGP8",
+    "name": "Loblaw Pharmacy",
+    "description": null,
+    "reviews": 26,
+    "website": "https://www.realcanadiansuperstore.ca/pharmacy?storeId=1557&utm_source=G&utm_medium=LPM&utm_campaign=Loblaws",
+    "owner": {
+        "id": "105947467095596599453",
+        "name": "Loblaw Pharmacy (Owner)",
+        "link": "https://www.google.com/maps/contrib/105947467095596599453"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM_KMtXVGa1dZNWgmzBjBRiqLEvdz9RmHtP7RTb=w408-h544-k-no",
+    "main_category": "Pharmacy",
+    "categories": [
+        "Pharmacy",
+        "Drug store"
+    ],
+    "rating": 2.5,
+    "workday_timing": "9 a.m.-9 p.m.",
+    "closed_on": [],
+    "phone": "(604) 233-2435",
+    "address": "Loblaw Pharmacy, 4651 No. 3 Rd, Richmond, BC V6X 2C4",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/Loblaw+Pharmacy/data=!4m7!3m6!1s0x5486752e96fa487d:0xff18ce2c9bea68e5!8m2!3d49.179319!4d-123.138493!16s%2Fg%2F11b5wlzx07!19sChIJfUj6li51hlQR5WjqmyzOGP8?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 9 a.m.",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 15,
+        "2": 0,
+        "3": 1,
+        "4": 2,
+        "5": 8
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJfUj6li51hlQR5WjqmyzOGP8&q=Loblaw+Pharmacy&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.179319,
+        "longitude": -123.138493
+    },
+    "plus_code": "5VH6+PJ Richmond, British Columbia",
+    "detailed_address": {
+        "ward": null,
+        "street": "4651 No. 3 Rd",
+        "city": "Richmond",
+        "postal_code": "V6X 2C4",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "18381668570102393061",
+    "data_id": "0x5486752e96fa487d:0xff18ce2c9bea68e5",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "In-store pickup",
+                    "enabled": true
+                },
+                {
+                    "name": "In-store shopping",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPDw2M1BA8w4nBkc8m7EUyCOxayF7xpTmcpfzF6=w224-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vvwn8kRC0QLk9cfSu1ySiA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=159.21445&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "9 a.m.-9 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "9 a.m.-9 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "9 a.m.-9 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "9 a.m.-9 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "9 a.m.-9 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "9 a.m.-7 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "9 a.m.-7 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "They don't answer the phone. Not only is the healthcare system in a state of collapse, but you can't even speak to a pharmacist to check if your RX's are filled correctly, (they never are) and ready for pickup. I've tried re-dialing over 25 times and I give up at this point. Guess I'll have to go without my medication...and never use Loblaw's pharmacy ever again.",
+            "reviewer_name": "Lisa Chark",
+            "rating": 1,
+            "review_text": "They don't answer the phone. Not only is the healthcare system in a state of collapse, but you can't even speak to a pharmacist to check if your RX's are filled correctly, (they never are) and ready for pickup. I've tried re-dialing over 25 times and I give up at this point. Guess I'll have to go without my medication...and never use Loblaw's pharmacy ever again.",
+            "published_at": "a week ago",
+            "published_at_date": "2023-11-23T21:30:59.609000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 25,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/112247278283578105030/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW7phK3tl2yXHL2BNrq6MjylPmeaE1QMHE_Ewmnb7bokCU=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "There is a young man who I think is a student pharmacist from UBC who was working today who was so kind and respectful. He gently explained the side affects of my meds and was very professional",
+            "reviewer_name": "Lana A",
+            "rating": 5,
+            "review_text": "There is a young man who I think is a student pharmacist from UBC who was working today who was so kind and respectful. He gently explained the side affects of my meds and was very professional",
+            "published_at": "7 months ago",
+            "published_at_date": "2023-04-25T00:24:12.346000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 8,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/104873595238740163860/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjV67kVUAw1nXr6P--o0m2A8d7YaWBOdy3oh6CwGb0XTez4=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "To be fair, the staff work in this pharmacy generally are not friendly and they all have sort of cold poker face,no personality.",
+            "reviewer_name": "North Liu",
+            "rating": 1,
+            "review_text": "To be fair, the staff work in this pharmacy generally are not friendly and they all have sort of cold poker face,no personality.",
+            "published_at": "5 months ago",
+            "published_at_date": "2023-06-09T02:27:38.329000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 4,
+            "total_number_of_photos_by_reviewer": 2,
+            "reviewer_url": "https://www.google.com/maps/contrib/100729332884445110060/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjX0YYt1BjIKWRz6lN5i70w13oufXhAP2NKLXyRZtNti9LA=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Absolutely THE worst service ever!!!\nToday l was looking for anti-itch ointment and there was a young boy and a young girl at the pharmacy who was basically just chatting and no one was at the drop off and pick up counter.  I asked politely for their assistance as I'm not sure where the ointment was.   The boy told me to go to row 2.  After looking as there was no # in the row l went back asking politely again where and so  so rude the girl huff and puff just rush through me l followed her and without a word just picked whichever without explaining to me which one is better for my situation looked at me with a terrible look and just walked away  \nRude as rude as can be and sadly they both Chinese like me.  I am really feeling the sadness and they both spoiled my day \nWhy can't they be polite and friendly after all they were just chatting and they are getting paid to do a job.",
+            "reviewer_name": "Debra Hong",
+            "rating": 1,
+            "review_text": "Absolutely THE worst service ever!!!\nToday l was looking for anti-itch ointment and there was a young boy and a young girl at the pharmacy who was basically just chatting and no one was at the drop off and pick up counter.  I asked politely for their assistance as I'm not sure where the ointment was.   The boy told me to go to row 2.  After looking as there was no # in the row l went back asking politely again where and so  so rude the girl huff and puff just rush through me l followed her and without a word just picked whichever without explaining to me which one is better for my situation looked at me with a terrible look and just walked away  \nRude as rude as can be and sadly they both Chinese like me.  I am really feeling the sadness and they both spoiled my day \nWhy can't they be polite and friendly after all they were just chatting and they are getting paid to do a job.",
+            "published_at": "a year ago",
+            "published_at_date": "2022-08-18T19:50:31.250000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 76,
+            "total_number_of_photos_by_reviewer": 19,
+            "reviewer_url": "https://www.google.com/maps/contrib/101814517173088333290/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjX4i-jokm7pptWi7DkJ5xvOqF16gSUCYliDNbexUHQlBY2m=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "My wife and I were thinking about buying Non-prescription drugs at the pharmacy, since it was the first time, my wife wanted to ask something, but the store manager named Kevin was indifferent, rude, and showed great impatience. It has never been this bad customer service experience, I really can't understand why the company lets such people serve customers, Kevin's performance alone makes people feel uncomfortable with the whole superstore good feeling, he did it",
+            "reviewer_name": "Jeff Yang",
+            "rating": 1,
+            "review_text": "My wife and I were thinking about buying Non-prescription drugs at the pharmacy, since it was the first time, my wife wanted to ask something, but the store manager named Kevin was indifferent, rude, and showed great impatience. It has never been this bad customer service experience, I really can't understand why the company lets such people serve customers, Kevin's performance alone makes people feel uncomfortable with the whole superstore good feeling, he did it",
+            "published_at": "a year ago",
+            "published_at_date": "2022-10-16T17:45:21.149000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 15,
+            "total_number_of_photos_by_reviewer": 59,
+            "reviewer_url": "https://www.google.com/maps/contrib/103355302289121456158/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUwLU3Uni60CDyz14_4uuzbKJWajJt3qn-XP_w_-j-ANRQ=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "This is by far the worst pharmacy I ever been to. They talked to any office with an extremely condescending attitude, the arrogance towards to patients are terrible. The pharmacists thinks they know everything and tried to challenge everyone. They are so rude can't even spell your name right after telling them more than 3times! I would give a 0 star if there's option.",
+            "reviewer_name": "Perry Tse",
+            "rating": 1,
+            "review_text": "This is by far the worst pharmacy I ever been to. They talked to any office with an extremely condescending attitude, the arrogance towards to patients are terrible. The pharmacists thinks they know everything and tried to challenge everyone. They are so rude can't even spell your name right after telling them more than 3times! I would give a 0 star if there's option.",
+            "published_at": "a year ago",
+            "published_at_date": "2022-08-30T02:57:23.686000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 5,
+            "total_number_of_photos_by_reviewer": 7,
+            "reviewer_url": "https://www.google.com/maps/contrib/102067488359726521137/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUSJTARTccYDjZukE2uRcpJ9I7y7beagNvYUBDzd1plbw=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "To Kevin, go look for non- customer facing job if you can't even offer a smile to customers. Your stoic and rude behavior doesn't justify whatever financial compensation you're getting from Loblaw. I asked you thrice to check my medical insurance, but you just dismissed it by just saying it doesn't work without even doing something.",
+            "reviewer_name": "Derek Nicolas",
+            "rating": 1,
+            "review_text": "To Kevin, go look for non- customer facing job if you can't even offer a smile to customers. Your stoic and rude behavior doesn't justify whatever financial compensation you're getting from Loblaw. I asked you thrice to check my medical insurance, but you just dismissed it by just saying it doesn't work without even doing something.",
+            "published_at": "a year ago",
+            "published_at_date": "2022-07-31T19:25:49.799000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 35,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/101579459646795117702/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKg7gCa-c_G8f8gkqAECA1QEPZfJ3sUmZcMmfOAZG6d-Q=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "We do Commend Ms.Angela Ser , Pharmacist to Real Canadian Superstore Richmond . She has always gone OUT OF HER WAY to serve us so well , and so Diligent , so Caring and Absolutely Exceptional ! Over the years she has helped both my husband & myself , and we simply had to express our Deep Appreciation of her and the Work she does !  She is an Absolute Asset to your Organisation and we look forward to dealing with her in the future ...Thank you Angela Ser ! Thank you Superstore Pharmacy Team !",
+            "reviewer_name": "Cherelyn Coelho",
+            "rating": 5,
+            "review_text": "We do Commend Ms.Angela Ser , Pharmacist to Real Canadian Superstore Richmond . She has always gone OUT OF HER WAY to serve us so well , and so Diligent , so Caring and Absolutely Exceptional ! Over the years she has helped both my husband & myself , and we simply had to express our Deep Appreciation of her and the Work she does !  She is an Absolute Asset to your Organisation and we look forward to dealing with her in the future ...Thank you Angela Ser ! Thank you Superstore Pharmacy Team !",
+            "published_at": "2 years ago",
+            "published_at_date": "2021-06-15T21:38:54.051000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 3,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/114393068430869193852/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocK1nsFwuHnsG4Dlm7Z46JKXz3hMh3vY3SeljTURK5c1=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}
