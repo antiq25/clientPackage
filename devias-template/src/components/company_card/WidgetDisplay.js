@@ -1,6 +1,11 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
-import WidgetTracker from 'src/components/WidgetTracker';
+import WidgetTracker from './WidgetTracker';  
+
+
+
+
+
 
 const WidgetsDisplay = ({ userId }) => {
   const [widgets, setWidgets] = useState([]);

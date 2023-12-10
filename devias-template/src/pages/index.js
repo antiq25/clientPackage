@@ -20,7 +20,6 @@ import { useSettings } from 'src/hooks/use-settings';
 import { Layout as DashboardLayout } from 'src/layouts/dashboard';
 import { QuickStats2 } from 'src/sections/components/quick-stats/quick-stats-2';
 
-
 const Page = () => {
   const settings = useSettings();
   const [isCreateListingDialogOpen, setCreateListingDialogOpen] = useState(false);
@@ -31,7 +30,6 @@ const Page = () => {
   const handleCloseCreateListingDialog = () => {
     setCreateListingDialogOpen(false);
   };
-
 
   usePageView();
   useTheme();
@@ -108,9 +106,7 @@ const Page = () => {
               item // Corrected by adding item prop
               xs={12} // Changed from 7 to 12 for consistency
               md={12}
-            >
-            
-            </Grid>
+            ></Grid>
           </Grid>
         </Container>
       </Box>

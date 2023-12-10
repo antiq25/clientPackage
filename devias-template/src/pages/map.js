@@ -11,28 +11,26 @@ import SvgIcon from '@mui/material/SvgIcon';
 import Typography from '@mui/material/Typography';
 
 import { jobsApi } from 'src/src2/api/jobs';
-import { RouterLink } from 'src/components/router-link';
-import { Seo } from 'src/components/seo';
-import { useMounted } from 'src/hooks/use-mounted';
-import { usePageView } from 'src/hooks/use-page-view';
-import { JobListSearch } from 'src/sections/dashboard/jobs/job-list-search';
+import { RouterLink } from 'src/src2/components/router-link';
+import { Seo } from 'src/src2/components/seo';
+import { useMounted } from 'src/src2/hooks/use-mounted';
+import { usePageView } from 'src/src2/hooks/use-page-view';
+import { JobListSearch } from 'src/src2/sections/dashboard/jobs/job-list-search';
 import { Logo } from 'src/components/logo1';  
 import { Layout as DashboardLayout } from 'src/layouts/dashboard';
 import { paths } from 'src/paths';
 import { useSettings } from 'src/hooks/use-settings'; 
-import WidgetsCardList from 'src/components/company_card/WidgetCardList'
+import BusinessNamesList from 'src/components/company_card/companycard';
 import { ReviewsDataProvider } from 'src/components/company_card/ReviewsDataProvider';
-import useUser from  'src/hooks/decode';
 
 const useCompanies = () => {
   const isMounted = useMounted();
-  const [widgetsData, setWidgetsData] = useState([]);
-
   const [companies, setCompanies] = useState([]);
+
   const handleCompaniesGet = useCallback(async () => {
     try {
       const response = await jobsApi.getCompanies();
-      
+
       if (isMounted()) {
         setCompanies(response);
       }
@@ -40,16 +38,16 @@ const useCompanies = () => {
       console.error(err);
     }
   }, [isMounted]);
-  
+
   useEffect(
     () => {
       handleCompaniesGet();
     },
     // eslint-disable-next-line react-hooks/exhaustive-deps
     []
-    );
-    
-    return companies;
+  );
+
+  return companies;
 };
 
 const Page = () => {
@@ -128,7 +126,7 @@ const Page = () => {
             <JobListSearch />
 
             <ReviewsDataProvider>
-             <WidgetsCardList /> 
+              <BusinessNamesList />
             </ReviewsDataProvider>
 
             <Stack

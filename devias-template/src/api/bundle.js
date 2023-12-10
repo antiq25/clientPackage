@@ -165,6 +165,7 @@ const crawlCall = async (type, call, successMessage, errorMessagePrefix) => {
     };
   }
 };
+
 const crawler = {
   collectReviews: (companyNames, companyLocations) =>
     crawlCall(
@@ -254,6 +255,13 @@ const crawler = {
       'Get user widgets successful',
       'Get user widgets failed'
     ),
+  getPublicWidgets: (widgetId) =>
+    crawlCall(
+      'getPublicWidgets',
+      () => crawlClient.get(`/public-widgets/${widgetId}`),
+      'Get Public Widgets successful',
+      'Get Public Widgets failed'
+    ),
 };
 
 const crawl = {
@@ -272,6 +280,7 @@ const crawl = {
   businesses: () => {
     return crawler.getBusinessNames();
   },
+
   logView: (userId, businessId) => {
     return crawler.logView(userId, businessId);
   },
@@ -293,6 +302,9 @@ const crawl = {
   userWidgets: () => {
     return crawler.getUserWidgets();
   },
+  publicWidgets: (widgetId) => {
+    return crawler.getPublicWidgets(widgetId);
+  },  
 };
 
 const apiHandler = {
