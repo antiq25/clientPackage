@@ -1,4 +1,4 @@
-import { chatApi } from 'src/api/chat';
+import { chatApi } from 'src/src2/api/chat';
 import { slice } from 'src/slices/chat';
 
 const getContacts = () => async (dispatch) => {

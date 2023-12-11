@@ -17,7 +17,7 @@ import Stack from '@mui/material/Stack';
 import SvgIcon from '@mui/material/SvgIcon';
 import Typography from '@mui/material/Typography';
 
-import { chatApi } from 'src/api/chat';
+import { chatApi } from 'src/src2/api/chat';
 import { Scrollbar } from 'src/components/scrollbar';
 
 export const ChatComposerRecipients = (props) => {

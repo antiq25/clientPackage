@@ -50,7 +50,7 @@ apiClient.interceptors.request.use(
   }
 );
 
-const authAPIEndpoints = {
+const smsAPIEndpoints = {
   signUp: '/auth/signup',
   login: '/auth/login',
   updateProfile: '/profile/update',
@@ -60,18 +60,18 @@ const authAPIEndpoints = {
   forgotPassword: '/recovery/forgot-password',
   resetPassword: '/recovery/reset-password',
 };
-const authAPI = {
+const smsAPI = {
   signup: (data) =>
     apiCall(
       'signUp',
-      () => apiClient.post(authAPIEndpoints.signUp, data),
+      () => apiClient.post(smsAPIEndpoints.signUp, data),
       'Signup successful',
       'Signup failed'
     ),
   login: (data) =>
     apiCall(
       'login',
-      () => apiClient.post(authAPIEndpoints.login, data),
+      () => apiClient.post(smsAPIEndpoints.login, data),
       'Login successful',
       'Login failed'
     ).then((response) => {
@@ -83,42 +83,42 @@ const authAPI = {
   updateProfile: (id, data) =>
     apiCall(
       'updateProfile',
-      () => apiClient.put(authAPIEndpoints.updateProfile, data),
+      () => apiClient.put(smsAPIEndpoints.updateProfile, data),
       'Profile updated',
       'Updating profile failed'
     ),
   verifyEmail: (code) =>
     apiCall(
       'verifyEmail',
-      () => apiClient.get(authAPIEndpoints.verifyEmail(code)),
+      () => apiClient.get(smsAPIEndpoints.verifyEmail(code)),
       'Email verified',
       'Email verification failed'
     ),
   resendEmailVerification: (data) =>
     apiCall(
       'resendEmailVerification',
-      () => apiClient.post(authAPIEndpoints.resendEmailVerification, data),
+      () => apiClient.post(smsAPIEndpoints.resendEmailVerification, data),
       'Verification email resent',
       'Resending verification email failed'
     ),
   getProfile: (id) =>
     apiCall(
       'fetchProfile',
-      () => apiClient.get(authAPIEndpoints.fetchProfile),
+      () => apiClient.get(smsAPIEndpoints.fetchProfile),
       'Profile fetched',
       'Fetching profile failed'
     ),
   forgotPassword: (email) =>
     apiCall(
       'forgotPassword',
-      () => apiClient.post(authAPIEndpoints.forgotPassword, { email }),
+      () => apiClient.post(smsAPIEndpoints.forgotPassword, { email }),
       'Forgot password email sent',
       'Forgot password failed'
     ),
   resetPassword: (code, password) =>
     apiCall(
       'resetPassword',
-      () => apiClient.post(authAPIEndpoints.resetPassword, { code, password }),
+      () => apiClient.post(smsAPIEndpoints.resetPassword, { code, password }),
       'Password reset successful',
       'Password reset failed'
     ),
@@ -309,28 +309,28 @@ const crawl = {
 
 const apiHandler = {
   handleSignup: (email, password, firstName, lastName) => {
-    return authAPI.signup({ email, password, firstName, lastName });
+    return smsAPI.signup({ email, password, firstName, lastName });
   },
   handleLogin: (email, password) => {
-    return authAPI.login({ email, password });
+    return smsAPI.login({ email, password });
   },
   handleVerifyEmail: (code) => {
-    return authAPI.verifyEmail(code);
+    return smsAPI.verifyEmail(code);
   },
   handleResendEmailVerification: (email) => {
-    return authAPI.resendEmailVerification({ email });
+    return smsAPI.resendEmailVerification({ email });
   },
   handleGetProfile: (id) => {
-    return authAPI.getProfile(id);
+    return smsAPI.getProfile(id);
   },
   handleUpdateProfile: (id, profileData) => {
-    return authAPI.updateProfile(id, profileData);
+    return smsAPI.updateProfile(id, profileData);
   },
   handleForgotPassword: (email) => {
-    return authAPI.forgotPassword(email);
+    return smsAPI.forgotPassword(email);
   },
   handleResetPassword: (token, password) => {
-    return authAPI.resetPassword(token, password);
+    return smsAPI.resetPassword(token, password);
   },
 };
 
@@ -338,8 +338,8 @@ export {
   apiCall,
   apiClient as apiConfig,
   apiHandler,
-  authAPI,
-  authAPIEndpoints,
+  smsAPI,
+  smsAPIEndpoints,
   crawl,
   crawlCall,
   crawlClient,

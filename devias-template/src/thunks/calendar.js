@@ -1,4 +1,4 @@
-import { calendarApi } from 'src/api/calendar';
+import { calendarApi } from 'src/src2/api/calendar';
 import { slice } from 'src/slices/calendar';
 
 const getEvents = () => async (dispatch) => {

@@ -12,13 +12,13 @@ import Typography from '@mui/material/Typography';
 import FetchedReviews from 'src/components/fetchReview';
 // import EmailVerificationDialog from 'src/components/emailverifydialog';
 import CreateListingDialog from 'src/components/createListingPopUp';
-import { useTheme } from '@mui/system';
+import { useTheme } from '@mui/material/styles';
 import { Seo } from 'src/components/seo';
 import { useEffect, useState } from 'react';
 import { usePageView } from 'src/hooks/use-page-view';
 import { useSettings } from 'src/hooks/use-settings';
 import { Layout as DashboardLayout } from 'src/layouts/dashboard';
-import { QuickStats2 } from 'src/sections/components/quick-stats/quick-stats-2';
+import { QuickStats3 } from 'src/components/stats/quick';
 
 const Page = () => {
   const settings = useSettings();
@@ -71,6 +71,10 @@ const Page = () => {
                   direction="row"
                   spacing={2}
                 >
+                  <Card sx={{ p: 1 }}>  
+                  <CardHeader title="Stats" />  
+                  <QuickStats3 />
+                  </Card>
                   <Button
                     startIcon={
                       <SvgIcon>
@@ -100,7 +104,6 @@ const Page = () => {
             >
               <FetchedReviews />
 
-              <QuickStats2 />
             </Grid>
             <Grid
               item // Corrected by adding item prop

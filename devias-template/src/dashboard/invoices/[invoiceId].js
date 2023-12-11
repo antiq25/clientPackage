@@ -11,7 +11,7 @@ import Stack from '@mui/material/Stack';
 import SvgIcon from '@mui/material/SvgIcon';
 import Typography from '@mui/material/Typography';
 
-import { invoicesApi } from 'src/api/invoices';
+import { invoicesApi } from 'src/src2/api/invoices';
 import { RouterLink } from 'src/components/router-link';
 import { Seo } from 'src/components/seo';
 import { useDialog } from 'src/hooks/use-dialog';

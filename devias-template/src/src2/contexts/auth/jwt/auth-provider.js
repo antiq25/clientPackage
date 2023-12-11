@@ -1,7 +1,6 @@
 import { useCallback, useEffect, useReducer } from 'react';
 import PropTypes from 'prop-types';
 
-import { apiHandler } from 'src/api/bundle';
 import { Issuer } from 'src/utils/auth';
 import { AuthContext, initialState } from './auth-context';
 

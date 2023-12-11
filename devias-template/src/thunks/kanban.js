@@ -1,4 +1,4 @@
-import { kanbanApi } from 'src/api/kanban';
+import { kanbanApi } from 'src/src2/api/kanban';
 import { slice } from 'src/slices/kanban';
 
 const getBoard = () => async (dispatch) => {

@@ -15,7 +15,7 @@ import TableRow from '@mui/material/TableRow';
 import TextField from '@mui/material/TextField';
 import Typography from '@mui/material/Typography';
 
-import { customersApi } from 'src/api/customers';
+import { customersApi } from 'src/src2/api/customers';
 import { useMounted } from 'src/hooks/use-mounted';
 
 const emailOptions = ['Resend last invoice', 'Send password reset', 'Send verification'];

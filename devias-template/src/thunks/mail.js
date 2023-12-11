@@ -1,4 +1,4 @@
-import { mailApi } from 'src/api/mail';
+import { mailApi } from 'src/src2/api/mail';
 import { slice } from 'src/slices/mail';
 
 const getLabels = () => async (dispatch) => {

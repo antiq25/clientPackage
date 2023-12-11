@@ -28,7 +28,7 @@ app.use(express.json()); // For parsing application/json
 app.use(bodyParser.json());
 app.use(
   cors({
-    origin: `${process.env.CLIENT_URL}, ${process.env.WIDGET_URL}`,
+    origin: `${process.env.CLIENT_URL}`,
     credentials: true,
   })
 );

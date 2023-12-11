@@ -7,7 +7,7 @@ import Stack from '@mui/material/Stack';
 import SvgIcon from '@mui/material/SvgIcon';
 import Typography from '@mui/material/Typography';
 
-import { ordersApi } from 'src/api/orders';
+import { ordersApi } from 'src/src2/api/orders';
 import { Seo } from 'src/components/seo';
 import { useDialog } from 'src/hooks/use-dialog';
 import { useMounted } from 'src/hooks/use-mounted';
