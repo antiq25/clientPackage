@@ -1,7 +1,8 @@
 import React, { useEffect, useState } from 'react';
-import { Button, useTheme } from '@mui/material';
+import { Button } from '@mui/material'; 
 import { ChartContainer, BarPlot, Legend, Axis, Title } from '@mui/x-charts';
 import { getCounts, logClick } from './company_card/apiWidget';
+import { useTheme } from '@mui/material/styles';    
 
 export default function UserInteractionChart() {
   const [clickCount, setClickCount] = useState(0);

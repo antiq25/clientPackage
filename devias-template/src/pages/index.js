@@ -3,22 +3,23 @@ import PlusIcon from '@untitled-ui/icons-react/build/esm/Plus';
 import Box from '@mui/material/Box';
 import Button from '@mui/material/Button';
 import Card from '@mui/material/Card';
-import CardHeader from '@mui/material/CardHeader'; // Corrected import
+import CardHeader from '@mui/material/CardHeader';
+import CardContent from '@mui/material/CardContent';
 import Container from '@mui/material/Container';
 import Grid from '@mui/material/Grid';
 import Stack from '@mui/material/Stack';
 import SvgIcon from '@mui/material/SvgIcon';
 import Typography from '@mui/material/Typography';
-import FetchedReviews from 'src/components/fetchReview';
-// import EmailVerificationDialog from 'src/components/emailverifydialog';
-import CreateListingDialog from 'src/components/createListingPopUp';
 import { useTheme } from '@mui/material/styles';
+import Grow from '@mui/material/Grow';
 import { Seo } from 'src/components/seo';
-import { useEffect, useState } from 'react';
+import { useState } from 'react';
 import { usePageView } from 'src/hooks/use-page-view';
 import { useSettings } from 'src/hooks/use-settings';
 import { Layout as DashboardLayout } from 'src/layouts/dashboard';
-import { QuickStats3 } from 'src/components/stats/quick';
+import FetchedReviews from 'src/components/fetchReview';
+import CreateListingDialog from 'src/components/createListingPopUp';
+// import ReviewStatistics from 'src/components/ReviewStatistics'; // Placeholder for statistics component
 
 const Page = () => {
   const settings = useSettings();
@@ -32,84 +33,67 @@ const Page = () => {
   };
 
   usePageView();
-  useTheme();
+  const theme = useTheme();
 
   return (
     <>
-      <Seo title="Show My Service: Google Trends" />
+      <Seo title="Dashboard" />
       <Box
         component="main"
         sx={{
           flexGrow: 1,
           py: 8,
+          backgroundColor: theme.palette.background.default,
         }}
       >
         <Container maxWidth={settings.stretch ? false : 'xl'}>
-          <Grid
-            container
-            spacing={{
-              xs: 3,
-              lg: 4,
-            }}
-          >
-            <Grid
-              item
-              xs={12}
-            >
-              {' '}
-              {/* Corrected by adding item prop */}
+          <Grid container spacing={3}>
+            <Grid item xs={12}>
               <Stack
                 direction="row"
                 justifyContent="space-between"
-                spacing={4}
+                alignItems="center"
+                mb={5}
               >
-                <Stack spacing={1}>
-                  <Typography variant="h4">Show My Service</Typography>
-                </Stack>
-                <Stack
-                  alignItems="center"
-                  direction="row"
-                  spacing={2}
+                <Typography variant="h4">Dashboard</Typography>
+                <Button
+                  startIcon={<SvgIcon component={PlusIcon} />}
+                  variant="contained"
+                  onClick={handleOpenCreateListingDialog}
                 >
-                  <Card sx={{ p: 1 }}>  
-                  <CardHeader title="Stats" />  
-                  <QuickStats3 />
-                  </Card>
-                  <Button
-                    startIcon={
-                      <SvgIcon>
-                        <PlusIcon />
-                      </SvgIcon>
-                    }
-                    variant="contained"
-                    onClick={handleOpenCreateListingDialog}
-                  >
-                    Add New Listing
-                  </Button>
-                  <CreateListingDialog
-                    open={isCreateListingDialogOpen}
-                    onClose={handleCloseCreateListingDialog}
-                    onCreationSuccess={() => {}}
-                  />
-
-                  {/* <EmailVerificationDialog /> */}
-                </Stack>
+                  Add New Listing
+                </Button>
+                <CreateListingDialog
+                  open={isCreateListingDialogOpen}
+                  onClose={handleCloseCreateListingDialog}
+                />
               </Stack>
             </Grid>
-            <Grid
-              item // Corrected by adding item prop
-              xs={12}
-              md={12}
-              lg={12}
-            >
-              <FetchedReviews />
 
+            {/* Review Statistics Card */}
+            <Grid item xs={12} md={6} lg={4}>
+              <Grow in timeout={1000}>
+                <Card>
+                  <CardHeader title="Review Statistics" />
+                  <CardContent>
+                  </CardContent>
+                </Card>
+              </Grow>
             </Grid>
-            <Grid
-              item // Corrected by adding item prop
-              xs={12} // Changed from 7 to 12 for consistency
-              md={12}
-            ></Grid>
+
+            {/* Fetched Reviews */}
+            <Grid item xs={12} md={6} lg={8}>
+              <Grow in timeout={1000}>
+                <Card>
+                  <CardHeader title="Latest Reviews" />
+                  <CardContent>
+                    <FetchedReviews />
+                  </CardContent>
+                </Card>
+              </Grow>
+            </Grid>
+
+            {/* More dashboard cards can be added here */}
           </Grid>
         </Container>
       </Box>

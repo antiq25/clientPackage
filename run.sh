@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
-#
-export PKGDIR="$HOME/clientPackage"
+
+export PKGDIR="$HOME/big"
 
 export SMSDIR="${PKGDIR}/sms-backend"
 export SMSFRONT="${PKGDIR}/devias-template"

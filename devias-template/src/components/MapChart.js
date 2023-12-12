@@ -1,7 +1,6 @@
 import dynamic from 'next/dynamic';
 import { alpha } from '@mui/system/colorManipulator';
 import { styled } from '@mui/system';
-import { useTheme } from '@mui/system';
 
 const ApexChart = dynamic(() => import('react-apexcharts'), {
   ssr: false,

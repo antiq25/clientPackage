@@ -7,7 +7,7 @@ import { usePageView } from 'src/hooks/use-page-view';
 import { Layout as ComponentsLayout } from 'src/layouts/components';
 import { Layout as MarketingLayout } from 'src/layouts/marketing';
 import { Previewer } from 'src/sections/components/previewer';
-import { GridList1 } from 'src/sections/components/grid-lists/grid-list-1';
+import { GridList1 }  from 'src/sections/components/grid-lists/grid-list-1';
 import { GridList2 } from 'src/sections/components/grid-lists/grid-list-2';
 import { GridList3 } from 'src/sections/components/grid-lists/grid-list-3';
 import { GridList4 } from 'src/sections/components/grid-lists/grid-list-4';

@@ -10,6 +10,8 @@ import { Seo } from 'src/components/seo';
 import { usePageView } from 'src/hooks/use-page-view';
 import { useSettings } from 'src/hooks/use-settings';
 import { Layout as DashboardLayout } from 'src/layouts/dashboard';
+import  ApexCharts  from 'react-apexcharts'; 
+
 
 const Page = () => {
   const settings = useSettings();
@@ -26,43 +28,16 @@ const Page = () => {
           py: 8,
         }}
       >
-        <Container maxWidth={settings.stretch ? false : 'xl'}>
-          <Stack
-            spacing={{
-              xs: 3,
-              lg: 4,
-            }}
-          >
+<Grid container spacing={8}>
             <Stack
-              direction="row"
-              justifyContent="space-between"
-              spacing={4}
-            >
-              <div>
-                <Typography variant="h4">Blank</Typography>
-              </div>
-              <div>
-                <Stack
-                  direction="row"
-                  spacing={4}
-                >
-                  <Button
-                    startIcon={
-                      <SvgIcon>
-                        <PlusIcon />
-                      </SvgIcon>
-                    }
-                    variant="contained"
-                  >
-                    Action
-                  </Button>
-                </Stack>
-              </div>
-            </Stack>
+            spacing={3}
+          >
+            
+       
             <Box
               sx={{
                 borderColor: 'neutral.300',
-                borderStyle: 'dashed',
+                borderStyle:'revert-layer',
                 borderWidth: 1,
                 height: 300,
                 p: '4px',
@@ -70,7 +45,9 @@ const Page = () => {
             />
           </Stack>
         </Container>
+        </Grid>
       </Box>
+
     </>
   );
 };
