@@ -1,0 +1,564 @@
+{
+    "place_id": "ChIJe4NI6rHEhVQROKgG-t1kkT4",
+    "name": "McDonald's",
+    "description": "Classic, long-running fast-food chain known for its burgers & fries.",
+    "reviews": 1667,
+    "website": "https://www.mcdonalds.com/ca/en-ca/restaurant-locator.html%3Fy_source%3D1_MTQ1MTkyMjMtNzE1LWxvY2F0aW9uLndlYnNpdGU%253D",
+    "owner": {
+        "id": "111021161443292031707",
+        "name": "McDonald's (Owner)",
+        "link": "https://www.google.com/maps/contrib/111021161443292031707"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPBsV5M8zAO2jRwet_2KRjVvDYdr9X8GYSNMxVU=w426-h240-k-no",
+    "main_category": "Fast food restaurant",
+    "categories": [
+        "Fast food restaurant",
+        "American restaurant",
+        "Breakfast restaurant",
+        "Cafe",
+        "Hamburger restaurant",
+        "Restaurant"
+    ],
+    "rating": 3.4,
+    "workday_timing": "6 a.m.-10 p.m.",
+    "closed_on": [],
+    "phone": "(604) 541-4390",
+    "address": "McDonald's, 3104 King George Blvd, Surrey, BC V4P 1A2",
+    "review_keywords": [
+        {
+            "keyword": "drive thru",
+            "count": 104
+        },
+        {
+            "keyword": "coffee",
+            "count": 59
+        },
+        {
+            "keyword": "egg mcmuffin",
+            "count": 9
+        },
+        {
+            "keyword": "renovated",
+            "count": 8
+        },
+        {
+            "keyword": "training",
+            "count": 8
+        },
+        {
+            "keyword": "employee",
+            "count": 7
+        },
+        {
+            "keyword": "mcchicken",
+            "count": 6
+        },
+        {
+            "keyword": "bagel",
+            "count": 5
+        },
+        {
+            "keyword": "screw",
+            "count": 5
+        },
+        {
+            "keyword": "computer",
+            "count": 5
+        }
+    ],
+    "link": "https://www.google.com/maps/place/McDonald%27s/data=!4m7!3m6!1s0x5485c4b1ea48837b:0x3e9164ddfa06a838!8m2!3d49.0587514!4d-122.8088368!16s%2Fg%2F1vwlntt2!19sChIJe4NI6rHEhVQROKgG-t1kkT4?authuser=0&hl=en&rclk=1",
+    "status": "Closes soon  10 p.m.  Opens 6 a.m. Sun",
+    "price_range": "$",
+    "reviews_per_rating": {
+        "1": 289,
+        "2": 130,
+        "3": 325,
+        "4": 404,
+        "5": 519
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJe4NI6rHEhVQROKgG-t1kkT4&q=McDonald%27s&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.0587514,
+        "longitude": -122.8088368
+    },
+    "plus_code": "355R+GF Surrey, British Columbia",
+    "detailed_address": {
+        "ward": null,
+        "street": "3104 King George Blvd",
+        "city": "Surrey",
+        "postal_code": "V4P 1A2",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "4508495606519867448",
+    "data_id": "0x5485c4b1ea48837b:0x3e9164ddfa06a838",
+    "menu": {
+        "link": "https://www.mcdonalds.com/ca/en-ca/full-menu.html%3Fy_source%3D1_MTQ1MTkyMjMtNzE1LWxvY2F0aW9uLm1lbnVfdXJs",
+        "source": "mcdonalds.com"
+    },
+    "reservations": [],
+    "order_online_links": [
+        {
+            "link": "https://www4.mcdonalds.ca/mcdeliverycanada/?y_source=1_MTQ1MTkyMjMtNzE1LWxvY2F0aW9uLm9yZGVyX3VybA%3D%3D",
+            "source": "mcdonalds.ca"
+        },
+        {
+            "link": "https://www.ubereats.com/ca/store/mcdonalds-south-surrey/3qy2Xi4FTGanaRinodokIw?utm_campaign=place-action-link&utm_medium=organic&utm_source=google",
+            "source": "ubereats.com"
+        },
+        {
+            "link": "https://www.skipthedishes.com/mcdonalds-king-george-hwy-2?serviceType=delivery&utm_source=google&utm_medium=organic&utm_campaign=gpav2",
+            "source": "skipthedishes.com"
+        },
+        {
+            "link": "https://www.doordash.com/store/mcdonald%27s-surrey-1139885/?utm_campaign=gpa",
+            "source": "doordash.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Outdoor seating",
+                    "enabled": true
+                },
+                {
+                    "name": "No-contact delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Drive-through",
+                    "enabled": true
+                },
+                {
+                    "name": "Takeout",
+                    "enabled": true
+                },
+                {
+                    "name": "Dine-in",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "highlights",
+            "name": "Highlights",
+            "options": [
+                {
+                    "name": "Fast service",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair accessible seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Coffee",
+                    "enabled": true
+                },
+                {
+                    "name": "Late-night food",
+                    "enabled": true
+                },
+                {
+                    "name": "Quick bite",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Dining options",
+            "options": [
+                {
+                    "name": "Breakfast",
+                    "enabled": true
+                },
+                {
+                    "name": "Lunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Dinner",
+                    "enabled": true
+                },
+                {
+                    "name": "Counter service",
+                    "enabled": true
+                },
+                {
+                    "name": "Dessert",
+                    "enabled": true
+                },
+                {
+                    "name": "Seating",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosphere",
+            "options": [
+                {
+                    "name": "Casual",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "crowd",
+            "name": "Crowd",
+            "options": [
+                {
+                    "name": "Family-friendly",
+                    "enabled": true
+                },
+                {
+                    "name": "Groups",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "children",
+            "name": "Children",
+            "options": [
+                {
+                    "name": "Good for kids",
+                    "enabled": true
+                },
+                {
+                    "name": "Good for kids birthday",
+                    "enabled": true
+                },
+                {
+                    "name": "High chairs",
+                    "enabled": true
+                },
+                {
+                    "name": "Kids' menu",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "parking",
+            "name": "Parking",
+            "options": [
+                {
+                    "name": "Free parking lot",
+                    "enabled": true
+                },
+                {
+                    "name": "Parking",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPBsV5M8zAO2jRwet_2KRjVvDYdr9X8GYSNMxVU=w529-h298-k-no"
+        },
+        {
+            "about": "Menu",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOdggOEnWK2tk9Qkg9nOBmoGuYGlrhmtJ9fenMm=w224-h298-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMqhgEON9gYsLpUaWfS7_4sqqqKbUqApOFbfA75=w529-h298-k-no"
+        },
+        {
+            "about": "Vibe",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOxcYuo6BzOmGVhqfeRJ1zoxn28ByZ9FaRYfgIK=w529-h298-k-no"
+        },
+        {
+            "about": "Comfort food",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOrxxOgO9d0iIeaTRBwTeRN7H6oN-R47GcvYjFR=w224-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipO_4QyIEChkYQF5yhsLTd0rwhP1yZAiZGm_vmZZ=w298-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=PuenlKj79r6Py1VmtGkzqg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=134.81807&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "6 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "6 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "6 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "6 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "6 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "6 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "6 a.m.-10 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "Staff is always very nice, but quality of both drinks and food has gone down substantially! I bought 2 donuts and both were rock hard! So tough to bite into that i dipped them in coffee and still a bit too doughy. Also Iced coffee tasted burnt and I got coffee for my dad who's a diabetic so I asked for Splenda instead of sugar and they didn't put anything in, no sugar, no Splenda, even though in my mobile order and when going through drive through I mentioned both times did you guys put 5 Splendas.",
+            "reviewer_name": "S",
+            "rating": 2,
+            "review_text": "Staff is always very nice, but quality of both drinks and food has gone down substantially! I bought 2 donuts and both were rock hard! So tough to bite into that i dipped them in coffee and still a bit too doughy. Also Iced coffee tasted burnt and I got coffee for my dad who's a diabetic so I asked for Splenda instead of sugar and they didn't put anything in, no sugar, no Splenda, even though in my mobile order and when going through drive through I mentioned both times did you guys put 5 Splendas.",
+            "published_at": "5 months ago",
+            "published_at_date": "2023-06-22T21:46:44.728000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 66,
+            "total_number_of_photos_by_reviewer": 49,
+            "reviewer_url": "https://www.google.com/maps/contrib/103872980466601922420/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKk57H8N-Ger-hAM4g5hjcAS30WqYmvE9NqQMGo9KA=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMfh3AGCqBvwy6Sa92SdHeg93axzUh1M6kMPxM=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Okay so this is a McDonalds you get what you pay for but at the same time this service here is really is slow like super slow if you come in on foot if you come in on foot you better be ready to wait like 15 minutes to get like even a coffee. Other than that, go through the drive-thru and it's pretty solid. They need to get more people on staff or a bigger kitchen or something. It's like they really don't care. They're making too much money off the cars",
+            "reviewer_name": "Daniel Godlewski",
+            "rating": 2,
+            "review_text": "Okay so this is a McDonalds you get what you pay for but at the same time this service here is really is slow like super slow if you come in on foot if you come in on foot you better be ready to wait like 15 minutes to get like even a coffee. Other than that, go through the drive-thru and it's pretty solid. They need to get more people on staff or a bigger kitchen or something. It's like they really don't care. They're making too much money off the cars",
+            "published_at": "3 weeks ago",
+            "published_at_date": "2023-11-10T15:51:13.681000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 135,
+            "total_number_of_photos_by_reviewer": 91,
+            "reviewer_url": "https://www.google.com/maps/contrib/104924245588096476501/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWMiJ2OoGubJcgAIeQonqRpOz8B-irQFLwOdTgMULIvSg=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "I have been here multiple times and honestly just stopped going to this location. The orders have been wrong multiple times, the drive-thru is always so slow compared to other locations. KEY THING IS: The staff is always nice, they say thank you and they say \"sir\" which is respectful and I don't expect that. I think they might be understaffed, not sure.",
+            "reviewer_name": "Harman Johal",
+            "rating": 3,
+            "review_text": "I have been here multiple times and honestly just stopped going to this location. The orders have been wrong multiple times, the drive-thru is always so slow compared to other locations. KEY THING IS: The staff is always nice, they say thank you and they say \"sir\" which is respectful and I don't expect that. I think they might be understaffed, not sure.",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-10-01T22:33:28.485000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 26,
+            "total_number_of_photos_by_reviewer": 2,
+            "reviewer_url": "https://www.google.com/maps/contrib/115641904180678565448/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLCflmYZzUJAVft8hBwfzk1pvGdqxfw2ensCMcJ2swkXw=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Fries are cold, not the right size, and underserved on numerous visits to this location.",
+            "reviewer_name": "David Morris",
+            "rating": 1,
+            "review_text": "Fries are cold, not the right size, and underserved on numerous visits to this location.",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-08-01T04:51:47.376000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/115011046613490293804/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJ8BIsq9V7OPzq2s_A8Nf5knGdd63TwcgsXCl2Awr0M=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPUSR4_r9R8Y9OM7v4z13DhwfNGJeDFYzyjmQeg=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Management is awful\nAll new employees from out of the country, hard to understand their English and they have the poorest customer service skills\nAlways mess up orders. Ordered 20 piece nuggets for my kids and paid for sauce - no sauce and only 16 nuggets in the box\nFries were cold and paid for tartar sauce too\nTo our disappointment no sauces in the bag , my child can't eat without ketchup or sweet and sour sauce and my partners burger had no lettuce (that I was charged for ).\nWhen I called the manger was extremely rude and didn't care, and hung up instead of apologizing. Very odd management",
+            "reviewer_name": "Karan Brown",
+            "rating": 1,
+            "review_text": "Management is awful\nAll new employees from out of the country, hard to understand their English and they have the poorest customer service skills\nAlways mess up orders. Ordered 20 piece nuggets for my kids and paid for sauce - no sauce and only 16 nuggets in the box\nFries were cold and paid for tartar sauce too\nTo our disappointment no sauces in the bag , my child can't eat without ketchup or sweet and sour sauce and my partners burger had no lettuce (that I was charged for ).\nWhen I called the manger was extremely rude and didn't care, and hung up instead of apologizing. Very odd management",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-25T05:04:18.821000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 3,
+            "total_number_of_reviews_by_reviewer": 12,
+            "total_number_of_photos_by_reviewer": 2,
+            "reviewer_url": "https://www.google.com/maps/contrib/101858500257916610661/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocId4v08K7FAo4EPvYLSPsaeTbYvuFvaztwP5bSYRRvO=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Went through the drive rough right now tonight and waited a good five minutes for the lady to come to the speaker and tell us they're not taking orders.. yet their lanes are open and they're a 24 hour drive through location. Love wasting gas money for disappointment",
+            "reviewer_name": "Oceane A",
+            "rating": 1,
+            "review_text": "Went through the drive rough right now tonight and waited a good five minutes for the lady to come to the speaker and tell us they're not taking orders.. yet their lanes are open and they're a 24 hour drive through location. Love wasting gas money for disappointment",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-17T10:48:25.378000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 38,
+            "total_number_of_photos_by_reviewer": 3,
+            "reviewer_url": "https://www.google.com/maps/contrib/115390845513599204304/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXw8v1MPB1M9Xqr8_UJLhTPJZ24c-lPAxxFxI9SltMycdQ=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "This place frequently makes my order wrong, forgets items, most of the time the food is luke-warm. The staff sucks, their attitude is terrible, they are incompetent and can't seem to do anything right. I only go here because it's the closest to my house and convenient. ",
+            "reviewer_name": "Ashton Roffe",
+            "rating": 1,
+            "review_text": "This place frequently makes my order wrong, forgets items, most of the time the food is luke-warm. The staff sucks, their attitude is terrible, they are incompetent and can't seem to do anything right. I only go here because it's the closest to my house and convenient. ",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-15T00:44:02.130000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/103619504094524428759/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXnjVktsQV8zpjqi9TUbur0patA85LgeRVamP5Y-lrSey6H=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Went there Sunday September 17th 3:30am waited at drive thru for 15 minutes. Finally a girl spoke on the speaker that they aren't taking orders. They advertise 24 hour drive thru. Why is she even working if they aren't taking orders? I will be contacting still creek mcdonalds corporate office on Monday.",
+            "reviewer_name": "Mac",
+            "rating": 1,
+            "review_text": "Went there Sunday September 17th 3:30am waited at drive thru for 15 minutes. Finally a girl spoke on the speaker that they aren't taking orders. They advertise 24 hour drive thru. Why is she even working if they aren't taking orders? I will be contacting still creek mcdonalds corporate office on Monday.",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-17T10:59:39.108000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 53,
+            "total_number_of_photos_by_reviewer": 10,
+            "reviewer_url": "https://www.google.com/maps/contrib/100116321664447299118/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXuEJAwzgqRWtw1S47OmC1h33NI-OcJniyY8Kjkyw8zsw8=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

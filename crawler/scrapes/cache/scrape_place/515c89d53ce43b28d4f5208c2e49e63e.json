@@ -1,0 +1,117 @@
+{
+    "place_id": "ChIJ1wmvhwsoEgQRoDbF5HVCvSw",
+    "name": "Nursing in Motion",
+    "description": null,
+    "reviews": null,
+    "website": "http://www.nursinginmotion.com/",
+    "owner": {
+        "id": "103477625627714802393",
+        "name": "Nursing in Motion (Owner)",
+        "link": "https://www.google.com/maps/contrib/103477625627714802393"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNR-02TBvzobq64G7MJUsVX6q0OyaHYrTkbtUjd=w442-h240-k-no",
+    "main_category": "Registered general nurse",
+    "categories": [
+        "Registered general nurse",
+        "Service establishment"
+    ],
+    "rating": null,
+    "workday_timing": "9 a.m.-3 p.m.",
+    "closed_on": [
+        "Saturday",
+        "Sunday"
+    ],
+    "phone": "(778) 806-8017",
+    "address": null,
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/Nursing+in+Motion/data=!4m7!3m6!1s0x412280b87af09d7:0x2cbd4275e4c536a0!8m2!3d49.204919!4d-122.9673636!16s%2Fg%2F11thcgd1wr!19sChIJ1wmvhwsoEgQRoDbF5HVCvSw?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 9 a.m.",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ1wmvhwsoEgQRoDbF5HVCvSw&q=Nursing+in+Motion&authuser=0&hl=en&gl=None",
+    "coordinates": {
+        "latitude": 49.204919,
+        "longitude": -122.9673636
+    },
+    "plus_code": null,
+    "detailed_address": {
+        "ward": null,
+        "street": null,
+        "city": null,
+        "postal_code": null,
+        "state": null,
+        "country_code": null
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "3223805982383879840",
+    "data_id": "0x412280b87af09d7:0x2cbd4275e4c536a0",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNR-02TBvzobq64G7MJUsVX6q0OyaHYrTkbtUjd=w548-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNR-02TBvzobq64G7MJUsVX6q0OyaHYrTkbtUjd=w548-h298-k-no"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "9 a.m.-3 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "9 a.m.-3 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "9 a.m.-3 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "9 a.m.-3 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "9 a.m.-3 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "Closed"
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "Closed"
+            ]
+        }
+    ],
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

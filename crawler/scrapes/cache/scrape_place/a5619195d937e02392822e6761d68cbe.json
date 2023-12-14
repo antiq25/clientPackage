@@ -1,0 +1,562 @@
+{
+    "place_id": "ChIJs3-qDxl2hlQRYrvSpGeJc-c",
+    "name": "McDonald's",
+    "description": "Classic, long-running fast-food chain known for its burgers & fries.",
+    "reviews": 1558,
+    "website": "https://www.mcdonalds.com/ca/en-ca/restaurant-locator.html%3Fy_source%3D1_MTQ1MTkzNDctNzE1LWxvY2F0aW9uLndlYnNpdGU%253D",
+    "owner": {
+        "id": "107766461808257397843",
+        "name": "McDonald's (Owner)",
+        "link": "https://www.google.com/maps/contrib/107766461808257397843"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOci5WXue7vEpp8Zjy-3c3SG5AmkICGMIGtiwk9=w408-h544-k-no",
+    "main_category": "Fast food restaurant",
+    "categories": [
+        "Fast food restaurant",
+        "American restaurant",
+        "Breakfast restaurant",
+        "Cafe",
+        "Hamburger restaurant",
+        "Restaurant"
+    ],
+    "rating": 3.4,
+    "workday_timing": "5 a.m.-11 p.m.",
+    "closed_on": [],
+    "phone": "(604) 453-5530",
+    "address": "McDonald's, 7360 Market Crossing, Burnaby, BC V5J 0A2",
+    "review_keywords": [
+        {
+            "keyword": "drive thru",
+            "count": 83
+        },
+        {
+            "keyword": "coffee",
+            "count": 46
+        },
+        {
+            "keyword": "morning",
+            "count": 18
+        },
+        {
+            "keyword": "window",
+            "count": 15
+        },
+        {
+            "keyword": "check",
+            "count": 11
+        },
+        {
+            "keyword": "big mac",
+            "count": 11
+        },
+        {
+            "keyword": "muffin",
+            "count": 10
+        },
+        {
+            "keyword": "convenient",
+            "count": 9
+        },
+        {
+            "keyword": "self-serve",
+            "count": 6
+        },
+        {
+            "keyword": "angus burger",
+            "count": 5
+        }
+    ],
+    "link": "https://www.google.com/maps/place/McDonald%27s/data=!4m7!3m6!1s0x548676190faa7fb3:0xe7738967a4d2bb62!8m2!3d49.200717!4d-122.981084!16s%2Fg%2F1td64_nd!19sChIJs3-qDxl2hlQRYrvSpGeJc-c?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 5 a.m.",
+    "price_range": "$",
+    "reviews_per_rating": {
+        "1": 257,
+        "2": 135,
+        "3": 331,
+        "4": 418,
+        "5": 417
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJs3-qDxl2hlQRYrvSpGeJc-c&q=McDonald%27s&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.200717,
+        "longitude": -122.981084
+    },
+    "plus_code": "6229+7H Burnaby, British Columbia",
+    "detailed_address": {
+        "ward": null,
+        "street": "7360 Market Crossing",
+        "city": "Burnaby",
+        "postal_code": "V5J 0A2",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "16677824923322989410",
+    "data_id": "0x548676190faa7fb3:0xe7738967a4d2bb62",
+    "menu": {
+        "link": "https://www.mcdonalds.com/ca/en-ca/full-menu.html%3Fy_source%3D1_MTQ1MTkzNDctNzE1LWxvY2F0aW9uLm1lbnVfdXJs",
+        "source": "mcdonalds.com"
+    },
+    "reservations": [],
+    "order_online_links": [
+        {
+            "link": "https://www4.mcdonalds.ca/mcdeliverycanada/?y_source=1_MTQ1MTkzNDctNzE1LWxvY2F0aW9uLm9yZGVyX3VybA%3D%3D",
+            "source": "mcdonalds.ca"
+        },
+        {
+            "link": "https://www.ubereats.com/ca/store/mcdonalds-marine-%26-byrne/M7X2U7tMROKPkmG7ay-fcw?utm_campaign=place-action-link&utm_medium=organic&utm_source=google",
+            "source": "ubereats.com"
+        },
+        {
+            "link": "https://www.skipthedishes.com/mcdonalds-market-crossing?serviceType=delivery&utm_source=google&utm_medium=organic&utm_campaign=gpav2",
+            "source": "skipthedishes.com"
+        },
+        {
+            "link": "https://www.doordash.com/store/mcdonald%27s-burnaby-1140148/?utm_campaign=gpa",
+            "source": "doordash.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "No-contact delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Drive-through",
+                    "enabled": true
+                },
+                {
+                    "name": "Takeout",
+                    "enabled": true
+                },
+                {
+                    "name": "Dine-in",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "highlights",
+            "name": "Highlights",
+            "options": [
+                {
+                    "name": "Fast service",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair accessible seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Coffee",
+                    "enabled": true
+                },
+                {
+                    "name": "Late-night food",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Dining options",
+            "options": [
+                {
+                    "name": "Breakfast",
+                    "enabled": true
+                },
+                {
+                    "name": "Lunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Dinner",
+                    "enabled": true
+                },
+                {
+                    "name": "Counter service",
+                    "enabled": true
+                },
+                {
+                    "name": "Dessert",
+                    "enabled": true
+                },
+                {
+                    "name": "Seating",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosphere",
+            "options": [
+                {
+                    "name": "Casual",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "crowd",
+            "name": "Crowd",
+            "options": [
+                {
+                    "name": "Family-friendly",
+                    "enabled": true
+                },
+                {
+                    "name": "Groups",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "children",
+            "name": "Children",
+            "options": [
+                {
+                    "name": "Good for kids",
+                    "enabled": true
+                },
+                {
+                    "name": "High chairs",
+                    "enabled": true
+                },
+                {
+                    "name": "Kids' menu",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "parking",
+            "name": "Parking",
+            "options": [
+                {
+                    "name": "Free parking lot",
+                    "enabled": true
+                },
+                {
+                    "name": "Parking",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOci5WXue7vEpp8Zjy-3c3SG5AmkICGMIGtiwk9=w224-h298-k-no"
+        },
+        {
+            "about": "Latest",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPhKsF-TUQrH2Eixq0XQuzq1JFqAY89m7yQR6iL=w224-h298-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMcILOn-U92dKvChKXHDDfCUIzVh33A4jtO4NYO=w529-h298-k-no"
+        },
+        {
+            "about": "Menu",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOTxcpaIhoYEPTmBhy3Pl86hXbjOGvG8OUcxV8x=w224-h298-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMsoUC7EJkVgrH1-jJXahdak5-sxlSAunYfjB8I=w224-h398-k-no"
+        },
+        {
+            "about": "Vibe",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipO0MK9bxMX5k19BeApTJVvaL9vAf4O0za3fOlFA=w397-h298-k-no"
+        },
+        {
+            "about": "Comfort food",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNec5yRmQ3IVnsi3FXgQFr94R8Uf3jGjgNlVcrN=w224-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOuoWMWVx2VUPnZXuF_n2KA3UqRUg5c52MYGoON=w298-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=jvl2ilsiCBDoPPJhYl5Icg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=23.09539&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "5 a.m.-11 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "5 a.m.-11 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "5 a.m.-11 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "5 a.m.-11 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "5 a.m.-11 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "5 a.m.-11 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "5 a.m.-11 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "Purchased kid's meal with apple slices as takeout for dinner. We began eating (within half an hour of purchase) only to find white mold on the apple slices. We were already halfway through the apple slices. Absolutely disgusting. Poor food quality control.",
+            "reviewer_name": "Jamie Lin",
+            "rating": 1,
+            "review_text": "Purchased kid's meal with apple slices as takeout for dinner. We began eating (within half an hour of purchase) only to find white mold on the apple slices. We were already halfway through the apple slices. Absolutely disgusting. Poor food quality control.",
+            "published_at": "5 months ago",
+            "published_at_date": "2023-06-27T03:38:16.388000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 2,
+            "reviewer_url": "https://www.google.com/maps/contrib/115785703062600665502/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIC153s7Cv10OLo99eyK9KnsIf78mQGcUjePQ-RdSxx=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOMOXG05zYj6xXeSm37FGpzuv3ryaaSbdXxrTXp=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipM3fgivg-zhR7n_J0VZkyaMuW8A8Mwgw7GaCQKp=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Tables are unacceptably filthy. It looked like it hasn't been sanitized or cleaned for a week. Garbages are full. Washroom was disgustingly dirty as well. Floors were sticky.",
+            "reviewer_name": "Howell Alamo",
+            "rating": 2,
+            "review_text": "Tables are unacceptably filthy. It looked like it hasn't been sanitized or cleaned for a week. Garbages are full. Washroom was disgustingly dirty as well. Floors were sticky.",
+            "published_at": "5 months ago",
+            "published_at_date": "2023-06-26T20:55:34.942000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 75,
+            "total_number_of_photos_by_reviewer": 109,
+            "reviewer_url": "https://www.google.com/maps/contrib/108258502735858364700/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJIOCuP0rm_EJlxB2rDmWMqrU5pN887qEKuwd4O9U3_=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMdcsXZCtzR4tPFY30Inn3iUflPBJK5UNywXhSk=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOZ1_8KUzSJdjeiDHM4bYocYW89jRpFAshgSWEV=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Hello everyone, I just wanna let everybody know about my experience at this location. I went there this morning to grab a cup of coffee and a blueberry muffin. No problem with ordering or going to the window. The problem my head was after I drove away and I was ready to take a sip of my thoughts, so hot coffee ended up being ice cold as far as my muffin well, it literally looks like somebody stuck their finger into it and did not smell very pleasant. It looked really gross and another thing was it felt like it was in the freezer and it was defrosting and they gave it to me. It looks like a disaster. It was so disgusting looking at it. I ended up throwing it out into the bush for the birds to eat and I feel bad for them and my coffee. I just dumped it out and just went over to Tim Hortons after and I actually got a hot coffee and a really nice muffin way to go McDonald's anyways everybody have a wonderful day thank you for taking the time to read this",
+            "reviewer_name": "Coho Car",
+            "rating": 1,
+            "review_text": "Hello everyone, I just wanna let everybody know about my experience at this location. I went there this morning to grab a cup of coffee and a blueberry muffin. No problem with ordering or going to the window. The problem my head was after I drove away and I was ready to take a sip of my thoughts, so hot coffee ended up being ice cold as far as my muffin well, it literally looks like somebody stuck their finger into it and did not smell very pleasant. It looked really gross and another thing was it felt like it was in the freezer and it was defrosting and they gave it to me. It looks like a disaster. It was so disgusting looking at it. I ended up throwing it out into the bush for the birds to eat and I feel bad for them and my coffee. I just dumped it out and just went over to Tim Hortons after and I actually got a hot coffee and a really nice muffin way to go McDonald's anyways everybody have a wonderful day thank you for taking the time to read this",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-08T17:42:43.153000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 17,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/101827464575764428241/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocL6Azs665dOPDsmdWNUwfnjBEVftenjOD6nXNQW6-gF=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "this branch is the worse!! i work nearby so i always order from here and for some reason they always get my order wrong!! do you guys have some problem with reading?? you have to be careful what ur ordering from this place mostly when u have allergy because they never follow instructions.",
+            "reviewer_name": "ppwgp mlmal",
+            "rating": 1,
+            "review_text": "this branch is the worse!! i work nearby so i always order from here and for some reason they always get my order wrong!! do you guys have some problem with reading?? you have to be careful what ur ordering from this place mostly when u have allergy because they never follow instructions.",
+            "published_at": "6 days ago",
+            "published_at_date": "2023-11-24T21:28:28.440000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 6,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/109882273563443254176/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIegXKcSRhJRUO29eZU55x6yd0btnJVxufWz9r8BZcD=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Lady doing parked drive through orders at like 9:50pm on Friday (Aug 4) was giving us attitude while giving us our food then, while walking away hit our car mirror with her tray as she stormed away. Next time if you have a problem, speak up instead of hitting our car because you're mad. Appreciate it thank you.",
+            "reviewer_name": "Noa L",
+            "rating": 1,
+            "review_text": "Lady doing parked drive through orders at like 9:50pm on Friday (Aug 4) was giving us attitude while giving us our food then, while walking away hit our car mirror with her tray as she stormed away. Next time if you have a problem, speak up instead of hitting our car because you're mad. Appreciate it thank you.",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-05T04:56:59.757000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 9,
+            "total_number_of_photos_by_reviewer": 2,
+            "reviewer_url": "https://www.google.com/maps/contrib/101989840092621725853/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJQE9dpcmbWPkhYY1ELpH_mjhaT2BcGqf2UnuSP8zmO3JM=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Thank goodness for Barbie! <3\nShe was in the middle of a task but stopped to help me.\n5+ other staff were standing with their backs to customers, chatting & laughing. Those staff need to be trained more!\n\nAt least make eye contact w/ customers & say \"just a moment.\" Work is not supposed to be about socializing w/ coworkers. Do some work first!",
+            "reviewer_name": "Ilex Evergreen",
+            "rating": 4,
+            "review_text": "Thank goodness for Barbie! <3\nShe was in the middle of a task but stopped to help me.\n5+ other staff were standing with their backs to customers, chatting & laughing. Those staff need to be trained more!\n\nAt least make eye contact w/ customers & say \"just a moment.\" Work is not supposed to be about socializing w/ coworkers. Do some work first!",
+            "published_at": "5 months ago",
+            "published_at_date": "2023-06-10T02:26:25.259000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 42,
+            "total_number_of_photos_by_reviewer": 11,
+            "reviewer_url": "https://www.google.com/maps/contrib/115555374256290713567/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocK-F5bgo2arEKWs13XvG7efgSGLxbdMEK0MUOXwquVO=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "For the sweet love of f they started playing Christmas music at the start of November. F off with that garbage, and if you must wait until December at least",
+            "reviewer_name": "Rob Bee",
+            "rating": 1,
+            "review_text": "For the sweet love of f they started playing Christmas music at the start of November. F off with that garbage, and if you must wait until December at least",
+            "published_at": "a week ago",
+            "published_at_date": "2023-11-17T15:29:14.467000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 21,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/101998547076150191563/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKqPGyE6fvXA2yrFnUHFI6-10bjiyylqCIh9RJuVCdu=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "The last two times I have been  there, I have been disappointed.  You order to eat in and use table service.  They bring your food in a bag when it clearly states eat in.  I mentioned coke Zero, only coming out of water, and no one did anything for the hour I was there.  Add on their were no little cups for Ketchup, so I had to ask for Ketchup.  Had to hunt for a clean table to sit at.  So, it's not a great impression",
+            "reviewer_name": "Thomas Canty",
+            "rating": 3,
+            "review_text": "The last two times I have been  there, I have been disappointed.  You order to eat in and use table service.  They bring your food in a bag when it clearly states eat in.  I mentioned coke Zero, only coming out of water, and no one did anything for the hour I was there.  Add on their were no little cups for Ketchup, so I had to ask for Ketchup.  Had to hunt for a clean table to sit at.  So, it's not a great impression",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-22T17:12:12.406000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 83,
+            "total_number_of_photos_by_reviewer": 4,
+            "reviewer_url": "https://www.google.com/maps/contrib/111967220594174446702/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVXS_rRToMDw_Sg9f__49gdfMg8ivZ4V_FZYGnVGD-xrv0=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

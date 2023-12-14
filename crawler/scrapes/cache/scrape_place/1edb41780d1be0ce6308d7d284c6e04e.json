@@ -1,0 +1,455 @@
+{
+    "place_id": "ChIJ91IE0wZ1hlQRW6cnb4DtV38",
+    "name": "Kamo Bakery",
+    "description": null,
+    "reviews": 295,
+    "website": "http://www.kamobakery.ca/",
+    "owner": {
+        "id": "104023885778893235023",
+        "name": "Kamo Bakery (Owner)",
+        "link": "https://www.google.com/maps/contrib/104023885778893235023"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMv6aQSBJ698FfFZLI4Buy_rO6OfbG492QBI2QK=w408-h306-k-no",
+    "main_category": "Bakery",
+    "categories": [
+        "Bakery",
+        "Dessert shop",
+        "Pastry shop"
+    ],
+    "rating": 5,
+    "workday_timing": "7 a.m.-7 p.m.",
+    "closed_on": [
+        "Wednesday"
+    ],
+    "phone": "(604) 566-6001",
+    "address": "Kamo Bakery, Privet Parking Available in the back of store, 5552 Victoria Dr, Vancouver, BC V5P 3W1",
+    "review_keywords": [
+        {
+            "keyword": "baklava",
+            "count": 136
+        },
+        {
+            "keyword": "sweet",
+            "count": 77
+        },
+        {
+            "keyword": "owner",
+            "count": 25
+        },
+        {
+            "keyword": "walnut",
+            "count": 16
+        },
+        {
+            "keyword": "pistachio cookies",
+            "count": 12
+        },
+        {
+            "keyword": "reviews",
+            "count": 12
+        },
+        {
+            "keyword": "sesame",
+            "count": 11
+        },
+        {
+            "keyword": "syrup",
+            "count": 8
+        },
+        {
+            "keyword": "samoon bread",
+            "count": 7
+        },
+        {
+            "keyword": "buttery",
+            "count": 6
+        }
+    ],
+    "link": "https://www.google.com/maps/place/Kamo+Bakery/data=!4m7!3m6!1s0x54867506d30452f7:0x7f57ed806f27a75b!8m2!3d49.2343332!4d-123.0653095!16s%2Fg%2F11rmx_w7zw!19sChIJ91IE0wZ1hlQRW6cnb4DtV38?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 7 a.m.",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 5,
+        "5": 290
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ91IE0wZ1hlQRW6cnb4DtV38&q=Kamo+Bakery&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.234333199999995,
+        "longitude": -123.0653095
+    },
+    "plus_code": "6WMM+PV Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "Knight",
+        "street": "Privet Parking Available in the back of store, 5552 Victoria Dr",
+        "city": "Vancouver",
+        "postal_code": "V5P 3W1",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "9176063901667141467",
+    "data_id": "0x54867506d30452f7:0x7f57ed806f27a75b",
+    "menu": {
+        "link": "http://www.kamobakery.ca/",
+        "source": "kamobakery.ca"
+    },
+    "reservations": [],
+    "order_online_links": [
+        {
+            "link": "https://www.skipthedishes.com/kamo-bakery-victoria-drive?serviceType=delivery&utm_source=google&utm_medium=organic&utm_campaign=gpav2",
+            "source": "skipthedishes.com"
+        },
+        {
+            "link": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjih_aY46b7AhWdFOcKHWfrBJYYABAAGgJwdg&ae=2&ohost=www.google.ca&cid=CAESbOD2qeJGOkcTMsOOUAZBj1iEQbQ_efPmQToLyp7otMkktjZB793UTZ5qzkvGHj2V-gjk_CTG7K0S5eedSbOusKF2eqwISfmJzW9AsQVudfag3lMRY2I_zYPWi-MTISND0P5vXyAWV7RYNz1nTw&sig=AOD64_2fyJ7uqv9MGmK9JcK9TyFquknRFg&q&adurl&ved=2ahUKEwij3O6Y46b7AhUaLzQIHbr6B_QQ0Qx6BAgGEAE",
+            "source": "googleadservices.com"
+        },
+        {
+            "link": "https://www.doordash.com/store/kamo-bakery-vancouver-24409400/?utm_campaign=gpa",
+            "source": "doordash.com"
+        },
+        {
+            "link": "https://www.ubereats.com/ca/store/kamo-bakery/ozU8bk8IUQ2ayS3RR6PfCg?utm_campaign=place-action-link&utm_medium=organic&utm_source=google",
+            "source": "ubereats.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "In-store pickup",
+                    "enabled": true
+                },
+                {
+                    "name": "In-store shopping",
+                    "enabled": true
+                },
+                {
+                    "name": "Takeout",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMv6aQSBJ698FfFZLI4Buy_rO6OfbG492QBI2QK=w397-h298-k-no"
+        },
+        {
+            "about": "Latest",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOwXkf9Wgn896NQz5JQmi2Ecvgdr4JaAt4jgS3V=w224-h298-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPUZQiv9HlmDrwLFW_FiNVuAP-OZWxcu2gEHlrv=w224-h398-k-no"
+        },
+        {
+            "about": "Menu",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipONbBNtXmui9yBLo_Z4MJGarjMZCRROIrnPa21J=w224-h298-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPwG7QTLrIAkQ8bVz0zzXR-WeESjCDrx9oqFlq6=w298-h298-k-no"
+        },
+        {
+            "about": "Vibe",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPAGR2GydmsfRGBQXQDKYOGw-Q_a1E4PwqhqRcr=w329-h298-k-no"
+        },
+        {
+            "about": "Take-out",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMfi9sH6XxAq_M4U3IFYDqPm_EG-GFTHZ81xMYp=w224-h298-k-no"
+        },
+        {
+            "about": "Baklava",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipN9dwan3e1xBGPmK7TudQtEASqMVjA7K3BBXZkE=w447-h298-k-no"
+        },
+        {
+            "about": "Display case",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNvPHDw6g-PfdvD-CawPyImaDL-YTlJyBDX5JAo=w397-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNCAGTrmbkCVkv4iyWsdKCPdwdpwk43ilhIBWCW=w529-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=TkQEymPuTZNMOZAnT8r3vg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=114.12781&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "7 a.m.-7 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "7 a.m.-7 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "Closed"
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "7 a.m.-7 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "7 a.m.-7 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "7 a.m.-7 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "7 a.m.-7 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "Our cousins recommended this bakery and we went there soon afterward. The friendly owner greeted us and gave us samples to try. We ended up getting 5 different types of pastries. We definitely will return and get all other items.",
+            "reviewer_name": "Bill Cheung",
+            "rating": 5,
+            "review_text": "Our cousins recommended this bakery and we went there soon afterward. The friendly owner greeted us and gave us samples to try. We ended up getting 5 different types of pastries. We definitely will return and get all other items.",
+            "published_at": "a week ago",
+            "published_at_date": "2023-11-18T00:26:46.481000Z",
+            "response_from_owner_text": "\nWe're over the moon to receive your five-star rating! Thank you for sharing your positive experience with us. Your support means the world to us, and we're excited to have the opportunity to continue exceeding your expectations in the future.",
+            "response_from_owner_ago": "a week ago",
+            "response_from_owner_date": "2023-11-18T00:43:07.289000Z",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 27,
+            "total_number_of_photos_by_reviewer": 41,
+            "reviewer_url": "https://www.google.com/maps/contrib/117138176031778824902/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUNman2CHklHNZydp1G-r6lsFlTjFQOIvwBUqYxaiF-C3Kb=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMW-w1lS99M88uK-GVwXJ3kbd4tDnunixu-r5-N=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipM5oLU1XBG-nV36_k_hUMJuUlGIw55KHiF2F6Nu=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOJIBXjY5aEAcMH-de6dVgow7THLlx6EPVvBmo1=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPj1sFLb2Ye8e88iCtE7w6VcVlZGUl4jno0ttd6=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPz9q8vj6M_xf0gsosOZMmVOw4mmDghRU7IzDEB=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipO1iXFKQImiYgc30sUy4Jjtkbm4KTzgRyMvTotz=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNzultoU2Uc2fSRz9xAM2O__JBrtyULI5qKZBka=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Been curious about this bakery for quite some time now and I took the chance to pass by after doing my errands this afternoon - AND I'M GLAD I DID! I got to meet the owner, Kamo himself. Such a nice guy! He immediately knew that it was my first time and he gave a me a piece of their Baklava for free AND I LOVED IT! It was my first time and I've only seen baklavas on TV.  It was so good! I've had my eyes fixed on their pistachio cookies and bought a couple to take home.\n\nIt was indeed a positive experience for me! I'll definitely be back to try the rest of their selections! If I could give 6 stars here, I would! \n\nEDIT: Added pictures on the review",
+            "reviewer_name": "Keith Ver",
+            "rating": 5,
+            "review_text": "Been curious about this bakery for quite some time now and I took the chance to pass by after doing my errands this afternoon - AND I'M GLAD I DID! I got to meet the owner, Kamo himself. Such a nice guy! He immediately knew that it was my first time and he gave a me a piece of their Baklava for free AND I LOVED IT! It was my first time and I've only seen baklavas on TV.  It was so good! I've had my eyes fixed on their pistachio cookies and bought a couple to take home.\n\nIt was indeed a positive experience for me! I'll definitely be back to try the rest of their selections! If I could give 6 stars here, I would! \n\nEDIT: Added pictures on the review",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-10T23:23:38.470000Z",
+            "response_from_owner_text": "Thanks so much for giving us your take on how we are doing. We're glad that customers like you are having a great experience at Kamo bakery.",
+            "response_from_owner_ago": "5 months ago",
+            "response_from_owner_date": "2023-06-16T03:12:20.793000Z",
+            "review_likes_count": 5,
+            "total_number_of_reviews_by_reviewer": 135,
+            "total_number_of_photos_by_reviewer": 619,
+            "reviewer_url": "https://www.google.com/maps/contrib/108039534584775814572/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjX-oqYSwoSPT_OAsFLtpUMlPWn3Lohi18Y3K1VAI8ewfQ=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPUGZLXI-X-pN9QBulFr6wUJzorwSC4e1-rCeoh=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipN2NBvMoA4mhy-KYH951e6yL3gNkdcBJ8bToVJM=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNnCmWGBeBJYjHL7XJFs4to-6wW9FCv5FOFIqic=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPCi3YfrTydyVy9ZhUNWbgngurFijwn8S5XpPe0=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Went for the first time and the owner was SUPER friendly and sweet! He let gave us multiple free samples so we could see what he liked, and everything tasted amazing!! The paklava was super crispy and full of flavor. Highly recommend this bakery ",
+            "reviewer_name": "Amy Nofech",
+            "rating": 5,
+            "review_text": "Went for the first time and the owner was SUPER friendly and sweet! He let gave us multiple free samples so we could see what he liked, and everything tasted amazing!! The paklava was super crispy and full of flavor. Highly recommend this bakery ",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-16T01:37:22.582000Z",
+            "response_from_owner_text": "On behalf us all of us at Kamo Bakery, I would like to thank you for sharing this great review about Kamo bakery products ! We are thrilled that you enjoyed your experience.",
+            "response_from_owner_ago": "a month ago",
+            "response_from_owner_date": "2023-10-28T16:10:34.296000Z",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/105376052526572187725/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW30RNgvBbH2w7HEbJ-vXVS6UyMDuCtBk1N-MlVB3ekSkE=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPsQG2r42BEowdrGzvffaVUcqj2fVJlIsS4xxAv=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Pros:\nExtremely friendly staff. Very welcoming and helpful.\nSweet items have a great balanced mixture of nuts and pastry.\nThe taste of nuts in their items is very prevalent, and not overshadowed by sweetness. Suitable for usual Asian tastes.\nAdditional area with difficult to find pantry items.\nCash and credit/debit cards accepted.\nAccessible by public transit. Parking available in the back of the bakery.\n\nCons:\n\nMostly for pick up. No seating area.\n\n***\n\nCan't wait to try their breads and savoury items.",
+            "reviewer_name": "Francisco Ng",
+            "rating": 5,
+            "review_text": "Pros:\nExtremely friendly staff. Very welcoming and helpful.\nSweet items have a great balanced mixture of nuts and pastry.\nThe taste of nuts in their items is very prevalent, and not overshadowed by sweetness. Suitable for usual Asian tastes.\nAdditional area with difficult to find pantry items.\nCash and credit/debit cards accepted.\nAccessible by public transit. Parking available in the back of the bakery.\n\nCons:\n\nMostly for pick up. No seating area.\n\n***\n\nCan't wait to try their breads and savoury items.",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-20T16:33:15.412000Z",
+            "response_from_owner_text": "Thanks so much for giving us your take on how we are doing. We're glad that customers like you are having a great experience at Kamo bakery",
+            "response_from_owner_ago": "a month ago",
+            "response_from_owner_date": "2023-10-28T16:09:17.957000Z",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 4,
+            "total_number_of_photos_by_reviewer": 18,
+            "reviewer_url": "https://www.google.com/maps/contrib/101037621977754012023/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXnSza_Vvzt_Ewd5HHnqOatkFIm_2dWktZTRUesOep-iRqV=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMYv-EzYjmfNFy7B35EFolxNofkEnVS77fZ90K7=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Professional, friendly atmosphere. Checked the place for the first time yesterday and met the owner. Very generous and friendly person.\nI have tried some baklava, kenafa and pastry with dates. It is delicious, lightly sweetened as I prefer. There a variety of flavours and options to choose from. I had a mix box. In addition, the bread is fresh and tasty. It will go well with cheese either breakfast or dinner. My taste buds asked for more!!\nHighly recommended to try Kamo Bakery!!",
+            "reviewer_name": "Ahmed Abdelhafez",
+            "rating": 5,
+            "review_text": "Professional, friendly atmosphere. Checked the place for the first time yesterday and met the owner. Very generous and friendly person.\nI have tried some baklava, kenafa and pastry with dates. It is delicious, lightly sweetened as I prefer. There a variety of flavours and options to choose from. I had a mix box. In addition, the bread is fresh and tasty. It will go well with cheese either breakfast or dinner. My taste buds asked for more!!\nHighly recommended to try Kamo Bakery!!",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-17T20:06:00.976000Z",
+            "response_from_owner_text": "On behalf us all of us at Kamo Bakery, I would like to thank you for sharing this great review about Kamo bakery products ! We are thrilled that you enjoyed your experience.",
+            "response_from_owner_ago": "a month ago",
+            "response_from_owner_date": "2023-10-28T16:10:12.170000Z",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 17,
+            "total_number_of_photos_by_reviewer": 2,
+            "reviewer_url": "https://www.google.com/maps/contrib/102056435146431335226/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUgcmLD3Ymu4GcJZHE_xiPqhvy738E9fFiQrWahrd9CQQ=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPaoL7xn_bmjcXShifWosbYOXXk7jZyqRirCFr6=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "The best baclava in the city hands down. My favourite bakery to get these delectable treats! Even my Vietnamese mom who's the pickiest eater in the world loves them. The royal baklavas are pricier but the artistry is worth it if you're aiming to impress. The pistachio and walnut baklavas taste just as good though! The pistachio cookies are also delicious. They also have parking in the back.",
+            "reviewer_name": "Angela P",
+            "rating": 5,
+            "review_text": "The best baclava in the city hands down. My favourite bakery to get these delectable treats! Even my Vietnamese mom who's the pickiest eater in the world loves them. The royal baklavas are pricier but the artistry is worth it if you're aiming to impress. The pistachio and walnut baklavas taste just as good though! The pistachio cookies are also delicious. They also have parking in the back.",
+            "published_at": "a week ago",
+            "published_at_date": "2023-11-20T02:12:13.036000Z",
+            "response_from_owner_text": "Hello Angela,\n\nThank you for taking the time to leave a 5-star review of Kamo Bakery! Your feedback is incredibly valuable to us, and we're overjoyed to learn that you had such a positive experience at our establishment.\n\nWe are dedicated to creating a warm and inviting environment for our customers, and we're thrilled that we were able to make your visit enjoyable. We can't wait to have the opportunity to serve you again, and if there's anything we can do to make your next visit even better, please don't hesitate to let us know.",
+            "response_from_owner_ago": "5 days ago",
+            "response_from_owner_date": "2023-11-26T04:44:27.939000Z",
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 13,
+            "total_number_of_photos_by_reviewer": 19,
+            "reviewer_url": "https://www.google.com/maps/contrib/117016530848419258267/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocL2hpfG31nfp7BHJn56QKmukkZ1pVnlqvCLrzqpGjoy=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOwXkf9Wgn896NQz5JQmi2Ecvgdr4JaAt4jgS3V=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Best baklava I've ever had - Kamo Bakery doesn't soak their baklava in syrup so it stays light, crisp and not too sweet and is filled with good quality nuts.\n\nAlso don't sleep on the pistachio cookies - they taste like pistachio Nutella and melt in your mouth when consumed with your choice of milk.\n\nThe owner is also super friendly, happy to explain what the different types of baklava are and proud of his baked goods. Definitely makes me happy to support and glad they're not too far away so I can drop by a sweet treat.",
+            "reviewer_name": "Rachel L",
+            "rating": 5,
+            "review_text": "Best baklava I've ever had - Kamo Bakery doesn't soak their baklava in syrup so it stays light, crisp and not too sweet and is filled with good quality nuts.\n\nAlso don't sleep on the pistachio cookies - they taste like pistachio Nutella and melt in your mouth when consumed with your choice of milk.\n\nThe owner is also super friendly, happy to explain what the different types of baklava are and proud of his baked goods. Definitely makes me happy to support and glad they're not too far away so I can drop by a sweet treat.",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-23T18:26:24.987000Z",
+            "response_from_owner_text": "We truly appreciate your continuous support and trust in us. Your 5-star review brightens our day and serves as a constant reminder of why we love what we do. We'll continue striving to provide exceptional products, services and outstanding customer care to make every interaction with us remarkable.\n",
+            "response_from_owner_ago": "2 months ago",
+            "response_from_owner_date": "2023-09-24T19:46:06.396000Z",
+            "review_likes_count": 4,
+            "total_number_of_reviews_by_reviewer": 9,
+            "total_number_of_photos_by_reviewer": 14,
+            "reviewer_url": "https://www.google.com/maps/contrib/100384314882547202908/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVYb6_rq6tx2d0oj5IhZBSRhWL8KUll7RCp_wtFRm6q4SJr=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMCZO1SuXDOuBVoZ6Rh93astYkmExDUEalUL9fQ=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Ordered in Uber Eats, wanted to get 1lb of mixed baklava so called to ask if that is possible to do so as Uber didn't show 50/50 option.\nSuper nice and friendly man (thank You!!) said he can make a box of mixed baklava, and that he will also put a small gift to try - Royal Paklava - it was soooo good, a lot of flavourful filling, not too sweet, it is PERFECT\nWalnut & Pistachio Baklavas also well balanced in flavors and structure, the top is perfectly crispy, great filling, soft inside, sweetness level is perfect for me (most baklavas I tried in Vancouver before were super sweet and had less filling so couldn't even notice nuts flavour).\nDefinitely recommend to try! :)",
+            "reviewer_name": "Anastasia",
+            "rating": 5,
+            "review_text": "Ordered in Uber Eats, wanted to get 1lb of mixed baklava so called to ask if that is possible to do so as Uber didn't show 50/50 option.\nSuper nice and friendly man (thank You!!) said he can make a box of mixed baklava, and that he will also put a small gift to try - Royal Paklava - it was soooo good, a lot of flavourful filling, not too sweet, it is PERFECT\nWalnut & Pistachio Baklavas also well balanced in flavors and structure, the top is perfectly crispy, great filling, soft inside, sweetness level is perfect for me (most baklavas I tried in Vancouver before were super sweet and had less filling so couldn't even notice nuts flavour).\nDefinitely recommend to try! :)",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-29T23:16:38.290000Z",
+            "response_from_owner_text": "Hello Anastasia! Thank you for the fantastic review! We put a lot of effort into making our products. The Royal Paklava is new product we just made it, so we are thrilled to hear that you are enjoying it. ",
+            "response_from_owner_ago": "3 months ago",
+            "response_from_owner_date": "2023-08-29T23:35:55.210000Z",
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 13,
+            "total_number_of_photos_by_reviewer": 4,
+            "reviewer_url": "https://www.google.com/maps/contrib/102737215798313196900/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVp71wY4PGs6j8zcH3yyRcJXUSoRXU4uCZ3Vigjqr_evhM=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMdFboFmozmU2Zc39ZMMTEINlu1ay3_i4AdwCXR=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMfOpHovFaqRb09bacXR-sxCRtNXdzRFcdNAIlq=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipN55Xp53A4_OfmOAFhPQ2zonrszpBk-Lj_bcWmY=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMvvSkvBoZ-YV49SaaWYkZmgkd1oebdekj_j1r0=w150-h150-k-no-p"
+            ]
+        }
+    ],
+    "is_spending_on_ads": false
+}

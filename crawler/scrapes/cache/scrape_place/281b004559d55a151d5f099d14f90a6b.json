@@ -1,0 +1,572 @@
+{
+    "place_id": "ChIJgyy1yKpzhlQRfu6SZXQC9ZM",
+    "name": "McDonald's",
+    "description": "Classic, long-running fast-food chain known for its burgers & fries.",
+    "reviews": 1070,
+    "website": "https://www.mcdonalds.com/ca/en-ca/restaurant-locator.html%3Fy_source%3D1_MTQ1MTk1NzQtNzE1LWxvY2F0aW9uLndlYnNpdGU%253D",
+    "owner": {
+        "id": "103533491646862462432",
+        "name": "McDonald's (Owner)",
+        "link": "https://www.google.com/maps/contrib/103533491646862462432"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOGTcbC6CwgQez9Dj9D_LiDlxuRveglOwRPaIEy=w408-h240-k-no-pi-0-ya136.99998-ro-0-fo100",
+    "main_category": "Fast food restaurant",
+    "categories": [
+        "Fast food restaurant",
+        "American restaurant",
+        "Breakfast restaurant",
+        "Cafe",
+        "Hamburger restaurant",
+        "Restaurant"
+    ],
+    "rating": 3.5,
+    "workday_timing": "Open 24 hours",
+    "closed_on": [],
+    "phone": "(604) 718-1017",
+    "address": "McDonald's, 3308 W Broadway, Vancouver, BC V6R 2B2",
+    "review_keywords": [
+        {
+            "keyword": "clean",
+            "count": 33
+        },
+        {
+            "keyword": "parking",
+            "count": 19
+        },
+        {
+            "keyword": "nuggets",
+            "count": 11
+        },
+        {
+            "keyword": "homeless",
+            "count": 8
+        },
+        {
+            "keyword": "big mac",
+            "count": 8
+        },
+        {
+            "keyword": "morning",
+            "count": 7
+        },
+        {
+            "keyword": "play area",
+            "count": 6
+        },
+        {
+            "keyword": "kiosks",
+            "count": 6
+        },
+        {
+            "keyword": "renovated",
+            "count": 5
+        },
+        {
+            "keyword": "check",
+            "count": 5
+        }
+    ],
+    "link": "https://www.google.com/maps/place/McDonald%27s/data=!4m7!3m6!1s0x548673aac8b52c83:0x93f502746592ee7e!8m2!3d49.2641375!4d-123.1780474!16s%2Fg%2F1tdm7_yv!19sChIJgyy1yKpzhlQRfu6SZXQC9ZM?authuser=0&hl=en&rclk=1",
+    "status": "Open 24 hours",
+    "price_range": "$",
+    "reviews_per_rating": {
+        "1": 135,
+        "2": 90,
+        "3": 229,
+        "4": 287,
+        "5": 329
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJgyy1yKpzhlQRfu6SZXQC9ZM&q=McDonald%27s&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.2641375,
+        "longitude": -123.1780474
+    },
+    "plus_code": "7R7C+MQ Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "West Side",
+        "street": "3308 W Broadway",
+        "city": "Vancouver",
+        "postal_code": "V6R 2B2",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "10661430391813107326",
+    "data_id": "0x548673aac8b52c83:0x93f502746592ee7e",
+    "menu": {
+        "link": "https://www.mcdonalds.com/ca/en-ca/full-menu.html%3Fy_source%3D1_MTQ1MTk1NzQtNzE1LWxvY2F0aW9uLm1lbnVfdXJs",
+        "source": "mcdonalds.com"
+    },
+    "reservations": [],
+    "order_online_links": [
+        {
+            "link": "https://www4.mcdonalds.ca/mcdeliverycanada/?y_source=1_MTQ1MTk1NzQtNzE1LWxvY2F0aW9uLm9yZGVyX3VybA%3D%3D",
+            "source": "mcdonalds.ca"
+        },
+        {
+            "link": "https://www.ubereats.com/ca/store/mcdonalds-broadway-%26-blenheim/fNuVqpGrRxegvcAs5CrFhg?utm_campaign=place-action-link&utm_medium=organic&utm_source=google",
+            "source": "ubereats.com"
+        },
+        {
+            "link": "https://www.skipthedishes.com/mcdonalds-west-broadway?serviceType=delivery&utm_source=google&utm_medium=organic&utm_campaign=gpav2",
+            "source": "skipthedishes.com"
+        },
+        {
+            "link": "https://www.doordash.com/store/mcdonald%27s-vancouver-1139870/?utm_campaign=gpa",
+            "source": "doordash.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "No-contact delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Takeout",
+                    "enabled": true
+                },
+                {
+                    "name": "Dine-in",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "highlights",
+            "name": "Highlights",
+            "options": [
+                {
+                    "name": "Fast service",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair accessible seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Coffee",
+                    "enabled": true
+                },
+                {
+                    "name": "Late-night food",
+                    "enabled": true
+                },
+                {
+                    "name": "Quick bite",
+                    "enabled": true
+                },
+                {
+                    "name": "Vegetarian options",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Dining options",
+            "options": [
+                {
+                    "name": "Breakfast",
+                    "enabled": true
+                },
+                {
+                    "name": "Lunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Dinner",
+                    "enabled": true
+                },
+                {
+                    "name": "Counter service",
+                    "enabled": true
+                },
+                {
+                    "name": "Dessert",
+                    "enabled": true
+                },
+                {
+                    "name": "Seating",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosphere",
+            "options": [
+                {
+                    "name": "Casual",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "crowd",
+            "name": "Crowd",
+            "options": [
+                {
+                    "name": "Family-friendly",
+                    "enabled": true
+                },
+                {
+                    "name": "Groups",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "children",
+            "name": "Children",
+            "options": [
+                {
+                    "name": "Good for kids",
+                    "enabled": true
+                },
+                {
+                    "name": "High chairs",
+                    "enabled": true
+                },
+                {
+                    "name": "Kids' menu",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "parking",
+            "name": "Parking",
+            "options": [
+                {
+                    "name": "Free street parking",
+                    "enabled": true
+                },
+                {
+                    "name": "Parking",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOGTcbC6CwgQez9Dj9D_LiDlxuRveglOwRPaIEy=w224-h298-k-no-pi-0-ya136.99998-ro-0-fo100"
+        },
+        {
+            "about": "Latest",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNxqefOfla9ECzEg2d36zzwfx9dC_J4FkTb_4GA=w397-h298-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOEl1qVr7sLtbReyE7bhi1tOaNE-_G-whFMsUFr=w224-h398-k-no"
+        },
+        {
+            "about": "Menu",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipM1iyHTgpFlZX-DUBV8EAyq8w4TC4I7J27eMgpd=w369-h298-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMLHS5qYeAXxpdzCLWtNa2OckxsiCb8ZH9Ej30q=w362-h298-k-no"
+        },
+        {
+            "about": "Vibe",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipM6YV_EjAlrlrMG56cZ5Elk08HOklh46Gt-xsrX=w397-h298-k-no"
+        },
+        {
+            "about": "Take-out",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipM0RSN07bynznNQd2OmBgEl1NPyMTB0BNEqRM-v=w224-h298-k-no"
+        },
+        {
+            "about": "Hamburger",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipO_GQl_TrVpOL3GHC1ZOuM7QgJC2gsYMKFY92DI=w396-h298-k-no"
+        },
+        {
+            "about": "McMuffin",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMjDBQOKsuQT_SH80a9440fg0bZ4tw1ZTidiUHp=w397-h298-k-no"
+        },
+        {
+            "about": "Comfort food",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMc2DFxOCfFesDQPg3i83jz-DVP_jcs1Bjc3rud=w224-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMpABVFjRa5ymdVffTGFuazBOpqJvbiMHwb5e2R=w529-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNJFW6SBLXYfFbtBQ_HXAB3W6KomeGjtiQJOxe0=w224-h298-k-no-pi-0-ya117.00001-ro-0-fo100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "Open 24 hours"
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "Open 24 hours"
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "Open 24 hours"
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "Open 24 hours"
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "Open 24 hours"
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "Open 24 hours"
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "Open 24 hours"
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "Food ok, but summer drinks are the best. I just want to mention that the bathrooms are the tiniest in town...seriously!! If you are petite, you can barely fit in, but if you are a plus size, or expecting a child, you may want to consider avoiding coming here altogether. Airplane bathrooms are bigger than theirs, nit to mention that they are dirty. Disgusting! I wonder how clean their kitchens are? Cleanliness is not their priority.",
+            "reviewer_name": "Lina Salinas",
+            "rating": 2,
+            "review_text": "Food ok, but summer drinks are the best. I just want to mention that the bathrooms are the tiniest in town...seriously!! If you are petite, you can barely fit in, but if you are a plus size, or expecting a child, you may want to consider avoiding coming here altogether. Airplane bathrooms are bigger than theirs, nit to mention that they are dirty. Disgusting! I wonder how clean their kitchens are? Cleanliness is not their priority.",
+            "published_at": "5 months ago",
+            "published_at_date": "2023-06-18T13:31:01.953000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 94,
+            "total_number_of_photos_by_reviewer": 712,
+            "reviewer_url": "https://www.google.com/maps/contrib/109017740312221416776/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjV86vLgUhcJwmv6JdATNGlzaO2zXUBcFIv05xDExCpX6pcm=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "3rd time visiting Vancouver, a small gesture that goes far but coming from a party at 2am I came to McDonald's, I ordered a milkshake and got a small instead of a medium I ordered and asked nicely if it wouldn't be trouble to give me a different size (wouldn't have minded pouring into a different cup) the young man who helped me got me a new milkshake, and let me keep the small. I pushed and said that it was wrong to take it, but he insisted it was no worries. i hope the rest of his shift and night went well, and that I truly appreciated it! :)",
+            "reviewer_name": "Paige Craft",
+            "rating": 5,
+            "review_text": "3rd time visiting Vancouver, a small gesture that goes far but coming from a party at 2am I came to McDonald's, I ordered a milkshake and got a small instead of a medium I ordered and asked nicely if it wouldn't be trouble to give me a different size (wouldn't have minded pouring into a different cup) the young man who helped me got me a new milkshake, and let me keep the small. I pushed and said that it was wrong to take it, but he insisted it was no worries. i hope the rest of his shift and night went well, and that I truly appreciated it! :)",
+            "published_at": "5 months ago",
+            "published_at_date": "2023-06-18T09:52:22.068000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/112045608808565914935/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXhmQArLYG5kKb8Jg1xz7o2XnOKZh5d8JucL5fMSkZQ7OQ=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Literally people doing drugs at this McDonald's when I was there. They were snorting powder off of the McDonald's table. Staff didn't do anything about it.\n\nI was having a coffee inside the restaurant. After an hour of sitting there, the cleaning lady called security to ask me to leave. They stated that I was staying too long. The restaurant was nearly empty at that time. If they really needed me to leave they could have just asked. I'm pretty sure that cleaning lady couldn't speak English. The security guy just told me that she wanted me to leave so I did.\n\nVery weird experience. Unfortunate that bad experiences like this ruin what is normally an OK place to visit.",
+            "reviewer_name": "Robin Jia",
+            "rating": 1,
+            "review_text": "Literally people doing drugs at this McDonald's when I was there. They were snorting powder off of the McDonald's table. Staff didn't do anything about it.\n\nI was having a coffee inside the restaurant. After an hour of sitting there, the cleaning lady called security to ask me to leave. They stated that I was staying too long. The restaurant was nearly empty at that time. If they really needed me to leave they could have just asked. I'm pretty sure that cleaning lady couldn't speak English. The security guy just told me that she wanted me to leave so I did.\n\nVery weird experience. Unfortunate that bad experiences like this ruin what is normally an OK place to visit.",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-05T11:50:13.870000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/107039864033600457927/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjX0S-lZrpLUPSHLryD9wvXah5oACr3nv7kclWqRZloz5ZM=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "This morning around 7 AM I ordered MacDonald's breakfast through doordash.  I got my regular order which is a two breakfast burrito meal with coffee, a sausage McMuffin, and I decided to add a smoothie.  I got my order, opened the bag and right away there was no smoothie.  I take out the food and proceed to open up my burritos to add salsa inside.  Right away I noticed that the wrap seems soggy, I open it and the eggs and meat inside look wet.  I take a bite and it tastes fine.  Then I take my first sip of coffee and that tastes off.  I'm hungry so I eat my food.....  Then in around a half hour I start to feel light headed and sick to my stomach.  Then 15-20 minutes later I find myself puking and sitting on the toilet for a while.  It's now 8 hours later and my stomach has still been a mess.  No idea what happened, I've had this same breakfast so many times and it's never done this to me, so I guess I'm posting this to say if it looks or tastes off don't eat the food.",
+            "reviewer_name": "Sam Tavakoli",
+            "rating": 1,
+            "review_text": "This morning around 7 AM I ordered MacDonald's breakfast through doordash.  I got my regular order which is a two breakfast burrito meal with coffee, a sausage McMuffin, and I decided to add a smoothie.  I got my order, opened the bag and right away there was no smoothie.  I take out the food and proceed to open up my burritos to add salsa inside.  Right away I noticed that the wrap seems soggy, I open it and the eggs and meat inside look wet.  I take a bite and it tastes fine.  Then I take my first sip of coffee and that tastes off.  I'm hungry so I eat my food.....  Then in around a half hour I start to feel light headed and sick to my stomach.  Then 15-20 minutes later I find myself puking and sitting on the toilet for a while.  It's now 8 hours later and my stomach has still been a mess.  No idea what happened, I've had this same breakfast so many times and it's never done this to me, so I guess I'm posting this to say if it looks or tastes off don't eat the food.",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-31T23:36:56.348000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 72,
+            "total_number_of_photos_by_reviewer": 3,
+            "reviewer_url": "https://www.google.com/maps/contrib/108282053615752260016/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIlamupcqndm_TSsKdpZsY_cW2CqjcyoHyS_Z2fHMLO=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "I don't normally eat in McDonald's because their restaurants are dirty and every surface sticky but this one is clean and the service is fast. Even the soda machine is clean, which is never the case",
+            "reviewer_name": "Hal K",
+            "rating": 5,
+            "review_text": "I don't normally eat in McDonald's because their restaurants are dirty and every surface sticky but this one is clean and the service is fast. Even the soda machine is clean, which is never the case",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-18T01:03:35.996000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 114,
+            "total_number_of_photos_by_reviewer": 7,
+            "reviewer_url": "https://www.google.com/maps/contrib/117380690650387137424/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVshbokgWUsm6QMJirqAf8HiC-02vB8i4yBhaAL6S9oFeI=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "They are always cleaning the bathroom when I seem to be there.  Which is nice. I like that they have the same staff things are consistent and thanks for all the specials. Favorite place to have coffee.",
+            "reviewer_name": "Ruth Vlasopoulos",
+            "rating": 4,
+            "review_text": "They are always cleaning the bathroom when I seem to be there.  Which is nice. I like that they have the same staff things are consistent and thanks for all the specials. Favorite place to have coffee.",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-15T16:02:49.501000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 6,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/115942042845581949160/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLF7v295mhypLMyvZxJz4TBQkDsLwh5YBiuKj_OMeQc=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "This Location very busy as it serves a community as well as the bars and entertainment venues around the area.  Seems popular with UBC students as well as the university is just down the street. Service is not as tight as you would expect for such a busy location, but okay. There is parking underground with a stairway directly into the restaurant. Then best feature is that it is 24hr.",
+            "reviewer_name": "Christopher Nguan",
+            "rating": 5,
+            "review_text": "This Location very busy as it serves a community as well as the bars and entertainment venues around the area.  Seems popular with UBC students as well as the university is just down the street. Service is not as tight as you would expect for such a busy location, but okay. There is parking underground with a stairway directly into the restaurant. Then best feature is that it is 24hr.",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-03T06:23:35.700000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 276,
+            "total_number_of_photos_by_reviewer": 75,
+            "reviewer_url": "https://www.google.com/maps/contrib/102579191031977666802/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLIvRd_6AaWQOfonL4WXi7WS1C8CrqpclCm1L5CuM-Y=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Good service at this location. Online order took fast and quality was not bad. Clean store, and paid parking available on site.",
+            "reviewer_name": "King Ma",
+            "rating": 4,
+            "review_text": "Good service at this location. Online order took fast and quality was not bad. Clean store, and paid parking available on site.",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-25T18:00:00.305000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 335,
+            "total_number_of_photos_by_reviewer": 564,
+            "reviewer_url": "https://www.google.com/maps/contrib/104010567155450463866/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW5ySJQW_NasPFbUEkmL7VEtf3VaaFWfgWMiidlK_BXLgY=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

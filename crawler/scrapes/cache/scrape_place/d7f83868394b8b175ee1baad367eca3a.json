@@ -1,0 +1,643 @@
+{
+    "place_id": "ChIJwa78vzVxhlQRO85JBZjLaKU",
+    "name": "Yook Korean Grilled BBQ & Bistro (yug korian babekyu)",
+    "description": "Bistro serving traditional Korean BBQ & comfort food in an intimate, contemporary space.",
+    "reviews": 656,
+    "website": "http://yookkoreanbbq.com/",
+    "owner": {
+        "id": "110718685141787663229",
+        "name": "Yook Korean Grilled BBQ & Bistro (yug korian babekyu) (Owner)",
+        "link": "https://www.google.com/maps/contrib/110718685141787663229"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOm0p-nSPQwvnzGUoxyrlST5ZQhDkCInIa_yuEZ=w408-h272-k-no",
+    "main_category": "Korean barbecue restaurant",
+    "categories": [
+        "Korean barbecue restaurant",
+        "Barbecue restaurant",
+        "Bistro",
+        "Korean restaurant"
+    ],
+    "rating": 4.3,
+    "workday_timing": "4-10 p.m.",
+    "closed_on": [
+        "Tuesday"
+    ],
+    "phone": "(604) 428-9292",
+    "address": "Yook Korean Grilled BBQ & Bistro (yug korian babekyu), 2408 Nanaimo St, Vancouver, BC V5N 5E4",
+    "review_keywords": [
+        {
+            "keyword": "spicy",
+            "count": 42
+        },
+        {
+            "keyword": "seafood pancake",
+            "count": 14
+        },
+        {
+            "keyword": "makguksu",
+            "count": 12
+        },
+        {
+            "keyword": "soondubu",
+            "count": 11
+        },
+        {
+            "keyword": "gamjatang",
+            "count": 10
+        },
+        {
+            "keyword": "galbi jjim",
+            "count": 9
+        },
+        {
+            "keyword": "dakgalbi",
+            "count": 8
+        },
+        {
+            "keyword": "dumplings",
+            "count": 7
+        },
+        {
+            "keyword": "sweet soy",
+            "count": 5
+        },
+        {
+            "keyword": "green onion pancake",
+            "count": 5
+        }
+    ],
+    "link": "https://www.google.com/maps/place/Yook+Korean+Grilled+BBQ+%26+Bistro+%28%EC%9C%A1+%EC%BD%94%EB%A6%AC%EC%95%88+%EB%B0%94%EB%B2%A0%ED%81%90%29/data=!4m7!3m6!1s0x54867135bffcaec1:0xa568cb980549ce3b!8m2!3d49.2627649!4d-123.0562884!16s%2Fg%2F11c70b05y0!19sChIJwa78vzVxhlQRO85JBZjLaKU?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 12 p.m.",
+    "price_range": "$$",
+    "reviews_per_rating": {
+        "1": 25,
+        "2": 18,
+        "3": 67,
+        "4": 177,
+        "5": 369
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJwa78vzVxhlQRO85JBZjLaKU&q=Yook+Korean+Grilled+BBQ+%26+Bistro+%28%EC%9C%A1+%EC%BD%94%EB%A6%AC%EC%95%88+%EB%B0%94%EB%B2%A0%ED%81%90%29&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.2627649,
+        "longitude": -123.0562884
+    },
+    "plus_code": "7W7V+4F Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "East Vancouver",
+        "street": "2408 Nanaimo St",
+        "city": "Vancouver",
+        "postal_code": "V5N 5E4",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "11919000267620208187",
+    "data_id": "0x54867135bffcaec1:0xa568cb980549ce3b",
+    "menu": {
+        "link": "https://www.yookkoreanbbq.com/_files/ugd/32a70c_35eabf94200c46608d0e53da2f36661c.pdf",
+        "source": "yookkoreanbbq.com"
+    },
+    "reservations": [],
+    "order_online_links": [
+        {
+            "link": "https://www.skipthedishes.com/yook-korean-bbq-nanaimo-st?serviceType=delivery&utm_source=google&utm_medium=organic&utm_campaign=gpav2",
+            "source": "skipthedishes.com"
+        },
+        {
+            "link": "https://www.doordash.com/store/yook-korean-bbq-%26-bistro-vancouver-445790/?utm_campaign=gpa",
+            "source": "doordash.com"
+        },
+        {
+            "link": "https://www.ubereats.com/ca/store/yook-korean-bbq/TTMoDho2TEKE6SNAXNgiYw?utm_campaign=place-action-link&utm_medium=organic&utm_source=google",
+            "source": "ubereats.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Takeout",
+                    "enabled": true
+                },
+                {
+                    "name": "Dine-in",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "highlights",
+            "name": "Highlights",
+            "options": [
+                {
+                    "name": "Fast service",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair accessible seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Alcohol",
+                    "enabled": true
+                },
+                {
+                    "name": "Beer",
+                    "enabled": true
+                },
+                {
+                    "name": "Small plates",
+                    "enabled": true
+                },
+                {
+                    "name": "Wine",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Dining options",
+            "options": [
+                {
+                    "name": "Brunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Lunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Dinner",
+                    "enabled": true
+                },
+                {
+                    "name": "Dessert",
+                    "enabled": true
+                },
+                {
+                    "name": "Seating",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                },
+                {
+                    "name": "Wi-Fi",
+                    "enabled": true
+                },
+                {
+                    "name": "Wi-Fi",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosphere",
+            "options": [
+                {
+                    "name": "Casual",
+                    "enabled": true
+                },
+                {
+                    "name": "Cozy",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "crowd",
+            "name": "Crowd",
+            "options": [
+                {
+                    "name": "Family-friendly",
+                    "enabled": true
+                },
+                {
+                    "name": "Groups",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planning",
+            "options": [
+                {
+                    "name": "Accepts reservations",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "children",
+            "name": "Children",
+            "options": [
+                {
+                    "name": "Good for kids",
+                    "enabled": true
+                },
+                {
+                    "name": "High chairs",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "parking",
+            "name": "Parking",
+            "options": [
+                {
+                    "name": "Free street parking",
+                    "enabled": true
+                },
+                {
+                    "name": "Parking",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOm0p-nSPQwvnzGUoxyrlST5ZQhDkCInIa_yuEZ=w446-h298-k-no"
+        },
+        {
+            "about": "Latest",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMaJugizn54cYdue80_mdfGWakfOzPys6pZrbH-=w224-h298-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPF-_0YAxSaaGvT32i-hLMqxUIYT253z8o2WDFt=w224-h398-k-no"
+        },
+        {
+            "about": "Menu",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNu2tcZxUp5NzUsd-IqYFah83MSZ0LZoZgFVHw=w224-h298-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNrQU7XmuitCVpTKcAWhlmMK-lYYFCR6Sg2-DsS=w528-h298-k-no"
+        },
+        {
+            "about": "Vibe",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNdF6TraINL8GQ6VpWSS5xPUSm6H2sIwZtiBcro=w397-h298-k-no"
+        },
+        {
+            "about": "Bulgogi",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipP63GUUo6L-zMbOOTjAsCQMLC3JU4c5KSjXWM8=w224-h298-k-no"
+        },
+        {
+            "about": "Bibimbap",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOj-mhvq1O3i4tKPG-mcS7BDE-1MjvDZ26G5Hnq=w372-h298-k-no"
+        },
+        {
+            "about": "Pajeon",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOqXGH0BhqzvXRDDbh6MCXZ-zpKJSMAj1Y-q_FS=w397-h298-k-no"
+        },
+        {
+            "about": "Mak-guksu",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPKrm-f2PjmT1SeumioYEakU6auwySOgG7KgUcC=w397-h298-k-no"
+        },
+        {
+            "about": "Gamja-tang",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMJ2hkZDQsHm3F06qmSNPd1rHn-vjyUTxVEI9yP=w529-h298-k-no"
+        },
+        {
+            "about": "Kimchi",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNkJM8-UhFoqfAgIFRiXJ0OQXbAh367HHB0XpwK=w224-h298-k-no"
+        },
+        {
+            "about": "Japchae",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOqYVBQp7cp21R5kkBENf2y_P9j-Xur5fI5p4v-=w447-h298-k-no"
+        },
+        {
+            "about": "Empanada",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipN9E71Ahfr2yPicQuXhaX4ojnBenoM7g_sTwTUN=w298-h298-k-no"
+        },
+        {
+            "about": "Banchan",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNp2shMrOJ9DQ1USUtSeHZKR_ITnd7zugjCOkY=w397-h298-k-no"
+        },
+        {
+            "about": "Meat",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipO4TylWR6vZMx5yNeZu3jvAvI5jLwf8TIshorju=w372-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMxtzTtL6GBRg25hLeIuJ4RCg-1-EK_3Ov3GRx4=w372-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=CjDzjjlbaxg-OaqXdJW-oA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=96.96209&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "4-10 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "Closed"
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "4-10 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "4-10 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "12-10 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "12-10 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "12-10 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "So good. We went there for the first time tonight for dinner. My husband and I were already talking about what to order on our next visit as soon as we got into our car after the meal.\n\nThere were 5 of us tonight and we had:\n\n1. Deep fried meat dumplings - meaty fillings in crispy wrappings.\n\n2. Seafood and green onion pancakes - it was the best Korean seafood pancake we've had in Vancouver. The dough was light but it was filled with seafood goodness. The outside was perfectly fried with crunchy and crispy edges.\n\n3. Beef short ribs in sweet soy sauce - The flavour of the dish rendered it as my mom's favourite. The meat was tender and charred to perfection.\n\n4. Plain pork belly - This was my favourite. All the pieces were also charred nicely and they were heavenly with the accompanying dipping condiment (salt and spices in oil).\n\nService was excellent. The staff were friendly and attentive.\n\nI love this place.",
+            "reviewer_name": "Joseph Leung",
+            "rating": 5,
+            "review_text": "So good. We went there for the first time tonight for dinner. My husband and I were already talking about what to order on our next visit as soon as we got into our car after the meal.\n\nThere were 5 of us tonight and we had:\n\n1. Deep fried meat dumplings - meaty fillings in crispy wrappings.\n\n2. Seafood and green onion pancakes - it was the best Korean seafood pancake we've had in Vancouver. The dough was light but it was filled with seafood goodness. The outside was perfectly fried with crunchy and crispy edges.\n\n3. Beef short ribs in sweet soy sauce - The flavour of the dish rendered it as my mom's favourite. The meat was tender and charred to perfection.\n\n4. Plain pork belly - This was my favourite. All the pieces were also charred nicely and they were heavenly with the accompanying dipping condiment (salt and spices in oil).\n\nService was excellent. The staff were friendly and attentive.\n\nI love this place.",
+            "published_at": "2 weeks ago",
+            "published_at_date": "2023-11-17T04:49:35.190000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 41,
+            "total_number_of_photos_by_reviewer": 80,
+            "reviewer_url": "https://www.google.com/maps/contrib/105720888932640350098/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUEUmIz4Q8g8rT5mwES0GHpmjjq9GlNHh3TR2EeMUMsI6s=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipN-6bGD7pN9Gks-5w4IOeMuVYyLj7ygHI9gOFHG=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipN5VSu6_0I8k_bBCOaHzuyn3AH72RCVeRSR9NZE=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNkQXqbddTNkMvrF5WNk7VAl5K_9LtqgGV7PqNK=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipP6CYAerTBNkdHLhjsekFaCqXaJTE-_1Mp7ko4R=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOFbsmKvV5AGtCt7giWMxCgsUo3WxNnqWkhwedq=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMaJugizn54cYdue80_mdfGWakfOzPys6pZrbH-=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNhCCbY5rnf7hnGq8iWyP7ZlQbBRWQfveteKPMV=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Yummy spot for Korean food! Plenty of street parking and good service. Got a few dishes to try for dinner. Kalbi was cooked well and very flavorful. Seafood pancake came with a nice crunch. Seafood tofu soup came out hot and spicy. Overall great meal with the side dishes.",
+            "reviewer_name": "Audrey T",
+            "rating": 4,
+            "review_text": "Yummy spot for Korean food! Plenty of street parking and good service. Got a few dishes to try for dinner. Kalbi was cooked well and very flavorful. Seafood pancake came with a nice crunch. Seafood tofu soup came out hot and spicy. Overall great meal with the side dishes.",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-08T20:04:56.472000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 617,
+            "total_number_of_photos_by_reviewer": 1599,
+            "reviewer_url": "https://www.google.com/maps/contrib/111384259646867950371/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXvMxZXY0aGaqciuHer1tjRjpEiglCPfmdj1orI0HawEmk=s120-c-rp-mo-ba6-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPhv5vKBccdh_L432MIJFiaK94yMYpY_C2TvdYr=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNwvKbj4MrvuobkeqiR6tn-AZE7XPGj1JbcB7By=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNsVM0FP7XlgPs3rLGIAU5N9_MsTkz8t4eaNRwL=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Dinner with the family at Yook Korean Grilled BBQ & Bistro. Featured here:\n\nBibimbap\nHaemul Soondubu\nHaemul Pajeon (Seafood and Green Onion Pancake)\nSweet Rice Drink\n\nBibimbap is usually served sizzling hot in a stone bowl. The rice at the bottom gets crunchy, and the whole dish in general tends to be a very warm, hearty and comforting meal. This Bibimbap however, was served to me in a metal bowl. Not only did it come in a metal bowl, but the rice was served separately from the veggies and fried egg, in a smaller separate bowl. This was really quite a disappointment as I'd been looking forward to have the sizzling hot bowl of rice that I'd come to expect from Korean restaurants.\n\nThe Haemul Soondubu on the other hand arrived at the table with bubbling hot soup in it. This was my second choice and I really wish that I had ordered this instead.\n\nThe Haemul Pajeon was nicely done, and the sweet rice drink which I hadn't had for a number of years, was as tasty as I remembered it being.\n\nThere were other meat dishes on the table but people started eating before I could take any photos! The meat dishes were already prepared though. This wasn't the kind of Korean BBQ where you get to cook the food yourself on a grill. That was a bit of a disappointment as we'd brought an out of town visitor here, and had hoped to give him the experience of Korean BBQ cooking at this dinner. From the name of the restaurant, we thought there would be grills on our table, but...that wasn't the case.\n\nService: Good\nParking: Free parking on the side street\nLocation: 2408 Nanaimo St., Vancouver, BC",
+            "reviewer_name": "Josephine Ma",
+            "rating": 3,
+            "review_text": "Dinner with the family at Yook Korean Grilled BBQ & Bistro. Featured here:\n\nBibimbap\nHaemul Soondubu\nHaemul Pajeon (Seafood and Green Onion Pancake)\nSweet Rice Drink\n\nBibimbap is usually served sizzling hot in a stone bowl. The rice at the bottom gets crunchy, and the whole dish in general tends to be a very warm, hearty and comforting meal. This Bibimbap however, was served to me in a metal bowl. Not only did it come in a metal bowl, but the rice was served separately from the veggies and fried egg, in a smaller separate bowl. This was really quite a disappointment as I'd been looking forward to have the sizzling hot bowl of rice that I'd come to expect from Korean restaurants.\n\nThe Haemul Soondubu on the other hand arrived at the table with bubbling hot soup in it. This was my second choice and I really wish that I had ordered this instead.\n\nThe Haemul Pajeon was nicely done, and the sweet rice drink which I hadn't had for a number of years, was as tasty as I remembered it being.\n\nThere were other meat dishes on the table but people started eating before I could take any photos! The meat dishes were already prepared though. This wasn't the kind of Korean BBQ where you get to cook the food yourself on a grill. That was a bit of a disappointment as we'd brought an out of town visitor here, and had hoped to give him the experience of Korean BBQ cooking at this dinner. From the name of the restaurant, we thought there would be grills on our table, but...that wasn't the case.\n\nService: Good\nParking: Free parking on the side street\nLocation: 2408 Nanaimo St., Vancouver, BC",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-22T16:58:51.731000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 263,
+            "total_number_of_photos_by_reviewer": 1620,
+            "reviewer_url": "https://www.google.com/maps/contrib/109835683511918603870/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXhYpAUbdYf1P2mLHxA_FCyEQ4blqQfgBAjbS4YlI_h8Xk=s120-c-rp-mo-ba6-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNOmnw1m3Xf0cAiz9yw08Of63UMiuX3V2mx-eWC=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPc4IT6GJAJ7LA3Xd67EgT5Hc9wqzGYix3iUglL=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipM6tRbZabuH7ULUvxYYYesk4rBswrIiwY9Pvkl9=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNDQDq_uwxpLLTZTrlCbMVYUtKozG9eRJ2_b4OX=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipM0gI6fiBxdlnIG7xahH0TNZocck9jZroxKdelZ=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipN8fuGmqArTCbOfito1j_0sUP8ZWiillxna_1O9=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPtNMJvI-huvqk6zxaoZYqtM854717UfOHnBQhY=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Great food with friendly staff. If you need service in a Korean restaurant, find the button on the table and press on it. It will alert the server. Really yummy food here.",
+            "reviewer_name": "Cee Kai",
+            "rating": 5,
+            "review_text": "Great food with friendly staff. If you need service in a Korean restaurant, find the button on the table and press on it. It will alert the server. Really yummy food here.",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-24T19:18:26.264000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 4,
+            "total_number_of_reviews_by_reviewer": 131,
+            "total_number_of_photos_by_reviewer": 1227,
+            "reviewer_url": "https://www.google.com/maps/contrib/106345304962421325991/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIGMkNdQd0PKHpX25N47-w7Il7lMSyDjPFMfaxGc3HZ=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPSAP_gv9p1h0eKK1HF-yVpMgOdM5v2Kopm_YXP=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipO07LNDb0eLxok_omQLfkT-BXhtNTzN4645emI-=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNzjcHofmm2cfpFwoOGPrKMu1A_rJpStsMwDTue=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPan0pXLqj3D2map1q0khjlQ91T8R2d3cZF6q7T=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMyHHfy2KZAvqb9hVWTckYNWRY0OBVwm6LjICnd=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "We have been wanting to try Yook for the longest time. Last night we had an amazing time. The service as excellent and the food did not disappoint, it was awesome! We'll be back for more",
+            "reviewer_name": "IWanderOften",
+            "rating": 5,
+            "review_text": "We have been wanting to try Yook for the longest time. Last night we had an amazing time. The service as excellent and the food did not disappoint, it was awesome! We'll be back for more",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-07T04:40:45.393000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 126,
+            "total_number_of_photos_by_reviewer": 252,
+            "reviewer_url": "https://www.google.com/maps/contrib/112617115610311208478/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVEYKyvrIYTRgp40Gw-49EvqUwO9XGrka20TpP-NQx4iw=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNp2shMrOJ9DQ1USUtSeHZKR_ITnd7zugjCOkY=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipP63GUUo6L-zMbOOTjAsCQMLC3JU4c5KSjXWM8=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPo8YmsVoSwpfFatUDUUcPCCF8xK8PHOORKfB8=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "The only thing I like is their pickled cabbage.\nThe pork bone soup is light and missing flavours; it isn't worth the price. In the kimchi tofu soup, the tofu is supposed to be silk tofu.. But... Anyway, I do not recommend.",
+            "reviewer_name": "Shiya Zhu",
+            "rating": 2,
+            "review_text": "The only thing I like is their pickled cabbage.\nThe pork bone soup is light and missing flavours; it isn't worth the price. In the kimchi tofu soup, the tofu is supposed to be silk tofu.. But... Anyway, I do not recommend.",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-10T03:32:04.201000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 35,
+            "total_number_of_photos_by_reviewer": 66,
+            "reviewer_url": "https://www.google.com/maps/contrib/110268352379987588616/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUBDgoruUNgGY5QKIMW95vcvhD6tF_-lubxNLjHmrqZMFo=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNUV3E0GbdcJp6O6kIPBpKvsMzHlmRJBI0lEzww=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "I visited Yook a few weeks ago and WOW, so so so so delicious. Each dish had so much flavor, the spicy pork belly was very tender and a great portion for the price. I have had seafood pancake at other restaurants and it has been uncooked or too much dough. This was the perfect green onion seafood pancake, the dough was soooo crunchy and the fillings so fresh, HUGE portion and the hot plate it comes on keeps it hot for the entire meal. I ate the leftovers cold the next day and it was great that way as well .Our server was kind and helpful , I will for sure be back 5/5!",
+            "reviewer_name": "Kristine F",
+            "rating": 5,
+            "review_text": "I visited Yook a few weeks ago and WOW, so so so so delicious. Each dish had so much flavor, the spicy pork belly was very tender and a great portion for the price. I have had seafood pancake at other restaurants and it has been uncooked or too much dough. This was the perfect green onion seafood pancake, the dough was soooo crunchy and the fillings so fresh, HUGE portion and the hot plate it comes on keeps it hot for the entire meal. I ate the leftovers cold the next day and it was great that way as well .Our server was kind and helpful , I will for sure be back 5/5!",
+            "published_at": "a year ago",
+            "published_at_date": "2022-05-19T20:58:20.170000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 39,
+            "total_number_of_photos_by_reviewer": 69,
+            "reviewer_url": "https://www.google.com/maps/contrib/103558199279804410225/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjX-hqhxkdJcPaHrLZ4-syHq7ZhB6UCC92VcE36H23AGo7jD=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMdTbAZPQ7eDBdKPAAfSbfsbLRVkCQWyEbE68Ac=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMY9rH_7FNPcAqdu0tJwntHSWhbUivcLKUx6Gzi=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipM6-oXMdru5JsMYQoh3ouHNJKfJmdR0zTZimkWO=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Came to this restaurant numerous times for takeout and dine in. Food was always good. Portions were great and prices were reasonable. Highly recommend the Sweet Soy Deung Galbi Jjim. Excellent flavour and the meat just fell off the bone. The Ddukbokki was a bit disappointing this time. It was too soft and mushy, not the chewy texture I was hoping for. Overall, this is a great restaurant in an area with not many Korean food options. I would recommend it!",
+            "reviewer_name": "Fanny Yuen",
+            "rating": 4,
+            "review_text": "Came to this restaurant numerous times for takeout and dine in. Food was always good. Portions were great and prices were reasonable. Highly recommend the Sweet Soy Deung Galbi Jjim. Excellent flavour and the meat just fell off the bone. The Ddukbokki was a bit disappointing this time. It was too soft and mushy, not the chewy texture I was hoping for. Overall, this is a great restaurant in an area with not many Korean food options. I would recommend it!",
+            "published_at": "a year ago",
+            "published_at_date": "2022-11-26T18:25:23.278000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 3,
+            "total_number_of_reviews_by_reviewer": 130,
+            "total_number_of_photos_by_reviewer": 325,
+            "reviewer_url": "https://www.google.com/maps/contrib/102767806380934894320/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVgwNso9g--et0S-dE4zGbv60y8u58bnZuDtO-O8JDyyz8=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOVwLJzBvjCIHGD7GEy-DggTSgVyqabUrw4QdkQ=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOkENoEwkNBU4nLQq1kkPPBAjVtVv87zIwZiF3K=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipP9H3JGUaBymq9-ywLf0kZBxj0apmufmOVzqDJt=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMwTInnuuc1KatnEA-zlZkxdO3TlJ1bpSZqO5fW=w150-h150-k-no-p"
+            ]
+        }
+    ],
+    "is_spending_on_ads": false
+}

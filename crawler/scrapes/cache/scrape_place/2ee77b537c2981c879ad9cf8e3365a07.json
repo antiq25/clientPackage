@@ -1,0 +1,526 @@
+{
+    "place_id": "ChIJ39WikQDWhVQRZ7-5dkgktQo",
+    "name": "McDonald's",
+    "description": "Classic, long-running fast-food chain known for its burgers & fries.",
+    "reviews": 133,
+    "website": "https://www.mcdonalds.com/ca/en-ca/restaurant-locator.html%3Fy_source%3D1_MTQ1MTk3MjAtNzE1LWxvY2F0aW9uLndlYnNpdGU%253D",
+    "owner": {
+        "id": "110982330432548739080",
+        "name": "McDonald's (Owner)",
+        "link": "https://www.google.com/maps/contrib/110982330432548739080"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOVB9rdM26EJqOrF46_SZ3vAj0Yz7lFm6-F2Vx5=w493-h240-k-no",
+    "main_category": "Fast food restaurant",
+    "categories": [
+        "Fast food restaurant",
+        "American restaurant",
+        "Breakfast restaurant",
+        "Cafe",
+        "Hamburger restaurant",
+        "Restaurant"
+    ],
+    "rating": 3.2,
+    "workday_timing": "7 a.m.-11 p.m.",
+    "closed_on": [],
+    "phone": "(604) 552-2870",
+    "address": "McDonald's, Freemont Village, 2150 Hawkins Street, Port Coquitlam, BC V3B 0G6",
+    "review_keywords": [
+        {
+            "keyword": "drink",
+            "count": 6
+        },
+        {
+            "keyword": "clean",
+            "count": 4
+        },
+        {
+            "keyword": "dining area",
+            "count": 3
+        },
+        {
+            "keyword": "cashier",
+            "count": 3
+        },
+        {
+            "keyword": "breakfast",
+            "count": 3
+        }
+    ],
+    "link": "https://www.google.com/maps/place/McDonald%27s/data=!4m7!3m6!1s0x5485d60091a2d5df:0xab5244876b9bf67!8m2!3d49.2544661!4d-122.735695!16s%2Fg%2F11gzt431g!19sChIJ39WikQDWhVQRZ7-5dkgktQo?authuser=0&hl=en&rclk=1",
+    "status": "Open  Closes 11 p.m.",
+    "price_range": "$",
+    "reviews_per_rating": {
+        "1": 29,
+        "2": 12,
+        "3": 33,
+        "4": 26,
+        "5": 33
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ39WikQDWhVQRZ7-5dkgktQo&q=McDonald%27s&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.254466099999995,
+        "longitude": -122.73569499999999
+    },
+    "plus_code": "7737+QP Port Coquitlam, British Columbia",
+    "detailed_address": {
+        "ward": null,
+        "street": "Freemont Village, 2150 Hawkins Street",
+        "city": "Port Coquitlam",
+        "postal_code": "V3B 0G6",
+        "state": "BC",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "771562804812037991",
+    "data_id": "0x5485d60091a2d5df:0xab5244876b9bf67",
+    "menu": {
+        "link": "https://www.mcdonalds.com/ca/en-ca/full-menu.html%3Fy_source%3D1_MTQ1MTk3MjAtNzE1LWxvY2F0aW9uLm1lbnVfdXJs",
+        "source": "mcdonalds.com"
+    },
+    "reservations": [],
+    "order_online_links": [
+        {
+            "link": "https://www4.mcdonalds.ca/mcdeliverycanada/?y_source=1_MTQ1MTk3MjAtNzE1LWxvY2F0aW9uLm9yZGVyX3VybA%3D%3D",
+            "source": "mcdonalds.ca"
+        },
+        {
+            "link": "https://www.ubereats.com/ca/store/mcdonalds-2150-hawkins-street/bZstWnqRRoitZWlM1RUn1w?utm_campaign=place-action-link&utm_medium=organic&utm_source=google",
+            "source": "ubereats.com"
+        },
+        {
+            "link": "https://www.doordash.com/store/mcdonald%27s-port-coquitlam-1179843/?utm_campaign=gpa",
+            "source": "doordash.com"
+        },
+        {
+            "link": "https://www.skipthedishes.com/mcdonalds-hawkins-street?serviceType=delivery&utm_source=google&utm_medium=organic&utm_campaign=gpav2",
+            "source": "skipthedishes.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "No-contact delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Takeout",
+                    "enabled": true
+                },
+                {
+                    "name": "Dine-in",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "highlights",
+            "name": "Highlights",
+            "options": [
+                {
+                    "name": "Fast service",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair accessible seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Coffee",
+                    "enabled": true
+                },
+                {
+                    "name": "Late-night food",
+                    "enabled": true
+                },
+                {
+                    "name": "Quick bite",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Dining options",
+            "options": [
+                {
+                    "name": "Lunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Dinner",
+                    "enabled": true
+                },
+                {
+                    "name": "Counter service",
+                    "enabled": true
+                },
+                {
+                    "name": "Dessert",
+                    "enabled": true
+                },
+                {
+                    "name": "Seating",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosphere",
+            "options": [
+                {
+                    "name": "Casual",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "crowd",
+            "name": "Crowd",
+            "options": [
+                {
+                    "name": "Family-friendly",
+                    "enabled": true
+                },
+                {
+                    "name": "Groups",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "children",
+            "name": "Children",
+            "options": [
+                {
+                    "name": "Good for kids",
+                    "enabled": true
+                },
+                {
+                    "name": "High chairs",
+                    "enabled": true
+                },
+                {
+                    "name": "Kids' menu",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOVB9rdM26EJqOrF46_SZ3vAj0Yz7lFm6-F2Vx5=w612-h298-k-no"
+        },
+        {
+            "about": "Latest",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNzQpcfmJblun0IBZ1hDYenmVM-KGiIIwa-YS8-=w224-h398-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNzQpcfmJblun0IBZ1hDYenmVM-KGiIIwa-YS8-=w224-h398-k-no"
+        },
+        {
+            "about": "Menu",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNYQJK-RedxyQtTNCpkI1o-G7z1jpvaTMwzFCcY=w397-h298-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPpsPiHEHleSpKLGmJGVWxDDAqJ3TnJAvAMRQz_=w224-h298-k-no"
+        },
+        {
+            "about": "Vibe",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOfW_Hk2mhvtN-aLFRqoyEWQKRiLBXmH4VwdFNl=w529-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNjI-7EM4XvasMVSYdJI_qHBAyCrE1-EUbZUgo=w529-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=SX01nLGxEiU0rBViP_zbmw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=95.536285&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "7 a.m.-11 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "7 a.m.-11 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "7 a.m.-11 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "7 a.m.-11 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "7 a.m.-11 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "7 a.m.-11 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "7 a.m.-11 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "Clean and light shopping floor.  Dinning area with tables, chairs, and benches provided.  Dinning floor is a bit dirty.  Employees are nice and friendly.  Serve speed is ok.  Order speed is normal.  Mobile order available at this location.  Credit cards accepted.  Located inside Walmart.  Free parking lot available.  Walmart public restrooms nearby.",
+            "reviewer_name": "Arthur Cheng",
+            "rating": 4,
+            "review_text": "Clean and light shopping floor.  Dinning area with tables, chairs, and benches provided.  Dinning floor is a bit dirty.  Employees are nice and friendly.  Serve speed is ok.  Order speed is normal.  Mobile order available at this location.  Credit cards accepted.  Located inside Walmart.  Free parking lot available.  Walmart public restrooms nearby.",
+            "published_at": "4 years ago",
+            "published_at_date": "2019-03-28T04:00:37.691000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 903,
+            "total_number_of_photos_by_reviewer": 2310,
+            "reviewer_url": "https://www.google.com/maps/contrib/110871737766571620336/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWvamIqwDgBkEKdWZpCsGHoON89hUNpwFEMvKetHs3tog=s120-c-rp-mo-ba6-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMbMwrcY41vDdtfCYj7G5a-w6g4UYHILwjxX4_-=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOd_Hh5PksOB5I-XBo_ukBD83I6a8G22R0WCajM=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOfW_Hk2mhvtN-aLFRqoyEWQKRiLBXmH4VwdFNl=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMMpQQIscGrKB81uHjcCfovTAehCGD1fdW3FdoZ=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNt-zt3p3F6LL6x5C8h1HX2qAy0RSXtsLbezSvP=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipN42M61FPNtxz3LPLg64_UO61NwSRbsD8ykkG_-=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMJUUMUbuBetDz3XGrpSpE0bz7r01YO_FWx0yYA=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "I order my food ???? here often for take out. They have messed up my special order twice and unfortunately by the same manager. Next time i see him I'll repeat my order three times so he wont screw up. The fries are seldom served hot n fresh here.",
+            "reviewer_name": "The JOKER",
+            "rating": 3,
+            "review_text": "I order my food ???? here often for take out. They have messed up my special order twice and unfortunately by the same manager. Next time i see him I'll repeat my order three times so he wont screw up. The fries are seldom served hot n fresh here.",
+            "published_at": "2 years ago",
+            "published_at_date": "2021-06-17T16:08:51.241000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 70,
+            "total_number_of_photos_by_reviewer": 234,
+            "reviewer_url": "https://www.google.com/maps/contrib/102133594639716670424/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjU_KVf5h4pPyEq9INK1oLo5KKOld6qD23zjAGQIWUfwYrY=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPpsPiHEHleSpKLGmJGVWxDDAqJ3TnJAvAMRQz_=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Waited 15 minutes to just get a drink cup as they won't go out of order.  Only to get warm pop and no ice.  Like they just don't care",
+            "reviewer_name": "Shayne",
+            "rating": 2,
+            "review_text": "Waited 15 minutes to just get a drink cup as they won't go out of order.  Only to get warm pop and no ice.  Like they just don't care",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-28T19:48:08.628000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 21,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/107649758466661744503/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJqi7pW4X0FtVk41rynLWFyKoNEP1Dqyf_YYHOuggVQSg=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "This branch is inside Walmart. Nosy Walmart doorman came at me and said I was not allowed to refill drink from the fountain machine standing outside. I've never seen any other McDonald branch like this. I guess Walmart owns this store? Either way, it ruined my appetite. Last time I'll be going there. Will also question buying stuff at that particular walmart.",
+            "reviewer_name": "J X",
+            "rating": 1,
+            "review_text": "This branch is inside Walmart. Nosy Walmart doorman came at me and said I was not allowed to refill drink from the fountain machine standing outside. I've never seen any other McDonald branch like this. I guess Walmart owns this store? Either way, it ruined my appetite. Last time I'll be going there. Will also question buying stuff at that particular walmart.",
+            "published_at": "7 months ago",
+            "published_at_date": "2023-04-30T13:43:33.840000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 107,
+            "total_number_of_photos_by_reviewer": 25,
+            "reviewer_url": "https://www.google.com/maps/contrib/103150131425289025632/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIMTZNOC5fPFU5Z800xFIXmv65No85IMp8JFlKuO3Rc=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "It's a McDonalds so expect the same standard of everything. Food is good if you like the genre. Use the app it is great with worthwhile rewards. The atmosphere in this one being in a Walmart is really not relaxing what so ever at any time, there is no quiet corner to hide in.",
+            "reviewer_name": "Barry S. Boivin",
+            "rating": 4,
+            "review_text": "It's a McDonalds so expect the same standard of everything. Food is good if you like the genre. Use the app it is great with worthwhile rewards. The atmosphere in this one being in a Walmart is really not relaxing what so ever at any time, there is no quiet corner to hide in.",
+            "published_at": "a year ago",
+            "published_at_date": "2022-10-25T15:39:40.042000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 240,
+            "total_number_of_photos_by_reviewer": 2203,
+            "reviewer_url": "https://www.google.com/maps/contrib/108123693760807168507/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVEEcINok1Gl1vLoDcDobv74FMFSI7r1-W_VEL631Ks8Dk=s120-c-rp-mo-ba6-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Great service this morning. I spilt my coffee all over the counter. The staff were super nice about it. I was very embarrassed and they made me feel better about it! Also gave me a new coffee. I will be back!!",
+            "reviewer_name": "Taylor Heinrichs",
+            "rating": 5,
+            "review_text": "Great service this morning. I spilt my coffee all over the counter. The staff were super nice about it. I was very embarrassed and they made me feel better about it! Also gave me a new coffee. I will be back!!",
+            "published_at": "a year ago",
+            "published_at_date": "2022-10-05T17:41:54.619000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 42,
+            "total_number_of_photos_by_reviewer": 7,
+            "reviewer_url": "https://www.google.com/maps/contrib/113852591075791708886/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJhOsS1YNDoenXwAdx2Y3SORJBvu5BvS1cwn4iLnUfr=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "I like McDonald's a lot and I recommend checking this place!! Friendly Staff! Dine In available! ",
+            "reviewer_name": "Navpreet Kaur",
+            "rating": 5,
+            "review_text": "I like McDonald's a lot and I recommend checking this place!! Friendly Staff! Dine In available! ",
+            "published_at": "2 years ago",
+            "published_at_date": "2021-02-07T00:01:10.704000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 67,
+            "total_number_of_photos_by_reviewer": 700,
+            "reviewer_url": "https://www.google.com/maps/contrib/107469413075345696166/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKHNyTPVjDE2RFPa-Q6haduRK-rzqhXCJbJ_fNwyWK0UQ=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipP4qfxraa219MSPIU-w-O4HEh1GjvkOThk1VCE7=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Typical MCD issues people hanging out and make a mess",
+            "reviewer_name": "Hermes Le",
+            "rating": 4,
+            "review_text": "Typical MCD issues people hanging out and make a mess",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-10-01T22:31:38.650000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 42,
+            "total_number_of_photos_by_reviewer": 8,
+            "reviewer_url": "https://www.google.com/maps/contrib/106181821146452666375/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJbj_zaGZK6xam3HYTJhYL7snFiIuLCOhEga6HePhjE=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

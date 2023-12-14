@@ -1,0 +1,327 @@
+{
+    "place_id": "ChIJAQAATFl2hlQR_Z9THhzfqdo",
+    "name": "Loblaw Pharmacy",
+    "description": null,
+    "reviews": 46,
+    "website": "https://www.realcanadiansuperstore.ca/pharmacy%3FstoreId%3D1518%26utm_source%3DG%26utm_medium%3DLPM%26utm_campaign%3DLoblaws",
+    "owner": {
+        "id": "115694274997587488063",
+        "name": "Loblaw Pharmacy (Owner)",
+        "link": "https://www.google.com/maps/contrib/115694274997587488063"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOAdOJqY2EeQASttJrlqL4-EXZwEG93Z5cuSFNS=w408-h544-k-no",
+    "main_category": "Pharmacy",
+    "categories": [
+        "Pharmacy",
+        "Drug store"
+    ],
+    "rating": 2.2,
+    "workday_timing": "9 a.m.-10 p.m.",
+    "closed_on": [],
+    "phone": "(604) 439-4404",
+    "address": "Loblaw Pharmacy, 1105 Eaton Ctr, 4700 Kingsway #1105, Burnaby, BC V5H 4M1",
+    "review_keywords": [
+        {
+            "keyword": "prescription",
+            "count": 10
+        },
+        {
+            "keyword": "eye",
+            "count": 3
+        },
+        {
+            "keyword": "chatting",
+            "count": 3
+        }
+    ],
+    "link": "https://www.google.com/maps/place/Loblaw+Pharmacy/data=!4m7!3m6!1s0x548676594c000001:0xdaa9df1c1e539ffd!8m2!3d49.2264155!4d-123.0005262!16s%2Fg%2F11f52vhgld!19sChIJAQAATFl2hlQR_Z9THhzfqdo?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 9 a.m.",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 27,
+        "2": 5,
+        "3": 2,
+        "4": 2,
+        "5": 10
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJAQAATFl2hlQR_Z9THhzfqdo&q=Loblaw+Pharmacy&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.226415499999995,
+        "longitude": -123.0005262
+    },
+    "plus_code": "6XGX+HQ Burnaby, British Columbia",
+    "detailed_address": {
+        "ward": "Metrotown",
+        "street": "1105 Eaton Ctr, 4700 Kingsway #1105",
+        "city": "Burnaby",
+        "postal_code": "V5H 4M1",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "15756370083193266173",
+    "data_id": "0x548676594c000001:0xdaa9df1c1e539ffd",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "In-store pickup",
+                    "enabled": true
+                },
+                {
+                    "name": "In-store shopping",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNWWEJ6YDbPx3epm2faopj2-D6BPrLghLJ3kdyO=w397-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=zGkls4-fhkce321C4F04sw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=188.95546&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "9 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "9 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "9 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "9 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "9 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "9 a.m.-7 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "9 a.m.-7 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "I've been going to this pharmacy for more than 15 years. I love going here, but recently, I don't know which person it is, but sometimes, she's not nice when she answers the phone. It doesn't take much to be nice to people. I don't care what you're doing, you should be nice even if it's just the start of your shift in the morning.",
+            "reviewer_name": "maria crofts",
+            "rating": 3,
+            "review_text": "I've been going to this pharmacy for more than 15 years. I love going here, but recently, I don't know which person it is, but sometimes, she's not nice when she answers the phone. It doesn't take much to be nice to people. I don't care what you're doing, you should be nice even if it's just the start of your shift in the morning.",
+            "published_at": "4 weeks ago",
+            "published_at_date": "2023-11-07T16:10:33.278000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 54,
+            "total_number_of_photos_by_reviewer": 22,
+            "reviewer_url": "https://www.google.com/maps/contrib/112070778348098418832/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUDZ5HRF3AFikidDQHvXmMV5dTti1LKpqmpl5wRYQYRhB8=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "I've been using this pharmacy for many, many years because of its convenience and location.  Customer service has steeply declined. On my last visit to fill and pick up a refill, my prescription was not initially ready, and I was asked to wait aside. After more than a half hour and making eye contact with numerous assistants and pharmacists, I went to the counter to ask how much longer. It turns out that my prescription was indeed ready, but nobody informed me. Had I not approached the counter to ask, I would likely still be waiting. I understand that this is a \"high volume\" pharmacy, but there's no excuse to poor communication between staff.  I'll be transferring my refills to another pharmacy.",
+            "reviewer_name": "Andy Wong",
+            "rating": 1,
+            "review_text": "I've been using this pharmacy for many, many years because of its convenience and location.  Customer service has steeply declined. On my last visit to fill and pick up a refill, my prescription was not initially ready, and I was asked to wait aside. After more than a half hour and making eye contact with numerous assistants and pharmacists, I went to the counter to ask how much longer. It turns out that my prescription was indeed ready, but nobody informed me. Had I not approached the counter to ask, I would likely still be waiting. I understand that this is a \"high volume\" pharmacy, but there's no excuse to poor communication between staff.  I'll be transferring my refills to another pharmacy.",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-21T00:57:51.672000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/115874135708767992610/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUUd0vELRPxKpnup6Jk2QY5edgi16ssgG4dTLkHiCLnxA=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Loblaw Pharmacy #1518.  No hygiene.\nCalled in to check readiness for pickup a day after my doctor prescribed. Answer - Not ready, had to wait 2 days.\nCalled in again the next day, answer was ready.\nWalked to the pharmacy, the staff said prescription was only partially filled, I paid the full amount and I have to come back to pick up the remainder next week.\nThe staff are not friendly. Feels like I went to this pharmacy to get some ration.\nWhat kind of service is this?\n... two weeks later..  came picked up the remaining medication.\nSaw a staff picking drug pills using her bare hands. This is not hygienic. Is this allowed by the pharmacy industry?",
+            "reviewer_name": "Henry Lau",
+            "rating": 1,
+            "review_text": "Loblaw Pharmacy #1518.  No hygiene.\nCalled in to check readiness for pickup a day after my doctor prescribed. Answer - Not ready, had to wait 2 days.\nCalled in again the next day, answer was ready.\nWalked to the pharmacy, the staff said prescription was only partially filled, I paid the full amount and I have to come back to pick up the remainder next week.\nThe staff are not friendly. Feels like I went to this pharmacy to get some ration.\nWhat kind of service is this?\n... two weeks later..  came picked up the remaining medication.\nSaw a staff picking drug pills using her bare hands. This is not hygienic. Is this allowed by the pharmacy industry?",
+            "published_at": "5 months ago",
+            "published_at_date": "2023-06-09T22:37:39.284000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/108036803328293411526/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJceRdWVrwHgjelQKP3IbOg1ufr1yJN5pucDBEdyFj3=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Waited over half an hour after my scheduled appointment when there was NOBODY IN LINE. Everyone is doing their own thing, nobody is on the same page. Gentleman at the front ignored me at first and when greeted asked me to wait in front of consulting; subsequent gentleman in consulting asked us to book at the front. I stress \"gentlemen\" here because the women pharmacists were frantically running around seemingly organising medication and incoming pick ups. If you hate your job or had a bad day, that's fine. I don't expect you to put on a fake customer service mask, just don't be rude. All I ask is for neutral service, I just want us to have a smooth sailing interaction.",
+            "reviewer_name": "Jasper Lee",
+            "rating": 1,
+            "review_text": "Waited over half an hour after my scheduled appointment when there was NOBODY IN LINE. Everyone is doing their own thing, nobody is on the same page. Gentleman at the front ignored me at first and when greeted asked me to wait in front of consulting; subsequent gentleman in consulting asked us to book at the front. I stress \"gentlemen\" here because the women pharmacists were frantically running around seemingly organising medication and incoming pick ups. If you hate your job or had a bad day, that's fine. I don't expect you to put on a fake customer service mask, just don't be rude. All I ask is for neutral service, I just want us to have a smooth sailing interaction.",
+            "published_at": "7 months ago",
+            "published_at_date": "2023-05-03T00:35:44.670000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 240,
+            "total_number_of_photos_by_reviewer": 50,
+            "reviewer_url": "https://www.google.com/maps/contrib/112024557255523785210/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWMwGIAdk5Vze37wf7ux-313dLV8mufDCN57wOXcujyB7o=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "They refused me service because they would not accept NIHB insurance. Didn't even look at my card, just told me to go somewhere else.",
+            "reviewer_name": "Raven Stierle",
+            "rating": 1,
+            "review_text": "They refused me service because they would not accept NIHB insurance. Didn't even look at my card, just told me to go somewhere else.",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-29T15:19:58.900000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 49,
+            "total_number_of_photos_by_reviewer": 48,
+            "reviewer_url": "https://www.google.com/maps/contrib/110096958063228378761/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUr3N6BRMrsXVXYlUZimv7XHksO4F5RhWLom87jkhxtF0dT=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Horrible customer service with zero effort to assist 2 seniors ( 86 and 81 years of age when booked their Covid shots and only to be told that's pharmacy won't be in and rebook your appointments!",
+            "reviewer_name": "Terry Lashar",
+            "rating": 1,
+            "review_text": "Horrible customer service with zero effort to assist 2 seniors ( 86 and 81 years of age when booked their Covid shots and only to be told that's pharmacy won't be in and rebook your appointments!",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-16T18:26:05.550000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 8,
+            "total_number_of_photos_by_reviewer": 4,
+            "reviewer_url": "https://www.google.com/maps/contrib/110182838146258806524/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKO66NxMBRaffEWHFg--6rUfAIngcdBUMAMXoGWKauv=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "This place is savage I don't know if the people work here care for what their doing customer service they don't care been hold for 2 hours on phone then I call back somebody answer and hang up! This is the pharmacy that you should avoid! I understand how they get busy but atleast talk to customer and let them know!!",
+            "reviewer_name": "pete V",
+            "rating": 1,
+            "review_text": "This place is savage I don't know if the people work here care for what their doing customer service they don't care been hold for 2 hours on phone then I call back somebody answer and hang up! This is the pharmacy that you should avoid! I understand how they get busy but atleast talk to customer and let them know!!",
+            "published_at": "6 months ago",
+            "published_at_date": "2023-05-28T01:21:01.719000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 7,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/110423769051206554528/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKPn-WiipZQxcPq53ac1WeiJB1dZPJMUwkplQ4x2mJC=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Don't come to this Pharmacy. On the day I visited, the sign said pharmacy opened at 9am but they were actually not ready to serve until 9:10am. The counter was still closed at 9am. The pharmacist was chatting with another pharmacist about other things while serving me. At the time picked up the prescription, the pharmacist was rushed and did not explain about the details about the prescription or any side effect. She just read the brief instructions on the medicine and did not even ask if I have any questions with the medication. They did not care about customer service. I would say avoid this pharmacy if you could.",
+            "reviewer_name": "C C",
+            "rating": 1,
+            "review_text": "Don't come to this Pharmacy. On the day I visited, the sign said pharmacy opened at 9am but they were actually not ready to serve until 9:10am. The counter was still closed at 9am. The pharmacist was chatting with another pharmacist about other things while serving me. At the time picked up the prescription, the pharmacist was rushed and did not explain about the details about the prescription or any side effect. She just read the brief instructions on the medicine and did not even ask if I have any questions with the medication. They did not care about customer service. I would say avoid this pharmacy if you could.",
+            "published_at": "8 months ago",
+            "published_at_date": "2023-03-07T17:21:11.229000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 13,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/116242449676893260124/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLVNWif46GNe7zgR5bjAza-BIP-Tvp2gWHtqOjfIboE=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

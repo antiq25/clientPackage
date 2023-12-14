@@ -1,0 +1,388 @@
+{
+    "place_id": "ChIJlWmQPihzhlQRUfBzmbtPA4g",
+    "name": "El Mercat - Authentic Spanish Cuisine",
+    "description": null,
+    "reviews": 20,
+    "website": null,
+    "owner": {
+        "id": "105726484439153923547",
+        "name": "El Mercat - Authentic Spanish Cuisine (Owner)",
+        "link": "https://www.google.com/maps/contrib/105726484439153923547"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOgIwUsCzAUksreM79GLHAH7ygL2tkm3OXiUWp2=w426-h240-k-no",
+    "main_category": "Spanish restaurant",
+    "categories": [
+        "Spanish restaurant",
+        "Caterer",
+        "Takeout Restaurant"
+    ],
+    "rating": 4.2,
+    "workday_timing": "10 a.m.-7 p.m.",
+    "closed_on": [
+        "Monday",
+        "Sunday"
+    ],
+    "phone": "(778) 751-1205",
+    "address": "El Mercat - Authentic Spanish Cuisine, 401 Industrial Ave, Vancouver, BC V6A 2P8",
+    "review_keywords": [
+        {
+            "keyword": "cheesecake",
+            "count": 5
+        },
+        {
+            "keyword": "tortilla de patatas",
+            "count": 4
+        },
+        {
+            "keyword": "croquetas",
+            "count": 4
+        },
+        {
+            "keyword": "presentation",
+            "count": 3
+        }
+    ],
+    "link": "https://www.google.com/maps/place/El+Mercat+-+Authentic+Spanish+Cuisine/data=!4m7!3m6!1s0x548673283e906995:0x88034fbb9973f051!8m2!3d49.2700024!4d-123.0957949!16s%2Fg%2F11mhgd0csq!19sChIJlWmQPihzhlQRUfBzmbtPA4g?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 10 a.m.",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 4,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 15
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJlWmQPihzhlQRUfBzmbtPA4g&q=El+Mercat+-+Authentic+Spanish+Cuisine&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.270002399999996,
+        "longitude": -123.0957949
+    },
+    "plus_code": "7WC3+2M Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "Strathcona",
+        "street": "401 Industrial Ave",
+        "city": "Vancouver",
+        "postal_code": "V6A 2P8",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "9800764881240322129",
+    "data_id": "0x548673283e906995:0x88034fbb9973f051",
+    "menu": {
+        "link": "https://www.elmercat.ca/store",
+        "source": "elmercat.ca"
+    },
+    "reservations": [],
+    "order_online_links": [
+        {
+            "link": "https://www.elmercat.ca/store",
+            "source": "elmercat.ca"
+        }
+    ],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Curbside pickup",
+                    "enabled": true
+                },
+                {
+                    "name": "No-contact delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Takeout",
+                    "enabled": true
+                },
+                {
+                    "name": "Dine-in",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Small plates",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Dining options",
+            "options": [
+                {
+                    "name": "Dinner",
+                    "enabled": true
+                },
+                {
+                    "name": "Dessert",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosphere",
+            "options": [
+                {
+                    "name": "Casual",
+                    "enabled": true
+                },
+                {
+                    "name": "Cozy",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOgIwUsCzAUksreM79GLHAH7ygL2tkm3OXiUWp2=w529-h298-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNUEINsNUQzSu69xEBlmyxOaKH-YHLv1l2I2C8y=w446-h298-k-no"
+        },
+        {
+            "about": "Croquette",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPtaJb2jNInwoaZxYf47-4l7LwrNCExMiMZMgLo=w446-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipM9UNsSw0qDhjgNBoPjH_tPaBq1l-gZQc_4RVQK=w446-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=NknkZAsmPaq3JvzKtUVBVw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=101.27403&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "Closed"
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "10 a.m.-7 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "10 a.m.-7 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "10 a.m.-7 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "10 a.m.-7 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "10 a.m.-3 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "Closed"
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "This was the first time we ordered from El Mercat and we were not disappointed. We treated ourselves to the Valentine's Day box and everything arrived fresh and with clear instructions. We've been to Spain so this meal brought back so many memories of the excellent food there. The Basque style cheesecake was worth it alone but honestly everything was delicious.\nThe delivery arrived on time and with a smile. We even received a text in advance so we could be sure to be home. The rose in the box was a nice and unexpected touch. Would absolutely recommend El Mercat.",
+            "reviewer_name": "KB Andrepoulos",
+            "rating": 5,
+            "review_text": "This was the first time we ordered from El Mercat and we were not disappointed. We treated ourselves to the Valentine's Day box and everything arrived fresh and with clear instructions. We've been to Spain so this meal brought back so many memories of the excellent food there. The Basque style cheesecake was worth it alone but honestly everything was delicious.\nThe delivery arrived on time and with a smile. We even received a text in advance so we could be sure to be home. The rose in the box was a nice and unexpected touch. Would absolutely recommend El Mercat.",
+            "published_at": "a year ago",
+            "published_at_date": "2022-02-15T15:34:02.043000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/106756093352674323357/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjU3Hzfh3aVeRnrPAMHhHdHeNFjwPvypjuxAUNh4qhSBUBc=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "It doesn't exist anymore. They will confirm the reservation but once you get there, there is no restaurant open. It closed years ago.",
+            "reviewer_name": "Clara Casacuberta Ramirez",
+            "rating": 1,
+            "review_text": "It doesn't exist anymore. They will confirm the reservation but once you get there, there is no restaurant open. It closed years ago.",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-07T20:55:52.567000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/115217512653934719116/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWctrLnPfbvOoeuDQXH__5ivsvV0NbBmcDGFwF2rTFVEVA=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Absolutely fantastic, my new favorite restaurant in Rockville, I have been three times and each time our meal was extremely creative with amazing flavor. Yesterday we tried brunch for the first time and was excellent. Service is really good and Chef George is wonderful.",
+            "reviewer_name": "Martha Velasquez",
+            "rating": 5,
+            "review_text": "Absolutely fantastic, my new favorite restaurant in Rockville, I have been three times and each time our meal was extremely creative with amazing flavor. Yesterday we tried brunch for the first time and was excellent. Service is really good and Chef George is wonderful.",
+            "published_at": "a year ago",
+            "published_at_date": "2022-04-10T20:10:47.490000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 3,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/106050096253444814048/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXGMfG-0LR0lPaqPGhXU9zUXRh-2MdAnPIWj1ibXDQazBk=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "I'm from Spain but living in Vancouver for the past 4 years and I must say this is the best and most authentic Spanish food I've tried in the city. As a Spaniard it's really hard to find authentic Spanish cuisine as there are some other options but they are quite different from Spanish food, but El Mercar really exceeded my expectations. The quality of the food, the flavour and even the presentation and delivery was amazing, very friendly stuff and It's great that the chef himself comes to your home to deliver your food. I highly recommend El Mercat for those who want to experience THE REAL SPAIN.",
+            "reviewer_name": "Miquel Reina",
+            "rating": 5,
+            "review_text": "I'm from Spain but living in Vancouver for the past 4 years and I must say this is the best and most authentic Spanish food I've tried in the city. As a Spaniard it's really hard to find authentic Spanish cuisine as there are some other options but they are quite different from Spanish food, but El Mercar really exceeded my expectations. The quality of the food, the flavour and even the presentation and delivery was amazing, very friendly stuff and It's great that the chef himself comes to your home to deliver your food. I highly recommend El Mercat for those who want to experience THE REAL SPAIN.",
+            "published_at": "2 years ago",
+            "published_at_date": "2021-03-01T01:28:32.155000Z",
+            "response_from_owner_text": "Thanks so much Miquel. So happy to hear you loved my food and felt like being at home.",
+            "response_from_owner_ago": "2 years ago",
+            "response_from_owner_date": "2021-03-01T01:34:49.271000Z",
+            "review_likes_count": 3,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/117680982242986808371/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXf5DipKSJtnyhdnpr8gmOfZBlcHLFfJaCvZWjF4wBMoSzM=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "We fell in love with El Mercat Spanish food when we ordered the Valentine's day box and have been ordering from El Mercat ever since. The flavours, quality and presentation are consistently outstanding. The tortilla de patatas is my favorite and has an authentic texture - if you've been to Spain you know what I am talking about. The Sant Esteve canelons and the Basque cheesecake deserve extra stars and I am excited that gaspacho and salad ruse are now on the menu.",
+            "reviewer_name": "Chrystal Palaty",
+            "rating": 5,
+            "review_text": "We fell in love with El Mercat Spanish food when we ordered the Valentine's day box and have been ordering from El Mercat ever since. The flavours, quality and presentation are consistently outstanding. The tortilla de patatas is my favorite and has an authentic texture - if you've been to Spain you know what I am talking about. The Sant Esteve canelons and the Basque cheesecake deserve extra stars and I am excited that gaspacho and salad ruse are now on the menu.",
+            "published_at": "2 years ago",
+            "published_at_date": "2021-05-03T16:38:12.999000Z",
+            "response_from_owner_text": "Thanks so much Chrystal. I'm glad to hear you are enjoying El Mecat's food so much. Can't wait to bring more flavours of Spain to Vancouver!",
+            "response_from_owner_ago": "2 years ago",
+            "response_from_owner_date": "2021-05-03T17:10:50.173000Z",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 9,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/113601438854396217569/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIrhzwepgUtSNrzegYglhrmWjDcChRWy0phfUoUXuT4=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Fantastic, authentic Spanish croquetas and tortilla de patatas. The basque cheesecake is the creamiest and best cheesecake I have ever had. You can taste the quality of ingredients and the care in preparation. Good value for money and with home delivery to boot. Highly recommend.",
+            "reviewer_name": "Gabriela Oteiza",
+            "rating": 5,
+            "review_text": "Fantastic, authentic Spanish croquetas and tortilla de patatas. The basque cheesecake is the creamiest and best cheesecake I have ever had. You can taste the quality of ingredients and the care in preparation. Good value for money and with home delivery to boot. Highly recommend.",
+            "published_at": "2 years ago",
+            "published_at_date": "2021-04-28T00:20:49.713000Z",
+            "response_from_owner_text": "Thank you so much Gabriela! I'm glad you enjoy El Mercat's cuisine so much ",
+            "response_from_owner_ago": "2 years ago",
+            "response_from_owner_date": "2021-04-28T01:10:13.004000Z",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 6,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/107972807153624458605/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocI5RrhmA4tt_X03PZoYdvS2GezSx2fSFsXlnvfJ3grx=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "I' m from Barcelona (Spain) living in Canada over 15 years now. When I heard about El Mercat I was a bit of skeptical  as I thought \"well one more trying to imitate Spanish cuisine\". When I placed the first order and we tested for dinner at home, we couldn't give credit to the quality. Excellent food (croquetas, canelones and Basque cheesecake) . Then the Tuna Empanadas  appeared yummy . The quality of the food is so good , the service and the unbeatable attention Chef Sanz is awesome. Congratulations well done. Salud !!",
+            "reviewer_name": "Beatriz Gil Garzon",
+            "rating": 5,
+            "review_text": "I' m from Barcelona (Spain) living in Canada over 15 years now. When I heard about El Mercat I was a bit of skeptical  as I thought \"well one more trying to imitate Spanish cuisine\". When I placed the first order and we tested for dinner at home, we couldn't give credit to the quality. Excellent food (croquetas, canelones and Basque cheesecake) . Then the Tuna Empanadas  appeared yummy . The quality of the food is so good , the service and the unbeatable attention Chef Sanz is awesome. Congratulations well done. Salud !!",
+            "published_at": "2 years ago",
+            "published_at_date": "2021-04-05T15:32:25.523000Z",
+            "response_from_owner_text": "Thanks so much Beatriz, so happy to hear El Mercat exceeded your expectations. Can't wait to bring more goodies from Spain to your home!",
+            "response_from_owner_ago": "2 years ago",
+            "response_from_owner_date": "2021-04-05T16:12:08.075000Z",
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/117698714734915593736/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjU9bAn7xqS0r5d4_MvGY61SeKjHpyxwOpTHL-BRrhY0ow=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "I tried many goodies from El Mercat and they are all delicious. The quality of the products is amazing, full of flavour and handmade. My boyfriend has Spainish roots and he told me it was like being at home again...Can't wait to make a new order!!",
+            "reviewer_name": "Nuria Reina",
+            "rating": 5,
+            "review_text": "I tried many goodies from El Mercat and they are all delicious. The quality of the products is amazing, full of flavour and handmade. My boyfriend has Spainish roots and he told me it was like being at home again...Can't wait to make a new order!!",
+            "published_at": "2 years ago",
+            "published_at_date": "2021-03-31T20:53:39.747000Z",
+            "response_from_owner_text": "Thanks so much for all your love for El Mercat Nuria, so happy your boyfriend and you have enjoyed our food so much.",
+            "response_from_owner_ago": "2 years ago",
+            "response_from_owner_date": "2021-03-31T21:05:40.581000Z",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/111022509325652363940/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJFDFbLFaLgDniKjIfHxpMRbfjopw_7RylkNlE29D5c=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

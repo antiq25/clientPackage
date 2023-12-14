@@ -1,0 +1,574 @@
+{
+    "place_id": "ChIJZUT8PwjQhVQROkJRFow6jDE",
+    "name": "McDonald's",
+    "description": "Classic, long-running fast-food chain known for its burgers & fries.",
+    "reviews": 989,
+    "website": "https://www.mcdonalds.com/ca/en-ca/restaurant-locator.html%3Fy_source%3D1_MTQ1MTkxMTUtNzE1LWxvY2F0aW9uLndlYnNpdGU%253D",
+    "owner": {
+        "id": "117070722580686460001",
+        "name": "McDonald's (Owner)",
+        "link": "https://www.google.com/maps/contrib/117070722580686460001"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNRibCfSjjN8ii8De3tXyCt0UMdx2eR2PhYiy5z=w408-h540-k-no",
+    "main_category": "Fast food restaurant",
+    "categories": [
+        "Fast food restaurant",
+        "American restaurant",
+        "Breakfast restaurant",
+        "Cafe",
+        "Hamburger restaurant",
+        "Restaurant"
+    ],
+    "rating": 3.4,
+    "workday_timing": "6 a.m.-10 p.m.",
+    "closed_on": [],
+    "phone": "(604) 575-6310",
+    "address": "McDonald's, 15145 BC-10 Building E, Surrey, BC V3S 9A5",
+    "review_keywords": [
+        {
+            "keyword": "drive thru",
+            "count": 53
+        },
+        {
+            "keyword": "manager",
+            "count": 27
+        },
+        {
+            "keyword": "coffee",
+            "count": 20
+        },
+        {
+            "keyword": "kids",
+            "count": 12
+        },
+        {
+            "keyword": "bag",
+            "count": 11
+        },
+        {
+            "keyword": "happy meal",
+            "count": 8
+        },
+        {
+            "keyword": "morning",
+            "count": 7
+        },
+        {
+            "keyword": "job",
+            "count": 6
+        },
+        {
+            "keyword": "toy",
+            "count": 6
+        },
+        {
+            "keyword": "fish",
+            "count": 6
+        }
+    ],
+    "link": "https://www.google.com/maps/place/McDonald%27s/data=!4m7!3m6!1s0x5485d0083ffc4465:0x318c3a8c1651423a!8m2!3d49.1047792!4d-122.8042326!16s%2Fg%2F1tf654wy!19sChIJZUT8PwjQhVQROkJRFow6jDE?authuser=0&hl=en&rclk=1",
+    "status": "Closes soon  10 p.m.  Opens 6 a.m. Sun",
+    "price_range": "$",
+    "reviews_per_rating": {
+        "1": 181,
+        "2": 72,
+        "3": 192,
+        "4": 226,
+        "5": 318
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJZUT8PwjQhVQROkJRFow6jDE&q=McDonald%27s&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.104779199999996,
+        "longitude": -122.80423259999999
+    },
+    "plus_code": "453W+W8 Surrey, British Columbia",
+    "detailed_address": {
+        "ward": "South Newton",
+        "street": "15145 BC-10 Building E",
+        "city": "Surrey",
+        "postal_code": "V3S 9A5",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "3570292977942217274",
+    "data_id": "0x5485d0083ffc4465:0x318c3a8c1651423a",
+    "menu": {
+        "link": "https://www.mcdonalds.com/ca/en-ca/full-menu.html%3Fy_source%3D1_MTQ1MTkxMTUtNzE1LWxvY2F0aW9uLm1lbnVfdXJs",
+        "source": "mcdonalds.com"
+    },
+    "reservations": [],
+    "order_online_links": [
+        {
+            "link": "https://www4.mcdonalds.ca/mcdeliverycanada/?y_source=1_MTQ1MTkxMTUtNzE1LWxvY2F0aW9uLm9yZGVyX3VybA%3D%3D",
+            "source": "mcdonalds.ca"
+        },
+        {
+            "link": "https://www.ubereats.com/ca/store/mcdonalds-panorama/tTLClRQ_Sr6lI5i_tty3-Q?utm_campaign=place-action-link&utm_medium=organic&utm_source=google",
+            "source": "ubereats.com"
+        },
+        {
+            "link": "https://www.skipthedishes.com/mcdonalds-151450-bc?serviceType=delivery&utm_source=google&utm_medium=organic&utm_campaign=gpav2",
+            "source": "skipthedishes.com"
+        },
+        {
+            "link": "https://www.doordash.com/store/mcdonald%27s-surrey-1140017/?utm_campaign=gpa",
+            "source": "doordash.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Outdoor seating",
+                    "enabled": true
+                },
+                {
+                    "name": "No-contact delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Drive-through",
+                    "enabled": true
+                },
+                {
+                    "name": "Takeout",
+                    "enabled": true
+                },
+                {
+                    "name": "Dine-in",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "highlights",
+            "name": "Highlights",
+            "options": [
+                {
+                    "name": "Fast service",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair accessible seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Coffee",
+                    "enabled": true
+                },
+                {
+                    "name": "Late-night food",
+                    "enabled": true
+                },
+                {
+                    "name": "Quick bite",
+                    "enabled": true
+                },
+                {
+                    "name": "Vegetarian options",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Dining options",
+            "options": [
+                {
+                    "name": "Breakfast",
+                    "enabled": true
+                },
+                {
+                    "name": "Lunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Dinner",
+                    "enabled": true
+                },
+                {
+                    "name": "Counter service",
+                    "enabled": true
+                },
+                {
+                    "name": "Dessert",
+                    "enabled": true
+                },
+                {
+                    "name": "Seating",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosphere",
+            "options": [
+                {
+                    "name": "Casual",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "crowd",
+            "name": "Crowd",
+            "options": [
+                {
+                    "name": "Family-friendly",
+                    "enabled": true
+                },
+                {
+                    "name": "Groups",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "children",
+            "name": "Children",
+            "options": [
+                {
+                    "name": "Good for kids",
+                    "enabled": true
+                },
+                {
+                    "name": "High chairs",
+                    "enabled": true
+                },
+                {
+                    "name": "Kids' menu",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "parking",
+            "name": "Parking",
+            "options": [
+                {
+                    "name": "Free parking lot",
+                    "enabled": true
+                },
+                {
+                    "name": "Parking",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNRibCfSjjN8ii8De3tXyCt0UMdx2eR2PhYiy5z=w224-h298-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipP4oTizmhmL54xEc9_pIPaHE3JfTk_Ki5rrkl1X=w224-h398-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPAdzncvdbGJjCckzd75Xd8GwlPHmiiUEbSGD3K=w224-h398-k-no"
+        },
+        {
+            "about": "Vibe",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOsP3ndX3WfwtvLHPx2Q-mUr78L42LzATIBPEqI=w613-h298-k-no"
+        },
+        {
+            "about": "Take-out",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipN9GO1OhfvC2EWByEYZKyXJedayS4c7PdiC2Cq4=w415-h298-k-no"
+        },
+        {
+            "about": "Comfort food",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipN_CtWUElGWg0OS2ZhuhlvJhsbmuTJefk6A-lE0=w224-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOBKDwkl3277yEiYFM4-XzZyyHU59KXk4yJ1OvF=w529-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNIbiIXOPd2Z7qk59OF4wA9KIT4YWLE2g0uC1Zc=w224-h298-k-no-pi-0-ya100-ro-0-fo100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "6 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "6 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "6 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "6 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "6 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "6 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "6 a.m.-10 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "Messed up my coffee, ordered a double double but received no sugar. Too late to go back was already on the road. The breakfast sandwich was correct.",
+            "reviewer_name": "Sok Bodian",
+            "rating": 4,
+            "review_text": "Messed up my coffee, ordered a double double but received no sugar. Too late to go back was already on the road. The breakfast sandwich was correct.",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-14T01:44:28.666000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 346,
+            "total_number_of_photos_by_reviewer": 1466,
+            "reviewer_url": "https://www.google.com/maps/contrib/114250778810147519714/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWAPC4oNdlpcLN8oz0ANWq5lk7T_coT7L2r5kimMmifyp0=s120-c-rp-mo-ba6-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOJE_fYGICAOa1rHp7a-1zB2YE4HRYQm7qZeDZP=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNoxWHg8VsyHFcX6N5eyKGxyDukmoRLeGsdXbw0=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Always good service here. Our fav location that close to our house. Happy meal and fish burger are our fav that always order. Oh! Also like their Boston cream donut that not too sweet and just perfect size for me when I'm craving for treat",
+            "reviewer_name": "Aom Hildebrand",
+            "rating": 5,
+            "review_text": "Always good service here. Our fav location that close to our house. Happy meal and fish burger are our fav that always order. Oh! Also like their Boston cream donut that not too sweet and just perfect size for me when I'm craving for treat",
+            "published_at": "a year ago",
+            "published_at_date": "2022-03-03T23:30:54.296000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 509,
+            "total_number_of_photos_by_reviewer": 16477,
+            "reviewer_url": "https://www.google.com/maps/contrib/114803780310663344351/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW6lTBC3PHUzw8mW2dnyRFfBdyGXw5xrguElnrb6iINaZJB=s120-c-rp-mo-ba8-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPAWDR_W2GHj6YY8CamCxBjINoSN-wsfcXlxwmP=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMkxKF_TZfgR9AhWf9qCqNrEPV1i8eghGGz1sp0=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOru6Q4Fn8a81xYN6EFp3XC8xh0I18MnklifIor=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMIXR1sLUNL29TpbZ2Xi99e6eNL-PJ9C3IsXHxv=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Food is what you'd expect at a McDonald's. I'd say it meets the expectations of the chain restaurant. This location also seems to be a friendlier work environment than others. The only thing I was disappointed in was how long it took to get my food. I about 20 mins for a simple happy meal order. That might have just been a one-time event, but still, fast food should be a quick and reliable service. On the plus side though, at least the manager apologized for the wait time.",
+            "reviewer_name": "Joshua",
+            "rating": 4,
+            "review_text": "Food is what you'd expect at a McDonald's. I'd say it meets the expectations of the chain restaurant. This location also seems to be a friendlier work environment than others. The only thing I was disappointed in was how long it took to get my food. I about 20 mins for a simple happy meal order. That might have just been a one-time event, but still, fast food should be a quick and reliable service. On the plus side though, at least the manager apologized for the wait time.",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-11T04:03:27.749000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 22,
+            "total_number_of_photos_by_reviewer": 22,
+            "reviewer_url": "https://www.google.com/maps/contrib/113692915848754617985/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVajWGMI3Q-2VYtTda8po3115CLXHs577TZ6xn71ST8kGM=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Horrible service at the drive thru after hours. We waited over 10 minutes behind the car that was at the drive through window.\n\nAsumming they would tell the car to pull over into the reserved spot and tend to the next vehicle which they didn't do.\n\nThey were still opened for business but the drive thru menu display was turned off.\n\nI asked the lady why they couldn't tell the vehicle to pull into one of the reserved spots and she said it was for a skip the dishes order.\n\nI was very frustrated waiting and I honked my horn to get out but they didn't move.\n\nHorrible staff and accepted no responsibility and did not apologize.\n\nI will never go back to this McDonald's again!",
+            "reviewer_name": "Gabe S",
+            "rating": 1,
+            "review_text": "Horrible service at the drive thru after hours. We waited over 10 minutes behind the car that was at the drive through window.\n\nAsumming they would tell the car to pull over into the reserved spot and tend to the next vehicle which they didn't do.\n\nThey were still opened for business but the drive thru menu display was turned off.\n\nI asked the lady why they couldn't tell the vehicle to pull into one of the reserved spots and she said it was for a skip the dishes order.\n\nI was very frustrated waiting and I honked my horn to get out but they didn't move.\n\nHorrible staff and accepted no responsibility and did not apologize.\n\nI will never go back to this McDonald's again!",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-22T19:10:36.617000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/109108045061591812177/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJCZkinPQSBjHOGF-TU3q4MpQNEs94R3HEdXLts86a1=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "I just went through the drive through and they gave me the order we started eating the fries and realized it was wasn't the right order. They gave us the order of the person behind us. They took the order back even though I told them we started eating the fries and immediately gave that same bag to the person behind us...absolutely disgusting",
+            "reviewer_name": "Kiran Shergill",
+            "rating": 1,
+            "review_text": "I just went through the drive through and they gave me the order we started eating the fries and realized it was wasn't the right order. They gave us the order of the person behind us. They took the order back even though I told them we started eating the fries and immediately gave that same bag to the person behind us...absolutely disgusting",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-10T02:32:51.703000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 3,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/100086678259240547009/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXGSNbyPq1NfmPbdBKDTCyxyXUfmsr_PiRIVqa14aoBfLU=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "I have been to so many McDonald's, this is by far the best of best  so clean, staff very kind and professional. The food omg fresh!! I bet this is what McDonald's tasted like when it first open I am McDonald's addict. This just cures my craving with its delicious and fresh Big Mac with large fries without salt, and refreshing Coca Cola. Thank you so much keep the great job going.",
+            "reviewer_name": "Mako Makia",
+            "rating": 5,
+            "review_text": "I have been to so many McDonald's, this is by far the best of best  so clean, staff very kind and professional. The food omg fresh!! I bet this is what McDonald's tasted like when it first open I am McDonald's addict. This just cures my craving with its delicious and fresh Big Mac with large fries without salt, and refreshing Coca Cola. Thank you so much keep the great job going.",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-10T00:36:09.551000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 23,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/100030680733866136461/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXhn6S3Wjs-L82LlFgQBBi66CCVRSN3V9JpprZ3YywmGVQ=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "The nicest staff you'll ever meet at McDonald's!\nUnfortunately they don't have proper food as described McCrispy is not good as advertised\nThe original McCrispy was a delicious thick chicken breast not so anymore",
+            "reviewer_name": "KAEBZ",
+            "rating": 3,
+            "review_text": "The nicest staff you'll ever meet at McDonald's!\nUnfortunately they don't have proper food as described McCrispy is not good as advertised\nThe original McCrispy was a delicious thick chicken breast not so anymore",
+            "published_at": "a year ago",
+            "published_at_date": "2022-11-29T03:35:37.971000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 126,
+            "total_number_of_photos_by_reviewer": 89,
+            "reviewer_url": "https://www.google.com/maps/contrib/110759086269631684501/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUvqqMPKZb4aSIdqaxZMLaWbbfaiXNCWcEUGLhzWmU50zEs=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOnlIwdFpnz7vwQcSCRNyj4uXZBbxzbWbRA3xCd=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "I just want to give a big shout out to your manager working at this location named Preet. I had an error on my order, and when I came back days later, and she remembered exactly who I was even without me, mentioning it and made everything right !",
+            "reviewer_name": "Nicole Barabas",
+            "rating": 5,
+            "review_text": "I just want to give a big shout out to your manager working at this location named Preet. I had an error on my order, and when I came back days later, and she remembered exactly who I was even without me, mentioning it and made everything right !",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-30T02:00:54.402000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 28,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/115605503880192783189/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXqTaURZ0tJgDeFNGOWSU2FlqRFYjhwwQrNXjO5FzrJkDs=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

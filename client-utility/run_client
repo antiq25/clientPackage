@@ -1,0 +1,56 @@
+#!/bin/bash
+
+askToProxy() {
+    local server_port="${1:-8000}"
+    local api_port="${2:-3001}"
+    echo "Do you want to start a reverse proxy on port ${server_port} with API on port ${api_port}? [y/n]"
+    read -r answer
+    if [[ "$answer" == "y" ]]; then
+        echo "Preparing reverse proxy..."
+        startReverseProxy "$server_port" "$api_port"
+    fi
+    servefiles "$server_port"
+}
+
+startReverseProxy() {
+    local server_port="$1"
+    local api_port="$2"
+    cat > Caddyfile <<EOF
+https://localhost:4443 {
+    # Reverse proxy API calls to the specified api_port
+    reverse_proxy /api/* http://localhost:${api_port}
+
+    # Then, reverse proxy everything else to the specified server_port
+    reverse_proxy http://localhost:${server_port}
+}
+EOF
+    echo "Starting reverse proxy on http://localhost:${server_port}/"
+    caddy start --config Caddyfile
+}
+
+servefiles() {
+    local port="$1"
+    echo "Starting server on http://localhost:${port}/"
+    python3 -m http.server "$port"
+
+    if [[ $? -ne 0 ]]; then
+        echo "Failed to start server on port ${port}"
+        exit 1
+    fi
+
+    echo "Server running on http://localhost:${port}/"
+    open "http://localhost:${port}/"
+}
+
+main() {
+    local server_port="${1:-3001}"
+    local api_port="${2:-3000}"
+    askToProxy "$server_port" "$api_port"
+}
+
+command pkill -9 KILL Python
+
+main "$@"
+
+
+

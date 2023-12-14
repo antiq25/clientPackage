@@ -1,0 +1,608 @@
+{
+    "place_id": "ChIJkf82NdpwhlQRLCs2T5Z6acY",
+    "name": "McDonald's",
+    "description": "Classic, long-running fast-food chain known for its burgers & fries.",
+    "reviews": 2311,
+    "website": "https://www.mcdonalds.com/ca/en-ca/restaurant-locator.html%3Fy_source%3D1_MTQ1MjA0NTMtNzE1LWxvY2F0aW9uLndlYnNpdGU%253D",
+    "owner": {
+        "id": "113510061718315608724",
+        "name": "McDonald's (Owner)",
+        "link": "https://www.google.com/maps/contrib/113510061718315608724"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO3BEiGcrIvlRAhuJ-E2TohUhxLg2xVZO2cYpHr=w408-h306-k-no",
+    "main_category": "Fast food restaurant",
+    "categories": [
+        "Fast food restaurant",
+        "American restaurant",
+        "Breakfast restaurant",
+        "Cafe",
+        "Hamburger restaurant",
+        "Restaurant"
+    ],
+    "rating": 3.4,
+    "workday_timing": "Open 24 hours",
+    "closed_on": [],
+    "phone": "(604) 718-1099",
+    "address": "McDonald's, 3444 E Hastings St, Vancouver, BC V5K 2A6",
+    "review_keywords": [
+        {
+            "keyword": "drive thru",
+            "count": 105
+        },
+        {
+            "keyword": "coffee",
+            "count": 57
+        },
+        {
+            "keyword": "parking",
+            "count": 28
+        },
+        {
+            "keyword": "machine",
+            "count": 13
+        },
+        {
+            "keyword": "play area",
+            "count": 12
+        },
+        {
+            "keyword": "big mac",
+            "count": 12
+        },
+        {
+            "keyword": "mcdouble",
+            "count": 9
+        },
+        {
+            "keyword": "kiosk",
+            "count": 6
+        },
+        {
+            "keyword": "renovation",
+            "count": 6
+        },
+        {
+            "keyword": "homeless",
+            "count": 5
+        }
+    ],
+    "link": "https://www.google.com/maps/place/McDonald%27s/data=!4m7!3m6!1s0x548670da3536ff91:0xc6697a964f362b2c!8m2!3d49.280857!4d-123.0305412!16s%2Fg%2F1vzn57l8!19sChIJkf82NdpwhlQRLCs2T5Z6acY?authuser=0&hl=en&rclk=1",
+    "status": "Open 24 hours",
+    "price_range": "$",
+    "reviews_per_rating": {
+        "1": 362,
+        "2": 198,
+        "3": 540,
+        "4": 553,
+        "5": 658
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJkf82NdpwhlQRLCs2T5Z6acY&q=McDonald%27s&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.280857,
+        "longitude": -123.03054119999999
+    },
+    "plus_code": "7XJ9+8Q Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "East Vancouver",
+        "street": "3444 E Hastings St",
+        "city": "Vancouver",
+        "postal_code": "V5K 2A6",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "14297093278056983340",
+    "data_id": "0x548670da3536ff91:0xc6697a964f362b2c",
+    "menu": {
+        "link": "https://www.mcdonalds.com/ca/en-ca/full-menu.html%3Fy_source%3D1_MTQ1MjA0NTMtNzE1LWxvY2F0aW9uLm1lbnVfdXJs",
+        "source": "mcdonalds.com"
+    },
+    "reservations": [],
+    "order_online_links": [
+        {
+            "link": "https://www4.mcdonalds.ca/mcdeliverycanada/?y_source=1_MTQ1MjA0NTMtNzE1LWxvY2F0aW9uLm9yZGVyX3VybA%3D%3D",
+            "source": "mcdonalds.ca"
+        },
+        {
+            "link": "https://www.ubereats.com/ca/store/mcdonalds-cassiar/0iI0AosHQaWi3CzcdCwnCQ?utm_campaign=place-action-link&utm_medium=organic&utm_source=google",
+            "source": "ubereats.com"
+        },
+        {
+            "link": "https://www.skipthedishes.com/mcdonalds-east-hastings-street?serviceType=delivery&utm_source=google&utm_medium=organic&utm_campaign=gpav2",
+            "source": "skipthedishes.com"
+        },
+        {
+            "link": "https://www.doordash.com/store/mcdonald%27s-vancouver-1140000/?utm_campaign=gpa",
+            "source": "doordash.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Outdoor seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Curbside pickup",
+                    "enabled": true
+                },
+                {
+                    "name": "No-contact delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Drive-through",
+                    "enabled": true
+                },
+                {
+                    "name": "Takeout",
+                    "enabled": true
+                },
+                {
+                    "name": "Dine-in",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "highlights",
+            "name": "Highlights",
+            "options": [
+                {
+                    "name": "Fast service",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair accessible seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible elevator",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Coffee",
+                    "enabled": true
+                },
+                {
+                    "name": "Late-night food",
+                    "enabled": true
+                },
+                {
+                    "name": "Quick bite",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Dining options",
+            "options": [
+                {
+                    "name": "Breakfast",
+                    "enabled": true
+                },
+                {
+                    "name": "Lunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Dinner",
+                    "enabled": true
+                },
+                {
+                    "name": "Counter service",
+                    "enabled": true
+                },
+                {
+                    "name": "Dessert",
+                    "enabled": true
+                },
+                {
+                    "name": "Seating",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosphere",
+            "options": [
+                {
+                    "name": "Casual",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "crowd",
+            "name": "Crowd",
+            "options": [
+                {
+                    "name": "Family-friendly",
+                    "enabled": true
+                },
+                {
+                    "name": "Groups",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "children",
+            "name": "Children",
+            "options": [
+                {
+                    "name": "Good for kids",
+                    "enabled": true
+                },
+                {
+                    "name": "Good for kids birthday",
+                    "enabled": true
+                },
+                {
+                    "name": "High chairs",
+                    "enabled": true
+                },
+                {
+                    "name": "Kids' menu",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "parking",
+            "name": "Parking",
+            "options": [
+                {
+                    "name": "Free parking lot",
+                    "enabled": true
+                },
+                {
+                    "name": "Parking",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipO3BEiGcrIvlRAhuJ-E2TohUhxLg2xVZO2cYpHr=w397-h298-k-no"
+        },
+        {
+            "about": "Menu",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOniULPXW_nOIdycjfAP6ytzfWkd5HXBA8GGIY4=w224-h397-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPlSyOmSksWN7BBDWTPDKj7XSt-ME0LVxkAM89G=w529-h298-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPD_dfnoYQilWcjHCJ78UzXaAoO85rYvpVaxtfn=w224-h298-k-no"
+        },
+        {
+            "about": "Vibe",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipO0FpONyYk9Ujc1958ELZlWqqRyljPizks4etQq=w224-h398-k-no"
+        },
+        {
+            "about": "Take-out",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMJorQbS4jSI3Dmu1KCDK_kO9FozUUqoKIwQCcA=w224-h398-k-no"
+        },
+        {
+            "about": "Comfort food",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipM-KfEPnBjV9Ms5gTyrTrnEeYRxT6o9225X9dy-=w447-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipO83oSk7rwFemajWBcyKfxnY2WRCtm6H7pErfW3=w298-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMchfX9YGJb7Ft4sxPD1EnAvgRePyqFJmAzb2ob=w224-h298-k-no-pi-0-ya163-ro-0-fo100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "Open 24 hours"
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "Open 24 hours"
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "Open 24 hours"
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "Open 24 hours"
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "Open 24 hours"
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "Open 24 hours"
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "Open 24 hours"
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "1. Conveniently located with many bus routes around.\n2. Generous sitting area.\n3. Easy drive through window.\n4. Large parking lot.\n5. Clean washrooms.\n6. Quiet with abundant electric outlets.\n7. Sitting area with great natural light.",
+            "reviewer_name": "Donkey Far Far Away Kingdom",
+            "rating": 5,
+            "review_text": "1. Conveniently located with many bus routes around.\n2. Generous sitting area.\n3. Easy drive through window.\n4. Large parking lot.\n5. Clean washrooms.\n6. Quiet with abundant electric outlets.\n7. Sitting area with great natural light.",
+            "published_at": "8 months ago",
+            "published_at_date": "2023-03-18T16:13:59.949000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 21,
+            "reviewer_url": "https://www.google.com/maps/contrib/116319153636500416474/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjX5ryUM0UETgV0uHmyI-fBqcBDs2ArlYd-nmPinjPPJKQ=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMK2j9RUggHC76iWcrdqYSvLkAdfrsSykW_1nGk=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOn3uCEwa94jg5yIsaBtriVClqi17XmNYslJCUK=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNwHe4rG5kRMuhRkmrXxquISeeayt084snd5l1-=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipO60Z7pmfDXpUFrrp6Lw310d1Au5Tzwva8sexWr=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPlcWl368FmsGo7nboxTF-IsdXT-xRW9YBU2ayp=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOnj6wahzjC86YM7CwNIcd5Uaq_u-xOjCmUkL9J=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNraBPTMIXGjkHXWy_nkz_k1R4bMKoDIJoc63G7=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNPnb_N611bTBHLFTy_Ce_OPmEVxA3BUTav4Ppe=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPHZLNkyxFoZ5frEC5c0BeFuD0fgt6l3ODsBME_=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOndvt7rRn8BPBVt4fgqxbDHesYIQrEewnfC7WQ=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPAYGCduvC6F1diTCao-aOogJss26FIgygUgymJ=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNLNUkx4Do49UkMirMAV5M0QGDU8MaWhTNrU8RP=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOAwMimc7IWTP4YJMcTMkfi11c3oagx2eHSuz4q=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMqjniLUsvig9qLJvMyg2EdiIJC8yXmNm4D1X_L=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNp7qjG-TIzDT4BUfKFflejUCp-t3xUXAmOKxlC=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPe8CgWiIT2ORIyuowa0Jg2kaiVC6RyMmxCnH2D=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOZ-yCOr6xk1i1pN9OeJFypYf3Ida8RTkluk-Qz=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMhxdecNzmS3I3WKGg5BZT0s3NBRhYwn1p5Py9r=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "I ordered a double Big Mac, 2 meat patties are missing (should be 4 I only got 2)? Whole piece of lettuce instead of shred lettuce? The sauce inside is mayo instead of mac sauce? And I asked for extra onion, not surprisingly, there is no onion...\n\nOct27,2022 0:22am mobile order#2106",
+            "reviewer_name": "Shell L",
+            "rating": 1,
+            "review_text": "I ordered a double Big Mac, 2 meat patties are missing (should be 4 I only got 2)? Whole piece of lettuce instead of shred lettuce? The sauce inside is mayo instead of mac sauce? And I asked for extra onion, not surprisingly, there is no onion...\n\nOct27,2022 0:22am mobile order#2106",
+            "published_at": "a year ago",
+            "published_at_date": "2022-12-01T02:51:10.253000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 4,
+            "total_number_of_reviews_by_reviewer": 162,
+            "total_number_of_photos_by_reviewer": 240,
+            "reviewer_url": "https://www.google.com/maps/contrib/109664252846082135189/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVUpRR3UKMlycjfCQ31-13Yl_indmTQrDWaBlPgiSvQC6mS=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipODghKGDVuQ4trMOnhHmSC6YYVbbBAQKg7-hZwE=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMVZEZjV4DLE5NGUv7vJZbloXuPUwJYZCd9iy__=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipM1Pffp2YveYa3gKZJPTB1kiY_GunHZAvHuiy00=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOvbbs8x6X_EnkFyBNmR7AHUNxC2wm_qVtsBVOj=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipM-JPUeZNpPlVVrxDJsWTkB5IRDiXw5O6AbAZOD=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Ate at this McDonald's twice, both times the food was consistent as expected. I used the self-serve kiosk so I do not have any strong opinions regarding the service although I was asked if I had been helped by an employee after placing my order so that was good. Good amount of parking and accessible. Would have liked to see the booth seating repaired near the window as one of the seats was missing.",
+            "reviewer_name": "Anna Koniarska",
+            "rating": 4,
+            "review_text": "Ate at this McDonald's twice, both times the food was consistent as expected. I used the self-serve kiosk so I do not have any strong opinions regarding the service although I was asked if I had been helped by an employee after placing my order so that was good. Good amount of parking and accessible. Would have liked to see the booth seating repaired near the window as one of the seats was missing.",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-07T00:40:32.772000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 94,
+            "total_number_of_photos_by_reviewer": 632,
+            "reviewer_url": "https://www.google.com/maps/contrib/104482396754530361261/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWFiu_lgdUEleVdG3bxXva_MVFdXXvimPrczpHFfVSXvgY=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "I ordered mcdouble like a mac but got this extra stuff on my burger. I dont know what those are, but Im not eating that. Very disappointed.",
+            "reviewer_name": "Cjade",
+            "rating": 1,
+            "review_text": "I ordered mcdouble like a mac but got this extra stuff on my burger. I dont know what those are, but Im not eating that. Very disappointed.",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-06T07:39:31.446000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 16,
+            "total_number_of_photos_by_reviewer": 3,
+            "reviewer_url": "https://www.google.com/maps/contrib/107043283995463987459/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJx80EGoD7tkgJIRAsjB8aojIWCzsjS7CQes9QRDp-x=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPJJd29ryjKxrfeDILAIGhwarDNxLr_w64G7BFL=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMy8ChlwKV7OSLQeVn0dFcenJslmJ0sAHJbJhLT=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOafF-O3eQf_VTrdWn3d3fN4aAAi-7z_NPpUE6O=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Very well organized.  They aim to get your order done quickly.  As a senior the electronic menu had its challenges, but assistance helped as needed. Very clean and pleasant experience.",
+            "reviewer_name": "Paul Wing",
+            "rating": 5,
+            "review_text": "Very well organized.  They aim to get your order done quickly.  As a senior the electronic menu had its challenges, but assistance helped as needed. Very clean and pleasant experience.",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-02T05:26:02.825000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 224,
+            "total_number_of_photos_by_reviewer": 28,
+            "reviewer_url": "https://www.google.com/maps/contrib/115164838205146382569/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWGY2QYLRNJPu6ylsx5BPRq7PTq1CU28kZkoasdO9g7QHk=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Went through the drive through. The gentleman, taking orders and manning the take out window was amazing. Had the best attitude and made me feel extremely happy. I really appreciate service like this after a hard nights work. I forgot to ask his name or I would add it here. Above and beyond.",
+            "reviewer_name": "Andrew Zsiak",
+            "rating": 5,
+            "review_text": "Went through the drive through. The gentleman, taking orders and manning the take out window was amazing. Had the best attitude and made me feel extremely happy. I really appreciate service like this after a hard nights work. I forgot to ask his name or I would add it here. Above and beyond.",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-15T12:16:49.139000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 20,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/112922735013893472003/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVR80h8bfllFBMguJriL5HrslEIpQ_PvUj4pi4u_2kEDzQ=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Every time I order a root beer in the drive-thru, I forget to check it and the syrup is always out. They'll still serve it, but it's always out. Fortunately I checked before leaving the parking lot this time, which means I'm also remembering to review it.\n\nIt would honestly be better for them to remove root beer as an option altogether rather than to continue to rip people off. Last thing I'm thinking about when I'm getting 'fast food' is whether or not the staff is doing something as simple as changing the syrup... I'm, beginning to think they're intentionally cutting corners.",
+            "reviewer_name": "Daniel Wester",
+            "rating": 1,
+            "review_text": "Every time I order a root beer in the drive-thru, I forget to check it and the syrup is always out. They'll still serve it, but it's always out. Fortunately I checked before leaving the parking lot this time, which means I'm also remembering to review it.\n\nIt would honestly be better for them to remove root beer as an option altogether rather than to continue to rip people off. Last thing I'm thinking about when I'm getting 'fast food' is whether or not the staff is doing something as simple as changing the syrup... I'm, beginning to think they're intentionally cutting corners.",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-20T23:21:59.144000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 14,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/109284127861835844250/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWZJh2J6vIA5O_wK8bbMYUT5TmLZKP-V6VRhBY0mnQCktM=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Rude signs that include lies and go against McDonald's corporate regulations. All these regulations have been dropped.. so then what is it? Then very direct rude signs from the tyrant management. They also closed the top section because they already don't ever cleanup.\n\nI haven't been here in years, but I used to love this location and now I am appalled. The staff even looked as if they were dead inside. Clearly there is an issue with the owner or manager and corporate is not aware of the situation.\n\nThis location used to be packed and is now dismal at best.",
+            "reviewer_name": "Mormodra",
+            "rating": 2,
+            "review_text": "Rude signs that include lies and go against McDonald's corporate regulations. All these regulations have been dropped.. so then what is it? Then very direct rude signs from the tyrant management. They also closed the top section because they already don't ever cleanup.\n\nI haven't been here in years, but I used to love this location and now I am appalled. The staff even looked as if they were dead inside. Clearly there is an issue with the owner or manager and corporate is not aware of the situation.\n\nThis location used to be packed and is now dismal at best.",
+            "published_at": "a year ago",
+            "published_at_date": "2022-11-16T23:13:49.179000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 269,
+            "total_number_of_photos_by_reviewer": 359,
+            "reviewer_url": "https://www.google.com/maps/contrib/117258581173094362379/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWkysHD3DEqM8IRjR7KhAM2jluFkmnJQ4c-zj0kzFxW-Suq=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNbs8thO3EhOnLQ1GsaX4IdH2e5cY0tvmfzp7_V=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPJIbw0GYKZhxBaOSN-Mw8F_ELHAWa33rIZnOPj=w150-h150-k-no-p"
+            ]
+        }
+    ],
+    "is_spending_on_ads": false
+}

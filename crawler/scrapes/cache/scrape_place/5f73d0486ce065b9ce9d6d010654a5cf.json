@@ -1,0 +1,325 @@
+{
+    "place_id": "ChIJZ3ewr552hlQRSwJGFivOHgk",
+    "name": "Forward Care Medical Clinic (NOT Walk-in Clinic)",
+    "description": null,
+    "reviews": 41,
+    "website": "https://www.forwardcaremedical.com/",
+    "owner": {
+        "id": "102415399624296474522",
+        "name": "Forward Care Medical Clinic (NOT Walk-in Clinic) (Owner)",
+        "link": "https://www.google.com/maps/contrib/102415399624296474522"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO_g0_fZqrESuJq4zOVSgE8Qkc4GOavKxoqd7UT=w425-h240-k-no",
+    "main_category": "Medical clinic",
+    "categories": [
+        "Medical clinic"
+    ],
+    "rating": 3.2,
+    "workday_timing": "8:30 a.m.-5 p.m.",
+    "closed_on": [
+        "Sunday"
+    ],
+    "phone": "(604) 430-3699",
+    "address": "Forward Care Medical Clinic (NOT Walk-in Clinic), 2736 E 41st Ave, Vancouver, BC V5R 2X1",
+    "review_keywords": [
+        {
+            "keyword": "call",
+            "count": 9
+        },
+        {
+            "keyword": "receptionist",
+            "count": 8
+        },
+        {
+            "keyword": "front desk",
+            "count": 7
+        },
+        {
+            "keyword": "family doctor",
+            "count": 6
+        },
+        {
+            "keyword": "results",
+            "count": 4
+        }
+    ],
+    "link": "https://www.google.com/maps/place/Forward+Care+Medical+Clinic+%28NOT+Walk-in+Clinic%29/data=!4m7!3m6!1s0x5486769eafb07767:0x91ece2b1646024b!8m2!3d49.232595!4d-123.0503745!16s%2Fg%2F11bwfm77g8!19sChIJZ3ewr552hlQRSwJGFivOHgk?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 8:30 a.m.",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 14,
+        "2": 2,
+        "3": 4,
+        "4": 3,
+        "5": 18
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJZ3ewr552hlQRSwJGFivOHgk&q=Forward+Care+Medical+Clinic+%28NOT+Walk-in+Clinic%29&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.232594999999996,
+        "longitude": -123.05037449999999
+    },
+    "plus_code": "6WMX+2V Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "South Vancouver",
+        "street": "2736 E 41st Ave",
+        "city": "Vancouver",
+        "postal_code": "V5R 2X1",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "657189280095273547",
+    "data_id": "0x5486769eafb07767:0x91ece2b1646024b",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipO_g0_fZqrESuJq4zOVSgE8Qkc4GOavKxoqd7UT=w528-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=OA62Sj2BoUkBAU-phPKLoQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=273.1636&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "8:30 a.m.-5 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "8:30 a.m.-5 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "8:30 a.m.-5 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "8:30 a.m.-5 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "8:30 a.m.-5 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "8:30 a.m.-5 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "Closed"
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "Dr. Michelle Lin is my mom's and my family doctor. She is patient, genuine, punctual, efficient, and goes the extra mile to ensure we clearly understand the issues and applicable next steps.\n\nWe sincerely feel privileged to have her as our family doctor as she always makes sure we are comfortable and well-cared for. For example, Dr. Lin is mindful of slowing down her speech so my mom (English is not her first language) can carefully understand her. She is kind to always ask if we have any further questions before wrapping up our appointment as well.\n\nI also had a blood test yesterday and I did not schedule a follow-up appointment. I was pleasantly surprised that Dr. Lin called me today to go through my results together with me!\n\nWe are both very thankful and appreciative of her wonderful care :)",
+            "reviewer_name": "Jen N",
+            "rating": 5,
+            "review_text": "Dr. Michelle Lin is my mom's and my family doctor. She is patient, genuine, punctual, efficient, and goes the extra mile to ensure we clearly understand the issues and applicable next steps.\n\nWe sincerely feel privileged to have her as our family doctor as she always makes sure we are comfortable and well-cared for. For example, Dr. Lin is mindful of slowing down her speech so my mom (English is not her first language) can carefully understand her. She is kind to always ask if we have any further questions before wrapping up our appointment as well.\n\nI also had a blood test yesterday and I did not schedule a follow-up appointment. I was pleasantly surprised that Dr. Lin called me today to go through my results together with me!\n\nWe are both very thankful and appreciative of her wonderful care :)",
+            "published_at": "a year ago",
+            "published_at_date": "2022-07-27T01:28:41.457000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 3,
+            "total_number_of_reviews_by_reviewer": 8,
+            "total_number_of_photos_by_reviewer": 13,
+            "reviewer_url": "https://www.google.com/maps/contrib/102474482700780433832/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLOzIn6__xQRKCgEU7zQ_CIAbcRpwZ0uS90o0O8QWOu=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Not a walk in clinic:\n\nI typed walk in clinics near me and it pointed me here. I asked the front counter person if I could book an appointment. She said they weren't a walk in clinic; that none of the doctors were taking any clients in; I thanked her and left immediately.",
+            "reviewer_name": "Larry Larin",
+            "rating": 3,
+            "review_text": "Not a walk in clinic:\n\nI typed walk in clinics near me and it pointed me here. I asked the front counter person if I could book an appointment. She said they weren't a walk in clinic; that none of the doctors were taking any clients in; I thanked her and left immediately.",
+            "published_at": "a year ago",
+            "published_at_date": "2022-03-22T18:13:21.416000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 3,
+            "total_number_of_reviews_by_reviewer": 12,
+            "total_number_of_photos_by_reviewer": 5,
+            "reviewer_url": "https://www.google.com/maps/contrib/111240691731845141023/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjU3tElsEOHahbll9d-gm7uKDT08tfLsi7I2NsepTwx3OsI=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipN-ngJwm8ft0gWt4jrYD-fUraOk7mqUb5iqlsWv=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNxCXamPT-rkz3Mg9NlY6O1WALEyBgWPtaCkHeg=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "this review is very specific to the older Chinese lady with the frizzy hair girl named Lily, She is very rude and unwilling to help all the time. She seems very unhappy with her role at this clinic. Her behaviour makes unwell people feel worse. Other staff members and Doctors are all exceptional and always willing to go extra mile to help their patients.",
+            "reviewer_name": "Al Pha",
+            "rating": 1,
+            "review_text": "this review is very specific to the older Chinese lady with the frizzy hair girl named Lily, She is very rude and unwilling to help all the time. She seems very unhappy with her role at this clinic. Her behaviour makes unwell people feel worse. Other staff members and Doctors are all exceptional and always willing to go extra mile to help their patients.",
+            "published_at": "a year ago",
+            "published_at_date": "2022-10-06T20:47:29.606000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 9,
+            "total_number_of_photos_by_reviewer": 9,
+            "reviewer_url": "https://www.google.com/maps/contrib/114705192363072198712/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWo1UI6sLmQu_Tbvw3nU5monw3IRHDoTYd8ETlWI_WNki8=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "To echo a lot of the other reviews, my doctor, Dr. Michelle Lin is fantastic. She is personable, relaxed and is dedicated to finding more than 1 solution to a problem. The issue is with the front desk staff. They exude no compassion or desire to be serving patients. They never make eye contact and speak among themselves (which is totally fine), but on several occasions, they have would cut me off or taken a phone call while I was speaking mid-sentence. I'm not sure whether they feel like they're not valued enough to provide a basic level of customer service, but the level of care between the doctors and receptionists are not comparable.",
+            "reviewer_name": "Karen Lee",
+            "rating": 3,
+            "review_text": "To echo a lot of the other reviews, my doctor, Dr. Michelle Lin is fantastic. She is personable, relaxed and is dedicated to finding more than 1 solution to a problem. The issue is with the front desk staff. They exude no compassion or desire to be serving patients. They never make eye contact and speak among themselves (which is totally fine), but on several occasions, they have would cut me off or taken a phone call while I was speaking mid-sentence. I'm not sure whether they feel like they're not valued enough to provide a basic level of customer service, but the level of care between the doctors and receptionists are not comparable.",
+            "published_at": "4 years ago",
+            "published_at_date": "2019-07-06T18:54:28.052000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 3,
+            "total_number_of_reviews_by_reviewer": 42,
+            "total_number_of_photos_by_reviewer": 16,
+            "reviewer_url": "https://www.google.com/maps/contrib/105111755106230344416/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXFHr5hvA-_6v7bxPXauCLwHlQx2T09_zK6xsLksux6SCw=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "I chose the Forward Care East Clinic for my mother in law as its close to where she lives, the doctor is caring (Dr Jeffrey Lau) and the reception staff is very efficient.\n\nPre-Covid, when my mother in law had some dizzy episodes on a Saturday, we call the office, they fit her in with another doctor in the office and follow up with a letter to Emergency.\n\nCurrently, they do either phone appointments or in office appointments and most times when we are in the phone appointment, if the doctor needs to see what is concerning (a rash, take blood pressure, etc.), they do their best to find time to let you come in, luckily for us it was within the same day.\n\nThey referred my mother in law for a geriatrician, and Dr Zhang is also located in the same office. Very efficient in communication and coordination. Before the Geriatrician appointment, the staff called us twice with reminders. I appreciate the calls and reminders.\n\nThe online booking is the only negative. We get email notification to book for flu shots, etc but our doctor was not set up, or won't allow on the booking site.  Most times it doesn't work, so best to call the office.",
+            "reviewer_name": "Sarah Wu",
+            "rating": 4,
+            "review_text": "I chose the Forward Care East Clinic for my mother in law as its close to where she lives, the doctor is caring (Dr Jeffrey Lau) and the reception staff is very efficient.\n\nPre-Covid, when my mother in law had some dizzy episodes on a Saturday, we call the office, they fit her in with another doctor in the office and follow up with a letter to Emergency.\n\nCurrently, they do either phone appointments or in office appointments and most times when we are in the phone appointment, if the doctor needs to see what is concerning (a rash, take blood pressure, etc.), they do their best to find time to let you come in, luckily for us it was within the same day.\n\nThey referred my mother in law for a geriatrician, and Dr Zhang is also located in the same office. Very efficient in communication and coordination. Before the Geriatrician appointment, the staff called us twice with reminders. I appreciate the calls and reminders.\n\nThe online booking is the only negative. We get email notification to book for flu shots, etc but our doctor was not set up, or won't allow on the booking site.  Most times it doesn't work, so best to call the office.",
+            "published_at": "2 years ago",
+            "published_at_date": "2021-11-30T21:50:48.979000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 3,
+            "total_number_of_reviews_by_reviewer": 250,
+            "total_number_of_photos_by_reviewer": 622,
+            "reviewer_url": "https://www.google.com/maps/contrib/107007682867230467331/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjX9rLcaBEhbHKrx7JE6e8fQDb-9N09EniKNdR8Du0ryJFw=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Dr Currie is great. I recently experienced a loss and was treated in the hospital. Upon getting the records in her office, she went out of her way to personally call me and make sure that I was doing okay mentally. Compared to my previous doctor, wait times aren't that bad. The front desk team are friendly and helpful.",
+            "reviewer_name": "Alisha Roberts",
+            "rating": 5,
+            "review_text": "Dr Currie is great. I recently experienced a loss and was treated in the hospital. Upon getting the records in her office, she went out of her way to personally call me and make sure that I was doing okay mentally. Compared to my previous doctor, wait times aren't that bad. The front desk team are friendly and helpful.",
+            "published_at": "5 years ago",
+            "published_at_date": "2018-08-23T17:14:04.536000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/106873590457207278521/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJKAiYpym3BQHH-6RUZG8WB-LAXIAtn6qGEj0mLTeJ3=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Had such a great experience with this office. We haven't even met the doctor yet but the receptionists were such a pleasure to interact with.  Went out of their way to try and find our forms and information, which may seem silly but with my previous negative experiences with front desk people, this was a nice change.\n\nOffice space is nice and the people are warm and friendly. So happy we found this office.",
+            "reviewer_name": "Christina C",
+            "rating": 5,
+            "review_text": "Had such a great experience with this office. We haven't even met the doctor yet but the receptionists were such a pleasure to interact with.  Went out of their way to try and find our forms and information, which may seem silly but with my previous negative experiences with front desk people, this was a nice change.\n\nOffice space is nice and the people are warm and friendly. So happy we found this office.",
+            "published_at": "4 years ago",
+            "published_at_date": "2019-09-01T02:38:48.746000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 22,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/108463434645926461943/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWynQIDxfjNP4y3FkOCp4BlcvhoBoTK5NqJtNiIucPknic=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "The family doctors at this clinic are exceptional! Hardworking, genuine and go the extra mile. Contrary to some of the other comments, I've had really positive experiences with the receptionists and MOAs. They've been really helpful at coordinating appointments and speedy at letting me know as soon as results come in.",
+            "reviewer_name": "Laura Roy",
+            "rating": 5,
+            "review_text": "The family doctors at this clinic are exceptional! Hardworking, genuine and go the extra mile. Contrary to some of the other comments, I've had really positive experiences with the receptionists and MOAs. They've been really helpful at coordinating appointments and speedy at letting me know as soon as results come in.",
+            "published_at": "6 years ago",
+            "published_at_date": "2017-09-22T17:49:32.350000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 21,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/108885391514565821620/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUuMM4VRnbN3H2VPXXqlXDQkkoqWSZ8GlAc5s49ML0E1Q=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

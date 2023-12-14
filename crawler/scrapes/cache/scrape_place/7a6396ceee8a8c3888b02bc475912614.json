@@ -1,0 +1,548 @@
+{
+    "place_id": "ChIJx7hcr8XYhVQRwjEcQ4_uUBc",
+    "name": "McDonald's",
+    "description": "Classic, long-running fast-food chain known for its burgers & fries.",
+    "reviews": 977,
+    "website": "https://www.mcdonalds.com/ca/en-ca/restaurant-locator.html%3Fy_source%3D1_MTQ1MTk0NTktNzE1LWxvY2F0aW9uLndlYnNpdGU%253D",
+    "owner": {
+        "id": "101355660752750030117",
+        "name": "McDonald's (Owner)",
+        "link": "https://www.google.com/maps/contrib/101355660752750030117"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMAVyWIuxZc_axjlxyJR1SX2BYxV-yYnDpDEp33=w426-h240-k-no",
+    "main_category": "Fast food restaurant",
+    "categories": [
+        "Fast food restaurant",
+        "American restaurant",
+        "Breakfast restaurant",
+        "Cafe",
+        "Hamburger restaurant",
+        "Restaurant"
+    ],
+    "rating": 3.4,
+    "workday_timing": "6 a.m.-10 p.m.",
+    "closed_on": [],
+    "phone": "(604) 718-1125",
+    "address": "McDonald's, 1285 Cliveden Ave, Delta, BC V3M 6C7",
+    "review_keywords": [
+        {
+            "keyword": "drive thru",
+            "count": 52
+        },
+        {
+            "keyword": "coffee",
+            "count": 33
+        },
+        {
+            "keyword": "manager",
+            "count": 19
+        },
+        {
+            "keyword": "morning",
+            "count": 15
+        },
+        {
+            "keyword": "bag",
+            "count": 7
+        },
+        {
+            "keyword": "driving",
+            "count": 6
+        },
+        {
+            "keyword": "wrap",
+            "count": 6
+        },
+        {
+            "keyword": "park",
+            "count": 5
+        },
+        {
+            "keyword": "hashbrown",
+            "count": 5
+        },
+        {
+            "keyword": "window",
+            "count": 5
+        }
+    ],
+    "link": "https://www.google.com/maps/place/McDonald%27s/data=!4m7!3m6!1s0x5485d8c5af5cb8c7:0x1750ee8f431c31c2!8m2!3d49.1702331!4d-122.9547915!16s%2Fg%2F1tyzypfz!19sChIJx7hcr8XYhVQRwjEcQ4_uUBc?authuser=0&hl=en&rclk=1",
+    "status": "Closes soon  10 p.m.  Opens 6 a.m. Sun",
+    "price_range": "$",
+    "reviews_per_rating": {
+        "1": 187,
+        "2": 81,
+        "3": 191,
+        "4": 238,
+        "5": 280
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJx7hcr8XYhVQRwjEcQ4_uUBc&q=McDonald%27s&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.1702331,
+        "longitude": -122.9547915
+    },
+    "plus_code": "52CW+33 Delta, British Columbia",
+    "detailed_address": {
+        "ward": null,
+        "street": "1285 Cliveden Ave",
+        "city": "Delta",
+        "postal_code": "V3M 6C7",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "1680104960082850242",
+    "data_id": "0x5485d8c5af5cb8c7:0x1750ee8f431c31c2",
+    "menu": {
+        "link": "https://www.mcdonalds.com/ca/en-ca/full-menu.html%3Fy_source%3D1_MTQ1MTk0NTktNzE1LWxvY2F0aW9uLm1lbnVfdXJs",
+        "source": "mcdonalds.com"
+    },
+    "reservations": [],
+    "order_online_links": [
+        {
+            "link": "https://www4.mcdonalds.ca/mcdeliverycanada/?y_source=1_MTQ1MTk0NTktNzE1LWxvY2F0aW9uLm9yZGVyX3VybA%3D%3D",
+            "source": "mcdonalds.ca"
+        },
+        {
+            "link": "https://www.ubereats.com/ca/store/mcdonalds-1285-cliveden-avenue/GipOxG--QTqC_GU-MX22Tw?utm_campaign=place-action-link&utm_medium=organic&utm_source=google",
+            "source": "ubereats.com"
+        },
+        {
+            "link": "https://www.skipthedishes.com/mcdonalds-cliveden-avenue?serviceType=delivery&utm_source=google&utm_medium=organic&utm_campaign=gpav2",
+            "source": "skipthedishes.com"
+        },
+        {
+            "link": "https://www.doordash.com/store/mcdonald%27s-delta-1140197/?utm_campaign=gpa",
+            "source": "doordash.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Outdoor seating",
+                    "enabled": true
+                },
+                {
+                    "name": "No-contact delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Drive-through",
+                    "enabled": true
+                },
+                {
+                    "name": "Takeout",
+                    "enabled": true
+                },
+                {
+                    "name": "Dine-in",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "highlights",
+            "name": "Highlights",
+            "options": [
+                {
+                    "name": "Fast service",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair accessible seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Coffee",
+                    "enabled": true
+                },
+                {
+                    "name": "Late-night food",
+                    "enabled": true
+                },
+                {
+                    "name": "Quick bite",
+                    "enabled": true
+                },
+                {
+                    "name": "Vegetarian options",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Dining options",
+            "options": [
+                {
+                    "name": "Breakfast",
+                    "enabled": true
+                },
+                {
+                    "name": "Lunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Dinner",
+                    "enabled": true
+                },
+                {
+                    "name": "Counter service",
+                    "enabled": true
+                },
+                {
+                    "name": "Dessert",
+                    "enabled": true
+                },
+                {
+                    "name": "Seating",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosphere",
+            "options": [
+                {
+                    "name": "Casual",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "crowd",
+            "name": "Crowd",
+            "options": [
+                {
+                    "name": "Family-friendly",
+                    "enabled": true
+                },
+                {
+                    "name": "Groups",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "children",
+            "name": "Children",
+            "options": [
+                {
+                    "name": "Good for kids",
+                    "enabled": true
+                },
+                {
+                    "name": "High chairs",
+                    "enabled": true
+                },
+                {
+                    "name": "Kids' menu",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMAVyWIuxZc_axjlxyJR1SX2BYxV-yYnDpDEp33=w529-h298-k-no"
+        },
+        {
+            "about": "Latest",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipND9-Q_OgPoKoLBlrOtYLWi_uTyGRNVHeBZWWo9=w224-h298-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNSbwa51Y5jTwVVGb2xlyyeSqbJm7oy9oQr5RcY=w355-h298-k-no"
+        },
+        {
+            "about": "Vibe",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMQjTQKv7gJQl1svbJwNaDwufg_natUPvHHxG6C=w529-h298-k-no"
+        },
+        {
+            "about": "Comfort food",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOxCXymEwOL7h86PFg1NECYGN40vM_BWgIeNEKO=w224-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMKYHgFl51lnPoYXi2GMy_KMUSuDjZt-JE3XxLP=w529-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=RdlKcD4elUrd2ReURupKUQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=19.44469&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "6 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "6 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "6 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "6 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "6 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "6 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "6 a.m.-10 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "I wanted to take a moment to share my heartfelt appreciation for the exceptional customer service I recently received at your McDonald's establishment, all thanks to the outstanding efforts of your employee, David.\n\nDuring my recent visit to your restaurant, I was pleasantly surprised by the level of service that David provided. From the moment I walked in, his welcoming greeting set a positive tone for my dining experience. Throughout my visit, David's attentiveness, courtesy, and professionalism were consistently on display, making my time at McDonald's truly enjoyable.\n\nIn an industry where exceptional customer service can make a significant difference, David's dedication to going above and beyond stood out. His polite and accommodating demeanor exemplified the kind of service that keeps customers coming back.\n\nI believe that employees like David are a valuable asset to your team, and they contribute significantly to the positive image of your establishment. Please extend my sincere thanks to him for his outstanding service and for making my visit memorable.\n\nI look forward to returning to your McDonald's location in the future, knowing that I can expect the same level of excellence in customer service.\n\nThank you for maintaining such high standards and for having exceptional employees like David.",
+            "reviewer_name": "Harris Ashraf",
+            "rating": 5,
+            "review_text": "I wanted to take a moment to share my heartfelt appreciation for the exceptional customer service I recently received at your McDonald's establishment, all thanks to the outstanding efforts of your employee, David.\n\nDuring my recent visit to your restaurant, I was pleasantly surprised by the level of service that David provided. From the moment I walked in, his welcoming greeting set a positive tone for my dining experience. Throughout my visit, David's attentiveness, courtesy, and professionalism were consistently on display, making my time at McDonald's truly enjoyable.\n\nIn an industry where exceptional customer service can make a significant difference, David's dedication to going above and beyond stood out. His polite and accommodating demeanor exemplified the kind of service that keeps customers coming back.\n\nI believe that employees like David are a valuable asset to your team, and they contribute significantly to the positive image of your establishment. Please extend my sincere thanks to him for his outstanding service and for making my visit memorable.\n\nI look forward to returning to your McDonald's location in the future, knowing that I can expect the same level of excellence in customer service.\n\nThank you for maintaining such high standards and for having exceptional employees like David.",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-28T19:14:09.269000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 12,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/105755951285304911415/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVidxr_qbJzYF7IgFCIlhvoXTxI7LpyXeO3HkoqGwulgVw=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Was making an order in self checkout and employee came up to me and said hurry up we close at 10pm. No straw given, have to pay for a paper bag, cold fries and possibly undercooked Jr chicken sandwich. Usually pretty lenient as mcdonalds is mcdonalds but this location is Terrible",
+            "reviewer_name": "Stuart",
+            "rating": 2,
+            "review_text": "Was making an order in self checkout and employee came up to me and said hurry up we close at 10pm. No straw given, have to pay for a paper bag, cold fries and possibly undercooked Jr chicken sandwich. Usually pretty lenient as mcdonalds is mcdonalds but this location is Terrible",
+            "published_at": "a week ago",
+            "published_at_date": "2023-11-23T06:29:30.012000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 74,
+            "total_number_of_photos_by_reviewer": 44,
+            "reviewer_url": "https://www.google.com/maps/contrib/110277555840670365219/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjURBNy2-c-RT6lpCup2wOB-dI9nuDcHLnpgpMxwFFfVSRc=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "L McDonald's how do y'all mess up this bad. It's a backwards burger",
+            "reviewer_name": "MrCody",
+            "rating": 1,
+            "review_text": "L McDonald's how do y'all mess up this bad. It's a backwards burger",
+            "published_at": "2 weeks ago",
+            "published_at_date": "2023-11-16T03:24:38.691000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 49,
+            "total_number_of_photos_by_reviewer": 9,
+            "reviewer_url": "https://www.google.com/maps/contrib/112254281289848470147/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIhrnmGjxP-9ZzlkhIoamOPgJoj5B2pfbNTcqCcaEtQ=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipND9-Q_OgPoKoLBlrOtYLWi_uTyGRNVHeBZWWo9=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "these are the most incompetent bunch of half wits I have ever seen. even when there is nobody in front of you or behind you in the drive through they will make you go park and wait for your food. it happens every time I go there. then if you go inside they give you a number and make you wait. all McDonalds locations used to be used to be quick, in and out in less than a minute. I don't know what they did to make service worse than ever before. we are supposed to get better and more proficient  as we do things but these clowns are lost altogether. I will never again go  to McDonalds. Wendy's is right next door I will go there from now on. I don't think the people there are quite as stupid but we will find out I guess.",
+            "reviewer_name": "grant rheaume",
+            "rating": 1,
+            "review_text": "these are the most incompetent bunch of half wits I have ever seen. even when there is nobody in front of you or behind you in the drive through they will make you go park and wait for your food. it happens every time I go there. then if you go inside they give you a number and make you wait. all McDonalds locations used to be used to be quick, in and out in less than a minute. I don't know what they did to make service worse than ever before. we are supposed to get better and more proficient  as we do things but these clowns are lost altogether. I will never again go  to McDonalds. Wendy's is right next door I will go there from now on. I don't think the people there are quite as stupid but we will find out I guess.",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-15T18:55:08.792000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 6,
+            "total_number_of_photos_by_reviewer": 4,
+            "reviewer_url": "https://www.google.com/maps/contrib/115946553492935655406/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJnKLk5a1ZDP_63QvD2PFek5ruBc0Qnt9eFBncx47H-=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "The place has gone downhill. I usually go there for breakfast before work and the other day witnessed an employee empty the discarded egg shell container and then make sandwiches without washing her hands! Surprisingly my food was cold because it took an extra 5 minutes to get my coffee!",
+            "reviewer_name": "Andy Jenkins",
+            "rating": 1,
+            "review_text": "The place has gone downhill. I usually go there for breakfast before work and the other day witnessed an employee empty the discarded egg shell container and then make sandwiches without washing her hands! Surprisingly my food was cold because it took an extra 5 minutes to get my coffee!",
+            "published_at": "a week ago",
+            "published_at_date": "2023-11-19T23:56:18.566000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 78,
+            "total_number_of_photos_by_reviewer": 5,
+            "reviewer_url": "https://www.google.com/maps/contrib/100134600677848304385/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW9tj4fPZOjBZRTHj9CEM4ojZvctD6lxzaVCzJ6IUj9Gko=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "I love this McDonald's!!  I'm a tow truck driver and so I have to eat on the fly.  This McDonald's is fast and efficient.  They always, always ask if I'm collecting points on the App which I love because I do.  Most other locations I frequent like Scottsdale or Newton never ask.  I'm addicted to their coffee Fraps. I usually buy at least 3 a day.  The store is always super clean. The staff there are super friendly and helpful especially the manager, Bal, who I often see helping out at the drive thru window.",
+            "reviewer_name": "Wylie Bowers",
+            "rating": 5,
+            "review_text": "I love this McDonald's!!  I'm a tow truck driver and so I have to eat on the fly.  This McDonald's is fast and efficient.  They always, always ask if I'm collecting points on the App which I love because I do.  Most other locations I frequent like Scottsdale or Newton never ask.  I'm addicted to their coffee Fraps. I usually buy at least 3 a day.  The store is always super clean. The staff there are super friendly and helpful especially the manager, Bal, who I often see helping out at the drive thru window.",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-30T05:47:53.693000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 5,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/110689286685536209152/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW7-Zt3GpQdW7exiEquCvJuNggGzT4fAabSHg_lZOacFrw=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "I generally use the drive thru. The food is what you expect from a McDonald's. I gave 4 stars for service because I almost always get asked to pull around to the side to wait for my order. I have spent 10 minutes at the side. I understand things happen but this is a regular occurrence.",
+            "reviewer_name": "Russ Gorsline",
+            "rating": 5,
+            "review_text": "I generally use the drive thru. The food is what you expect from a McDonald's. I gave 4 stars for service because I almost always get asked to pull around to the side to wait for my order. I have spent 10 minutes at the side. I understand things happen but this is a regular occurrence.",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-08T03:14:59.053000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 116,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/109036507050369187027/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUgwc8EYQEt1oY9RdpVRFP53C_Fg4hUKr5JkV8bjPjERA=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "5.20pm today Saturday Sept 2nd 2023. I did a mobile order for 2 cold drinks iced tea and coke zero. I reached the pickup counter than I realized I forgot to mentioned no ice on the drinks upon entering the drive-thru. I just realized when I was handed the drink that my wife and kids dont like ice on the drink.\nI asked the server to change my drink coz of the ice with a sorry and thank you. I was just so disgusted by the act of that server when she took the drink and started taking the ice out of the drink using the lids she pulled off the drinks. I think these new immigrants need to be educated about cleanliness and hygiene which is very important coz I noticed a lot of very unwanted and inhygiene  practice at fast food chains with these new immigrants working everywhere. I reach out to Mc Donalds to please look into this matter and keep our culture of cleanliness as it used to be when it comes to food",
+            "reviewer_name": "Rajneel Ram",
+            "rating": 1,
+            "review_text": "5.20pm today Saturday Sept 2nd 2023. I did a mobile order for 2 cold drinks iced tea and coke zero. I reached the pickup counter than I realized I forgot to mentioned no ice on the drinks upon entering the drive-thru. I just realized when I was handed the drink that my wife and kids dont like ice on the drink.\nI asked the server to change my drink coz of the ice with a sorry and thank you. I was just so disgusted by the act of that server when she took the drink and started taking the ice out of the drink using the lids she pulled off the drinks. I think these new immigrants need to be educated about cleanliness and hygiene which is very important coz I noticed a lot of very unwanted and inhygiene  practice at fast food chains with these new immigrants working everywhere. I reach out to Mc Donalds to please look into this matter and keep our culture of cleanliness as it used to be when it comes to food",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-09-03T01:08:52.163000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 7,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/110074336632432820989/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLE20y_SoBp3sQMjsT9HpeEU8D7x9WL8TiW55ZsAow9Jg=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

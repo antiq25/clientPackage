@@ -1,0 +1,587 @@
+{
+    "place_id": "ChIJd7pHyHtzhlQR9d68GQ7l70A",
+    "name": "McDonald's",
+    "description": "Classic, long-running fast-food chain known for its burgers & fries.",
+    "reviews": 2359,
+    "website": "https://www.mcdonalds.com/ca/en-ca/restaurant-locator.html%3Fy_source%3D1_MTQ1MTk1MTgtNzE1LWxvY2F0aW9uLndlYnNpdGU%253D",
+    "owner": {
+        "id": "108100434825326528017",
+        "name": "McDonald's (Owner)",
+        "link": "https://www.google.com/maps/contrib/108100434825326528017"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPlN8A4OMKv4n5Xa5OzWjlM1_Pgp9kYq4hAsTPO=w408-h306-k-no",
+    "main_category": "Fast food restaurant",
+    "categories": [
+        "Fast food restaurant",
+        "American restaurant",
+        "Breakfast restaurant",
+        "Cafe",
+        "Hamburger restaurant",
+        "Restaurant"
+    ],
+    "rating": 3.1,
+    "workday_timing": "Open 24 hours",
+    "closed_on": [],
+    "phone": "(604) 718-1055",
+    "address": "McDonald's, 2095 W 41st Ave, Vancouver, BC V6M 1Y7",
+    "review_keywords": [
+        {
+            "keyword": "drive thru",
+            "count": 143
+        },
+        {
+            "keyword": "parking",
+            "count": 39
+        },
+        {
+            "keyword": "renovation",
+            "count": 17
+        },
+        {
+            "keyword": "kiosk",
+            "count": 13
+        },
+        {
+            "keyword": "ketchup",
+            "count": 12
+        },
+        {
+            "keyword": "happy meal",
+            "count": 12
+        },
+        {
+            "keyword": "counter",
+            "count": 11
+        },
+        {
+            "keyword": "patio",
+            "count": 10
+        },
+        {
+            "keyword": "BLT",
+            "count": 6
+        },
+        {
+            "keyword": "high school",
+            "count": 5
+        }
+    ],
+    "link": "https://www.google.com/maps/place/McDonald%27s/data=!4m7!3m6!1s0x5486737bc847ba77:0x40efe50e19bcdef5!8m2!3d49.2348083!4d-123.1547561!16s%2Fg%2F1v9tzllc!19sChIJd7pHyHtzhlQR9d68GQ7l70A?authuser=0&hl=en&rclk=1",
+    "status": "Open 24 hours",
+    "price_range": "$",
+    "reviews_per_rating": {
+        "1": 612,
+        "2": 226,
+        "3": 426,
+        "4": 543,
+        "5": 552
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJd7pHyHtzhlQR9d68GQ7l70A&q=McDonald%27s&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.2348083,
+        "longitude": -123.1547561
+    },
+    "plus_code": "6RMW+W3 Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "West Side",
+        "street": "2095 W 41st Ave",
+        "city": "Vancouver",
+        "postal_code": "V6M 1Y7",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "4679210386585345781",
+    "data_id": "0x5486737bc847ba77:0x40efe50e19bcdef5",
+    "menu": {
+        "link": "https://www.mcdonalds.com/ca/en-ca/full-menu.html%3Fy_source%3D1_MTQ1MTk1MTgtNzE1LWxvY2F0aW9uLm1lbnVfdXJs",
+        "source": "mcdonalds.com"
+    },
+    "reservations": [],
+    "order_online_links": [
+        {
+            "link": "https://www4.mcdonalds.ca/mcdeliverycanada/?y_source=1_MTQ1MTk1MTgtNzE1LWxvY2F0aW9uLm9yZGVyX3VybA%3D%3D",
+            "source": "mcdonalds.ca"
+        },
+        {
+            "link": "https://www.ubereats.com/ca/store/mcdonalds-kerrisdale/2SR4DbWeTiKlaTYyNLjm5A?utm_campaign=place-action-link&utm_medium=organic&utm_source=google",
+            "source": "ubereats.com"
+        },
+        {
+            "link": "https://www.doordash.com/store/mcdonald%27s-vancouver-1139958/?utm_campaign=gpa",
+            "source": "doordash.com"
+        },
+        {
+            "link": "https://www.skipthedishes.com/mcdonalds-41st?serviceType=delivery&utm_source=google&utm_medium=organic&utm_campaign=gpav2",
+            "source": "skipthedishes.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "No-contact delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Drive-through",
+                    "enabled": true
+                },
+                {
+                    "name": "Takeout",
+                    "enabled": true
+                },
+                {
+                    "name": "Dine-in",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "highlights",
+            "name": "Highlights",
+            "options": [
+                {
+                    "name": "Fast service",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair accessible seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Coffee",
+                    "enabled": true
+                },
+                {
+                    "name": "Late-night food",
+                    "enabled": true
+                },
+                {
+                    "name": "Quick bite",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Dining options",
+            "options": [
+                {
+                    "name": "Breakfast",
+                    "enabled": true
+                },
+                {
+                    "name": "Lunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Dinner",
+                    "enabled": true
+                },
+                {
+                    "name": "Counter service",
+                    "enabled": true
+                },
+                {
+                    "name": "Dessert",
+                    "enabled": true
+                },
+                {
+                    "name": "Seating",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosphere",
+            "options": [
+                {
+                    "name": "Casual",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "crowd",
+            "name": "Crowd",
+            "options": [
+                {
+                    "name": "Family-friendly",
+                    "enabled": true
+                },
+                {
+                    "name": "Groups",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "children",
+            "name": "Children",
+            "options": [
+                {
+                    "name": "Good for kids",
+                    "enabled": true
+                },
+                {
+                    "name": "Good for kids birthday",
+                    "enabled": true
+                },
+                {
+                    "name": "High chairs",
+                    "enabled": true
+                },
+                {
+                    "name": "Kids' menu",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "parking",
+            "name": "Parking",
+            "options": [
+                {
+                    "name": "Free parking lot",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPlN8A4OMKv4n5Xa5OzWjlM1_Pgp9kYq4hAsTPO=w397-h298-k-no"
+        },
+        {
+            "about": "Latest",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOjnI-OnW3W3Xgrn_nDSvXBO7Tch8EUaHlk5b4_=w529-h298-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipO3BIdhPnd7t8jQFtMxHMuGPVdbBDpgVpPYQq4f=w224-h398-k-no"
+        },
+        {
+            "about": "Menu",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPMd8z-Btea3piCvI9OeiuVyrp53F0i3QFAq6zr=w224-h309-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipM_Mz5dB3wan8qBo_piDDSq_8h0HhUfFLh9Ms65=w224-h298-k-no"
+        },
+        {
+            "about": "Vibe",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipN1mtmIHhnD3Im6lhnUTaaagbaigiX5q-IxV8-G=w529-h298-k-no"
+        },
+        {
+            "about": "McMuffin",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOZ6xybBJzDUQPIC65qV3cB6shD39qxUd5IPwqw=w529-h298-k-no"
+        },
+        {
+            "about": "Comfort food",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMKYH5dwlPeiynNZ9Xf8OrSGuMx7CrtzkD_4JIt=w397-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOnRz04jxVXpfZVwEHGKdVH5NEHLzgS0R6crPwi=w298-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=4YQrTYWr3e1axw2AFWi0cQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=19.913916&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "Open 24 hours"
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "Open 24 hours"
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "Open 24 hours"
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "Open 24 hours"
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "Open 24 hours"
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "Open 24 hours"
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "Open 24 hours"
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "Impressively terrible. I came in at about 2:30 AM on a Tuesday and had to wait over half an hour for ONE junior chicken and medium fries. I've been to this location for over a decade and always try to give the benefit of the doubt but the fact you can get a well done steak from a 5 star restaurant before your order comes out is astonishing. \"Fast food\" more like wait in our sketchy parking lot for 45 minutes for 1 cheeseburger...",
+            "reviewer_name": "Hughie meikle",
+            "rating": 1,
+            "review_text": "Impressively terrible. I came in at about 2:30 AM on a Tuesday and had to wait over half an hour for ONE junior chicken and medium fries. I've been to this location for over a decade and always try to give the benefit of the doubt but the fact you can get a well done steak from a 5 star restaurant before your order comes out is astonishing. \"Fast food\" more like wait in our sketchy parking lot for 45 minutes for 1 cheeseburger...",
+            "published_at": "4 days ago",
+            "published_at_date": "2023-11-26T10:56:09.447000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 3,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/112678786135052412682/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXdIr0lb2MqG8w1xqf6Ipeh0I39oAVAnb7PF8OsUccCIQ=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "I paid $8 for this\n8-18-2023. I went for a coffee this morn. I ordered. Got to window and they repeated order got my coffee wrong. Took my money and i asked her going to fix my order. She straight up lied to me. Liar. Ive had it. Wont be back. There is no more ethic, honesty  cant trust anyone. All the foreigners they let in only a handful are honest , hard working people. The rest send them back where ever they came from.",
+            "reviewer_name": "Marshall Magsam",
+            "rating": 1,
+            "review_text": "I paid $8 for this\n8-18-2023. I went for a coffee this morn. I ordered. Got to window and they repeated order got my coffee wrong. Took my money and i asked her going to fix my order. She straight up lied to me. Liar. Ive had it. Wont be back. There is no more ethic, honesty  cant trust anyone. All the foreigners they let in only a handful are honest , hard working people. The rest send them back where ever they came from.",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-18T13:39:57.294000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 32,
+            "total_number_of_photos_by_reviewer": 3,
+            "reviewer_url": "https://www.google.com/maps/contrib/108111008028286560899/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUH9c_W0Qv7NrBV76XJas1YYY3CA9hMePbtmIdbr4c_a-w=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMctzyA2hrqq07yJpD0xKo1N0---GDJkuqP8UiR=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "This place is always HORRIBLY busy.  I chose to walk in but I regret, there were about 30 people starring at the order monitor but there were no order number at all.  After close to 40 minutes waiting for my 2 meals with 2 fries no salt, end up I got salt all over my hand and the food I got was cold.  Asked to change the hot fries with no salt and complained I had been waiting for my food over 30 mins.  The manager gave an attitude, \"it is not my problem, we were busy\", I said \"so is that my problem? you are the manager on duty and not responsible the human power?\"  She turned around and shout \"it's not my problem, give her something hot\".  I am patience enough to wait more than 30 mins for FAST FOOD and I deserve to receive this kind of \"Customer service\"????  The manager was trying to hide when I was taking her picture for evidence.  And other manager on duty was trying to cover her and asked me am I using human right.  There is nothing to do with human right but I was not treated right.  I brought it up to McDonald Headquarter about the incident I experienced at this location and asked for refund coz I threw them away.  The headquarter told me this restaurant manager would contact me within 10 business days but I never receive any phone call or email.  I received 2 meal coupons from Headquarter as a refund.  I will never ever come back again.  P.S. This restaurant is always full of garbage everywhere and no one was doing cleaning.",
+            "reviewer_name": "Yu Bet",
+            "rating": 1,
+            "review_text": "This place is always HORRIBLY busy.  I chose to walk in but I regret, there were about 30 people starring at the order monitor but there were no order number at all.  After close to 40 minutes waiting for my 2 meals with 2 fries no salt, end up I got salt all over my hand and the food I got was cold.  Asked to change the hot fries with no salt and complained I had been waiting for my food over 30 mins.  The manager gave an attitude, \"it is not my problem, we were busy\", I said \"so is that my problem? you are the manager on duty and not responsible the human power?\"  She turned around and shout \"it's not my problem, give her something hot\".  I am patience enough to wait more than 30 mins for FAST FOOD and I deserve to receive this kind of \"Customer service\"????  The manager was trying to hide when I was taking her picture for evidence.  And other manager on duty was trying to cover her and asked me am I using human right.  There is nothing to do with human right but I was not treated right.  I brought it up to McDonald Headquarter about the incident I experienced at this location and asked for refund coz I threw them away.  The headquarter told me this restaurant manager would contact me within 10 business days but I never receive any phone call or email.  I received 2 meal coupons from Headquarter as a refund.  I will never ever come back again.  P.S. This restaurant is always full of garbage everywhere and no one was doing cleaning.",
+            "published_at": "6 months ago",
+            "published_at_date": "2023-05-24T07:16:15.402000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 6,
+            "total_number_of_reviews_by_reviewer": 18,
+            "total_number_of_photos_by_reviewer": 7,
+            "reviewer_url": "https://www.google.com/maps/contrib/115550184497572627046/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocI6NVnq--iBnWC_HNZASgH8-SKnaJZn1S0lkx4PswI2=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNJ6G_y-h808e05vebOb3wAXlpDwPDKG3ndwzHB=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipP7xeU4MiMomobipfUChLOkaj8A6ZbHCCDvdIWX=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNryA9440JzbFUs5pxokx0Z_O5QUH2b5Wd4RA4b=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOp3s3u4le8ye0GxVGCn8mj7V-gOKSjV689YCE4=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Came about three times, and each time the counter was filled with angry customers.\nThis time we waited 25 minutes to get our order: one happy meal.\nIn the happy meal box we received a toy that was released in March 2022 when the store was actually advertising hot wheel toy in September 2023. The store sure did a good job at maintaining their inventory. I guess it's ok as long as the fries were not from March 2022.",
+            "reviewer_name": "Carol Liu",
+            "rating": 1,
+            "review_text": "Came about three times, and each time the counter was filled with angry customers.\nThis time we waited 25 minutes to get our order: one happy meal.\nIn the happy meal box we received a toy that was released in March 2022 when the store was actually advertising hot wheel toy in September 2023. The store sure did a good job at maintaining their inventory. I guess it's ok as long as the fries were not from March 2022.",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-09T05:52:04.056000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 15,
+            "total_number_of_photos_by_reviewer": 2,
+            "reviewer_url": "https://www.google.com/maps/contrib/100309976689106113953/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocL4lQb4TUqEKVvY2BBQzmM7A-S2-s0wgRUbYskuBwo9_A=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Nice location with spacious parking but take care if you walk from your parked car to the entrance as it intersects with cars moving in the drive through. Inside , they have very wide seating area but avoid being their at 3 to 4 pm as it will be so busy with students of point grey high school and waiting time is huge and many items will be not available.\nTotally closed today July 20th",
+            "reviewer_name": "Hassan Makhlouf",
+            "rating": 3,
+            "review_text": "Nice location with spacious parking but take care if you walk from your parked car to the entrance as it intersects with cars moving in the drive through. Inside , they have very wide seating area but avoid being their at 3 to 4 pm as it will be so busy with students of point grey high school and waiting time is huge and many items will be not available.\nTotally closed today July 20th",
+            "published_at": "a year ago",
+            "published_at_date": "2022-07-20T18:52:00.728000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 6,
+            "total_number_of_reviews_by_reviewer": 302,
+            "total_number_of_photos_by_reviewer": 3192,
+            "reviewer_url": "https://www.google.com/maps/contrib/108312958949180787242/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVCJTB4A8ZpVLTezmM6EvGaIb33M-TjyQsbfGcxQCV32Y4=s120-c-rp-mo-ba6-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipM4oy5mfO_bWRb7TZysAqW2UfCTqkblDai6vxIp=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNgXF6MzxMFWp_B-8WINmLAXeoB54cK_1NatilP=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMNcusAghZXQWQ5SgeL7-Go6T9A7_-RySY960Ku=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNBanK7Tomh5807f-7NCEU0_gRO6XzbSESTENae=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNrEtkRV4aeaf7J2SrdoIjlWx_F1FpAs4gVHCYZ=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipO_xgI9syr4wbWcs84ClINuXIuTALYw-Z7Dcljo=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOFJ7Hm3VIQA-NjsQCpjd2VMdmtIP13GImdQcw5=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPsICMIeG-V6dwvocU-eKgiTFh57aM51pLCg_BW=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOU9ObyDOs90GWaRdrdGYmmOpZnD_hOPBXfW90y=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMI3Qjkx8DG80HbNDEiz1uL2IcDXZzi0mZxG5c7=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipN8VpolVyHa5kyX-6k2GvnPPzQop3rJXuh3UWkt=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipN17-cN7FgA_-Aq1nqFeK7CKz9HHC9C-1NbOpsd=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNMEV_UBcWe7TVt5a0NoojG12mdEbzcoV6tfsVn=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "This McDonald's constantly screws up our orders.I usually go to the drive through, but today tried door dash, and this is what I received. It was flat, cold, and mostly tortilla. Such a disappointment.",
+            "reviewer_name": "Darion Williams",
+            "rating": 1,
+            "review_text": "This McDonald's constantly screws up our orders.I usually go to the drive through, but today tried door dash, and this is what I received. It was flat, cold, and mostly tortilla. Such a disappointment.",
+            "published_at": "6 months ago",
+            "published_at_date": "2023-05-28T17:12:00.827000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 31,
+            "total_number_of_photos_by_reviewer": 18,
+            "reviewer_url": "https://www.google.com/maps/contrib/115484265514813862692/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWjsjRmaMCdMxaMqC2RUmDrA6tBawQSTArxAD9_tyLgS7Q=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOzw3WXGJ2pabJAY_0fGaTcido0AypUNaCBLAHM=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "I worked here after high school during the 1980's for six years until Expo 86. Ah, the memories. Now I eat here and it's a totally different environment. The restaurant is smaller and the service isn't what it use to be. I had to wait 5 minutes before a crew noticed me standing at the counter. They have to look up often, not at their food station.\nThe drink station needs a wipe and the floors are sticky. The tables needs clearing and wiped. And floors swept of dropped fries. My whole time eating there not a single time a lot & lobby person checked.\nI'll still come back at another time to eat to check if there's any improvements.",
+            "reviewer_name": "Milton Jang",
+            "rating": 3,
+            "review_text": "I worked here after high school during the 1980's for six years until Expo 86. Ah, the memories. Now I eat here and it's a totally different environment. The restaurant is smaller and the service isn't what it use to be. I had to wait 5 minutes before a crew noticed me standing at the counter. They have to look up often, not at their food station.\nThe drink station needs a wipe and the floors are sticky. The tables needs clearing and wiped. And floors swept of dropped fries. My whole time eating there not a single time a lot & lobby person checked.\nI'll still come back at another time to eat to check if there's any improvements.",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-25T09:16:34.593000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 45,
+            "total_number_of_photos_by_reviewer": 40,
+            "reviewer_url": "https://www.google.com/maps/contrib/103693422029908049739/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXt5ysXyAkTsD40sAvvF_8quWmUuDfRlDFsFj21rsMQT2Dq=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Well this restaurant is a fraud, it's not 24./7 there always close from2,3am untill6am.they should take there 24/7sign down cause it is false advertising.hi don't know if there's penalty for false advertising. hi had to bang on the door, almost like a mad men to get staff attention.just to know what time they opened cause the sign say24/7but the doors is locked.Very rude and ingnorant staff . and I can go on and on enough for 1 post",
+            "reviewer_name": "Jean Francois Poirier",
+            "rating": 1,
+            "review_text": "Well this restaurant is a fraud, it's not 24./7 there always close from2,3am untill6am.they should take there 24/7sign down cause it is false advertising.hi don't know if there's penalty for false advertising. hi had to bang on the door, almost like a mad men to get staff attention.just to know what time they opened cause the sign say24/7but the doors is locked.Very rude and ingnorant staff . and I can go on and on enough for 1 post",
+            "published_at": "2 weeks ago",
+            "published_at_date": "2023-11-17T04:49:39.439000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 11,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/114660933719696113117/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocK4PUxCxPe57pluleviLfnRtPBbgVyLxh0sUQLUgevH=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

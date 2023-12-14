@@ -1,0 +1,582 @@
+{
+    "place_id": "ChIJu-Qe8ERxhlQRU5g9hZdQktQ",
+    "name": "Bacaro",
+    "description": null,
+    "reviews": 210,
+    "website": "http://www.bacarovancouver.com/",
+    "owner": {
+        "id": "113556794451025111587",
+        "name": "Bacaro (Owner)",
+        "link": "https://www.google.com/maps/contrib/113556794451025111587"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPmaHTzlF4TGI7JBVc3vt6g0xLdxzGH1wPt9WOF=w408-h700-k-no",
+    "main_category": "Venetian restaurant",
+    "categories": [
+        "Venetian restaurant"
+    ],
+    "rating": 4.3,
+    "workday_timing": "11 a.m.-10 p.m.",
+    "closed_on": [],
+    "phone": "(604) 687-9887",
+    "address": "Bacaro, 1029 W Cordova St, Vancouver, BC V6C 0B9",
+    "review_keywords": [
+        {
+            "keyword": "cocktails",
+            "count": 12
+        },
+        {
+            "keyword": "duck ragu",
+            "count": 10
+        },
+        {
+            "keyword": "michelin",
+            "count": 8
+        },
+        {
+            "keyword": "grilled",
+            "count": 8
+        },
+        {
+            "keyword": "tapas",
+            "count": 7
+        },
+        {
+            "keyword": "linguine",
+            "count": 7
+        },
+        {
+            "keyword": "donuts",
+            "count": 5
+        },
+        {
+            "keyword": "anchovy",
+            "count": 5
+        },
+        {
+            "keyword": "prawn",
+            "count": 5
+        },
+        {
+            "keyword": "hotel",
+            "count": 5
+        }
+    ],
+    "link": "https://www.google.com/maps/place/Bacaro/data=!4m7!3m6!1s0x54867144f01ee4bb:0xd4925097853d9853!8m2!3d49.2880077!4d-123.1166427!16s%2Fg%2F11q1xkkt3t!19sChIJu-Qe8ERxhlQRU5g9hZdQktQ?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 11 a.m.",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 14,
+        "2": 10,
+        "3": 15,
+        "4": 24,
+        "5": 147
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJu-Qe8ERxhlQRU5g9hZdQktQ&q=Bacaro&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.288007699999994,
+        "longitude": -123.1166427
+    },
+    "plus_code": "7VQM+68 Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "Central Vancouver",
+        "street": "1029 W Cordova St",
+        "city": "Vancouver",
+        "postal_code": "V6C 0B9",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "15317393894346168403",
+    "data_id": "0x54867144f01ee4bb:0xd4925097853d9853",
+    "menu": {
+        "link": "https://www.bacarovancouver.com/dinner",
+        "source": "bacarovancouver.com"
+    },
+    "reservations": [
+        {
+            "link": "https://www.exploretock.com/bacaro/%3Futm_source%3Dsearch%26utm_medium%3Dplace-actions%26utm_content%3Dreservations",
+            "source": "exploretock.com"
+        }
+    ],
+    "order_online_links": [
+        {
+            "link": "https://www.exploretock.com/bacaro/?utm_source=search&utm_medium=place-actions&utm_content=reservations",
+            "source": "exploretock.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Outdoor seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Takeout",
+                    "enabled": true
+                },
+                {
+                    "name": "Dine-in",
+                    "enabled": true
+                },
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair accessible seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Alcohol",
+                    "enabled": true
+                },
+                {
+                    "name": "Beer",
+                    "enabled": true
+                },
+                {
+                    "name": "Cocktails",
+                    "enabled": true
+                },
+                {
+                    "name": "Coffee",
+                    "enabled": true
+                },
+                {
+                    "name": "Hard liquor",
+                    "enabled": true
+                },
+                {
+                    "name": "Small plates",
+                    "enabled": true
+                },
+                {
+                    "name": "Vegetarian options",
+                    "enabled": true
+                },
+                {
+                    "name": "Wine",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Dining options",
+            "options": [
+                {
+                    "name": "Breakfast",
+                    "enabled": true
+                },
+                {
+                    "name": "Lunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Dinner",
+                    "enabled": true
+                },
+                {
+                    "name": "Dessert",
+                    "enabled": true
+                },
+                {
+                    "name": "Seating",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Bar on-site",
+                    "enabled": true
+                },
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosphere",
+            "options": [
+                {
+                    "name": "Cozy",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "crowd",
+            "name": "Crowd",
+            "options": [
+                {
+                    "name": "Groups",
+                    "enabled": true
+                },
+                {
+                    "name": "LGBTQ+ friendly",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planning",
+            "options": [
+                {
+                    "name": "Accepts reservations",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "children",
+            "name": "Children",
+            "options": [
+                {
+                    "name": "High chairs",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMvZPPejx8G3S2_MVeeZZ3nsT9ElLhr91ybMCdk=w224-h298-k-no"
+        },
+        {
+            "about": "Latest",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipM7wtoGosSdVqJqsVf5d7UJHaPAjLX04JvKyiu8=w224-h398-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMYeKOOS8VLBk0YMzuAZv2BY0RJVYF7B6nnOste=w224-h398-k-no"
+        },
+        {
+            "about": "Menu",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMBaa9fzmLK8D91MsxHXHU0sa7T3tY5Hw_kZOM1=w395-h298-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMpw7HU1yxFnoBmQAx49a2x_TEvQjUA1GZa7POE=w224-h298-k-no"
+        },
+        {
+            "about": "Vibe",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNuL2LxUKjm-EREMRQLHWQR8mSMzPK4dhi_D8oY=w529-h298-k-no"
+        },
+        {
+            "about": "Wine",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPDtz6iVhdn9E3bPcziaUkcFtBsYVExYxSp5OW8=w224-h336-k-no"
+        },
+        {
+            "about": "Rigatoni",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPEQOqGr3z5nc46dq-9DAqhwmmv0Cbm0J-4tLSn=w397-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Tvgb71lJD0YRFQWGo1Ifrw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=37.276585&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "11 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "11 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "11 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "11 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "11 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "11 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "11 a.m.-10 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "The salads and antipasto were all fantastic and savory. The scallop dish was especially noteworthy. The 43 ozs steak was cooked to perfection. The grilled carrots were sweet as were the potatoes. The only disappointment was the shrimp with linguine dish, the shrimp was half cooked with all three orders. However, the linguine with sufretto sauce was very tasty. The grilled sea bass was great, and I don't eat fish. Food rated at 4.3, service at 4.6. Sorry no pics of main dishes, too busy eating.",
+            "reviewer_name": "cathyman 1",
+            "rating": 4,
+            "review_text": "The salads and antipasto were all fantastic and savory. The scallop dish was especially noteworthy. The 43 ozs steak was cooked to perfection. The grilled carrots were sweet as were the potatoes. The only disappointment was the shrimp with linguine dish, the shrimp was half cooked with all three orders. However, the linguine with sufretto sauce was very tasty. The grilled sea bass was great, and I don't eat fish. Food rated at 4.3, service at 4.6. Sorry no pics of main dishes, too busy eating.",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-05T03:44:34.136000Z",
+            "response_from_owner_text": "Hello cathyman, We appreciate your positive feedback about your experience. We love taking care of our guests at Bacaro and hope to see you again soon!",
+            "response_from_owner_ago": "a month ago",
+            "response_from_owner_date": "2023-10-05T04:37:19.232000Z",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 348,
+            "total_number_of_photos_by_reviewer": 155,
+            "reviewer_url": "https://www.google.com/maps/contrib/107056383940278712978/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXmXFXmTL4inxWw5DsbQ4HZaW9J-fywH_z758C8W_GwUSw=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOkIlGRqwSopQbfI16JaR9Kn_KRF97sSqfSx55w=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPf6rX-N-6Xw5rNU_LdRzvXtuZKF1RJuI-IJQSX=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNcMJoRvdHOj7q_zzb5DR2IYvBno_Nl1WJGj6aQ=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipP_j9xjOQzPfv3DepTiDpkJMOa-2tT9sR9yWJkW=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "We opted for this Italian restaurant due to its intriguing menu, which goes beyond just pizza and pasta. However, making a reservation through Google Maps was not possible, as the dates and times were never available. We eventually booked directly from the restaurant's homepage, where we had to pay a $25 deposit per person. Surprisingly, the restaurant wasn't as busy as we initially anticipated, and it seemed like walking in without a deposit would have been fine. As for the food, it was generally good. We ordered a variety of dishes, including cured meat, cheese, pasta, and beef skewers, which were served in sampler-sized plates. The pasta had a chewy texture, while the salad served alongside the beef skewers lacked thoughtful presentation. The dessert doughnuts could use some improvement in terms of presentation, but they were deliciously chewy. The service was polite, although it felt a bit awkward. Overall, the experience was okay.",
+            "reviewer_name": "Hank T",
+            "rating": 4,
+            "review_text": "We opted for this Italian restaurant due to its intriguing menu, which goes beyond just pizza and pasta. However, making a reservation through Google Maps was not possible, as the dates and times were never available. We eventually booked directly from the restaurant's homepage, where we had to pay a $25 deposit per person. Surprisingly, the restaurant wasn't as busy as we initially anticipated, and it seemed like walking in without a deposit would have been fine. As for the food, it was generally good. We ordered a variety of dishes, including cured meat, cheese, pasta, and beef skewers, which were served in sampler-sized plates. The pasta had a chewy texture, while the salad served alongside the beef skewers lacked thoughtful presentation. The dessert doughnuts could use some improvement in terms of presentation, but they were deliciously chewy. The service was polite, although it felt a bit awkward. Overall, the experience was okay.",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-27T15:17:26.729000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 119,
+            "total_number_of_photos_by_reviewer": 58,
+            "reviewer_url": "https://www.google.com/maps/contrib/106702589624110909048/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVpHT4elNDKXMWCptg71_wrWY70StZKJoe7C3LrqPlBlsc=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPZNTot_kcRh1Cjw2TNMtBNROXqsewcIlHtqh2_=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMRjIZNPUfNrq4p1l4Ga11Bm3lD_swUEloO6h55=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPovLzq9xLYYghLSc6qDNUCVd-H4AGxdIcbjMus=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNpINwwJspD4FQJaQ2RpD66c374aocgngLBUivO=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipO3Kcnmvt8mdfNNRIX2mrHFGcVpqu_TKxHfQIIm=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNLFO7VPt60m-x9BajK4g90V43zchIvYyfsdzeO=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Great tasting food overall. Our group of 4 colleagues tried 4 different dishes and it did not disappoint at all. Our only comment is that the lunch portions are a bit small. Expect to spend about $30 to $40 per person (as of September 2023)",
+            "reviewer_name": "Timothy Chan (TimTim)",
+            "rating": 5,
+            "review_text": "Great tasting food overall. Our group of 4 colleagues tried 4 different dishes and it did not disappoint at all. Our only comment is that the lunch portions are a bit small. Expect to spend about $30 to $40 per person (as of September 2023)",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-23T00:48:36.232000Z",
+            "response_from_owner_text": "Hello Timothy, We appreciate your positive feedback about your experience. We love taking care of our guests at Bacaro and hope to see you again soon!",
+            "response_from_owner_ago": "2 months ago",
+            "response_from_owner_date": "2023-09-23T01:38:55.342000Z",
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 56,
+            "total_number_of_photos_by_reviewer": 166,
+            "reviewer_url": "https://www.google.com/maps/contrib/111309838005907806137/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUqRWCqmUvdPplC1yEXxkKRDEE210LAf1Pk3KEJjk2A83k=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipO4I13CRAwHaTuWXJ6IykMEvzv3CGNY77mEPCEF=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNK4Ng0cgCosro26vfpWt5RPGhJNLFPK6te8OQj=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNO58G2EzZ01K-esWmIFuAhf8sKiIo2XAUDjLEI=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMEuQCiZ68YssS_p4QoOKYEjNVw-8x-5Xr8L6Ey=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOrDJuerHiz_XIlbAF8ZCAzPvyRz-NAi3IU9A8A=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPkyorkCdbLVrHqb71KJxFmC63hcaEScjOlLeXv=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "We went for a girl's night at the restaurant. We had no idea what to expect. We ordered calamari, burrata, carpaccio, scallop ravioli, spot prawn spaghetti, mini donuts and a chocolate hazelnut dessert. Everything we had was really good.  The seafood was cooked perfectly!\n\nWe also ordered non alcoholic mocktails. One of the drinks tasted too much like vanilla so the bar tender came over and made a new drink for my friend.\n\nThe staff were very friendly and the atmosphere is good.",
+            "reviewer_name": "Anne Jo",
+            "rating": 5,
+            "review_text": "We went for a girl's night at the restaurant. We had no idea what to expect. We ordered calamari, burrata, carpaccio, scallop ravioli, spot prawn spaghetti, mini donuts and a chocolate hazelnut dessert. Everything we had was really good.  The seafood was cooked perfectly!\n\nWe also ordered non alcoholic mocktails. One of the drinks tasted too much like vanilla so the bar tender came over and made a new drink for my friend.\n\nThe staff were very friendly and the atmosphere is good.",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-26T17:16:05.686000Z",
+            "response_from_owner_text": "Hello Anne, \n\nWe love 5 star reviews! Thank you so much for taking the time to share your great experience. I have shared this with the team and they are delighted. Please join us again soon for another girls night!\n\nJesse Thompson\nBacaro\nGeneral Manager",
+            "response_from_owner_ago": "4 months ago",
+            "response_from_owner_date": "2023-07-26T23:52:47.465000Z",
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 230,
+            "total_number_of_photos_by_reviewer": 918,
+            "reviewer_url": "https://www.google.com/maps/contrib/104094683044615396768/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUl90GY_F2s47eXXNpHSAYq48JUXsK6FK5PUsi5A5aXB94A=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNZbozlNOH1hWNOinKaA6WMQlje_sDW_orbqYKN=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOXSDQImbubjBTWjjd3YFK1RI76nUfLN38TO3cW=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNEyxUFFPTqR3HAPmYqL1E_07fOkmE6UuFcSpfW=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMfjp8M5d-_zQW1p3fun5EgqvhssVak4FKz16Ke=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNGblkrn02c-Iqlw8dDruarnAyL07ekG_y7HVPU=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNTX84THrxfzBQT7vv9ajjnaOSiyZh9pQnHpzb6=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipO6NScazgux5i7m0B_qneXclfMDuN65Ox2pcBDk=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNBcNUjKjdow0YoBAOlfpYd_9ia7XqKLfQs_A0B=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPQD4-HnEJraB10RiZQlNf3RteqUhtjxbHQ-ip6=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "I had a fantastic dining experience at Bacaro! This modern Italian restaurant captures the essence of Venetian bacaros beautifully by letting simple ingredients shine in the most delicious ways. The dishes I tried, like the charred octopus and the lightly spiced duck ragu, and the linguine ai gamberi were all exceptional, but what truly stood out was Chef Charlie's talent and care. His culinary skills shone through in every bite, making this meal unforgettable. Highly recommended!",
+            "reviewer_name": "Afkar Fazil",
+            "rating": 5,
+            "review_text": "I had a fantastic dining experience at Bacaro! This modern Italian restaurant captures the essence of Venetian bacaros beautifully by letting simple ingredients shine in the most delicious ways. The dishes I tried, like the charred octopus and the lightly spiced duck ragu, and the linguine ai gamberi were all exceptional, but what truly stood out was Chef Charlie's talent and care. His culinary skills shone through in every bite, making this meal unforgettable. Highly recommended!",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-25T16:45:25.581000Z",
+            "response_from_owner_text": "Hi Afkar, Thank you for you for visiting us at Bacaro and for your kind words!",
+            "response_from_owner_ago": "2 months ago",
+            "response_from_owner_date": "2023-09-25T07:39:30.897000Z",
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 9,
+            "total_number_of_photos_by_reviewer": 6,
+            "reviewer_url": "https://www.google.com/maps/contrib/104772544838368048283/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXfNB_3cxTJVDrMXBmpvDc2NlX0uo1DFcHrMWviFKsc7_1u=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPampPomXdzVOCRnBycsHpzAlhAnDFmicO-40x8=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipO76rxeU2D2kpqHbtiInoPEoYHwkwLHJjz4cw0I=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPDknBg59ISLDMKL2moy1632kF8hHYD9wULiM3q=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNLI1-Kpkbeoi_979sdeQkCF5dnJuZqMLUKK4jz=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipP_aeqgdf3x-pJp5YKA1m0-BhH4stOms6vBJb13=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "The place is great, good ambience during the day, service is top notch, the waiter prepared for us extras that weren't accessible. The regatoni is a solid 8/10 and the tiramisu was definitly a  8.5/10 compared to italy. Overall it's a good italian experience in a great location.",
+            "reviewer_name": "AHMAD KAD",
+            "rating": 5,
+            "review_text": "The place is great, good ambience during the day, service is top notch, the waiter prepared for us extras that weren't accessible. The regatoni is a solid 8/10 and the tiramisu was definitly a  8.5/10 compared to italy. Overall it's a good italian experience in a great location.",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-11T17:04:17.559000Z",
+            "response_from_owner_text": "Hi AHMAD, Thank you for you for visiting us at Bacaro and for your kind words!",
+            "response_from_owner_ago": "2 months ago",
+            "response_from_owner_date": "2023-09-11T16:46:57.470000Z",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 22,
+            "total_number_of_photos_by_reviewer": 6,
+            "reviewer_url": "https://www.google.com/maps/contrib/103473925578957103848/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjU1gUqWGzHjIXTPPiPkemkXS1spZuncGwXDb5Se7XIXuFo=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOEtRYOCJSje4jUjOpwKjp3ucS01PXv7-WdRUqC=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Found this gem of a tapas/Mediterranean resto while browsing Michelin's recommended list for Vancouver. Then later stumbled by it late at 9pm and stopped in and glad we did.\n\nIt's attached to a hotel sort of but under completely different ownership. Service was even better than the solid food. The one cocktail we ordered was good but they make it in house ahead of time and bottle it, so not my ideal drink but still was very good.\n\nHave a small patio that is awesome and inside decor is nice too. Very fair prices so a good value for a nice do inexperience. Hopefully we will be visiting Vancouver again soon.",
+            "reviewer_name": "Scott Griest",
+            "rating": 5,
+            "review_text": "Found this gem of a tapas/Mediterranean resto while browsing Michelin's recommended list for Vancouver. Then later stumbled by it late at 9pm and stopped in and glad we did.\n\nIt's attached to a hotel sort of but under completely different ownership. Service was even better than the solid food. The one cocktail we ordered was good but they make it in house ahead of time and bottle it, so not my ideal drink but still was very good.\n\nHave a small patio that is awesome and inside decor is nice too. Very fair prices so a good value for a nice do inexperience. Hopefully we will be visiting Vancouver again soon.",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-02T04:39:16.483000Z",
+            "response_from_owner_text": "Hi Scott, Thank you for you for visiting us at Bacaro and for your kind words!",
+            "response_from_owner_ago": "3 months ago",
+            "response_from_owner_date": "2023-08-12T18:40:09.430000Z",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 120,
+            "total_number_of_photos_by_reviewer": 209,
+            "reviewer_url": "https://www.google.com/maps/contrib/105080019120670566639/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXqBnujDR2XXaWx1gu8zdvacQRHGmhuSUejFbgglyLkGw=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipO4qgmLw8v9UB7x3ZUmJ7rrNCkbC5Vrj6xaXxXT=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNfwyTJ9B_hs7qXzY1nnjzLcdY7V8FRh16XXJeb=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "We were celebrating our 9th month anniversary there, food was amazing! I love the branzino dish. I'll recommend it to friends.",
+            "reviewer_name": "Sugartapes",
+            "rating": 5,
+            "review_text": "We were celebrating our 9th month anniversary there, food was amazing! I love the branzino dish. I'll recommend it to friends.",
+            "published_at": "a week ago",
+            "published_at_date": "2023-11-24T06:01:11.651000Z",
+            "response_from_owner_text": "Hello Sugartapes, We appreciate your positive feedback about your experience. We love taking care of our guests at Bacaro and hope to see you again soon!",
+            "response_from_owner_ago": "a week ago",
+            "response_from_owner_date": "2023-11-24T07:39:55.289000Z",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 27,
+            "total_number_of_photos_by_reviewer": 109,
+            "reviewer_url": "https://www.google.com/maps/contrib/103177602327999812434/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjX1ko5NPWLYvCdEZOzLAXWXkXHF3na-6muUj2LtBmb6PpY=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOlXdHhjpSEdftsvQqTg5kgj0MFowuGT3Q1hZnl=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNPqbHtp8UnbhvK7WUX24cGwLVpL8OzvMHbtj0S=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipM7wtoGosSdVqJqsVf5d7UJHaPAjLX04JvKyiu8=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOycjHW9ZzzoZ38OQB8PYZQyONOW1D-ml24TiWh=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNwTh3I1GBv_lnxChvfIe4F4-4kzMHbKd5Ozp1X=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNqu9wPkXJfNyD862Xl5arhTmSHxJf9-z0QPrSm=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPIABaA8nZPa3CXQTtey0jNNPtazEYD-M6MtE4n=w150-h150-k-no-p"
+            ]
+        }
+    ],
+    "is_spending_on_ads": false
+}

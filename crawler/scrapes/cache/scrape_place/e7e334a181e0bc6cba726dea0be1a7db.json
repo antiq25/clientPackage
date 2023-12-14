@@ -1,0 +1,586 @@
+{
+    "place_id": "ChIJ2etXuj11hlQR-4LbFPZ7S04",
+    "name": "Fat Boy Kitchen",
+    "description": null,
+    "reviews": 313,
+    "website": null,
+    "owner": {
+        "id": "104460746131154072993",
+        "name": "Fat Boy Kitchen (Owner)",
+        "link": "https://www.google.com/maps/contrib/104460746131154072993"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMgW39yGWy4zJMe9GlyBqWpnJC8pUIlfzbCE0yW=w408-h306-k-no",
+    "main_category": "Hong Kong style fast food restaurant",
+    "categories": [
+        "Hong Kong style fast food restaurant",
+        "Asian fusion restaurant"
+    ],
+    "rating": 4.5,
+    "workday_timing": "9 a.m.-6 p.m.",
+    "closed_on": [],
+    "phone": "(604) 321-8006",
+    "address": "Fat Boy Kitchen, 6943 Victoria Dr, Vancouver, BC V5P 3Y7",
+    "review_keywords": [
+        {
+            "keyword": "cafe",
+            "count": 29
+        },
+        {
+            "keyword": "laksa",
+            "count": 23
+        },
+        {
+            "keyword": "fries",
+            "count": 11
+        },
+        {
+            "keyword": "plastic",
+            "count": 8
+        },
+        {
+            "keyword": "cutlery",
+            "count": 7
+        },
+        {
+            "keyword": "parking",
+            "count": 7
+        },
+        {
+            "keyword": "disposable",
+            "count": 6
+        },
+        {
+            "keyword": "chicken nuggets",
+            "count": 6
+        },
+        {
+            "keyword": "pork chop bun",
+            "count": 6
+        },
+        {
+            "keyword": "taiwanese chicken",
+            "count": 5
+        }
+    ],
+    "link": "https://www.google.com/maps/place/Fat+Boy+Kitchen/data=!4m7!3m6!1s0x5486753dba57ebd9:0x4e4b7bf614db82fb!8m2!3d49.2209844!4d-123.0660437!16s%2Fg%2F11hfj976yk!19sChIJ2etXuj11hlQR-4LbFPZ7S04?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 9 a.m.",
+    "price_range": "$",
+    "reviews_per_rating": {
+        "1": 5,
+        "2": 7,
+        "3": 29,
+        "4": 43,
+        "5": 229
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ2etXuj11hlQR-4LbFPZ7S04&q=Fat+Boy+Kitchen&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.2209844,
+        "longitude": -123.0660437
+    },
+    "plus_code": "6WCM+9H Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "South Vancouver",
+        "street": "6943 Victoria Dr",
+        "city": "Vancouver",
+        "postal_code": "V5P 3Y7",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "5641739255053779707",
+    "data_id": "0x5486753dba57ebd9:0x4e4b7bf614db82fb",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Takeout",
+                    "enabled": true
+                },
+                {
+                    "name": "Dine-in",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Assistive hearing loop",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Coffee",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Dining options",
+            "options": [
+                {
+                    "name": "Breakfast",
+                    "enabled": true
+                },
+                {
+                    "name": "Brunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Lunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Dinner",
+                    "enabled": true
+                },
+                {
+                    "name": "Dessert",
+                    "enabled": true
+                },
+                {
+                    "name": "Seating",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                },
+                {
+                    "name": "Wi-Fi",
+                    "enabled": true
+                },
+                {
+                    "name": "Wi-Fi",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosphere",
+            "options": [
+                {
+                    "name": "Casual",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "crowd",
+            "name": "Crowd",
+            "options": [
+                {
+                    "name": "Groups",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planning",
+            "options": [
+                {
+                    "name": "Accepts reservations",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "children",
+            "name": "Children",
+            "options": [
+                {
+                    "name": "Good for kids",
+                    "enabled": true
+                },
+                {
+                    "name": "High chairs",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "parking",
+            "name": "Parking",
+            "options": [
+                {
+                    "name": "Free street parking",
+                    "enabled": true
+                },
+                {
+                    "name": "Parking",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMgW39yGWy4zJMe9GlyBqWpnJC8pUIlfzbCE0yW=w397-h298-k-no"
+        },
+        {
+            "about": "Latest",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipP_Y5WVo_Z1g4N7NqgQKgnGKHOJIpnW0pSAtWM=w224-h298-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipN4UtCXH3wSkpgWZIlwiM4dwQCv_MJXvz0Aueku=w224-h398-k-no"
+        },
+        {
+            "about": "Menu",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipN3QONq3XIilwL5K5Q1pKFRLPTMhZwXtQxroZz7=w397-h298-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNmNl1GZAmQryp_gNLFFKCRAkQ3IkbhdNxi7I7E=w529-h298-k-no"
+        },
+        {
+            "about": "Vibe",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPf070RBtqTxrvkW3s5QQUYwz8NWdpR5E3zYEck=w397-h298-k-no"
+        },
+        {
+            "about": "Take-out",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPaH85A8VHcjlemNmY_e5aQCg7uQM-mf016-ukY=w529-h298-k-no"
+        },
+        {
+            "about": "Laksa",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPG_D__OYrY88qOhuccIq4rBdDZVN9N-PQdkJ3Q=w529-h298-k-no"
+        },
+        {
+            "about": "Baked beans",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNdVxIYF6ssJvv3ajXkUcm1roZ7t3__D2ZvoQed=w278-h298-k-no"
+        },
+        {
+            "about": "Chicken sandwich",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOb8g2RV8iqv189doas75_L58FDKWy7D_6nV_-Y=w224-h298-k-no"
+        },
+        {
+            "about": "Egg sandwich",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNB8D3DLwI3RaPTa2TWTr-KKAn6aMJEefN4VRzo=w397-h298-k-no"
+        },
+        {
+            "about": "Soup",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNl5n6Ltmq8DFcHRElwmAboiAvQzysgB6o6TJ4S=w256-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOB9znQyI8jhC-maD38d0CPX0A3DWSnijaBLXMo=w639-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=AIGzOP1k-wv1xuvTQQpVlA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=247.76392&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "9 a.m.-6 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "9 a.m.-6 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "9 a.m.-6 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "9 a.m.-6 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "9 a.m.-6 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "9 a.m.-3 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "9 a.m.-3 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "Food is decent, and common restaurant food you would normally find in Hong Kong. The staff is quite friendly even though the restaurant is packed, you almost always need to wait 10 to 30 minutes to get a table. So what makes this attractive to so many people?\n\nThe size is way more than generous, especially for today's economy in 2023. Be prepared to bring a takeaway box (unless you don't mind paying 50 cents for a paper box from the restaurant). One final note: the default tips amount is less than 15%, which is something you don't see anymore in today's Vancouver.",
+            "reviewer_name": "OriginEarth",
+            "rating": 5,
+            "review_text": "Food is decent, and common restaurant food you would normally find in Hong Kong. The staff is quite friendly even though the restaurant is packed, you almost always need to wait 10 to 30 minutes to get a table. So what makes this attractive to so many people?\n\nThe size is way more than generous, especially for today's economy in 2023. Be prepared to bring a takeaway box (unless you don't mind paying 50 cents for a paper box from the restaurant). One final note: the default tips amount is less than 15%, which is something you don't see anymore in today's Vancouver.",
+            "published_at": "2 weeks ago",
+            "published_at_date": "2023-11-12T03:21:28.966000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 93,
+            "total_number_of_photos_by_reviewer": 8,
+            "reviewer_url": "https://www.google.com/maps/contrib/113120573695922165012/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIbZRiDKMxJOY9e72_rX2vluLwR919T3omlcBZAUDE=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipO6RD3PvC0YNg5bbQpwjHKudhxKEDA31FXk8Uk=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "I will make this review straight to the point. As this restaurant already has a good track record via other reviews, I think this place is more mediocre compared to other HongKong style kitchens. Why, you may ask? Well, the main reason was because there was nothing special about it. The only thing that sparked my interest was the pork chop sandwich, which didn't get me wrong, tasted good, but everything else (excluding customer service) was lacking. From the food to the seating (which I mind you are half car seats half regular chairs) limited my comfort during my eating experience.\n\nThe meal I had was the problem chop sandwich, although good, lacked balance between freshness and saltiness. All you can realistically taste are the savory flavors of the marinated porkchop (and baking soda, which makes it tender) the mayo and a bit of the onions. On top of that, the sandwich came with a big bed of fries, which adds onto the savory oily pork chop. Also, the Hong Kong style milk tea tastes the same as any other H.K Cafe within Metro Vancouver.\n\nMy friends' satay noodles were plain and full of msg (like the majority), nothing really special at all. The breakfast meal is decent in terms of taste but is a bang for your buck. You get to try multiple items for a decent price. Comes with a drink also. Again, nothing surprising compared to any other H.K style Cafe.\n\nTo leave this mediocre review with a high note, the customer service was nice. The waitress noticed my fries were missing and quickly asked the chef to cook the fries fresh for me and apologized. In my opinion, it's not a big gripe, which is why I would give this place a solid 3 stars. I would recommend giving this place a try for most, but it can be a hit or miss (depending on what you order)",
+            "reviewer_name": "Grim Eater",
+            "rating": 3,
+            "review_text": "I will make this review straight to the point. As this restaurant already has a good track record via other reviews, I think this place is more mediocre compared to other HongKong style kitchens. Why, you may ask? Well, the main reason was because there was nothing special about it. The only thing that sparked my interest was the pork chop sandwich, which didn't get me wrong, tasted good, but everything else (excluding customer service) was lacking. From the food to the seating (which I mind you are half car seats half regular chairs) limited my comfort during my eating experience.\n\nThe meal I had was the problem chop sandwich, although good, lacked balance between freshness and saltiness. All you can realistically taste are the savory flavors of the marinated porkchop (and baking soda, which makes it tender) the mayo and a bit of the onions. On top of that, the sandwich came with a big bed of fries, which adds onto the savory oily pork chop. Also, the Hong Kong style milk tea tastes the same as any other H.K Cafe within Metro Vancouver.\n\nMy friends' satay noodles were plain and full of msg (like the majority), nothing really special at all. The breakfast meal is decent in terms of taste but is a bang for your buck. You get to try multiple items for a decent price. Comes with a drink also. Again, nothing surprising compared to any other H.K style Cafe.\n\nTo leave this mediocre review with a high note, the customer service was nice. The waitress noticed my fries were missing and quickly asked the chef to cook the fries fresh for me and apologized. In my opinion, it's not a big gripe, which is why I would give this place a solid 3 stars. I would recommend giving this place a try for most, but it can be a hit or miss (depending on what you order)",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-22T09:16:54.838000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 4,
+            "total_number_of_reviews_by_reviewer": 30,
+            "total_number_of_photos_by_reviewer": 190,
+            "reviewer_url": "https://www.google.com/maps/contrib/101241487355327082543/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVg7J3_17Nv8ClEdvvdAZ10sOemwYZ_esHoNiHeLvKKXw=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOb8g2RV8iqv189doas75_L58FDKWy7D_6nV_-Y=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNl5n6Ltmq8DFcHRElwmAboiAvQzysgB6o6TJ4S=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOozGyhpxQ9q2FYwF9CzziJaV2Bklo-mAmSpzo_=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipM-3uBNhL9U-c6lXeB1gAwOR8gV1CRjKrdzffG0=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipN6QMps3SigE4uEv-fE2sR8c5_GzyE5YG_3BZqZ=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipP5y5MpbH4lpZF9uCbXpfRQLX4byznA9VSqxjrl=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Food and portions are really good! Prices are reasonable for what you get. I am a big guy and I had to pack some of the food home.",
+            "reviewer_name": "M Y (Dragonfire76)",
+            "rating": 5,
+            "review_text": "Food and portions are really good! Prices are reasonable for what you get. I am a big guy and I had to pack some of the food home.",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-22T18:32:10.780000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 48,
+            "total_number_of_photos_by_reviewer": 17,
+            "reviewer_url": "https://www.google.com/maps/contrib/111119552821732235869/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocL3AgDwC1amAtZAYzamR77x2REk2GU2KTL67I4Uce8p=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipP4xraHjEziPZYJo7LNPCsT3jzRwWxz63Wv1tBf=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMoJtZ1kcBcqfcvkJQUhYhdSYYuzfHOSBO82cc1=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipO9yTnRVMcSBsse2ZLxDIGhhOqfdJHRwSDdfhq6=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipP0EoebT_-fgrJ969JCTQgf7XdCjojQqvRQdv-V=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOHLUGmsO_JvC54k-fLm2MAVEyqCBsRrIzTsysx=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPKFPo8-F-olHGoCRmMb1zsnNkQIR5bwAk2Kn0h=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Very unassuming restaurant with clean interior.\n\nBIG portion, and fairly priced it's the definite stand-out. We got the Laksa with grilled chicken and fish fillet with creamy sauce and spaghetti both are incredibly delicious and filling.\n\nThe cold drinks (milk tea and lemon tea) are typical run of the mill drinks, tasty and not too sweet.",
+            "reviewer_name": "My Diep",
+            "rating": 5,
+            "review_text": "Very unassuming restaurant with clean interior.\n\nBIG portion, and fairly priced it's the definite stand-out. We got the Laksa with grilled chicken and fish fillet with creamy sauce and spaghetti both are incredibly delicious and filling.\n\nThe cold drinks (milk tea and lemon tea) are typical run of the mill drinks, tasty and not too sweet.",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-10T23:24:51.815000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 14,
+            "total_number_of_photos_by_reviewer": 6,
+            "reviewer_url": "https://www.google.com/maps/contrib/109541212038665726714/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJEIjIXpwzYXpZBgK8YJxXydqQEL-R01puTzLttTVek=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPG_D__OYrY88qOhuccIq4rBdDZVN9N-PQdkJ3Q=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOqEPzS1FV_7fqALN8iGpLi9bv25P7hlyprfith=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Gold star to the chef at the grill. The meats here are always executed to technical perfection: juicy and tender with crispy but not greasy skin.\n\nGiven this is a small restaurant with only 9 tables, I'm impressed by the diversity and quality of the food. Furthermore impressed that most meals are at the $10 and $15 price points.\n\nBeef and mushroom sandwich: Was eclipsed by the fries, which were prepared my favourite way, with batter and crispy. The sandwich was nice too, lots of beef, tender and cooked medium rare the way I like. Only complaint was that there was some cartilage in the meat, which I had to cut out.\n\nPanko-fried pork chops: Again, lots of meat, two chops, which were tender, juicy, and just gently seasoned, the way I like.\n\nChicken rice noodle soup had a perfectly  grilled boneless chicken thigh with crispy skin.\n\nMixed grill: All meats grilled to textural perfection. Enough food for 2 people. Onion gravy good with fries.\n\nService excellent, attentive, friendly, with a personal touch.",
+            "reviewer_name": "W",
+            "rating": 5,
+            "review_text": "Gold star to the chef at the grill. The meats here are always executed to technical perfection: juicy and tender with crispy but not greasy skin.\n\nGiven this is a small restaurant with only 9 tables, I'm impressed by the diversity and quality of the food. Furthermore impressed that most meals are at the $10 and $15 price points.\n\nBeef and mushroom sandwich: Was eclipsed by the fries, which were prepared my favourite way, with batter and crispy. The sandwich was nice too, lots of beef, tender and cooked medium rare the way I like. Only complaint was that there was some cartilage in the meat, which I had to cut out.\n\nPanko-fried pork chops: Again, lots of meat, two chops, which were tender, juicy, and just gently seasoned, the way I like.\n\nChicken rice noodle soup had a perfectly  grilled boneless chicken thigh with crispy skin.\n\nMixed grill: All meats grilled to textural perfection. Enough food for 2 people. Onion gravy good with fries.\n\nService excellent, attentive, friendly, with a personal touch.",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-30T00:50:07.529000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 6,
+            "total_number_of_reviews_by_reviewer": 742,
+            "total_number_of_photos_by_reviewer": 1373,
+            "reviewer_url": "https://www.google.com/maps/contrib/115382147171144095309/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWCq-wJ1VDCKhF7kk0rMlRGiHVNOOB6d2bgEdlgHl_2qsw=s120-c-rp-mo-ba6-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPRK5G78_dsj9XDCX9aFO85kFX5F3eHFTBeISe8=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPMorqSx-LiGNY_7GzYgISwlHjzuN9P3McsCvd_=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPoYl1ar5L_WmhpO6g9skueJtxV-HH405x1cMwd=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipODfDYdEdBPq5NTqvymG0l2vnrDewQ6BolsFjf4=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMYXcGjqbuVVgDuWVRFRcxOoaONLUvLIOCudRE0=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "All Day Breakfast is my favorite!  Big portion!  There are two pieces of pork chop in the bun.  Very delicious.  Authentic Hong Kong taste.",
+            "reviewer_name": "Wai Wai Wong",
+            "rating": 5,
+            "review_text": "All Day Breakfast is my favorite!  Big portion!  There are two pieces of pork chop in the bun.  Very delicious.  Authentic Hong Kong taste.",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-16T20:59:02.121000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 125,
+            "total_number_of_photos_by_reviewer": 407,
+            "reviewer_url": "https://www.google.com/maps/contrib/101885004153462874577/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJCqgSYYrl5ivJJzB5NcewNhZioTgzygHoomxtIig3p=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMKjXYi0YqwYBMmZjjn6Dj3VnTD8XHI_7Atefow=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPBgI9wkuQmrnMwNz7G2dSWTqglPIMWNcNPxUYR=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "The portion is big and the crispy bun is a must-try item. Laksa is quite good and could be even better if the coconut flavor is stronger. The portion of pork chop with rice is HUGE and good for sharing. Service is excellent and the owner may walk around and check with each customer on seeking their feedback during the off-peak session. Definitely one of the best value for money restaurant in town.",
+            "reviewer_name": "Little Journey",
+            "rating": 5,
+            "review_text": "The portion is big and the crispy bun is a must-try item. Laksa is quite good and could be even better if the coconut flavor is stronger. The portion of pork chop with rice is HUGE and good for sharing. Service is excellent and the owner may walk around and check with each customer on seeking their feedback during the off-peak session. Definitely one of the best value for money restaurant in town.",
+            "published_at": "5 months ago",
+            "published_at_date": "2023-06-13T09:09:54.107000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 5,
+            "total_number_of_reviews_by_reviewer": 187,
+            "total_number_of_photos_by_reviewer": 2243,
+            "reviewer_url": "https://www.google.com/maps/contrib/109836097180216203037/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVvKFnnjR4xwiZQPbl_HYdeikMq3AB5OHcqSgtRmBOT6w=s120-c-rp-mo-ba6-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPElSAc1KCO27KxXPIPSyvOcUYtOA2Qway6aU0Y=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMOmwsmcDpqFXhBEgKrE52jSIhTbRjx7JJCpDMq=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipO9P-OXNEMQFIluz7Ic_Q0HD63irmGUeT4m9i3z=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPG5EMoelsF-Nrsws_cCAmqOQzq3OOFrQvhxQPf=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNxOeNoguFenVcB9PJCxTKEWuDTZ52cPqqg8YmY=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOiQBuRlhqdg1Q3j0x5jneQ3sbUZYAbEdfuYX7j=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMQ9rncW_tSIb0lB79eWRdpeLNH9a88P51AjM8U=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMEVDmpmSYd1M6lvuoI3DouXZMR4FOLx19ZcIBO=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipN5AgseybuPE72hhrPz6NvoR496TNizsf26mTFK=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOzHu9D459Rvm9_YIEOjla6okgnkY4QWPpoac5B=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOob0W-lQ82NxqWuHgfjh4vSFStZ6sTKZ31eBqS=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOVLZskdkqDtQHhpAIKbWtr-13VKT62Wklbfwi9=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipP6SE0v55mmehTB4UzXPCXfq9QD8jtyv0UrZ67C=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNZJ1HYoRmeMtrEvBVs1LCfu41DgzJKdlw3DtOo=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Excellent food.  Generous portions. Friendly and pleasant service. BUT I hated the plastic cutlery and the extra charge for a takeaway container.",
+            "reviewer_name": "Harwood",
+            "rating": 4,
+            "review_text": "Excellent food.  Generous portions. Friendly and pleasant service. BUT I hated the plastic cutlery and the extra charge for a takeaway container.",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-23T05:30:43.479000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 678,
+            "total_number_of_photos_by_reviewer": 102,
+            "reviewer_url": "https://www.google.com/maps/contrib/115424133303701639940/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJuGy9O-q-LrIyqvccdkpAlxHdhtDXgtmojiEbGUaIP=s120-c-rp-mo-ba6-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipP3Z9Op7YYq81YgYmVAFllf8XYIlkCVCtutzNxZ=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipM9k6cB9nBBzMh39ZMzkUxgWrM2Ry4q5YcBtPEW=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNeAPrsdMjkpKGxM34aI3jo2W3fs-9P33cmpw1L=w150-h150-k-no-p"
+            ]
+        }
+    ],
+    "is_spending_on_ads": false
+}

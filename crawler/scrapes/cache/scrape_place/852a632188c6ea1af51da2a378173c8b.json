@@ -1,0 +1,549 @@
+{
+    "place_id": "ChIJw-s4pFdxhlQRh2jK22eXlnU",
+    "name": "Downlow Chicken Shack",
+    "description": "Simple counter-serve hub for fried chicken at escalating spice levels, creative sandwiches & sides.",
+    "reviews": 3277,
+    "website": "https://www.dlchickenshack.ca/",
+    "owner": {
+        "id": "103154197875850218841",
+        "name": "Downlow Chicken Shack (Owner)",
+        "link": "https://www.google.com/maps/contrib/103154197875850218841"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMSrXQ3lwcOQyL0Jb0NbCKrZaHcDcg4bbPtmeeZ=w408-h306-k-no",
+    "main_category": "Chicken restaurant",
+    "categories": [
+        "Chicken restaurant",
+        "Fast food restaurant"
+    ],
+    "rating": 4.6,
+    "workday_timing": "11 a.m.-9 p.m.",
+    "closed_on": [],
+    "phone": "(604) 283-1385",
+    "address": "Downlow Chicken Shack, 905 Commercial Dr, Vancouver, BC V5L 2H2",
+    "review_keywords": [
+        {
+            "keyword": "music",
+            "count": 42
+        },
+        {
+            "keyword": "hot chicken",
+            "count": 41
+        },
+        {
+            "keyword": "pickles",
+            "count": 36
+        },
+        {
+            "keyword": "mac salad",
+            "count": 30
+        },
+        {
+            "keyword": "chicken and waffles",
+            "count": 30
+        },
+        {
+            "keyword": "boneless",
+            "count": 24
+        },
+        {
+            "keyword": "jerk",
+            "count": 22
+        },
+        {
+            "keyword": "fried chicken sandwich",
+            "count": 20
+        },
+        {
+            "keyword": "lemon pepper",
+            "count": 19
+        },
+        {
+            "keyword": "van",
+            "count": 11
+        }
+    ],
+    "link": "https://www.google.com/maps/place/Downlow+Chicken+Shack/data=!4m7!3m6!1s0x54867157a438ebc3:0x75969767dbca6887!8m2!3d49.276327!4d-123.0697319!16s%2Fg%2F11f657glq0!19sChIJw-s4pFdxhlQRh2jK22eXlnU?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 11 a.m.",
+    "price_range": "$$",
+    "reviews_per_rating": {
+        "1": 93,
+        "2": 61,
+        "3": 149,
+        "4": 401,
+        "5": 2573
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJw-s4pFdxhlQRh2jK22eXlnU&q=Downlow+Chicken+Shack&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.276326999999995,
+        "longitude": -123.0697319
+    },
+    "plus_code": "7WGJ+G4 Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "East Vancouver",
+        "street": "905 Commercial Dr",
+        "city": "Vancouver",
+        "postal_code": "V5L 2H2",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "8473126221269067911",
+    "data_id": "0x54867157a438ebc3:0x75969767dbca6887",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [
+        {
+            "link": "https://www.doordash.com/store/downlow-chicken-vancouver-24265789/?utm_campaign=gpa",
+            "source": "doordash.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Outdoor seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Takeout",
+                    "enabled": true
+                },
+                {
+                    "name": "Dine-in",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Dining options",
+            "options": [
+                {
+                    "name": "Lunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Dinner",
+                    "enabled": true
+                },
+                {
+                    "name": "Seating",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosphere",
+            "options": [
+                {
+                    "name": "Casual",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "crowd",
+            "name": "Crowd",
+            "options": [
+                {
+                    "name": "Groups",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planning",
+            "options": [
+                {
+                    "name": "Accepts reservations",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "parking",
+            "name": "Parking",
+            "options": [
+                {
+                    "name": "Free parking lot",
+                    "enabled": true
+                },
+                {
+                    "name": "Free street parking",
+                    "enabled": true
+                },
+                {
+                    "name": "Paid street parking",
+                    "enabled": true
+                },
+                {
+                    "name": "Parking",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMSrXQ3lwcOQyL0Jb0NbCKrZaHcDcg4bbPtmeeZ=w397-h298-k-no"
+        },
+        {
+            "about": "Latest",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMSbWpiDV27SccuMj0P3U9hEaI6r4tsLa8LXxNj=w224-h398-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPYtLyFIp8JjwE0elD1eWdfAzOZPIRCDjbmDOjS=w224-h398-k-no"
+        },
+        {
+            "about": "Menu",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPvQ5xpYyD2mmoAeh1OInSwnb4yDGPMF_kfSesf=w397-h298-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNulbaTW-s-vuqQt8eq9-umcyDjUUsbVX9XxMMK=w397-h298-k-no"
+        },
+        {
+            "about": "Vibe",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNiB8_DP1CIcGNR8LIHSKGkmdZQkWNCcF0Xrgc7=w397-h298-k-no"
+        },
+        {
+            "about": "Chicken sandwich",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMUZLP9gg3KExJUzhgHFK04No7EviH1sxmP0o-w=w397-h298-k-no"
+        },
+        {
+            "about": "Hot chicken",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipP0WCIZ78wsaN__gQQQRiCdn5KcN8qUx3yPOqDS=w397-h298-k-no"
+        },
+        {
+            "about": "Cabbage",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNPSV4SspSGpzgiXl53wDcST1xiGLr6xf9JwMFo=w224-h298-k-no"
+        },
+        {
+            "about": "Fried chicken",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipM2ojcmdZpo2soflTVzpWoridznGhfF9EawO2eQ=w395-h298-k-no"
+        },
+        {
+            "about": "French fries",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPBK05s0h26hdfsNSJqS2gPJzc4XhhmZR7tcr95=w397-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Z28-Y2qGEjAGcBIxwyTKhw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=275.14218&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "11 a.m.-9 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "11 a.m.-9 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "11 a.m.-9 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "11 a.m.-9 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "11 a.m.-9 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "11 a.m.-9 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "11 a.m.-4:30 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "I didn't use to be a huge fan of chicken and especially fried, but I've heard very good things about Downlow Chicken Shack so I decided to give it a shot. It's one of the BEST (if not the best) spot in town for chicken. Generous portions, great combination of flavors and very very friendly stuff. I freaking loved it!\n\nIn terms of the actual restaurant, it's not anything extraordinary but more of like a grab and go place, with a few stands if you wanna dine in. Nothing wrong with it tho, will definitely visit again soon!",
+            "reviewer_name": "Ariana Abedini",
+            "rating": 5,
+            "review_text": "I didn't use to be a huge fan of chicken and especially fried, but I've heard very good things about Downlow Chicken Shack so I decided to give it a shot. It's one of the BEST (if not the best) spot in town for chicken. Generous portions, great combination of flavors and very very friendly stuff. I freaking loved it!\n\nIn terms of the actual restaurant, it's not anything extraordinary but more of like a grab and go place, with a few stands if you wanna dine in. Nothing wrong with it tho, will definitely visit again soon!",
+            "published_at": "2 weeks ago",
+            "published_at_date": "2023-11-17T07:02:47.377000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 185,
+            "total_number_of_photos_by_reviewer": 196,
+            "reviewer_url": "https://www.google.com/maps/contrib/111045566173499814548/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjV5nwe5XZSbgL6jRQeUaTashiZkZx4LyunJoBy3vcJ6u64=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMSbWpiDV27SccuMj0P3U9hEaI6r4tsLa8LXxNj=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNrs7B7uEi0TYTvxXnzHmmdlB_IHwEWjJNvOSyf=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Big delicious chicken sandwich! Wow, what a surprise after hearing about this place for years, finally went to try their fried chicken sandwich, fries and wings. Didn't disappoint as there was a lot of tasty food. The huge chunk of fried chicken in my sandwich could barely fit in my mouth. A good portion of truffle fries could be easily shared between a few people. Overall, this was one of the biggest and tastiest chicken sandos around!",
+            "reviewer_name": "Alan Ng",
+            "rating": 4,
+            "review_text": "Big delicious chicken sandwich! Wow, what a surprise after hearing about this place for years, finally went to try their fried chicken sandwich, fries and wings. Didn't disappoint as there was a lot of tasty food. The huge chunk of fried chicken in my sandwich could barely fit in my mouth. A good portion of truffle fries could be easily shared between a few people. Overall, this was one of the biggest and tastiest chicken sandos around!",
+            "published_at": "3 weeks ago",
+            "published_at_date": "2023-11-06T01:47:27.983000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 35,
+            "total_number_of_photos_by_reviewer": 127,
+            "reviewer_url": "https://www.google.com/maps/contrib/110723365560415703958/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVQWFHCtLV9kw3EDHxlVTrB1KxTiZBkUlW82HD38RNxE19s=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOftkqtnkFLZYWsR1NorSRz-VX2sSP1SoYl_ZBL=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNQ6OaZmpR2xawWXIuBQ_snE-yb845s1RThVKpt=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipORgFvkwn3jkx5HmmFdFtGmbd9Kcaw6k9xY_F_0=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "I know this place is very popular but it just wasn't very Nashville-y for me because the medium heat chicken tenders weren't fully dusted and covered as I could see the original batter. Some people prefer the biggest piece of meat in a sandwich but we found the piece of chicken to be too thick so the meat to bun ratio was off.",
+            "reviewer_name": "Holly Wong",
+            "rating": 3,
+            "review_text": "I know this place is very popular but it just wasn't very Nashville-y for me because the medium heat chicken tenders weren't fully dusted and covered as I could see the original batter. Some people prefer the biggest piece of meat in a sandwich but we found the piece of chicken to be too thick so the meat to bun ratio was off.",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-30T20:52:49.715000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 153,
+            "total_number_of_photos_by_reviewer": 441,
+            "reviewer_url": "https://www.google.com/maps/contrib/110497150327306007861/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLkPMs8hnMpJ9beAozFyfD9UR3R8kpLu5Z5u2ojOQKSd44=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNfOc2G4yP4rhi0CumcByt0yU-vgjuclfeXzOLK=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPBjaZVSAlK7csq-Ii9CjEHmLnG29Zj5ZLsM_tK=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipP7Q3M15O3ImmwtNB0JQQhnYCdLBDy3quIk3ell=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Always see line ups! This place is the kind of place when it's late and you want some comfort food with your buddies! Chicken burgers, Mac and cheese, mmm you name it!\n\nThere's combos you can get a side and a burger for around $21! There's different levels of spiciness too . The service is just so fun here, it was my first time and they always bring smiles and cheers!\n\nLimited dine in spots inside (like around 8 people) they have picnic tables with a tent so make sure to bring a jacket if you want to sit outside!\n\nThere are street parking available.\n\nI do have to say the fries are a bit dry when we went.\n\nIG: Mishinnoms for more details",
+            "reviewer_name": "Michelle Havvagoodey",
+            "rating": 4,
+            "review_text": "Always see line ups! This place is the kind of place when it's late and you want some comfort food with your buddies! Chicken burgers, Mac and cheese, mmm you name it!\n\nThere's combos you can get a side and a burger for around $21! There's different levels of spiciness too . The service is just so fun here, it was my first time and they always bring smiles and cheers!\n\nLimited dine in spots inside (like around 8 people) they have picnic tables with a tent so make sure to bring a jacket if you want to sit outside!\n\nThere are street parking available.\n\nI do have to say the fries are a bit dry when we went.\n\nIG: Mishinnoms for more details",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-19T01:20:25.175000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 21,
+            "total_number_of_photos_by_reviewer": 60,
+            "reviewer_url": "https://www.google.com/maps/contrib/106298252498138938097/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIkQb0Ka1jkHBqRGd9NngOFgCPC6pDiCCYmxigTtJso=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPYtLyFIp8JjwE0elD1eWdfAzOZPIRCDjbmDOjS=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNbMTU6RWrPl1SyoTtth-S3e_XRQDmGVI57Hkx-=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMCzGJN1VXAphRaos562lW6yRenNJWqyCkfQNfC=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Serves Nashville burgers and fries for your fried food cravings. Went there with my friends and had a great time and food. Located in Commercial Drive, this is a happening place in town. They have different levels of spice and the waitresses are cooperative and courteous.\nRecommended: OG Chicken Sandwich and Fries.",
+            "reviewer_name": "Munim Chowdhury",
+            "rating": 5,
+            "review_text": "Serves Nashville burgers and fries for your fried food cravings. Went there with my friends and had a great time and food. Located in Commercial Drive, this is a happening place in town. They have different levels of spice and the waitresses are cooperative and courteous.\nRecommended: OG Chicken Sandwich and Fries.",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-26T22:16:33.969000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 218,
+            "total_number_of_photos_by_reviewer": 1684,
+            "reviewer_url": "https://www.google.com/maps/contrib/105247168156835571495/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUxfURlqP1e4uuKoOqGYj2bUbQygWQpneZ_8t32vOlpsOY=s120-c-rp-mo-ba6-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPzPYjWdeak_848slSIZFIZvjQu3377cexCKqTg=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipM9k_TF68ifMiHU2lItqZLYJLrbZCVRq6zqgH1M=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOXywkmWYk994vpbvUFpytKzyGGZ90zl8zYqOwY=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMX0tqIpD8jX1OUjjx0gdZ0qRD3h3OZikXFCedJ=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNGinkM0vDTWDJt5VmN6Fg084Po98gG7d7fzGhg=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipM44_Ky2NIzM1ncloL40Fn1lazM6EdVKUJs9NFJ=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipN9GkQKIrVAuDebW5RhHrVtB6z-QY6Iy4U4Ajdw=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPKVSH3g8ea4Mp8NnONAJpHT9m0LYKSJI3yzByy=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNChLx6egdr60WyLYZqyz2FcbTaO5Crx40q_bKB=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMSoYHVplczphllAC7Oz_jjTwbSoqkjec8EsuLu=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNwYoyWNuJoLg8_Zj7PQ8lqu9SIO_cWWcJJWf1w=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOx0mVIGFgo8v53_8hO-CyZmVrsBmDIxQAsBuZ_=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPq3_WIUeJSu1nWJhdM4w7LicxmvizHmOb4hE6X=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOdwlTtueCmh1Is7nb8xKzqLj9rzmaeGa6lAr5z=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "This fried chicken shack ruined other fried chicken for me forever!!!!! Yes it's hard to find parking, minimal seating, sometimes lengthy waits, expensive (compared to what though? It's Vancouver) but it's so worth it. The fried chicken is always juicy and perfecy seasoned, the skin is so crispy. The pickles are seasoned too and it's so good. If you just get chicken to go, they'll put it on bread to absorb the oil which is genius. The crinkle cut fries are delicious and I like to alternate between ketchup and DL sauce. Because of the price, this is more of a big scheduled treat than a convenient stop for me but I look forward to it!",
+            "reviewer_name": "Angelica Yee",
+            "rating": 5,
+            "review_text": "This fried chicken shack ruined other fried chicken for me forever!!!!! Yes it's hard to find parking, minimal seating, sometimes lengthy waits, expensive (compared to what though? It's Vancouver) but it's so worth it. The fried chicken is always juicy and perfecy seasoned, the skin is so crispy. The pickles are seasoned too and it's so good. If you just get chicken to go, they'll put it on bread to absorb the oil which is genius. The crinkle cut fries are delicious and I like to alternate between ketchup and DL sauce. Because of the price, this is more of a big scheduled treat than a convenient stop for me but I look forward to it!",
+            "published_at": "5 months ago",
+            "published_at_date": "2023-06-20T05:45:03.373000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 3,
+            "total_number_of_reviews_by_reviewer": 94,
+            "total_number_of_photos_by_reviewer": 676,
+            "reviewer_url": "https://www.google.com/maps/contrib/107218974871497034592/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIr3srBJMIg9Mn4558UaVKIJc-QWf8JJbonlLAk1KMChw=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOTyTZDT-vACVGLFBuk-0h865f4e3_n6AapUPHB=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipM_sSTR3m6PTdZLJzAGc5itJv-aIKkcZ8-GF-mI=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMr5JMrqesb-oe97GXr6dw2DxAq_H9kzslzI9fA=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPGExA3td8h8DIb737RmsmIi1sm_ROK2wA9g5RL=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipO1MzvRZBxwBNVaCZD0Pn6D5cTQYYn0Vu5h-gxc=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMVd0UHijOXfcOUQR0D1RNdIcBoYaoKsUT92hWp=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "This is a 'best-seller Chicken place'. It's located along Commercial Drive corner of Venables Street.\n\nWe got the OG Sando Combo (with in-house coleslaw & sauce), crispy chicken skin, french fries (with special sauce) side dishes, and handmade Lemonade. The chicken is juicy, tender, and very flavourful - the best chicken sandwich I have ever tasted. The fries have a special spice craveable to the palate.  Their in-house DL sauce is super yummy. Both the sandwich and fries are huge portions.\n\nStaffs are friendly, service is excellent. Limited indoor/outdoor seating space. Be ready for a long queue.   Street parking can be a challenge. Will definitely be back. Try Downlow Chicken Shack, you can't go wrong.",
+            "reviewer_name": "Bernie",
+            "rating": 5,
+            "review_text": "This is a 'best-seller Chicken place'. It's located along Commercial Drive corner of Venables Street.\n\nWe got the OG Sando Combo (with in-house coleslaw & sauce), crispy chicken skin, french fries (with special sauce) side dishes, and handmade Lemonade. The chicken is juicy, tender, and very flavourful - the best chicken sandwich I have ever tasted. The fries have a special spice craveable to the palate.  Their in-house DL sauce is super yummy. Both the sandwich and fries are huge portions.\n\nStaffs are friendly, service is excellent. Limited indoor/outdoor seating space. Be ready for a long queue.   Street parking can be a challenge. Will definitely be back. Try Downlow Chicken Shack, you can't go wrong.",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-02T04:49:32.114000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 236,
+            "total_number_of_photos_by_reviewer": 2257,
+            "reviewer_url": "https://www.google.com/maps/contrib/107130408778030345293/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjV0TYogK40PSa1XlcruPrFyok53xoBPrXHjuaVmvScTLLc=s120-c-rp-mo-ba6-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOFuNMNNX7v3DIy-QGOsT85UiN6iaL7zT3vWK1n=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOaPPdBPJr6vBqmxMFFTHlKeFjOsh506zewOf8w=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPDqDCUUlvRJ7D6RNQuA1FwQHXez7T_lf-m9zVJ=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPBFHmOOXIdi_DBXOuoI2gklIAxx0j5ht_AZ4mA=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPzBeyrX4zzQeGCf8HcbtMHi04n8xM5p0jN4RRU=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNoH2S3MmNGq7GO68p1tGDFLZHwvrNRsmZosa0n=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPClKpwXRAL_3WEB9it9creH5z1mC_LawH3z4qS=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipM_qZboyWm1Ory4hpIZZDTDm3ZOJGQ7-va-axu2=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOIckFQsJMxOhMI3zqUA_KUYAVsV6kis7HxLdjL=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipP5GDzz6TcbZmRI-eYKfOmU-GiFIdjooGxAjbfi=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipO_zkH37Q0ajaeSZhP3VtZq4GB9nsNViS6zMCgk=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNyZacAWx-faPNjFVbXilSWbNwLjjpC0zVr-xRw=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMHGff76xT0cwas5NVbrkgGfMieee5c4mXKtnRW=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Get ready to get your hands wet and messy cos these chicken sando will surely do. Love that they give you choices of white or dark meat as well as the spicy level. If you'd like a little kick to your sandwiches I'd recommend getting either mid or hot. The chicken is definitely juicy and nicely cooked.\n\nI found their fries just okay; not that great nor the worst.\n\nWith their updated menu, it's sad to see their Lemon Pepper gone.",
+            "reviewer_name": "Kitty Yu",
+            "rating": 4,
+            "review_text": "Get ready to get your hands wet and messy cos these chicken sando will surely do. Love that they give you choices of white or dark meat as well as the spicy level. If you'd like a little kick to your sandwiches I'd recommend getting either mid or hot. The chicken is definitely juicy and nicely cooked.\n\nI found their fries just okay; not that great nor the worst.\n\nWith their updated menu, it's sad to see their Lemon Pepper gone.",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-08-01T07:02:14.591000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 26,
+            "total_number_of_photos_by_reviewer": 71,
+            "reviewer_url": "https://www.google.com/maps/contrib/111607679887034851192/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKkSXmbD39Zust5mENyTz7grUWRY_KLj4AVqIBDnndB=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOEGgQwMHgakFqtez5UU6-NYEdiNmZl2pZNlTPt=w150-h150-k-no-p"
+            ]
+        }
+    ],
+    "is_spending_on_ads": false
+}

@@ -1,0 +1,513 @@
+{
+    "place_id": "ChIJA_fL1dNzhlQR5Ymb-FkPyV0",
+    "name": "Juicy Joe's Burgers",
+    "description": null,
+    "reviews": 624,
+    "website": "http://www.juicyjoes.ca/",
+    "owner": {
+        "id": "117199779011521989657",
+        "name": "Juicy Joe's Burgers (Owner)",
+        "link": "https://www.google.com/maps/contrib/117199779011521989657"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMAeqGCL4SsTlVQKcQwdzZOTT4ebqUDCgQoPrYi=w408-h306-k-no",
+    "main_category": "Restaurant",
+    "categories": [
+        "Restaurant"
+    ],
+    "rating": 4.9,
+    "workday_timing": "5 p.m.-1 a.m.",
+    "closed_on": [
+        "Monday"
+    ],
+    "phone": "(778) 833-3511",
+    "address": "Juicy Joe's Burgers, 2211 Granville St, Vancouver, BC V6H 3G1",
+    "review_keywords": [
+        {
+            "keyword": "patty",
+            "count": 30
+        },
+        {
+            "keyword": "bun",
+            "count": 25
+        },
+        {
+            "keyword": "truffle fries",
+            "count": 25
+        },
+        {
+            "keyword": "bacon cheeseburger",
+            "count": 23
+        },
+        {
+            "keyword": "burger and fries",
+            "count": 13
+        },
+        {
+            "keyword": "mushroom and swiss burger",
+            "count": 13
+        },
+        {
+            "keyword": "truffle mushroom burger",
+            "count": 11
+        },
+        {
+            "keyword": "caramelized onions",
+            "count": 10
+        },
+        {
+            "keyword": "truffle burger",
+            "count": 9
+        },
+        {
+            "keyword": "blue cheese burger",
+            "count": 8
+        }
+    ],
+    "link": "https://www.google.com/maps/place/Juicy+Joe%27s+Burgers/data=!4m7!3m6!1s0x548673d3d5cbf703:0x5dc90f59f89b89e5!8m2!3d49.2659984!4d-123.1387561!16s%2Fg%2F11rcxkl1wb!19sChIJA_fL1dNzhlQR5Ymb-FkPyV0?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 5 p.m.",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 5,
+        "2": 3,
+        "3": 4,
+        "4": 10,
+        "5": 602
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJA_fL1dNzhlQR5Ymb-FkPyV0&q=Juicy+Joe's+Burgers&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.2659984,
+        "longitude": -123.1387561
+    },
+    "plus_code": "7V86+9F Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "South Granville",
+        "street": "2211 Granville St",
+        "city": "Vancouver",
+        "postal_code": "V6H 3G1",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "6757949594943588837",
+    "data_id": "0x548673d3d5cbf703:0x5dc90f59f89b89e5",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [
+        {
+            "link": "https://www.skipthedishes.com/juicy-joes-restaurants?serviceType=delivery&utm_source=google&utm_medium=organic&utm_campaign=gpav2",
+            "source": "skipthedishes.com"
+        },
+        {
+            "link": "https://www.doordash.com/store/juicy-joe%27s-burgers-vancouver-2011478/?utm_campaign=gpa",
+            "source": "doordash.com"
+        },
+        {
+            "link": "https://www.ubereats.com/ca/store/juicy-joes-burgers/DuGhHwjMQkm9iQZehoWsnA?utm_campaign=place-action-link&utm_medium=organic&utm_source=google",
+            "source": "ubereats.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Curbside pickup",
+                    "enabled": true
+                },
+                {
+                    "name": "No-contact delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Takeout",
+                    "enabled": true
+                },
+                {
+                    "name": "Dine-in",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Alcohol",
+                    "enabled": true
+                },
+                {
+                    "name": "Beer",
+                    "enabled": true
+                },
+                {
+                    "name": "Late-night food",
+                    "enabled": true
+                },
+                {
+                    "name": "Vegetarian options",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Dining options",
+            "options": [
+                {
+                    "name": "Breakfast",
+                    "enabled": true
+                },
+                {
+                    "name": "Lunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Dinner",
+                    "enabled": true
+                },
+                {
+                    "name": "Dessert",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosphere",
+            "options": [
+                {
+                    "name": "Casual",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planning",
+            "options": [
+                {
+                    "name": "Accepts reservations",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "children",
+            "name": "Children",
+            "options": [
+                {
+                    "name": "Good for kids",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMAeqGCL4SsTlVQKcQwdzZOTT4ebqUDCgQoPrYi=w397-h298-k-no"
+        },
+        {
+            "about": "Latest",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOBAADbZoJlinx12a_vYKVQVzxL_0NbS6_ptqxK=w224-h398-k-no"
+        },
+        {
+            "about": "Menu",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOjlGZ1JPOPPhlAdbG49mm1fHOGUxTV0qH7OWaf=w397-h298-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipO6zWAf664jxUMO4naiSVLW7zDr2gvzSzDlm_xr=w529-h298-k-no"
+        },
+        {
+            "about": "Take-out",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPTL2W-LybD6AQhFDnuuWg_Wm761oikM8hoGQP1=w298-h298-k-no"
+        },
+        {
+            "about": "Hamburger",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMcuqeLGwElf1l_c9LgQT3BKwHJwQiNCKcWvdDl=w565-h298-k-no"
+        },
+        {
+            "about": "French fries",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipP_toC-p0Qvu5gy-tMNynULImPiRei5rlblalIv=w224-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMprtcJ7nd-pUsK4T3P9fb1GR_aAwZdR9Mkkea1=w502-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vMApEC7E2s359POK14HtYw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=271.53064&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "Closed"
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "5 p.m.-1 a.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "5 p.m.-1 a.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "5 p.m.-1 a.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "5 p.m.-1 a.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "5 p.m.-1 a.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "5 p.m.-1 a.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "I was searching for the best burger in town and stumble upon juicy joe's on Google map, a 4.9 star rated take out burger place with hundreds of reviews, too good to be true right?\n\nNo, they totally lived up to their reviews, from the service all the way to the food they are in every way the best in town.\n\nI've got the truffle mushroom burger recommend by the staff with a half poutine, the burger is rich and flavourful, everything works really well together. Poutine is beautifully done, and their gravy is exceptionally rich.\n\nYou just have to try it to believe it.",
+            "reviewer_name": "Celeste Cheung",
+            "rating": 5,
+            "review_text": "I was searching for the best burger in town and stumble upon juicy joe's on Google map, a 4.9 star rated take out burger place with hundreds of reviews, too good to be true right?\n\nNo, they totally lived up to their reviews, from the service all the way to the food they are in every way the best in town.\n\nI've got the truffle mushroom burger recommend by the staff with a half poutine, the burger is rich and flavourful, everything works really well together. Poutine is beautifully done, and their gravy is exceptionally rich.\n\nYou just have to try it to believe it.",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-29T03:48:16.342000Z",
+            "response_from_owner_text": "Hi Celeste, trust us we aren't out here trying to catfish anyone with our 4.9 stars! That is just the result of hard work, a stellar team and dang good food. In all seriousness, thank you for your support and for taking the time to leave such a kind review. Welcome to the Juicy Joes family ",
+            "response_from_owner_ago": "3 months ago",
+            "response_from_owner_date": "2023-08-03T21:42:21.285000Z",
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 4,
+            "total_number_of_photos_by_reviewer": 6,
+            "reviewer_url": "https://www.google.com/maps/contrib/110329825546379920679/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjX8oJrVwphW20GT4kTveA7qy3XA8PBSCo-C0ouMA367LLE=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipN8ej2t7Ds-KiaLjKaDPuVWdjKQ8lFjk58L9LbA=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNytiPH24XjG04S-44Bo9-NT60o7BNyV64-ry6T=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPKRnmxrwUQvcJXyTBQe75JmGW3c8_Hiwy6Lubg=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipO5scYVy394AYj_F3QUCNAaiQ9D90cXXjxw9I61=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Juicy Joe's serves great burgers, its specialty. The beef burgers are grass finished, and 2 smashed patties are on each burger. Currently Joe's serves take-out only so drop by at the Ommeleterie restaurant,  at 6th and Granville, where they serve out of kitchen, order, and the burgers are done in 10 minutes...so quick! Bon appetit!",
+            "reviewer_name": "Janet Robertson",
+            "rating": 5,
+            "review_text": "Juicy Joe's serves great burgers, its specialty. The beef burgers are grass finished, and 2 smashed patties are on each burger. Currently Joe's serves take-out only so drop by at the Ommeleterie restaurant,  at 6th and Granville, where they serve out of kitchen, order, and the burgers are done in 10 minutes...so quick! Bon appetit!",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-08T04:30:57.501000Z",
+            "response_from_owner_text": "Hey Janet, good food and even better customer service is our specialty! We are so happy to hear you liked the food and can't wait to feed you again soon ",
+            "response_from_owner_ago": "2 months ago",
+            "response_from_owner_date": "2023-09-29T23:07:29.523000Z",
+            "review_likes_count": 3,
+            "total_number_of_reviews_by_reviewer": 326,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/108900550528150905278/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIRbT7wm2FHUrNs1wx-QzvX5D-NjXwzAGNOMlaCDX-X=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipO3R4R_YvQS6428jwIMIoVr3Cdz2OUAGgzx4fQO=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMuOjQ9BInuIZBsOL-OSG3Iz2ArmGrg6gG89w4v=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNg8rDNk5aGqZlm8B9yiJsp4OQlh2ZPCTlMbfkk=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNu6KQ8pHKJsvG0dGAQSHWpL9hOd-SJPwvaNh8X=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Probably one of the better if not best smash burgers in vanc.\n\nI had the truffle Swiss burger and the bacon cheeseburger and both were delicious.\n\nThe truffle Swiss mushroom burger was my favourite and personally I really loved white spot Monty mushroom burger but this brings it to another level.\n\nWouldn't hesitate to late night snack again.\n\nDisclaimer.. atmosphere was my car haha so there's no dine in. But I gave it a 5 since I knew about that coming in.",
+            "reviewer_name": "Felix Yu",
+            "rating": 5,
+            "review_text": "Probably one of the better if not best smash burgers in vanc.\n\nI had the truffle Swiss burger and the bacon cheeseburger and both were delicious.\n\nThe truffle Swiss mushroom burger was my favourite and personally I really loved white spot Monty mushroom burger but this brings it to another level.\n\nWouldn't hesitate to late night snack again.\n\nDisclaimer.. atmosphere was my car haha so there's no dine in. But I gave it a 5 since I knew about that coming in.",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-05T20:28:12.827000Z",
+            "response_from_owner_text": "Hey Felix, we are so happy to welcome you to the world of next-level smash burgers! We can't wait to feed you again soon ",
+            "response_from_owner_ago": "a month ago",
+            "response_from_owner_date": "2023-10-05T20:26:54.426000Z",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 40,
+            "total_number_of_photos_by_reviewer": 20,
+            "reviewer_url": "https://www.google.com/maps/contrib/109782823833420203974/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXXxPAg1x7ZbvZfTRZP1B5-7gJMbbgga_Ade5lQEg85AuI=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMEbKgEjwC0OFEbDAd5PLVObsvyXlIqNpnkpr5j=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "WOWOWOW.\n\nBest smash burgers in town!! The seasoning, the crisp, the flavor- delicious.\n\nA little expensive but you get what you pay for!",
+            "reviewer_name": "Nathan Egg",
+            "rating": 5,
+            "review_text": "WOWOWOW.\n\nBest smash burgers in town!! The seasoning, the crisp, the flavor- delicious.\n\nA little expensive but you get what you pay for!",
+            "published_at": "5 days ago",
+            "published_at_date": "2023-11-25T19:18:01.348000Z",
+            "response_from_owner_text": "Hey Nathan, we are all about top quality, amazing food and even better customer service. Thanks for supporting our burger dreams ",
+            "response_from_owner_ago": "12 hours ago",
+            "response_from_owner_date": "2023-11-30T21:45:03.312000Z",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 108,
+            "total_number_of_photos_by_reviewer": 92,
+            "reviewer_url": "https://www.google.com/maps/contrib/118321761797340722044/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVBDYMdoUGZ75AR3CLan-QeEVO7WUaUL5HC2mewm1Qk3_g=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOjlGZ1JPOPPhlAdbG49mm1fHOGUxTV0qH7OWaf=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNByoEOhvmhi4s0IfuHkcSDjqbwDKRRc97OVjGL=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOuRxCvQYPZHMXPow2W5T1gOtzkW4PQ6KH4dr5i=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Long story short: definitely give this place a try. Place has 4.9 for a reason!\n\nIt was a cold dark rainy night (seriously, sept 24, 8pm, it was raining). My partner and I were standing outside the omelettery, puzzled by the burger sign, as we tried to open up the qr code menu on our phones.\n\nThe owner, Sina, flung open the front door and welcomed us to look at the menu inside. He then took us on a journey on how his burger ingredients were sourced, prepared and served. All of which, was brimming with excitement and passion. You could really tell Sina was really proud of what he and his team were slinging. His pitch made us forget we were walking over from having dessert.\n\nWe had to try one, even though we were full.\n\nWe got the juicy original burger, and we enjoyed it next to our car, under the lights of a carpet store. So I can't say for sure how well it holds up for delivery or long transport.\n\nThe beef: smash-seared perfectly. Not too thin that you get jerky. Smashed enough so you get a crisp meaty crust but the center is still juicy.\n\nThe bun: airy, light, not soggy or falling aparty.\n\nThe caramelized onions: slowly cooked to a perfect unrushed jammy perfection.\n\nWill definitely be back to try the other more hefty burgers!",
+            "reviewer_name": "Elden C",
+            "rating": 5,
+            "review_text": "Long story short: definitely give this place a try. Place has 4.9 for a reason!\n\nIt was a cold dark rainy night (seriously, sept 24, 8pm, it was raining). My partner and I were standing outside the omelettery, puzzled by the burger sign, as we tried to open up the qr code menu on our phones.\n\nThe owner, Sina, flung open the front door and welcomed us to look at the menu inside. He then took us on a journey on how his burger ingredients were sourced, prepared and served. All of which, was brimming with excitement and passion. You could really tell Sina was really proud of what he and his team were slinging. His pitch made us forget we were walking over from having dessert.\n\nWe had to try one, even though we were full.\n\nWe got the juicy original burger, and we enjoyed it next to our car, under the lights of a carpet store. So I can't say for sure how well it holds up for delivery or long transport.\n\nThe beef: smash-seared perfectly. Not too thin that you get jerky. Smashed enough so you get a crisp meaty crust but the center is still juicy.\n\nThe bun: airy, light, not soggy or falling aparty.\n\nThe caramelized onions: slowly cooked to a perfect unrushed jammy perfection.\n\nWill definitely be back to try the other more hefty burgers!",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-25T05:00:50.420000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 15,
+            "total_number_of_photos_by_reviewer": 6,
+            "reviewer_url": "https://www.google.com/maps/contrib/112860969942457957381/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWucLLsOEZRPwchU1qYBByHPl4j1fPn1_RiRpDuuNwuZmE=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOOHjr9M9kJ6CWuKjN1DLoSEd2UiNPDFPKfImMm=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipN9n3bhR1gst_lz-s7S0dPIskuXfp_qEFcYNzFF=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMhFMxeaVBY0oy5s-WvXQe9CaCNsTHe1Go6g2n4=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "*Inside Paul's Omelettery* This smashburger is absolutely insane - 10/10 and even better that it's Grass Fed, Grass Finished, and never frozen so the flavor is incredible. We're visiting from SF on our way to Whistler and saw the high rating on Google. The people there could not be more lovely and I can't recommend enough. I got the lettuce wrapped cheeseburger with carmelized onions (carmelized for 12-24 hours) with bacon and it was perfection. They're open from 5pm-1am and it's pick-up or delivery only. We will be returning on our way back from Whistler!",
+            "reviewer_name": "Caitlin Hawley",
+            "rating": 5,
+            "review_text": "*Inside Paul's Omelettery* This smashburger is absolutely insane - 10/10 and even better that it's Grass Fed, Grass Finished, and never frozen so the flavor is incredible. We're visiting from SF on our way to Whistler and saw the high rating on Google. The people there could not be more lovely and I can't recommend enough. I got the lettuce wrapped cheeseburger with carmelized onions (carmelized for 12-24 hours) with bacon and it was perfection. They're open from 5pm-1am and it's pick-up or delivery only. We will be returning on our way back from Whistler!",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-23T01:12:58.491000Z",
+            "response_from_owner_text": "Hey Caitlin, we have been called the burger speak easy because we have a ghost kitchen inside another restaurant. You have the team blushing with such a kind review. We can't wait to feed you on your way back from Whistler  ",
+            "response_from_owner_ago": "3 months ago",
+            "response_from_owner_date": "2023-08-25T00:08:20.026000Z",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 7,
+            "total_number_of_photos_by_reviewer": 5,
+            "reviewer_url": "https://www.google.com/maps/contrib/102261897186376937363/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIxqRkLC8RkylefTYPFBagPc7O_CHS5ixWz114D3zV9tQ=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOz3ZBxyTbJwXG1TmhK2D9Bo11aVVoERbj6VTHZ=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipP8RyFIrqsTYSlpuVbTGiFUxStFAeh0-Aw4Rvsg=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMKqqBcdxUef3atveYL9bFfiV-zcz-s0peVgb9O=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOat43T4fsxy-FAbs1T_J6sh9zL4bGSblsBEbjS=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPPa1VJqs6IKl3wGlILoZ3dzU5B30i1OgX723_F=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Very high chance this place has the best burger in Vancouver...bacon cheeseburger was extremely flavourful...only downside is that it's takeout only. My understanding is that they will open a sit-down in the near future. A must try!",
+            "reviewer_name": "Tomas Cimolai",
+            "rating": 5,
+            "review_text": "Very high chance this place has the best burger in Vancouver...bacon cheeseburger was extremely flavourful...only downside is that it's takeout only. My understanding is that they will open a sit-down in the near future. A must try!",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-20T18:37:20.940000Z",
+            "response_from_owner_text": "Hi Tomas, we are just out here smashing burgers and your expectations! In all seriousness, your support means the world to us. It's true! We have been dreaming of a sit down location for quite some time now so, who knows what will happen. ",
+            "response_from_owner_ago": "3 months ago",
+            "response_from_owner_date": "2023-08-25T00:10:41.413000Z",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 16,
+            "total_number_of_photos_by_reviewer": 14,
+            "reviewer_url": "https://www.google.com/maps/contrib/117519548672332543380/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIfUem6ow8MuwmqCDmSNajO1DGKbTIoeF2ZSVrSUsO5=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipObL4FRYkxziX-Z_RPfsVZsoLwpPzwz5zT0XrwZ=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPX6OuGey50pkUpg1XduCY4jfS5gcIdWytXnVhB=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "The reviews don't lie. Run, don't walk to grab yourself a burger! Service was exceptional. The three of us got a free cookie each! :)",
+            "reviewer_name": "Krystyn RAP",
+            "rating": 5,
+            "review_text": "The reviews don't lie. Run, don't walk to grab yourself a burger! Service was exceptional. The three of us got a free cookie each! :)",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-09T04:19:54.856000Z",
+            "response_from_owner_text": "Hi Krystyn, we are so happy to hear that we have another happy Juicy Joe's Family member! We can't wait to feed you again soon ",
+            "response_from_owner_ago": "2 months ago",
+            "response_from_owner_date": "2023-09-29T23:06:17.036000Z",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 46,
+            "total_number_of_photos_by_reviewer": 17,
+            "reviewer_url": "https://www.google.com/maps/contrib/115516281784511957886/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWpjkdRCR8UR54R4AfNQCaSN1EGML_ZVTaf0K0iPIp3tQ=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipP9zrcj7Q990PTWxliZeY86RAgUr4UStuBHeKlc=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipO4wcKMsHnybdEfLhet4PTdoZTcONCUxy8LT6C5=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOvNe_e2-YKlQ6RLekWt5VNSDyA9bqSjaQAh16X=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOuNUm-J6yYE6LfJ5IUGtxMXCmThm2cPc7P6V0p=w150-h150-k-no-p"
+            ]
+        }
+    ],
+    "is_spending_on_ads": false
+}

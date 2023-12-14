@@ -1,0 +1,359 @@
+{
+    "place_id": "ChIJM2Gr1HbZhVQRIdJ6rcriS4U",
+    "name": "Dick's Lumber & Building Supplies Ltd",
+    "description": null,
+    "reviews": 134,
+    "website": "http://www.dickslumber.com/",
+    "owner": {
+        "id": null,
+        "name": "Dick's Lumber & Building Supplies Ltd (Owner)",
+        "link": null
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO4WWiXysVUX3lwysXOIoTrblyTqCoUqWHBZIsa=w408-h306-k-no",
+    "main_category": "Lumber store",
+    "categories": [
+        "Lumber store"
+    ],
+    "rating": 3.6,
+    "workday_timing": "6:30 a.m.-5 p.m.",
+    "closed_on": [
+        "Sunday"
+    ],
+    "phone": "(604) 591-1222",
+    "address": "Dick's Lumber & Building Supplies Ltd, 12433 80 Ave, Surrey, BC V3W 3A4",
+    "review_keywords": [
+        {
+            "keyword": "prices",
+            "count": 11
+        },
+        {
+            "keyword": "organized",
+            "count": 7
+        },
+        {
+            "keyword": "driving",
+            "count": 3
+        },
+        {
+            "keyword": "phone",
+            "count": 3
+        }
+    ],
+    "link": "https://www.google.com/maps/place/Dick's+Lumber+%26+Building+Supplies+Ltd/@49.148766,-122.8783622,17z/data=!3m1!4b1!4m6!3m5!1s0x5485d976d4ab6133:0x854be2caad7ad221!8m2!3d49.148766!4d-122.8783622!16s%2Fg%2F1vkxlz0j?authuser=0&entry=ttu",
+    "status": "Closed  Opens 6:30 a.m. Wed",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 33,
+        "2": 5,
+        "3": 6,
+        "4": 23,
+        "5": 67
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJM2Gr1HbZhVQRIdJ6rcriS4U&q=Dick's+Lumber+%26+Building+Supplies+Ltd&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.148765999999995,
+        "longitude": -122.8783622
+    },
+    "plus_code": "44XC+GM Surrey, British Columbia",
+    "detailed_address": {
+        "ward": "Newton",
+        "street": "12433 80 Ave",
+        "city": "Surrey",
+        "postal_code": "V3W 3A4",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "9605019990419493409",
+    "data_id": "0x5485d976d4ab6133:0x854be2caad7ad221",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "In-store pickup",
+                    "enabled": true
+                },
+                {
+                    "name": "In-store shopping",
+                    "enabled": true
+                },
+                {
+                    "name": "Same-day delivery",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipO4WWiXysVUX3lwysXOIoTrblyTqCoUqWHBZIsa=w397-h298-k-no"
+        },
+        {
+            "about": "Latest",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOGOU8eFInZNnjdYwBvtBwP3wOJkYDYzc77hmUV=w224-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=skw38PauV69jnDhaeDoHjg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=348.84448&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "6:30 a.m.-5 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "6:30 a.m.-5 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "6:30 a.m.-5 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "6:30 a.m.-5 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "6:30 a.m.-5 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "7 a.m.-4 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "Closed"
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "The teachers at prime professional driving school are very helpful and patient I must congratulate all of them they made me feel like family",
+            "reviewer_name": "Daniel Aitken",
+            "rating": 5,
+            "review_text": "The teachers at prime professional driving school are very helpful and patient I must congratulate all of them they made me feel like family",
+            "published_at": "a week ago",
+            "published_at_date": "2023-12-04T22:24:08.778000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 2,
+            "reviewer_url": "https://www.google.com/maps/contrib/116580658615411202058/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXCErhjWUmkFPgoB6HWhgiKDmk0m10lXRdw_oIVe7uoCw=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNrwLWDwqy_GUwTAgiMmY7FTaT0wYcdD1f-WOHF=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOGOU8eFInZNnjdYwBvtBwP3wOJkYDYzc77hmUV=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "People at the contractors desk are very nice, prices are good but make sure you expect to wait outside for half an hr before you get your items. The other day, there was noone in front of me, i waited 20minutes to get my lumber, noone showed up to help, went back inside the lady at shipping quite rudely told me to go wait in my vehicle. Waited an other 10minutes without anyone coming to help me so i went back inside again and asked for a refund. I'll never be back to the surrey location ever again. It's the same thing every single time, waiting outside to get my materials. I'll take my business elsewhere even if i have to drive further. It's ridiculous that they don't have a better system",
+            "reviewer_name": "Istvan Kereszturi",
+            "rating": 2,
+            "review_text": "People at the contractors desk are very nice, prices are good but make sure you expect to wait outside for half an hr before you get your items. The other day, there was noone in front of me, i waited 20minutes to get my lumber, noone showed up to help, went back inside the lady at shipping quite rudely told me to go wait in my vehicle. Waited an other 10minutes without anyone coming to help me so i went back inside again and asked for a refund. I'll never be back to the surrey location ever again. It's the same thing every single time, waiting outside to get my materials. I'll take my business elsewhere even if i have to drive further. It's ridiculous that they don't have a better system",
+            "published_at": "2 weeks ago",
+            "published_at_date": "2023-11-27T17:55:24.756000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 11,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/116757910903738951822/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjV7WTzCOPy8qAKIYAZ2WstrXxkwcUWVpePEOJPFgSg8jQ=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Went here today on a super quiet day Friday around 1 pm, met a super helpful staff member I think his name was Sherwin! Super fast and efficient service and I was pleasantly surprised. Going here during their slow days will be your best bet to getting good customer service!",
+            "reviewer_name": "S S",
+            "rating": 5,
+            "review_text": "Went here today on a super quiet day Friday around 1 pm, met a super helpful staff member I think his name was Sherwin! Super fast and efficient service and I was pleasantly surprised. Going here during their slow days will be your best bet to getting good customer service!",
+            "published_at": "7 months ago",
+            "published_at_date": "2023-04-28T21:19:51.963000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 14,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/107226153257794991925/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIDAKghpkrRq26cDiaX7gQquLFBazgM5H_jg5l0pj12=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "1 star only cos I have too.\nHate coming here.  Lose an hour plus.  It's always been the lazy union guys in the yard causing a jam out to 92nd plus. Now another 15 at the counter while the guy has to find the postal code for your job and ask you 10 more questions. Rather pay more at home depot. At least you're in and out.",
+            "reviewer_name": "Earl",
+            "rating": 1,
+            "review_text": "1 star only cos I have too.\nHate coming here.  Lose an hour plus.  It's always been the lazy union guys in the yard causing a jam out to 92nd plus. Now another 15 at the counter while the guy has to find the postal code for your job and ask you 10 more questions. Rather pay more at home depot. At least you're in and out.",
+            "published_at": "6 months ago",
+            "published_at_date": "2023-06-01T16:30:51.690000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 15,
+            "total_number_of_photos_by_reviewer": 14,
+            "reviewer_url": "https://www.google.com/maps/contrib/108543483333362712736/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLGM8xf9aWErTkLFPJ_FFm7-TTCq3ZvwbVGhr1q397G=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Can you please teach your drivers about the rules of the road. You cannot change lanes in an intersection. Just because you are driving a truck and stuck behind a bus doesn't gives you special rights to change lane inside a busy intersection.",
+            "reviewer_name": "Jatinder Singh",
+            "rating": 1,
+            "review_text": "Can you please teach your drivers about the rules of the road. You cannot change lanes in an intersection. Just because you are driving a truck and stuck behind a bus doesn't gives you special rights to change lane inside a busy intersection.",
+            "published_at": "6 months ago",
+            "published_at_date": "2023-05-26T21:47:17.452000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 98,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/107815446205960549482/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUi-0B9DebPbq-9K2Yp4P8kCLvUHI7B0MRDltVndlkHd8ep=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Will not take payment over the phone to have product delivered.",
+            "reviewer_name": "christopher warren",
+            "rating": 2,
+            "review_text": "Will not take payment over the phone to have product delivered.",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-23T13:51:32.548000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 98,
+            "total_number_of_photos_by_reviewer": 99,
+            "reviewer_url": "https://www.google.com/maps/contrib/100490501645586006073/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVqWhhC1_39-IWO7GaYXXmMf1cIEWIkk_kcec6emglV1JBA=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "No phone orders available the \"customer service\" staff said \"you know you gotta pay for it bud\"\nDefinitely will take my business elsewhere",
+            "reviewer_name": "David Balkanyi",
+            "rating": 1,
+            "review_text": "No phone orders available the \"customer service\" staff said \"you know you gotta pay for it bud\"\nDefinitely will take my business elsewhere",
+            "published_at": "9 months ago",
+            "published_at_date": "2023-02-21T16:15:31.431000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 14,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/107643872446761952685/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJVAnP5aRa7BPOiJmZP1Zj9nBqkyIR-5bWGbUeCJvKf=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Always a good selection and good product. But the customer experience is always very challenging. Certainly not catered to the residential customer. For the smoothest experience make sure you know exactly what it is that you want ahead of time. And be prepared to wait. It will always take considerably longer than you expect.",
+            "reviewer_name": "Paul Piccioni",
+            "rating": 4,
+            "review_text": "Always a good selection and good product. But the customer experience is always very challenging. Certainly not catered to the residential customer. For the smoothest experience make sure you know exactly what it is that you want ahead of time. And be prepared to wait. It will always take considerably longer than you expect.",
+            "published_at": "2 years ago",
+            "published_at_date": "2021-03-29T19:03:02.069000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 207,
+            "total_number_of_photos_by_reviewer": 1022,
+            "reviewer_url": "https://www.google.com/maps/contrib/113335202644244523000/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW4AI6SHNlWXj5PEDGyxlehheYj8wlQW1hfpW6PN8_MI4du=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

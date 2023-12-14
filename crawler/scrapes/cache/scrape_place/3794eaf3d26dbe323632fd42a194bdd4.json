@@ -1,0 +1,566 @@
+{
+    "place_id": "ChIJz8KVrH9xhlQRLmjJfMc3Hbc",
+    "name": "Five Guys",
+    "description": "Fast-food chain with made-to-order burgers, fries & hot dogs, plus free peanuts while you wait.",
+    "reviews": 3930,
+    "website": "https://restaurants.fiveguys.ca/635-robson-street",
+    "owner": {
+        "id": "112081765072299579388",
+        "name": "Five Guys (Owner)",
+        "link": "https://www.google.com/maps/contrib/112081765072299579388"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPzgcYj6vqxc9mDE6mHcypA4PrNLnlEqlhpORUE=w426-h240-k-no",
+    "main_category": "Fast food restaurant",
+    "categories": [
+        "Fast food restaurant",
+        "American restaurant",
+        "Hot dog restaurant",
+        "Hot dog stand",
+        "Restaurant"
+    ],
+    "rating": 4.3,
+    "workday_timing": "10:30 a.m.-10 p.m.",
+    "closed_on": [],
+    "phone": "(604) 685-1585",
+    "address": "Five Guys, 635 Robson St, Vancouver, BC V6B 5J3",
+    "review_keywords": [
+        {
+            "keyword": "peanuts",
+            "count": 197
+        },
+        {
+            "keyword": "burger and fries",
+            "count": 45
+        },
+        {
+            "keyword": "cajun fries",
+            "count": 34
+        },
+        {
+            "keyword": "bacon cheeseburger",
+            "count": 23
+        },
+        {
+            "keyword": "patty",
+            "count": 22
+        },
+        {
+            "keyword": "toppings",
+            "count": 15
+        },
+        {
+            "keyword": "spicy fries",
+            "count": 13
+        },
+        {
+            "keyword": "processed cheese",
+            "count": 10
+        },
+        {
+            "keyword": "veggie sandwich",
+            "count": 8
+        },
+        {
+            "keyword": "infinity",
+            "count": 5
+        }
+    ],
+    "link": "https://www.google.com/maps/place/Five+Guys/data=!4m7!3m6!1s0x5486717fac95c2cf:0xb71d37c77cc9682e!8m2!3d49.2810797!4d-123.119073!16s%2Fg%2F12hlt9kdg!19sChIJz8KVrH9xhlQRLmjJfMc3Hbc?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 10:30 a.m.",
+    "price_range": "$$",
+    "reviews_per_rating": {
+        "1": 114,
+        "2": 117,
+        "3": 362,
+        "4": 1137,
+        "5": 2200
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJz8KVrH9xhlQRLmjJfMc3Hbc&q=Five+Guys&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.2810797,
+        "longitude": -123.119073
+    },
+    "plus_code": "7VJJ+C9 Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "Downtown Vancouver",
+        "street": "635 Robson St",
+        "city": "Vancouver",
+        "postal_code": "V6B 5J3",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "13194763813197015086",
+    "data_id": "0x5486717fac95c2cf:0xb71d37c77cc9682e",
+    "menu": {
+        "link": "https://www.fiveguys.ca/Menu",
+        "source": "fiveguys.ca"
+    },
+    "reservations": [],
+    "order_online_links": [
+        {
+            "link": "https://order.fiveguys.com/location/five-guys-robson/menu",
+            "source": "fiveguys.com"
+        },
+        {
+            "link": "https://www.skipthedishes.com/five-guys-robson?serviceType=delivery&utm_source=google&utm_medium=organic&utm_campaign=gpav2",
+            "source": "skipthedishes.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "No-contact delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Takeout",
+                    "enabled": true
+                },
+                {
+                    "name": "Dine-in",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "highlights",
+            "name": "Highlights",
+            "options": [
+                {
+                    "name": "Fast service",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair accessible seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Late-night food",
+                    "enabled": true
+                },
+                {
+                    "name": "Quick bite",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Dining options",
+            "options": [
+                {
+                    "name": "Lunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Dinner",
+                    "enabled": true
+                },
+                {
+                    "name": "Counter service",
+                    "enabled": true
+                },
+                {
+                    "name": "Seating",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosphere",
+            "options": [
+                {
+                    "name": "Casual",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "crowd",
+            "name": "Crowd",
+            "options": [
+                {
+                    "name": "Groups",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "children",
+            "name": "Children",
+            "options": [
+                {
+                    "name": "Good for kids",
+                    "enabled": true
+                },
+                {
+                    "name": "High chairs",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPzgcYj6vqxc9mDE6mHcypA4PrNLnlEqlhpORUE=w529-h298-k-no"
+        },
+        {
+            "about": "Latest",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMXJnWHu27B5r7FsKwM2C8L_inkb7JQQUlnZ3lA=w397-h298-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMANqAfDm6V2C8MCSbhbSWqQOXtbU1JF4BWtfBZ=w224-h398-k-no"
+        },
+        {
+            "about": "Menu",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOoPLAvkjiqxsni6JvhNsTY8kW_uvHvfEG60ivE=w397-h298-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPa5xFrBub8FtQcFZxYOwtlqBWakV-oJSUKQ7kM=w397-h298-k-no"
+        },
+        {
+            "about": "Vibe",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNLWiJArsp5IXiPx0ehXH6YZe8g6QopNJ1efKIU=w529-h298-k-no"
+        },
+        {
+            "about": "Take-out",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNetPuLk2E9gkFhX_CbKNF1DsBkoVceJyalm_aN=w397-h298-k-no"
+        },
+        {
+            "about": "Cheeseburger",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMiGSmBxfl_zNxGhq9uhAPsglXGtusW2x9kZdaQ=w359-h298-k-no"
+        },
+        {
+            "about": "French fries",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPET2A3V2-61JP0AnD9S7bXq6TmX3PDfzyu19QR=w298-h298-k-no"
+        },
+        {
+            "about": "Peanut",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMSfuFL-5zvfxTeXLCCiQUnxmgjEZAB9YdThEm3=w224-h298-k-no"
+        },
+        {
+            "about": "Comfort food",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPRT23RZJsccsILX_U64C-1SXciVo991VLIBB3x=w397-h298-k-no"
+        },
+        {
+            "about": "Hamburger",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOe6Yo7XmZfGD_o47sMP-_HzgtWwzdwYom-nFZy=w344-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipN4KV-D-OHSYcq2gA2bRMoQRxtIg2-hR-lpxx5_=w298-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMg7QL78AY6TYS0mZfy8CigKxwnigBMagJpfHiy=w224-h298-k-no-pi-10-ya20-ro-0-fo100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "10:30 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "10:30 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "10:30 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "10:30 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "10:30 a.m.-11 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "10:30 a.m.-11 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "10:30 a.m.-10 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "Love Five Guys as they always have the best fries in town. absolutely crunchy outside and soft inside, just the right amount. You can customize your burger, and they never mess it up, plus the great fries. They are just a fav go-to place for a quick burger and fries. The fact that they give you free peanuts in shell and have their potato bags all around the store with the peanut oil which they fry it in just creates an awesome environment. Love the open kitchen and the fact that you can see the fries are cut right there, with skin in different shapes. Just so much better than many fast food chains. I just wish they were open longer hours and had more locations.",
+            "reviewer_name": "Hamed Soltani",
+            "rating": 5,
+            "review_text": "Love Five Guys as they always have the best fries in town. absolutely crunchy outside and soft inside, just the right amount. You can customize your burger, and they never mess it up, plus the great fries. They are just a fav go-to place for a quick burger and fries. The fact that they give you free peanuts in shell and have their potato bags all around the store with the peanut oil which they fry it in just creates an awesome environment. Love the open kitchen and the fact that you can see the fries are cut right there, with skin in different shapes. Just so much better than many fast food chains. I just wish they were open longer hours and had more locations.",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-24T21:12:18.410000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 112,
+            "total_number_of_photos_by_reviewer": 159,
+            "reviewer_url": "https://www.google.com/maps/contrib/108536927990609730670/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXAWidQ_feN9ZCgJHIfJ81eJq1AvnIUDBtg-bb-GmHfESg=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMVJxo79gtwfEwCpiB2Xtg0OdU6pj4JeQ10a9Hf=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPP4WYQ5IffwaWX3ssPXzI0Alg5U4VNTGWtWXO5=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOKHRKhZi2_kv63qP7GYnCz-2W__c9w6GEFkQ3a=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPmn-L0aYtBaAvEKX8e15L1rGRDAfrxb1lGvClb=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Five Guys is a burger paradise in the heart of Vancouver. What sets this joint apart is the fantastic ability to customize your burger just the way you like it. The sheer range of toppings and sauces available ensures that every burger is a unique and personalized experience. The staff's friendly and accommodating nature makes the customization process a breeze.\n\nThe burgers themselves are absolute showstoppers. Juicy, flavorful, and made to perfection, these burgers are a testament to the quality of ingredients used. The melt-in-your-mouth experience is unmatched, and it's evident that a lot of care goes into preparing each burger.\n\nNow, let's talk about the fries - they're more than just a side dish, they're an experience on their own. Crispy on the outside and perfectly tender on the inside, these fries are simply addictive. The fact that they're hand-cut and made fresh right there adds an extra level of deliciousness.\n\nThe ambiance is lively and inviting, adding to the overall enjoyment of the meal. Whether you're a solo diner or with a group of friends, the welcoming atmosphere makes every visit enjoyable.\n\nFor a truly customizable and mouthwatering burger experience paired with some of the best fries around, Five Guys in Vancouver is the place to be. The quality, flavor, and the ability to make your burger your own truly sets it apart. A must-visit for burger enthusiasts.",
+            "reviewer_name": "John S",
+            "rating": 5,
+            "review_text": "Five Guys is a burger paradise in the heart of Vancouver. What sets this joint apart is the fantastic ability to customize your burger just the way you like it. The sheer range of toppings and sauces available ensures that every burger is a unique and personalized experience. The staff's friendly and accommodating nature makes the customization process a breeze.\n\nThe burgers themselves are absolute showstoppers. Juicy, flavorful, and made to perfection, these burgers are a testament to the quality of ingredients used. The melt-in-your-mouth experience is unmatched, and it's evident that a lot of care goes into preparing each burger.\n\nNow, let's talk about the fries - they're more than just a side dish, they're an experience on their own. Crispy on the outside and perfectly tender on the inside, these fries are simply addictive. The fact that they're hand-cut and made fresh right there adds an extra level of deliciousness.\n\nThe ambiance is lively and inviting, adding to the overall enjoyment of the meal. Whether you're a solo diner or with a group of friends, the welcoming atmosphere makes every visit enjoyable.\n\nFor a truly customizable and mouthwatering burger experience paired with some of the best fries around, Five Guys in Vancouver is the place to be. The quality, flavor, and the ability to make your burger your own truly sets it apart. A must-visit for burger enthusiasts.",
+            "published_at": "2 weeks ago",
+            "published_at_date": "2023-11-12T02:30:28.837000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 10,
+            "total_number_of_photos_by_reviewer": 132,
+            "reviewer_url": "https://www.google.com/maps/contrib/100082286603959938429/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjV7b7xDFkcw-tzmg_xvFpdJRxO9_2b68RsIvYSA4yP9Rw=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMUE7GkyPio3PXGv0bLhCU_LLmCdFlr_kiCIehM=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPcp7H6P51p2X119Yg2qzH1baGXws7v9zUoK3AG=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMzsecurIKnGWtAhuUKHjosdIF29QS9ZatKfXQo=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNgf18U_dyy1BdVplkmh_cvany0rUCVp9Es7s1A=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOAXq5fmGg0ZAo5bg2ULu8rtRiKefr3oKX6E-Wj=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMkwkI78rNc5Lsok9R1DiaRtalAq3CY60dd_vH5=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "The burgers were good but we found that there isn't much of a difference between the regular and little cheeseburger (little still is a lot). I also liked that there are roasted nuts available for free on the side of the pick-up area.",
+            "reviewer_name": "phung pham",
+            "rating": 4,
+            "review_text": "The burgers were good but we found that there isn't much of a difference between the regular and little cheeseburger (little still is a lot). I also liked that there are roasted nuts available for free on the side of the pick-up area.",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-23T19:06:39.320000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 467,
+            "total_number_of_photos_by_reviewer": 3801,
+            "reviewer_url": "https://www.google.com/maps/contrib/103522675645782113531/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocK0rFjtCeGxSrJ-h2ObTcU_jEaTQHiemdEwxMtWHt2s=s120-c-rp-mo-ba6-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMJAOfTcFcnf7XzLJgXqULkzGv6C8-lEvLYiiF6=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOXqPcrtvdV0dL4FKAsJX402WxQzvIbZzugUjzq=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipN36licdSJH8E4DYqcwBuDF7d6ywJh1oXY4HrCS=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOKiRraurH-cV4obib4PhLszkUA9W8jo-q-8AWT=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOrH-hLuVo_tGtN1bBLDT6H9qyZvkJvna9ODRGz=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOIwcGGMXdmD57Zd0fYdcVaeNQHbo4ChEbD2Bs-=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMlSaKiUSL65CZYsyN3nUFowHs9NcQ94J3-ArV2=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipN0wpDD_ADBzdGnhD7E9EtOgay7do0DT5kvZsVu=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Come for the burgers but not the fries! Even though they give you a good amount of fries it ain't worth it!! The burgers though are great. The tables were all pretty much dirty so expect to clean it off yourself.",
+            "reviewer_name": "Estairia Hong",
+            "rating": 4,
+            "review_text": "Come for the burgers but not the fries! Even though they give you a good amount of fries it ain't worth it!! The burgers though are great. The tables were all pretty much dirty so expect to clean it off yourself.",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-29T03:21:38.636000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 145,
+            "total_number_of_photos_by_reviewer": 402,
+            "reviewer_url": "https://www.google.com/maps/contrib/111160500539946109179/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWLpo_6JalL-drFEQmCEU0qcf0SkbgIhdB5ZGzFK5HTGsw=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOHv3c5psvo3ljurr0B5agKqkHQ24wdN8PWldEl=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMyDOM-50_j0kuLaZAYLFBCxzuiMDGgFceHRj5k=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOBuC-oUMeIBAbV9bKwJ8WNnjm-7_diSHnUDQRa=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNCYxm50eFOVafa1Ze6stS0lHLyseNiBF3ZDz50=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNaJo3C2FHrlJ6xJsvIQnm2kTogAiuNhq8cZQ3C=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Went here before a concert and there were a lot of customers but finding a table is easy since people just eat and don't really hang around after. Also the tables are quite close together so moving around is quite difficult if the place is full.\n\nThe burgers were good but we found that there isn't much of a difference between the regular and little cheeseburger (little still is a lot). I also liked that there are roasted nuts available for free on the side of the pick-up area.",
+            "reviewer_name": "Chelsea",
+            "rating": 4,
+            "review_text": "Went here before a concert and there were a lot of customers but finding a table is easy since people just eat and don't really hang around after. Also the tables are quite close together so moving around is quite difficult if the place is full.\n\nThe burgers were good but we found that there isn't much of a difference between the regular and little cheeseburger (little still is a lot). I also liked that there are roasted nuts available for free on the side of the pick-up area.",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-03T20:53:57.598000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 18,
+            "total_number_of_photos_by_reviewer": 25,
+            "reviewer_url": "https://www.google.com/maps/contrib/116239532255655133381/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIUX6nETQSsfP6bCgVY7zaEsY2qsQJjTbcfh9RPY_jz=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipO5hzXNyVnFkFVjXFjLFCzSRJbY3_zXu9zRhS4u=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Pretty solid burger , juicy, good size and tasty. Love how any extras are included and also the free peanuts. The jalapenos also had a good  to them ",
+            "reviewer_name": "ben loke",
+            "rating": 5,
+            "review_text": "Pretty solid burger , juicy, good size and tasty. Love how any extras are included and also the free peanuts. The jalapenos also had a good  to them ",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-30T19:30:19.377000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 100,
+            "total_number_of_photos_by_reviewer": 852,
+            "reviewer_url": "https://www.google.com/maps/contrib/112970701436958867500/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjV_4W0tbh8G-sk0LmTR5Jxy43g3hnAk5jrU_YvK7mccOt6T=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNxFqdNzU53UWhzjnkGyobtihAQbwpqC5OM-hUR=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNLCEecj7qmZfn4OXG_BOLju55FJKugXKWHa8MX=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "It's expensive of course but you're guaranteed a delicious burger and fries every time so I think that's worth the price. Good char on the crumbley patty and great flavourful cheese. Plenty of seasoning on the fries too coating each and every one.",
+            "reviewer_name": "Jesse Tio",
+            "rating": 5,
+            "review_text": "It's expensive of course but you're guaranteed a delicious burger and fries every time so I think that's worth the price. Good char on the crumbley patty and great flavourful cheese. Plenty of seasoning on the fries too coating each and every one.",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-09T09:15:41.369000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 207,
+            "total_number_of_photos_by_reviewer": 459,
+            "reviewer_url": "https://www.google.com/maps/contrib/109313459813137758635/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXmcQCEPvEIZIyTeu1RplRB2E4KQ_c8N_XrZVKxCI_SoOGq=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipN7pweCSdIp_NFtRktB5etKkuHjs7YuNGyEcvVu=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOO5xvx8gxE8gPQm9xkw8GWk2R61El_yy7JkU6i=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "i had a veg Sandwich, which by my standards was pretty ordinary. Lack of taste, maybe there aren't many takers for veg food around here. Though I loved the idea of peanuts, that's something really healthy. The fries were awesome. We had the one with spice and they were worth it.",
+            "reviewer_name": "Prateek Bablani",
+            "rating": 4,
+            "review_text": "i had a veg Sandwich, which by my standards was pretty ordinary. Lack of taste, maybe there aren't many takers for veg food around here. Though I loved the idea of peanuts, that's something really healthy. The fries were awesome. We had the one with spice and they were worth it.",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-09T16:37:52.607000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 59,
+            "total_number_of_photos_by_reviewer": 58,
+            "reviewer_url": "https://www.google.com/maps/contrib/102584729016888599397/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWNBLDNjQcUsj8JtlHXuLc8uwi7yCqE1ZFsHL69xe8vhR8=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOOvcTQPcsMup27ZrHRAzYZfo1y3yMRb-OdBVnm=w150-h150-k-no-p"
+            ]
+        }
+    ],
+    "is_spending_on_ads": false
+}

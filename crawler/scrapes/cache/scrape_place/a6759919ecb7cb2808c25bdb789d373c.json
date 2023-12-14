@@ -1,0 +1,491 @@
+{
+    "place_id": "ChIJJVfIEzp3hlQRqKp-ceeOajU",
+    "name": "Minus Cake Boutique (Pre Order Only, No Walk-In)",
+    "description": null,
+    "reviews": 215,
+    "website": "http://www.minuscake.com/",
+    "owner": {
+        "id": "114916304444477481978",
+        "name": "Minus Cake Boutique (Pre Order Only, No Walk-In) (Owner)",
+        "link": "https://www.google.com/maps/contrib/114916304444477481978"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO07c5s2acRc5_YEiEtrBKhlSVjB4zUkgNK4tKa=w408-h306-k-no",
+    "main_category": "Cake shop",
+    "categories": [
+        "Cake shop"
+    ],
+    "rating": 4.2,
+    "workday_timing": "12-4 p.m.",
+    "closed_on": [],
+    "phone": "(604) 779-3615",
+    "address": "Minus Cake Boutique (Pre Order Only, No Walk-In), 3615 Kingsway, Vancouver, BC V5R 5M1",
+    "review_keywords": [
+        {
+            "keyword": "drink",
+            "count": 89
+        },
+        {
+            "keyword": "bubble tea",
+            "count": 16
+        },
+        {
+            "keyword": "aesthetics",
+            "count": 12
+        },
+        {
+            "keyword": "earl grey",
+            "count": 10
+        },
+        {
+            "keyword": "latte",
+            "count": 9
+        },
+        {
+            "keyword": "matcha",
+            "count": 8
+        },
+        {
+            "keyword": "presentation",
+            "count": 7
+        },
+        {
+            "keyword": "mango",
+            "count": 6
+        },
+        {
+            "keyword": "coconut",
+            "count": 6
+        },
+        {
+            "keyword": "passion fruit",
+            "count": 6
+        }
+    ],
+    "link": "https://www.google.com/maps/place/Minus+Cake+Boutique+%28Pre+Order+Only,+No+Walk-In%29/data=!4m7!3m6!1s0x5486773a13c85725:0x356a8ee7717eaaa8!8m2!3d49.2324158!4d-123.0256006!16s%2Fg%2F11gjtyszts!19sChIJJVfIEzp3hlQRqKp-ceeOajU?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 12 p.m.",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 14,
+        "2": 12,
+        "3": 15,
+        "4": 42,
+        "5": 132
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJJVfIEzp3hlQRqKp-ceeOajU&q=Minus+Cake+Boutique+%28Pre+Order+Only,+No+Walk-In%29&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.2324158,
+        "longitude": -123.02560059999999
+    },
+    "plus_code": "6XJF+XQ Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "South Vancouver",
+        "street": "3615 Kingsway",
+        "city": "Vancouver",
+        "postal_code": "V5R 5M1",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "3849045956234226344",
+    "data_id": "0x5486773a13c85725:0x356a8ee7717eaaa8",
+    "menu": {
+        "link": "https://www.minuscake.com/shop.html",
+        "source": "minuscake.com"
+    },
+    "reservations": [],
+    "order_online_links": [
+        {
+            "link": "https://www.minuscake.com/shop.html",
+            "source": "minuscake.com"
+        },
+        {
+            "link": "https://www.fantuanorder.com/store/minus-cake-boutique/ca-6951?rwg_token=AOZt1jUVTczwRVQ6F_fr41SVGCtjBPz9qiHMEYZ9bKJqG5x9lTm0W0wBGfKv92waSe6T3G_vwOuqTYQA5yZD9G0YNRn_UbnSNkFogEz4cCpApmsTyDx0ewI%3D",
+            "source": "fantuanorder.com"
+        },
+        {
+            "link": "https://www.doordash.com/store/minus-cake-boutique-vancouver-1781729/?utm_campaign=gpa",
+            "source": "doordash.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "from_the_business",
+            "name": "From the business",
+            "options": [
+                {
+                    "name": "Identifies as women-owned",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "In-store pickup",
+                    "enabled": true
+                },
+                {
+                    "name": "In-store shopping",
+                    "enabled": true
+                },
+                {
+                    "name": "Takeout",
+                    "enabled": true
+                },
+                {
+                    "name": "Dine-in",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Wi-Fi",
+                    "enabled": true
+                },
+                {
+                    "name": "Wi-Fi",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipO07c5s2acRc5_YEiEtrBKhlSVjB4zUkgNK4tKa=w397-h298-k-no"
+        },
+        {
+            "about": "Latest",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNU3Qybv8czjPOjFM3N1qkXqMEejDxcN-g3Qt_r=w224-h298-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPThBznaPAP8O7ihyxytyLycJhkUuKKiMPohUiR=w224-h398-k-no"
+        },
+        {
+            "about": "Menu",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMQROfxJAMqn6Y9ex7HBvfdi-5rUe5wrYqJD5sn=w224-h298-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPTFwKzsmlVe6xmC7dgiszGmMlqgR-n4ZFVex-a=w439-h298-k-no"
+        },
+        {
+            "about": "Vibe",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPlkO-l7ZTdEcVO02aTIHjx_CchUK70N2GeNZBT=w224-h298-k-no"
+        },
+        {
+            "about": "Take-out",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPVtIZeKwaHTZJSV_YOynSRmRXs3tG-_M0EviM9=w224-h298-k-no"
+        },
+        {
+            "about": "Parfait",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNH9C1wQMjBrNZeeiHjbrA4Xudoa3SL3U28XmaL=w224-h298-k-no"
+        },
+        {
+            "about": "Cake",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMSoZjt9Iz7AQ8S0x19yv9z60ex4-K5crK27tQB=w224-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipO4yFxz1Hms9CnjnGBBGJkRkGiGkdThsX3j05hs=w230-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=POpVqtK4SL2q8aW2VE3IEw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=25.61901&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "9:30 a.m.-2:30 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "9:30 a.m.-2:30 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "9:30 a.m.-2:30 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "12-4 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "12-4 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "12-4 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "12-4 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "Recommended to try this place! The dessert tastes amazing. I'm not a big fan of sugary sweets, and Minus Cake got the sweetness right!  The cake is fluffy with a creamy mousse texture that melts in the mouth.",
+            "reviewer_name": "Sylvia Lan",
+            "rating": 5,
+            "review_text": "Recommended to try this place! The dessert tastes amazing. I'm not a big fan of sugary sweets, and Minus Cake got the sweetness right!  The cake is fluffy with a creamy mousse texture that melts in the mouth.",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-06T00:37:20.807000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 50,
+            "total_number_of_photos_by_reviewer": 161,
+            "reviewer_url": "https://www.google.com/maps/contrib/112276229277632927856/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocK67tZcJZTt9qSlnqJCN0O3VI4UlpBH74S2fpsU9jPB=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMM3XDHKXYnv5jbBirw2IKgH2CjMZKBXz6IqmII=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Totally recommended. Last year they prepared my baby's 1 year old cake.\nThey are very helpful and accommodating.",
+            "reviewer_name": "Sandra Rivera Rojas",
+            "rating": 5,
+            "review_text": "Totally recommended. Last year they prepared my baby's 1 year old cake.\nThey are very helpful and accommodating.",
+            "published_at": "2 weeks ago",
+            "published_at_date": "2023-11-12T23:10:28.922000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 102,
+            "total_number_of_photos_by_reviewer": 295,
+            "reviewer_url": "https://www.google.com/maps/contrib/114247123954497427447/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXzSnuF-mnIZEJLZx7u5HJmGbOQDIlD4EkjtrUdo6hFo7k=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMhlo7lmlMqKUgE6qMm7BkylDpeI5r-k89VUb9M=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOySOc4hFbecQa2duFQVe6I82p9WXeAIJpL8nS0=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPcSBaCXzueYlff7MAiPcAOoIey1JHxfrJqbjPA=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "I really liked. A nice little place. The service is excellent and we tasted very good desserts. The desserts are not too sweet, they are just right. A varied choice: some combinations are available (bubble cake and drink) but you can also make your own combination. I tried number 7 and the mix of flavors was well thought out!  I would like to go back to try other flavors. ",
+            "reviewer_name": "Cleopatra Diaz",
+            "rating": 5,
+            "review_text": "I really liked. A nice little place. The service is excellent and we tasted very good desserts. The desserts are not too sweet, they are just right. A varied choice: some combinations are available (bubble cake and drink) but you can also make your own combination. I tried number 7 and the mix of flavors was well thought out!  I would like to go back to try other flavors. ",
+            "published_at": "a year ago",
+            "published_at_date": "2022-08-25T16:53:25.159000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 4,
+            "total_number_of_reviews_by_reviewer": 3,
+            "total_number_of_photos_by_reviewer": 10,
+            "reviewer_url": "https://www.google.com/maps/contrib/118313405279918180499/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJgDm8lkZ8UVDSNfZNuXwciWcAhg_HidqhGWtXHGJ9f=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNp439VPxWovYcsNQhyN_nNIs2EecOwMWhoivG3=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOmeYYRIxLmxHgg7lijRspE849YxZJyMmJQkAwd=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "I got the Rose Oolong Peach Cake + Honeycomb Dalgona Latte and my friend got the Vanilla Strawberry Shortcake + Iced Shaken Lychee Black Tea.\n\nI would highly recommend the rose peach cake as it's something I haven't been able to get anywhere else and it tasted divine! The rest was sweet and tasted exactly as expected, especially the strawberry cake and the lychee black tea. Not to make that sound bad, they're staples in every store for a reason (they never miss)!! Though, not going to lie, wasn't a huge fan of the honeycomb in my dalgona latte as it was too sweet and it was slightly unnerving every time I'd encounter its crunchy texture. Still drank it all, but probably wouldn't get it again...\n\nOther than that, the decor was nice and clean and the atmosphere was quiet and serene. Also, it's a little on the expensive side... so definitely more of an experience than a regular hang-out spot. Hope the employees enjoyed the relaxing morning as it seemed like a slow shift (to be fair we went around brunch time on a Tuesday). Tldr, worth it to try the rose oolong peach cake and experience the fun of the stacking cake cups.",
+            "reviewer_name": "Erika",
+            "rating": 5,
+            "review_text": "I got the Rose Oolong Peach Cake + Honeycomb Dalgona Latte and my friend got the Vanilla Strawberry Shortcake + Iced Shaken Lychee Black Tea.\n\nI would highly recommend the rose peach cake as it's something I haven't been able to get anywhere else and it tasted divine! The rest was sweet and tasted exactly as expected, especially the strawberry cake and the lychee black tea. Not to make that sound bad, they're staples in every store for a reason (they never miss)!! Though, not going to lie, wasn't a huge fan of the honeycomb in my dalgona latte as it was too sweet and it was slightly unnerving every time I'd encounter its crunchy texture. Still drank it all, but probably wouldn't get it again...\n\nOther than that, the decor was nice and clean and the atmosphere was quiet and serene. Also, it's a little on the expensive side... so definitely more of an experience than a regular hang-out spot. Hope the employees enjoyed the relaxing morning as it seemed like a slow shift (to be fair we went around brunch time on a Tuesday). Tldr, worth it to try the rose oolong peach cake and experience the fun of the stacking cake cups.",
+            "published_at": "a year ago",
+            "published_at_date": "2022-09-16T07:05:37.357000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 13,
+            "total_number_of_photos_by_reviewer": 15,
+            "reviewer_url": "https://www.google.com/maps/contrib/101272646275319893347/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJn1eg_FrfGKaWHwzNfJ4iCTkWoSeiwKFQOvY_e9jGa=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPVi8R-34tcoaP-Qp0BUe6Qrj7sY52xISz81kwB=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMLgzYDKtPkvMT0cOVyyKoQhONkjOCkGrdPlhZg=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMJ_PFwRN8XW-BXKAesoyWHKSiCa8eLkjTAqtpu=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipM6EaNerye2XfESge8a0-cMg_AxMb9-_Ow243BP=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPKt71sNfQIVNBQDgCm1ZidrSQpo9OCL1ZPb1fb=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNmXg0bd3Xe5XwN1O0ntMYMRn66XyUnnPfWvndE=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Had a Minus Cup Combo of their Blueberry Lavender Slush and Earl Grey Toasted Milk Cake. It's nice that we're able to mix and match the cake/drink. The cake was refreshing and smooth with crunchy chocolate bites. The lavender flavour in the drink was strong, and I liked that it wasn't overpowered by the blueberry. The plastic cake cylinder snaps onto the drink lid for easy transport. The shop is clean with cute decor. It's a tad pricey so not your everyday treat, but they have unique flavours that warrant a trip back.",
+            "reviewer_name": "Chloe Rachel",
+            "rating": 4,
+            "review_text": "Had a Minus Cup Combo of their Blueberry Lavender Slush and Earl Grey Toasted Milk Cake. It's nice that we're able to mix and match the cake/drink. The cake was refreshing and smooth with crunchy chocolate bites. The lavender flavour in the drink was strong, and I liked that it wasn't overpowered by the blueberry. The plastic cake cylinder snaps onto the drink lid for easy transport. The shop is clean with cute decor. It's a tad pricey so not your everyday treat, but they have unique flavours that warrant a trip back.",
+            "published_at": "a year ago",
+            "published_at_date": "2022-04-13T05:22:21.230000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 371,
+            "total_number_of_photos_by_reviewer": 1266,
+            "reviewer_url": "https://www.google.com/maps/contrib/112797509866700892010/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjU--AWytbNl0SZWfne6LXFwT4FF92fMSii7kblXPv-nGm4=s120-c-rp-mo-ba6-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipN73gL7oTGyuJsj6J8wfQd6qmyhY50aeRWknYx0=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPzOOxT0KBMFyjtAHy3vnaGkaQlZBeCldjnpk6R=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Please improve your packaging!\n\nI have been longing for their roll cakes but they are sold out every time I went there after work. I finally am able to get their roll cake today.\n\nDuring my time walking back home from the store (i.e. 5 minutes walk), the handle suddenly breaks and the whole cake drops onto the ground.  The cake is still edible but the cream and chocolate are all over the place. I did not swing the cake whatsoever but I am so disappointed that a $45-dollar cake has that weak packaging and cannot hold the cake for even 5 minutes under normal usage.\n\nHopefully the cake tastes good. If not, I am not going back again :(",
+            "reviewer_name": "Chloe Chan",
+            "rating": 2,
+            "review_text": "Please improve your packaging!\n\nI have been longing for their roll cakes but they are sold out every time I went there after work. I finally am able to get their roll cake today.\n\nDuring my time walking back home from the store (i.e. 5 minutes walk), the handle suddenly breaks and the whole cake drops onto the ground.  The cake is still edible but the cream and chocolate are all over the place. I did not swing the cake whatsoever but I am so disappointed that a $45-dollar cake has that weak packaging and cannot hold the cake for even 5 minutes under normal usage.\n\nHopefully the cake tastes good. If not, I am not going back again :(",
+            "published_at": "a year ago",
+            "published_at_date": "2022-08-25T01:08:42.637000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 3,
+            "total_number_of_reviews_by_reviewer": 9,
+            "total_number_of_photos_by_reviewer": 15,
+            "reviewer_url": "https://www.google.com/maps/contrib/108729197606932029409/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUP3P9jaT84qDFcHBK9t4gBDIFNrexPyBvu5ujM9Ek_eEWN=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPCzoOVPgyAGDu8Bshrw1t2khm8hAK1pKM8QQEj=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPOae7xpVuIwy97vypr7sVzEEcOXiGqwRtJWyV3=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPDW7W80DbFzjf6CyaQF-oI7bl6AxuJNfhK4dLf=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipM0dlJxUMevEnhxpfspNx_YwwgufIenlD4akNra=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMjSm2tH9IvpHW4P1oL68LNOlZMXI4vvgRcMHb-=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "This is so goooooooooood omg! Both combos were delicious and the girl who works at the place is very sweet and helpful. Totally would come again to try all the other combos.",
+            "reviewer_name": "Tina W",
+            "rating": 5,
+            "review_text": "This is so goooooooooood omg! Both combos were delicious and the girl who works at the place is very sweet and helpful. Totally would come again to try all the other combos.",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-06T00:39:40.446000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 16,
+            "total_number_of_photos_by_reviewer": 15,
+            "reviewer_url": "https://www.google.com/maps/contrib/109227266277028490398/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUJn6SNk4GCup0Mczvsob0Tk89HSAkd8VtYrrYmu9FN0N0=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMSXL1LBP0yVEargo8zvx7H2Kt4B4LA6O0LeKgs=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "I tried the Tiramisu London Milk Chocolate. The presentation was great. In terms of flavour/taste. The Tiramisu is what you would expect. The drink was fine as well, it was more sugary than I preferr in my drinks. Overall I'd say this is worth a try if you're curious. I likely will not be going back unless one of my friends wants some company.",
+            "reviewer_name": "Marcus",
+            "rating": 3,
+            "review_text": "I tried the Tiramisu London Milk Chocolate. The presentation was great. In terms of flavour/taste. The Tiramisu is what you would expect. The drink was fine as well, it was more sugary than I preferr in my drinks. Overall I'd say this is worth a try if you're curious. I likely will not be going back unless one of my friends wants some company.",
+            "published_at": "2 years ago",
+            "published_at_date": "2021-04-26T13:06:49.537000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 6,
+            "total_number_of_reviews_by_reviewer": 332,
+            "total_number_of_photos_by_reviewer": 3383,
+            "reviewer_url": "https://www.google.com/maps/contrib/112294318885578690048/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVkgXFV4tBPCglqPoRdSKNERVTFgMSS8FeopLth4fUpaNHj=s120-c-rp-mo-ba6-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNk7vsuRyCECpvC9jneQD2Gng4jafezbOs_gwLx=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNbuHwFbKJzfbHO8KeLVV_h2xQVtb3Cg6bgSinQ=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipM9949JXNfAZKmZDRG8DsMkx9CNsULEXEYNixuc=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMLS4IupgM1ClRYtIWPcut40B_8cFZgWGuycGQl=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipME9iQJD9dRk_H4kjM0rufwCisxadaFc2obnr_1=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipO518nbLdr-Of8NKmxsoZXwMxlXejHKIzcx0O6t=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPLRcuXZ93QnZBRPQeOmfqtjyg3bpvyzLRDymDr=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMzM9o7jimqA0CZ2BeitddRxn60eDM1RimazQaI=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPIqqso8m5ovl74pNpdhABDIyKKzC04pXywpFS1=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOYI2HlEgRszyrtH_FwjZZJYeckc84XkmRGMnSP=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipP1HcVKzJ-jSK8zpl1WIiER3uI6lBalNxF4vy2S=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOG-UMg8jy_eLiml_04v5zWaNKIBJM42VhKiNGJ=w150-h150-k-no-p"
+            ]
+        }
+    ],
+    "is_spending_on_ads": false
+}

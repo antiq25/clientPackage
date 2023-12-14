@@ -1,0 +1,2 @@
+import { importReviews } from '../handleData'; 
+

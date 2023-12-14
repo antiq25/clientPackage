@@ -1,0 +1,642 @@
+{
+    "place_id": "ChIJY29n8q13hlQR_AuS1MP2CyI",
+    "name": "Johnny's on Oak Restaurant Vancouver (Best Neighbours Restaurant)",
+    "description": "Local choice for down-home dining, ranging from easygoing Greek classics to Italian-Canadian eats.",
+    "reviews": 480,
+    "website": "http://www.johnnysonoak.ca/",
+    "owner": {
+        "id": "113491503684599165001",
+        "name": "Johnny's on Oak Restaurant Vancouver (Best Neighbours Restaurant) (Owner)",
+        "link": "https://www.google.com/maps/contrib/113491503684599165001"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPlf-hPvqU8DugXI1hPkoordPHIShqKrza_4q85=w408-h306-k-no",
+    "main_category": "Restaurant",
+    "categories": [
+        "Restaurant",
+        "Continental restaurant",
+        "Greek restaurant",
+        "Italian restaurant",
+        "Pizza delivery",
+        "Pizza restaurant"
+    ],
+    "rating": 4.4,
+    "workday_timing": "2:30-11 p.m.",
+    "closed_on": [],
+    "phone": "(604) 732-3777",
+    "address": "Johnny's on Oak Restaurant Vancouver (Best Neighbours Restaurant), 3838 Oak St, Vancouver, BC V6H 2M5",
+    "review_keywords": [
+        {
+            "keyword": "pizza",
+            "count": 104
+        },
+        {
+            "keyword": "atmosphere",
+            "count": 22
+        },
+        {
+            "keyword": "greek food",
+            "count": 22
+        },
+        {
+            "keyword": "calamari",
+            "count": 18
+        },
+        {
+            "keyword": "lasagna",
+            "count": 18
+        },
+        {
+            "keyword": "delivery",
+            "count": 14
+        },
+        {
+            "keyword": "souvlaki",
+            "count": 11
+        },
+        {
+            "keyword": "moussaka",
+            "count": 6
+        },
+        {
+            "keyword": "happy hour",
+            "count": 6
+        },
+        {
+            "keyword": "roast lamb",
+            "count": 5
+        }
+    ],
+    "link": "https://www.google.com/maps/place/Johnny%E2%80%99s+on+Oak+Restaurant+Vancouver+%28Best+Neighbours+Restaurant%29/data=!4m7!3m6!1s0x548677adf2676f63:0x220bf6c3d4920bfc!8m2!3d49.25141!4d-123.127289!16s%2Fg%2F1v8y3qs5!19sChIJY29n8q13hlQR_AuS1MP2CyI?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 12 p.m.",
+    "price_range": "$$",
+    "reviews_per_rating": {
+        "1": 14,
+        "2": 19,
+        "3": 32,
+        "4": 92,
+        "5": 323
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJY29n8q13hlQR_AuS1MP2CyI&q=Johnny%E2%80%99s+on+Oak+Restaurant+Vancouver+(Best+Neighbours+Restaurant)&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.25141,
+        "longitude": -123.12728899999999
+    },
+    "plus_code": "7V2F+H3 Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "South Cambie",
+        "street": "3838 Oak St",
+        "city": "Vancouver",
+        "postal_code": "V6H 2M5",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "2453325742978763772",
+    "data_id": "0x548677adf2676f63:0x220bf6c3d4920bfc",
+    "menu": {
+        "link": "http://www.johnnysonoak.ca/",
+        "source": "johnnysonoak.ca"
+    },
+    "reservations": [],
+    "order_online_links": [
+        {
+            "link": "https://www.skipthedishes.com/best-neighbours?serviceType=delivery&utm_source=google&utm_medium=organic&utm_campaign=gpav2",
+            "source": "skipthedishes.com"
+        },
+        {
+            "link": "https://www.doordash.com/store/johnny%27s-on-oak-vancouver-98697/?utm_campaign=gpa",
+            "source": "doordash.com"
+        },
+        {
+            "link": "https://www.ubereats.com/ca/store/johnnys-on-oak/-JkkE8eMT92VkwwZOl3S3g?utm_campaign=place-action-link&utm_medium=organic&utm_source=google",
+            "source": "ubereats.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Outdoor seating",
+                    "enabled": true
+                },
+                {
+                    "name": "No-contact delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Takeout",
+                    "enabled": true
+                },
+                {
+                    "name": "Dine-in",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "highlights",
+            "name": "Highlights",
+            "options": [
+                {
+                    "name": "Great cocktails",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair accessible seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Alcohol",
+                    "enabled": true
+                },
+                {
+                    "name": "Beer",
+                    "enabled": true
+                },
+                {
+                    "name": "Cocktails",
+                    "enabled": true
+                },
+                {
+                    "name": "Coffee",
+                    "enabled": true
+                },
+                {
+                    "name": "Happy hour food",
+                    "enabled": true
+                },
+                {
+                    "name": "Hard liquor",
+                    "enabled": true
+                },
+                {
+                    "name": "Late-night food",
+                    "enabled": true
+                },
+                {
+                    "name": "Small plates",
+                    "enabled": true
+                },
+                {
+                    "name": "Vegetarian options",
+                    "enabled": true
+                },
+                {
+                    "name": "Wine",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Dining options",
+            "options": [
+                {
+                    "name": "Lunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Dinner",
+                    "enabled": true
+                },
+                {
+                    "name": "Catering",
+                    "enabled": true
+                },
+                {
+                    "name": "Dessert",
+                    "enabled": true
+                },
+                {
+                    "name": "Seating",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Bar on-site",
+                    "enabled": true
+                },
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                },
+                {
+                    "name": "Wi-Fi",
+                    "enabled": true
+                },
+                {
+                    "name": "Wi-Fi",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosphere",
+            "options": [
+                {
+                    "name": "Casual",
+                    "enabled": true
+                },
+                {
+                    "name": "Cozy",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "crowd",
+            "name": "Crowd",
+            "options": [
+                {
+                    "name": "Family-friendly",
+                    "enabled": true
+                },
+                {
+                    "name": "Groups",
+                    "enabled": true
+                },
+                {
+                    "name": "LGBTQ+ friendly",
+                    "enabled": true
+                },
+                {
+                    "name": "Transgender safe space",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planning",
+            "options": [
+                {
+                    "name": "Accepts reservations",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "children",
+            "name": "Children",
+            "options": [
+                {
+                    "name": "Good for kids",
+                    "enabled": true
+                },
+                {
+                    "name": "High chairs",
+                    "enabled": true
+                },
+                {
+                    "name": "Kids' menu",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "parking",
+            "name": "Parking",
+            "options": [
+                {
+                    "name": "Free street parking",
+                    "enabled": true
+                },
+                {
+                    "name": "Parking",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPlf-hPvqU8DugXI1hPkoordPHIShqKrza_4q85=w397-h298-k-no"
+        },
+        {
+            "about": "Latest",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipO3xxMCYZlT8VGeGjmYni9G4eJOAejJ7uYEIiqb=w224-h298-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOQM05j9keg1wUNJIZ2AtWpvOWuD2cCG5P7sx6T=w224-h398-k-no"
+        },
+        {
+            "about": "Menu",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMvcn3r5oLs4NWH9IoBSUMle807qp25KxTqzrSM=w224-h298-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNAcgybT_GTOMssA1ojAwNfgntPKL1jXrHhrgYe=w447-h298-k-no"
+        },
+        {
+            "about": "Vibe",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPphQHBTDGTZQr9qrfVCu_uXb0UXljMpJwv0V-L=w298-h298-k-no"
+        },
+        {
+            "about": "Take-out",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipO5vmm0cnAj_H23-9_0TKTIKExSHas0U-1WciNk=w224-h298-k-no"
+        },
+        {
+            "about": "Souvlaki",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOeRvZTlsGO7-VGhvVkmbwxDPN6XVHJvzDFAj0M=w397-h298-k-no"
+        },
+        {
+            "about": "Pizza",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipM5DUqlrc-Ymwox6WOnH6GFQi3qPpkp1ml5hGm3=w397-h298-k-no"
+        },
+        {
+            "about": "French fries",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipN9Ad4Hby3LGxIgUNT85Xqe9kqPzI0wEMS2Mpwq=w298-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipO3CTzz7SfewlHfFoSHIsP11I8bNvxtjuX1diCC=w410-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ToZaV8iAruT60WdHQifKdg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=132.69267&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "2:30-11 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "2:30-11 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "2:30-11 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "12-11 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "12-11 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "12-11 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "12-10 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "They have glazed white fish and considering that that is my favourite dish, I am already content with this resturant. The place was pretty empty when we visited, but it was pretty sad weather at the time. The food was not bad, but nothing special in my eyes.",
+            "reviewer_name": "Kristy Chen",
+            "rating": 4,
+            "review_text": "They have glazed white fish and considering that that is my favourite dish, I am already content with this resturant. The place was pretty empty when we visited, but it was pretty sad weather at the time. The food was not bad, but nothing special in my eyes.",
+            "published_at": "2 weeks ago",
+            "published_at_date": "2023-11-16T17:04:37.118000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 494,
+            "total_number_of_photos_by_reviewer": 2453,
+            "reviewer_url": "https://www.google.com/maps/contrib/100864525554132402451/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUaGwC9QarrcFpS1fPA2_ZKko9_OLtlk-FkXq2YTVhXAkw=s120-c-rp-mo-ba6-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPJFasjs8XJRMZJmKRkUSu2aQ180J-D2oBUYMWE=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOzmBNzgWXjhX9Q-FKvSqRC2JDdNCDzlRVYEEjA=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipM9jndvZIlK-CNv9hJwfO16zZZw5Uoh-ERzpCA-=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNCQQ0dBNiF9-IDDSOl24HE61dvVSBOgFhwWBAt=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Absolutely love this place! This local business makes you feel like family. The entire staff is so welcoming and the food is fantastic! I always look forward to enjoy a meal at Johnny's. Truly the best neighbours restaurant. They really know how to feed ya! Highly recommend !",
+            "reviewer_name": "Anna Tran",
+            "rating": 5,
+            "review_text": "Absolutely love this place! This local business makes you feel like family. The entire staff is so welcoming and the food is fantastic! I always look forward to enjoy a meal at Johnny's. Truly the best neighbours restaurant. They really know how to feed ya! Highly recommend !",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-27T01:43:20.814000Z",
+            "response_from_owner_text": "Hi Anna, \nThank you so much for your positive feedback! We appreciate your kind words and are so glad that you had a great experience with us. We strive to provide the best customer service, and we're glad to hear that we succeeded. Thanks again!",
+            "response_from_owner_ago": "4 months ago",
+            "response_from_owner_date": "2023-07-28T19:27:36.054000Z",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 5,
+            "total_number_of_photos_by_reviewer": 3,
+            "reviewer_url": "https://www.google.com/maps/contrib/102968770985311092154/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocI8Z3Ll25s96PJH5WWM_wh29VOa9HN1bpkBVZWP30QA=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipO93Zbhg-Mi-Foc1WQiwYMJsFd9coJ7mXbeWTE=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipP_i5owPTo774Uds9AchDtvtcH3hneZfo2ViEA=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipP_VwIE77w2_iG5qDDa5h3HW8hdztBGOqwBEdw=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "I had an absolutely fantastic dining experience at Johnny's  on Oak today. I made a unique order of 2 chicken breasts with spanakopita, salad, and extra tzatziki sauce. Despite this not being a standard menu item, Connie, who provided impeccable service, went above and beyond to convey my requests to Johnny. Without hesitation, they not only fulfilled but also surpassed all my culinary expectations.\n\nHaving worked in the restaurant industry during my young adulthood and even having had an 8-year connection to a Greek family, my standards are exceptionally high. The chicken was impeccably moist and flavorful, while the spanakopita boasted a perfectly flaky exterior with a delectably moist and delicious filling. I requested a little extra tzatziki, and Connie promptly delivered it with a welcoming smile.\n\nIn summary, my dining experience at Johnny's on Oak was nothing short of delectable, and I left thoroughly satisfied. The combination of superb food, exceptional service, and the willingness to accommodate unique requests truly made this visit unforgettable.",
+            "reviewer_name": "Fuad Mohamed",
+            "rating": 5,
+            "review_text": "I had an absolutely fantastic dining experience at Johnny's  on Oak today. I made a unique order of 2 chicken breasts with spanakopita, salad, and extra tzatziki sauce. Despite this not being a standard menu item, Connie, who provided impeccable service, went above and beyond to convey my requests to Johnny. Without hesitation, they not only fulfilled but also surpassed all my culinary expectations.\n\nHaving worked in the restaurant industry during my young adulthood and even having had an 8-year connection to a Greek family, my standards are exceptionally high. The chicken was impeccably moist and flavorful, while the spanakopita boasted a perfectly flaky exterior with a delectably moist and delicious filling. I requested a little extra tzatziki, and Connie promptly delivered it with a welcoming smile.\n\nIn summary, my dining experience at Johnny's on Oak was nothing short of delectable, and I left thoroughly satisfied. The combination of superb food, exceptional service, and the willingness to accommodate unique requests truly made this visit unforgettable.",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-21T05:06:49.815000Z",
+            "response_from_owner_text": "Hi Fuad, \nThank you for the 5 star review! We are so happy to hear you enjoyed your experience with us and we hope to see you back very soon . ",
+            "response_from_owner_ago": "a week ago",
+            "response_from_owner_date": "2023-11-18T20:46:10.738000Z",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 4,
+            "total_number_of_photos_by_reviewer": 3,
+            "reviewer_url": "https://www.google.com/maps/contrib/103838294363877008560/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIJXmHZrHGHNT6TY16x9IdPxj51z9xZtdIQBbJGRzOm=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipN1Mi64CxBIicXP0gxKik9JXy8VieZwJ-5aJXCk=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOaDHPnXYRXpS6muSMl441zGqxQA9q0egKcPf84=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "I have been coming to this restaurant since the Entertainment Coupon days, when it was originally Best Neighbours.\n\nThe food is high quality, the staff are consistently nice, and I am grateful they don't mind me just hanging out at a table and  playing on my tablet, long after I have finished my meal. I have also never felt rushed to leave.\n\nThe renovations done after the pandemic improved the already great ambience, and really modernized the place.\n\nI hope Connie and family, and the other staff are around for a very long time.",
+            "reviewer_name": "Michael Sam",
+            "rating": 4,
+            "review_text": "I have been coming to this restaurant since the Entertainment Coupon days, when it was originally Best Neighbours.\n\nThe food is high quality, the staff are consistently nice, and I am grateful they don't mind me just hanging out at a table and  playing on my tablet, long after I have finished my meal. I have also never felt rushed to leave.\n\nThe renovations done after the pandemic improved the already great ambience, and really modernized the place.\n\nI hope Connie and family, and the other staff are around for a very long time.",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-29T19:14:10.856000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/107045944328232854365/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJD50-xZCumdHF_URFm8NBt-KarMWAqiO61oZkxibCB=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "We love Johnnys aka best neighbours :)\nWe tried the fried chicken with truffle honey for the first time and it was awesome. Got a spanakopita and a ham and pineapple pizza and it's like I had a slice of a memory. My family has been eating here since I think 1990 maybe before that and Alex and Kathy were the owners, now it's their son Johnny and his wife Connie and they too are such lovely people. I have also worked here when I was 18/19 years old and it was a pretty fun job.  I have had my fair share of pizza here, but I think it's to be noted that it still tastes just as good as it did 35 years ago.\nSee you guys soon :)",
+            "reviewer_name": "Jac Eats Food",
+            "rating": 5,
+            "review_text": "We love Johnnys aka best neighbours :)\nWe tried the fried chicken with truffle honey for the first time and it was awesome. Got a spanakopita and a ham and pineapple pizza and it's like I had a slice of a memory. My family has been eating here since I think 1990 maybe before that and Alex and Kathy were the owners, now it's their son Johnny and his wife Connie and they too are such lovely people. I have also worked here when I was 18/19 years old and it was a pretty fun job.  I have had my fair share of pizza here, but I think it's to be noted that it still tastes just as good as it did 35 years ago.\nSee you guys soon :)",
+            "published_at": "a week ago",
+            "published_at_date": "2023-11-20T22:39:14.866000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 13,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/102067653633667654101/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjU5FqYS3EtQAk9s0EXb4ek1GX27WWgfMvjVVoYd2GNeelk=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "My wife and I stopped in while at BC children's to get a bite and some air. The service was fantastic and the food hit the spot. We ended up back there the following night and ordered from them the two nights after. Would definitely return and can't wait for the baked spaghetti tonight!",
+            "reviewer_name": "Peter John Bauer",
+            "rating": 5,
+            "review_text": "My wife and I stopped in while at BC children's to get a bite and some air. The service was fantastic and the food hit the spot. We ended up back there the following night and ordered from them the two nights after. Would definitely return and can't wait for the baked spaghetti tonight!",
+            "published_at": "3 weeks ago",
+            "published_at_date": "2023-11-04T00:08:28.968000Z",
+            "response_from_owner_text": "Hi Peter, \nThank you so much for your 5-star review! We will share this with the staff to let them know to keep up the amazing work.",
+            "response_from_owner_ago": "3 weeks ago",
+            "response_from_owner_date": "2023-11-04T19:30:22.414000Z",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/113150169762033062730/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUPdADerCZCxCx-LJ3gTqYSBtK7JzFUp--rz-Nh-I6HM-mw=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "The food was amazing the owner offered us free desert but 2 of us were to full so the 3rd got a cheesecake slice",
+            "reviewer_name": "brian ladouceur",
+            "rating": 5,
+            "review_text": "The food was amazing the owner offered us free desert but 2 of us were to full so the 3rd got a cheesecake slice",
+            "published_at": "6 months ago",
+            "published_at_date": "2023-05-02T06:19:32.373000Z",
+            "response_from_owner_text": "Hi Brian ,\nThank you so much for your 5-star review! We will share this with the staff to let them know to keep up the amazing work! \nWe hope to see you again very soon.",
+            "response_from_owner_ago": "6 months ago",
+            "response_from_owner_date": "2023-05-03T05:08:17.899000Z",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 268,
+            "total_number_of_photos_by_reviewer": 249,
+            "reviewer_url": "https://www.google.com/maps/contrib/115499552586608547451/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWIratqkKQ9VLzm8aEbwATLckzV3lLYxpcyu79EulZkpw=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipM4PSF_tEqYRnUCbKsWtaIXQxQq3ztrIrL9eaGp=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPAmAKzi8GCsyWwCuor8XeX8_CUVWmHdm4ObHmP=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNzvNOaj6-6uHbpvluWSyS2dPNjgTqWE4921G94=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipN_JDbpMzDr9GUeeoK9HhLggFkLWWL5GuZLe4Qs=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipM2O7WfNmFvHVLO9jRWgyMM2r4EDWBe1l6HiGK0=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipN4-xje4eQiMKh6b-Emny5s8Tf0gUZ0ZssicKqV=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOS--AhZR1z1NQRmCEPoNbjBJgrISnIJ1QBiJKj=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "The best grilled meat I've had in years! I had Chicken souvlaki and loved it. The salad had lots of feta and all good Greek salad ingredients. I'm sorry I didn't take a photo.",
+            "reviewer_name": "Kathleen Mulder",
+            "rating": 5,
+            "review_text": "The best grilled meat I've had in years! I had Chicken souvlaki and loved it. The salad had lots of feta and all good Greek salad ingredients. I'm sorry I didn't take a photo.",
+            "published_at": "2 weeks ago",
+            "published_at_date": "2023-11-16T23:03:15.496000Z",
+            "response_from_owner_text": "Hi Kathleen, \nWe are so happy to hear you enjoyed your chicken souvlaki. We hope to see you back very soon! ",
+            "response_from_owner_ago": "a week ago",
+            "response_from_owner_date": "2023-11-18T20:40:05.162000Z",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 12,
+            "total_number_of_photos_by_reviewer": 5,
+            "reviewer_url": "https://www.google.com/maps/contrib/113702540037416045169/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLPc5iN9nlBQh9ghCF8eWaMrlLSLVfJdxtrZVUI1mOO=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

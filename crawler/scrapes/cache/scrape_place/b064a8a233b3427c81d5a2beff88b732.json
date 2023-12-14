@@ -1,0 +1,414 @@
+{
+    "place_id": "ChIJA4zH0B5xhlQR0WMmHT-X4wY",
+    "name": "Curry&Roti Vancouver Kitchen Ltd",
+    "description": null,
+    "reviews": 20,
+    "website": "https://curryrotikitchen.com/",
+    "owner": {
+        "id": "113529233731998716513",
+        "name": "Curry&Roti Vancouver Kitchen Ltd (Owner)",
+        "link": "https://www.google.com/maps/contrib/113529233731998716513"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPFUS8Qf8bcfJ8AwyWqRbr73eXIevaf4LTqXZvh=w408-h271-k-no",
+    "main_category": "Restaurant",
+    "categories": [
+        "Restaurant",
+        "Indian restaurant",
+        "Non vegetarian restaurant",
+        "Vegetarian restaurant"
+    ],
+    "rating": 4.8,
+    "workday_timing": "5-11 p.m.",
+    "closed_on": [
+        "Tuesday"
+    ],
+    "phone": "(778) 636-5675",
+    "address": "Curry&Roti Vancouver Kitchen Ltd, 1370 E Georgia St, Vancouver, BC V5L 2A8",
+    "review_keywords": [
+        {
+            "keyword": "chicken",
+            "count": 7
+        },
+        {
+            "keyword": "mango",
+            "count": 4
+        },
+        {
+            "keyword": "roti and curry",
+            "count": 3
+        },
+        {
+            "keyword": "paneer",
+            "count": 3
+        }
+    ],
+    "link": "https://www.google.com/maps/place/Curry%26Roti+Vancouver+Kitchen+Ltd/data=!4m7!3m6!1s0x5486711ed0c78c03:0x6e3973f1d2663d1!8m2!3d49.2783033!4d-123.0755742!16s%2Fg%2F11v10wv_vw!19sChIJA4zH0B5xhlQR0WMmHT-X4wY?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 5 p.m.",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 18
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJA4zH0B5xhlQR0WMmHT-X4wY&q=Curry%26Roti+Vancouver+Kitchen+Ltd&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.2783033,
+        "longitude": -123.07557419999999
+    },
+    "plus_code": "7WHF+8Q Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "East Vancouver",
+        "street": "1370 E Georgia St",
+        "city": "Vancouver",
+        "postal_code": "V5L 2A8",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "496406681268675537",
+    "data_id": "0x5486711ed0c78c03:0x6e3973f1d2663d1",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [
+        {
+            "link": "https://www.order.store/store/curry-%26-roti-vancouver-kitchen/wsnD86ODXxShz9eUNGA5NQ",
+            "source": "order.store"
+        },
+        {
+            "link": "https://www.ubereats.com/ca/store/curry-%26-roti-vancouver-kitchen/wsnD86ODXxShz9eUNGA5NQ?utm_campaign=place-action-link&utm_medium=organic&utm_source=google",
+            "source": "ubereats.com"
+        },
+        {
+            "link": "https://www.skipthedishes.com/curry-and-roti-vancouver-kitchen-ltd-east?utm_source=google&utm_medium=organic&utm_campaign=gpa",
+            "source": "skipthedishes.com"
+        },
+        {
+            "link": "https://www.doordash.com/store/curry%26roti-vancouver-kitchen-vancouver-25099827/?utm_campaign=gpa&pickup=true",
+            "source": "doordash.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Curbside pickup",
+                    "enabled": true
+                },
+                {
+                    "name": "No-contact delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Takeout",
+                    "enabled": true
+                },
+                {
+                    "name": "Dine-in",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Dining options",
+            "options": [
+                {
+                    "name": "Lunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Dinner",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosphere",
+            "options": [
+                {
+                    "name": "Casual",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPFUS8Qf8bcfJ8AwyWqRbr73eXIevaf4LTqXZvh=w447-h298-k-no"
+        },
+        {
+            "about": "Latest",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOLcyB_QKbqpY7Tpb88FJtuPwPbN4pQD7VBp4Mv=w397-h298-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPily2rVdfcoEt0zpLBxQ2k8Lp-aobgpeAF0P7j=w312-h298-k-no"
+        },
+        {
+            "about": "Take-out",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNTJIrcAH1_ZW9np9LzGGOxSJMT0GMv9NUm1UYN=w372-h298-k-no"
+        },
+        {
+            "about": "Pakora",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMdUuOeI0CbnUkoDPACtVQlqoILdrzhMKQ091Y9=w298-h298-k-no"
+        },
+        {
+            "about": "Roti",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPgWLQAQrYJ3eNiN1t_TsRrYUuT9bzZIzp2FO9Q=w238-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPOSMBCiK6aaSxV1Yvl3X2YgF4K1ghee19or04g=w529-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=RStuqbntXYclw-jXO7y_HQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=162.7711&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "5-11 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "Closed"
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "5-11 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "5-11 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "5 p.m.-12 a.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "5 p.m.-12 a.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "5-8 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "I ordered butter chicken roti here, Top notch I loved the flavours and spices of the dish. Ideal for those who looking to taste the delicious Indian cuisine",
+            "reviewer_name": "Angel",
+            "rating": 5,
+            "review_text": "I ordered butter chicken roti here, Top notch I loved the flavours and spices of the dish. Ideal for those who looking to taste the delicious Indian cuisine",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-11T20:09:38.048000Z",
+            "response_from_owner_text": "Thanks for your Feedback.",
+            "response_from_owner_ago": "2 months ago",
+            "response_from_owner_date": "2023-09-22T08:50:37.704000Z",
+            "review_likes_count": 7,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/109421086996121497858/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW0sDpZdxQ80wY76mkJFoZdu7SKG2Wj_k2edOOwpXzqkw=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPs68L2BQb3oUioqrWe-wypQkg_8G5ZClfgjpGH=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "I ordered Mango chicken roti, a unique taste that I ever tasted and samosa. I enjoyed every single bite. Also its quantity is more than enough for two persons. 100% worth for price, Highly recommended for everyone",
+            "reviewer_name": "Kavi Nilla",
+            "rating": 5,
+            "review_text": "I ordered Mango chicken roti, a unique taste that I ever tasted and samosa. I enjoyed every single bite. Also its quantity is more than enough for two persons. 100% worth for price, Highly recommended for everyone",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-04T04:26:26.333000Z",
+            "response_from_owner_text": "Thanks",
+            "response_from_owner_ago": "2 months ago",
+            "response_from_owner_date": "2023-09-22T08:54:54.320000Z",
+            "review_likes_count": 7,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/106940499001446100549/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJcbm1VCCHxfJoz_RdvbHxZhIe59iOBa3hbLIZc3dX1=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNLabE7rwijd0mi21Kf8oiKx6QtwA7SeIpbv_-G=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Amazing roti! The mango chicken roti was unique and flavourful. Huge portions and great value. Interested to order again and try more of the menu.",
+            "reviewer_name": "Quinton Love",
+            "rating": 5,
+            "review_text": "Amazing roti! The mango chicken roti was unique and flavourful. Huge portions and great value. Interested to order again and try more of the menu.",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-29T03:48:51.986000Z",
+            "response_from_owner_text": "Thanks for your Feedback. You can try also mixed vegetable korma roti in Vancouver.",
+            "response_from_owner_ago": "2 months ago",
+            "response_from_owner_date": "2023-09-22T08:54:11.114000Z",
+            "review_likes_count": 7,
+            "total_number_of_reviews_by_reviewer": 6,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/106501456037435836723/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIfBMhK-E4x6s3CDXU9zdeRPxdqPPhMno7VIs-_5fjP=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "This place has the most amazing chicken 65 biriyani and Shahi paneer curry with roti. The portion size is very good, easily enough for 2 people at least. Would highly recommend this place.",
+            "reviewer_name": "Uma Ram",
+            "rating": 5,
+            "review_text": "This place has the most amazing chicken 65 biriyani and Shahi paneer curry with roti. The portion size is very good, easily enough for 2 people at least. Would highly recommend this place.",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-21T18:44:31.452000Z",
+            "response_from_owner_text": "Thanks",
+            "response_from_owner_ago": "2 months ago",
+            "response_from_owner_date": "2023-09-22T08:55:02.609000Z",
+            "review_likes_count": 7,
+            "total_number_of_reviews_by_reviewer": 9,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/103483066256552961659/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUaykxxPzRFL1De6B4u1OlHoq_Tr0B7Tpp7D3rs8A10rg=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Finally i found the delicious indian roti\nAnd indian dishes after a long time ago",
+            "reviewer_name": "Nithish",
+            "rating": 5,
+            "review_text": "Finally i found the delicious indian roti\nAnd indian dishes after a long time ago",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-15T05:01:24.554000Z",
+            "response_from_owner_text": "Thank you for sharing your experience with us. Keep supporting curry&roti Vancouver kitchen",
+            "response_from_owner_ago": "a month ago",
+            "response_from_owner_date": "2023-10-17T05:40:38.216000Z",
+            "review_likes_count": 4,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/106828194212786252889/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXiAGr0ngV3Blcjha51sN7jHSaqUp_wRa8Sx3pb75iRmiI=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "DELICIOUS The roti comes with a big helping of chicken and veggies. Mango Chicken is the absolute best. Everyone needs to try this at least once.",
+            "reviewer_name": "Albert Hounslow",
+            "rating": 5,
+            "review_text": "DELICIOUS The roti comes with a big helping of chicken and veggies. Mango Chicken is the absolute best. Everyone needs to try this at least once.",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-18T02:36:02.873000Z",
+            "response_from_owner_text": "Thanks for order Non-Vegetarian Rotis in Vancouver.",
+            "response_from_owner_ago": "2 months ago",
+            "response_from_owner_date": "2023-09-22T08:51:43.472000Z",
+            "review_likes_count": 4,
+            "total_number_of_reviews_by_reviewer": 35,
+            "total_number_of_photos_by_reviewer": 15,
+            "reviewer_url": "https://www.google.com/maps/contrib/113773157517776289128/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjV2MuBvpq8uvIMB1_FpgpEgilXfgj014klfMbgieCnlshE=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNPz4tvgut4oCJT2UwYfyPJu8wbZdLaN87TdZoI=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "This restaurant transported me back to the streets of India with the flavors of its authentic roti and curry in Vancouver-an absolute delight!\nIndian Roti in Vancouver",
+            "reviewer_name": "Thomas",
+            "rating": 5,
+            "review_text": "This restaurant transported me back to the streets of India with the flavors of its authentic roti and curry in Vancouver-an absolute delight!\nIndian Roti in Vancouver",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-23T06:04:31.763000Z",
+            "response_from_owner_text": "Thank you for sharing your experience with us.keep supporting Curry & Roti Vancouver Kitchen.",
+            "response_from_owner_ago": "a month ago",
+            "response_from_owner_date": "2023-10-23T16:41:39.967000Z",
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/104694916053147304193/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjU4k3FRQi8dCmmyrNRiJzCQ83sruV03iNFW7xneRNypmA=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "The paneer is really good. I like both vegetarian and non veg roti here. Butter chicken was tasty and so was saag paneer. Mango chicken was sweet and spicy and a flavour I hadn't had before.",
+            "reviewer_name": "Yasyuki Muji",
+            "rating": 5,
+            "review_text": "The paneer is really good. I like both vegetarian and non veg roti here. Butter chicken was tasty and so was saag paneer. Mango chicken was sweet and spicy and a flavour I hadn't had before.",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-18T02:32:58.395000Z",
+            "response_from_owner_text": "Thanks for order authentic roti and curry in Vancouver.",
+            "response_from_owner_ago": "2 months ago",
+            "response_from_owner_date": "2023-09-22T08:52:45.783000Z",
+            "review_likes_count": 5,
+            "total_number_of_reviews_by_reviewer": 5,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/113134910781397135053/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLLk7wMIa1oXeiKBA6EqWEHfyNlcHwWD-Wt5eYKZfp3=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

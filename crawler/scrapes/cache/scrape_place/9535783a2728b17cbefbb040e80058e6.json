@@ -1,0 +1,540 @@
+{
+    "place_id": "ChIJcei3k05xhlQR4p79ES3nnj8",
+    "name": "Kyle's Cafe",
+    "description": "Unpretentious Chinese joint serving classics like chow mein & chop suey, plus breakfast.",
+    "reviews": 359,
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Kyle's Cafe (Owner)",
+        "link": null
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOTNQqCTOKdtt93qU7LVSUhBkGrglQY-cI2iL86=w408-h306-k-no",
+    "main_category": "Restaurant",
+    "categories": [
+        "Restaurant",
+        "Chinese restaurant"
+    ],
+    "rating": 4.2,
+    "workday_timing": "8 a.m.-9 p.m.",
+    "closed_on": [],
+    "phone": "(604) 872-5885",
+    "address": "Kyle's Cafe, 2627 Commercial Dr, Vancouver, BC V5N 4C3",
+    "review_keywords": [
+        {
+            "keyword": "breakfast",
+            "count": 44
+        },
+        {
+            "keyword": "chinese food",
+            "count": 32
+        },
+        {
+            "keyword": "cash",
+            "count": 22
+        },
+        {
+            "keyword": "fries",
+            "count": 10
+        },
+        {
+            "keyword": "greasy spoon",
+            "count": 9
+        },
+        {
+            "keyword": "bacon",
+            "count": 7
+        },
+        {
+            "keyword": "pork",
+            "count": 7
+        },
+        {
+            "keyword": "chowmein",
+            "count": 5
+        },
+        {
+            "keyword": "wonton",
+            "count": 5
+        },
+        {
+            "keyword": "mom",
+            "count": 5
+        }
+    ],
+    "link": "https://www.google.com/maps/place/Kyle%27s+Cafe/data=!4m7!3m6!1s0x5486714e93b7e871:0x3f9ee72d11fd9ee2!8m2!3d49.2610075!4d-123.0700124!16s%2Fg%2F1tdcwst2!19sChIJcei3k05xhlQR4p79ES3nnj8?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 8 a.m.",
+    "price_range": "$",
+    "reviews_per_rating": {
+        "1": 14,
+        "2": 15,
+        "3": 47,
+        "4": 107,
+        "5": 176
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJcei3k05xhlQR4p79ES3nnj8&q=Kyle%27s+Cafe&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.2610075,
+        "longitude": -123.0700124
+    },
+    "plus_code": "7W6H+CX Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "Kensington-Cedar Cottage",
+        "street": "2627 Commercial Dr",
+        "city": "Vancouver",
+        "postal_code": "V5N 4C3",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "4584355651471122146",
+    "data_id": "0x5486714e93b7e871:0x3f9ee72d11fd9ee2",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [
+        {
+            "link": "https://www.ubereats.com/ca/store/kyles-cafe/tdOWekp6QO2uJoN_D1zavQ?utm_campaign=place-action-link&utm_medium=organic&utm_source=google",
+            "source": "ubereats.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Outdoor seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Takeout",
+                    "enabled": true
+                },
+                {
+                    "name": "Dine-in",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair accessible seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Alcohol",
+                    "enabled": true
+                },
+                {
+                    "name": "Beer",
+                    "enabled": true
+                },
+                {
+                    "name": "Coffee",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Dining options",
+            "options": [
+                {
+                    "name": "Breakfast",
+                    "enabled": true
+                },
+                {
+                    "name": "Brunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Lunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Dinner",
+                    "enabled": true
+                },
+                {
+                    "name": "Dessert",
+                    "enabled": true
+                },
+                {
+                    "name": "Seating",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosphere",
+            "options": [
+                {
+                    "name": "Casual",
+                    "enabled": true
+                },
+                {
+                    "name": "Cozy",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "crowd",
+            "name": "Crowd",
+            "options": [
+                {
+                    "name": "Groups",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planning",
+            "options": [
+                {
+                    "name": "Accepts reservations",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Cash-only",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "children",
+            "name": "Children",
+            "options": [
+                {
+                    "name": "Good for kids",
+                    "enabled": true
+                },
+                {
+                    "name": "High chairs",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOTNQqCTOKdtt93qU7LVSUhBkGrglQY-cI2iL86=w397-h298-k-no"
+        },
+        {
+            "about": "Latest",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipO9TaUddeDFqpWMXmlYcfTiwEa0uWgcHic4iZ0i=w224-h298-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOOnk08vYArVMMY0iaKlBRwGOtWFgduuCO2m2IF=w224-h398-k-no"
+        },
+        {
+            "about": "Menu",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNACqBmpdQjxWRzR1AtKk3FJh1reuEwb56ka5al=w397-h298-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipO9KYsMQ-x8IuB3s9Ybi54d2Y6Ny9rJ9hU4opKh=w397-h298-k-no"
+        },
+        {
+            "about": "Vibe",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPo3orMtetV1mt5Y_aiu5mVRfEqkX9CJbbHazdp=w397-h298-k-no"
+        },
+        {
+            "about": "Bacon",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNL5znHMcDxtwKXQANbyjvWmBRqWRJ758dOI566=w397-h298-k-no"
+        },
+        {
+            "about": "French fries",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNOScJFiWxLrcFFuXiS_aG0Su0zK3kUHwcJ19J5=w529-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=yxXvaVTtoHt9tnR1Y8yotA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=272.77722&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "8 a.m.-9 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "8 a.m.-9 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "8 a.m.-9 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "8 a.m.-9 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "8 a.m.-9 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "8 a.m.-9 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "8 a.m.-9 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "The restaurant definitely feels like a blast from the past, it kinda smells like commercial so cigarettes and weed which is not my favourite and it's kinda drafty but it adds to the experience and me and my friends are kinda crazy so 5 stars. The food is also decent, they have a big variety and it's pretty good. Overall I think it's a fun experience to come with friends.\n\nI really like their deep fried prawns. And I want to try their brunch here too.\n\nThe photos are from 2 separate times we went.",
+            "reviewer_name": "Roxy Wang",
+            "rating": 5,
+            "review_text": "The restaurant definitely feels like a blast from the past, it kinda smells like commercial so cigarettes and weed which is not my favourite and it's kinda drafty but it adds to the experience and me and my friends are kinda crazy so 5 stars. The food is also decent, they have a big variety and it's pretty good. Overall I think it's a fun experience to come with friends.\n\nI really like their deep fried prawns. And I want to try their brunch here too.\n\nThe photos are from 2 separate times we went.",
+            "published_at": "3 weeks ago",
+            "published_at_date": "2023-11-09T00:24:27.836000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 18,
+            "total_number_of_photos_by_reviewer": 217,
+            "reviewer_url": "https://www.google.com/maps/contrib/116910475483837499130/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLbgK0uf-0_qu8i0iJk_naoUJftawBujmIvP8ujEMXG=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMPjDeElQSP7J8oCLJ7CA53Gl9xZo6TPWuvdFNH=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipON1XaqoP4sJSGRlTaonUfWySDJBch8bIoPKjkc=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPug_dKxb7a9yVcbNLkelVeAVA2sFE6CaEGPAHn=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipO7ofMjnA1NEUe5ksMSN_B2Sbm1HuY4owUwrV9J=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipO2hUp3Aeju2eSMPUZzGEIRttZ_ydQ4wx5GwpcQ=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipO1gcn7w7WOOlDxEDIE3Mvc6_QO5-AK4NAd9HPZ=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOhdBbkdoOhQrFNlHbbpuXesrhRiSuMLf_aTv5I=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMelq5k07ZTzH1Qx4CVjTkvwWxdcWDcfyFI_si1=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNB7nSksI_Y5-J4BKWpEmbnpiX5zEQqa8kUfpQl=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNACqBmpdQjxWRzR1AtKk3FJh1reuEwb56ka5al=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPIT6XApAR1mnUBbpSlfc02sgGujRJGx2Pq3yl4=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipO9nvUWmNKJxFoVvGyu4dPj3urZMogyBLY1yZbz=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNdOXa5P_Zzk_6WPehkSKC-xGtiok_xmW1tSJg9=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOptqbuZ2kAT8Bc7Bph7hBnlQsl8TsrqpdlGhu2=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPq9ynxuTwTpk_9IdeME0vIfbfZYOP8d3V3FZhh=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipO9TaUddeDFqpWMXmlYcfTiwEa0uWgcHic4iZ0i=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Came to this cafe while waiting for my motorcycle tires to be installed at Modern.\n\nOrdered the bacon tomato benny and it was pretty good. I asked for water and the cup it came in had some weird dirty thing inside the cup so I had to exchange for another one. That was a bit off putting considering the water came before the meal.\n\nEverything in the store was quite outdated. Chairs were ripped with holes. You can't expect too much.\n\nOverall, the food was decent and if there's nothing open at 9:30am, I may come back.",
+            "reviewer_name": "Jordan Hsieh",
+            "rating": 3,
+            "review_text": "Came to this cafe while waiting for my motorcycle tires to be installed at Modern.\n\nOrdered the bacon tomato benny and it was pretty good. I asked for water and the cup it came in had some weird dirty thing inside the cup so I had to exchange for another one. That was a bit off putting considering the water came before the meal.\n\nEverything in the store was quite outdated. Chairs were ripped with holes. You can't expect too much.\n\nOverall, the food was decent and if there's nothing open at 9:30am, I may come back.",
+            "published_at": "6 months ago",
+            "published_at_date": "2023-05-17T15:47:33.579000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 25,
+            "total_number_of_photos_by_reviewer": 74,
+            "reviewer_url": "https://www.google.com/maps/contrib/102010419164143366355/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXdDHxo0N24pXU2Ga9BJzdxo_T1uohPflWic7zt8KWZdokI=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOpBrMn-RQaRDppmQlREThpkNqr4x_4-tkQo1rB=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNN0llF0p3wijYpzUNymoFDGnk0AuvWN9TWCZiS=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Amazing place for a quick and tasteful breakfast/brunch!\n\nWould come back again",
+            "reviewer_name": "Jason Du",
+            "rating": 5,
+            "review_text": "Amazing place for a quick and tasteful breakfast/brunch!\n\nWould come back again",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-25T19:28:22.135000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 8,
+            "total_number_of_photos_by_reviewer": 5,
+            "reviewer_url": "https://www.google.com/maps/contrib/116485795335846646706/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWfrFYkALQNCLnrUwb1MFhSfqCFafZ6kbodacNmowpwYG0=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOVklXRG5tcQdefoznkDl7sQ4bDbALC1aayZXFW=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipO9KYsMQ-x8IuB3s9Ybi54d2Y6Ny9rJ9hU4opKh=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "This is a very peaceful restaurant with a delicious menu for a very reasonable price! Portions are big",
+            "reviewer_name": "Jessica Spasic",
+            "rating": 5,
+            "review_text": "This is a very peaceful restaurant with a delicious menu for a very reasonable price! Portions are big",
+            "published_at": "4 weeks ago",
+            "published_at_date": "2023-11-02T05:24:29.901000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 13,
+            "total_number_of_photos_by_reviewer": 6,
+            "reviewer_url": "https://www.google.com/maps/contrib/111645747301836225306/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJpatJ13Lu_f0dQyx3I7UjJrWB3TzTX68L0dWnktNLQ5Yw=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPROCdcKTJo97E_2BXocR4xfwLjVKGUnAelj5sz=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "My breakfast bacon and eggs were alright. It was a little plain for me but still tasty. My wife ordered some eggs and noodles that didn't really taste the greatest. They also need to tell customers ahead of time that it's a cash only restaurant. It was our first time here and they only let us know by the time of paying the bill and we had to find an ATM around.",
+            "reviewer_name": "Nicholas Vaz",
+            "rating": 2,
+            "review_text": "My breakfast bacon and eggs were alright. It was a little plain for me but still tasty. My wife ordered some eggs and noodles that didn't really taste the greatest. They also need to tell customers ahead of time that it's a cash only restaurant. It was our first time here and they only let us know by the time of paying the bill and we had to find an ATM around.",
+            "published_at": "5 months ago",
+            "published_at_date": "2023-06-10T21:20:24.304000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 8,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/107911666503876715713/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUWpoVHks5UxdDE_1HMjSQCKu7M6F5w-StPBJCtsDPilvDZ=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Friendly service, good variety of food. Ordered a black pepper beef noodle and the cod and tofu in pot.\nThe noodle was well done, flavorful and lots of meat and veggies. There were both crispy and soft noodles. The cod was in a thick batter that was spongy and didn't have much fish taste. I didn't like this one very much.\nA good place to have decent Chinese food in this area. We asked for less salt and oil in both dishes and they paid attention to our requests.\nCash only.",
+            "reviewer_name": "Sarah Wong",
+            "rating": 4,
+            "review_text": "Friendly service, good variety of food. Ordered a black pepper beef noodle and the cod and tofu in pot.\nThe noodle was well done, flavorful and lots of meat and veggies. There were both crispy and soft noodles. The cod was in a thick batter that was spongy and didn't have much fish taste. I didn't like this one very much.\nA good place to have decent Chinese food in this area. We asked for less salt and oil in both dishes and they paid attention to our requests.\nCash only.",
+            "published_at": "5 years ago",
+            "published_at_date": "2018-06-03T04:48:17.456000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 4,
+            "total_number_of_reviews_by_reviewer": 101,
+            "total_number_of_photos_by_reviewer": 221,
+            "reviewer_url": "https://www.google.com/maps/contrib/114952090153602826952/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVJalLytu_pBU4hC7IQvV6kLEWL4d2a5M67IM6sJISW0w=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOz26gVX__9aXd28P-k8zY3P3HMBiny_q5Bzqyj=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipP-pfvuVYFdrANapqhHFRx99OowQuxwMUMlUz5N=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOfAInSSlqp6tGs1m7Q3n4oQeHk9VyvEmlTk5av=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMnKzZJhpg1fOZGRSvjq6pI5TuATNviBbiu_1UI=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Wanted cheap eggs benedict and found this place.\n$10.95 for two bennys with bacon and tomato, plus hasbrowns is not bad.\n\nDefinitely tastes better than the really cheaper places like Nice Cafe (which has closed down now). They dont cheap out on the bacon and give you full pieces and layers.\n\nAlso had the sunriser breakfast. Pancakes probably worse than making my own. The portions were really good.\n\nThere is one friendly waitress and one lazy waitress. They speak cantonese so I know everything they said. I was trying to wave to the lazy one to ask to pay and instead, the chef saw me and told her a customer needs attention. She responded \"what customer? I don't see anyone who needs me.\" When she finally saw me, she told the other waitress \"go collect the money.\" She started speaking loudly about anything she wanted thinking that none of the customers understood - including all the different types of ethnic food she hates, and her bladder functions. A star is taken off for this waitress.\n\nI haven't tried the chinese food but this is the old western style non-authentic chinese food that I don't really like so I wouldn't be trying it anyways. Come for the breakfast!",
+            "reviewer_name": "Kate Choi",
+            "rating": 4,
+            "review_text": "Wanted cheap eggs benedict and found this place.\n$10.95 for two bennys with bacon and tomato, plus hasbrowns is not bad.\n\nDefinitely tastes better than the really cheaper places like Nice Cafe (which has closed down now). They dont cheap out on the bacon and give you full pieces and layers.\n\nAlso had the sunriser breakfast. Pancakes probably worse than making my own. The portions were really good.\n\nThere is one friendly waitress and one lazy waitress. They speak cantonese so I know everything they said. I was trying to wave to the lazy one to ask to pay and instead, the chef saw me and told her a customer needs attention. She responded \"what customer? I don't see anyone who needs me.\" When she finally saw me, she told the other waitress \"go collect the money.\" She started speaking loudly about anything she wanted thinking that none of the customers understood - including all the different types of ethnic food she hates, and her bladder functions. A star is taken off for this waitress.\n\nI haven't tried the chinese food but this is the old western style non-authentic chinese food that I don't really like so I wouldn't be trying it anyways. Come for the breakfast!",
+            "published_at": "2 years ago",
+            "published_at_date": "2021-07-06T23:41:36.851000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 7,
+            "total_number_of_reviews_by_reviewer": 171,
+            "total_number_of_photos_by_reviewer": 302,
+            "reviewer_url": "https://www.google.com/maps/contrib/100153545699478232597/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLi__naKq9Z3XEgR57LM_jojS1dSmiTQQURpmy5oXzD=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipODr2wxwOMbTky79D4GLovXHiHaV7AUcShcpo24=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipO_nDuIvoNyuW33MA-to13u6oNw0igYWG95NzFj=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "You can tell the history of this place even before you step past its door. Dim lighting. A few metered parking at front. Service was quite decent. But the food was just okay. The sweat sour pork tasted weird. Perhaps something to do with the oil or the meat. They probably thought quantity would make up for the quality. Sorry, no, it does not work that way.",
+            "reviewer_name": "Bobby",
+            "rating": 3,
+            "review_text": "You can tell the history of this place even before you step past its door. Dim lighting. A few metered parking at front. Service was quite decent. But the food was just okay. The sweat sour pork tasted weird. Perhaps something to do with the oil or the meat. They probably thought quantity would make up for the quality. Sorry, no, it does not work that way.",
+            "published_at": "5 years ago",
+            "published_at_date": "2018-05-05T05:52:27.394000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 99,
+            "total_number_of_photos_by_reviewer": 390,
+            "reviewer_url": "https://www.google.com/maps/contrib/102266422375194808350/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjV3JgPdBMXQwtWRIMtytW397arEDsLP3PrmFLR1BfhqAR4=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOlGOIfu6RJBz9PNGPlNTDxlVirPPzI30rM_996=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPRvbzr5d9wOu8tDH4KqK57y0bFXD7YvYI4Hmr5=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPErc8vW3lIJr4cT-VdvhGz-hcPRdcpYDiRg3vb=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPoK883swCzX5_CGWTRCiHwGXw6cVpyV_CPbUqI=w150-h150-k-no-p"
+            ]
+        }
+    ],
+    "is_spending_on_ads": false
+}

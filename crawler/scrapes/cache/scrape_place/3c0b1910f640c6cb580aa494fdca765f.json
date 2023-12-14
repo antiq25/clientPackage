@@ -1,0 +1,578 @@
+{
+    "place_id": "ChIJq6quTYBxhlQReied3xGjDic",
+    "name": "The Roof at Black & Blue",
+    "description": null,
+    "reviews": 249,
+    "website": "https://www.glowbalgroup.com/the-roof/",
+    "owner": {
+        "id": "114323419215155766893",
+        "name": "The Roof at Black & Blue (Owner)",
+        "link": "https://www.google.com/maps/contrib/114323419215155766893"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPYEV39VcUIkP6lI-n4rB1MFpx5LgHVsShnvbMI=w408-h270-k-no",
+    "main_category": "Restaurant",
+    "categories": [
+        "Restaurant",
+        "Food and drink"
+    ],
+    "rating": 4.3,
+    "workday_timing": "11:30 a.m.-12 a.m.",
+    "closed_on": [],
+    "phone": "(604) 637-0777",
+    "address": "The Roof at Black & Blue, 1032 Alberni St 3rd floor, Vancouver, BC V6E 1A3",
+    "review_keywords": [
+        {
+            "keyword": "happy hour",
+            "count": 22
+        },
+        {
+            "keyword": "birthday",
+            "count": 17
+        },
+        {
+            "keyword": "mac and cheese",
+            "count": 16
+        },
+        {
+            "keyword": "patio",
+            "count": 15
+        },
+        {
+            "keyword": "oysters",
+            "count": 9
+        },
+        {
+            "keyword": "wagyu",
+            "count": 7
+        },
+        {
+            "keyword": "lobster",
+            "count": 6
+        },
+        {
+            "keyword": "flatbread",
+            "count": 6
+        },
+        {
+            "keyword": "mice",
+            "count": 5
+        },
+        {
+            "keyword": "brussel sprouts",
+            "count": 5
+        }
+    ],
+    "link": "https://www.google.com/maps/place/The+Roof+at+Black+%26+Blue/data=!4m7!3m6!1s0x548671804daeaaab:0x270ea311df9d277a!8m2!3d49.2845878!4d-123.1229323!16s%2Fg%2F11h0ym1jth!19sChIJq6quTYBxhlQReied3xGjDic?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 11:30 a.m.",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 15,
+        "2": 14,
+        "3": 15,
+        "4": 44,
+        "5": 161
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJq6quTYBxhlQReied3xGjDic&q=The+Roof+at+Black+%26+Blue&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.2845878,
+        "longitude": -123.12293229999999
+    },
+    "plus_code": "7VMG+RR Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "Central Vancouver",
+        "street": "1032 Alberni St 3rd floor",
+        "city": "Vancouver",
+        "postal_code": "V6E 1A3",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "2814366114314528634",
+    "data_id": "0x548671804daeaaab:0x270ea311df9d277a",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [
+        {
+            "link": "https://www.sevenrooms.com/reservations/blackandbluevancouver",
+            "source": "sevenrooms.com"
+        }
+    ],
+    "order_online_links": [
+        {
+            "link": "https://www.sevenrooms.com/reservations/blackandbluevancouver",
+            "source": "sevenrooms.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Outdoor seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Dine-in",
+                    "enabled": true
+                },
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "highlights",
+            "name": "Highlights",
+            "options": [
+                {
+                    "name": "Great cocktails",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair accessible seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Alcohol",
+                    "enabled": true
+                },
+                {
+                    "name": "Beer",
+                    "enabled": true
+                },
+                {
+                    "name": "Cocktails",
+                    "enabled": true
+                },
+                {
+                    "name": "Coffee",
+                    "enabled": true
+                },
+                {
+                    "name": "Hard liquor",
+                    "enabled": true
+                },
+                {
+                    "name": "Late-night food",
+                    "enabled": true
+                },
+                {
+                    "name": "Small plates",
+                    "enabled": true
+                },
+                {
+                    "name": "Wine",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Dining options",
+            "options": [
+                {
+                    "name": "Lunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Dinner",
+                    "enabled": true
+                },
+                {
+                    "name": "Dessert",
+                    "enabled": true
+                },
+                {
+                    "name": "Seating",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Bar on-site",
+                    "enabled": true
+                },
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosphere",
+            "options": [
+                {
+                    "name": "Cozy",
+                    "enabled": true
+                },
+                {
+                    "name": "Romantic",
+                    "enabled": true
+                },
+                {
+                    "name": "Upscale",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "crowd",
+            "name": "Crowd",
+            "options": [
+                {
+                    "name": "Groups",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planning",
+            "options": [
+                {
+                    "name": "Accepts reservations",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "children",
+            "name": "Children",
+            "options": [
+                {
+                    "name": "High chairs",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPYEV39VcUIkP6lI-n4rB1MFpx5LgHVsShnvbMI=w448-h298-k-no"
+        },
+        {
+            "about": "Latest",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOganc2XIxER_j2qaKBIalypZvs0Xt1yuJeD7Y6=w224-h398-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPiHfdKu910cqNXEFSv9zVQIuutf0xVoOGZprwg=w224-h398-k-no"
+        },
+        {
+            "about": "Menu",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOsoFv-HZQXY3W0gGaJw1ltis94P64ABOH-ZhbY=w397-h298-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNUWXn495DIazW843UwGtijBMyM6ty8CdGkxeUy=w297-h298-k-no"
+        },
+        {
+            "about": "Vibe",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOklT6Xuh2Pc3O2I9xa8jYc73l3bz6Idzrtf8Z0=w224-h298-k-no"
+        },
+        {
+            "about": "Oyster",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipN-MvWkQAw0_iQF5ECjeZA6ZuCZgSf81MODe4QC=w224-h298-k-no"
+        },
+        {
+            "about": "Carpaccio",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOKv90FbskkMZfAYKx1RQevtwHjZTN8WUPeSmCg=w662-h298-k-no"
+        },
+        {
+            "about": "Mozzarella sticks",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMu8T-7_L-zRoxuhQCoyBfYCNdOuL21PA1lK_cp=w224-h298-k-no"
+        },
+        {
+            "about": "Charcuterie",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPWqARBp-NY1uupNht5vohZYvLZ6S1wzWvZnisf=w397-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOG1V6nUfLecVYwoVr1WDiOExHQL7W9WQz46jn5=w297-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=1KGVZ78BWKvR97vp466SOg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=210.55396&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "11:30 a.m.-12 a.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "11:30 a.m.-12 a.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "11:30 a.m.-12 a.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "11:30 a.m.-12 a.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "11:30 a.m.-12 a.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "11:30 a.m.-12 a.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "11:30 a.m.-12 a.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "Very good food in a very nice location.\nFancy food and according high prices.\n\nFood: Very good food all-around. Great meat and very tasty side dishes. (We loved the meat and mushroom risotto)\nDishes are more on the fancy side.\n\nService: Very friendly and professional service as one would expect from such a restaurant.\n\nAmbiance: Stunning location fancy but laid back. We enjoyed it.\n\nPrice: It is quite expensive\n\nDish recommendation: Anything meat. And the mushroom risotto.\n\nConclusion: Very nice place with great food. Just mind the prices.",
+            "reviewer_name": "Andreas Jacobi",
+            "rating": 5,
+            "review_text": "Very good food in a very nice location.\nFancy food and according high prices.\n\nFood: Very good food all-around. Great meat and very tasty side dishes. (We loved the meat and mushroom risotto)\nDishes are more on the fancy side.\n\nService: Very friendly and professional service as one would expect from such a restaurant.\n\nAmbiance: Stunning location fancy but laid back. We enjoyed it.\n\nPrice: It is quite expensive\n\nDish recommendation: Anything meat. And the mushroom risotto.\n\nConclusion: Very nice place with great food. Just mind the prices.",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-28T04:46:37.779000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 56,
+            "total_number_of_photos_by_reviewer": 67,
+            "reviewer_url": "https://www.google.com/maps/contrib/102106324088239350036/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocI5kp8Q8QKmpawrX8TfDhJd7_U-j39zrXhoZvZo9OYj=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPj73v-EZSAEIfX9ipcfAMtyxBWTgVP4lwk0Fn-=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipONtpOmj0zsHMxKosMkQyoKMHxjuViAj_FMSv2-=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNj6v3ri6m2BROjbvanauRRtYoBsOgZnujwIO6a=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNlAwGoytWIr4LsBTFY08_Iiuft8FB_LBm9uQf1=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMqohepaVLDdVOq2COy2XDoa2t9wog5RyzyMRNf=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "I think we tried nearly everything on the happy hour menu, loved the carpaccio.  We would have liked to have a little faster drink service but, that's the only issue we had. Everything was great.",
+            "reviewer_name": "Erin",
+            "rating": 5,
+            "review_text": "I think we tried nearly everything on the happy hour menu, loved the carpaccio.  We would have liked to have a little faster drink service but, that's the only issue we had. Everything was great.",
+            "published_at": "2 weeks ago",
+            "published_at_date": "2023-11-16T00:47:49.491000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 36,
+            "total_number_of_photos_by_reviewer": 22,
+            "reviewer_url": "https://www.google.com/maps/contrib/105928275200071435138/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUzSYENbJ3aMD8TxfmtKmB_YRM_ZKsTzpOPMLqP5o3wJ8A=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMZ5CFuKRqmBS_OBsLe_4VZVfeILhtpL7bKNgCv=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipM5IOdFabdat6yiSB5W50EN3DUn-pLrMBvGSGrJ=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPs9HL7xWJ_7yGvAS9gybuykEAgQ17pWDIa8PwR=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "We had an impressive lunch at The Roof. The food was fantastic, and we thoroughly enjoyed it. We want to express our heartfelt thanks to Chef Ray and Justin for crafting such a memorable meal and the service.",
+            "reviewer_name": "JAY JIANG",
+            "rating": 5,
+            "review_text": "We had an impressive lunch at The Roof. The food was fantastic, and we thoroughly enjoyed it. We want to express our heartfelt thanks to Chef Ray and Justin for crafting such a memorable meal and the service.",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-11T20:15:18.748000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 39,
+            "total_number_of_photos_by_reviewer": 41,
+            "reviewer_url": "https://www.google.com/maps/contrib/113374404355600524073/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIQdXeJs-7GY97EYUQiPrnWnHxABLz4rJ2z7OGrVh6f=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipM-FYvn6y4l8E4Tp0FPCum6oLD43w6EnECY2FcW=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPPhElZZfDd96W8LXHbUokhUPtpfoqVVaYRoNoj=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "The happy hour oysters at The Roof at Black & Blue were an absolute delight. They were incredibly fresh, making for a perfect appetizer or snack. The ambiance and view from The Roof added to the overall experience, creating a memorable and enjoyable experience. I highly recommend stopping by during their happy hour to savor these fantastic oysters.",
+            "reviewer_name": "Sally L",
+            "rating": 4,
+            "review_text": "The happy hour oysters at The Roof at Black & Blue were an absolute delight. They were incredibly fresh, making for a perfect appetizer or snack. The ambiance and view from The Roof added to the overall experience, creating a memorable and enjoyable experience. I highly recommend stopping by during their happy hour to savor these fantastic oysters.",
+            "published_at": "3 weeks ago",
+            "published_at_date": "2023-11-09T06:18:49.129000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 40,
+            "total_number_of_photos_by_reviewer": 33,
+            "reviewer_url": "https://www.google.com/maps/contrib/106707768874942134614/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXhdAF7_yjGWkmia34q43z7pxY1_wqDq3_XHvNrexJalg=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNUXTRgo1T5VnHdPNbzaeD4QB-TLi7VlO55I2A=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Our first time in Vancouver BC and after a heavy days shopping we visited this restaurant, having passed it earlier in the day, for a quick drink. We initially sat outside at street level only to be directed to the roof terrace accessed by a lift - this was a fortunate move for us that was well received.\n\nBriefly; a stunning roof terrace with the kitchen open to the seating area. Not much of a view but the cool vibe, smooth fixtures and furniture and chilled sound track more than made up for this. Our drink quickly turned into a meal and several drinks. The food was excellent and not as pricey as the surroundings would lead you to believe. The waiting staff were as alert and attentive than any that I have encountered. A lush experience. I fully recommend a visit.",
+            "reviewer_name": "p bailey",
+            "rating": 5,
+            "review_text": "Our first time in Vancouver BC and after a heavy days shopping we visited this restaurant, having passed it earlier in the day, for a quick drink. We initially sat outside at street level only to be directed to the roof terrace accessed by a lift - this was a fortunate move for us that was well received.\n\nBriefly; a stunning roof terrace with the kitchen open to the seating area. Not much of a view but the cool vibe, smooth fixtures and furniture and chilled sound track more than made up for this. Our drink quickly turned into a meal and several drinks. The food was excellent and not as pricey as the surroundings would lead you to believe. The waiting staff were as alert and attentive than any that I have encountered. A lush experience. I fully recommend a visit.",
+            "published_at": "5 months ago",
+            "published_at_date": "2023-06-30T03:41:46.848000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 130,
+            "total_number_of_photos_by_reviewer": 917,
+            "reviewer_url": "https://www.google.com/maps/contrib/118015106458894252519/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXmet_40LHlxC1ecceLYxlAfU8zghH5snpUc_8JVULHEvUF=s120-c-rp-mo-ba6-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipO-eCnWZ_klobR-fBoAGLYRiQvw5J8lghqO8Or1=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOu0mpMKZ8tpGfD-ET96fcmFv0FZSm7Gqs1-Gsn=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipM5meaewUE7mQYAymXhZpIirpnOeBDyPX6RMHlF=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "This is a cool place for sure, but we went for Happy Hour and had better food in other places in Vancouver for sure. The Mac and cheese bites were good, but the wagyu brisket was over cooked. Overall it wasn't bad, but def over priced for all the hype.",
+            "reviewer_name": "Caroline Begley",
+            "rating": 4,
+            "review_text": "This is a cool place for sure, but we went for Happy Hour and had better food in other places in Vancouver for sure. The Mac and cheese bites were good, but the wagyu brisket was over cooked. Overall it wasn't bad, but def over priced for all the hype.",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-07T12:14:43.517000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 125,
+            "total_number_of_photos_by_reviewer": 56,
+            "reviewer_url": "https://www.google.com/maps/contrib/116540171279622365431/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjV6JjKfAPDUNxZOoIQuLUUItKlad77F9tEAtW9LZWxI3A=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOh4lBpkzfo3ENf6roCiPWkHYH0coDSCIYi8Os=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "I like the atmosphere here, always good vibes around. We tried dine out 2023, the appetizer I chose scallops and bacon, I liked it. The main steak I ordered as medium rare, inside was perfect, but bit overcooked outside for me....it was hard. The sauce was good as well the side. I wish I had a more variety of salad thou. The dessert creme brulee was bit sweet to me. Overall, it was good, but not the best this year.",
+            "reviewer_name": "Chocolatitto",
+            "rating": 4,
+            "review_text": "I like the atmosphere here, always good vibes around. We tried dine out 2023, the appetizer I chose scallops and bacon, I liked it. The main steak I ordered as medium rare, inside was perfect, but bit overcooked outside for me....it was hard. The sauce was good as well the side. I wish I had a more variety of salad thou. The dessert creme brulee was bit sweet to me. Overall, it was good, but not the best this year.",
+            "published_at": "9 months ago",
+            "published_at_date": "2023-02-05T06:43:40.053000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 45,
+            "total_number_of_photos_by_reviewer": 153,
+            "reviewer_url": "https://www.google.com/maps/contrib/117942432987686672717/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIcEWVy_55znh-OROW590vNFLqm1GXdx3Hmbcm8Ox2P=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMZJ1q8wrQVhUMNJb08PRgOZl-3YakCzOPq8PwD=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOsoFv-HZQXY3W0gGaJw1ltis94P64ABOH-ZhbY=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNav2UM3tIl50aBMstpnslZQVJVEUZPbY7mVwAU=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNG-5hOYWF_1_G0y8z-msYb6eBJIyvFAsjWTuSZ=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMPCUgHDj782AqM_MT5n27zNc60jTLaIQiWUySR=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNLkby3nuAa9Ebeqtk2MngIasGnw16svuMcWpO0=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "We came for happy hour to the roof on a Thursday. Most of the tables were full but we were able to get a spot. I always love the view up at the Roof because you can see the Fairmont from there.\n\nWe ordered the Wagyu beef carpaccio, the ahi tuna tartare and the oysters. For cocktails we got the sangria and Prosecco.\n\nThe Wagyu beef carpaccio was lacking in beef flavour. It was cut a little too thin for me to pick up (just a snag). The tuna tartare was not bad. Very fresh tasting and I liked the addition of the pineapple. The chip went perfectly with the tuna tartare. The oysters were pretty standard. The sangria was delicious as usual.\n\nOverall for happy hour they have a pretty big menu compared to other restaurants. They have a wide variety and the portions are pretty big. The service was super friendly and helpful when it comes to making decisions on the menu. This is the place to be if you are looking for a snack and drinks with friends and a nice location but not for food",
+            "reviewer_name": "Stephanie",
+            "rating": 3,
+            "review_text": "We came for happy hour to the roof on a Thursday. Most of the tables were full but we were able to get a spot. I always love the view up at the Roof because you can see the Fairmont from there.\n\nWe ordered the Wagyu beef carpaccio, the ahi tuna tartare and the oysters. For cocktails we got the sangria and Prosecco.\n\nThe Wagyu beef carpaccio was lacking in beef flavour. It was cut a little too thin for me to pick up (just a snag). The tuna tartare was not bad. Very fresh tasting and I liked the addition of the pineapple. The chip went perfectly with the tuna tartare. The oysters were pretty standard. The sangria was delicious as usual.\n\nOverall for happy hour they have a pretty big menu compared to other restaurants. They have a wide variety and the portions are pretty big. The service was super friendly and helpful when it comes to making decisions on the menu. This is the place to be if you are looking for a snack and drinks with friends and a nice location but not for food",
+            "published_at": "a year ago",
+            "published_at_date": "2022-08-25T18:29:20.625000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 242,
+            "total_number_of_photos_by_reviewer": 889,
+            "reviewer_url": "https://www.google.com/maps/contrib/110279979533432439565/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIZ1M-Aj_oFZfyj58HWM1wWBpDQLUZnTjPF70Lppwlt_CY=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPqutKrT0kWiuSveWlC6F01ohOduIGnDMzCloLF=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipP5XoFLK5INxiREdUQJrUGVQGXKe5oriRMI7aV1=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipP94iJMlirSoyQIMBakwU7PcPd3KL_vMJMQ1ZhQ=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNnKbufyA2kUkjsKoLHGVe9OjLovZLairoILh1q=w150-h150-k-no-p"
+            ]
+        }
+    ],
+    "is_spending_on_ads": false
+}

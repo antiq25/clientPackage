@@ -1,0 +1,113 @@
+{
+    "place_id": "ChIJa566BrF1hlQRX_s9DokZY80",
+    "name": "Vivi's Cozy Home in Vancouver",
+    "description": null,
+    "reviews": null,
+    "website": null,
+    "owner": {
+        "id": "116140433828125928578",
+        "name": "Vivi's Cozy Home in Vancouver (Owner)",
+        "link": "https://www.google.com/maps/contrib/116140433828125928578"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=B2C2YF9IUFKQR206Hv7Y1g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=257.34866&pitch=0&thumbfov=100",
+    "main_category": "Vacation home rental agency",
+    "categories": [
+        "Vacation home rental agency"
+    ],
+    "rating": null,
+    "workday_timing": "Open 24 hours",
+    "closed_on": [],
+    "phone": null,
+    "address": "Vivi's Cozy Home in Vancouver, 6093 Victoria Dr, Vancouver, BC V5P 3X1",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/Vivi%27s+Cozy+Home+in+Vancouver/data=!4m7!3m6!1s0x548675b106ba9e6b:0xcd6319890e3dfb5f!8m2!3d49.2289366!4d-123.0659933!16s%2Fg%2F11vl0r1czp!19sChIJa566BrF1hlQRX_s9DokZY80?authuser=0&hl=en&rclk=1",
+    "status": "Open 24 hours",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJa566BrF1hlQRX_s9DokZY80&q=Vivi%27s+Cozy+Home+in+Vancouver&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.2289366,
+        "longitude": -123.06599329999999
+    },
+    "plus_code": "6WHM+HJ Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "South Vancouver",
+        "street": "6093 Victoria Dr",
+        "city": "Vancouver",
+        "postal_code": "V5P 3X1",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "14799700876909738847",
+    "data_id": "0x548675b106ba9e6b:0xcd6319890e3dfb5f",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=B2C2YF9IUFKQR206Hv7Y1g&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=257.34866&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=B2C2YF9IUFKQR206Hv7Y1g&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=257.34866&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "Open 24 hours"
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "Open 24 hours"
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "Open 24 hours"
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "Open 24 hours"
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "Open 24 hours"
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "Open 24 hours"
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "Open 24 hours"
+            ]
+        }
+    ],
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

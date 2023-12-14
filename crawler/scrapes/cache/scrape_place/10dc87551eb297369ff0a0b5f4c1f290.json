@@ -1,0 +1,405 @@
+{
+    "place_id": "ChIJVVVJod1zhlQRsBzBbvYbDrA",
+    "name": "Allegro Cafe",
+    "description": null,
+    "reviews": 9,
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Allegro Cafe (Owner)",
+        "link": null
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMvKw1kLQWIx507AAwDjjTZjBKUvukpQ-pNXFqT=w408-h248-k-no",
+    "main_category": "Restaurant",
+    "categories": [
+        "Restaurant"
+    ],
+    "rating": 4,
+    "workday_timing": "7 a.m.-2 p.m.",
+    "closed_on": [],
+    "phone": null,
+    "address": "Allegro Cafe, 510 W 8th Ave, Vancouver, BC V5Z 1C6",
+    "review_keywords": [
+        {
+            "keyword": "coffee",
+            "count": 6
+        }
+    ],
+    "link": "https://www.google.com/maps/place/Allegro+Cafe/data=!4m7!3m6!1s0x548673dda1495555:0xb00e1bf66ec11cb0!8m2!3d49.264022!4d-123.1152825!16s%2Fg%2F11rgh74vsk!19sChIJVVVJod1zhlQRsBzBbvYbDrA?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 7 a.m.",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 2,
+        "3": 0,
+        "4": 3,
+        "5": 4
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJVVVJod1zhlQRsBzBbvYbDrA&q=Allegro+Cafe&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.264022,
+        "longitude": -123.11528249999999
+    },
+    "plus_code": "7V7M+JV Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "West Side",
+        "street": "510 W 8th Ave",
+        "city": "Vancouver",
+        "postal_code": "V5Z 1C6",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "12686107945583320240",
+    "data_id": "0x548673dda1495555:0xb00e1bf66ec11cb0",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Takeout",
+                    "enabled": true
+                },
+                {
+                    "name": "Dine-in",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "highlights",
+            "name": "Highlights",
+            "options": [
+                {
+                    "name": "Great tea selection",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair accessible seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Coffee",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Dining options",
+            "options": [
+                {
+                    "name": "Breakfast",
+                    "enabled": true
+                },
+                {
+                    "name": "Lunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Dessert",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosphere",
+            "options": [
+                {
+                    "name": "Casual",
+                    "enabled": true
+                },
+                {
+                    "name": "Cozy",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMvKw1kLQWIx507AAwDjjTZjBKUvukpQ-pNXFqT=w488-h298-k-no"
+        },
+        {
+            "about": "Vibe",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMWpA2yBcPsItTCK4Qt40qvnONiATxYGARiK0Dr=w561-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=iyeYkP6Via0LktjePXek_A&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=228.58102&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "7 a.m.-2 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "7 a.m.-2 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "7 a.m.-2 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "7 a.m.-2 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "7 a.m.-2 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "7 a.m.-2 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "7 a.m.-2 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "Allegro is a very cool coffee shop because it's perched above Whole Foods Market.  You can have a coffee and get a bird's-eye view of the store, or watch out the window at the traffic on Cambie Street.  There's a nice selection of food in the coffee shop and you can get a much wider selection of ready to eat food in Whole Foods Market.  The coffee is good, the staff are great, service is fast.  They do a lot of recycling in the coffee shop and the Market.  WiFi is good.  Bathroom is good.  The only problem is that (at the moment) the coffee shop closes at 2PM.  But there is cafe seating in the Market below.  Which is nice.  I only like to review places I like and this definitely one of them.  It's got a good vibe.  And I like to shop at Whole Foods Market, so it's win win.",
+            "reviewer_name": "Cinematic Street",
+            "rating": 5,
+            "review_text": "Allegro is a very cool coffee shop because it's perched above Whole Foods Market.  You can have a coffee and get a bird's-eye view of the store, or watch out the window at the traffic on Cambie Street.  There's a nice selection of food in the coffee shop and you can get a much wider selection of ready to eat food in Whole Foods Market.  The coffee is good, the staff are great, service is fast.  They do a lot of recycling in the coffee shop and the Market.  WiFi is good.  Bathroom is good.  The only problem is that (at the moment) the coffee shop closes at 2PM.  But there is cafe seating in the Market below.  Which is nice.  I only like to review places I like and this definitely one of them.  It's got a good vibe.  And I like to shop at Whole Foods Market, so it's win win.",
+            "published_at": "9 months ago",
+            "published_at_date": "2023-02-11T04:41:42.361000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 51,
+            "total_number_of_photos_by_reviewer": 365,
+            "reviewer_url": "https://www.google.com/maps/contrib/110933075601773995333/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUrBM-APjA4caJXHoQIyfm9zwE6S1xYcGRcERFKVzSKEwM=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMW3LqcOoC11mVyQlg9VSANF7dsXZ-y6kofcoTc=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMWpA2yBcPsItTCK4Qt40qvnONiATxYGARiK0Dr=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNSxMl1ojldSMywpv0bJrrzd9fMjyFY53FyiUYN=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMvKw1kLQWIx507AAwDjjTZjBKUvukpQ-pNXFqT=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Allegro Cafe offers the best coffee and muffin deal in Vancouver.\nThe price is fair and the quality is really good. They have a wide variety of muffins to choose from, and they even heat them up for you. The cafe offers different types of, and the best part is that they provide milk alternatives without any extra charges.\nThe cozy atmosphere adds to the overall experience, and the staff is always incredibly friendly. Highly recommended!",
+            "reviewer_name": "gyp sy",
+            "rating": 5,
+            "review_text": "Allegro Cafe offers the best coffee and muffin deal in Vancouver.\nThe price is fair and the quality is really good. They have a wide variety of muffins to choose from, and they even heat them up for you. The cafe offers different types of, and the best part is that they provide milk alternatives without any extra charges.\nThe cozy atmosphere adds to the overall experience, and the staff is always incredibly friendly. Highly recommended!",
+            "published_at": "6 months ago",
+            "published_at_date": "2023-05-07T02:39:19.468000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 36,
+            "total_number_of_photos_by_reviewer": 5,
+            "reviewer_url": "https://www.google.com/maps/contrib/116175884866630718806/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLPoR2_jtWW4P8OrFSAh32ZtWWNyXRn-Oz1FM0uD8AG=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Allegro Coffee\n\nis a great little spot above Whole foods.\n\nYou can Enter from Cambie st or upstairs through the whole foods entrance on 8th.\n\nThey have coffees, teas, pastries, sandwiches, and even beer and wine.\n\nThey currently have short hours due to pandemic staffing so check for hours regularly as they shift back to being open for eat in.",
+            "reviewer_name": "T LC",
+            "rating": 5,
+            "review_text": "Allegro Coffee\n\nis a great little spot above Whole foods.\n\nYou can Enter from Cambie st or upstairs through the whole foods entrance on 8th.\n\nThey have coffees, teas, pastries, sandwiches, and even beer and wine.\n\nThey currently have short hours due to pandemic staffing so check for hours regularly as they shift back to being open for eat in.",
+            "published_at": "a year ago",
+            "published_at_date": "2022-03-22T15:19:13.320000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 179,
+            "total_number_of_photos_by_reviewer": 1687,
+            "reviewer_url": "https://www.google.com/maps/contrib/102854892699696338096/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVjjwbAQUcxFs_uMd5sfpBwyUH2qx7nEQtbSkQNDlN_DTQ=s120-c-rp-mo-ba6-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPrRj_2Gq1Db3npefLcUllx0zltE_IVTxGIUGzj=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOV3qe2-ZzvwrK0lSwuC7pb2-O4icQMQ4FYXw4p=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOLwSiLQEc6Eoy1drTat3FQiR76Yt8vGdokQeng=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Great selections of pastries and great coffee. It would be perfect for a quick grab and go since the place is quite small.",
+            "reviewer_name": "Angelia Margaretha",
+            "rating": 4,
+            "review_text": "Great selections of pastries and great coffee. It would be perfect for a quick grab and go since the place is quite small.",
+            "published_at": "a year ago",
+            "published_at_date": "2021-12-02T00:36:01.459000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 259,
+            "total_number_of_photos_by_reviewer": 1117,
+            "reviewer_url": "https://www.google.com/maps/contrib/109001820775670611783/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW2OpvrPsc17Y8egd5Q9lRSlWy1bceUYglJvgtL0k0pWWc=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPTj0XS9Wpk5LpOFIjqslJRbuFjsiVl3V4xHeR6=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNS0_IcN2ZdtpDTMfnWKYmJgHrIZu2G3gBrFrap=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPSgxnPN7S4yZlhvq5lvNuONWWDfX7v2c-0jWQ_=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMitzIidudYOnJr5M2g2CAhmnIkaEl7ZcObqFjH=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMPh5MYLDzhKWNNWsEeYSqcbIbpTkRGe0fAMILH=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Great sandwich, though they ran out of the turkey earlier so I would have gone for that instead. Odd that the place closes at 2pm- it makes no sense. Would be a fiver if it wasn't for the unfathomable hours, had to rush lunch because of this.",
+            "reviewer_name": "Sartaj Singh",
+            "rating": 4,
+            "review_text": "Great sandwich, though they ran out of the turkey earlier so I would have gone for that instead. Odd that the place closes at 2pm- it makes no sense. Would be a fiver if it wasn't for the unfathomable hours, had to rush lunch because of this.",
+            "published_at": "2 years ago",
+            "published_at_date": "2021-10-27T21:10:05.204000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 125,
+            "total_number_of_photos_by_reviewer": 300,
+            "reviewer_url": "https://www.google.com/maps/contrib/103719470546416504861/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXnZ5e0hOoblKaNSx5tGXrvD_yJ0ffpwIqnnWJbH1dJcpOA=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPSlAoeiU6sdLgK1kPr2lQ2KiBzDAlXGzsNUqt9=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "The coffee is back to being the best again, at one point it was constantly being over roasted, now it's perfect!",
+            "reviewer_name": "Tommy Mai",
+            "rating": 5,
+            "review_text": "The coffee is back to being the best again, at one point it was constantly being over roasted, now it's perfect!",
+            "published_at": "10 months ago",
+            "published_at_date": "2023-01-04T23:15:36.550000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 93,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/103331219859022939325/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJWwk97C2IgHEfi5Svy1mnk2AtCXbF3_d-txz_RVC8=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Not the comfy place to have coffee, also coffee taste not my favorite.. only the muffins are must buy when you here.. price has been up 30%",
+            "reviewer_name": "Ji Sheng ",
+            "rating": 2,
+            "review_text": "Not the comfy place to have coffee, also coffee taste not my favorite.. only the muffins are must buy when you here.. price has been up 30%",
+            "published_at": "a year ago",
+            "published_at_date": "2022-05-27T18:08:19.183000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 95,
+            "total_number_of_photos_by_reviewer": 569,
+            "reviewer_url": "https://www.google.com/maps/contrib/114496867009662433238/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW5PtvzdPdE3Elh7N4XHsMHNRD2mjLIiEdv_xax40AfAiE=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Aurore Opop",
+            "rating": 4,
+            "review_text": null,
+            "published_at": "7 months ago",
+            "published_at_date": "2023-04-29T14:59:32.426000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 8,
+            "total_number_of_photos_by_reviewer": 7,
+            "reviewer_url": "https://www.google.com/maps/contrib/114683652389731089879/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUp8v5orsLmyPil5pSG94dHQEWVmRrl5Bvexne-jZEEwOg=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

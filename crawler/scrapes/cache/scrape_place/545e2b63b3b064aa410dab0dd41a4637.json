@@ -1,0 +1,503 @@
+{
+    "place_id": "ChIJBwLQ4edzhlQRPlUcrYbIqy8",
+    "name": "A&W Canada",
+    "description": "Fast-food outlet serving up namesake root beer, plus burgers, chicken & fries.",
+    "reviews": 92,
+    "website": "https://web.aw.ca/",
+    "owner": {
+        "id": "103094214982250330586",
+        "name": "A&W Canada (Owner)",
+        "link": "https://www.google.com/maps/contrib/103094214982250330586"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMEe_QuxutPSMvkrLw_1yrIZVgh458wctqEi_Hg=w426-h240-k-no",
+    "main_category": "Hamburger restaurant",
+    "categories": [
+        "Hamburger restaurant",
+        "American restaurant",
+        "Breakfast restaurant",
+        "Chicken restaurant",
+        "Fast food restaurant"
+    ],
+    "rating": 3.5,
+    "workday_timing": "7 a.m.-7 p.m.",
+    "closed_on": [],
+    "phone": "(604) 829-6724",
+    "address": "A&W Canada, 555 W 12th Ave Unit 25, Vancouver, BC V5Z 3X7",
+    "review_keywords": [
+        {
+            "keyword": "breakfast",
+            "count": 4
+        },
+        {
+            "keyword": "root beer",
+            "count": 3
+        },
+        {
+            "keyword": "juice",
+            "count": 3
+        }
+    ],
+    "link": "https://www.google.com/maps/place/A%26W+Canada/data=!4m7!3m6!1s0x548673e7e1d00207:0x2fabc886ad1c553e!8m2!3d49.260422!4d-123.116461!16s%2Fg%2F124sq39n5!19sChIJBwLQ4edzhlQRPlUcrYbIqy8?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 7 a.m.",
+    "price_range": "$",
+    "reviews_per_rating": {
+        "1": 20,
+        "2": 6,
+        "3": 10,
+        "4": 23,
+        "5": 33
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJBwLQ4edzhlQRPlUcrYbIqy8&q=A%26W+Canada&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.260422,
+        "longitude": -123.116461
+    },
+    "plus_code": "7V6M+5C Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "West Side",
+        "street": "555 W 12th Ave Unit 25",
+        "city": "Vancouver",
+        "postal_code": "V5Z 3X7",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "3435059621555623230",
+    "data_id": "0x548673e7e1d00207:0x2fabc886ad1c553e",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [
+        {
+            "link": "https://www.doordash.com/store/a%26w-canada-vancouver-556535/?utm_campaign=gpa",
+            "source": "doordash.com"
+        },
+        {
+            "link": "https://www.ubereats.com/ca/store/a%26w-city-square/OHZ6ekbPRF-mvZTsYSrR5g?utm_campaign=place-action-link&utm_medium=organic&utm_source=google",
+            "source": "ubereats.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Takeout",
+                    "enabled": true
+                },
+                {
+                    "name": "Dine-in",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "highlights",
+            "name": "Highlights",
+            "options": [
+                {
+                    "name": "Fast service",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair accessible seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible elevator",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Beer",
+                    "enabled": true
+                },
+                {
+                    "name": "Coffee",
+                    "enabled": true
+                },
+                {
+                    "name": "Late-night food",
+                    "enabled": true
+                },
+                {
+                    "name": "Quick bite",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Dining options",
+            "options": [
+                {
+                    "name": "Breakfast",
+                    "enabled": true
+                },
+                {
+                    "name": "Lunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Dinner",
+                    "enabled": true
+                },
+                {
+                    "name": "Counter service",
+                    "enabled": true
+                },
+                {
+                    "name": "Dessert",
+                    "enabled": true
+                },
+                {
+                    "name": "Seating",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosphere",
+            "options": [
+                {
+                    "name": "Casual",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planning",
+            "options": [
+                {
+                    "name": "Accepts reservations",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "children",
+            "name": "Children",
+            "options": [
+                {
+                    "name": "Good for kids",
+                    "enabled": true
+                },
+                {
+                    "name": "High chairs",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMEe_QuxutPSMvkrLw_1yrIZVgh458wctqEi_Hg=w529-h298-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNUPCFEn1_6vzuK-oa46Vu-fj_uibuaFBJPTXME=w536-h298-k-no"
+        },
+        {
+            "about": "Vibe",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOkdNDejryMMTZc6r0UwNEvcKoXEPbPMtTlvJXc=w224-h298-k-no"
+        },
+        {
+            "about": "Take-out",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipO3MLNeDbOtXM_fH_o5lazGk-UtZw0A4voZdPZ9=w536-h298-k-no"
+        },
+        {
+            "about": "Hamburger",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNnYWFPfxWuP_rk934wwHvtw1qwYueIDz4RRFpp=w532-h298-k-no"
+        },
+        {
+            "about": "French fries",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMoFHT5hiYxmgq3CVkJs7-Y0UuPl8i65ex9NOJk=w224-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipONOVN0WTegd2lwl6zFIXyBsjEXfS79TXJnadKI=w536-h298-k-no"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "7 a.m.-7 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "7 a.m.-7 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "7 a.m.-7 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "7 a.m.-7 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "7 a.m.-7 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "7:30 a.m.-7 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "7:30 a.m.-7 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "Just read some recent reviews and seems like they heard some of the complaints? When I was there, they asked for each customers names for the order, they were friendly ish, and the food was made fresh the way it suppose to be.  I ordered a Canadian breakfast special and it took a bit of time to get it.  My take was they were making it , not just having eggs, bacon , sausage, toast sitting around and then slapping it together like at McDonald's.\nGood experience today .",
+            "reviewer_name": "jake tsui",
+            "rating": 5,
+            "review_text": "Just read some recent reviews and seems like they heard some of the complaints? When I was there, they asked for each customers names for the order, they were friendly ish, and the food was made fresh the way it suppose to be.  I ordered a Canadian breakfast special and it took a bit of time to get it.  My take was they were making it , not just having eggs, bacon , sausage, toast sitting around and then slapping it together like at McDonald's.\nGood experience today .",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-16T19:33:51.118000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 234,
+            "total_number_of_photos_by_reviewer": 459,
+            "reviewer_url": "https://www.google.com/maps/contrib/117878187486803331684/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXKlIM5JcX7i2OKcGiZJZKkJJrPNCy4aUboT8aZbZJ08PU=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNNWIb6WM96oR59FY9AU6o9e7z6pUrRsa3KeFRp=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOpItuEfGm5Scxk2zl5dnQKRt5Dp3dQSP6m26Qo=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNXn6QSs1l6fx5y4IBt0cN3_PPGffqQ4sjIDif5=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Dazed & Confused meets underwater turtle herding.\n\nWent here at 9AM on a Saturday, positives were there were only 2 other people waiting, and premises appeared bright and clean.\n\nThe single staff member helping us appeared bewildered with the crush of people waiting, moving so slowly I was wondering if they were in need of assistance.  The lady waiting for her meal had to ask for it to be served to her and reminded twice she also had a coffee.  Maybe the staff person hadnt woken up yet.\n\nAsked for parking to be validated.and found out when I went to the kiosk that it hadnt been.  Not impressed with my experience.",
+            "reviewer_name": "Daryl Osborne",
+            "rating": 2,
+            "review_text": "Dazed & Confused meets underwater turtle herding.\n\nWent here at 9AM on a Saturday, positives were there were only 2 other people waiting, and premises appeared bright and clean.\n\nThe single staff member helping us appeared bewildered with the crush of people waiting, moving so slowly I was wondering if they were in need of assistance.  The lady waiting for her meal had to ask for it to be served to her and reminded twice she also had a coffee.  Maybe the staff person hadnt woken up yet.\n\nAsked for parking to be validated.and found out when I went to the kiosk that it hadnt been.  Not impressed with my experience.",
+            "published_at": "5 years ago",
+            "published_at_date": "2018-09-05T21:29:27.371000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 112,
+            "total_number_of_photos_by_reviewer": 764,
+            "reviewer_url": "https://www.google.com/maps/contrib/102644287216495417723/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUNKRU5OTW_nB78i6xrM_Z84BKIt62hMGgRDGm6CRluN_k=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPAezfoTGpRTXz7zEV1GUyRd0iOCy0XDEQFC13c=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMWAxm7hz4JbCQJID9SCWOhIbIOTObP5z2IciWf=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOQ74nK--LQq7zfYfq-xWZpAuNK_9UgJzCkJTMF=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPm6rUyPWREkbEAk92suHJilwblfFthoZQvbGNL=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMEe_QuxutPSMvkrLw_1yrIZVgh458wctqEi_Hg=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "So I ordered kids' chicken stripe, was ask if I wanted juice or milk and I said no, after paying, I realize I should get.jucie for my kids because he needs some liquid to drink after, I ask you know what \"how much is it for the a kids  juice and the guy that I deal with was preparing my order heard that I want juice, he keeps on saying but he doesn't want it. Anyways, to  make a story short, why did I pay for the juice when it should have come with the kids' meal... huh ,",
+            "reviewer_name": "FERMIN GARCIA",
+            "rating": 1,
+            "review_text": "So I ordered kids' chicken stripe, was ask if I wanted juice or milk and I said no, after paying, I realize I should get.jucie for my kids because he needs some liquid to drink after, I ask you know what \"how much is it for the a kids  juice and the guy that I deal with was preparing my order heard that I want juice, he keeps on saying but he doesn't want it. Anyways, to  make a story short, why did I pay for the juice when it should have come with the kids' meal... huh ,",
+            "published_at": "4 weeks ago",
+            "published_at_date": "2023-11-02T20:34:52.519000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 31,
+            "total_number_of_photos_by_reviewer": 43,
+            "reviewer_url": "https://www.google.com/maps/contrib/101785633933837191364/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLdTHro-DDa6LCNA7-hMUZLGym-7Gua8F7Dsm3vGNKo=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "I'm an A&W fan, however this A&W is continually dissapointing. Usually fast food chains are highly standardized across locations. This is not the case in this location. Service and food are both always cold. I find out odd that there's just one A&W location that just puts out really poor food and service.",
+            "reviewer_name": "Sami Zaim",
+            "rating": 1,
+            "review_text": "I'm an A&W fan, however this A&W is continually dissapointing. Usually fast food chains are highly standardized across locations. This is not the case in this location. Service and food are both always cold. I find out odd that there's just one A&W location that just puts out really poor food and service.",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-04T22:30:23.531000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 3,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/117340564436997513871/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVJmx4UkhsYnfJc_ctTK9_CsAkmtLREsgebn_GEPI-DhRk=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Ordered a sausage and egger with croissant and an apple juice. The lady behind me ordered a sausage and egger with English muffin. When the order came up, I came to grab my order and the lady behind me grabbed it too and claimed she ordered the same thing and was rude about it too. The employee did not even clarify or helped tell her that it was our order. I just gave it to this obnoxious lady and waited. And obviously the next order came up for the sausage and egger with English muffin which no one came to claim since it was that lady's!!! I ended up waiting for 20 mins and the employee gave me orange juice instead of apple juice. When I told her, she's like \"it's not orange?\" ... need better customer service and have a number or name system to claim orders or something. Especially with the long line up they have and the potential for people to have the same orders, etc.\n\nThis was around 10:00am June 2nd.",
+            "reviewer_name": "T Dang",
+            "rating": 1,
+            "review_text": "Ordered a sausage and egger with croissant and an apple juice. The lady behind me ordered a sausage and egger with English muffin. When the order came up, I came to grab my order and the lady behind me grabbed it too and claimed she ordered the same thing and was rude about it too. The employee did not even clarify or helped tell her that it was our order. I just gave it to this obnoxious lady and waited. And obviously the next order came up for the sausage and egger with English muffin which no one came to claim since it was that lady's!!! I ended up waiting for 20 mins and the employee gave me orange juice instead of apple juice. When I told her, she's like \"it's not orange?\" ... need better customer service and have a number or name system to claim orders or something. Especially with the long line up they have and the potential for people to have the same orders, etc.\n\nThis was around 10:00am June 2nd.",
+            "published_at": "5 months ago",
+            "published_at_date": "2023-06-03T16:24:11.569000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 45,
+            "total_number_of_photos_by_reviewer": 2,
+            "reviewer_url": "https://www.google.com/maps/contrib/118341760021768484401/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXb9MxhRKkauzZs-nK0aJHN2_cqHP1qSll9T65scKveZBY=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "ordered Teen burger with A&W root beer for $6.99 with coupon. instead root beer i requested oranage juice. why pay the full price for oranage juice. very unsafisfied service with supervisor.  thanks.",
+            "reviewer_name": "J Gedak",
+            "rating": 1,
+            "review_text": "ordered Teen burger with A&W root beer for $6.99 with coupon. instead root beer i requested oranage juice. why pay the full price for oranage juice. very unsafisfied service with supervisor.  thanks.",
+            "published_at": "6 months ago",
+            "published_at_date": "2023-05-01T23:15:49.823000Z",
+            "response_from_owner_text": "Thank you for letting us know about your experience. We'd like to look into this. Please send us an email with this information at guestrelations@aw.ca. \n",
+            "response_from_owner_ago": "6 months ago",
+            "response_from_owner_date": "2023-05-05T23:42:56.578000Z",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 59,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/117837432087446347083/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJzH03o6OwQ9ytUpiGT1ADEP36ALu3KXwakNGUYdOMg=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Very nice & friendly staff\nI placed an order 30 minutes before their closing time but an extremely nice lady who got my order her name was Harkiran with beautiful smile did not rush me or making me uncomfortable\nThank you Harkiran",
+            "reviewer_name": "Nilgoun Sharif",
+            "rating": 5,
+            "review_text": "Very nice & friendly staff\nI placed an order 30 minutes before their closing time but an extremely nice lady who got my order her name was Harkiran with beautiful smile did not rush me or making me uncomfortable\nThank you Harkiran",
+            "published_at": "7 months ago",
+            "published_at_date": "2023-04-29T01:19:03.252000Z",
+            "response_from_owner_text": "It's great to hear you had such a great service! Thanks for taking the time to leave a review.\n",
+            "response_from_owner_ago": "6 months ago",
+            "response_from_owner_date": "2023-05-05T23:42:19.492000Z",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 5,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/101674209643450165419/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXSE0r2oNBR4VP9TBCH6E08XR_jk7c54BpbUd96lkb-Q1g=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "How could u accept delivery orders while you can not provide parking????? We're getting $50 ticket for picking up the orders for skip and uber or we have to pay $4 everytime for $6 order which is not fair. If you can't provide so do not accept orders",
+            "reviewer_name": "Rod Nimmo",
+            "rating": 1,
+            "review_text": "How could u accept delivery orders while you can not provide parking????? We're getting $50 ticket for picking up the orders for skip and uber or we have to pay $4 everytime for $6 order which is not fair. If you can't provide so do not accept orders",
+            "published_at": "9 months ago",
+            "published_at_date": "2023-02-05T05:38:30.959000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 3,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/100740144859748381156/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKkEdyqGsMtLltE2NAvMOHxBT_Lr4F7PUvMxPr0JiWq=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

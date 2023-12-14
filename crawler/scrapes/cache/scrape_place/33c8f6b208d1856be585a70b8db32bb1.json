@@ -1,0 +1,333 @@
+{
+    "place_id": "ChIJD4fITinahVQRpxZfIz2IawQ",
+    "name": "Loblaw Pharmacy",
+    "description": null,
+    "reviews": 45,
+    "website": "https://www.realcanadiansuperstore.ca/pharmacy%3FstoreId%3D1521%26utm_source%3DG%26utm_medium%3DLPM%26utm_campaign%3DLoblaws",
+    "owner": {
+        "id": "105403540704369147241",
+        "name": "Loblaw Pharmacy (Owner)",
+        "link": "https://www.google.com/maps/contrib/105403540704369147241"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_oW6XzrXBlLuemv9fuC1WA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=106.887436&pitch=0&thumbfov=100",
+    "main_category": "Pharmacy",
+    "categories": [
+        "Pharmacy",
+        "Drug store"
+    ],
+    "rating": 1.7,
+    "workday_timing": "9 a.m.-10 p.m.",
+    "closed_on": [],
+    "phone": "(604) 599-3704",
+    "address": "Loblaw Pharmacy, 7550 King George Blvd, Surrey, BC V3W 2T2",
+    "review_keywords": [
+        {
+            "keyword": "prescription",
+            "count": 15
+        },
+        {
+            "keyword": "phone",
+            "count": 10
+        },
+        {
+            "keyword": "health",
+            "count": 3
+        },
+        {
+            "keyword": "manager",
+            "count": 3
+        }
+    ],
+    "link": "https://www.google.com/maps/place/Loblaw+Pharmacy/data=!4m7!3m6!1s0x5485da294ec8870f:0x46b883d235f16a7!8m2!3d49.139663!4d-122.845258!16s%2Fg%2F11bbw_fzr0!19sChIJD4fITinahVQRpxZfIz2IawQ?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 9 a.m.",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 36,
+        "2": 1,
+        "3": 0,
+        "4": 3,
+        "5": 5
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJD4fITinahVQRpxZfIz2IawQ&q=Loblaw+Pharmacy&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.139663,
+        "longitude": -122.845258
+    },
+    "plus_code": "45Q3+VV Surrey, British Columbia",
+    "detailed_address": {
+        "ward": "Newton",
+        "street": "7550 King George Blvd",
+        "city": "Surrey",
+        "postal_code": "V3W 2T2",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "318497994827568807",
+    "data_id": "0x5485da294ec8870f:0x46b883d235f16a7",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "In-store pickup",
+                    "enabled": true
+                },
+                {
+                    "name": "In-store shopping",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_oW6XzrXBlLuemv9fuC1WA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=106.887436&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_oW6XzrXBlLuemv9fuC1WA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=106.887436&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "9 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "9 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "9 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "9 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "9 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "9 a.m.-7 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "9 a.m.-7 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "This is one of the worst customer service pharmacy that I have dealt with. Their service is absolutely horrendous. When one is there waiting on the line, they keep working on the back counter and they don't even care to notice you on the line. They pretty much take their time as they please to attend their customers. When one calls them, they take so long to pick up the call, if even they pick up the call. There has been several times I contacted them on the phone and they did not even pick up the call. To me seems like that they don't even want to be there. If I could give them 0 stars I would. I will definitely be changing my pharmacy.",
+            "reviewer_name": "Mahomed Taibo",
+            "rating": 1,
+            "review_text": "This is one of the worst customer service pharmacy that I have dealt with. Their service is absolutely horrendous. When one is there waiting on the line, they keep working on the back counter and they don't even care to notice you on the line. They pretty much take their time as they please to attend their customers. When one calls them, they take so long to pick up the call, if even they pick up the call. There has been several times I contacted them on the phone and they did not even pick up the call. To me seems like that they don't even want to be there. If I could give them 0 stars I would. I will definitely be changing my pharmacy.",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-26T02:16:12.908000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 7,
+            "total_number_of_photos_by_reviewer": 4,
+            "reviewer_url": "https://www.google.com/maps/contrib/107092753616741707772/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKALbxyk3t1ZDOKAiihHVhCUpB3fPLmYbVJeKb8uFka=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Horrible service...booked with health bc to get a flu and covid shot there...took the day off and when I got there they said they only do it on weekends and dint bother to look on their computer...I said I have an appointment and showed them the confirmation but they did not care and said they wouldnt waste it for 1 person, waste of a day off will never go back there....should have charged them for the day off I took",
+            "reviewer_name": "bruce antrobus",
+            "rating": 1,
+            "review_text": "Horrible service...booked with health bc to get a flu and covid shot there...took the day off and when I got there they said they only do it on weekends and dint bother to look on their computer...I said I have an appointment and showed them the confirmation but they did not care and said they wouldnt waste it for 1 person, waste of a day off will never go back there....should have charged them for the day off I took",
+            "published_at": "2 weeks ago",
+            "published_at_date": "2023-11-23T00:04:58.043000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 61,
+            "total_number_of_photos_by_reviewer": 9,
+            "reviewer_url": "https://www.google.com/maps/contrib/118087261294532511207/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW02br6J2BaaWEzLVLJHt6I-p6kdn3ugR7IPhZU7Msz3w=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "The staff in never enough, if one person there to help, they help when they feel like. Phone they never answer. They need time for their procedure even if it is ready to go thing at pharmacy. None of their staff members including the pharmacist in good mood at all. It is very frustrating. There are several negative reviews about them but nobody cares. Hope it changes.",
+            "reviewer_name": "Amit Sondhi",
+            "rating": 1,
+            "review_text": "The staff in never enough, if one person there to help, they help when they feel like. Phone they never answer. They need time for their procedure even if it is ready to go thing at pharmacy. None of their staff members including the pharmacist in good mood at all. It is very frustrating. There are several negative reviews about them but nobody cares. Hope it changes.",
+            "published_at": "7 months ago",
+            "published_at_date": "2023-04-27T00:11:42.909000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 12,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/113727904293604423451/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocI-5Zrlnu5LLCwhgCFnroibI4XXB4RA3W-DZVAknMjx=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "I wish I could give them a zero star. If you try phoning don't bother they never answer. They tell you it will be ready in 20 mins so you go shopping and come back then they tell you to come back in the evening. The manager(not sure if he is still there) was so rude. My son ran out of his medicine and told me last minute so I went to get it refilled and the manager tolde that next time I shouldn't leave it to last minute. So rude to me. I now have switched pharmacy's and after my son's prescription is done I will switch his too. I am so fed up with them.",
+            "reviewer_name": "Jenny Latimer",
+            "rating": 1,
+            "review_text": "I wish I could give them a zero star. If you try phoning don't bother they never answer. They tell you it will be ready in 20 mins so you go shopping and come back then they tell you to come back in the evening. The manager(not sure if he is still there) was so rude. My son ran out of his medicine and told me last minute so I went to get it refilled and the manager tolde that next time I shouldn't leave it to last minute. So rude to me. I now have switched pharmacy's and after my son's prescription is done I will switch his too. I am so fed up with them.",
+            "published_at": "a year ago",
+            "published_at_date": "2022-09-30T04:10:12.619000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 9,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/113321216234787002726/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKPrqzV5AkgYMAPLhQb30jx6tr31ATcZnWWGkBPKzuu=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "I was just disappointed from thier phone service.i called them this afternoon and there were many different options to select. I choose to speak with the pharmacist and the phone was on waiting almost for an hour and again and again automatic machine putting me on hold. After 1& half  hour I just disconnected the line and have to visit for my little one's emergency medicine. They didn't prepare it and then again I had to wait almost 30 -40 minutes there. Such a bad experience it was. I don't recommend to order prescription here.",
+            "reviewer_name": "Sk K",
+            "rating": 1,
+            "review_text": "I was just disappointed from thier phone service.i called them this afternoon and there were many different options to select. I choose to speak with the pharmacist and the phone was on waiting almost for an hour and again and again automatic machine putting me on hold. After 1& half  hour I just disconnected the line and have to visit for my little one's emergency medicine. They didn't prepare it and then again I had to wait almost 30 -40 minutes there. Such a bad experience it was. I don't recommend to order prescription here.",
+            "published_at": "a year ago",
+            "published_at_date": "2022-03-29T04:38:23.046000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 122,
+            "total_number_of_photos_by_reviewer": 120,
+            "reviewer_url": "https://www.google.com/maps/contrib/114849624995343721771/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocK2mi82KQedksXYBCI5ufIiEMLKsG3KF3FS4ftk61L5=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "They gave my prescription to another customer and charged my health care benefits. The person called me and had all my personal information. I didn't even call to have the prescription filled, so how does a mistake like that even happen? You are not able to call, no one answers. They lost my prescription one time. I went online to fill the prescription and went in after three days and they told me they didn't have it. Not a reliable pharmacy at all.",
+            "reviewer_name": "Jenni Martin",
+            "rating": 1,
+            "review_text": "They gave my prescription to another customer and charged my health care benefits. The person called me and had all my personal information. I didn't even call to have the prescription filled, so how does a mistake like that even happen? You are not able to call, no one answers. They lost my prescription one time. I went online to fill the prescription and went in after three days and they told me they didn't have it. Not a reliable pharmacy at all.",
+            "published_at": "a year ago",
+            "published_at_date": "2021-12-15T13:40:25.661000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 3,
+            "total_number_of_reviews_by_reviewer": 4,
+            "total_number_of_photos_by_reviewer": 2,
+            "reviewer_url": "https://www.google.com/maps/contrib/104149999612454688533/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKmaXm1hpExppp2S0W6DtnEv_QzW54XBTnc21pmf5uj=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Do you like your time being wasted? Do you like to have managers be condescending to you? Then this pharmacy is just for you. Extremely slow service here and they don't answer their phones. After multiple attempts to reach them I eventually had to get the store manager involved to help me get a hold of the pharmacy. Even with the store managers help, the pharmacy still did not contact me. Feeling frustrated.\n\nI went in person to discuss my concerns with the pharmacy manager (Pouria Jalily), I asked for my prescriptions so I can deal with a pharmacy that will have better customer service. He did not want to listen to my concerns and was happy that I was willing to go somewhere else. He did not provide me with my prescriptions and advised me that my new choice of pharmacy will have to contact them directly to receive my information, he then tells me good luck in a very sarcastic manner.\n\nGo somewhere else for your pharmacy needs.",
+            "reviewer_name": "Robert Hogan",
+            "rating": 1,
+            "review_text": "Do you like your time being wasted? Do you like to have managers be condescending to you? Then this pharmacy is just for you. Extremely slow service here and they don't answer their phones. After multiple attempts to reach them I eventually had to get the store manager involved to help me get a hold of the pharmacy. Even with the store managers help, the pharmacy still did not contact me. Feeling frustrated.\n\nI went in person to discuss my concerns with the pharmacy manager (Pouria Jalily), I asked for my prescriptions so I can deal with a pharmacy that will have better customer service. He did not want to listen to my concerns and was happy that I was willing to go somewhere else. He did not provide me with my prescriptions and advised me that my new choice of pharmacy will have to contact them directly to receive my information, he then tells me good luck in a very sarcastic manner.\n\nGo somewhere else for your pharmacy needs.",
+            "published_at": "2 years ago",
+            "published_at_date": "2021-09-26T21:10:50.668000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 11,
+            "total_number_of_photos_by_reviewer": 2,
+            "reviewer_url": "https://www.google.com/maps/contrib/108567582167687558915/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVS9v41KDc1FOEiT7eazCd4oZlQl0F7E-4deXrAig92xfGc=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipN9gcptoYSNCN7pOB1yX2Lhb6FSWRvFZmngIfkX=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "ALWAYS slow and incompetent service. Arrogant pharmacist on staff, and I've stopped coming to them. I would give them my script, get told 45min-1hr and would never get my script before 5/6hrs often being told to wait again for an extra 15min. Of course it was never 15minutes more like 30-45minutes. When I finally could pickup my script I would tell them I have had this script several times before, but would still try and call the pharmacist over to give me instructions; how ridiculous!",
+            "reviewer_name": "Liz Farrell",
+            "rating": 1,
+            "review_text": "ALWAYS slow and incompetent service. Arrogant pharmacist on staff, and I've stopped coming to them. I would give them my script, get told 45min-1hr and would never get my script before 5/6hrs often being told to wait again for an extra 15min. Of course it was never 15minutes more like 30-45minutes. When I finally could pickup my script I would tell them I have had this script several times before, but would still try and call the pharmacist over to give me instructions; how ridiculous!",
+            "published_at": "2 years ago",
+            "published_at_date": "2021-11-08T03:01:24.877000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 13,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/113952982601355677329/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLdeEVlv8Fcc_6--Fg4-YmTncJJyBKaBMQKDtp5JLss=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

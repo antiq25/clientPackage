@@ -1,0 +1,476 @@
+{
+    "place_id": "ChIJSUcivKFxhlQRW0Tj0HyyKyI",
+    "name": "DownLow Burgers",
+    "description": null,
+    "reviews": 127,
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "DownLow Burgers (Owner)",
+        "link": null
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM8AhspsUs1FHNq4n5OV2Oj15JF66x8kgIuj4_G=w408-h283-k-no",
+    "main_category": "Hamburger restaurant",
+    "categories": [
+        "Hamburger restaurant"
+    ],
+    "rating": 4.1,
+    "workday_timing": "12-10 p.m.",
+    "closed_on": [],
+    "phone": "(778) 945-6751",
+    "address": "DownLow Burgers, 926 Main St, Vancouver, BC V6A 2W1",
+    "review_keywords": [
+        {
+            "keyword": "onion rings",
+            "count": 9
+        },
+        {
+            "keyword": "price",
+            "count": 8
+        },
+        {
+            "keyword": "pinball",
+            "count": 4
+        },
+        {
+            "keyword": "battered",
+            "count": 3
+        },
+        {
+            "keyword": "game",
+            "count": 3
+        },
+        {
+            "keyword": "chicken burger",
+            "count": 3
+        },
+        {
+            "keyword": "bun",
+            "count": 3
+        },
+        {
+            "keyword": "opinion",
+            "count": 3
+        },
+        {
+            "keyword": "chili",
+            "count": 3
+        }
+    ],
+    "link": "https://www.google.com/maps/place/DownLow+Burgers/data=!4m7!3m6!1s0x548671a1bc224749:0x222bb27cd0e3445b!8m2!3d49.2762832!4d-123.099662!16s%2Fg%2F11hffw47d1!19sChIJSUcivKFxhlQRW0Tj0HyyKyI?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 12 p.m.",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 10,
+        "2": 6,
+        "3": 15,
+        "4": 27,
+        "5": 69
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJSUcivKFxhlQRW0Tj0HyyKyI&q=DownLow+Burgers&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.276283199999995,
+        "longitude": -123.099662
+    },
+    "plus_code": "7WG2+G4 Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "Strathcona",
+        "street": "926 Main St",
+        "city": "Vancouver",
+        "postal_code": "V6A 2W1",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "2462257870438351963",
+    "data_id": "0x548671a1bc224749:0x222bb27cd0e3445b",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [
+        {
+            "link": "https://www.doordash.com/store/downlow-burger-vancouver-24801851/?utm_campaign=gpa",
+            "source": "doordash.com"
+        },
+        {
+            "link": "https://www.skipthedishes.com/downlow-burger-926-main-street?serviceType=delivery&utm_source=google&utm_medium=organic&utm_campaign=gpav2",
+            "source": "skipthedishes.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Takeout",
+                    "enabled": true
+                },
+                {
+                    "name": "Dine-in",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair accessible seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Alcohol",
+                    "enabled": true
+                },
+                {
+                    "name": "Beer",
+                    "enabled": true
+                },
+                {
+                    "name": "Cocktails",
+                    "enabled": true
+                },
+                {
+                    "name": "Hard liquor",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Dining options",
+            "options": [
+                {
+                    "name": "Lunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Dinner",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Bar on-site",
+                    "enabled": true
+                },
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosphere",
+            "options": [
+                {
+                    "name": "Casual",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipM8AhspsUs1FHNq4n5OV2Oj15JF66x8kgIuj4_G=w428-h298-k-no"
+        },
+        {
+            "about": "Latest",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPWMH9U7Yji7dkmn8fmj4rTXLlvtMyUORw3h0Hf=w298-h298-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMIPrq2smekJ9OBDBUvcn1LJN8IwiOUHJkfIoWq=w224-h398-k-no"
+        },
+        {
+            "about": "Menu",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMw4iD2hCEfJVx8FIimdIjMids2Wn_kd7LnIcPL=w376-h298-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPrOSzZ_qyWTD6AuSWSHPsAmkfNDWtG-0PL28Zo=w397-h298-k-no"
+        },
+        {
+            "about": "Vibe",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPp2xt2q1yDEIrjFhywEgdG-c-azmbW7LRq0TK3=w397-h298-k-no"
+        },
+        {
+            "about": "Take-out",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipP6yFjDPzZB9so1RlrbzUBmB3NaGnjwcmOIo6ye=w224-h298-k-no"
+        },
+        {
+            "about": "Chicken sandwich",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNFDDCguTR8RbhpJzYzu0K7hrlTYNp2P-ZHgt52=w224-h298-k-no"
+        },
+        {
+            "about": "Hamburger",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNEsue45oitKTOHYUOEZ-JO9R7AQ53q3BHtiMEn=w438-h298-k-no"
+        },
+        {
+            "about": "French fries",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPs7RgrscRQI5KIgMSvm0ad-Z3OwCoIy7YBvTcp=w224-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=xg2He_iFri4AnUFHZyDorQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=96.824974&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "12-9:30 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "12-10 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "12-10 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "12-10 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "12-11 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "12-11 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "10 a.m.-10 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "The old home of The Old American.  Be super awesome if it was still that but at least you can get ultra rad DL chicken burgers and strips and reminisce about the place that used to be here 30 years ago.\n\nI don't know if I ever met Papa Gus",
+            "reviewer_name": "Toby MisConception",
+            "rating": 5,
+            "review_text": "The old home of The Old American.  Be super awesome if it was still that but at least you can get ultra rad DL chicken burgers and strips and reminisce about the place that used to be here 30 years ago.\n\nI don't know if I ever met Papa Gus",
+            "published_at": "5 months ago",
+            "published_at_date": "2023-06-02T17:52:53.354000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 46,
+            "total_number_of_photos_by_reviewer": 11,
+            "reviewer_url": "https://www.google.com/maps/contrib/103567510629275367142/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWE2LashDVL9MslkpKx0Ks3rZxsc1gq-5lDkAwBrSHX4fiX=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOBu0WXDsxGvQU8jDV13NBvi4gurNYtMHqs3EOZ=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipObP8MJdM5zp6Fc8844Og2v24ICk9d-3yVbqKAi=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOYeFSvVuiwuApoboU8viKxaektQ5uuhZB5tni0=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Just dropped in for a quick bite. Was so much fun. Great atmosphere. Lots of TVs to watch sports. Can't wait to go back.",
+            "reviewer_name": "Cara B",
+            "rating": 5,
+            "review_text": "Just dropped in for a quick bite. Was so much fun. Great atmosphere. Lots of TVs to watch sports. Can't wait to go back.",
+            "published_at": "5 days ago",
+            "published_at_date": "2023-11-25T21:14:30.230000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 23,
+            "total_number_of_photos_by_reviewer": 2,
+            "reviewer_url": "https://www.google.com/maps/contrib/111766195039195009010/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUxenYGIzm9awvLBowZyjmMawHlOBey_1u_qh0sySKMhsMN=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "First time here.  The sign outside does not say DownLow. It says The American. It's more bar than anything - the tables are great for large groups.  The food was very good and very messy.  However, the pop was flat.\n\nOur server was very excellent.",
+            "reviewer_name": "Taja Arundell",
+            "rating": 4,
+            "review_text": "First time here.  The sign outside does not say DownLow. It says The American. It's more bar than anything - the tables are great for large groups.  The food was very good and very messy.  However, the pop was flat.\n\nOur server was very excellent.",
+            "published_at": "a year ago",
+            "published_at_date": "2022-06-02T02:29:39.615000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 4,
+            "total_number_of_reviews_by_reviewer": 166,
+            "total_number_of_photos_by_reviewer": 171,
+            "reviewer_url": "https://www.google.com/maps/contrib/102914973562407215363/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWXa2O10Eo3ANdnwTqm9iqA_7btha9W5EqgX7uCjCYHZuXr=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPw31rRIf2mOcfp6wgucbVZI5jSSmZRgxNg638y=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipP6yFjDPzZB9so1RlrbzUBmB3NaGnjwcmOIo6ye=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Loved the burger! Definitely would come for it, but only if I were in the area. Wings were breaded so wasn't my fave. Dark and Stormy was good but didn't taste like one. Good random cocktail though!",
+            "reviewer_name": "Brenda Pantoja",
+            "rating": 3,
+            "review_text": "Loved the burger! Definitely would come for it, but only if I were in the area. Wings were breaded so wasn't my fave. Dark and Stormy was good but didn't taste like one. Good random cocktail though!",
+            "published_at": "2 years ago",
+            "published_at_date": "2021-07-02T23:46:59.294000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 128,
+            "total_number_of_photos_by_reviewer": 300,
+            "reviewer_url": "https://www.google.com/maps/contrib/106766681533285630044/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjU6Da-VGpFgG1U1rfRD7ixTegGVwP5H8b-Sp6rIYO1CEa6J=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNGU314JoIC9Ro5Pcoa77p7dA0HThyviF42vTKN=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipP-5vor1zy9tVKt_kHqoQQhUMlOQ6p_hcsT_D5u=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMA9vGS9ln182o7NmDfjVwRcDXFv554mjUE3Mhn=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Had the Oklahoma burger. It was phenomenal.  Side of onion rings ( battered). They were the best I can recall having. Service was exceptional.  All around top notch, my current go to for burgers out.",
+            "reviewer_name": "Ryder Bryan",
+            "rating": 5,
+            "review_text": "Had the Oklahoma burger. It was phenomenal.  Side of onion rings ( battered). They were the best I can recall having. Service was exceptional.  All around top notch, my current go to for burgers out.",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-16T15:49:36.312000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 57,
+            "total_number_of_photos_by_reviewer": 30,
+            "reviewer_url": "https://www.google.com/maps/contrib/116984765617896006619/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUXjnPWXg2OKplWGQP3Wlb9n9SowLOu2rnr1OUnIS4lRcA=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Had a burger which are all 2 Patties so ordered just a single patty because I thought 2 Patties would be too filling.  Turns out the burgers are the size of a large cookie so in hindsight could have managed the 2 Patties.  $18 burger was discounted only $3 for the single patty version. Taste was pretty good but didn't think there was value for my bucks.  Won't be back.",
+            "reviewer_name": "Buck",
+            "rating": 2,
+            "review_text": "Had a burger which are all 2 Patties so ordered just a single patty because I thought 2 Patties would be too filling.  Turns out the burgers are the size of a large cookie so in hindsight could have managed the 2 Patties.  $18 burger was discounted only $3 for the single patty version. Taste was pretty good but didn't think there was value for my bucks.  Won't be back.",
+            "published_at": "5 months ago",
+            "published_at_date": "2023-06-30T17:38:46.809000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 29,
+            "total_number_of_photos_by_reviewer": 3,
+            "reviewer_url": "https://www.google.com/maps/contrib/113043376385321456068/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIgL8XrPT8fyyRH5ws3wPSEAl8Bf1oZMzbm-EmGTyNx=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Don't order the chicken burger, it's 3 chicken strips in a bun and impossible to hold without falling apart",
+            "reviewer_name": "Jeff Chong",
+            "rating": 3,
+            "review_text": "Don't order the chicken burger, it's 3 chicken strips in a bun and impossible to hold without falling apart",
+            "published_at": "2 weeks ago",
+            "published_at_date": "2023-11-15T23:15:29.990000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 20,
+            "total_number_of_photos_by_reviewer": 1459,
+            "reviewer_url": "https://www.google.com/maps/contrib/107304908817684772159/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWrYYfCsrHhowFxQSSmlDrrhmVIl37y5J8K5XYDiO1vug4=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "The food was good, but not worth the price ",
+            "reviewer_name": "mark shaw",
+            "rating": 4,
+            "review_text": "The food was good, but not worth the price ",
+            "published_at": "3 weeks ago",
+            "published_at_date": "2023-11-10T01:37:15.265000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 113,
+            "total_number_of_photos_by_reviewer": 126,
+            "reviewer_url": "https://www.google.com/maps/contrib/109119740745795341474/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWxOZm7G1zhSenr7PeSdXJVy-PTkXg9GtfXFWwRv0Hw6O8=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPWMH9U7Yji7dkmn8fmj4rTXLlvtMyUORw3h0Hf=w150-h150-k-no-p"
+            ]
+        }
+    ],
+    "is_spending_on_ads": false
+}

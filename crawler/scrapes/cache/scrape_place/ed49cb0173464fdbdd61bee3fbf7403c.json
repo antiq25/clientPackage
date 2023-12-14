@@ -1,0 +1,578 @@
+{
+    "place_id": "ChIJq6pu0bVzhlQRm2MiYL0HVsE",
+    "name": "Gobble",
+    "description": null,
+    "reviews": 148,
+    "website": "https://gobblevancouver.com/",
+    "owner": {
+        "id": "115158435604572369592",
+        "name": "Gobble (Owner)",
+        "link": "https://www.google.com/maps/contrib/115158435604572369592"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNlJUt06-7X0M32TbcX4LtX89I7mCpITpajcQka=w408-h318-k-no",
+    "main_category": "Restaurant",
+    "categories": [
+        "Restaurant",
+        "Gluten-free restaurant",
+        "Takeout Restaurant",
+        "Meat dish restaurant",
+        "Meat wholesaler",
+        "Vegan restaurant"
+    ],
+    "rating": 4.6,
+    "workday_timing": "11:30 a.m.-3 p.m.",
+    "closed_on": [
+        "Sunday"
+    ],
+    "phone": "(604) 732-8111",
+    "address": "Gobble, 2017 W 4th Ave, Vancouver, BC V6J 1N3",
+    "review_keywords": [
+        {
+            "keyword": "bowl",
+            "count": 36
+        },
+        {
+            "keyword": "healthy",
+            "count": 20
+        },
+        {
+            "keyword": "lunch",
+            "count": 12
+        },
+        {
+            "keyword": "porchetta",
+            "count": 11
+        },
+        {
+            "keyword": "root vegetables",
+            "count": 9
+        },
+        {
+            "keyword": "lentils",
+            "count": 7
+        },
+        {
+            "keyword": "vegan",
+            "count": 7
+        },
+        {
+            "keyword": "pilaf",
+            "count": 6
+        },
+        {
+            "keyword": "gluten free",
+            "count": 5
+        },
+        {
+            "keyword": "tofu",
+            "count": 5
+        }
+    ],
+    "link": "https://www.google.com/maps/place/Gobble/data=!4m7!3m6!1s0x548673b5d16eaaab:0xc15607bd6022639b!8m2!3d49.2683258!4d-123.1508535!16s%2Fg%2F11gh025njl!19sChIJq6pu0bVzhlQRm2MiYL0HVsE?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 11:30 a.m.",
+    "price_range": "$",
+    "reviews_per_rating": {
+        "1": 5,
+        "2": 2,
+        "3": 9,
+        "4": 22,
+        "5": 110
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJq6pu0bVzhlQRm2MiYL0HVsE&q=Gobble&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.2683258,
+        "longitude": -123.1508535
+    },
+    "plus_code": "7R9X+8M Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "West Side",
+        "street": "2017 W 4th Ave",
+        "city": "Vancouver",
+        "postal_code": "V6J 1N3",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "13931331007260287899",
+    "data_id": "0x548673b5d16eaaab:0xc15607bd6022639b",
+    "menu": {
+        "link": "https://www.gobblevancouver.com/menu",
+        "source": "gobblevancouver.com"
+    },
+    "reservations": [],
+    "order_online_links": [
+        {
+            "link": "https://gobblevancouver.com/delivery/",
+            "source": "gobblevancouver.com"
+        },
+        {
+            "link": "https://www.skipthedishes.com/gobble?utm_source=google&utm_medium=organic&utm_campaign=gpa",
+            "source": "skipthedishes.com"
+        },
+        {
+            "link": "https://www.doordash.com/store/gobble-vancouver-309184/?utm_campaign=gpa",
+            "source": "doordash.com"
+        },
+        {
+            "link": "https://www.ubereats.com/ca/store/gobble/giipmnjhRbOffiqLbXpxFw?utm_campaign=place-action-link&utm_medium=organic&utm_source=google",
+            "source": "ubereats.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Outdoor seating",
+                    "enabled": true
+                },
+                {
+                    "name": "No-contact delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Takeout",
+                    "enabled": true
+                },
+                {
+                    "name": "Dine-in",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair accessible seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Coffee",
+                    "enabled": true
+                },
+                {
+                    "name": "Healthy options",
+                    "enabled": true
+                },
+                {
+                    "name": "Vegan options",
+                    "enabled": true
+                },
+                {
+                    "name": "Vegetarian options",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Dining options",
+            "options": [
+                {
+                    "name": "Breakfast",
+                    "enabled": true
+                },
+                {
+                    "name": "Lunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Dinner",
+                    "enabled": true
+                },
+                {
+                    "name": "Catering",
+                    "enabled": true
+                },
+                {
+                    "name": "Seating",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                },
+                {
+                    "name": "Wi-Fi",
+                    "enabled": true
+                },
+                {
+                    "name": "Wi-Fi",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosphere",
+            "options": [
+                {
+                    "name": "Casual",
+                    "enabled": true
+                },
+                {
+                    "name": "Cozy",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "crowd",
+            "name": "Crowd",
+            "options": [
+                {
+                    "name": "Family-friendly",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planning",
+            "options": [
+                {
+                    "name": "Accepts reservations",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "children",
+            "name": "Children",
+            "options": [
+                {
+                    "name": "Good for kids",
+                    "enabled": true
+                },
+                {
+                    "name": "High chairs",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNlJUt06-7X0M32TbcX4LtX89I7mCpITpajcQka=w382-h298-k-no"
+        },
+        {
+            "about": "Latest",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipP4m5OYIB2F3VfFOVArAILb3t7DSIx0ro-ToR7F=w224-h298-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipN42_WmhH2C3gea0fe0av2-lz3vtV2KRNNzUke1=w529-h298-k-no"
+        },
+        {
+            "about": "Menu",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipM3_3008zSlbARMozFwq_2hW5q0_r-NDt2E8W1H=w397-h298-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPpFpFeVbrYH4wHA69P1-WiiuWssiU0eIQ9QMsE=w530-h298-k-no"
+        },
+        {
+            "about": "Vibe",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipO-2_x5cC15lXmMqqx-pW4YDB2gcwqR3eyve0bb=w397-h298-k-no"
+        },
+        {
+            "about": "Take-out",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMB5WhWvcv6CKUIryQ2zV7zMiKqZotiCYos3iSk=w313-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipP3HAEqmqDaI6_C44mXeWdFnFoWa-RIrVnchgQR=w382-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=NUR3mMQtGKwsrXvCh_hG_Q&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=6.722748&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "11:30 a.m.-3 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "11:30 a.m.-3 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "11:30 a.m.-3 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "11:30 a.m.-3 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "11:30 a.m.-3 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "11:30 a.m.-3 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "Closed"
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "A good spot featuring healthy and tasty bowls. At first the portion sizing seemed small but I enjoyed a regular sized porketta bowl with a coffee and it was filling for the entire day. Prices were also reasonable and the food was prepared fresh by the friendly owners.",
+            "reviewer_name": "Kenrick Li",
+            "rating": 5,
+            "review_text": "A good spot featuring healthy and tasty bowls. At first the portion sizing seemed small but I enjoyed a regular sized porketta bowl with a coffee and it was filling for the entire day. Prices were also reasonable and the food was prepared fresh by the friendly owners.",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-12T16:44:27.308000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 468,
+            "total_number_of_photos_by_reviewer": 2302,
+            "reviewer_url": "https://www.google.com/maps/contrib/113090942415231304062/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVdCetx7iFF7nra5tDnCp3LQaHavY19A0CDOXP4SBOW3HE=s120-c-rp-mo-ba6-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMsWi1td2qbnSrBHMtKbhe6eDMSXuh14Qo3gErU=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOTQ6JvUMU2PnQ38jgcWveZp4tZwTzaWOF0H3ik=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPyrVZukZwT8oIBH8D-XzcIxqSobEputz3u6n6R=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPl3mm952GAOBx3SRJPPDVhYd_TfC2gFwYZdKOi=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPiPRCFAas2kr8Hfn9q_MWp-_PXIR8mwPpiV7QV=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Good food, but the portion size leaves something to be desired. In comparison to other health conscious 'build your own' bowls, Oja's Blend and Basil Box are better options for the price (especially with the protein). However, Gobble does have some unique options in their porchetta and smoked vegan chili. Their roasted root vegetables needed more seasoning as I found it on the bland side, but the pilaf was nice. My friend did enjoy their Chicken Bowl (with the honey glazed chicken and a mild spicy aioli). Would return if I'm in the area, but wouldn't make a special trip out like I did for my first visit.",
+            "reviewer_name": "Chloe Rachel",
+            "rating": 3,
+            "review_text": "Good food, but the portion size leaves something to be desired. In comparison to other health conscious 'build your own' bowls, Oja's Blend and Basil Box are better options for the price (especially with the protein). However, Gobble does have some unique options in their porchetta and smoked vegan chili. Their roasted root vegetables needed more seasoning as I found it on the bland side, but the pilaf was nice. My friend did enjoy their Chicken Bowl (with the honey glazed chicken and a mild spicy aioli). Would return if I'm in the area, but wouldn't make a special trip out like I did for my first visit.",
+            "published_at": "8 months ago",
+            "published_at_date": "2023-03-31T04:12:22.040000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 371,
+            "total_number_of_photos_by_reviewer": 1266,
+            "reviewer_url": "https://www.google.com/maps/contrib/112797509866700892010/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjU--AWytbNl0SZWfne6LXFwT4FF92fMSii7kblXPv-nGm4=s120-c-rp-mo-ba6-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMKv99Uq1QJK8cEeqZfDLQY7H7sKvwOenueDZ7D=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOyJrxCZFnMAlL5eXqIaflwnpvv4HJFiLeqGVIJ=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOfladhXskjftM-2BtxKgKnrgRG9trjY6mylnJG=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPU90_O8PwNH2OBGPei2rzUTbaI-cZGbiPGvHEh=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipO-2_x5cC15lXmMqqx-pW4YDB2gcwqR3eyve0bb=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Newly opened vegan, GF friendly restaurant with option of building your own bowl.\n\nThe menu is really simple and clean. Large food portion and tastes delicious!!\n\nThe staff is really friendly and the environment is super clean.\n\nIf you live near by KITS definitely come by trying them out.\n\nWill be back soon!\n\nKeep it up Gobble",
+            "reviewer_name": "Tario Sultan",
+            "rating": 5,
+            "review_text": "Newly opened vegan, GF friendly restaurant with option of building your own bowl.\n\nThe menu is really simple and clean. Large food portion and tastes delicious!!\n\nThe staff is really friendly and the environment is super clean.\n\nIf you live near by KITS definitely come by trying them out.\n\nWill be back soon!\n\nKeep it up Gobble",
+            "published_at": "a year ago",
+            "published_at_date": "2022-02-03T22:26:38.456000Z",
+            "response_from_owner_text": "Thank you Tario! We're happy that you liked our food.\nSee you around!",
+            "response_from_owner_ago": "a year ago",
+            "response_from_owner_date": "2022-02-03T23:34:05.032000Z",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 206,
+            "total_number_of_photos_by_reviewer": 2064,
+            "reviewer_url": "https://www.google.com/maps/contrib/103851071967715799187/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUp9YvcAkdQ6Z7YKvsdYMSCSzbwTwDsniSfmEIB5-KTGXM=s120-c-rp-mo-ba6-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNTQ7rgnYZxwUES3acxZoB7giuzGU0sGeDt5sU-=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPE2JqVkcD2qpDQ072Ry82wOkXEtnq72_VW4lSx=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOWy3ocwY0oXECkCJcUJt_VuiCvOoeUix9CG4AW=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipM3_3008zSlbARMozFwq_2hW5q0_r-NDt2E8W1H=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOyYW8iPPcVZjWT22XX6jZrCC0n2_kUO_oZ1qnH=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOZdwePQTbbQDHIK-t3AZVHoWQYG0RjVKOOC1VX=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipP4PTgBqYwChsqJWdNd5Vr1tI8JPF7jUWQ0fBy_=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOtz5l55d3MOOsNDDqwNkJVaghhacFrPHaFdnmr=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipM0bzu_wdCwfY-kdR0qH9yvHprgxvVP8b8waBF2=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOZIGgDDVjY8gaVnvCa378I-d3P4q00JknC9SQC=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOVQSf2zjkuHcEaNRhIB0mEqhBX8pdMvNNYuBJM=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNOrMobuAzD5jJdewHR6bda7K33OlSNYiAaq4EQ=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOEw84X-QBBtaHfO34Nj-Gqq4uuG1ncNT9YLPIi=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNmy88SUH5dgMpYZY37o8SpyZx-QismC_N-8_DL=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipON0yUGGeRietGaffzWzktpvRTFjFhh52QDIwYT=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Delicious bowl and good portion. I enjoyed the cucumber salad and the fresh ingredients!",
+            "reviewer_name": "Alessia Mazzamauro",
+            "rating": 5,
+            "review_text": "Delicious bowl and good portion. I enjoyed the cucumber salad and the fresh ingredients!",
+            "published_at": "5 months ago",
+            "published_at_date": "2023-06-30T23:13:49.485000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 80,
+            "total_number_of_photos_by_reviewer": 117,
+            "reviewer_url": "https://www.google.com/maps/contrib/102635135937476986057/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKM2aF7yqCQAk5a1lJ0790974690F6pUbNiaYgnmdmspQ=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMF7dyBfEnr4fU04q9csPngQqs2ZcwqROIVxfzs=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Delicious food, been eating here for more than 3 years and it's always tasty, fresh and clean. The portions are on the small side but very satisfying and good value for money since they maintained their standards over the years.\nI like their pilaf rice, root veggies, chicken, and vegan options. Would definitely recommend!",
+            "reviewer_name": "Sarah A.",
+            "rating": 5,
+            "review_text": "Delicious food, been eating here for more than 3 years and it's always tasty, fresh and clean. The portions are on the small side but very satisfying and good value for money since they maintained their standards over the years.\nI like their pilaf rice, root veggies, chicken, and vegan options. Would definitely recommend!",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-12T21:10:28.458000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 24,
+            "total_number_of_photos_by_reviewer": 13,
+            "reviewer_url": "https://www.google.com/maps/contrib/109081998639161340763/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLSEecsi0r3430z3unpt-69A_R7_lEE9EA0IiVx7WdQ=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Highly recommend. One of us had the porketta bowl, the other a chicken bowl. Both were delicious, really well made and a decent size. Time and attention was clearly put into the preparation.",
+            "reviewer_name": "Jan Feys",
+            "rating": 5,
+            "review_text": "Highly recommend. One of us had the porketta bowl, the other a chicken bowl. Both were delicious, really well made and a decent size. Time and attention was clearly put into the preparation.",
+            "published_at": "2 weeks ago",
+            "published_at_date": "2023-11-11T06:16:39.848000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 47,
+            "total_number_of_photos_by_reviewer": 9,
+            "reviewer_url": "https://www.google.com/maps/contrib/117502232587716834065/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocInRhqRvtVPY2MxpTQmqXgil66I3coeLbYSYpKdUKLO=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Price experience score (pes) 7/10\n\nservice can be faster.\nFood good.\nAmbiance so so",
+            "reviewer_name": "justin tan",
+            "rating": 4,
+            "review_text": "Price experience score (pes) 7/10\n\nservice can be faster.\nFood good.\nAmbiance so so",
+            "published_at": "6 months ago",
+            "published_at_date": "2023-06-01T05:47:36.136000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 386,
+            "total_number_of_photos_by_reviewer": 822,
+            "reviewer_url": "https://www.google.com/maps/contrib/115011647355804535368/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjU1B2HI_S-_iQdJ-Fh3NNXYKU8YX47m5exZ3ctdTeemN4I=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNWWkL4nCBr37hLP3L0VCPdHjRvLGUs7rJA8Ylx=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Couldn't gobble our food down fast enough! We ordered the Chicken Bowl and the Herbivore and were pleasantly surprised by the quality and flavour of both meals. Table service was polite, friendly, and prompt, and the restaurant is refreshingly clean with a good atmosphere for conversation to be had.",
+            "reviewer_name": "Jillian Y",
+            "rating": 5,
+            "review_text": "Couldn't gobble our food down fast enough! We ordered the Chicken Bowl and the Herbivore and were pleasantly surprised by the quality and flavour of both meals. Table service was polite, friendly, and prompt, and the restaurant is refreshingly clean with a good atmosphere for conversation to be had.",
+            "published_at": "a year ago",
+            "published_at_date": "2022-06-15T20:56:46.648000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 5,
+            "total_number_of_photos_by_reviewer": 8,
+            "reviewer_url": "https://www.google.com/maps/contrib/106775654352670822920/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUmsXtrAaoGCdEBTUAQC64CUkTvJl1RB2MqEMyTDecDbVE0=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOkWx9cp46hVOm7sduGXl7H3n1StSp9Cq6ISyvi=w150-h150-k-no-p"
+            ]
+        }
+    ],
+    "is_spending_on_ads": false
+}

@@ -1,0 +1,545 @@
+{
+    "place_id": "ChIJmVo1HEt0hlQRJ4QISlw3B9c",
+    "name": "Northern Cafe",
+    "description": "Down-to-earth spot for hearty breakfasts, burgers & sandwiches, plus Chinese-style dishes.",
+    "reviews": 1522,
+    "website": "http://northerncafeandgrill.com/",
+    "owner": {
+        "id": "100399164148714181434",
+        "name": "Northern Cafe (Owner)",
+        "link": "https://www.google.com/maps/contrib/100399164148714181434"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMA9xRjxIA_5QycAgHtfm02jZGKx5XnZOAMxzlR=w426-h240-k-no",
+    "main_category": "Restaurant",
+    "categories": [
+        "Restaurant",
+        "Breakfast restaurant",
+        "Cafe",
+        "Diner",
+        "Lunch restaurant"
+    ],
+    "rating": 4.8,
+    "workday_timing": null,
+    "closed_on": [],
+    "phone": "(604) 313-8118",
+    "address": "Northern Cafe, 1640 East Kent Ave S, Vancouver, BC V5P 2S7",
+    "review_keywords": [
+        {
+            "keyword": "gem",
+            "count": 97
+        },
+        {
+            "keyword": "pancakes",
+            "count": 77
+        },
+        {
+            "keyword": "hash browns",
+            "count": 66
+        },
+        {
+            "keyword": "lumber yard",
+            "count": 38
+        },
+        {
+            "keyword": "potato salad",
+            "count": 24
+        },
+        {
+            "keyword": "greasy spoon",
+            "count": 23
+        },
+        {
+            "keyword": "eggs benny",
+            "count": 19
+        },
+        {
+            "keyword": "wonton soup",
+            "count": 15
+        },
+        {
+            "keyword": "chow mein",
+            "count": 13
+        },
+        {
+            "keyword": "1949",
+            "count": 6
+        }
+    ],
+    "link": "https://www.google.com/maps/place/Northern+Cafe/data=!4m7!3m6!1s0x5486744b1c355a99:0xd707375c4a088427!8m2!3d49.2084927!4d-123.0724719!16s%2Fg%2F1hc1b01q_!19sChIJmVo1HEt0hlQRJ4QISlw3B9c?authuser=0&hl=en&rclk=1",
+    "status": null,
+    "price_range": "$",
+    "reviews_per_rating": {
+        "1": 15,
+        "2": 13,
+        "3": 28,
+        "4": 122,
+        "5": 1344
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJmVo1HEt0hlQRJ4QISlw3B9c&q=Northern+Cafe&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.2084927,
+        "longitude": -123.0724719
+    },
+    "plus_code": "6W5H+92 Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "South Vancouver",
+        "street": "1640 East Kent Ave S",
+        "city": "Vancouver",
+        "postal_code": "V5P 2S7",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "15494413912510071847",
+    "data_id": "0x5486744b1c355a99:0xd707375c4a088427",
+    "menu": {
+        "link": "https://northerncafeandgrill.com/menu/",
+        "source": "northerncafeandgrill.com"
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Takeout",
+                    "enabled": true
+                },
+                {
+                    "name": "Dine-in",
+                    "enabled": true
+                },
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "highlights",
+            "name": "Highlights",
+            "options": [
+                {
+                    "name": "Fast service",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair accessible seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Coffee",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Dining options",
+            "options": [
+                {
+                    "name": "Breakfast",
+                    "enabled": true
+                },
+                {
+                    "name": "Brunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Lunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Catering",
+                    "enabled": true
+                },
+                {
+                    "name": "Seating",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosphere",
+            "options": [
+                {
+                    "name": "Casual",
+                    "enabled": true
+                },
+                {
+                    "name": "Cozy",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "crowd",
+            "name": "Crowd",
+            "options": [
+                {
+                    "name": "Family-friendly",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planning",
+            "options": [
+                {
+                    "name": "Accepts reservations",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "children",
+            "name": "Children",
+            "options": [
+                {
+                    "name": "Good for kids",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "parking",
+            "name": "Parking",
+            "options": [
+                {
+                    "name": "Free parking lot",
+                    "enabled": true
+                },
+                {
+                    "name": "Free street parking",
+                    "enabled": true
+                },
+                {
+                    "name": "Parking",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMA9xRjxIA_5QycAgHtfm02jZGKx5XnZOAMxzlR=w529-h298-k-no"
+        },
+        {
+            "about": "Latest",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMw0Qc5G5JPsqIwf13arQINM13IwGnl5eATj94Y=w224-h398-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMDK1WqrV-WPe9Ndlky1mmE4QcO6bmSBW260i4V=w224-h398-k-no"
+        },
+        {
+            "about": "Menu",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNqXvWU9jP1OmDQ6E0kl9eHZk4c4JbN7a8JjBmg=w224-h298-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOj1R7Ld9YlE1Y4GKZ0YpjO10NOPd_2Ta4m9AdI=w224-h298-k-no"
+        },
+        {
+            "about": "Vibe",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMGBHqHf3RmuHXbDYT11ivOk6WmFLxc5ylxMXRq=w224-h298-k-no"
+        },
+        {
+            "about": "Take-out",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipP01YnGZUzwlwEdveSm2_ubDMlnDdwBiI7DN6NW=w529-h298-k-no"
+        },
+        {
+            "about": "Omelette",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNQ7RG49e2McJO7d782Ol3bKVhabM4haqTTtBlD=w397-h298-k-no"
+        },
+        {
+            "about": "Eggs Benedict",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPY-cbJM6natY2tGyhHp4SU5F0uDQP1VxkpTMK4=w224-h298-k-no"
+        },
+        {
+            "about": "Toast",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipO09L80rN5cKRxGhqVXZtAhcs-ooM7pJZLhPjFG=w224-h298-k-no"
+        },
+        {
+            "about": "BLT",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPt0LZZDnPEFQue6oaYob-AaI1tOnOkkRwoQ8NT=w397-h298-k-no"
+        },
+        {
+            "about": "Sesame chicken",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMygHKsyGFsc_4YGWkoe3X62X6lNEzCoXEsjhQf=w224-h298-k-no"
+        },
+        {
+            "about": "Chow mein",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMeEd2CRPJUWeRt3mPskW9lr0GWI6wE-FcXwjli=w397-h298-k-no"
+        },
+        {
+            "about": "French fries",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipO84E1K6aOI4f2-AkP_35A0J9jFZ86lJHsWg689=w397-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMT0t_4ExByulvcFASrazpUipkn16KyylRhyAz8=w224-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=bz53YOrpAomuGs__kQvPxg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=172.5102&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "featured_reviews": [
+        {
+            "review_id": "I've been wanting to visit this place for a while now, and today I was in the neighborhood and saw that it was opening at 7, so I got there just before they opened, and it was still dark. I saw them going into the cafe and many of the employees of the supply store they are located at. Had no idea it was at a lumber and hardware supply warehouse, surrounded by many other commercial warehouses, such a great surprise, which just makes it that much better. Absolutely loved the atmosphere and the owners. Very friendly older couple and their son run this awesome famiky owned cafe.\n\nAwesome home cooked breakfast, amazing friendly and relaxed service, and unbelievable atmosphere. When I got there, I was the only one, but I still loved it so much. The old school diner style furniture and music were awesome. I got the pancake with blueberries, sunny side up eggs, and sausage, which were all very good. Loved their old small glass coffee maker and the mugs. The son who was serving was very nice and friendly....he me told me that this place has been around since the 1940s and his parents got this place 15 years ago have been in the business for so long after they retired, wanted to have a slow and small place and now this place is exploded and is crazy busy ...which I find very funny and awesome.\n\nWill definitely come back to try their burgers and Chinese food.",
+            "reviewer_name": "Hamed Soltani",
+            "rating": 5,
+            "review_text": "I've been wanting to visit this place for a while now, and today I was in the neighborhood and saw that it was opening at 7, so I got there just before they opened, and it was still dark. I saw them going into the cafe and many of the employees of the supply store they are located at. Had no idea it was at a lumber and hardware supply warehouse, surrounded by many other commercial warehouses, such a great surprise, which just makes it that much better. Absolutely loved the atmosphere and the owners. Very friendly older couple and their son run this awesome famiky owned cafe.\n\nAwesome home cooked breakfast, amazing friendly and relaxed service, and unbelievable atmosphere. When I got there, I was the only one, but I still loved it so much. The old school diner style furniture and music were awesome. I got the pancake with blueberries, sunny side up eggs, and sausage, which were all very good. Loved their old small glass coffee maker and the mugs. The son who was serving was very nice and friendly....he me told me that this place has been around since the 1940s and his parents got this place 15 years ago have been in the business for so long after they retired, wanted to have a slow and small place and now this place is exploded and is crazy busy ...which I find very funny and awesome.\n\nWill definitely come back to try their burgers and Chinese food.",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-30T15:18:27.689000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 112,
+            "total_number_of_photos_by_reviewer": 159,
+            "reviewer_url": "https://www.google.com/maps/contrib/108536927990609730670/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXAWidQ_feN9ZCgJHIfJ81eJq1AvnIUDBtg-bb-GmHfESg=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOKPdP_QYuUdsuieCztKT1HBDPdRV-xRGPz60KX=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNuYyiEnpQTtQrtPLEVwDwVh8XuzgUcg3cZFhnd=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMt7ObQXm0F8IbnGM2nE1U-A9Y3cfLpl8PB67_Q=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMeFfhe4RHbBjPC38vvYtQjjrz-wWlVnnIQfYOG=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNLdGXSAgGQFVN5Jus_n3ZFc5-iqz4tIP94_Mju=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMEad_PWV9gzBeUU9fXpfgcwqXhCzbuTu2EoOeq=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPSTYto9ActO9MleMKx-PJDqCzxz2wthA5FqdAQ=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMIdW4P1tVQ5d6WQhlOGXtG6Q-POSeAFyZg3lXQ=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipN2cSvLEvxYJa0DyRANcebWI0qnZ-AwlrAoJwLX=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Finally got to try this little gem on a holiday Monday. We waited 1.5 hrs but it was worth the wait. This place is the perfect example of an unpretentious, no fuss family run restaurant that focuses on delicious comfort food. The staff were warm, welcoming and attentive.",
+            "reviewer_name": "Jenny C",
+            "rating": 5,
+            "review_text": "Finally got to try this little gem on a holiday Monday. We waited 1.5 hrs but it was worth the wait. This place is the perfect example of an unpretentious, no fuss family run restaurant that focuses on delicious comfort food. The staff were warm, welcoming and attentive.",
+            "published_at": "2 weeks ago",
+            "published_at_date": "2023-11-14T20:05:04.828000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 15,
+            "total_number_of_photos_by_reviewer": 11,
+            "reviewer_url": "https://www.google.com/maps/contrib/112552373905808335522/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXqTA2A-c1qazTTK7XjS3pugQJsL8pWTttR-b_DwdGQ-VOt=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMUrd8e4IVzqztiRoVw2_iCG9j_gGvSix2Xe06M=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOIrh0EXfIdGKZqOvCCK28CvEyxoDdcQvJgYIq7=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "This place is a jewel in Vancouver. From the very unexpected entrance, to the warmth of the staff to the amazing food. Everything you need to have a beautiful experience. No fancy coffee drinks that are replaced for an absolutely amazing food experience.\n\nEverything is cooked to perfection, from fresh ingredients never frozen. The flavors are an experience. That are accompanied by the smiles of every staff member. The place is cozy and comfortable. The house wonton soup is really great, a mix of flavors and expertly served. The hash browns the best!\n\nDon't forget your cash or debit, your credit cards are not welcome here  :)",
+            "reviewer_name": "Marcela Rodriguez",
+            "rating": 5,
+            "review_text": "This place is a jewel in Vancouver. From the very unexpected entrance, to the warmth of the staff to the amazing food. Everything you need to have a beautiful experience. No fancy coffee drinks that are replaced for an absolutely amazing food experience.\n\nEverything is cooked to perfection, from fresh ingredients never frozen. The flavors are an experience. That are accompanied by the smiles of every staff member. The place is cozy and comfortable. The house wonton soup is really great, a mix of flavors and expertly served. The hash browns the best!\n\nDon't forget your cash or debit, your credit cards are not welcome here  :)",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-07T18:23:37.599000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 23,
+            "total_number_of_photos_by_reviewer": 21,
+            "reviewer_url": "https://www.google.com/maps/contrib/102346291951528178698/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKMjiZ3opFldh1OkNxtVHFlhI_wVguYB3UzibESbw4f=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMikpkerhVB7nyXDDOGX8HKj3p_Y7tdxXTlw00C=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMjEvib-cHCDtPrmBFxiLzJGMqucubkJsFMJIjd=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "This is an amazing place for breakfast, and lunch. The place located in the middle of the factories places, and we need to go upstairs and feel like home.\n\nThe restaurant is hidden in the area, and this is spectaular place, and with delicious foods.\n\nThe omelette is very delicious and with the hash brown which flattered down like a sheet.\n\nThe eggs just cooked perfectly, and the hash brown is thin and tasty\n\nIt is recommended to go for eating!!!",
+            "reviewer_name": "angel lo",
+            "rating": 5,
+            "review_text": "This is an amazing place for breakfast, and lunch. The place located in the middle of the factories places, and we need to go upstairs and feel like home.\n\nThe restaurant is hidden in the area, and this is spectaular place, and with delicious foods.\n\nThe omelette is very delicious and with the hash brown which flattered down like a sheet.\n\nThe eggs just cooked perfectly, and the hash brown is thin and tasty\n\nIt is recommended to go for eating!!!",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-16T00:40:40.684000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 320,
+            "total_number_of_photos_by_reviewer": 1311,
+            "reviewer_url": "https://www.google.com/maps/contrib/103094719488854439128/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJZ38U6Cz2n_CJdw4y0mxvD-xWUKQ2zcPenSFks56PA=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOIl9Z8pd2bEGln7Cobck-vpYj0oHfqppxkgMo0=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOMEStbKo8sJpBZYy7fmVKgvFvotAwQ9NcLmuH-=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipN_O9YbbvmvkmBb4V7u8dzXrifejYFQtL9v9DY3=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOZmnroJzjgiR1gu6SStg-1a__C-gfZADZfwFDg=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMH64Be8l5SkKbDLQtjYMi9nfv6KbYtNljDE376=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOjaCdoY0SwSv0qlboBSigNpGH_Sjq_UOIVOOxP=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "I keep coming back to this cozy place for breakfast/lunch. I LOVE their shredded hash browns .\n\nThe family who runs this restaurant is super friendly! I brought my parents to eat the other day, and the owner came over to chat with us. Thank you for sharing your story with us, it made our visit super memorable.",
+            "reviewer_name": "Alice Chan",
+            "rating": 5,
+            "review_text": "I keep coming back to this cozy place for breakfast/lunch. I LOVE their shredded hash browns .\n\nThe family who runs this restaurant is super friendly! I brought my parents to eat the other day, and the owner came over to chat with us. Thank you for sharing your story with us, it made our visit super memorable.",
+            "published_at": "5 months ago",
+            "published_at_date": "2023-06-21T03:12:01.833000Z",
+            "response_from_owner_text": "Hi Alice,\nThank you for taking the time to write this amazing review. So glad you enjoyed the shredded hash and had a great time with us!! We look forward to having you back again soon! \n\nRichard and Raymond",
+            "response_from_owner_ago": "5 months ago",
+            "response_from_owner_date": "2023-06-25T15:25:52.012000Z",
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 11,
+            "total_number_of_photos_by_reviewer": 28,
+            "reviewer_url": "https://www.google.com/maps/contrib/118102314928698884689/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVkPAex3RRPTWkeF7KUGNzVXPaeG-2W4IAi49sFSJM-4sk=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPhNzYaEVaHc-LDDT-rVd_UoChwM4wc3xULcXKv=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNByHRIw2dXvs8cpy4CNIQoLZIxgOO3iytRAqf6=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "After hearing so much about Northern Cafe, my anticipation was high as I finally made a reservation to dine at this much-acclaimed establishment. The decision to reserve a table proved to be wise; we were seated almost immediately upon arrival, avoiding the long wait times that had deterred us during a previous attempt to dine here.\n\nDon't be fooled by it's surprising location or the state of the building (which might seem to some as if it were about to collapse at any moment).  Inside is something you won't find anywhere else in Vancouver!\n\nThe atmosphere at Northern Cafe is inviting, reflecting its family-run ethos. The menu offers a variety of comfort food options, and we opted for burgers and a side of poutine. The food was exceptional--each bite of the burger was a blend of flavors and textures, and the poutine was a delightful mix of crispy fries, cheese, and well-balanced gravy.\n\nWhat stood out, even more, was the service. The staff were attentive and courteous, enhancing the overall dining experience. It's evident why this establishment has garnered such high praise and even topped lists of the best places to eat in Canada.\n\nA particularly charming touch was the inclusion of watermelon slices with our meal. It added a refreshing contrast to the hearty fare and demonstrated the restaurant's attention to detail. Another delightful aspect was the handwritten reviews by children displayed on the wall, which actually helped us make our menu choices.\n\nNorthern Cafe lives up to its reputation. The combination of delicious food, excellent service, and a welcoming atmosphere makes it a must-visit. Making a reservation is highly recommended!",
+            "reviewer_name": "Adam Myhre",
+            "rating": 5,
+            "review_text": "After hearing so much about Northern Cafe, my anticipation was high as I finally made a reservation to dine at this much-acclaimed establishment. The decision to reserve a table proved to be wise; we were seated almost immediately upon arrival, avoiding the long wait times that had deterred us during a previous attempt to dine here.\n\nDon't be fooled by it's surprising location or the state of the building (which might seem to some as if it were about to collapse at any moment).  Inside is something you won't find anywhere else in Vancouver!\n\nThe atmosphere at Northern Cafe is inviting, reflecting its family-run ethos. The menu offers a variety of comfort food options, and we opted for burgers and a side of poutine. The food was exceptional--each bite of the burger was a blend of flavors and textures, and the poutine was a delightful mix of crispy fries, cheese, and well-balanced gravy.\n\nWhat stood out, even more, was the service. The staff were attentive and courteous, enhancing the overall dining experience. It's evident why this establishment has garnered such high praise and even topped lists of the best places to eat in Canada.\n\nA particularly charming touch was the inclusion of watermelon slices with our meal. It added a refreshing contrast to the hearty fare and demonstrated the restaurant's attention to detail. Another delightful aspect was the handwritten reviews by children displayed on the wall, which actually helped us make our menu choices.\n\nNorthern Cafe lives up to its reputation. The combination of delicious food, excellent service, and a welcoming atmosphere makes it a must-visit. Making a reservation is highly recommended!",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-14T16:33:04.134000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 3,
+            "total_number_of_reviews_by_reviewer": 48,
+            "total_number_of_photos_by_reviewer": 75,
+            "reviewer_url": "https://www.google.com/maps/contrib/113833586512673443571/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIlJyiX-ToM8XFDa8lUdflRd7Zf6qRowxJ2PC5PdxVa=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOupNAhLw8WeDM_eydW3FvQLBJWeqp4N-GaVR4J=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipO5Q1coia54jrWUBYO-NYa3N-pJUWsBiPOKOUu-=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipO0-Md9LLceXdhyHv7omoz5hn_Qy18BfcrZV0mA=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "The location is quite cool with a decent amount of parking outside. I can't imagine how this place is during rush hour because it's small and tight and the low ceiling doesn't help at all but cool. I ordered the northern deluxe burger and my wife got the wonton noodle soup. I thought the burger was good, but IMO a little expensive especially for a cash only business, which I'm not a fan of. Unfortunately my wife did not like the wonton noodle soup. I blame social media for over hyping it. The Service was amazing!! it's expected from a family owned business! The service alone is enough to support this restaurant. I still highly recommend this place! You can't go wrong with the burger and BRING CASH!",
+            "reviewer_name": "A MA",
+            "rating": 3,
+            "review_text": "The location is quite cool with a decent amount of parking outside. I can't imagine how this place is during rush hour because it's small and tight and the low ceiling doesn't help at all but cool. I ordered the northern deluxe burger and my wife got the wonton noodle soup. I thought the burger was good, but IMO a little expensive especially for a cash only business, which I'm not a fan of. Unfortunately my wife did not like the wonton noodle soup. I blame social media for over hyping it. The Service was amazing!! it's expected from a family owned business! The service alone is enough to support this restaurant. I still highly recommend this place! You can't go wrong with the burger and BRING CASH!",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-10T22:18:44.131000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 22,
+            "total_number_of_photos_by_reviewer": 29,
+            "reviewer_url": "https://www.google.com/maps/contrib/115686146684095180314/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIn8rgRv_blScT8MFIMDFZpXf_JJyI6Zx7tVVZeR89r1Q=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipN_rIOdlza3KUkkRtQwtGkMzanpl8Oo_o5uLsum=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNsHKCqywc-jWj_styAQq8sIKjHyxqhXtlv84mv=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "If you are desperate for comfort, then this friendly family run cafe will brighten your day! The hash brown is a must have, thin and crispy. The pork chop sandwich was tasty, as the meat was well marinated and juicy. Brighten my day especially in this awful rainy weather!",
+            "reviewer_name": "Kingramen",
+            "rating": 5,
+            "review_text": "If you are desperate for comfort, then this friendly family run cafe will brighten your day! The hash brown is a must have, thin and crispy. The pork chop sandwich was tasty, as the meat was well marinated and juicy. Brighten my day especially in this awful rainy weather!",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-24T19:05:09.346000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 36,
+            "total_number_of_photos_by_reviewer": 102,
+            "reviewer_url": "https://www.google.com/maps/contrib/103799463911720817509/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXtnHoXyRqzpmKbL8XvqbWuNCFh5Tsn3dHZc_ALWmMBMzMx=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMEmaiJseFw26YJMiOR-xvPsj6iCmIX-gPJp0EI=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOEV7rknY1E7Tm9t82jSdMFZTFhXQOlgYLAYZ5W=w150-h150-k-no-p"
+            ]
+        }
+    ],
+    "is_spending_on_ads": false
+}

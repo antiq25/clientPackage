@@ -1,0 +1,319 @@
+{
+    "place_id": "ChIJAQAAeXHXhVQR4MXprueAuHc",
+    "name": "Loblaw Pharmacy",
+    "description": null,
+    "reviews": 11,
+    "website": "https://www.realcanadiansuperstore.ca/pharmacy%3FstoreId%3D1556%26utm_source%3DG%26utm_medium%3DLPM%26utm_campaign%3DLoblaws",
+    "owner": {
+        "id": "112355567226252226028",
+        "name": "Loblaw Pharmacy (Owner)",
+        "link": "https://www.google.com/maps/contrib/112355567226252226028"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=YczurAtaJ6WYyzDhyfJZuw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=182.07738&pitch=0&thumbfov=100",
+    "main_category": "Pharmacy",
+    "categories": [
+        "Pharmacy",
+        "Drug store"
+    ],
+    "rating": 2.5,
+    "workday_timing": "9 a.m.-10 p.m.",
+    "closed_on": [],
+    "phone": "(604) 587-8535",
+    "address": "Loblaw Pharmacy, 14650 104 Ave, Surrey, BC V3R 1M3",
+    "review_keywords": [
+        {
+            "keyword": "prescription",
+            "count": 4
+        }
+    ],
+    "link": "https://www.google.com/maps/place/Loblaw+Pharmacy/data=!4m7!3m6!1s0x5485d77179000001:0x77b880e7aee9c5e0!8m2!3d49.190785!4d-122.815837!16s%2Fg%2F11f54jg7ht!19sChIJAQAAeXHXhVQR4MXprueAuHc?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 9 a.m.",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 6,
+        "2": 1,
+        "3": 0,
+        "4": 1,
+        "5": 3
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJAQAAeXHXhVQR4MXprueAuHc&q=Loblaw+Pharmacy&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.190785,
+        "longitude": -122.81583699999999
+    },
+    "plus_code": "55RM+8M Surrey, British Columbia",
+    "detailed_address": {
+        "ward": "Whalley",
+        "street": "14650 104 Ave",
+        "city": "Surrey",
+        "postal_code": "V3R 1M3",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "8626786818788541920",
+    "data_id": "0x5485d77179000001:0x77b880e7aee9c5e0",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "In-store pickup",
+                    "enabled": true
+                },
+                {
+                    "name": "In-store shopping",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=YczurAtaJ6WYyzDhyfJZuw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=182.07738&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=YczurAtaJ6WYyzDhyfJZuw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=182.07738&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "9 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "9 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "9 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "9 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "9 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "9 a.m.-7 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "9 a.m.-7 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "Consistently incompetent.\n\nThey refill prescriptions without being asked to, and then mark them as dispensed to customer.\nWhen asked to refill they won't record it, and the pharmacist doesn't know it was asked for. This happened to me 3 times in a row (and in the end it had been made 8 days before asked, and that I had already recieved it).\nI've seen several people yell at them for the same problems.\nThey can't even successfully change the phone number on record.\nSometimes there's one pill more than the labeled quantity (2 pills per dose...)\n\nShouldn't have a license to operate.",
+            "reviewer_name": "Connor Brown",
+            "rating": 1,
+            "review_text": "Consistently incompetent.\n\nThey refill prescriptions without being asked to, and then mark them as dispensed to customer.\nWhen asked to refill they won't record it, and the pharmacist doesn't know it was asked for. This happened to me 3 times in a row (and in the end it had been made 8 days before asked, and that I had already recieved it).\nI've seen several people yell at them for the same problems.\nThey can't even successfully change the phone number on record.\nSometimes there's one pill more than the labeled quantity (2 pills per dose...)\n\nShouldn't have a license to operate.",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-22T19:08:24.066000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/118324564025519155302/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIzEYTPBhmUvoxdo8RsSCILyjDibey4Uv0aR_wWroy1=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Have been going to this pharmacy for probably the last 5 years and they have handled our flu shots and medications without any issues. Staff is very helpful and polite.",
+            "reviewer_name": "G W",
+            "rating": 5,
+            "review_text": "Have been going to this pharmacy for probably the last 5 years and they have handled our flu shots and medications without any issues. Staff is very helpful and polite.",
+            "published_at": "a week ago",
+            "published_at_date": "2023-11-23T18:50:28.677000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 60,
+            "total_number_of_photos_by_reviewer": 9,
+            "reviewer_url": "https://www.google.com/maps/contrib/101133187670981863859/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWe6jB8_tzzQN02SJ5AHRzbfP3-qFS8_9_7CCK1R_RTND8=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "I've had several incidents where the pharmacy blamed me for the medication saying I didn't give them enough notice and that it is every one else's fault they are short staffed then saying if I wanted my prescription back like how that going to do me any good when I need my meds I physically can't keep coming back and forth every three hours as he says I made several complaints on other staff for the bad attitudes..",
+            "reviewer_name": "Jennifer Miller",
+            "rating": 1,
+            "review_text": "I've had several incidents where the pharmacy blamed me for the medication saying I didn't give them enough notice and that it is every one else's fault they are short staffed then saying if I wanted my prescription back like how that going to do me any good when I need my meds I physically can't keep coming back and forth every three hours as he says I made several complaints on other staff for the bad attitudes..",
+            "published_at": "3 weeks ago",
+            "published_at_date": "2023-11-15T19:54:23.988000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 8,
+            "total_number_of_photos_by_reviewer": 5,
+            "reviewer_url": "https://www.google.com/maps/contrib/115495559996173895535/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVs7FURAPx4iqGMgLoniYVmhmya5Ae9DtNNQJ6NddemxA=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "NEVER EVER VISIT THIS PHARMACY. A lady who looks like Indian who always ask you to wait 1 hr or ask to come tomorrow even if you had visited after 4 hrs of prescription faxed by your Dr. Also her attitude was very bad, no respect to customers, she never understands the patients urgency , I would give negative or 0 star here only because of her attitude, other 2 ladies were really good and explained and delivered medicine soon. Also they won't call you even if the medication is ready for pickup regardless of urgency. I don't see this issue with other pharmacies like Walmart, I requested Dr to change the pharmacy to Walmart.",
+            "reviewer_name": "Sathesh Kumar Rajendran",
+            "rating": 1,
+            "review_text": "NEVER EVER VISIT THIS PHARMACY. A lady who looks like Indian who always ask you to wait 1 hr or ask to come tomorrow even if you had visited after 4 hrs of prescription faxed by your Dr. Also her attitude was very bad, no respect to customers, she never understands the patients urgency , I would give negative or 0 star here only because of her attitude, other 2 ladies were really good and explained and delivered medicine soon. Also they won't call you even if the medication is ready for pickup regardless of urgency. I don't see this issue with other pharmacies like Walmart, I requested Dr to change the pharmacy to Walmart.",
+            "published_at": "a year ago",
+            "published_at_date": "2022-11-18T21:38:29.840000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 28,
+            "total_number_of_photos_by_reviewer": 9,
+            "reviewer_url": "https://www.google.com/maps/contrib/108568281010331242011/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWRNDZ14_VIFvBPGsX9IObMkZtiP6M5rmVFfwhSscGHq1yT=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Super frustrating. I understand that there is a shortage of baby medication. That aside, this is the 3rd pharmacy I've gone to asking about baby allergy medication. I'm a nurse and I'm confused and frustrated. Staff your pharmacies and provide accurate timely information!",
+            "reviewer_name": "shila steve",
+            "rating": 1,
+            "review_text": "Super frustrating. I understand that there is a shortage of baby medication. That aside, this is the 3rd pharmacy I've gone to asking about baby allergy medication. I'm a nurse and I'm confused and frustrated. Staff your pharmacies and provide accurate timely information!",
+            "published_at": "a year ago",
+            "published_at_date": "2022-10-08T18:32:03.476000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 18,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/114017230551170378560/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocI3Mg2W6b_Rcn7zVt9N6D85OAVJ9zjXttIDppg5VEqU=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "- We took our Booster shot here by booking out slots online.\n- was extremely quick, and efficient.\n- Zain, the pharmacy manager administered us the shot & was absolutely painless.\n\nNote: You'll have to fill up the form",
+            "reviewer_name": "Swapnil Kambli",
+            "rating": 5,
+            "review_text": "- We took our Booster shot here by booking out slots online.\n- was extremely quick, and efficient.\n- Zain, the pharmacy manager administered us the shot & was absolutely painless.\n\nNote: You'll have to fill up the form",
+            "published_at": "a year ago",
+            "published_at_date": "2022-02-09T05:04:05.200000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 171,
+            "total_number_of_photos_by_reviewer": 152,
+            "reviewer_url": "https://www.google.com/maps/contrib/117335788377449758836/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWLgTmotogw7LfUheBEYO5pMGmD32iZOoRBDeQMtz4ihwE=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "I have prescriptions faxed here for 10AM hoping they will have it ready for pick up by 4pm. I go to pick up at 4pm only for them to tell me I have to wait 1 hour for them to get it ready.",
+            "reviewer_name": "R.",
+            "rating": 1,
+            "review_text": "I have prescriptions faxed here for 10AM hoping they will have it ready for pick up by 4pm. I go to pick up at 4pm only for them to tell me I have to wait 1 hour for them to get it ready.",
+            "published_at": "2 years ago",
+            "published_at_date": "2021-12-06T21:11:24.217000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 21,
+            "total_number_of_photos_by_reviewer": 11,
+            "reviewer_url": "https://www.google.com/maps/contrib/113751952779561435560/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWOOc4JoHVffj_7lb4DMXc_Z0jkSprw__WAPpN-0xNuyoE=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "9:29am Saturday, half an hour after they open and you phone and message system tells you pharmacy is closed",
+            "reviewer_name": "richard mclaughlin",
+            "rating": 1,
+            "review_text": "9:29am Saturday, half an hour after they open and you phone and message system tells you pharmacy is closed",
+            "published_at": "9 months ago",
+            "published_at_date": "2023-02-18T17:30:42.341000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 9,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/118020161807964582925/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUR85-0k9SXQeexGNP7csUWVs4UUiCNDp8bR0M8-GUsHIg=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

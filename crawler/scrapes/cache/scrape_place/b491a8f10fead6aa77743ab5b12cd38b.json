@@ -1,0 +1,589 @@
+{
+    "place_id": "ChIJ616ojdFxhlQRxjOFwXKAksU",
+    "name": "Dilli Heights Bistro | Delhi Themed Cafe & Bistro in Vancouver",
+    "description": null,
+    "reviews": 454,
+    "website": "http://www.dilliheights.ca/",
+    "owner": {
+        "id": "115847911811322365254",
+        "name": "Dilli Heights Bistro | Delhi Themed Cafe & Bistro in Vancouver (Owner)",
+        "link": "https://www.google.com/maps/contrib/115847911811322365254"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNJYVQX9gauNTFqnwSgzVLyylQhhXJM7RgIM0qI=w408-h544-k-no",
+    "main_category": "Cafe",
+    "categories": [
+        "Cafe",
+        "Indian restaurant",
+        "Indian takeaway"
+    ],
+    "rating": 4.2,
+    "workday_timing": "11 a.m.-12 a.m.",
+    "closed_on": [],
+    "phone": "(604) 484-1385",
+    "address": "Dilli Heights Bistro | Delhi Themed Cafe & Bistro in Vancouver, 436 Richards St, Vancouver, BC V6B 2Z3",
+    "review_keywords": [
+        {
+            "keyword": "indian",
+            "count": 55
+        },
+        {
+            "keyword": "bowl",
+            "count": 29
+        },
+        {
+            "keyword": "pav bhaji",
+            "count": 21
+        },
+        {
+            "keyword": "paneer",
+            "count": 19
+        },
+        {
+            "keyword": "aloo tikki burger",
+            "count": 17
+        },
+        {
+            "keyword": "papri chaat",
+            "count": 14
+        },
+        {
+            "keyword": "golgappe",
+            "count": 14
+        },
+        {
+            "keyword": "sev puri",
+            "count": 13
+        },
+        {
+            "keyword": "samosa chaat",
+            "count": 13
+        },
+        {
+            "keyword": "flies",
+            "count": 8
+        }
+    ],
+    "link": "https://www.google.com/maps/place/Dilli+Heights+Bistro+%7C+Delhi+Themed+Cafe+%26+Bistro+in+Vancouver/data=!4m7!3m6!1s0x548671d18da85eeb:0xc5928072c18533c6!8m2!3d49.283463!4d-123.1125294!16s%2Fg%2F11thq6hfsv!19sChIJ616ojdFxhlQRxjOFwXKAksU?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 11 a.m.",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 55,
+        "2": 24,
+        "3": 23,
+        "4": 37,
+        "5": 315
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ616ojdFxhlQRxjOFwXKAksU&q=Dilli+Heights+Bistro+%7C+Delhi+Themed+Cafe+%26+Bistro+in+Vancouver&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.283463,
+        "longitude": -123.1125294
+    },
+    "plus_code": "7VMP+9X Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "Downtown Vancouver",
+        "street": "436 Richards St",
+        "city": "Vancouver",
+        "postal_code": "V6B 2Z3",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "14236582602432918470",
+    "data_id": "0x548671d18da85eeb:0xc5928072c18533c6",
+    "menu": {
+        "link": "http://www.dilliheights.ca/menu",
+        "source": "dilliheights.ca"
+    },
+    "reservations": [],
+    "order_online_links": [
+        {
+            "link": "https://www.doordash.com/store/dilli-heights-bistro-vancouver-24619444/?utm_campaign=gpa",
+            "source": "doordash.com"
+        },
+        {
+            "link": "https://www.ubereats.com/ca/store/dilli-heights-bistro-downtown/ZS-c3QZkQe6RqDnHcHC5UQ?utm_campaign=place-action-link&utm_medium=organic&utm_source=google",
+            "source": "ubereats.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Curbside pickup",
+                    "enabled": true
+                },
+                {
+                    "name": "No-contact delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Takeout",
+                    "enabled": true
+                },
+                {
+                    "name": "Dine-in",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "highlights",
+            "name": "Highlights",
+            "options": [
+                {
+                    "name": "Live performances",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Coffee",
+                    "enabled": true
+                },
+                {
+                    "name": "Late-night food",
+                    "enabled": true
+                },
+                {
+                    "name": "Small plates",
+                    "enabled": true
+                },
+                {
+                    "name": "Vegan options",
+                    "enabled": true
+                },
+                {
+                    "name": "Vegetarian options",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Dining options",
+            "options": [
+                {
+                    "name": "Breakfast",
+                    "enabled": true
+                },
+                {
+                    "name": "Brunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Lunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Dinner",
+                    "enabled": true
+                },
+                {
+                    "name": "Catering",
+                    "enabled": true
+                },
+                {
+                    "name": "Dessert",
+                    "enabled": true
+                },
+                {
+                    "name": "Seating",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Gender-neutral washroom",
+                    "enabled": true
+                },
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosphere",
+            "options": [
+                {
+                    "name": "Casual",
+                    "enabled": true
+                },
+                {
+                    "name": "Cozy",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "crowd",
+            "name": "Crowd",
+            "options": [
+                {
+                    "name": "Family-friendly",
+                    "enabled": true
+                },
+                {
+                    "name": "Groups",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planning",
+            "options": [
+                {
+                    "name": "Accepts reservations",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNJYVQX9gauNTFqnwSgzVLyylQhhXJM7RgIM0qI=w224-h298-k-no"
+        },
+        {
+            "about": "Latest",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMuJeGfFqTUImTuHk8yRVPQFqrZ2KEmqx_xz79u=w224-h298-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipO09l5rNw4WbeMuwB-_PLL3wxTMMzUgTezyjeVN=w224-h481-k-no"
+        },
+        {
+            "about": "Menu",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipO1mcHP51yoe_hJg357Hx4HaPGWfe6VS8A20f_a=w529-h298-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNLViPwI7hhXAJqic1QHE1G-mdUnC_bSLfLF7_B=w298-h298-k-no"
+        },
+        {
+            "about": "Vibe",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMso06nAUU_DkVvNkiPvdt0ub_r3JxbeCZeJO6-=w397-h298-k-no"
+        },
+        {
+            "about": "Take-out",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOV5dscZVNpFOXXcKMxLv_1kelN8nQw34WHeWOd=w298-h298-k-no"
+        },
+        {
+            "about": "Momo",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPyaZuMODCzmtMUXllt5aIKCGoKfXxCtFwj60w=w224-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNzJn1gYwhIGVQMzhXBayOHcWQPb85NKFyuhzen=w224-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=fp8yxxl1JcMlVtjpxI-bFQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=105.32836&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "11 a.m.-12 a.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "11 a.m.-12 a.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "11 a.m.-12 a.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "11 a.m.-12 a.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "11 a.m.-12 a.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "11 a.m.-12 a.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "11 a.m.-12 a.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "My husband and I found this place when we wanted some late night food. We absolutely loved the live music, it was such an inviting place. The food was fantastic and so authentic! We loved getting to have some Indian street food that we've never had before.\n\nEverything was so good we went back the next day for brunch!\n\nA few things were quite spicy and I needed to get some yogurt to go with it, but I wouldn't change a thing. It was SO DELICIOUS!!!! We'll definitely want to come back here whenever we are in Vancouver.",
+            "reviewer_name": "Jennifer Dempsey",
+            "rating": 5,
+            "review_text": "My husband and I found this place when we wanted some late night food. We absolutely loved the live music, it was such an inviting place. The food was fantastic and so authentic! We loved getting to have some Indian street food that we've never had before.\n\nEverything was so good we went back the next day for brunch!\n\nA few things were quite spicy and I needed to get some yogurt to go with it, but I wouldn't change a thing. It was SO DELICIOUS!!!! We'll definitely want to come back here whenever we are in Vancouver.",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-08T22:55:25.478000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 152,
+            "total_number_of_photos_by_reviewer": 79,
+            "reviewer_url": "https://www.google.com/maps/contrib/102197821883486931559/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVKHQwMo69ThGKEL0qoiuy5MzMU38niGyNnkxZ1YYcpkPY=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipO4mix99eEhazMOwyHwUoW-HGM4y0W-tUmeZg76=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPZMTgEFMm3Gz8RxfFT5MpWp_gpDipcYkHgyY_w=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipP7xa8rH09U2Vk5ZpSDK04GhxLVJqQg3SC--DjN=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOcc2kHSfPhuW1IyCaNSe9KBLi7u6emQhFZ4e-x=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOo-BwDzaKtFtd6U39t6Ph0Uq0QLgO0KjZ7Plc0=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "This is such a cute underground cozy spot. Super authentic masala chai, 100% recommend. We also tried some of the street food options like aloo tiki burger, chat papri and gol gappa. We already want to come back for more! Recommend!",
+            "reviewer_name": "Shadi Motiei",
+            "rating": 5,
+            "review_text": "This is such a cute underground cozy spot. Super authentic masala chai, 100% recommend. We also tried some of the street food options like aloo tiki burger, chat papri and gol gappa. We already want to come back for more! Recommend!",
+            "published_at": "a week ago",
+            "published_at_date": "2023-11-20T19:16:54.285000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 54,
+            "total_number_of_photos_by_reviewer": 36,
+            "reviewer_url": "https://www.google.com/maps/contrib/108227155495570579333/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXllH5-ZU4AlyU-Q7SqwGAWtn7Mst44mzENrbRrZMvrIxrz=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipN68qhxnb45bMQpmv2Uc5zksjaleqwoef0d4mlH=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMuJeGfFqTUImTuHk8yRVPQFqrZ2KEmqx_xz79u=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPzo25819-BsFCd8gNtcj5n9QgmIR8NgzT0b_ur=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOpV5BgXNRAOQ0DYMMWFu1J0Omh1tOYRk6QZ-tQ=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "I asked them which is best thing to have as I am so hungry they are like you can have some chat or noodles and paneer chilly bowl then I asked for pav bhaji what you suggest pav bhaji or paneer chilly bowl they said pav bhaji I best whenever customer asked for best thing that means it should be your best plate but unfortunately I don't like pav bhaji at all its not worth giving money to pav bhaji and I ordered sev puri they don't know the different between sev puri and dahi puri instead of sev puri they serve me dahi puri. It was a worst experience for me.\nI never recommended to anybody if I ask them for suggestion and then also they gave this type of taste then no need to go there.",
+            "reviewer_name": "Aakansha Contractor",
+            "rating": 2,
+            "review_text": "I asked them which is best thing to have as I am so hungry they are like you can have some chat or noodles and paneer chilly bowl then I asked for pav bhaji what you suggest pav bhaji or paneer chilly bowl they said pav bhaji I best whenever customer asked for best thing that means it should be your best plate but unfortunately I don't like pav bhaji at all its not worth giving money to pav bhaji and I ordered sev puri they don't know the different between sev puri and dahi puri instead of sev puri they serve me dahi puri. It was a worst experience for me.\nI never recommended to anybody if I ask them for suggestion and then also they gave this type of taste then no need to go there.",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-24T05:04:48.945000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 10,
+            "total_number_of_photos_by_reviewer": 14,
+            "reviewer_url": "https://www.google.com/maps/contrib/100023769809127823575/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJv-oVuNEaYIbUnwHtF9U-mGha7zvSwIv1F5_6JdcIG=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPqYJKfZlbiV9ikfL3FqDqE6sP-pjZlEikg_E21=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOkI3knFkb0cXbq95tx_Q_m3Te0DI9lK3W0prDA=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPc546tAdpQ8Z13423kGLXXIBfcGc35vegZTHz0=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOFIpFOdODkiVVTybqUXATXVGy9DblaYhgWPykH=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Pretty average taste wise . Chai was really good . Pav bhaji was okayish also the onions should have been finely chopped . Ordered Sev puri and weirdly it had Dahi in it(maybe delhi style ) Overall good place to chill .",
+            "reviewer_name": "Soumya Handa",
+            "rating": 3,
+            "review_text": "Pretty average taste wise . Chai was really good . Pav bhaji was okayish also the onions should have been finely chopped . Ordered Sev puri and weirdly it had Dahi in it(maybe delhi style ) Overall good place to chill .",
+            "published_at": "4 weeks ago",
+            "published_at_date": "2023-11-02T20:00:06.955000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 49,
+            "total_number_of_photos_by_reviewer": 73,
+            "reviewer_url": "https://www.google.com/maps/contrib/113290769704380746165/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVj0mxu54s_gS7lTJKh44DpT6EXV54SfmtwnCjX6bPMfcGC=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOYXoqtdAmylTuL2M_0oUtxCnTiMCOLsMVoPlX5=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMONBuzRyXLl1aamKD_S-GbzBA5gAWbXJokpztm=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Dilli Heights Bistro in Vancouver is a culinary delight! The golgappe sent my taste buds on a journey to Delhi, evoking the authentic flavors of the bustling streets. The chicken and veg momos were a true gastronomic pleasure, leaving me craving for more. And the vada pav? It was nothing short of a fantabulous explosion of flavors. This restaurant is a must-visit for every foodie seeking an exquisite taste of Delhi in the heart of Vancouver.",
+            "reviewer_name": "Vipin Arora",
+            "rating": 5,
+            "review_text": "Dilli Heights Bistro in Vancouver is a culinary delight! The golgappe sent my taste buds on a journey to Delhi, evoking the authentic flavors of the bustling streets. The chicken and veg momos were a true gastronomic pleasure, leaving me craving for more. And the vada pav? It was nothing short of a fantabulous explosion of flavors. This restaurant is a must-visit for every foodie seeking an exquisite taste of Delhi in the heart of Vancouver.",
+            "published_at": "2 weeks ago",
+            "published_at_date": "2023-11-11T18:40:19.209000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 18,
+            "total_number_of_photos_by_reviewer": 34,
+            "reviewer_url": "https://www.google.com/maps/contrib/110308332841932997277/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW2LxrWNthDIZOxuLtP90plUPCR3OvfofMcc0TwTtnWvck=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipO09l5rNw4WbeMuwB-_PLL3wxTMMzUgTezyjeVN=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMEqYOa16kAY6zO-cEUq51NhSEkZYfV3faCkEvu=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOmL2wwZks2X4tnbFtBURapmKfEvW3rYnE_aTAV=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOFpjVS-bUpWrZ7jLDmSTpgdvQ5Ann2GJIuF9Tp=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOBv7h5SPl7yIENRKgpVxvE1X8LGenjeogweVV6=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "It was my first visit here. Wasnt bad and not too good either. It is located few blocks away from waterfront station. It is in the basement.\nTheir grand opening is on may 5th.\n\nI ordered pav bhaji, Homestyle paneer sandwich, Aloo tikki burger with brownie shake. They provide remote device after placing order and it beeps when order is ready. Food was okay.\n\nPav bhaji- \nHomestyle paneer sandwich-\nAloo tikki burger- \nbrownie shake- \nAmbience-\nPrice- \n\nI hope it gets better after grand opening.",
+            "reviewer_name": "Manish Basra",
+            "rating": 4,
+            "review_text": "It was my first visit here. Wasnt bad and not too good either. It is located few blocks away from waterfront station. It is in the basement.\nTheir grand opening is on may 5th.\n\nI ordered pav bhaji, Homestyle paneer sandwich, Aloo tikki burger with brownie shake. They provide remote device after placing order and it beeps when order is ready. Food was okay.\n\nPav bhaji- \nHomestyle paneer sandwich-\nAloo tikki burger- \nbrownie shake- \nAmbience-\nPrice- \n\nI hope it gets better after grand opening.",
+            "published_at": "7 months ago",
+            "published_at_date": "2023-04-27T01:07:08.885000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 48,
+            "total_number_of_photos_by_reviewer": 139,
+            "reviewer_url": "https://www.google.com/maps/contrib/115965307028457587923/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVRYiF8jXF3VgP2u-Gs9fOVZB5jUBcHqSOm5uLzQ-XP4uc=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPbShZmoin4JrIuLrbT4Pu-BF7TP1eeFHOWHJWj=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipM7mLHQDeafKCJQ0ep40g0vcyqar7uusdvyJUec=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMmOsySyLZush3vXzF8RxSHSHCyVTQQ8jHaU8XC=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNgFHJUt4LkKlvcm5SH3IaXJm-TQ0-MDY_8PWHF=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMoNddONy5KCwLnODBpLPhDiPSACj5OTBA3t6nt=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipP0OAFhmZJ5uNcuEQ6eKxsp5FZlog0oVqWknQkx=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMso06nAUU_DkVvNkiPvdt0ub_r3JxbeCZeJO6-=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPX-PKMgy3zINA8t2lyhcdW5iN105iQnGvsHUr8=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipP1wvTwKxQsNKcEihFZV-Alt-hMnB6cG_znGmNB=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipO3JQBu1SFFro8zSIACWwvzwU_4Dvk5w_wn37vI=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNvbb1jIAaZheTEU81ZaqfmVeuKVo7VmC59Sb87=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOPNYMcZobwMq0n0_44RJDzfHi0NTIXrueWHKWG=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Great food and ambiance! Recommend the Aloo Tiki burger, it was flavourful and filling. The Paneer Masala wrap was good too, but the paneer chunks were larger than I prefer.\nService was great, busy spot but I didn't have to wait too long.\nCardamom and Masala chais were strong and hit the spot!",
+            "reviewer_name": "Yeshvi Mehta",
+            "rating": 4,
+            "review_text": "Great food and ambiance! Recommend the Aloo Tiki burger, it was flavourful and filling. The Paneer Masala wrap was good too, but the paneer chunks were larger than I prefer.\nService was great, busy spot but I didn't have to wait too long.\nCardamom and Masala chais were strong and hit the spot!",
+            "published_at": "6 months ago",
+            "published_at_date": "2023-05-22T16:12:50.101000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 35,
+            "total_number_of_photos_by_reviewer": 55,
+            "reviewer_url": "https://www.google.com/maps/contrib/113524444989669819221/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXky45P7ntsbFMsWUkpGVvs2PCdhY6vJPh3h-oj0irNdrE=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPYzsYEKznWSWIQNO-gGBWzsSdreXr8k-9NlK1P=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOLjpYvVhjqxdkMfJ9rNMaPC3z2D96LlMQEjj5c=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPcOKtAUwGJJVtANGgwm6zJg2QbJJs8qiz_mFfN=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "*Serious Review Alert*\nI would highly recommend to all the people reading this review. Please read the whole review. So it all started with when i went there to have my dinner at this place and we didn't had any food since morning. We ordered in clear words a paneer masala roll and veg steamed momos. The order taker heard us wrong and she punched a chicken masala roll. My friend is a non-vegetarian person but it all comes to me i am a vegetarian person by birth and it's like i don't even eat eggs. We were so hungry that we started eating the wrap and also as i said above we didn't ate since morning so we didn't realised initially that we were served chicken but later my friend realised since he is a non-vegetarian person. As I complained to the order taker, she was like i always double confirm the order. But we clearly remember that we ordered a paneer masala roll and she didn't double confirmed with us as well. It was all her mistake and she knows that very well. And also in their apologies, when i asked sincerely can i know the name of order taker by any chance. She replied \"IT WILL AFFECT MY JOB\". Seriously, are you kidding me? It has affected my life. Just one mistake of order taker who was varsha has affected me mentally, can anybody imagine that she made a vegetarian person eat chicken. It comes under my religion and i am a pure vegetarian. It's high time to consider this review. That being said, at the time of ordering, we clearly also told her to cut the wrap in two halves. She was like yes, i'll do it for you. Later when i went to pick my food, i asked her, that is it in two halves already? She told me yes. When I opened the wrap it was in one full piece. I need to ask her again to cut in two. That clearly shows she didn't heard us right while taking the order. Such discrepancies while taking order shouldn't be considered that too to a pure vegetarian person, who never ate since born.",
+            "reviewer_name": "Dipesh Morandani",
+            "rating": 1,
+            "review_text": "*Serious Review Alert*\nI would highly recommend to all the people reading this review. Please read the whole review. So it all started with when i went there to have my dinner at this place and we didn't had any food since morning. We ordered in clear words a paneer masala roll and veg steamed momos. The order taker heard us wrong and she punched a chicken masala roll. My friend is a non-vegetarian person but it all comes to me i am a vegetarian person by birth and it's like i don't even eat eggs. We were so hungry that we started eating the wrap and also as i said above we didn't ate since morning so we didn't realised initially that we were served chicken but later my friend realised since he is a non-vegetarian person. As I complained to the order taker, she was like i always double confirm the order. But we clearly remember that we ordered a paneer masala roll and she didn't double confirmed with us as well. It was all her mistake and she knows that very well. And also in their apologies, when i asked sincerely can i know the name of order taker by any chance. She replied \"IT WILL AFFECT MY JOB\". Seriously, are you kidding me? It has affected my life. Just one mistake of order taker who was varsha has affected me mentally, can anybody imagine that she made a vegetarian person eat chicken. It comes under my religion and i am a pure vegetarian. It's high time to consider this review. That being said, at the time of ordering, we clearly also told her to cut the wrap in two halves. She was like yes, i'll do it for you. Later when i went to pick my food, i asked her, that is it in two halves already? She told me yes. When I opened the wrap it was in one full piece. I need to ask her again to cut in two. That clearly shows she didn't heard us right while taking the order. Such discrepancies while taking order shouldn't be considered that too to a pure vegetarian person, who never ate since born.",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-12T01:37:28.765000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 41,
+            "total_number_of_photos_by_reviewer": 163,
+            "reviewer_url": "https://www.google.com/maps/contrib/113061405447853720639/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKLksfXgDjBRP5HfwVRB0duTLNafWaBwj5wOqY5GYlN=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNDBfz35GaLPG6lCQxVhFX57vkEHTRzkiy9cgR_=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNRAhrEbA7FRtcjLFi8Qp5HSGQgyNw5O6BlGFod=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMrNijeg14__2jhOBX7Nu76Qki-KUTJWch_cq0m=w150-h150-k-no-p"
+            ]
+        }
+    ],
+    "is_spending_on_ads": false
+}

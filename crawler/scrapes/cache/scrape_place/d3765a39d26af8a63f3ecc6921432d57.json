@@ -1,0 +1,552 @@
+{
+    "place_id": "ChIJz2x74QhxhlQRPSAlnmzz2zs",
+    "name": "Slim's BBQ",
+    "description": null,
+    "reviews": 222,
+    "website": "https://narrowgroup.ca/project/slims-bbq/",
+    "owner": {
+        "id": "105622922287519351924",
+        "name": "Slim's BBQ (Owner)",
+        "link": "https://www.google.com/maps/contrib/105622922287519351924"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOA5DZ9IUAXkDTpxB9MefGosncfw1qQt7Dkeqeu=w408-h596-k-no",
+    "main_category": "Barbecue restaurant",
+    "categories": [
+        "Barbecue restaurant"
+    ],
+    "rating": 4,
+    "workday_timing": "11:30 a.m.-1 a.m.",
+    "closed_on": [],
+    "phone": "(604) 708-0881",
+    "address": "Slim's BBQ, 2301 Main St, Vancouver, BC V5T 1M6",
+    "review_keywords": [
+        {
+            "keyword": "brisket",
+            "count": 31
+        },
+        {
+            "keyword": "cornbread",
+            "count": 15
+        },
+        {
+            "keyword": "mac and cheese",
+            "count": 14
+        },
+        {
+            "keyword": "tots",
+            "count": 9
+        },
+        {
+            "keyword": "happy hour",
+            "count": 8
+        },
+        {
+            "keyword": "vegan",
+            "count": 8
+        },
+        {
+            "keyword": "platter",
+            "count": 8
+        },
+        {
+            "keyword": "fried chicken",
+            "count": 8
+        },
+        {
+            "keyword": "brunch",
+            "count": 5
+        },
+        {
+            "keyword": "patio",
+            "count": 5
+        }
+    ],
+    "link": "https://www.google.com/maps/place/Slim%27s+BBQ/data=!4m7!3m6!1s0x54867108e17b6ccf:0x3bdbf36c9e25203d!8m2!3d49.2645016!4d-123.1011438!16s%2Fg%2F11l_h1xhv7!19sChIJz2x74QhxhlQRPSAlnmzz2zs?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 11:30 a.m.",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 30,
+        "2": 15,
+        "3": 12,
+        "4": 25,
+        "5": 140
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJz2x74QhxhlQRPSAlnmzz2zs&q=Slim's+BBQ&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.264501599999996,
+        "longitude": -123.10114379999999
+    },
+    "plus_code": "7V7X+RG Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "East Vancouver",
+        "street": "2301 Main St",
+        "city": "Vancouver",
+        "postal_code": "V5T 1M6",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "4313308715972632637",
+    "data_id": "0x54867108e17b6ccf:0x3bdbf36c9e25203d",
+    "menu": {
+        "link": "https://narrowgroup.ca/2020baby/wp-content/uploads/2021/01/SLIMS_MENU.pdf",
+        "source": "narrowgroup.ca"
+    },
+    "reservations": [],
+    "order_online_links": [
+        {
+            "link": "https://www.doordash.com/store/slims-bbq-vancouver-25041494/?utm_campaign=gpa",
+            "source": "doordash.com"
+        },
+        {
+            "link": "https://www.skipthedishes.com/slims-bbq?utm_source=google&utm_medium=organic&utm_campaign=gpa",
+            "source": "skipthedishes.com"
+        }
+    ],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Outdoor seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Curbside pickup",
+                    "enabled": true
+                },
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "Takeout",
+                    "enabled": true
+                },
+                {
+                    "name": "Dine-in",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair accessible seating",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Alcohol",
+                    "enabled": true
+                },
+                {
+                    "name": "Beer",
+                    "enabled": true
+                },
+                {
+                    "name": "Cocktails",
+                    "enabled": true
+                },
+                {
+                    "name": "Coffee",
+                    "enabled": true
+                },
+                {
+                    "name": "Hard liquor",
+                    "enabled": true
+                },
+                {
+                    "name": "Late-night food",
+                    "enabled": true
+                },
+                {
+                    "name": "Small plates",
+                    "enabled": true
+                },
+                {
+                    "name": "Wine",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "dining_options",
+            "name": "Dining options",
+            "options": [
+                {
+                    "name": "Brunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Lunch",
+                    "enabled": true
+                },
+                {
+                    "name": "Dinner",
+                    "enabled": true
+                },
+                {
+                    "name": "Dessert",
+                    "enabled": true
+                },
+                {
+                    "name": "Seating",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "amenities",
+            "name": "Amenities",
+            "options": [
+                {
+                    "name": "Bar on-site",
+                    "enabled": true
+                },
+                {
+                    "name": "Washroom",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "atmosphere",
+            "name": "Atmosphere",
+            "options": [
+                {
+                    "name": "Casual",
+                    "enabled": true
+                },
+                {
+                    "name": "Cozy",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "crowd",
+            "name": "Crowd",
+            "options": [
+                {
+                    "name": "Groups",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "planning",
+            "name": "Planning",
+            "options": [
+                {
+                    "name": "Accepts reservations",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOA5DZ9IUAXkDTpxB9MefGosncfw1qQt7Dkeqeu=w224-h327-k-no"
+        },
+        {
+            "about": "Food & drink",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMGgragNWYAGvqMKotWkKJ_SOsVpln7hBmnqaB1=w457-h298-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOdKRjzhRxZCwmklx_yPTQnIbUevtkhlX8xZ8XB=w224-h398-k-no"
+        },
+        {
+            "about": "Vibe",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipONNozDjeMc99TWbi3_U-C0BLbKG1AV2bJUPcCN=w224-h298-k-no"
+        },
+        {
+            "about": "Take-out",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNHwyaH34a4YPHzeolUmPYQxrmpyd6fZqu9h-E3=w224-h298-k-no"
+        },
+        {
+            "about": "Pulled pork",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPIDPi5eSZgJ47kWSEbbhO4uMoY5Gw4A3rxm8FN=w397-h298-k-no"
+        },
+        {
+            "about": "Tater tots",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNZ94MSjRv-4BiJWQo_4gxvMkJ3NWtlcPFSAAkn=w395-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMyonbhbvjXuBADkfGTds6t4PKFACMmzPFJyjRZ=w460-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=bCKI1QjJCjkgnK2b0WR3Ag&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=305.52557&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "11:30 a.m.-1 a.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "11:30 a.m.-1 a.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "11:30 a.m.-1 a.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "11:30 a.m.-1 a.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "11:30 a.m.-1 a.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "10 a.m.-2 a.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "10 a.m.-1 a.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "This small little gem was the perfect spot for a Vegan/ Carnivore duo to dine together.  I had the cornbread with pulled pork and it was so delicious.  The bread was just the right amount of crisp and crunch around the edges, moist and full of flavor.  The presentation of the food was too pretty to not capture the memory and everything else about the meal and drinks was above average.  Even their grapefruit juice was better than I've had and noteworthy!\n\nHaving our server interact with us throughout the entire meal added to the fun.  He even sat with us for a few minutes for conversation as he cheered us on to try our first ever pickle back.\n\nGreat experience and a shout out to our camera shy server that we would ask for by name if only I could remember it!",
+            "reviewer_name": "Bianca Posadas",
+            "rating": 5,
+            "review_text": "This small little gem was the perfect spot for a Vegan/ Carnivore duo to dine together.  I had the cornbread with pulled pork and it was so delicious.  The bread was just the right amount of crisp and crunch around the edges, moist and full of flavor.  The presentation of the food was too pretty to not capture the memory and everything else about the meal and drinks was above average.  Even their grapefruit juice was better than I've had and noteworthy!\n\nHaving our server interact with us throughout the entire meal added to the fun.  He even sat with us for a few minutes for conversation as he cheered us on to try our first ever pickle back.\n\nGreat experience and a shout out to our camera shy server that we would ask for by name if only I could remember it!",
+            "published_at": "9 months ago",
+            "published_at_date": "2023-02-16T07:26:29.020000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 75,
+            "total_number_of_photos_by_reviewer": 98,
+            "reviewer_url": "https://www.google.com/maps/contrib/107688619173350757644/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWm3wEvKEluggEM26GBC6Ow2Sjlr1jdjBywtmNLyGKqRPQ=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOdKRjzhRxZCwmklx_yPTQnIbUevtkhlX8xZ8XB=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOErFiwkVlM2j7qQRWryGkwjsEYZDxqJNyDWxnf=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOYF5eM-I1eJQ_k1FE5mncmFqGbpDWP_aJbxVHt=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "It was past lunch, and I was craving for American style barbecue as we were walking around Mt. Pleasant. I'm glad we found this place and pleasantly surprised by the food, I gave it an 8/10, and the server was nice and friendly. Their are good selection on the happy hour menu. I would suggest you try it if you are within the area.",
+            "reviewer_name": "Kath Lee",
+            "rating": 4,
+            "review_text": "It was past lunch, and I was craving for American style barbecue as we were walking around Mt. Pleasant. I'm glad we found this place and pleasantly surprised by the food, I gave it an 8/10, and the server was nice and friendly. Their are good selection on the happy hour menu. I would suggest you try it if you are within the area.",
+            "published_at": "5 months ago",
+            "published_at_date": "2023-06-18T22:09:09.907000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 37,
+            "total_number_of_photos_by_reviewer": 124,
+            "reviewer_url": "https://www.google.com/maps/contrib/101915043435221145076/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKDyhD0NPd5rchEnIXgIWyzSOmGEM9A9Hie35QUPmWx=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOnVStn666nGnV_U7jK4fhvoYwOxutrqnGEKcz8=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNViQURjMo6R2aYFSvM6WLCB3FEXy-qZcGbMjFy=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Amazing vegan wings. Immediately after finishing i already planned a return visit. I recommend the Valentina hot sauce with ranch dip (all vegan).  Would love to see more vegan options like cornbread or Mac and cheese",
+            "reviewer_name": "Caroline Ross",
+            "rating": 5,
+            "review_text": "Amazing vegan wings. Immediately after finishing i already planned a return visit. I recommend the Valentina hot sauce with ranch dip (all vegan).  Would love to see more vegan options like cornbread or Mac and cheese",
+            "published_at": "5 months ago",
+            "published_at_date": "2023-06-08T22:40:22.517000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 4,
+            "total_number_of_reviews_by_reviewer": 49,
+            "total_number_of_photos_by_reviewer": 129,
+            "reviewer_url": "https://www.google.com/maps/contrib/111877108602569535739/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVF099XL2kWDt9FvU6NtcWYrsWkiJl5c_jMkudIAd9MO4A=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPVF4l2ZmnF4zKyOVqyi1Xc2eF1ij01SnPaTMNG=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipN_hn2N1DSAPmSQChcRFXo-gZpXtEmBotqvVB20=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMzksIfA9iiS1e89YKlffYkm2vMYuRaLjYsOcmI=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "We came here after a team building event. It was fantastic and friendly service and the food was delicious! It was a very hot day and we chose to sit inside because their outdoor area is in the back and smelled very strongly of garbage. The inside doesn't have AC so it was prettttyyyyy slick inside too. They have some cool rolling windows which they opened and that helped a bit. The food and service way outweighed the issues with the location. Highly reccomend!",
+            "reviewer_name": "Samantha Gregory",
+            "rating": 5,
+            "review_text": "We came here after a team building event. It was fantastic and friendly service and the food was delicious! It was a very hot day and we chose to sit inside because their outdoor area is in the back and smelled very strongly of garbage. The inside doesn't have AC so it was prettttyyyyy slick inside too. They have some cool rolling windows which they opened and that helped a bit. The food and service way outweighed the issues with the location. Highly reccomend!",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-27T17:31:45.375000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 5,
+            "total_number_of_reviews_by_reviewer": 7,
+            "total_number_of_photos_by_reviewer": 2,
+            "reviewer_url": "https://www.google.com/maps/contrib/111045589623214960303/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXBpz667S6S739FlvxzJZz1kAxVw03Rg09VY856GYBCV_o=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOVu5_AAld_V-0yBMujqwnrZuXDI5bL3jtXrW1B=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Came here on a Friday, the servers and bartenders were very welcoming. We ordered the nachos with chicken as an appy, pork butt with chili, And beef barbacoa with mac and cheese. We also ordered two drinks, the Long Island Iced Tea. And the beer with a shot of jameson. We ended up mixing the Jameson and the beer and it actually wasn't too bad. When our food came out, the sides were switched, but that was no problem cause we were gonna share anyway. Ambience was very authentic.",
+            "reviewer_name": "Christine Biala",
+            "rating": 4,
+            "review_text": "Came here on a Friday, the servers and bartenders were very welcoming. We ordered the nachos with chicken as an appy, pork butt with chili, And beef barbacoa with mac and cheese. We also ordered two drinks, the Long Island Iced Tea. And the beer with a shot of jameson. We ended up mixing the Jameson and the beer and it actually wasn't too bad. When our food came out, the sides were switched, but that was no problem cause we were gonna share anyway. Ambience was very authentic.",
+            "published_at": "6 months ago",
+            "published_at_date": "2023-05-23T03:03:30.707000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 28,
+            "total_number_of_photos_by_reviewer": 24,
+            "reviewer_url": "https://www.google.com/maps/contrib/116220741179675121427/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjU8WNylnpvfrtYrWbDYoV1D-aArkPd9e2O0YrWp6pQGGU8=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOpXWTr3QGk5cflhrSfOX7SvldYkT-bLNurqGdl=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNl0jVww_vq_tshO5xYSRYiHnt3d7uNnRdq87FP=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOMCZVJR2os74Xz_VvLR63mRNS2RHSZxG26SQ1m=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Awesome BBQ! The brisket and ribs are very tasty. Staff were very friendly. The Mac and cheese was the highlight for sure, if you like spice you will love it! We had the banana pudding for dessert, prefect thing to share after dinner. The coleslaw was not my favourite. Would definitely recommend this place!",
+            "reviewer_name": "Savannah",
+            "rating": 5,
+            "review_text": "Awesome BBQ! The brisket and ribs are very tasty. Staff were very friendly. The Mac and cheese was the highlight for sure, if you like spice you will love it! We had the banana pudding for dessert, prefect thing to share after dinner. The coleslaw was not my favourite. Would definitely recommend this place!",
+            "published_at": "a year ago",
+            "published_at_date": "2022-10-31T00:53:26.389000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 159,
+            "total_number_of_photos_by_reviewer": 425,
+            "reviewer_url": "https://www.google.com/maps/contrib/110260646550996706219/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVLNTIZZQaEaGfYqDGzD5WfCicXHQk9ADAIwBOC_a3Qbw=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPQYYdDJKtctSrFSea42avp0Y8cm_hf_hMTRBQ=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipP1A0rR3PHBgVfYEprH3zTM6YrLaT13236SJJA=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPmL_X1hG1djS8qROi0ztgYmvaYyTj_1W6tU-s=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "I had high hopes for this place but unfortunately, that's all it was.  The service was excellent, the beer on happy hour extremely well priced.  But the platter was an absolute joke!  44 bucks for what I would not pay 12 bucks for.\n\nThe server felt bad and gave us some mac and cheese which didn't make up for the slim portions.\n\nIf you're looking for good BBQ in Vancouver, this ain't it.  Slim seems to refer to their chincy portions.  Also they don't smoke their own meat so what kind of BBQ joint is this??\n\nFor great BBQ, go to Smoke and Bones in North Van...",
+            "reviewer_name": "Ryan Lacey",
+            "rating": 1,
+            "review_text": "I had high hopes for this place but unfortunately, that's all it was.  The service was excellent, the beer on happy hour extremely well priced.  But the platter was an absolute joke!  44 bucks for what I would not pay 12 bucks for.\n\nThe server felt bad and gave us some mac and cheese which didn't make up for the slim portions.\n\nIf you're looking for good BBQ in Vancouver, this ain't it.  Slim seems to refer to their chincy portions.  Also they don't smoke their own meat so what kind of BBQ joint is this??\n\nFor great BBQ, go to Smoke and Bones in North Van...",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-16T02:02:27.832000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 28,
+            "total_number_of_photos_by_reviewer": 2,
+            "reviewer_url": "https://www.google.com/maps/contrib/109955704682876648249/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVwqHbKiV1KpqiU37ossbTYBNmehRbpWW80IZAZnKtTow=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "I'm gonna go ahead and say that slims have the best nachos in vancouver. No soggy chips and no burnt cheese that we see everywhere else. Tasty cheese sauce, crispy tortilla chips. 10/10. And their happy hour couldn't be better. Slims is it.",
+            "reviewer_name": "Adam Ellard",
+            "rating": 5,
+            "review_text": "I'm gonna go ahead and say that slims have the best nachos in vancouver. No soggy chips and no burnt cheese that we see everywhere else. Tasty cheese sauce, crispy tortilla chips. 10/10. And their happy hour couldn't be better. Slims is it.",
+            "published_at": "2 weeks ago",
+            "published_at_date": "2023-11-11T01:54:04.468000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 10,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/108138666454312025507/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKOSDH1FpFCGFJ7r30Kdk7Xe9bgnSxWBUfgCNj5C7in=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}
