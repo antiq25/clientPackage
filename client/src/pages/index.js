@@ -24,7 +24,7 @@ import { Chart4 } from 'src/components/company_card/chart/chart2';
 import { ReviewsDataProvider } from 'src/components/company_card/ReviewsDataProvider';
 import { SelectedCompanyProvider } from 'src/contexts/reviews/SelectedCompanyContext';
 import { useSelectedCompany } from 'src/contexts/reviews/SelectedCompanyContext';
-
+import WidgetCreator from 'src/components/company_card/createWidgets';
 
 const Page = () => {
   const settings = useSettings();
@@ -35,99 +35,111 @@ const Page = () => {
 
   usePageView();
   const theme = useTheme();
-  
 
   return (
     <>
-     <ApiProvider>
-      <ReviewsDataProvider>
-        <SelectedCompanyProvider>
-        <Seo title="Dashboard" />
-        <Box
-          component="main"
-          sx={{
-            flexGrow: 1,
-            py: 8,
-            backgroundColor: theme.palette.background.default,
-          }}
-        >
-          <Container maxWidth={settings.stretch ? false : 'xl'}>
-            <Grid container
-spacing={3}>
-              <Grid item
-xs={12}>
-                <Stack
-                  direction="row"
-                  justifyContent="space-between"
-                  alignItems="center"
-                  mb={5}
+      <ApiProvider>
+        <ReviewsDataProvider>
+          <SelectedCompanyProvider>
+            <Seo title="Dashboard" />
+            <Box
+              component="main"
+              sx={{
+                flexGrow: 1,
+                py: 8,
+                backgroundColor: theme.palette.background.default,
+              }}
+            >
+              <Container maxWidth={settings.stretch ? false : 'xl'}>
+                <Grid
+                  container
+                  spacing={3}
                 >
-                  <Typography variant="h4">Dashboard</Typography>
-                  <Button
-                    startIcon={<PlusIcon />}
-                    variant="contained"
-                    onClick={handleOpenCreateListingDialog}
+                  <Grid
+                    item
+                    xs={12}
                   >
-                    Add New Listing
-                  </Button>
-                  <CreateListingDialog
-                    open={isCreateListingDialogOpen}
-                    onClose={handleCloseCreateListingDialog}
-                    onCreationSuccess={() => {}}
+                    <Stack
+                      direction="row"
+                      justifyContent="space-between"
+                      alignItems="center"
+                      mb={5}
+                    >
+                      <Typography variant="h4">Dashboard</Typography>
+                      <Button
+                        startIcon={<PlusIcon />}
+                        variant="contained"
+                        onClick={handleOpenCreateListingDialog}
+                      >
+                        Add New Listing
+                      </Button>
+                      <CreateListingDialog
+                        open={isCreateListingDialogOpen}
+                        onClose={handleCloseCreateListingDialog}
+                        onCreationSuccess={() => {}}
+                      />
+                    </Stack>
+                  </Grid>
 
-                  />
-                </Stack>
-              </Grid>
-          
-              <Grid item
-xs={12}>
-                <Grow in
-timeout={1000}>
-                  <Card>
-                    <CardHeader title="Latest Reviews" />
-                    <CardContent>
-                      <FetchedReviews />
-                    </CardContent>
-                  </Card>
-                </Grow>
-              </Grid>
-              <Grid item
-xs={12}
-md={6}
-lg={6}>
-                <Grow in
-timeout={1000}>
-                  <Card>
-                    <CardHeader title="Performance Over Time" />
-                    <CardContent>
-                      <Chart4 />
-                    </CardContent>
-                  </Card>
-                </Grow>
-              </Grid>
-              <Grid item
-xs={12}
-md={6}
-lg={6}>
-                <Grow in
-timeout={1000}>
-                  <Card>
-                    <CardHeader title="Top Listings" />
-                    <CardContent>
-                      <TopCompaniesChart />
-                    </CardContent>
-                  </Card>
-                </Grow>
-              </Grid>
-
-            </Grid>
-          </Container>
-        </Box>
-        </SelectedCompanyProvider>
-      </ReviewsDataProvider>
-    </ApiProvider>
+                  <Grid
+                    item
+                    xs={12}
+                  >
+                    <Grow
+                      in
+                      timeout={1000}
+                    >
+                      <Card>
+                        <CardHeader title="Latest Reviews" />
+                        <CardContent>
+                          <FetchedReviews />
+                        </CardContent>
+                      </Card>
+                    </Grow>
+                  </Grid>
+                  <Grid
+                    item
+                    xs={12}
+                    md={6}
+                    lg={6}
+                  >
+                    <Grow
+                      in
+                      timeout={1000}
+                    >
+                      <Card>
+                        <CardHeader title="Performance Over Time" />
+                        <CardContent>
+                          <Chart4 />
+                        </CardContent>
+                      </Card>
+                    </Grow>
+                  </Grid>
+                  <Grid
+                    item
+                    xs={12}
+                    md={6}
+                    lg={6}
+                  >
+                    <Grow
+                      in
+                      timeout={1000}
+                    >
+                      <Card>
+                        <CardHeader title="Top Listings" />
+                        <CardContent>
+                          <TopCompaniesChart />
+                        </CardContent>
+                      </Card>
+                    </Grow>
+                  </Grid>
+                </Grid>
+              </Container>
+            </Box>
+          </SelectedCompanyProvider>
+        </ReviewsDataProvider>
+      </ApiProvider>
     </>
-  
   );
 };
 

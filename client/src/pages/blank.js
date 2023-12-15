@@ -1,52 +1,24 @@
-import { useCallback, useEffect, useState } from 'react';
+import PlusIcon from '@untitled-ui/icons-react/build/esm/Plus';
 import Box from '@mui/material/Box';
+import Button from '@mui/material/Button';
 import Container from '@mui/material/Container';
 import Stack from '@mui/material/Stack';
+import SvgIcon from '@mui/material/SvgIcon';
 import Typography from '@mui/material/Typography';
 
-import { socialApi } from 'src/src2/api/social';
-import { Seo } from 'src/components/seo';
-import { useMounted } from 'src/hooks/use-mounted';
-import { usePageView } from 'src/hooks/use-page-view';
-import { Layout as DashboardLayout } from 'src/layouts/dashboard';
-import { SocialPostAdd } from 'src/sections/dashboard/social/social-post-add';
-import { SocialPostCard } from 'src/sections/dashboard/social/social-post-card';
-
-const usePosts = () => {
-  const isMounted = useMounted();
-  const [posts, setPosts] = useState([]);
-
-  const handlePostsGet = useCallback(async () => {
-    try {
-      const response = await socialApi.getFeed();
-
-      if (isMounted()) {
-        setPosts(response);
-      }
-    } catch (err) {
-      console.error(err);
-    }
-  }, [isMounted]);
-
-  useEffect(
-    () => {
-      handlePostsGet();
-    },
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-    []
-  );
-
-  return posts;
-};
+import { Seo } from 'src/src2/components/seo';
+import { usePageView } from 'src/src2/hooks/use-page-view';
+import { useSettings } from 'src/src2/hooks/use-settings';
+import { Layout as DashboardLayout } from 'src/src2/layouts/dashboard';
 
 const Page = () => {
-  const posts = usePosts();
+  const settings = useSettings();
 
   usePageView();
 
   return (
     <>
-      <Seo title="Dashboard: Social Feed" />
+      <Seo title="Dashboard: Blank" />
       <Box
         component="main"
         sx={{
@@ -54,34 +26,48 @@ const Page = () => {
           py: 8,
         }}
       >
-        <Container maxWidth="lg">
-          <Stack spacing={1}>
-            <Typography
-              color="text.secondary"
-              variant="overline"
-            >
-              Social Feed
-            </Typography>
-            <Typography variant="h4">Here&apos;s what your connections posted</Typography>
-          </Stack>
+        <Container maxWidth={settings.stretch ? false : 'xl'}>
           <Stack
-            spacing={3}
-            sx={{ mt: 3 }}
+            spacing={{
+              xs: 3,
+              lg: 4,
+            }}
           >
-            <SocialPostAdd />
-            {posts.map((post) => (
-              <SocialPostCard
-                key={post.id}
-                authorAvatar={post.author.avatar}
-                authorName={post.author.name}
-                comments={post.comments}
-                createdAt={post.createdAt}
-                isLiked={post.isLiked}
-                likes={post.likes}
-                media={post.media}
-                message={post.message}
-              />
-            ))}
+            <Stack
+              direction="row"
+              justifyContent="space-between"
+              spacing={4}
+            >
+              <div>
+                <Typography variant="h4">Blank</Typography>
+              </div>
+              <div>
+                <Stack
+                  direction="row"
+                  spacing={4}
+                >
+                  <Button
+                    startIcon={
+                      <SvgIcon>
+                        <PlusIcon />
+                      </SvgIcon>
+                    }
+                    variant="contained"
+                  >
+                    Action
+                  </Button>
+                </Stack>
+              </div>
+            </Stack>
+            <Box
+              sx={{
+                borderColor: 'neutral.300',
+                borderStyle: 'dashed',
+                borderWidth: 1,
+                height: 300,
+                p: '4px',
+              }}
+            />
           </Stack>
         </Container>
       </Box>
