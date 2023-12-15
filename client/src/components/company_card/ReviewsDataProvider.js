@@ -13,7 +13,7 @@ export const ReviewsDataProvider = ({ children }) => {
   const [businessNames, setBusinessNames] = useState([]);
 
   // Define the base URL for your API
-  const apiBaseURL = 'http://localhost:3002/scrape';
+  const apiBaseURL = 'https://smart.aliveai.net/scrape';
 
   // Function to fetch reviews
   const handleFetchReviews = async () => {

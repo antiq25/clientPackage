@@ -46,7 +46,7 @@ const ReviewsFetcher = () => {
     setError('');
     const token = localStorage.getItem('token');
     try {
-      const response = await fetch('http://localhost:3002/scrape/reviews', { // Updated the URL to a placeholder as 'localhost:3002' is typically used for local APIs
+      const response = await fetch('https://smart.aliveai.net/scrape/reviews', { // Updated the URL to a placeholder as 'localhost:3002' is typically used for local APIs
         method: 'GET',
         headers: {
           'Content-Type': 'application/json',
