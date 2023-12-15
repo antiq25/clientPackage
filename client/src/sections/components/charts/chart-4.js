@@ -6,14 +6,14 @@ import CardHeader from '@mui/material/CardHeader';
 import IconButton from '@mui/material/IconButton';
 import SvgIcon from '@mui/material/SvgIcon';
 import { useTheme } from '@mui/material/styles';
-
+import { ReviewsDataProvider } from 'src/components/company_card/ReviewsDataProvider';
 import { Chart } from 'src/components/chart';
 import { Scrollbar } from 'src/components/scrollbar';
 
 const chartSeries = [
   {
     name: 'Performance',
-    data: [10, 5, 11, 20, 13, 28, 18, 4, 13, 12, 13, 5],
+    data: ReviewsDataProvider.rating,
   },
 ];
 

@@ -31,6 +31,10 @@ import { useNprogress } from 'src/hooks/use-nprogress';
 import { store } from 'src/store';
 import { createTheme } from 'src/theme';
 import { createEmotionCache } from 'src/utils/create-emotion-cache';
+import { ReviewsDataProvider } from 'src/components/company_card/ReviewsDataProvider';
+import { SelectedCompanyProvider } from 'src/contexts/reviews/SelectedCompanyContext';
+import { Api, Reviews } from '@mui/icons-material';
+
 
 const clientSideEmotionCache = createEmotionCache();
 
@@ -53,7 +57,9 @@ const CustomApp = (props) => {
       </Head>
       <ReduxProvider store={store}>
         <LocalizationProvider dateAdapter={AdapterDateFns}>
-        <ApiProvider>
+  <ApiProvider>
+    <ReviewsDataProvider> 
+      <SelectedCompanyProvider> 
           <AuthProvider>
             <AuthConsumer>
               {(auth) => (
@@ -125,8 +131,9 @@ const CustomApp = (props) => {
               )}
             </AuthConsumer>
           </AuthProvider>
-          </ApiProvider>
-
+    </SelectedCompanyProvider>  
+    </ReviewsDataProvider>
+    </ApiProvider>    
         </LocalizationProvider>
       </ReduxProvider>
     </CacheProvider>

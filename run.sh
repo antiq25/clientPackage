@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
 
-export PKGDIR="$HOME/big"
+export PKGDIR="$HOME/clientPackage"
 
 export SMSDIR="${PKGDIR}/sms-backend"
-export SMSFRONT="${PKGDIR}/devias-template"
-export SCRAPER="${PKGDIR}/antiq-scraper"
+export SMSFRONT="${PKGDIR}/client"
+export SCRAPER="${PKGDIR}/crawler"
 
 ## ----- BACKEND ------- #
 start_project() {

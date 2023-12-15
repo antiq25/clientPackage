@@ -2254,7 +2254,9 @@ __metadata:
     axios: "npm:^1.6.2"
     chart.js: "npm:^4.4.1"
     chartjs: "npm:^0.3.24"
-    core-js: "npm:^3.34.0"
+    chartjs-plugin-datalabels: "npm:^2.2.0"
+    chartjs-plugin-style: "npm:^0.5.0"
+    core-js: "npm:3.34.0"
     date-fns: "npm:2.30.0"
     draft-js: "npm:^0.11.7"
     eslint: "npm:^8.55.0"
@@ -2279,7 +2281,7 @@ __metadata:
     numeral: "npm:2.0.6"
     prettier: "npm:^3.1.1"
     prop-types: "npm:15.8.1"
-    protobufjs: "npm:^7.2.5"
+    protobufjs: "npm:7.2.5"
     react: "npm:18.2.0"
     react-apexcharts: "npm:^1.4.1"
     react-beautiful-dnd: "npm:13.1.1"
@@ -6211,12 +6213,59 @@ __metadata:
   languageName: node
   linkType: hard
 
+"chart.js@npm:>= 2.6.0 < 3":
+  version: 2.9.4
+  resolution: "chart.js@npm:2.9.4"
+  dependencies:
+    chartjs-color: "npm:^2.1.0"
+    moment: "npm:^2.10.2"
+  checksum: 59bef7f0fdb3a52c66a4ba9821285d90db59b8c45bfc1be328e09e2d712cca8d6a804a64a25f0f67d979e81c11bb4be894ce99248f425724873fe5c3dff75cc7
+  languageName: node
+  linkType: hard
+
 "chart.js@npm:^4.4.1":
   version: 4.4.1
   resolution: "chart.js@npm:4.4.1"
   dependencies:
     "@kurkle/color": "npm:^0.3.0"
   checksum: ef0cd10118bfa66695b109cbb331be99193b19f1ac2bb7f35f8c71aa45a355f17d1c87d5fa6727a2b026ace4c7fa8ab557e9f61a9f13f1f39f58500bbd0c26d1
+  languageName: node
+  linkType: hard
+
+"chartjs-color-string@npm:^0.6.0":
+  version: 0.6.0
+  resolution: "chartjs-color-string@npm:0.6.0"
+  dependencies:
+    color-name: "npm:^1.0.0"
+  checksum: 09097db49b7de080e49593e1e9234101fb38574dfeb1e014d0bc0fcbeb306ae6d20f81eadc75e1eb3ba5242440a3a4bc7a0660f98b0900544d53a9a3c2c90351
+  languageName: node
+  linkType: hard
+
+"chartjs-color@npm:^2.1.0":
+  version: 2.4.1
+  resolution: "chartjs-color@npm:2.4.1"
+  dependencies:
+    chartjs-color-string: "npm:^0.6.0"
+    color-convert: "npm:^1.9.3"
+  checksum: a36a6d5975b592464aba3e9dcee342b2de77f110c88b1a75a791df24211bcaf782be3d61896a79a5ac55f5d3c8a26b7f6986db9bd8d340826bc759ecc43505bd
+  languageName: node
+  linkType: hard
+
+"chartjs-plugin-datalabels@npm:^2.2.0":
+  version: 2.2.0
+  resolution: "chartjs-plugin-datalabels@npm:2.2.0"
+  peerDependencies:
+    chart.js: ">=3.0.0"
+  checksum: de4855a795e4eef34869a16db1a8a0f905b6dfed0258c733338f472625361eb56fb899214b18651c1c1064cd343a78285ba576576693a40ec51285a84f022ea0
+  languageName: node
+  linkType: hard
+
+"chartjs-plugin-style@npm:^0.5.0":
+  version: 0.5.0
+  resolution: "chartjs-plugin-style@npm:0.5.0"
+  dependencies:
+    chart.js: "npm:>= 2.6.0 < 3"
+  checksum: 96ba41ed8b3ccc548ecedbdbf4d5251a225f4d482161c60aaabcb5148024cfcf2d520538b5d97a8498289c16b66e894219ba612ac9443bcaf81a989ff9ca505a
   languageName: node
   linkType: hard
 
@@ -6340,7 +6389,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"color-convert@npm:^1.9.0":
+"color-convert@npm:^1.9.0, color-convert@npm:^1.9.3":
   version: 1.9.3
   resolution: "color-convert@npm:1.9.3"
   dependencies:
@@ -6475,7 +6524,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"core-js@npm:^3.34.0, core-js@npm:^3.6.4":
+"core-js@npm:3.34.0, core-js@npm:^3.6.4":
   version: 3.34.0
   resolution: "core-js@npm:3.34.0"
   checksum: 408a77898abe03bf3e5dec2a451c36f4745081cca9022f8bdf9b817d57bb6d3a534d555f47a4b95e1daa5e21dbc79122eac2402e25720d425f5925127e55dcd8
@@ -10135,6 +10184,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"moment@npm:^2.10.2":
+  version: 2.29.4
+  resolution: "moment@npm:2.29.4"
+  checksum: 844c6f3ce42862ac9467c8ca4f5e48a00750078682cc5bda1bc0e50cc7ca88e2115a0f932d65a06e4a90e26cb78892be9b3ca3dd6546ca2c4d994cebb787fc2b
+  languageName: node
+  linkType: hard
+
 "ms@npm:2.1.2":
   version: 2.1.2
   resolution: "ms@npm:2.1.2"
@@ -11093,7 +11149,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"protobufjs@npm:^7.2.4, protobufjs@npm:^7.2.5":
+"protobufjs@npm:7.2.5, protobufjs@npm:^7.2.4":
   version: 7.2.5
   resolution: "protobufjs@npm:7.2.5"
   dependencies:
