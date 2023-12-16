@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-export PKGDIR="$HOME/clientPackage"
+export PKGDIR="$HOME/clientP1"
 
 export SMSDIR="${PKGDIR}/sms-backend"
 export SMSFRONT="${PKGDIR}/client"

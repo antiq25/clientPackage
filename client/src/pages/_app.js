@@ -33,7 +33,6 @@ import { createTheme } from 'src/theme';
 import { createEmotionCache } from 'src/utils/create-emotion-cache';
 import { ReviewsDataProvider } from 'src/components/company_card/ReviewsDataProvider';
 import { SelectedCompanyProvider } from 'src/contexts/reviews/SelectedCompanyContext';
-import { Api, Reviews } from '@mui/icons-material';
 
 
 const clientSideEmotionCache = createEmotionCache();
@@ -49,7 +48,7 @@ const CustomApp = (props) => {
   return (
     <CacheProvider value={emotionCache}>
       <Head>
-        <title>Devias Kit PRO</title>
+        <title>Show My Service</title>
         <meta
           name="viewport"
           content="initial-scale=1, width=device-width"

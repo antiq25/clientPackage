@@ -10,7 +10,7 @@ const WidgetsList = () => {
 
   const fetchUserWidgets = async () => {
     try {
-      const response = await axios.get(`https://smart.aliveai.net/scrape/user-widgets`, {
+      const response = await axios.get(`http://localhost:3002/scrape/user-widgets`, {
         headers: {
           Authorization: `Bearer ${localStorage.getItem('token')}`,
         },

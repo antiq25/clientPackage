@@ -11,7 +11,7 @@ export const paths = {
   serverError: '/500',
   trends: 'trends',
   billing: '/billing',
-  map: '/map',
+  businesses: '/businesses',
   pixel: '/pixel',
   docs: 'docs',
   widget: '/widget',

@@ -219,8 +219,8 @@ export const TopNav = (props) => {
           spacing={2}
         >
           <LanguageSwitch />
-          <NotificationsButton />
-          <ContactsButton />
+          {/* <NotificationsButton />
+          <ContactsButton /> */}
           <AccountButton />
         </Stack>
       </Stack>

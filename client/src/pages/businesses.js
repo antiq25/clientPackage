@@ -22,6 +22,7 @@ import { paths } from 'src/paths';
 import { useSettings } from 'src/hooks/use-settings'; 
 import BusinessNamesList from 'src/components/company_card/companycard';
 import { ReviewsDataProvider } from 'src/components/company_card/ReviewsDataProvider';
+import { ApiProvider  } from 'src/components/company_card/ApiProvider';  
 
 const useCompanies = () => {
   const isMounted = useMounted();
@@ -57,6 +58,7 @@ const Page = () => {
   useSettings();
 
   return (
+
     <>
       <Seo title="Dashboard: Job Browse" />
       <Box
@@ -124,10 +126,11 @@ const Page = () => {
             sx={{ mt: 4 }}
           >
             <JobListSearch />
-
+            <ApiProvider> 
             <ReviewsDataProvider>
               <BusinessNamesList />
             </ReviewsDataProvider>
+            </ApiProvider>  
 
             <Stack
               alignItems="center"

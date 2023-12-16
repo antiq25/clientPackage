@@ -30,8 +30,8 @@ export const useSections = () => {
             ),
           },
           {
-            title: t(tokens.nav.map),
-            path: paths.map,
+            title: t(tokens.nav.businesses),
+            path: paths.businesses,
             icon: (
               <SvgIcon fontSize="small">
                 <MapIcon />
@@ -39,15 +39,6 @@ export const useSections = () => {
             ),
           },
          
-          {
-            title: t(tokens.nav.pixel),
-            path: paths.dashboard,
-            icon: (
-              <SvgIcon fontSize="small">
-                <PixelIcon />
-              </SvgIcon>
-            ),
-          },
           {
             title: t(tokens.nav.widget),
             path: paths.widget,

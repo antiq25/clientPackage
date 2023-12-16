@@ -30,7 +30,7 @@ const MapSearchDialog = () => {
     setError(null);
     setIsLoading(true);
     try {
-      const response = await axios.get(`https://smart.aliveai.net/collect-reviews`, {
+      const response = await axios.get(`http:/localhost:3002/collect-reviews`, {
         params: {
           companyName: mapSearchQuery,
           companyLocation: mapSearchQuery

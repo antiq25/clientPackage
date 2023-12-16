@@ -26,6 +26,10 @@ import {
   useTheme,
 } from '@mui/material';
 import StarBorderIcon from '@mui/icons-material/StarBorder';
+import PlusIcon from '@untitled-ui/icons-react/build/esm/Plus';
+// - - - - -
+import CreateListingDialog from 'src/components/createListingPopUp';
+// - - - - 
 
 const ReviewsFetcher = () => {
   const theme = useTheme();
@@ -35,6 +39,9 @@ const ReviewsFetcher = () => {
   const [isLoading, setIsLoading] = useState(false);
   const [selectedBusiness, setSelectedBusiness] = useState('');
   const [openDialog, setOpenDialog] = useState(false);
+  const [isCreateListingDialogOpen, setCreateListingDialogOpen] = useState(false);
+  const handleOpenCreateListingDialog = () => setCreateListingDialogOpen(true);
+  const handleCloseCreateListingDialog = () => setCreateListingDialogOpen(false);
 
   useEffect(() => {
     fetchReviews();
@@ -46,11 +53,12 @@ const ReviewsFetcher = () => {
     setError('');
     const token = localStorage.getItem('token');
     try {
-      const response = await fetch('https://smart.aliveai.net/scrape/reviews', { // Updated the URL to a placeholder as 'localhost:3002' is typically used for local APIs
+      const response = await fetch('http://localhost:3002/scrape/reviews', {
+        // Updated the URL to a placeholder as 'localhost:3002' is typically used for local APIs
         method: 'GET',
         headers: {
           'Content-Type': 'application/json',
-          'Authorization': `Bearer ${token}`,
+          Authorization: `Bearer ${token}`,
         },
         credentials: 'include', // Ensure that the backend supports and expects credentials to be sent with requests
       });
@@ -86,10 +94,10 @@ const ReviewsFetcher = () => {
   // };
 
   // No mutli-select component demonstrated in the provided code, so no need to transform 'reviews' into 'businessOptions' and 'uniqueBusinessOptions'
-  
+
   // Map directly to MenuItems and ensure they are unique to avoid duplicate keys
   const uniqueBusinesses = reviews.reduce((unique, review) => {
-    const isDuplicate = unique.some(business => business.name === review.business.name);
+    const isDuplicate = unique.some((business) => business.name === review.business.name);
     if (!isDuplicate) {
       unique.push(review.business);
     }
@@ -102,32 +110,46 @@ const ReviewsFetcher = () => {
 
   return (
     <Box sx={{ flexGrow: 1, p: 2 }}>
-      <Paper elevation={3}
-sx={{ p: 3, borderRadius: 3, bgcolor: 'background.paper' }}>
-        <Grid container
-spacing={3}
-alignItems="center">
-          <Grid item
-xs={12}
-sm={8}>
-            <Typography variant="h5"
-component="h1"
-gutterBottom>
+      <Paper
+        elevation={3}
+        sx={{ p: 3, borderRadius: 3, bgcolor: 'background.paper' }}
+      >
+        <Grid
+          container
+          spacing={3}
+          alignItems="center"
+        >
+          <Grid
+            item
+            xs={12}
+            sm={8}
+          >
+            <Typography
+              variant="h5"
+              component="h1"
+              gutterBottom
+            >
               Reviews Analytics
             </Typography>
             {error && (
-              <Alert severity="error"
-sx={{ my: 2 }}>
+              <Alert
+                severity="error"
+                sx={{ my: 2 }}
+              >
                 {error}
               </Alert>
             )}
           </Grid>
-          <Grid item
-xs={12}
-sm={4}>
-            <Stack direction="row"
-spacing={2}
-justifyContent="flex-end">
+          <Grid
+            item
+            xs={12}
+            sm={4}
+          >
+            <Stack
+              direction="row"
+              spacing={2}
+              justifyContent="flex-end"
+            >
               <Button
                 onClick={fetchReviews}
                 disabled={isLoading}
@@ -137,14 +159,28 @@ justifyContent="flex-end">
               >
                 Refresh Reviews
               </Button>
+              <Button
+                startIcon={<PlusIcon />}
+                variant="contained"
+                onClick={handleOpenCreateListingDialog}
+              >
+                Add New Listing
+              </Button>
+              <CreateListingDialog
+                open={isCreateListingDialogOpen}
+                onClose={handleCloseCreateListingDialog}
+                onCreationSuccess={() => {}}
+              />
             </Stack>
           </Grid>
         </Grid>
 
-        <FormControl fullWidth
-margin="normal"
-variant="outlined"
-sx={{ mt: 3 }}>
+        <FormControl
+          fullWidth
+          margin="normal"
+          variant="outlined"
+          sx={{ mt: 3 }}
+        >
           <InputLabel id="business-select-label">Select a Business</InputLabel>
           <Select
             labelId="business-select-label"
@@ -153,8 +189,10 @@ sx={{ mt: 3 }}>
             label="Select a Business"
           >
             {uniqueBusinesses.map((business) => (
-              <MenuItem key={business.name}
-value={business.name}>
+              <MenuItem
+                key={business.name}
+                value={business.name}
+              >
                 {business.name}
               </MenuItem>
             ))}
@@ -170,10 +208,14 @@ value={business.name}>
           <DialogTitle id="responsive-dialog-title">{selectedBusiness}</DialogTitle>
           <DialogContent dividers>
             {selectedBusinessDetails.length > 0 && (
-              <Fade in={openDialog}
-timeout={500}>
+              <Fade
+                in={openDialog}
+                timeout={500}
+              >
                 <iframe
-                  src={`https://www.google.com/maps?q=${encodeURIComponent(selectedBusinessDetails[0].business.address)}&output=embed`}
+                  src={`https://www.google.com/maps?q=${encodeURIComponent(
+                    selectedBusinessDetails[0].business.address
+                  )}&output=embed`}
                   width="100%"
                   height="300"
                   frameBorder="0" // Use frameBorder instead of style for the border
@@ -199,8 +241,10 @@ timeout={500}>
             </List>
           </DialogContent>
           <DialogActions>
-            <Button autoFocus
-onClick={handleCloseDialog}>
+            <Button
+              autoFocus
+              onClick={handleCloseDialog}
+            >
               Close
             </Button>
           </DialogActions>

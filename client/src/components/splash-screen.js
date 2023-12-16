@@ -1,8 +1,10 @@
 import Box from '@mui/material/Box';
+import { useTheme } from '@mui/system';
 
-import { Logo } from 'src/components/logo';
+import { Logo } from 'src/components/logo1';
 
 export const SplashScreen = () => (
+
   <Box
     sx={{
       alignItems: 'center',

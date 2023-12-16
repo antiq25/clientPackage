@@ -4,6 +4,15 @@ import dynamic from 'next/dynamic';
 import { useSelectedCompany } from 'src/contexts/reviews/SelectedCompanyContext';
 import { useReviews } from 'src/components/company_card/ReviewsDataProvider';
 
+
+import Box from '@mui/material/Box';
+import Card from '@mui/material/Card';
+import CardContent from '@mui/material/CardContent';
+import CardHeader from '@mui/material/CardHeader';
+import IconButton from '@mui/material/IconButton';
+import DotsHorizontalIcon from '@mui/icons-material/MoreHoriz';
+import { Scrollbar } from 'src/components/scrollbar';
+
 const ApexChart = dynamic(() => import('react-apexcharts'), { ssr: false });
 
 const TopCompaniesChart = () => {
@@ -96,14 +105,46 @@ const TopCompaniesChart = () => {
   };
 
   return (
-    <div>
+    <>
+      <Box
+      sx={{
+        backgroundColor: theme.palette.mode === 'dark' ? 'neutral.800' : 'neutral.100',
+        p: 3,
+      }}
+    >
+      <Card>
+        <CardHeader
+          action={
+            <IconButton>
+              <DotsHorizontalIcon />
+            </IconButton>
+          }
+          title={'Average Rating Over Time'}
+        />
+        <CardContent>
+          <Scrollbar>
+            <Box
+              sx={{
+                height: 375,
+                minWidth: 500,
+                position: 'relative',
+              }}
+            >
+
       <ApexChart
         options={chartOptions}
         series={chartSeries}
         type="bar"
         height={350}
       />
-    </div>
+      
+          </Box>
+          </Scrollbar>
+        </CardContent>
+      </Card>
+    </Box>
+    </>
+  
   );
 };
 

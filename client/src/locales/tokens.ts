@@ -3,13 +3,10 @@ export const tokens = {
     languageChanged: 'common.languageChanged',
   },
   nav: {
-    dashboard: 'Settings',
-    business: 'Business',
+    dashboard: 'Dashboard',
     billing: 'Billing',
-    map: 'Map',
-    trends: 'Trends',
-    pixel: 'Pixel',
+    businesses: 'Businesses',
     widget: 'Widget',
-    overview: 'Overview',
+    overview: 'Overview', 
   },
 };
