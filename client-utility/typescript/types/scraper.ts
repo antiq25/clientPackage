@@ -1,7 +1,7 @@
 import axios, { AxiosResponse } from 'axios';
 
 const crawlClient = axios.create({
-  baseURL: "http://localhost:3002/api/v1",
+  baseURL: "https://database.aliveai.net/api/v1",
   headers: {
     "Content-Type": "application/json",
     "Access-Control-Allow-Origin": "http://localhost:8080",

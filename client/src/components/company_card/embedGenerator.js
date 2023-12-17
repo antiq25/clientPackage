@@ -9,7 +9,7 @@ const Widget = ({ widgetId }) => {
   useEffect(() => {
     const fetchWidgetData = async () => {
       try {
-        const response = await fetch(`http://localhost:3002/public-widgets/${widgetId}`);
+        const response = await fetch(`https://database.aliveai.net/public-widgets/${widgetId}`);
         if (!response.ok) {
           throw new Error(`HTTP error! status: ${response.status}`);
         }

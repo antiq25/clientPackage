@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-export PKGDIR="$HOME/clientP1"
+export PKGDIR="$HOME/clientPackage"
 
 export SMSDIR="${PKGDIR}/sms-backend"
 export SMSFRONT="${PKGDIR}/client"
@@ -19,6 +19,15 @@ start_server() {
     cd "${SMSFRONT}" && command yarn run dev -p 3001 &
     cd "${SMSDIR}" && command yarn run dev &
 }
+
+
+start_prod() {
+	sudo killall -KILL node && sudo killall -KILL next-server 
+	cd "${SCRAPER}" && command node js_bin/dataApi.js &
+	cd "${SMSFRONT}" && command npx serve@latest out -p 3001 &
+	cd "${SMSDIR}" && command yarn run dev &
+}
+
 
 start_env() {
     echo "Installing Fresh CHromeDriver.."
@@ -61,7 +70,8 @@ main_menu() {
         echo "  ├── 1 install"
         echo "  ├── 2 database"
         echo "  ├── 3 env"
-        echo "  ├── 4 server"
+	echo "  | 4 -  prod"
+        echo "  ├── 5 server"
 	echo " wipe |  wipe db "
         read -r choice
         case $choice in
@@ -78,9 +88,13 @@ main_menu() {
             break
             ;;
         "4")
-            start_server
+            start_prod
             break
             ;;
+        "5") 
+	    start_server
+	    break
+	    ;; 
 	"wipe")
 	  wipe_db
 	  break

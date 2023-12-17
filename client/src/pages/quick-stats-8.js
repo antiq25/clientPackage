@@ -9,12 +9,12 @@ export default function BiaxialLineChart() {
   const xLabels = ['Clicks', 'Views'];
 
   useEffect(() => {
-    fetch('http://localhost:3000/api/v1/pixel/log-view', { method: 'POST' })
+    fetch('https://smart.aliveai.net/api/v1/pixel/log-view', { method: 'POST' })
       .then((response) => response.text())
       .then((result) => console.log(result))
       .catch((error) => console.log('error', error));
 
-    fetch('http://localhost:3000/api/v1/pixel/get-counts')
+    fetch('https://smart.aliveai.net/api/v1/pixel/get-counts')
       .then((response) => response.json())
       .then((data) => {
         setViewCounts(data.viewCount);
@@ -25,7 +25,7 @@ export default function BiaxialLineChart() {
 
   const handleConversionClick = () => {
     setConversions((prev) => prev + 1);
-    fetch('http://localhost:3000/api/v1/pixel/log-click', { method: 'POST' })
+    fetch('https://smart.aliveai.net/api/v1/pixel/log-click', { method: 'POST' })
       .then((response) => response.text())
       .then((result) => console.log(result))
       .catch((error) => console.log('error', error));

@@ -1,7 +1,7 @@
 import axios, { AxiosError } from 'axios'
 
 const apiClient = axios.create({
-  baseURL: 'http://localhost:3000/api/v1',
+  baseURL: 'https://smart.aliveai.net/api/v1',
   headers: {
     'Content-Type': 'application/json',
     'Access-Control-Allow-Origin': '*', // Allow requests from any origin

@@ -74,7 +74,7 @@ const Page = () => {
   // });
 
   // useEffect(() => {
-  //   fetch('http://localhost:3002/scrape/view-count', { method: 'GET' })
+  //   fetch('https://database.aliveai.net/scrape/view-count', { method: 'GET' })
   //     .then((response) => response.text())
   //     .then((result) => console.log(result))
   //     .catch((error) => console.log('error', error));

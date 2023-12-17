@@ -24,7 +24,7 @@ const generateMessage = (messageType, type, message) =>
   `[${messageType.toUpperCase()}] ${type}: ${message}`;
 
 const apiClient = axios.create({
-  baseURL: 'http://localhost:3000/api/v1',
+  baseURL: 'https://smart.aliveai.net/api/v1',
   headers: {
     'Content-Type': 'application/json',
     // 'Access-Control-Allow-Origin': '*',
@@ -125,7 +125,7 @@ const smsAPI = {
 };
 
 const crawlClient = axios.create({
-  baseURL: 'http://localhost:3002/scrape',
+  baseURL: 'https://database.aliveai.net/scrape',
   headers: {
     'Access-Control-Allow-Methods': 'GET, POST, PUT, DELETE',
     'Access-Control-Allow-Headers': 'Content-Type, Authorization',

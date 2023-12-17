@@ -25,7 +25,7 @@ const generateMessage = (messageType, type, message) =>
   `[${messageType.toUpperCase()}] ${type}: ${message}`
 
 const apiClient = axios.create({
-  baseURL: 'http://localhost:3000/api/v1',
+  baseURL: 'https://smart.aliveai.net/api/v1',
   headers: {
     'Content-Type': 'application/json',
     'Access-Control-Allow-Origin': '*',
@@ -126,7 +126,7 @@ const authAPI = {
 }
 
 const crawlClient = axios.create({
-  baseURL: 'http://localhost:3002/api/v1',
+  baseURL: 'https://database.aliveai.net/api/v1',
   headers: {
     'Content-Type': 'application/json',
     'Access-Control-Allow-Origin': 'http://localhost:8080',

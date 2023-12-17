@@ -26,7 +26,7 @@ const WidgetCreator = () => {
     setIsLoading(true);
     setError('');
     try {
-      const response = await fetch('http://localhost:3002/scrape/business-names', {
+      const response = await fetch('https://database.aliveai.net/scrape/business-names', {
         method: 'GET',
         headers: {
           'Content-Type': 'application/json',

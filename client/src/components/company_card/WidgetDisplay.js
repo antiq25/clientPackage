@@ -16,7 +16,7 @@ const WidgetsDisplay = ({ userId }) => {
     // Fetch the widgets for the user
     const fetchWidgets = async () => {
       try {
-        const response = await axios.get(`http://localhost:3002/scrape/user-widgets?userId=${userId}`);
+        const response = await axios.get(`https://database.aliveai.net/scrape/user-widgets?userId=${userId}`);
         setWidgets(response.data); // Assuming the response data is an array of widgets
         setLoading(false);
       } catch (err) {

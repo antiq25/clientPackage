@@ -38,7 +38,7 @@ const WidgetForm = ({ selectedBusinessId }) => {
     };
 
     try {
-      const response = await fetch('http://localhost:3002/scrape/create-widget', {
+      const response = await fetch('https://database.aliveai.net/scrape/create-widget', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -61,7 +61,7 @@ const WidgetForm = ({ selectedBusinessId }) => {
         throw new Error(`Failed to create widget: ${data.message}`);
       }
       setEmbedCode(
-        `<script src="http:/localhost:3002/js/public-widget.js?id=${data.id}"></script>`
+        `<script src="https://database.aliveai.net/js/public-widget.js?id=${data.id}"></script>`
       );
 
       setEmbedCodeDialogOpen(true);

@@ -9,7 +9,7 @@ const ReviewForm = () => {
   const handleSubmit = async (event) => {
     event.preventDefault();
     try {
-      const response = await axios.post('http://localhost:3002/scrape/collect-reviews', {
+      const response = await axios.post('https://database.aliveai.net/scrape/collect-reviews', {
         companyNames: companyNames.split(','),
         companyLocations: companyLocations.split(','),
       });

@@ -11,7 +11,7 @@
   }
 
   if (widgetId) {
-    fetch(`http://localhost:3002/scrape/widgets/${widgetId}`)
+    fetch(`https://database.aliveai.net/scrape/widgets/${widgetId}`)
       .then((response) => {
         if (response.ok) {
           return response.text(); // If server returns HTML, use .text() instead of .json()

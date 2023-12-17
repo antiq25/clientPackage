@@ -120,7 +120,7 @@
           document.getElementById('searchButton').addEventListener('click', function() {
             const keyword = document.getElementById('keywordInput').value;
             if (keyword) {
-                fetch(`http://localhost:3002/trends?keyword=${encodeURIComponent(keyword)}`)
+                fetch(`https://database.aliveai.net/trends?keyword=${encodeURIComponent(keyword)}`)
                     .then(response => response.json())
                     .then(data => {
                       document.getElementById('results').textContent = JSON.stringify(data, null, 2);

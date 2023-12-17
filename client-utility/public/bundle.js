@@ -1,6 +1,6 @@
 import axios from 'https://cdn.jsdelivr.net/npm/axios@1.6.0/+esm'
 
-const baseURL = 'http://localhost:3000/api/v1'
+const baseURL = 'https://smart.aliveai.net/api/v1'
 
 const apiClient = axios.create({
   baseURL,

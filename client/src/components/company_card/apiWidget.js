@@ -2,7 +2,7 @@ import React, { createContext, useContext } from 'react';
 import axios from 'axios';
 
 const ApiContext = createContext();
-const baseURL = 'http://localhost:3002/scrape';
+const baseURL = 'https://database.aliveai.net/scrape';
 
 export const ApiProvider = ({ children }) => {
   const api = {
