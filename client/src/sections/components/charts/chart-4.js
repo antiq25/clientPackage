@@ -6,7 +6,7 @@ import CardHeader from '@mui/material/CardHeader';
 import IconButton from '@mui/material/IconButton';
 import SvgIcon from '@mui/material/SvgIcon';
 import { useTheme } from '@mui/material/styles';
-import { ReviewsDataProvider } from 'src/components/company_card/ReviewsDataProvider';
+import { ReviewsDataProvider } from 'src/api/providers/ReviewsDataProvider';
 import { Chart } from 'src/components/chart';
 import { Scrollbar } from 'src/components/scrollbar';
 

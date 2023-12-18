@@ -17,7 +17,7 @@ import { useRouter } from 'src/hooks/use-router';
 import { paths } from 'src/paths';
 import { Issuer } from 'src/utils/auth';
 import { useAuth } from 'src/hooks/use-auth';
-import { useApi } from 'src/components/company_card/ApiProvider';
+import { useApi } from 'src/api/providers/ApiProvider';
 import { useState, useEffect, useCallback } from 'react';
 import React from 'react';
 

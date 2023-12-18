@@ -111,7 +111,7 @@ export const CompanyCard = (props) => {
                     noWrap
                     variant="overline"
                   >
-                    Verified
+                    Tracking
                   </Typography>
                 </Stack>
               )}

@@ -9,7 +9,7 @@ import DotsHorizontalIcon from '@mui/icons-material/MoreHoriz';
 import { Chart } from 'src/components/chart';
 import { Scrollbar } from 'src/components/scrollbar';
 import { useSelectedCompany } from 'src/contexts/reviews/SelectedCompanyContext';
-import { useReviews } from 'src/components/company_card/ReviewsDataProvider';
+import { useReviews } from 'src/api/providers/ReviewsDataProvider';
 
 export const Chart4 = () => {
   const theme = useTheme();
@@ -25,15 +25,18 @@ export const Chart4 = () => {
       let businessName = 'All Businesses';
 
       if (selectedCompanyId) {
-        filteredReviews = reviews.filter(review => review.businessId === selectedCompanyId);
-        const selectedBusiness = reviews.find(review => review.businessId === selectedCompanyId);
+        filteredReviews = reviews.filter((review) => review.businessId === selectedCompanyId);
+        const selectedBusiness = reviews.find((review) => review.businessId === selectedCompanyId);
         businessName = selectedBusiness ? selectedBusiness.business.name : 'Selected Business';
       }
 
       setSelectedBusinessName(businessName);
 
       const ratingsByMonth = filteredReviews.reduce((acc, review) => {
-        const monthYear = new Date(review.publishedAt).toLocaleString('default', { month: 'short', year: 'numeric' });
+        const monthYear = new Date(review.publishedAt).toLocaleString('default', {
+          month: 'short',
+          year: 'numeric',
+        });
         if (!acc[monthYear]) {
           acc[monthYear] = [];
         }
@@ -42,9 +45,11 @@ export const Chart4 = () => {
       }, {});
 
       const sortedMonths = Object.keys(ratingsByMonth).sort((a, b) => new Date(a) - new Date(b));
-      const chartData = sortedMonths.map(monthYear => {
+      const chartData = sortedMonths.map((monthYear) => {
         const ratings = ratingsByMonth[monthYear];
-        const averageRating = (ratings.reduce((sum, rating) => sum + rating, 0) / ratings.length).toFixed(2); // Format to two decimal places
+        const averageRating = (
+          ratings.reduce((sum, rating) => sum + rating, 0) / ratings.length
+        ).toFixed(2); // Format to two decimal places
         return parseFloat(averageRating); // Convert string back to float
       });
 
@@ -126,7 +131,7 @@ export const Chart4 = () => {
         {
           name: 'Average Rating',
           data: chartData,
-        }
+        },
       ]);
     }
   }, [selectedCompanyId, reviews, theme]);

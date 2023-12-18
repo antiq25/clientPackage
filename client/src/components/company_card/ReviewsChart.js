@@ -1,6 +1,6 @@
 import React from 'react';
 import { useEffect } from 'react';
-import { useReviews, useBusinessNames } from 'src/components/company_card/ReviewsDataProvider';
+import { useReviews, useBusinessNames } from 'src/api/providers/ReviewsDataProvider';
 import { Bar } from 'react-chartjs-2';
 import fetchReviews from './fetchReview';
 

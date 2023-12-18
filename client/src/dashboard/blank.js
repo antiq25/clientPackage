@@ -1,49 +1,87 @@
-import React, { useState, useEffect } from 'react';
+import PlusIcon from '@untitled-ui/icons-react/build/esm/Plus';
+import Box from '@mui/material/Box';
+import Button from '@mui/material/Button';
+import Container from '@mui/material/Container';
+import Stack from '@mui/material/Stack';
+import SvgIcon from '@mui/material/SvgIcon';
+import Typography from '@mui/material/Typography';
 
-const Widget = ({ widgetId }) => {
-  const [widgetData, setWidgetData] = useState(null);
-  const [loading, setLoading] = useState(true);
-  const [error, setError] = useState(null);
+import { Seo } from 'src/src2/components/seo';
+import { usePageView } from 'src/src2/hooks/use-page-view';
+import { useSettings } from 'src/src2/hooks/use-settings';
+import { Layout as DashboardLayout } from 'src/src2/layouts/dashboard';
+import WidgetData from 'src/components/company_card/widgets/DisplayWidgets';
+import WidgetDataProvider from 'src/api/providers/widgetDataProvider';
 
-  // Fetch widget data from the server
-  useEffect(() => {
-    const fetchWidgetData = async () => {
-      try {
-        const response = await fetch(`https://database.aliveai.net/public-widgets/${widgetId}`);
-        if (!response.ok) {
-          throw new Error(`HTTP error! status: ${response.status}`);
-        }
-        const data = await response.json();
-        setWidgetData(data);
-      } catch (e) {
-        setError(e.message);
-      } finally {
-        setLoading(false);
-      }
-    };
+const Page = () => {
+  const settings = useSettings();
+  
 
-    if (widgetId) {
-      fetchWidgetData();
-    }
-  }, [widgetId]);
 
-  // Render loading, error, or the widget
-  if (loading) return <div>Loading...</div>;
-  if (error) return <div>Error: {error}</div>;
-  if (!widgetData) return <div>No widget data available.</div>;
+  usePageView();
 
-  // Assuming 'settings' and 'htmlContent' are properties of the widget data returned by your API
   return (
-    <div
-      id={`widget_${widgetId}`}
-      style={{ border: '1px solid #000', padding: '10px', width: '300px' }}
-    >
-      <div dangerouslySetInnerHTML={{ __html: widgetData.settings.htmlContent }} />
-      <button onClick={() => (window.location.href = 'https://the-target-website.com')}>
-        Visit Website
-      </button>
-    </div>
+    <>
+    <WidgetDataProvider>
+      <Seo title="Dashboard: Blank" />
+      <Box
+        component="main"
+        sx={{
+          flexGrow: 1,
+          py: 8,
+        }}
+      >
+        <Container maxWidth={settings.stretch ? false : 'xl'}>
+          <Stack
+            spacing={{
+              xs: 3,
+              lg: 4,
+            }}
+          >
+            <Stack
+              direction="row"
+              justifyContent="space-between"
+              spacing={4}
+            >
+              <div>
+                <Typography variant="h4">Blank</Typography>
+              </div>
+              <div>
+                <WidgetData widget />  
+                <Stack
+                  direction="row"
+                  spacing={4}
+                >
+                  <Button
+                    startIcon={
+                      <SvgIcon>
+                        <PlusIcon />
+                      </SvgIcon>
+                    }
+                    variant="contained"
+                  >
+                    Action
+                  </Button>
+                </Stack>
+              </div>
+            </Stack>
+            <Box
+              sx={{
+                borderColor: 'neutral.300',
+                borderStyle: 'dashed',
+                borderWidth: 1,
+                height: 300,
+                p: '4px',
+              }}
+            />
+          </Stack>
+        </Container>
+      </Box>
+      </WidgetDataProvider> 
+    </>
   );
 };
 
-export default Widget;
+Page.getLayout = (page) => <DashboardLayout>{page}</DashboardLayout>;
+
+export default Page;

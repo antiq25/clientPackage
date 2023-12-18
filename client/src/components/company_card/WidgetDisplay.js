@@ -4,9 +4,6 @@ import WidgetTracker from './WidgetTracker';
 
 
 
-
-
-
 const WidgetsDisplay = ({ userId }) => {
   const [widgets, setWidgets] = useState([]);
   const [loading, setLoading] = useState(true);

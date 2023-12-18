@@ -17,7 +17,7 @@ import { LocalizationProvider } from '@mui/x-date-pickers/LocalizationProvider';
 import 'src/global.css';
 // Remove if locales are not used
 import 'src/locales/i18n';
-import { ApiProvider } from 'src/components/company_card/ApiProvider';
+import { ApiProvider } from 'src/api/providers/ApiProvider';
 import { RTL } from 'src/components/rtl';
 import { SplashScreen } from 'src/components/splash-screen';
 import { SettingsButton } from 'src/components/settings/settings-button';
@@ -31,7 +31,7 @@ import { useNprogress } from 'src/hooks/use-nprogress';
 import { store } from 'src/store';
 import { createTheme } from 'src/theme';
 import { createEmotionCache } from 'src/utils/create-emotion-cache';
-import { ReviewsDataProvider } from 'src/components/company_card/ReviewsDataProvider';
+import { ReviewsDataProvider } from 'src/api/providers/ReviewsDataProvider';
 import { SelectedCompanyProvider } from 'src/contexts/reviews/SelectedCompanyContext';
 
 

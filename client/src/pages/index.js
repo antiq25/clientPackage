@@ -14,10 +14,10 @@ import { usePageView } from 'src/hooks/use-page-view';
 import { useSettings } from 'src/hooks/use-settings';
 import { Layout as DashboardLayout } from 'src/layouts/dashboard';
 import FetchedReviews from 'src/components/fetchReview';
-import { ApiProvider } from 'src/components/company_card/ApiProvider';
+import { ApiProvider } from 'src/api/providers/ApiProvider';
 import TopCompaniesChart from './ratingcard';
 import { Chart4 } from 'src/components/company_card/chart/chart2';
-import { ReviewsDataProvider } from 'src/components/company_card/ReviewsDataProvider';
+import { ReviewsDataProvider } from 'src/api/providers/ReviewsDataProvider';
 import { SelectedCompanyProvider } from 'src/contexts/reviews/SelectedCompanyContext';
 
 const Page = () => {

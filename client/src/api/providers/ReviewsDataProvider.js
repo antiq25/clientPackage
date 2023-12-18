@@ -1,5 +1,5 @@
 import React, { createContext, useContext, useState, useEffect } from 'react';
-import { useApi } from 'src/components/company_card/ApiProvider';
+import { useApi } from 'src/api/providers/ApiProvider';
 
 const ReviewsContext = createContext();
 

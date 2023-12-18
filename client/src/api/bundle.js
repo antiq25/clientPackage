@@ -248,10 +248,10 @@ const crawler = {
       'Get widget successful',
       'Get widget failed'
     ),
-  getUserWidgets: () =>
+  getUserWidgets: (userId) =>
     crawlCall(
       'getUserWidgets',
-      () => crawlClient.get('/user-widgets'),
+      () => crawlClient.get('/user-widgets', { params: { userId } }),
       'Get user widgets successful',
       'Get user widgets failed'
     ),
@@ -299,8 +299,8 @@ const crawl = {
   getWidget: (userId, businessId) => {
     return crawler.getWidget(userId, businessId);
   },
-  userWidgets: () => {
-    return crawler.getUserWidgets();
+  userWidgets: (userId) => {
+    return crawler.getUserWidgets(userId);
   },
   publicWidgets: (widgetId) => {
     return crawler.getPublicWidgets(widgetId);

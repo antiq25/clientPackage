@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 import { useTheme } from '@mui/material/styles';
 import dynamic from 'next/dynamic';
 import { useSelectedCompany } from 'src/contexts/reviews/SelectedCompanyContext';
-import { useReviews } from 'src/components/company_card/ReviewsDataProvider';
+import { useReviews } from 'src/api/providers/ReviewsDataProvider';
 
 
 import Box from '@mui/material/Box';

@@ -2,7 +2,7 @@ import React from 'react';
 import CircularProgress from '@mui/material/CircularProgress';
 import Typography from '@mui/material/Typography';
 import Box from '@mui/material/Box';
-import { useReviews } from 'src/components/company_card/ReviewsDataProvider';
+import { useReviews } from 'src/api/providers/ReviewsDataProvider';
 import { CompanyCard } from 'src/sections/dashboard/jobs/company-card';
 
 const BusinessNamesList = () => {
